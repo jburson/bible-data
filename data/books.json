@@ -1,0 +1,596 @@
+[
+    {
+        "id": 1,
+        "book": "Genesis",
+        "testament": "old",
+        "section": "Torah",
+        "abbrev": "ge",
+        "numChapters": 50,
+        "abbrevYouversion": "GEN"
+    },
+    {
+        "id": 2,
+        "book": "Exodus",
+        "testament": "old",
+        "section": "Torah",
+        "abbrev": "ex",
+        "numChapters": 40,
+        "abbrevYouversion": "EXO"
+    },
+    {
+        "id": 3,
+        "book": "Leviticus",
+        "testament": "old",
+        "section": "Torah",
+        "abbrev": "le",
+        "numChapters": 27,
+        "abbrevYouversion": "LEV"
+    },
+    {
+        "id": 4,
+        "book": "Numbers",
+        "testament": "old",
+        "section": "Torah",
+        "abbrev": "nu",
+        "numChapters": 36,
+        "abbrevYouversion": "NUM"
+    },
+    {
+        "id": 5,
+        "book": "Deuteronomy",
+        "testament": "old",
+        "section": "Torah",
+        "abbrev": "de",
+        "numChapters": 34,
+        "abbrevYouversion": "DEU"
+    },
+    {
+        "id": 6,
+        "book": "Joshua",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "jos",
+        "numChapters": 24,
+        "abbrevYouversion": "JOS"
+    },
+    {
+        "id": 7,
+        "book": "Judges",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "jud",
+        "numChapters": 21,
+        "abbrevYouversion": "JDG"
+    },
+    {
+        "id": 8,
+        "book": "Ruth",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "ru",
+        "numChapters": 4,
+        "abbrevYouversion": "RUT"
+    },
+    {
+        "id": 9,
+        "book": "1 Samuel",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "1sa",
+        "numChapters": 31,
+        "abbrevYouversion": "1SA"
+    },
+    {
+        "id": 10,
+        "book": "2 Samuel",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "2sa",
+        "numChapters": 24,
+        "abbrevYouversion": "2SA"
+    },
+    {
+        "id": 11,
+        "book": "1 Kings",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "1ki",
+        "numChapters": 22,
+        "abbrevYouversion": "1KI"
+    },
+    {
+        "id": 12,
+        "book": "2 Kings",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "2ki",
+        "numChapters": 25,
+        "abbrevYouversion": "2KI"
+    },
+    {
+        "id": 13,
+        "book": "1 Chronicles",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "1ch",
+        "numChapters": 29,
+        "abbrevYouversion": "1CH"
+    },
+    {
+        "id": 14,
+        "book": "2 Chronicles",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "2ch",
+        "numChapters": 36,
+        "abbrevYouversion": "2CH"
+    },
+    {
+        "id": 15,
+        "book": "Ezra",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "ezr",
+        "numChapters": 10,
+        "abbrevYouversion": "EZR"
+    },
+    {
+        "id": 16,
+        "book": "Nehemiah",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "ne",
+        "numChapters": 13,
+        "abbrevYouversion": "NEH"
+    },
+    {
+        "id": 17,
+        "book": "Esther",
+        "testament": "old",
+        "section": "Navim",
+        "abbrev": "es",
+        "numChapters": 10,
+        "abbrevYouversion": "EST"
+    },
+    {
+        "id": 18,
+        "book": "Job",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "job",
+        "numChapters": 42,
+        "abbrevYouversion": "JOB"
+    },
+    {
+        "id": 19,
+        "book": "Psalm",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "ps",
+        "numChapters": 150,
+        "abbrevYouversion": "PSA"
+    },
+    {
+        "id": 20,
+        "book": "Proverbs",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "pr",
+        "numChapters": 31,
+        "abbrevYouversion": "PRO"
+    },
+    {
+        "id": 21,
+        "book": "Ecclesiastes",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "ec",
+        "numChapters": 12,
+        "abbrevYouversion": "ECC"
+    },
+    {
+        "id": 22,
+        "book": "Song of Solomon",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "so",
+        "numChapters": 8,
+        "abbrevYouversion": "SNG"
+    },
+    {
+        "id": 23,
+        "book": "Isaiah",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "isa",
+        "numChapters": 66,
+        "abbrevYouversion": "ISA"
+    },
+    {
+        "id": 24,
+        "book": "Jeremiah",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "jer",
+        "numChapters": 52,
+        "abbrevYouversion": "JER"
+    },
+    {
+        "id": 25,
+        "book": "Lamentations",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "la",
+        "numChapters": 5,
+        "abbrevYouversion": "LAM"
+    },
+    {
+        "id": 26,
+        "book": "Ezekiel",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "eze",
+        "numChapters": 48,
+        "abbrevYouversion": "EZK"
+    },
+    {
+        "id": 27,
+        "book": "Daniel",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "da",
+        "numChapters": 12,
+        "abbrevYouversion": "DAN"
+    },
+    {
+        "id": 28,
+        "book": "Hosea",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "ho",
+        "numChapters": 14,
+        "abbrevYouversion": "HOS"
+    },
+    {
+        "id": 29,
+        "book": "Joel",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "joe",
+        "numChapters": 3,
+        "abbrevYouversion": "JOL"
+    },
+    {
+        "id": 30,
+        "book": "Amos",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "am",
+        "numChapters": 9,
+        "abbrevYouversion": "AMO"
+    },
+    {
+        "id": 31,
+        "book": "Obadiah",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "ob",
+        "numChapters": 1,
+        "abbrevYouversion": "OBA"
+    },
+    {
+        "id": 32,
+        "book": "Jonah",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "jon",
+        "numChapters": 4,
+        "abbrevYouversion": "JON"
+    },
+    {
+        "id": 33,
+        "book": "Micah",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "mic",
+        "numChapters": 7,
+        "abbrevYouversion": "MIC"
+    },
+    {
+        "id": 34,
+        "book": "Nahum",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "na",
+        "numChapters": 3,
+        "abbrevYouversion": "NAM"
+    },
+    {
+        "id": 35,
+        "book": "Habakkuk",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "hab",
+        "numChapters": 3,
+        "abbrevYouversion": "HAB"
+    },
+    {
+        "id": 36,
+        "book": "Zephaniah",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "zep",
+        "numChapters": 3,
+        "abbrevYouversion": "ZEP"
+    },
+    {
+        "id": 37,
+        "book": "Haggai",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "hag",
+        "numChapters": 2,
+        "abbrevYouversion": "HAG"
+    },
+    {
+        "id": 38,
+        "book": "Zechariah",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "zec",
+        "numChapters": 14,
+        "abbrevYouversion": "ZEC"
+    },
+    {
+        "id": 39,
+        "book": "Malachi",
+        "testament": "old",
+        "section": "Katavim",
+        "abbrev": "mal",
+        "numChapters": 4,
+        "abbrevYouversion": "MAL"
+    },
+    {
+        "id": 40,
+        "book": "Matthew",
+        "testament": "new",
+        "section": "Historical",
+        "abbrev": "mt",
+        "numChapters": 28,
+        "abbrevYouversion": "MAT"
+    },
+    {
+        "id": 41,
+        "book": "Mark",
+        "testament": "new",
+        "section": "Historical",
+        "abbrev": "mr",
+        "numChapters": 16,
+        "abbrevYouversion": "MRK"
+    },
+    {
+        "id": 42,
+        "book": "Luke",
+        "testament": "new",
+        "section": "Historical",
+        "abbrev": "lu",
+        "numChapters": 24,
+        "abbrevYouversion": "LUK"
+    },
+    {
+        "id": 43,
+        "book": "John",
+        "testament": "new",
+        "section": "Historical",
+        "abbrev": "joh",
+        "numChapters": 21,
+        "abbrevYouversion": "JHN"
+    },
+    {
+        "id": 44,
+        "book": "Acts",
+        "testament": "new",
+        "section": "Historical",
+        "abbrev": "ac",
+        "numChapters": 28,
+        "abbrevYouversion": "ACT"
+    },
+    {
+        "id": 45,
+        "book": "Romans",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "ro",
+        "numChapters": 16,
+        "abbrevYouversion": "ROM"
+    },
+    {
+        "id": 46,
+        "book": "1 Corinthians",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "1co",
+        "numChapters": 16,
+        "abbrevYouversion": "1CO"
+    },
+    {
+        "id": 47,
+        "book": "2 Corinthians",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "2co",
+        "numChapters": 13,
+        "abbrevYouversion": "2CO"
+    },
+    {
+        "id": 48,
+        "book": "Galatians",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "ga",
+        "numChapters": 6,
+        "abbrevYouversion": "GAL"
+    },
+    {
+        "id": 49,
+        "book": "Ephesians",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "eph",
+        "numChapters": 6,
+        "abbrevYouversion": "EPH"
+    },
+    {
+        "id": 50,
+        "book": "Philippians",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "php",
+        "numChapters": 4,
+        "abbrevYouversion": "PHP"
+    },
+    {
+        "id": 51,
+        "book": "Colossians",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "col",
+        "numChapters": 4,
+        "abbrevYouversion": "COL"
+    },
+    {
+        "id": 52,
+        "book": "1 Thessalonians",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "1th",
+        "numChapters": 5,
+        "abbrevYouversion": "1TH"
+    },
+    {
+        "id": 53,
+        "book": "2 Thessalonians",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "2th",
+        "numChapters": 3,
+        "abbrevYouversion": "2TH"
+    },
+    {
+        "id": 54,
+        "book": "1 Timothy",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "1ti",
+        "numChapters": 6,
+        "abbrevYouversion": "1TI"
+    },
+    {
+        "id": 55,
+        "book": "2 Timothy",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "2ti",
+        "numChapters": 4,
+        "abbrevYouversion": "2TI"
+    },
+    {
+        "id": 56,
+        "book": "Titus",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "tit",
+        "numChapters": 3,
+        "abbrevYouversion": "TIT"
+    },
+    {
+        "id": 57,
+        "book": "Philemon",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "phm",
+        "numChapters": 1,
+        "abbrevYouversion": "PHM"
+    },
+    {
+        "id": 58,
+        "book": "Hebrews",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "heb",
+        "numChapters": 13,
+        "abbrevYouversion": "HEB"
+    },
+    {
+        "id": 59,
+        "book": "James",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "jas",
+        "numChapters": 5,
+        "abbrevYouversion": "JAS"
+    },
+    {
+        "id": 60,
+        "book": "1 Peter",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "1pe",
+        "numChapters": 5,
+        "abbrevYouversion": "1PE"
+    },
+    {
+        "id": 61,
+        "book": "2 Peter",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "2pe",
+        "numChapters": 3,
+        "abbrevYouversion": "2PE"
+    },
+    {
+        "id": 62,
+        "book": "1 John",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "1jo",
+        "numChapters": 5,
+        "abbrevYouversion": "1JN"
+    },
+    {
+        "id": 63,
+        "book": "2 John",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "2jo",
+        "numChapters": 1,
+        "abbrevYouversion": "2JN"
+    },
+    {
+        "id": 64,
+        "book": "3 John",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "3jo",
+        "numChapters": 1,
+        "abbrevYouversion": "3JN"
+    },
+    {
+        "id": 65,
+        "book": "Jude",
+        "testament": "new",
+        "section": "Epistles",
+        "abbrev": "jude",
+        "numChapters": 1,
+        "abbrevYouversion": "JUD"
+    },
+    {
+        "id": 66,
+        "book": "Revelation",
+        "testament": "new",
+        "section": "Apocalyptic",
+        "abbrev": "re",
+        "numChapters": 22,
+        "abbrevYouversion": "REV"
+    }
+]

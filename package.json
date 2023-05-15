@@ -1,0 +1,12 @@
+{
+  "name": "bible-data",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jburson/bible-data.git"
+  }
+}
