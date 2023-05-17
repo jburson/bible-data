@@ -1,0 +1,42 @@
+[
+    {
+        "o": 21661,
+        "r": "niv:Jeremiah:31:3",
+        "w": 7,
+        "l": {},
+        "t": "31:3*r Or Lord*i has*i appeared*i to*i us*i from*i afar*i",
+        "a": "a"
+    },
+    {
+        "o": 21680,
+        "r": "niv:Jeremiah:31:22",
+        "w": 21,
+        "l": {},
+        "t": "31:22*r Or will*i protect*i",
+        "a": "b"
+    },
+    {
+        "o": 21681,
+        "r": "niv:Jeremiah:31:23",
+        "w": 17,
+        "l": {},
+        "t": "31:23*r Or I*i restore*i their*i fortunes*i",
+        "a": "c"
+    },
+    {
+        "o": 21690,
+        "r": "niv:Jeremiah:31:32",
+        "w": 35,
+        "l": {},
+        "t": "31:32*r Hebrew; Septuagint and Syriac /*i and*i I*i turned*i away*i from*i",
+        "a": "d"
+    },
+    {
+        "o": 21690,
+        "r": "niv:Jeremiah:31:32",
+        "w": 36,
+        "l": {},
+        "t": "31:32*r Or was*i their*i master*i",
+        "a": "e"
+    }
+]

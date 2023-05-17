@@ -1,0 +1,498 @@
+[
+    {
+        "o": 26405,
+        "r": "esv:Matthew:16:1",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 16:1–12*26405; Mark 8:11–21*27362",
+        "a": "a"
+    },
+    {
+        "o": 26405,
+        "r": "esv:Matthew:16:1",
+        "w": 6,
+        "l": {},
+        "c": "John 8:6*29507",
+        "a": "b"
+    },
+    {
+        "o": 26405,
+        "r": "esv:Matthew:16:1",
+        "w": 9,
+        "l": {},
+        "c": "1 Corinthians 1:22*31743; Matthew 12:38*26232",
+        "a": "c"
+    },
+    {
+        "o": 26405,
+        "r": "esv:Matthew:16:1",
+        "w": 15,
+        "l": {},
+        "c": "Luke 11:16*28412; Luke 21:11*28894",
+        "a": "d"
+    },
+    {
+        "o": 26406,
+        "r": "esv:Matthew:16:2",
+        "w": 2,
+        "l": {},
+        "t": "Some manuscripts omit the following words to the end of verse 3",
+        "a": "e"
+    },
+    {
+        "o": 26406,
+        "r": "esv:Matthew:16:2",
+        "w": 2,
+        "l": {},
+        "c": "Luke 12:54–55*28518",
+        "a": "f"
+    },
+    {
+        "o": 26407,
+        "r": "esv:Matthew:16:3",
+        "w": 15,
+        "l": {},
+        "c": "Luke 12:56*28521",
+        "a": "g"
+    },
+    {
+        "o": 26407,
+        "r": "esv:Matthew:16:3",
+        "w": 29,
+        "l": {},
+        "c": "Matthew 12:28*26220; Luke 19:44*28821",
+        "a": "h"
+    },
+    {
+        "o": 26408,
+        "r": "esv:Matthew:16:4",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 12:39*26233",
+        "a": "i"
+    },
+    {
+        "o": 26408,
+        "r": "esv:Matthew:16:4",
+        "w": 22,
+        "l": {},
+        "c": "Matthew 4:13*25867; Matthew 21:17*26601",
+        "a": "j"
+    },
+    {
+        "o": 26411,
+        "r": "esv:Matthew:16:6",
+        "w": 5,
+        "l": {},
+        "c": "Luke 12:1*28458",
+        "a": "k"
+    },
+    {
+        "o": 26411,
+        "r": "esv:Matthew:16:6",
+        "w": 7,
+        "l": {},
+        "c": "1 Corinthians 5:6–8*31827; Galatians 5:9*32627",
+        "a": "l"
+    },
+    {
+        "o": 26413,
+        "r": "esv:Matthew:16:8",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 26:10*26847",
+        "a": "m"
+    },
+    {
+        "o": 26413,
+        "r": "esv:Matthew:16:8",
+        "w": 5,
+        "l": {},
+        "c": "Matthew 6:30*25976",
+        "a": "n"
+    },
+    {
+        "o": 26414,
+        "r": "esv:Matthew:16:9",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 15:16*26376",
+        "a": "o"
+    },
+    {
+        "o": 26414,
+        "r": "esv:Matthew:16:9",
+        "w": 8,
+        "l": {},
+        "c": "Matthew 14:17–21*26336",
+        "a": "p"
+    },
+    {
+        "o": 26415,
+        "r": "esv:Matthew:16:10",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 15:34–38*26397",
+        "a": "q"
+    },
+    {
+        "o": 26416,
+        "r": "esv:Matthew:16:11",
+        "w": 14,
+        "l": {},
+        "c": "Matthew 16:6*26411",
+        "a": "r"
+    },
+    {
+        "o": 26417,
+        "r": "esv:Matthew:16:12",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 17:13*26452",
+        "a": "s"
+    },
+    {
+        "o": 26417,
+        "r": "esv:Matthew:16:12",
+        "w": 17,
+        "l": {},
+        "c": "Matthew 5:20*25907; Matthew 23:3*26690",
+        "a": "t"
+    },
+    {
+        "o": 26419,
+        "r": "esv:Matthew:16:13",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 16:13–16*26419; Mark 8:27–29*27381; Luke 9:18–20*28290",
+        "a": "u"
+    },
+    {
+        "o": 26420,
+        "r": "esv:Matthew:16:14",
+        "w": 4,
+        "l": {},
+        "c": "Matthew 14:2*26320; Mark 6:14*27262; Luke 9:7*28277",
+        "a": "v"
+    },
+    {
+        "o": 26420,
+        "r": "esv:Matthew:16:14",
+        "w": 9,
+        "l": {},
+        "c": "Mark 6:15*27263; Luke 9:8*28278; Matthew 17:10*26448; Mark 9:11*27406; John 1:21*29153",
+        "a": "w"
+    },
+    {
+        "o": 26422,
+        "r": "esv:Matthew:16:16",
+        "w": 2,
+        "l": {},
+        "c": "John 11:27*29683",
+        "a": "x"
+    },
+    {
+        "o": 26422,
+        "r": "esv:Matthew:16:16",
+        "w": 4,
+        "l": {},
+        "c": "Matthew 1:17*25795",
+        "a": "y"
+    },
+    {
+        "o": 26422,
+        "r": "esv:Matthew:16:16",
+        "w": 6,
+        "l": {},
+        "c": "Matthew 14:33*26354",
+        "a": "z"
+    },
+    {
+        "o": 26422,
+        "r": "esv:Matthew:16:16",
+        "w": 9,
+        "l": {},
+        "c": "Deuteronomy 5:26*5534; Joshua 3:10*6450; Psalm 42:2*16073; Jeremiah 10:10*21376; Daniel 6:20*24362; Hosea 1:10*24561; Acts 14:15*30672; 2 Corinthians 3:3*32255; 1 Timothy 4:10*33307",
+        "a": "a"
+    },
+    {
+        "o": 26423,
+        "r": "esv:Matthew:16:17",
+        "w": 3,
+        "l": {},
+        "c": "Matthew 13:16*26264",
+        "a": "b"
+    },
+    {
+        "o": 26423,
+        "r": "esv:Matthew:16:17",
+        "w": 6,
+        "l": {},
+        "c": "John 1:42*29177; John 21:15–17*30099",
+        "a": "c"
+    },
+    {
+        "o": 26423,
+        "r": "esv:Matthew:16:17",
+        "w": 9,
+        "l": {},
+        "c": "1 Corinthians 15:50*32165; Galatians 1:16*32515; Ephesians 6:12*32829; Hebrews 2:14*33578",
+        "a": "d"
+    },
+    {
+        "o": 26423,
+        "r": "esv:Matthew:16:17",
+        "w": 18,
+        "l": {},
+        "c": "1 Corinthians 2:10*31765; 1 Corinthians 12:3*32023; Matthew 11:25*26182; John 6:45*29412",
+        "a": "e"
+    },
+    {
+        "o": 26424,
+        "r": "esv:Matthew:16:18",
+        "w": 3,
+        "l": {},
+        "c": "Matthew 10:2*26108; John 1:42*29177",
+        "a": "f"
+    },
+    {
+        "o": 26424,
+        "r": "esv:Matthew:16:18",
+        "w": 7,
+        "l": {},
+        "c": "Ephesians 2:20*32716; Revelation 21:14*34819; Matthew 7:24*26011",
+        "a": "g"
+    },
+    {
+        "o": 26424,
+        "r": "esv:Matthew:16:18",
+        "w": 10,
+        "l": {},
+        "t": "The Greek words for Peter*i and rock*i sound similar",
+        "a": "h"
+    },
+    {
+        "o": 26424,
+        "r": "esv:Matthew:16:18",
+        "w": 16,
+        "l": {},
+        "c": "Job 38:17*15193; Isaiah 38:10*20468",
+        "a": "i"
+    },
+    {
+        "o": 26424,
+        "r": "esv:Matthew:16:18",
+        "w": 19,
+        "l": {},
+        "c": "Matthew 11:23*26179",
+        "a": "j"
+    },
+    {
+        "o": 26424,
+        "r": "esv:Matthew:16:18",
+        "w": 20,
+        "l": {},
+        "t": "Greek the*i gates*i of*i Hades*i",
+        "a": "k"
+    },
+    {
+        "o": 26425,
+        "r": "esv:Matthew:16:19",
+        "w": 3,
+        "l": {},
+        "c": "Isaiah 22:22*20104; Revelation 1:18*34410; Revelation 3:7*34456",
+        "a": "l"
+    },
+    {
+        "o": 26425,
+        "r": "esv:Matthew:16:19",
+        "w": 11,
+        "l": {},
+        "c": "Matthew 18:18*26489; John 20:23*30072",
+        "a": "m"
+    },
+    {
+        "o": 26425,
+        "r": "esv:Matthew:16:19",
+        "w": 30,
+        "l": {},
+        "t": "Or shall*i have*i been*i bound . . .*i shall*i have*i been*i loosed*i",
+        "a": "n"
+    },
+    {
+        "o": 26426,
+        "r": "esv:Matthew:16:20",
+        "w": 0,
+        "l": {},
+        "c": "Mark 8:30*27385; Luke 9:21*28294; Matthew 17:9*26447; Matthew 12:16*26207",
+        "a": "o"
+    },
+    {
+        "o": 26428,
+        "r": "esv:Matthew:16:21",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 16:21–28*26428; Mark 8:31–9:1*27386; Luke 9:22–27*28296; Matthew 17:12*26450; Matthew 17:22–23*26461; Matthew 20:17–19*26561",
+        "a": "p"
+    },
+    {
+        "o": 26428,
+        "r": "esv:Matthew:16:21",
+        "w": 9,
+        "l": {},
+        "c": "Matthew 20:18*26562; Luke 13:33*28564",
+        "a": "q"
+    },
+    {
+        "o": 26428,
+        "r": "esv:Matthew:16:21",
+        "w": 15,
+        "l": {},
+        "c": "Matthew 17:12*26450; Matthew 17:22–23*26461; Luke 24:7*29080",
+        "a": "r"
+    },
+    {
+        "o": 26428,
+        "r": "esv:Matthew:16:21",
+        "w": 31,
+        "l": {},
+        "c": "Matthew 27:63*26994; John 2:19*29208",
+        "a": "s"
+    },
+    {
+        "o": 26429,
+        "r": "esv:Matthew:16:22",
+        "w": 16,
+        "l": {},
+        "t": "Or “[May God be] merciful*i to*i you,*i Lord!”*i",
+        "a": "t"
+    },
+    {
+        "o": 26430,
+        "r": "esv:Matthew:16:23",
+        "w": 6,
+        "l": {},
+        "c": "Matthew 4:10*25863",
+        "a": "u"
+    },
+    {
+        "o": 26430,
+        "r": "esv:Matthew:16:23",
+        "w": 12,
+        "l": {},
+        "c": "Matthew 13:41*26294",
+        "a": "v"
+    },
+    {
+        "o": 26430,
+        "r": "esv:Matthew:16:23",
+        "w": 14,
+        "l": {},
+        "t": "Greek stumbling*i block*i",
+        "a": "w"
+    },
+    {
+        "o": 26430,
+        "r": "esv:Matthew:16:23",
+        "w": 18,
+        "l": {},
+        "c": "Romans 8:5*31444; Philippians 3:19*32934; Colossians 3:2*33027; Philippians 2:5*32885",
+        "a": "x"
+    },
+    {
+        "o": 26432,
+        "r": "esv:Matthew:16:24",
+        "w": 12,
+        "l": {},
+        "c": "2 Timothy 2:12–13*33400",
+        "a": "y"
+    },
+    {
+        "o": 26432,
+        "r": "esv:Matthew:16:24",
+        "w": 15,
+        "l": {},
+        "c": "Matthew 10:38–39*26148",
+        "a": "z"
+    },
+    {
+        "o": 26433,
+        "r": "esv:Matthew:16:25",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 16:24*26432",
+        "a": "a"
+    },
+    {
+        "o": 26433,
+        "r": "esv:Matthew:16:25",
+        "w": 5,
+        "l": {},
+        "t": "The same Greek word can mean either soul*i or life*i , depending on the context; twice in this verse and twice in verse 26",
+        "a": "b"
+    },
+    {
+        "o": 26434,
+        "r": "esv:Matthew:16:26",
+        "w": 0,
+        "l": {},
+        "c": "Luke 12:20*28480",
+        "a": "c"
+    },
+    {
+        "o": 26434,
+        "r": "esv:Matthew:16:26",
+        "w": 17,
+        "l": {},
+        "c": "Psalm 49:7–8*16191",
+        "a": "d"
+    },
+    {
+        "o": 26435,
+        "r": "esv:Matthew:16:27",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 24:30*26761; Matthew 25:31*26819; Matthew 26:64*26908; Daniel 7:10*24383; Daniel 7:13*24387; Zechariah 14:5*25692; John 1:51*29186; Acts 1:11*30125; 1 Thessalonians 1:10*33085; 1 Thessalonians 4:16*33142; Jude 14*34375; Revelation 1:7*34398; Deuteronomy 33:2*6350",
+        "a": "e"
+    },
+    {
+        "o": 26435,
+        "r": "esv:Matthew:16:27",
+        "w": 9,
+        "l": {},
+        "c": "Matthew 13:41*26294",
+        "a": "f"
+    },
+    {
+        "o": 26435,
+        "r": "esv:Matthew:16:27",
+        "w": 18,
+        "l": {},
+        "c": "Romans 2:6*31272; Romans 14:12*31637; 2 Corinthians 5:10*32304; Hebrews 9:27*33736; 1 Peter 1:17*34029; Revelation 2:23*34440; Revelation 20:12*34799; Revelation 22:12*34847; Acts 10:42*30529; 1 Corinthians 3:8*31781",
+        "a": "g"
+    },
+    {
+        "o": 26436,
+        "r": "esv:Matthew:16:28",
+        "w": 12,
+        "l": {},
+        "c": "John 8:52*29557; Hebrews 2:9*33573",
+        "a": "h"
+    },
+    {
+        "o": 26436,
+        "r": "esv:Matthew:16:28",
+        "w": 14,
+        "l": {},
+        "c": "Matthew 10:23*26131; Matthew 23:36*26723; Matthew 24:34*26766",
+        "a": "i"
+    },
+    {
+        "o": 26436,
+        "r": "esv:Matthew:16:28",
+        "w": 21,
+        "l": {},
+        "c": "Luke 23:42*29055",
+        "a": "j"
+    }
+]

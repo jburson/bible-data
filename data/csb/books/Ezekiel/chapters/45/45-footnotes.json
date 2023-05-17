@@ -1,0 +1,370 @@
+[
+    {
+        "o": 24333,
+        "r": "csb:Ezekiel:45:1",
+        "w": 9,
+        "l": {},
+        "c": "Ezk 47:21*24410; 48:29*24444",
+        "a": "a"
+    },
+    {
+        "o": 24333,
+        "r": "csb:Ezekiel:45:1",
+        "w": 22,
+        "l": {},
+        "c": "Ezk 48:8–9*24422",
+        "a": "b"
+    },
+    {
+        "o": 24333,
+        "r": "csb:Ezekiel:45:1",
+        "w": 24,
+        "l": {},
+        "t": "45:1*r Lit 25,000 cubits, also in vv. 3,5,6",
+        "a": "c"
+    },
+    {
+        "o": 24333,
+        "r": "csb:Ezekiel:45:1",
+        "w": 28,
+        "l": {},
+        "t": "45:1*r LXX reads 20,000 cubits; MT reads 10,000 cubits",
+        "a": "d"
+    },
+    {
+        "o": 24334,
+        "r": "csb:Ezekiel:45:2",
+        "w": 8,
+        "l": {},
+        "t": "45:2*r Lit square all around",
+        "a": "e"
+    },
+    {
+        "o": 24334,
+        "r": "csb:Ezekiel:45:2",
+        "w": 15,
+        "l": {},
+        "t": "45:2*r Lit 500 by 500 cubits",
+        "a": "f"
+    },
+    {
+        "o": 24334,
+        "r": "csb:Ezekiel:45:2",
+        "w": 15,
+        "l": {},
+        "c": "Ezk 42:20*24265",
+        "a": "g"
+    },
+    {
+        "o": 24334,
+        "r": "csb:Ezekiel:45:2",
+        "w": 18,
+        "l": {},
+        "t": "45:2*r Lit 50 cubits",
+        "a": "h"
+    },
+    {
+        "o": 24335,
+        "r": "csb:Ezekiel:45:3",
+        "w": 3,
+        "l": {},
+        "t": "45:3*r Lit this measured portion",
+        "a": "i"
+    },
+    {
+        "o": 24335,
+        "r": "csb:Ezekiel:45:3",
+        "w": 15,
+        "l": {},
+        "t": "45:3*r Lit 10,000 cubits, also in v. 5",
+        "a": "j"
+    },
+    {
+        "o": 24335,
+        "r": "csb:Ezekiel:45:3",
+        "w": 24,
+        "l": {},
+        "c": "Ezk 43:12*24280",
+        "a": "k"
+    },
+    {
+        "o": 24335,
+        "r": "csb:Ezekiel:45:3",
+        "w": 26,
+        "l": {},
+        "t": "45:3*r Lit be",
+        "a": "l"
+    },
+    {
+        "o": 24336,
+        "r": "csb:Ezekiel:45:4",
+        "w": 25,
+        "l": {},
+        "c": "Ezk 48:10–11*24424",
+        "a": "m"
+    },
+    {
+        "o": 24337,
+        "r": "csb:Ezekiel:45:5",
+        "w": 19,
+        "l": {},
+        "c": "Ezk 48:13*24427",
+        "a": "n"
+    },
+    {
+        "o": 24337,
+        "r": "csb:Ezekiel:45:5",
+        "w": 29,
+        "l": {},
+        "t": "45:5*r LXX; MT, Syr, Tg, Vg read possession — 20 chambers",
+        "a": "o"
+    },
+    {
+        "o": 24338,
+        "r": "csb:Ezekiel:45:6",
+        "w": 11,
+        "l": {},
+        "t": "45:6*r Lit 5,000 cubits",
+        "a": "p"
+    },
+    {
+        "o": 24338,
+        "r": "csb:Ezekiel:45:6",
+        "w": 23,
+        "l": {},
+        "c": "Ezk 48:15–18*24429",
+        "a": "q"
+    },
+    {
+        "o": 24339,
+        "r": "csb:Ezekiel:45:7",
+        "w": 44,
+        "l": {},
+        "c": "Ezk 48:21*24435",
+        "a": "r"
+    },
+    {
+        "o": 24340,
+        "r": "csb:Ezekiel:45:8",
+        "w": 17,
+        "l": {},
+        "c": "Ezk 19:7*23508; 22:27*23633",
+        "a": "s"
+    },
+    {
+        "o": 24341,
+        "r": "csb:Ezekiel:45:9",
+        "w": 11,
+        "l": {},
+        "t": "45:9*r Lit Enough of you",
+        "a": "t"
+    },
+    {
+        "o": 24341,
+        "r": "csb:Ezekiel:45:9",
+        "w": 11,
+        "l": {},
+        "c": "Ezk 44:6*24304",
+        "a": "u"
+    },
+    {
+        "o": 24341,
+        "r": "csb:Ezekiel:45:9",
+        "w": 26,
+        "l": {},
+        "c": "Jr 22:3*21824",
+        "a": "v"
+    },
+    {
+        "o": 24342,
+        "r": "csb:Ezekiel:45:10",
+        "w": 9,
+        "l": {},
+        "t": "45:10*r Lit an honest ephah",
+        "a": "w"
+    },
+    {
+        "o": 24342,
+        "r": "csb:Ezekiel:45:10",
+        "w": 14,
+        "l": {},
+        "t": "45:10*r Lit and an honest bath",
+        "a": "x"
+    },
+    {
+        "o": 24342,
+        "r": "csb:Ezekiel:45:10",
+        "w": 14,
+        "l": {},
+        "c": "Lv 19:36*3665; Dt 25:15*6145",
+        "a": "y"
+    },
+    {
+        "o": 24343,
+        "r": "csb:Ezekiel:45:11",
+        "w": 2,
+        "l": {},
+        "t": "45:11*r Lit The ephah",
+        "a": "z"
+    },
+    {
+        "o": 24343,
+        "r": "csb:Ezekiel:45:11",
+        "w": 6,
+        "l": {},
+        "t": "45:11*r Lit the bath",
+        "a": "a"
+    },
+    {
+        "o": 24343,
+        "r": "csb:Ezekiel:45:11",
+        "w": 16,
+        "l": {},
+        "t": "45:11*r Lit one-tenth of a homer",
+        "a": "b"
+    },
+    {
+        "o": 24343,
+        "r": "csb:Ezekiel:45:11",
+        "w": 24,
+        "l": {},
+        "t": "45:11*r Lit one-tenth of a homer",
+        "a": "c"
+    },
+    {
+        "o": 24343,
+        "r": "csb:Ezekiel:45:11",
+        "w": 36,
+        "l": {},
+        "t": "45:11*r Lit be based on the homer",
+        "a": "d"
+    },
+    {
+        "o": 24344,
+        "r": "csb:Ezekiel:45:12",
+        "w": 1,
+        "l": {},
+        "t": "45:12*r A shekel is about two-fifths of an ounce of silver",
+        "a": "e"
+    },
+    {
+        "o": 24344,
+        "r": "csb:Ezekiel:45:12",
+        "w": 5,
+        "l": {},
+        "c": "Ex 30:13*2647; Lv 27:25*3964",
+        "a": "f"
+    },
+    {
+        "o": 24346,
+        "r": "csb:Ezekiel:45:13",
+        "w": 9,
+        "l": {},
+        "t": "45:13*r Lit One-sixth of an ephah",
+        "a": "g"
+    },
+    {
+        "o": 24346,
+        "r": "csb:Ezekiel:45:13",
+        "w": 12,
+        "l": {},
+        "t": "45:13*r Lit a homer",
+        "a": "h"
+    },
+    {
+        "o": 24346,
+        "r": "csb:Ezekiel:45:13",
+        "w": 15,
+        "l": {},
+        "t": "45:13*r LXX, Vg; MT reads and you are to give",
+        "a": "i"
+    },
+    {
+        "o": 24347,
+        "r": "csb:Ezekiel:45:14",
+        "w": 6,
+        "l": {},
+        "t": "45:14*r Lit oil, the bath, the oil",
+        "a": "j"
+    },
+    {
+        "o": 24347,
+        "r": "csb:Ezekiel:45:14",
+        "w": 12,
+        "l": {},
+        "t": "45:14*r Lit be a tenth of the bath from the",
+        "a": "k"
+    },
+    {
+        "o": 24347,
+        "r": "csb:Ezekiel:45:14",
+        "w": 25,
+        "l": {},
+        "t": "45:14*r Lit 10 baths, a homer",
+        "a": "l"
+    },
+    {
+        "o": 24348,
+        "r": "csb:Ezekiel:45:15",
+        "w": 36,
+        "l": {},
+        "c": "Lv 1:4*3046; 6:30*3189",
+        "a": "m"
+    },
+    {
+        "o": 24352,
+        "r": "csb:Ezekiel:45:19",
+        "w": 36,
+        "l": {},
+        "c": "Ezk 43:20*24288",
+        "a": "n"
+    },
+    {
+        "o": 24353,
+        "r": "csb:Ezekiel:45:20",
+        "w": 21,
+        "l": {},
+        "c": "Lv 4:2*3100; 5:17*3153",
+        "a": "o"
+    },
+    {
+        "o": 24354,
+        "r": "csb:Ezekiel:45:21",
+        "w": 28,
+        "l": {},
+        "c": "Ex 12:18*2023; Lv 23:4–8*3766; Nm 28:16–17*5056; Dt 16:1*5883",
+        "a": "p"
+    },
+    {
+        "o": 24357,
+        "r": "csb:Ezekiel:45:24",
+        "w": 10,
+        "l": {},
+        "t": "45:24*r Lit an ephah",
+        "a": "q"
+    },
+    {
+        "o": 24357,
+        "r": "csb:Ezekiel:45:24",
+        "w": 22,
+        "l": {},
+        "t": "45:24*r Lit a hin",
+        "a": "r"
+    },
+    {
+        "o": 24358,
+        "r": "csb:Ezekiel:45:25",
+        "w": 12,
+        "l": {},
+        "t": "45:25*r = the Festival of Shelters",
+        "a": "s"
+    },
+    {
+        "o": 24358,
+        "r": "csb:Ezekiel:45:25",
+        "w": 12,
+        "l": {},
+        "c": "Lv 23:33–43*3795; Dt 16:13–15*5897",
+        "a": "t"
+    }
+]

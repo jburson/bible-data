@@ -1,0 +1,434 @@
+[
+    {
+        "o": 12745,
+        "r": "esv:2 Chronicles:20:1",
+        "w": 1,
+        "l": {},
+        "c": "2 Kings 1:1*10459; 2 Kings 3:4*10510; 2 Kings 3:7*10513",
+        "a": "a"
+    },
+    {
+        "o": 12745,
+        "r": "esv:2 Chronicles:20:1",
+        "w": 12,
+        "l": {},
+        "t": "Compare 26:7; Hebrew Ammonites*i",
+        "a": "b"
+    },
+    {
+        "o": 12746,
+        "r": "esv:2 Chronicles:20:2",
+        "w": 14,
+        "l": {},
+        "t": "One Hebrew manuscript; most Hebrew manuscripts Aram*i (Syria)",
+        "a": "c"
+    },
+    {
+        "o": 12746,
+        "r": "esv:2 Chronicles:20:2",
+        "w": 23,
+        "l": {},
+        "c": "Genesis 14:7*377",
+        "a": "d"
+    },
+    {
+        "o": 12746,
+        "r": "esv:2 Chronicles:20:2",
+        "w": 26,
+        "l": {},
+        "c": "1 Samuel 23:29*8582",
+        "a": "e"
+    },
+    {
+        "o": 12747,
+        "r": "esv:2 Chronicles:20:3",
+        "w": 7,
+        "l": {},
+        "c": "2 Chronicles 19:3*12734; 1 Chronicles 22:19*12069",
+        "a": "f"
+    },
+    {
+        "o": 12747,
+        "r": "esv:2 Chronicles:20:3",
+        "w": 12,
+        "l": {},
+        "c": "Ezra 8:21*13460; Jeremiah 36:9*22085; Jonah 3:5*25093; Joel 1:14*24790; Joel 2:15*24814",
+        "a": "g"
+    },
+    {
+        "o": 12750,
+        "r": "esv:2 Chronicles:20:6",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 4:39*5494",
+        "a": "h"
+    },
+    {
+        "o": 12750,
+        "r": "esv:2 Chronicles:20:6",
+        "w": 14,
+        "l": {},
+        "c": "Daniel 4:17*24283; Daniel 4:25*24292; Daniel 4:32*24300",
+        "a": "i"
+    },
+    {
+        "o": 12750,
+        "r": "esv:2 Chronicles:20:6",
+        "w": 22,
+        "l": {},
+        "c": "1 Chronicles 29:12*12280",
+        "a": "j"
+    },
+    {
+        "o": 12751,
+        "r": "esv:2 Chronicles:20:7",
+        "w": 4,
+        "l": {},
+        "c": "Psalm 44:2*16094",
+        "a": "k"
+    },
+    {
+        "o": 12751,
+        "r": "esv:2 Chronicles:20:7",
+        "w": 23,
+        "l": {},
+        "c": "Isaiah 41:8*20535; James 2:23*33940",
+        "a": "l"
+    },
+    {
+        "o": 12753,
+        "r": "esv:2 Chronicles:20:9",
+        "w": 0,
+        "l": {},
+        "c": "2 Chronicles 6:28–30*12432; 1 Kings 8:33*9882; 1 Kings 8:37*9886; Ezekiel 14:21*23070",
+        "a": "m"
+    },
+    {
+        "o": 12753,
+        "r": "esv:2 Chronicles:20:9",
+        "w": 7,
+        "l": {},
+        "t": "Or the*i sword*i of*i judgment*i",
+        "a": "n"
+    },
+    {
+        "o": 12753,
+        "r": "esv:2 Chronicles:20:9",
+        "w": 11,
+        "l": {},
+        "c": "Ezra 10:1*13496",
+        "a": "o"
+    },
+    {
+        "o": 12753,
+        "r": "esv:2 Chronicles:20:9",
+        "w": 20,
+        "l": {},
+        "c": "2 Chronicles 6:20*12424",
+        "a": "p"
+    },
+    {
+        "o": 12754,
+        "r": "esv:2 Chronicles:20:10",
+        "w": 5,
+        "l": {},
+        "c": "2 Chronicles 20:1*12745; 2 Chronicles 20:22–23*12766",
+        "a": "q"
+    },
+    {
+        "o": 12754,
+        "r": "esv:2 Chronicles:20:10",
+        "w": 9,
+        "l": {},
+        "c": "2 Chronicles 25:11*12890; 2 Chronicles 25:14*12894; Genesis 32:3*1013; Genesis 36:8*1140",
+        "a": "r"
+    },
+    {
+        "o": 12754,
+        "r": "esv:2 Chronicles:20:10",
+        "w": 12,
+        "l": {},
+        "c": "Deuteronomy 2:4–5*5385; Deuteronomy 2:9*5390; Deuteronomy 2:19*5400",
+        "a": "s"
+    },
+    {
+        "o": 12754,
+        "r": "esv:2 Chronicles:20:10",
+        "w": 26,
+        "l": {},
+        "c": "Numbers 20:21*4717",
+        "a": "t"
+    },
+    {
+        "o": 12755,
+        "r": "esv:2 Chronicles:20:11",
+        "w": 3,
+        "l": {},
+        "c": "Psalm 83:6–7*16885; Psalm 83:12*16891",
+        "a": "u"
+    },
+    {
+        "o": 12756,
+        "r": "esv:2 Chronicles:20:12",
+        "w": 5,
+        "l": {},
+        "c": "1 Samuel 3:13*7978",
+        "a": "v"
+    },
+    {
+        "o": 12756,
+        "r": "esv:2 Chronicles:20:12",
+        "w": 30,
+        "l": {},
+        "c": "Psalm 25:15*15731; Psalm 123:1–2*17861; Psalm 141:8*18097",
+        "a": "w"
+    },
+    {
+        "o": 12758,
+        "r": "esv:2 Chronicles:20:14",
+        "w": 0,
+        "l": {},
+        "c": "2 Chronicles 15:1*12637",
+        "a": "x"
+    },
+    {
+        "o": 12758,
+        "r": "esv:2 Chronicles:20:14",
+        "w": 6,
+        "l": {},
+        "t": "Or was*i",
+        "a": "y"
+    },
+    {
+        "o": 12759,
+        "r": "esv:2 Chronicles:20:15",
+        "w": 18,
+        "l": {},
+        "c": "2 Chronicles 32:7*13078; Deuteronomy 1:29–30*5361; Deuteronomy 31:6*6265; Deuteronomy 31:8*6268",
+        "a": "z"
+    },
+    {
+        "o": 12759,
+        "r": "esv:2 Chronicles:20:15",
+        "w": 31,
+        "l": {},
+        "c": "1 Samuel 17:47*8391",
+        "a": "a"
+    },
+    {
+        "o": 12760,
+        "r": "esv:2 Chronicles:20:16",
+        "w": 22,
+        "l": {},
+        "c": "Numbers 13:23*4458",
+        "a": "b"
+    },
+    {
+        "o": 12761,
+        "r": "esv:2 Chronicles:20:17",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 14:13–14*2072",
+        "a": "c"
+    },
+    {
+        "o": 12761,
+        "r": "esv:2 Chronicles:20:17",
+        "w": 27,
+        "l": {},
+        "c": "2 Chronicles 20:15*12759",
+        "a": "d"
+    },
+    {
+        "o": 12761,
+        "r": "esv:2 Chronicles:20:17",
+        "w": 41,
+        "l": {},
+        "c": "2 Chronicles 15:2*12638; 2 Chronicles 32:8*13080; Numbers 14:9*4480",
+        "a": "e"
+    },
+    {
+        "o": 12762,
+        "r": "esv:2 Chronicles:20:18",
+        "w": 1,
+        "l": {},
+        "c": "2 Chronicles 29:29–30*13010; Exodus 4:31*1770; Nehemiah 8:6*13765",
+        "a": "f"
+    },
+    {
+        "o": 12763,
+        "r": "esv:2 Chronicles:20:19",
+        "w": 4,
+        "l": {},
+        "c": "Exodus 6:16*1814; Exodus 6:18*1816",
+        "a": "g"
+    },
+    {
+        "o": 12763,
+        "r": "esv:2 Chronicles:20:19",
+        "w": 7,
+        "l": {},
+        "c": "1 Chronicles 9:19*11681",
+        "a": "h"
+    },
+    {
+        "o": 12764,
+        "r": "esv:2 Chronicles:20:20",
+        "w": 10,
+        "l": {},
+        "c": "2 Samuel 14:2*9164",
+        "a": "i"
+    },
+    {
+        "o": 12764,
+        "r": "esv:2 Chronicles:20:20",
+        "w": 30,
+        "l": {},
+        "c": "Isaiah 7:9*19785",
+        "a": "j"
+    },
+    {
+        "o": 12765,
+        "r": "esv:2 Chronicles:20:21",
+        "w": 21,
+        "l": {},
+        "c": "1 Chronicles 16:29*11916",
+        "a": "k"
+    },
+    {
+        "o": 12765,
+        "r": "esv:2 Chronicles:20:21",
+        "w": 32,
+        "l": {},
+        "c": "1 Chronicles 16:34*11921",
+        "a": "l"
+    },
+    {
+        "o": 12766,
+        "r": "esv:2 Chronicles:20:22",
+        "w": 10,
+        "l": {},
+        "c": "2 Chronicles 13:13*12608",
+        "a": "m"
+    },
+    {
+        "o": 12766,
+        "r": "esv:2 Chronicles:20:22",
+        "w": 16,
+        "l": {},
+        "c": "2 Chronicles 20:10*12754",
+        "a": "n"
+    },
+    {
+        "o": 12767,
+        "r": "esv:2 Chronicles:20:23",
+        "w": 29,
+        "l": {},
+        "c": "Judges 7:22*7347; 1 Samuel 14:20*8245",
+        "a": "o"
+    },
+    {
+        "o": 12769,
+        "r": "esv:2 Chronicles:20:24",
+        "w": 16,
+        "l": {},
+        "t": "Hebrew they*i",
+        "a": "p"
+    },
+    {
+        "o": 12771,
+        "r": "esv:2 Chronicles:20:26",
+        "w": 10,
+        "l": {},
+        "t": "Beracah*i means blessing*i",
+        "a": "q"
+    },
+    {
+        "o": 12772,
+        "r": "esv:2 Chronicles:20:27",
+        "w": 18,
+        "l": {},
+        "c": "Nehemiah 12:43*13947",
+        "a": "r"
+    },
+    {
+        "o": 12774,
+        "r": "esv:2 Chronicles:20:29",
+        "w": 0,
+        "l": {},
+        "c": "2 Chronicles 14:14*12633; 2 Chronicles 17:10*12683",
+        "a": "s"
+    },
+    {
+        "o": 12775,
+        "r": "esv:2 Chronicles:20:30",
+        "w": 6,
+        "l": {},
+        "c": "2 Chronicles 14:6–7*12625; 2 Chronicles 15:15*12651",
+        "a": "t"
+    },
+    {
+        "o": 12776,
+        "r": "esv:2 Chronicles:20:31",
+        "w": 0,
+        "l": {},
+        "c": "2 Chronicles 20:31–33*12776; 1 Kings 22:41–43*10443",
+        "a": "u"
+    },
+    {
+        "o": 12778,
+        "r": "esv:2 Chronicles:20:33",
+        "w": 0,
+        "l": {},
+        "c": "2 Chronicles 17:6*12679",
+        "a": "v"
+    },
+    {
+        "o": 12778,
+        "r": "esv:2 Chronicles:20:33",
+        "w": 7,
+        "l": {},
+        "c": "2 Chronicles 12:14*12591",
+        "a": "w"
+    },
+    {
+        "o": 12779,
+        "r": "esv:2 Chronicles:20:34",
+        "w": 17,
+        "l": {},
+        "c": "2 Chronicles 19:2*12733",
+        "a": "x"
+    },
+    {
+        "o": 12779,
+        "r": "esv:2 Chronicles:20:34",
+        "w": 22,
+        "l": {},
+        "c": "1 Kings 16:1*10176; 1 Kings 16:7*10183",
+        "a": "y"
+    },
+    {
+        "o": 12781,
+        "r": "esv:2 Chronicles:20:35",
+        "w": 0,
+        "l": {},
+        "c": "1 Kings 22:48–49*10450",
+        "a": "z"
+    },
+    {
+        "o": 12782,
+        "r": "esv:2 Chronicles:20:36",
+        "w": 8,
+        "l": {},
+        "c": "2 Chronicles 9:21*12516",
+        "a": "a"
+    },
+    {
+        "o": 12783,
+        "r": "esv:2 Chronicles:20:37",
+        "w": 11,
+        "l": {},
+        "c": "2 Chronicles 19:2*12733",
+        "a": "b"
+    }
+]

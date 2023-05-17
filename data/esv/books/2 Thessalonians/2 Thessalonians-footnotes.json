@@ -1,0 +1,834 @@
+[
+    {
+        "o": 33178,
+        "r": "esv:2 Thessalonians:1:1",
+        "w": 0,
+        "l": {},
+        "c": "2 Thessalonians 1:1–2*33178; 1 Thessalonians 1:1*33076",
+        "a": "a"
+    },
+    {
+        "o": 33181,
+        "r": "esv:2 Thessalonians:1:3",
+        "w": 0,
+        "l": {},
+        "c": "2 Thessalonians 2:13*33207; Ephesians 5:20*32799; 1 Thessalonians 1:2–3*33077",
+        "a": "b"
+    },
+    {
+        "o": 33181,
+        "r": "esv:2 Thessalonians:1:3",
+        "w": 10,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i . In New Testament usage, depending on the context, the plural Greek word adelphoi*i (translated “brothers”) may refer either to brothers*i or to brothers*i and*i sisters*i",
+        "a": "c"
+    },
+    {
+        "o": 33182,
+        "r": "esv:2 Thessalonians:1:4",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 7:14*32351; 1 Thessalonians 2:19*33107",
+        "a": "d"
+    },
+    {
+        "o": 33182,
+        "r": "esv:2 Thessalonians:1:4",
+        "w": 5,
+        "l": {},
+        "c": "1 Thessalonians 1:8*33083; 1 Corinthians 7:17*31877",
+        "a": "e"
+    },
+    {
+        "o": 33182,
+        "r": "esv:2 Thessalonians:1:4",
+        "w": 15,
+        "l": {},
+        "c": "Mark 10:30*27482; 1 Thessalonians 2:14*33101",
+        "a": "f"
+    },
+    {
+        "o": 33184,
+        "r": "esv:2 Thessalonians:1:5",
+        "w": 1,
+        "l": {},
+        "c": "Philippians 1:28*32876",
+        "a": "g"
+    },
+    {
+        "o": 33184,
+        "r": "esv:2 Thessalonians:1:5",
+        "w": 12,
+        "l": {},
+        "c": "Acts 14:22*30680; Luke 20:35*28865",
+        "a": "h"
+    },
+    {
+        "o": 33185,
+        "r": "esv:2 Thessalonians:1:6",
+        "w": 4,
+        "l": {},
+        "c": "Revelation 6:10*34513",
+        "a": "i"
+    },
+    {
+        "o": 33185,
+        "r": "esv:2 Thessalonians:1:6",
+        "w": 5,
+        "l": {},
+        "c": "Exodus 23:22*2359; Joel 3:4*24839; Joel 3:7*24842",
+        "a": "j"
+    },
+    {
+        "o": 33186,
+        "r": "esv:2 Thessalonians:1:7",
+        "w": 2,
+        "l": {},
+        "c": "Revelation 6:11*34514; Revelation 11:18*34612; Revelation 14:13*34671",
+        "a": "k"
+    },
+    {
+        "o": 33186,
+        "r": "esv:2 Thessalonians:1:7",
+        "w": 14,
+        "l": {},
+        "c": "Luke 17:30*28715",
+        "a": "l"
+    },
+    {
+        "o": 33186,
+        "r": "esv:2 Thessalonians:1:7",
+        "w": 21,
+        "l": {},
+        "c": "Jude 14*34375",
+        "a": "m"
+    },
+    {
+        "o": 33187,
+        "r": "esv:2 Thessalonians:1:8",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 66:15–16*21079; Matthew 25:41*26829; 1 Corinthians 3:13*31786; Hebrews 10:27*33767; Hebrews 12:29*33854; 2 Peter 3:7*34187; Malachi 4:1*25770",
+        "a": "n"
+    },
+    {
+        "o": 33187,
+        "r": "esv:2 Thessalonians:1:8",
+        "w": 6,
+        "l": {},
+        "c": "Galatians 4:8*32592",
+        "a": "o"
+    },
+    {
+        "o": 33187,
+        "r": "esv:2 Thessalonians:1:8",
+        "w": 15,
+        "l": {},
+        "c": "Romans 2:8*31274",
+        "a": "p"
+    },
+    {
+        "o": 33188,
+        "r": "esv:2 Thessalonians:1:9",
+        "w": 5,
+        "l": {},
+        "c": "Philippians 3:19*32934; 1 Thessalonians 5:3*33149",
+        "a": "q"
+    },
+    {
+        "o": 33188,
+        "r": "esv:2 Thessalonians:1:9",
+        "w": 7,
+        "l": {},
+        "c": "Isaiah 2:10*19676; Isaiah 2:19*19685; Isaiah 2:21*19687; 2 Thessalonians 2:8*33201",
+        "a": "r"
+    },
+    {
+        "o": 33188,
+        "r": "esv:2 Thessalonians:1:9",
+        "w": 9,
+        "l": {},
+        "t": "Or destruction*i that*i comes*i from*i",
+        "a": "s"
+    },
+    {
+        "o": 33189,
+        "r": "esv:2 Thessalonians:1:10",
+        "w": 0,
+        "l": {},
+        "c": "1 Thessalonians 1:10*33085",
+        "a": "t"
+    },
+    {
+        "o": 33189,
+        "r": "esv:2 Thessalonians:1:10",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 3:13*31786",
+        "a": "u"
+    },
+    {
+        "o": 33189,
+        "r": "esv:2 Thessalonians:1:10",
+        "w": 5,
+        "l": {},
+        "c": "Psalm 89:7*16989; Isaiah 49:3*20739; John 17:10*29931",
+        "a": "v"
+    },
+    {
+        "o": 33189,
+        "r": "esv:2 Thessalonians:1:10",
+        "w": 23,
+        "l": {},
+        "c": "1 Corinthians 1:6*31725",
+        "a": "w"
+    },
+    {
+        "o": 33189,
+        "r": "esv:2 Thessalonians:1:10",
+        "w": 26,
+        "l": {},
+        "c": "1 Thessalonians 2:1*33088; 1 Thessalonians 2:13*33100; 1 Timothy 3:16*33294",
+        "a": "x"
+    },
+    {
+        "o": 33190,
+        "r": "esv:2 Thessalonians:1:11",
+        "w": 3,
+        "l": {},
+        "c": "Colossians 1:9*32975",
+        "a": "y"
+    },
+    {
+        "o": 33190,
+        "r": "esv:2 Thessalonians:1:11",
+        "w": 11,
+        "l": {},
+        "c": "2 Thessalonians 1:5*33184",
+        "a": "z"
+    },
+    {
+        "o": 33190,
+        "r": "esv:2 Thessalonians:1:11",
+        "w": 26,
+        "l": {},
+        "c": "1 Thessalonians 1:3*33078",
+        "a": "a"
+    },
+    {
+        "o": 33191,
+        "r": "esv:2 Thessalonians:1:12",
+        "w": 7,
+        "l": {},
+        "c": "Isaiah 66:5*21067; Acts 13:48*30650",
+        "a": "b"
+    },
+    {
+        "o": 33194,
+        "r": "esv:2 Thessalonians:2:1",
+        "w": 1,
+        "l": {},
+        "c": "1 Thessalonians 2:19*33107",
+        "a": "a"
+    },
+    {
+        "o": 33194,
+        "r": "esv:2 Thessalonians:2:1",
+        "w": 10,
+        "l": {},
+        "c": "Matthew 24:31*26763; 1 Thessalonians 4:15–17*33141",
+        "a": "b"
+    },
+    {
+        "o": 33194,
+        "r": "esv:2 Thessalonians:2:1",
+        "w": 19,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i ; also verses 13, 15",
+        "a": "c"
+    },
+    {
+        "o": 33195,
+        "r": "esv:2 Thessalonians:2:2",
+        "w": 7,
+        "l": {},
+        "c": "Matthew 24:6*26735; Mark 13:7*27607",
+        "a": "d"
+    },
+    {
+        "o": 33195,
+        "r": "esv:2 Thessalonians:2:2",
+        "w": 9,
+        "l": {},
+        "c": "1 John 4:1*34276",
+        "a": "e"
+    },
+    {
+        "o": 33195,
+        "r": "esv:2 Thessalonians:2:2",
+        "w": 14,
+        "l": {},
+        "c": "2 Thessalonians 2:15*33209; 1 Thessalonians 5:2*33148",
+        "a": "f"
+    },
+    {
+        "o": 33195,
+        "r": "esv:2 Thessalonians:2:2",
+        "w": 17,
+        "l": {},
+        "c": "2 Thessalonians 2:15*33209; 1 Thessalonians 5:2*33148",
+        "a": "g"
+    },
+    {
+        "o": 33195,
+        "r": "esv:2 Thessalonians:2:2",
+        "w": 28,
+        "l": {},
+        "c": "1 Corinthians 1:8*31727",
+        "a": "h"
+    },
+    {
+        "o": 33196,
+        "r": "esv:2 Thessalonians:2:3",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 5:6*32785",
+        "a": "i"
+    },
+    {
+        "o": 33196,
+        "r": "esv:2 Thessalonians:2:3",
+        "w": 13,
+        "l": {},
+        "c": "1 Timothy 4:1*33297",
+        "a": "j"
+    },
+    {
+        "o": 33196,
+        "r": "esv:2 Thessalonians:2:3",
+        "w": 19,
+        "l": {},
+        "c": "2 Thessalonians 2:8*33201; Daniel 7:25*24400; Daniel 8:25*24431; Daniel 11:36*24525; Revelation 13:5–6*34640",
+        "a": "k"
+    },
+    {
+        "o": 33196,
+        "r": "esv:2 Thessalonians:2:3",
+        "w": 23,
+        "l": {},
+        "t": "Some manuscripts sin*i",
+        "a": "l"
+    },
+    {
+        "o": 33196,
+        "r": "esv:2 Thessalonians:2:3",
+        "w": 25,
+        "l": {},
+        "c": "John 17:12*29933; Matthew 23:15*26701",
+        "a": "m"
+    },
+    {
+        "o": 33196,
+        "r": "esv:2 Thessalonians:2:3",
+        "w": 29,
+        "l": {},
+        "t": "Greek the*i son*i of*i perdition*i (a Hebrew idiom)",
+        "a": "n"
+    },
+    {
+        "o": 33197,
+        "r": "esv:2 Thessalonians:2:4",
+        "w": 23,
+        "l": {},
+        "c": "Isaiah 14:14*19954; Ezekiel 28:2*23511",
+        "a": "o"
+    },
+    {
+        "o": 33200,
+        "r": "esv:2 Thessalonians:2:7",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 17:5*34719; Revelation 17:7*34721",
+        "a": "p"
+    },
+    {
+        "o": 33200,
+        "r": "esv:2 Thessalonians:2:7",
+        "w": 4,
+        "l": {},
+        "c": "1 John 2:18*34235; 1 John 4:3*34278",
+        "a": "q"
+    },
+    {
+        "o": 33201,
+        "r": "esv:2 Thessalonians:2:8",
+        "w": 1,
+        "l": {},
+        "c": "2 Thessalonians 2:3*33196",
+        "a": "r"
+    },
+    {
+        "o": 33201,
+        "r": "esv:2 Thessalonians:2:8",
+        "w": 11,
+        "l": {},
+        "c": "Daniel 7:10–11*24383",
+        "a": "s"
+    },
+    {
+        "o": 33201,
+        "r": "esv:2 Thessalonians:2:8",
+        "w": 14,
+        "l": {},
+        "c": "Isaiah 11:4*19893",
+        "a": "t"
+    },
+    {
+        "o": 33201,
+        "r": "esv:2 Thessalonians:2:8",
+        "w": 24,
+        "l": {},
+        "c": "1 Timothy 6:14*33358; 2 Timothy 1:10*33378; 2 Timothy 4:1*33438; 2 Timothy 4:8*33446; Titus 2:13*33495",
+        "a": "u"
+    },
+    {
+        "o": 33202,
+        "r": "esv:2 Thessalonians:2:9",
+        "w": 11,
+        "l": {},
+        "c": "Revelation 13:14*34650; Matthew 24:24*26754",
+        "a": "v"
+    },
+    {
+        "o": 33203,
+        "r": "esv:2 Thessalonians:2:10",
+        "w": 5,
+        "l": {},
+        "c": "1 Corinthians 1:18*31739",
+        "a": "w"
+    },
+    {
+        "o": 33204,
+        "r": "esv:2 Thessalonians:2:11",
+        "w": 0,
+        "l": {},
+        "c": "1 Kings 22:22*10422; Ezekiel 14:9*23057; Revelation 17:17*34731",
+        "a": "x"
+    },
+    {
+        "o": 33204,
+        "r": "esv:2 Thessalonians:2:11",
+        "w": 11,
+        "l": {},
+        "c": "1 Thessalonians 2:3*33090; 1 Timothy 4:2*33298; Romans 1:25*31257",
+        "a": "y"
+    },
+    {
+        "o": 33205,
+        "r": "esv:2 Thessalonians:2:12",
+        "w": 6,
+        "l": {},
+        "c": "Romans 2:8*31274",
+        "a": "z"
+    },
+    {
+        "o": 33205,
+        "r": "esv:2 Thessalonians:2:12",
+        "w": 13,
+        "l": {},
+        "c": "Romans 1:32*31264",
+        "a": "a"
+    },
+    {
+        "o": 33207,
+        "r": "esv:2 Thessalonians:2:13",
+        "w": 0,
+        "l": {},
+        "c": "2 Thessalonians 1:3*33181",
+        "a": "b"
+    },
+    {
+        "o": 33207,
+        "r": "esv:2 Thessalonians:2:13",
+        "w": 10,
+        "l": {},
+        "c": "1 Thessalonians 1:4*33079; Deuteronomy 33:12*6360",
+        "a": "c"
+    },
+    {
+        "o": 33207,
+        "r": "esv:2 Thessalonians:2:13",
+        "w": 19,
+        "l": {},
+        "c": "Ephesians 1:4*32673",
+        "a": "d"
+    },
+    {
+        "o": 33207,
+        "r": "esv:2 Thessalonians:2:13",
+        "w": 22,
+        "l": {},
+        "t": "Some manuscripts chose*i you*i from*i the*i beginning*i",
+        "a": "e"
+    },
+    {
+        "o": 33207,
+        "r": "esv:2 Thessalonians:2:13",
+        "w": 22,
+        "l": {},
+        "c": "1 Thessalonians 5:9*33155; 2 Timothy 1:9*33377",
+        "a": "f"
+    },
+    {
+        "o": 33207,
+        "r": "esv:2 Thessalonians:2:13",
+        "w": 25,
+        "l": {},
+        "c": "1 Thessalonians 4:3*33128",
+        "a": "g"
+    },
+    {
+        "o": 33208,
+        "r": "esv:2 Thessalonians:2:14",
+        "w": 5,
+        "l": {},
+        "c": "1 Thessalonians 1:5*33080",
+        "a": "h"
+    },
+    {
+        "o": 33208,
+        "r": "esv:2 Thessalonians:2:14",
+        "w": 7,
+        "l": {},
+        "c": "2 Thessalonians 2:13*33207",
+        "a": "i"
+    },
+    {
+        "o": 33209,
+        "r": "esv:2 Thessalonians:2:15",
+        "w": 2,
+        "l": {},
+        "c": "1 Corinthians 16:13*32190",
+        "a": "j"
+    },
+    {
+        "o": 33209,
+        "r": "esv:2 Thessalonians:2:15",
+        "w": 7,
+        "l": {},
+        "c": "2 Thessalonians 3:6*33220; 1 Corinthians 11:2*31985",
+        "a": "k"
+    },
+    {
+        "o": 33209,
+        "r": "esv:2 Thessalonians:2:15",
+        "w": 16,
+        "l": {},
+        "c": "2 Thessalonians 2:2*33195",
+        "a": "l"
+    },
+    {
+        "o": 33209,
+        "r": "esv:2 Thessalonians:2:15",
+        "w": 22,
+        "l": {},
+        "c": "2 Thessalonians 2:2*33195",
+        "a": "m"
+    },
+    {
+        "o": 33210,
+        "r": "esv:2 Thessalonians:2:16",
+        "w": 10,
+        "l": {},
+        "c": "John 3:16*29234; 1 John 4:10*34286; Revelation 1:5*34396",
+        "a": "n"
+    },
+    {
+        "o": 33210,
+        "r": "esv:2 Thessalonians:2:16",
+        "w": 20,
+        "l": {},
+        "c": "1 Peter 1:3*34014",
+        "a": "o"
+    },
+    {
+        "o": 33211,
+        "r": "esv:2 Thessalonians:2:17",
+        "w": 3,
+        "l": {},
+        "c": "2 Thessalonians 3:3*33216; 1 Thessalonians 3:13*33123",
+        "a": "p"
+    },
+    {
+        "o": 33214,
+        "r": "esv:2 Thessalonians:3:1",
+        "w": 1,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i ; also verses 6, 13",
+        "a": "a"
+    },
+    {
+        "o": 33214,
+        "r": "esv:2 Thessalonians:3:1",
+        "w": 1,
+        "l": {},
+        "c": "1 Thessalonians 5:25*33172",
+        "a": "b"
+    },
+    {
+        "o": 33214,
+        "r": "esv:2 Thessalonians:3:1",
+        "w": 5,
+        "l": {},
+        "c": "Psalm 147:15*18195; 1 Thessalonians 1:8*33083",
+        "a": "c"
+    },
+    {
+        "o": 33214,
+        "r": "esv:2 Thessalonians:3:1",
+        "w": 16,
+        "l": {},
+        "t": "Or glorified*i",
+        "a": "d"
+    },
+    {
+        "o": 33215,
+        "r": "esv:2 Thessalonians:3:2",
+        "w": 0,
+        "l": {},
+        "c": "Romans 15:31*31684",
+        "a": "e"
+    },
+    {
+        "o": 33215,
+        "r": "esv:2 Thessalonians:3:2",
+        "w": 11,
+        "l": {},
+        "c": "Deuteronomy 32:20*6313",
+        "a": "f"
+    },
+    {
+        "o": 33216,
+        "r": "esv:2 Thessalonians:3:3",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 1:9*31729",
+        "a": "g"
+    },
+    {
+        "o": 33216,
+        "r": "esv:2 Thessalonians:3:3",
+        "w": 9,
+        "l": {},
+        "c": "Matthew 6:13*25956; John 17:15*29936",
+        "a": "h"
+    },
+    {
+        "o": 33216,
+        "r": "esv:2 Thessalonians:3:3",
+        "w": 12,
+        "l": {},
+        "c": "Matthew 13:19*26268",
+        "a": "i"
+    },
+    {
+        "o": 33216,
+        "r": "esv:2 Thessalonians:3:3",
+        "w": 15,
+        "l": {},
+        "t": "Or evil*i",
+        "a": "j"
+    },
+    {
+        "o": 33217,
+        "r": "esv:2 Thessalonians:3:4",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 2:3*32234",
+        "a": "k"
+    },
+    {
+        "o": 33218,
+        "r": "esv:2 Thessalonians:3:5",
+        "w": 2,
+        "l": {},
+        "c": "1 Thessalonians 3:11*33121",
+        "a": "l"
+    },
+    {
+        "o": 33220,
+        "r": "esv:2 Thessalonians:3:6",
+        "w": 4,
+        "l": {},
+        "c": "1 Corinthians 5:4*31825",
+        "a": "m"
+    },
+    {
+        "o": 33220,
+        "r": "esv:2 Thessalonians:3:6",
+        "w": 12,
+        "l": {},
+        "c": "2 Thessalonians 3:14*33228; Matthew 18:17*26488; 2 Timothy 3:5*33422; 1 Corinthians 5:9*31830; 2 John 10*34335",
+        "a": "n"
+    },
+    {
+        "o": 33220,
+        "r": "esv:2 Thessalonians:3:6",
+        "w": 18,
+        "l": {},
+        "c": "1 Corinthians 5:11*31832",
+        "a": "o"
+    },
+    {
+        "o": 33220,
+        "r": "esv:2 Thessalonians:3:6",
+        "w": 19,
+        "l": {},
+        "c": "2 Thessalonians 3:11*33225; 1 Thessalonians 5:14*33161",
+        "a": "p"
+    },
+    {
+        "o": 33221,
+        "r": "esv:2 Thessalonians:3:7",
+        "w": 3,
+        "l": {},
+        "c": "Acts 20:35*30932; 1 Thessalonians 1:6*33081",
+        "a": "q"
+    },
+    {
+        "o": 33221,
+        "r": "esv:2 Thessalonians:3:7",
+        "w": 10,
+        "l": {},
+        "c": "1 Thessalonians 1:5*33080",
+        "a": "r"
+    },
+    {
+        "o": 33222,
+        "r": "esv:2 Thessalonians:3:8",
+        "w": 10,
+        "l": {},
+        "c": "1 Thessalonians 2:9*33096",
+        "a": "s"
+    },
+    {
+        "o": 33223,
+        "r": "esv:2 Thessalonians:3:9",
+        "w": 1,
+        "l": {},
+        "c": "1 Corinthians 9:4*31922; 1 Thessalonians 2:6*33093",
+        "a": "t"
+    },
+    {
+        "o": 33223,
+        "r": "esv:2 Thessalonians:3:9",
+        "w": 15,
+        "l": {},
+        "c": "2 Thessalonians 3:7*33221; 1 Peter 5:3*34117",
+        "a": "u"
+    },
+    {
+        "o": 33224,
+        "r": "esv:2 Thessalonians:3:10",
+        "w": 12,
+        "l": {},
+        "c": "Genesis 3:19*82; 1 Thessalonians 4:11*33136",
+        "a": "v"
+    },
+    {
+        "o": 33225,
+        "r": "esv:2 Thessalonians:3:11",
+        "w": 6,
+        "l": {},
+        "c": "2 Thessalonians 3:6*33220",
+        "a": "w"
+    },
+    {
+        "o": 33225,
+        "r": "esv:2 Thessalonians:3:11",
+        "w": 14,
+        "l": {},
+        "c": "1 Timothy 5:13*33328; 1 Peter 4:15*34108",
+        "a": "x"
+    },
+    {
+        "o": 33226,
+        "r": "esv:2 Thessalonians:3:12",
+        "w": 22,
+        "l": {},
+        "t": "Greek to*i eat*i their*i own*i bread*i",
+        "a": "y"
+    },
+    {
+        "o": 33227,
+        "r": "esv:2 Thessalonians:3:13",
+        "w": 3,
+        "l": {},
+        "c": "Galatians 6:9*32656; 1 Corinthians 15:58*32173",
+        "a": "z"
+    },
+    {
+        "o": 33228,
+        "r": "esv:2 Thessalonians:3:14",
+        "w": 16,
+        "l": {},
+        "c": "2 Thessalonians 3:6*33220",
+        "a": "a"
+    },
+    {
+        "o": 33229,
+        "r": "esv:2 Thessalonians:3:15",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 19:17*3586; Matthew 18:15*26486",
+        "a": "b"
+    },
+    {
+        "o": 33229,
+        "r": "esv:2 Thessalonians:3:15",
+        "w": 7,
+        "l": {},
+        "c": "1 Thessalonians 5:12*33159; 1 Thessalonians 5:14*33161; Titus 3:10*33509",
+        "a": "c"
+    },
+    {
+        "o": 33231,
+        "r": "esv:2 Thessalonians:3:16",
+        "w": 1,
+        "l": {},
+        "c": "Romans 15:33*31686; Ephesians 6:23*32841",
+        "a": "d"
+    },
+    {
+        "o": 33231,
+        "r": "esv:2 Thessalonians:3:16",
+        "w": 6,
+        "l": {},
+        "c": "Numbers 6:26*4189",
+        "a": "e"
+    },
+    {
+        "o": 33231,
+        "r": "esv:2 Thessalonians:3:16",
+        "w": 15,
+        "l": {},
+        "c": "Ruth 2:4*7826",
+        "a": "f"
+    },
+    {
+        "o": 33232,
+        "r": "esv:2 Thessalonians:3:17",
+        "w": 2,
+        "l": {},
+        "c": "1 Corinthians 16:21*32199",
+        "a": "g"
+    },
+    {
+        "o": 33233,
+        "r": "esv:2 Thessalonians:3:18",
+        "w": 0,
+        "l": {},
+        "c": "Romans 16:20*31709",
+        "a": "h"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "o": 5144,
+        "r": "esv:Numbers:32:1",
+        "w": 22,
+        "l": {},
+        "c": "Numbers 32:3*5146; Numbers 32:35*5178; Numbers 21:32*4763",
+        "a": "a"
+    },
+    {
+        "o": 5146,
+        "r": "esv:Numbers:32:3",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 32:34*5177",
+        "a": "b"
+    },
+    {
+        "o": 5146,
+        "r": "esv:Numbers:32:3",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 32:34*5177; Numbers 21:30*4761",
+        "a": "c"
+    },
+    {
+        "o": 5146,
+        "r": "esv:Numbers:32:3",
+        "w": 6,
+        "l": {},
+        "c": "Numbers 32:38*5181; Numbers 33:47*5234; Deuteronomy 32:49*6343; 1 Chronicles 5:8*11468; Isaiah 15:2*19978; Isaiah 46:1*20680; Jeremiah 48:1*22343; Jeremiah 48:22*22364",
+        "a": "d"
+    },
+    {
+        "o": 5147,
+        "r": "esv:Numbers:32:4",
+        "w": 1,
+        "l": {},
+        "c": "Numbers 21:24*4754; Numbers 21:34*4765; Numbers 32:33*5176",
+        "a": "e"
+    },
+    {
+        "o": 5151,
+        "r": "esv:Numbers:32:8",
+        "w": 3,
+        "l": {},
+        "c": "Numbers 13:3*4438; Numbers 13:21–33*4456; Deuteronomy 1:22–28*5354",
+        "a": "f"
+    },
+    {
+        "o": 5153,
+        "r": "esv:Numbers:32:10",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 32:10–12*5153; Deuteronomy 1:34–36*5367",
+        "a": "g"
+    },
+    {
+        "o": 5154,
+        "r": "esv:Numbers:32:11",
+        "w": 10,
+        "l": {},
+        "c": "Numbers 14:29*4502",
+        "a": "h"
+    },
+    {
+        "o": 5154,
+        "r": "esv:Numbers:32:11",
+        "w": 25,
+        "l": {},
+        "c": "Genesis 50:24*1656",
+        "a": "i"
+    },
+    {
+        "o": 5155,
+        "r": "esv:Numbers:32:12",
+        "w": 7,
+        "l": {},
+        "c": "Joshua 14:6*6771; Joshua 15:17*6799",
+        "a": "j"
+    },
+    {
+        "o": 5155,
+        "r": "esv:Numbers:32:12",
+        "w": 15,
+        "l": {},
+        "c": "Numbers 14:24*4497; Deuteronomy 1:36*5369; Joshua 14:8–9*6773",
+        "a": "k"
+    },
+    {
+        "o": 5156,
+        "r": "esv:Numbers:32:13",
+        "w": 11,
+        "l": {},
+        "c": "Numbers 14:33–35*4506",
+        "a": "l"
+    },
+    {
+        "o": 5156,
+        "r": "esv:Numbers:32:13",
+        "w": 18,
+        "l": {},
+        "c": "Numbers 26:64–65*4958",
+        "a": "m"
+    },
+    {
+        "o": 5158,
+        "r": "esv:Numbers:32:15",
+        "w": 2,
+        "l": {},
+        "c": "Deuteronomy 30:17*6254; Joshua 22:16*7043; Joshua 22:18*7045; 2 Chronicles 7:19–20*12469; 2 Chronicles 15:2*12638",
+        "a": "n"
+    },
+    {
+        "o": 5159,
+        "r": "esv:Numbers:32:16",
+        "w": 7,
+        "l": {},
+        "c": "Numbers 32:24*5167",
+        "a": "o"
+    },
+    {
+        "o": 5160,
+        "r": "esv:Numbers:32:17",
+        "w": 0,
+        "l": {},
+        "c": "Joshua 4:12–13*6471",
+        "a": "p"
+    },
+    {
+        "o": 5161,
+        "r": "esv:Numbers:32:18",
+        "w": 0,
+        "l": {},
+        "c": "Joshua 22:4*7030",
+        "a": "q"
+    },
+    {
+        "o": 5162,
+        "r": "esv:Numbers:32:19",
+        "w": 15,
+        "l": {},
+        "c": "Numbers 32:33*5176; Joshua 12:1*6702; Joshua 13:8*6737",
+        "a": "r"
+    },
+    {
+        "o": 5163,
+        "r": "esv:Numbers:32:20",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 3:18*5439; Joshua 1:13–14*6407; Joshua 4:12–13*6471",
+        "a": "s"
+    },
+    {
+        "o": 5164,
+        "r": "esv:Numbers:32:21",
+        "w": 16,
+        "l": {},
+        "c": "Numbers 33:52*5240",
+        "a": "t"
+    },
+    {
+        "o": 5165,
+        "r": "esv:Numbers:32:22",
+        "w": 25,
+        "l": {},
+        "c": "Deuteronomy 3:12*5433; Deuteronomy 3:15–16*5436; Deuteronomy 3:18*5439; Joshua 1:15*6409; Joshua 13:8*6737; Joshua 13:32*6761; Joshua 22:4*7030; Joshua 22:9*7036",
+        "a": "u"
+    },
+    {
+        "o": 5166,
+        "r": "esv:Numbers:32:23",
+        "w": 14,
+        "l": {},
+        "c": "Genesis 44:16*1450; Isaiah 59:12*20935",
+        "a": "v"
+    },
+    {
+        "o": 5167,
+        "r": "esv:Numbers:32:24",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 32:16*5159; Numbers 32:34–38*5177",
+        "a": "w"
+    },
+    {
+        "o": 5169,
+        "r": "esv:Numbers:32:26",
+        "w": 0,
+        "l": {},
+        "c": "Joshua 1:14*6408",
+        "a": "x"
+    },
+    {
+        "o": 5170,
+        "r": "esv:Numbers:32:27",
+        "w": 0,
+        "l": {},
+        "c": "Joshua 4:12–13*6471",
+        "a": "y"
+    },
+    {
+        "o": 5170,
+        "r": "esv:Numbers:32:27",
+        "w": 9,
+        "l": {},
+        "c": "Numbers 31:5*5092",
+        "a": "z"
+    },
+    {
+        "o": 5171,
+        "r": "esv:Numbers:32:28",
+        "w": 0,
+        "l": {},
+        "c": "Joshua 1:13*6407",
+        "a": "a"
+    },
+    {
+        "o": 5171,
+        "r": "esv:Numbers:32:28",
+        "w": 11,
+        "l": {},
+        "c": "Numbers 27:18*4980",
+        "a": "b"
+    },
+    {
+        "o": 5176,
+        "r": "esv:Numbers:32:33",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 29:8*6213; Joshua 12:6*6708; Joshua 13:8*6737; Joshua 22:4*7030; Deuteronomy 3:12–17*5433",
+        "a": "c"
+    },
+    {
+        "o": 5177,
+        "r": "esv:Numbers:32:34",
+        "w": 5,
+        "l": {},
+        "c": "Numbers 32:3*5146",
+        "a": "d"
+    },
+    {
+        "o": 5177,
+        "r": "esv:Numbers:32:34",
+        "w": 6,
+        "l": {},
+        "c": "Numbers 32:3*5146",
+        "a": "e"
+    },
+    {
+        "o": 5177,
+        "r": "esv:Numbers:32:34",
+        "w": 7,
+        "l": {},
+        "c": "Deuteronomy 2:36*5418",
+        "a": "f"
+    },
+    {
+        "o": 5178,
+        "r": "esv:Numbers:32:35",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 32:1*5144; Numbers 21:32*4763",
+        "a": "g"
+    },
+    {
+        "o": 5179,
+        "r": "esv:Numbers:32:36",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 32:3*5146",
+        "a": "h"
+    },
+    {
+        "o": 5179,
+        "r": "esv:Numbers:32:36",
+        "w": 2,
+        "l": {},
+        "c": "Numbers 32:17*5160",
+        "a": "i"
+    },
+    {
+        "o": 5180,
+        "r": "esv:Numbers:32:37",
+        "w": 5,
+        "l": {},
+        "c": "Numbers 32:3*5146; Numbers 21:27*4757",
+        "a": "j"
+    },
+    {
+        "o": 5180,
+        "r": "esv:Numbers:32:37",
+        "w": 6,
+        "l": {},
+        "c": "Numbers 32:34*5177",
+        "a": "k"
+    },
+    {
+        "o": 5181,
+        "r": "esv:Numbers:32:38",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 32:3*5146",
+        "a": "l"
+    },
+    {
+        "o": 5181,
+        "r": "esv:Numbers:32:38",
+        "w": 1,
+        "l": {},
+        "c": "Numbers 32:3*5146; Joshua 13:17*6746; Jeremiah 48:23*22365",
+        "a": "m"
+    },
+    {
+        "o": 5181,
+        "r": "esv:Numbers:32:38",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 23:13*2349; Joshua 23:7*7070",
+        "a": "n"
+    },
+    {
+        "o": 5181,
+        "r": "esv:Numbers:32:38",
+        "w": 7,
+        "l": {},
+        "c": "Numbers 32:36*5179",
+        "a": "o"
+    },
+    {
+        "o": 5182,
+        "r": "esv:Numbers:32:39",
+        "w": 3,
+        "l": {},
+        "c": "Genesis 50:23*1655; 1 Chronicles 7:14–15*11590",
+        "a": "p"
+    },
+    {
+        "o": 5183,
+        "r": "esv:Numbers:32:40",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 3:13*5434; Deuteronomy 3:15*5436; Joshua 13:31*6760; Joshua 17:1*6859",
+        "a": "q"
+    },
+    {
+        "o": 5184,
+        "r": "esv:Numbers:32:41",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 3:14*5435; 1 Chronicles 2:21–23*11352",
+        "a": "r"
+    },
+    {
+        "o": 5184,
+        "r": "esv:Numbers:32:41",
+        "w": 14,
+        "l": {},
+        "t": "Havvoth-jair*i means the*i villages*i of*i Jair*i",
+        "a": "s"
+    }
+]

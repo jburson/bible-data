@@ -1,0 +1,50 @@
+[
+    {
+        "o": 153,
+        "r": "niv:Genesis:6:3",
+        "w": 9,
+        "l": {},
+        "t": "6:3*r Or My*i spirit*i will*i not*i remain*i in*i",
+        "a": "a"
+    },
+    {
+        "o": 153,
+        "r": "niv:Genesis:6:3",
+        "w": 15,
+        "l": {},
+        "t": "6:3*r Or corrupt*i",
+        "a": "b"
+    },
+    {
+        "o": 165,
+        "r": "niv:Genesis:6:14",
+        "w": 6,
+        "l": {},
+        "t": "6:14*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "c"
+    },
+    {
+        "o": 166,
+        "r": "niv:Genesis:6:15",
+        "w": 23,
+        "l": {},
+        "t": "6:15*r That is, about 450 feet long, 75 feet wide and 45 feet high or about 135 meters long, 23 meters wide and 14 meters high",
+        "a": "d"
+    },
+    {
+        "o": 167,
+        "r": "niv:Genesis:6:16",
+        "w": 12,
+        "l": {},
+        "t": "6:16*r That is, about 18 inches or about 45 centimeters",
+        "a": "e"
+    },
+    {
+        "o": 167,
+        "r": "niv:Genesis:6:16",
+        "w": 15,
+        "l": {},
+        "t": "6:16*r The meaning of the Hebrew for this clause is uncertain.",
+        "a": "f"
+    }
+]

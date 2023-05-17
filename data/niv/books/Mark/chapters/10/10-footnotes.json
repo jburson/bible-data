@@ -1,0 +1,42 @@
+[
+    {
+        "o": 27139,
+        "r": "niv:Mark:10:6",
+        "w": 11,
+        "l": {},
+        "t": "10:6*r Gen. 1:27",
+        "a": "a"
+    },
+    {
+        "o": 27140,
+        "r": "niv:Mark:10:7",
+        "w": 16,
+        "l": {},
+        "t": "10:7*r Some early manuscripts do not have and*i be*i united*i to*i his*i wife.*i",
+        "a": "b"
+    },
+    {
+        "o": 27141,
+        "r": "niv:Mark:10:8",
+        "w": 6,
+        "l": {},
+        "t": "10:8*r Gen. 2:24",
+        "a": "c"
+    },
+    {
+        "o": 27154,
+        "r": "niv:Mark:10:19",
+        "w": 31,
+        "l": {},
+        "t": "10:19*r Exodus 20:12-16; Deut. 5:16-20",
+        "a": "d"
+    },
+    {
+        "o": 27159,
+        "r": "niv:Mark:10:24",
+        "w": 15,
+        "l": {},
+        "t": "10:24*r Some manuscripts is*i for*i those*i who*i trust*i in*i riches*i",
+        "a": "e"
+    }
+]

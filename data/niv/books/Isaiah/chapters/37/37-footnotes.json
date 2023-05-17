@@ -1,0 +1,34 @@
+[
+    {
+        "o": 20190,
+        "r": "niv:Isaiah:37:9",
+        "w": 10,
+        "l": {},
+        "t": "37:9*r That is, the upper Nile region",
+        "a": "a"
+    },
+    {
+        "o": 20202,
+        "r": "niv:Isaiah:37:20",
+        "w": 25,
+        "l": {},
+        "t": "37:20*r Dead Sea Scrolls (see also 2 Kings 19:19); Masoretic Text you*i alone*i are*i the*i Lord*i",
+        "a": "b"
+    },
+    {
+        "o": 20208,
+        "r": "niv:Isaiah:37:25",
+        "w": 6,
+        "l": {},
+        "t": "37:25*r Dead Sea Scrolls (see also 2 Kings 19:24); Masoretic Text does not have in*i foreign*i lands*i .*i",
+        "a": "c"
+    },
+    {
+        "o": 20210,
+        "r": "niv:Isaiah:37:27",
+        "w": 28,
+        "l": {},
+        "t": "37:27*r Some manuscripts of the Masoretic Text, Dead Sea Scrolls and some Septuagint manuscripts (see also 2 Kings 19:26); most manuscripts of the Masoretic Text roof*i /*i and*i terraced*i fields*i",
+        "a": "d"
+    }
+]

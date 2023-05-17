@@ -1,0 +1,34 @@
+[
+    {
+        "o": 17291,
+        "r": "niv:Psalm:110:1",
+        "w": 5,
+        "l": {},
+        "t": "110:1*r Or Lord*i",
+        "a": "a"
+    },
+    {
+        "o": 17293,
+        "r": "niv:Psalm:110:3",
+        "w": 26,
+        "l": {},
+        "t": "110:3*r The meaning of the Hebrew for this sentence is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 17295,
+        "r": "niv:Psalm:110:5",
+        "w": 6,
+        "l": {},
+        "t": "110:5*r Or My*i lord*i is*i at*i your*i right*i hand,*i Lord*i",
+        "a": "c"
+    },
+    {
+        "o": 17297,
+        "r": "niv:Psalm:110:7",
+        "w": 8,
+        "l": {},
+        "t": "110:7*r The meaning of the Hebrew for this clause is uncertain.",
+        "a": "d"
+    }
+]

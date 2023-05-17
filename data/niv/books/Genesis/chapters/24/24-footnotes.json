@@ -1,0 +1,50 @@
+[
+    {
+        "o": 658,
+        "r": "niv:Genesis:24:7",
+        "w": 31,
+        "l": {},
+        "t": "24:7*r Or seed*i",
+        "a": "a"
+    },
+    {
+        "o": 661,
+        "r": "niv:Genesis:24:10",
+        "w": 27,
+        "l": {},
+        "t": "24:10*r That is, Northwest Mesopotamia",
+        "a": "b"
+    },
+    {
+        "o": 673,
+        "r": "niv:Genesis:24:22",
+        "w": 16,
+        "l": {},
+        "t": "24:22*r That is, about 1/5 ounce or about 5.7 grams",
+        "a": "c"
+    },
+    {
+        "o": 673,
+        "r": "niv:Genesis:24:22",
+        "w": 23,
+        "l": {},
+        "t": "24:22*r That is, about 4 ounces or about 115 grams",
+        "a": "d"
+    },
+    {
+        "o": 706,
+        "r": "niv:Genesis:24:55",
+        "w": 19,
+        "l": {},
+        "t": "24:55*r Or she*i",
+        "a": "e"
+    },
+    {
+        "o": 714,
+        "r": "niv:Genesis:24:63",
+        "w": 9,
+        "l": {},
+        "t": "24:63*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "f"
+    }
+]

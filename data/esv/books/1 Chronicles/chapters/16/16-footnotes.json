@@ -1,0 +1,378 @@
+[
+    {
+        "o": 11887,
+        "r": "esv:1 Chronicles:16:1",
+        "w": 11,
+        "l": {},
+        "c": "1 Chronicles 15:1*11856",
+        "a": "a"
+    },
+    {
+        "o": 11889,
+        "r": "esv:1 Chronicles:16:3",
+        "w": 18,
+        "l": {},
+        "t": "Compare Septuagint, Syriac, Vulgate; the meaning of the Hebrew is uncertain",
+        "a": "b"
+    },
+    {
+        "o": 11891,
+        "r": "esv:1 Chronicles:16:5",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 6:39*11529",
+        "a": "c"
+    },
+    {
+        "o": 11893,
+        "r": "esv:1 Chronicles:16:7",
+        "w": 3,
+        "l": {},
+        "c": "2 Samuel 22:1*9434; 2 Samuel 23:1*9487",
+        "a": "d"
+    },
+    {
+        "o": 11895,
+        "r": "esv:1 Chronicles:16:8",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 16:8–22*11895; Psalm 105:1–15*17303",
+        "a": "e"
+    },
+    {
+        "o": 11895,
+        "r": "esv:1 Chronicles:16:8",
+        "w": 5,
+        "l": {},
+        "c": "Isaiah 12:4*19911",
+        "a": "f"
+    },
+    {
+        "o": 11895,
+        "r": "esv:1 Chronicles:16:8",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 145:11–12*18156",
+        "a": "g"
+    },
+    {
+        "o": 11898,
+        "r": "esv:1 Chronicles:16:11",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 24:6*15709; Psalm 27:8*15764",
+        "a": "h"
+    },
+    {
+        "o": 11899,
+        "r": "esv:1 Chronicles:16:12",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 77:11*16724; Psalm 143:5*18117",
+        "a": "i"
+    },
+    {
+        "o": 11899,
+        "r": "esv:1 Chronicles:16:12",
+        "w": 7,
+        "l": {},
+        "c": "Psalm 78:43*16779",
+        "a": "j"
+    },
+    {
+        "o": 11901,
+        "r": "esv:1 Chronicles:16:14",
+        "w": 5,
+        "l": {},
+        "c": "Isaiah 26:9*20177",
+        "a": "k"
+    },
+    {
+        "o": 11903,
+        "r": "esv:1 Chronicles:16:16",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 17:2*440; Genesis 22:16*619; Genesis 26:3*761; Genesis 28:13*859; Luke 1:73*27885",
+        "a": "l"
+    },
+    {
+        "o": 11904,
+        "r": "esv:1 Chronicles:16:17",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 35:11–12*1111",
+        "a": "m"
+    },
+    {
+        "o": 11905,
+        "r": "esv:1 Chronicles:16:18",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 13:15*365; Genesis 15:18–21*415",
+        "a": "n"
+    },
+    {
+        "o": 11906,
+        "r": "esv:1 Chronicles:16:19",
+        "w": 2,
+        "l": {},
+        "c": "Deuteronomy 7:7*5577; Deuteronomy 26:5*6089",
+        "a": "o"
+    },
+    {
+        "o": 11906,
+        "r": "esv:1 Chronicles:16:19",
+        "w": 9,
+        "l": {},
+        "c": "Hebrews 11:9*33790",
+        "a": "p"
+    },
+    {
+        "o": 11908,
+        "r": "esv:1 Chronicles:16:21",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 12:17*345; Genesis 20:3*548",
+        "a": "q"
+    },
+    {
+        "o": 11909,
+        "r": "esv:1 Chronicles:16:22",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 20:7*552",
+        "a": "r"
+    },
+    {
+        "o": 11910,
+        "r": "esv:1 Chronicles:16:23",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 16:23–33*11910; Psalm 96*17138",
+        "a": "s"
+    },
+    {
+        "o": 11912,
+        "r": "esv:1 Chronicles:16:25",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 145:3*18148",
+        "a": "t"
+    },
+    {
+        "o": 11912,
+        "r": "esv:1 Chronicles:16:25",
+        "w": 15,
+        "l": {},
+        "c": "Psalm 95:3*17128",
+        "a": "u"
+    },
+    {
+        "o": 11913,
+        "r": "esv:1 Chronicles:16:26",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 115:15*17565; Isaiah 42:5*20564; Isaiah 44:24*20645; Jeremiah 10:11–12*21377",
+        "a": "v"
+    },
+    {
+        "o": 11915,
+        "r": "esv:1 Chronicles:16:28",
+        "w": 8,
+        "l": {},
+        "c": "Psalm 29:1*15786",
+        "a": "w"
+    },
+    {
+        "o": 11916,
+        "r": "esv:1 Chronicles:16:29",
+        "w": 15,
+        "l": {},
+        "c": "Psalm 110:3*17499",
+        "a": "x"
+    },
+    {
+        "o": 11916,
+        "r": "esv:1 Chronicles:16:29",
+        "w": 23,
+        "l": {},
+        "t": "Or in*i holy*i attire*i",
+        "a": "y"
+    },
+    {
+        "o": 11918,
+        "r": "esv:1 Chronicles:16:31",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 49:13*20750",
+        "a": "z"
+    },
+    {
+        "o": 11918,
+        "r": "esv:1 Chronicles:16:31",
+        "w": 16,
+        "l": {},
+        "c": "Psalm 93:1*17094; Psalm 97:1*17154; Psalm 99:1*17180; Isaiah 52:7*20810; Revelation 11:15*34609; Revelation 11:17*34611; Revelation 19:6*34767",
+        "a": "a"
+    },
+    {
+        "o": 11919,
+        "r": "esv:1 Chronicles:16:32",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 98:7*17175",
+        "a": "b"
+    },
+    {
+        "o": 11922,
+        "r": "esv:1 Chronicles:16:35",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 16:35–36*11922; Psalm 106:47–48*17396",
+        "a": "c"
+    },
+    {
+        "o": 11923,
+        "r": "esv:1 Chronicles:16:36",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 41:13*16067; 1 Kings 8:15*9863",
+        "a": "d"
+    },
+    {
+        "o": 11923,
+        "r": "esv:1 Chronicles:16:36",
+        "w": 11,
+        "l": {},
+        "c": "Deuteronomy 27:15*6121; Psalm 106:48*17397",
+        "a": "e"
+    },
+    {
+        "o": 11925,
+        "r": "esv:1 Chronicles:16:37",
+        "w": 7,
+        "l": {},
+        "c": "1 Chronicles 16:4–5*11890",
+        "a": "f"
+    },
+    {
+        "o": 11925,
+        "r": "esv:1 Chronicles:16:37",
+        "w": 22,
+        "l": {},
+        "c": "2 Chronicles 31:16*13064",
+        "a": "g"
+    },
+    {
+        "o": 11926,
+        "r": "esv:1 Chronicles:16:38",
+        "w": 1,
+        "l": {},
+        "c": "1 Chronicles 26:4*12175",
+        "a": "h"
+    },
+    {
+        "o": 11926,
+        "r": "esv:1 Chronicles:16:38",
+        "w": 4,
+        "l": {},
+        "t": "Hebrew their*i",
+        "a": "i"
+    },
+    {
+        "o": 11926,
+        "r": "esv:1 Chronicles:16:38",
+        "w": 7,
+        "l": {},
+        "c": "1 Chronicles 26:4*12175",
+        "a": "j"
+    },
+    {
+        "o": 11926,
+        "r": "esv:1 Chronicles:16:38",
+        "w": 13,
+        "l": {},
+        "c": "1 Chronicles 26:10*12181; 1 Chronicles 26:16*12187",
+        "a": "k"
+    },
+    {
+        "o": 11927,
+        "r": "esv:1 Chronicles:16:39",
+        "w": 2,
+        "l": {},
+        "c": "1 Chronicles 15:11*11866",
+        "a": "l"
+    },
+    {
+        "o": 11927,
+        "r": "esv:1 Chronicles:16:39",
+        "w": 16,
+        "l": {},
+        "c": "1 Kings 3:4*9669",
+        "a": "m"
+    },
+    {
+        "o": 11928,
+        "r": "esv:1 Chronicles:16:40",
+        "w": 6,
+        "l": {},
+        "c": "Exodus 27:1*2477",
+        "a": "n"
+    },
+    {
+        "o": 11928,
+        "r": "esv:1 Chronicles:16:40",
+        "w": 12,
+        "l": {},
+        "c": "Exodus 29:38–41*2584; Numbers 28:3–8*4990",
+        "a": "o"
+    },
+    {
+        "o": 11929,
+        "r": "esv:1 Chronicles:16:41",
+        "w": 2,
+        "l": {},
+        "c": "1 Chronicles 6:33*11523",
+        "a": "p"
+    },
+    {
+        "o": 11929,
+        "r": "esv:1 Chronicles:16:41",
+        "w": 5,
+        "l": {},
+        "c": "1 Chronicles 25:1*12139; 1 Chronicles 25:3*12141; 1 Chronicles 25:6*12144",
+        "a": "q"
+    },
+    {
+        "o": 11929,
+        "r": "esv:1 Chronicles:16:41",
+        "w": 12,
+        "l": {},
+        "c": "Numbers 1:17*3945",
+        "a": "r"
+    },
+    {
+        "o": 11929,
+        "r": "esv:1 Chronicles:16:41",
+        "w": 20,
+        "l": {},
+        "c": "2 Chronicles 5:13*12400; 2 Chronicles 7:3*12452; 2 Chronicles 7:6*12455; 2 Chronicles 20:21*12765; Ezra 3:11*13329; Jeremiah 33:11*22013; 1 Chronicles 16:34*11921",
+        "a": "s"
+    },
+    {
+        "o": 11930,
+        "r": "esv:1 Chronicles:16:42",
+        "w": 11,
+        "l": {},
+        "c": "1 Chronicles 25:7*12145; 2 Chronicles 29:27*13008",
+        "a": "t"
+    },
+    {
+        "o": 11931,
+        "r": "esv:1 Chronicles:16:43",
+        "w": 0,
+        "l": {},
+        "c": "2 Samuel 6:19–20*8958",
+        "a": "u"
+    }
+]

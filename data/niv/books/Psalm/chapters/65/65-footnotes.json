@@ -1,0 +1,34 @@
+[
+    {
+        "o": 16280,
+        "r": "niv:Psalm:65:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 65:1-13 is numbered 65:2-14.",
+        "a": "a"
+    },
+    {
+        "o": 16281,
+        "r": "niv:Psalm:65:1",
+        "w": 1,
+        "l": {},
+        "t": "65:1*r Or befits*i ; the meaning of the Hebrew for this word is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 16283,
+        "r": "niv:Psalm:65:3",
+        "w": 7,
+        "l": {},
+        "t": "65:3*r Or made*i atonement*i for*i",
+        "a": "c"
+    },
+    {
+        "o": 16289,
+        "r": "niv:Psalm:65:9",
+        "w": 31,
+        "l": {},
+        "t": "65:9*r Or for*i that*i is*i how*i you*i prepare*i the*i land*i",
+        "a": "d"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "o": 2336,
+        "r": "esv:Exodus:23:1",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 19:11*3580; Psalm 15:3*15525; Psalm 101:5*17204",
+        "a": "a"
+    },
+    {
+        "o": 2336,
+        "r": "esv:Exodus:23:1",
+        "w": 18,
+        "l": {},
+        "c": "Deuteronomy 19:16–18*5917; Psalm 35:11*15915; 1 Kings 21:10*10376; 1 Kings 21:13*10379; Matthew 26:59–61*26903; Acts 6:11*30321; Acts 6:13*30323",
+        "a": "b"
+    },
+    {
+        "o": 2338,
+        "r": "esv:Exodus:23:3",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 19:15*3584; Deuteronomy 1:17*5348",
+        "a": "c"
+    },
+    {
+        "o": 2339,
+        "r": "esv:Exodus:23:4",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 22:1*5976; Deuteronomy 22:4*5979; Proverbs 25:21*19012; Matthew 5:44*25936; Romans 12:20*31604; 1 Thessalonians 5:15*33162",
+        "a": "d"
+    },
+    {
+        "o": 2341,
+        "r": "esv:Exodus:23:6",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 27:19*6125; Ecclesiastes 5:8*19308; Isaiah 10:1–2*19852; Jeremiah 5:28–29*21240; Malachi 3:5*25753",
+        "a": "e"
+    },
+    {
+        "o": 2342,
+        "r": "esv:Exodus:23:7",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 23:1*2336",
+        "a": "f"
+    },
+    {
+        "o": 2342,
+        "r": "esv:Exodus:23:7",
+        "w": 6,
+        "l": {},
+        "c": "Deuteronomy 27:25*6131; Proverbs 17:26*18766",
+        "a": "g"
+    },
+    {
+        "o": 2342,
+        "r": "esv:Exodus:23:7",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 34:7*2729",
+        "a": "h"
+    },
+    {
+        "o": 2343,
+        "r": "esv:Exodus:23:8",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 16:19*5844; 1 Samuel 8:3*8072; 2 Chronicles 19:7*12738; Psalm 26:10*15751; Proverbs 17:23*18763; Isaiah 1:23*19655; Isaiah 5:23*19750; Isaiah 33:15*20350",
+        "a": "i"
+    },
+    {
+        "o": 2344,
+        "r": "esv:Exodus:23:9",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 22:21*2324",
+        "a": "j"
+    },
+    {
+        "o": 2346,
+        "r": "esv:Exodus:23:10",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 25:3–4*3785",
+        "a": "k"
+    },
+    {
+        "o": 2348,
+        "r": "esv:Exodus:23:12",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 20:9*2244",
+        "a": "l"
+    },
+    {
+        "o": 2349,
+        "r": "esv:Exodus:23:13",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 4:9*5462; Joshua 22:5*7031; Joshua 23:7*7070; Hosea 2:17*24582; Zechariah 13:2*25677",
+        "a": "m"
+    },
+    {
+        "o": 2350,
+        "r": "esv:Exodus:23:14",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 23:17*2353; Exodus 34:23*2746; Deuteronomy 16:16*5840",
+        "a": "n"
+    },
+    {
+        "o": 2351,
+        "r": "esv:Exodus:23:15",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 12:15*1992",
+        "a": "o"
+    },
+    {
+        "o": 2351,
+        "r": "esv:Exodus:23:15",
+        "w": 27,
+        "l": {},
+        "c": "Exodus 13:4*2038",
+        "a": "p"
+    },
+    {
+        "o": 2351,
+        "r": "esv:Exodus:23:15",
+        "w": 36,
+        "l": {},
+        "c": "Exodus 34:20*2743; Deuteronomy 16:16*5840",
+        "a": "q"
+    },
+    {
+        "o": 2352,
+        "r": "esv:Exodus:23:16",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 34:22*2745; Leviticus 23:9–21*3713",
+        "a": "r"
+    },
+    {
+        "o": 2352,
+        "r": "esv:Exodus:23:16",
+        "w": 23,
+        "l": {},
+        "c": "Deuteronomy 16:13*5837; Leviticus 23:34–44*3742",
+        "a": "s"
+    },
+    {
+        "o": 2353,
+        "r": "esv:Exodus:23:17",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 23:14*2350",
+        "a": "t"
+    },
+    {
+        "o": 2354,
+        "r": "esv:Exodus:23:18",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 12:8*1985; Exodus 34:25*2748; Leviticus 2:11*3025",
+        "a": "u"
+    },
+    {
+        "o": 2355,
+        "r": "esv:Exodus:23:19",
+        "w": 3,
+        "l": {},
+        "c": "Exodus 34:26*2749; Leviticus 2:12*3026; Leviticus 23:10*3714; Leviticus 23:17*3722; Numbers 18:12–13*4646; Deuteronomy 26:2*6086; Deuteronomy 26:10*6094; Nehemiah 10:35*13857; Ezekiel 44:30*24033",
+        "a": "v"
+    },
+    {
+        "o": 2355,
+        "r": "esv:Exodus:23:19",
+        "w": 18,
+        "l": {},
+        "c": "Exodus 34:26*2749; Deuteronomy 14:21*5787",
+        "a": "w"
+    },
+    {
+        "o": 2357,
+        "r": "esv:Exodus:23:20",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 14:19*2078; Exodus 33:2*2697; Exodus 33:14*2711; Joshua 5:13–14*6500; Joshua 6:2*6506; Isaiah 63:9*21008",
+        "a": "x"
+    },
+    {
+        "o": 2358,
+        "r": "esv:Exodus:23:21",
+        "w": 8,
+        "l": {},
+        "c": "Psalm 78:40*16776; Psalm 78:56*16792",
+        "a": "y"
+    },
+    {
+        "o": 2358,
+        "r": "esv:Exodus:23:21",
+        "w": 13,
+        "l": {},
+        "c": "Exodus 32:34*2692; Exodus 34:7*2729; Numbers 14:35*4508; Joshua 24:19*7101",
+        "a": "z"
+    },
+    {
+        "o": 2359,
+        "r": "esv:Exodus:23:22",
+        "w": 13,
+        "l": {},
+        "c": "Genesis 12:3*330; Deuteronomy 30:7*6243; Jeremiah 30:20*21905",
+        "a": "a"
+    },
+    {
+        "o": 2360,
+        "r": "esv:Exodus:23:23",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 23:20*2357",
+        "a": "b"
+    },
+    {
+        "o": 2360,
+        "r": "esv:Exodus:23:23",
+        "w": 8,
+        "l": {},
+        "c": "Exodus 13:5*2039",
+        "a": "c"
+    },
+    {
+        "o": 2361,
+        "r": "esv:Exodus:23:24",
+        "w": 1,
+        "l": {},
+        "c": "Exodus 20:5*2240",
+        "a": "d"
+    },
+    {
+        "o": 2361,
+        "r": "esv:Exodus:23:24",
+        "w": 10,
+        "l": {},
+        "c": "Leviticus 18:3*3539; Deuteronomy 12:30–31*5742",
+        "a": "e"
+    },
+    {
+        "o": 2361,
+        "r": "esv:Exodus:23:24",
+        "w": 16,
+        "l": {},
+        "c": "Exodus 34:13*2736; Numbers 33:52*5240; Deuteronomy 7:5*5575; Deuteronomy 7:25*5595; Deuteronomy 12:3*5714",
+        "a": "f"
+    },
+    {
+        "o": 2361,
+        "r": "esv:Exodus:23:24",
+        "w": 24,
+        "l": {},
+        "c": "Deuteronomy 16:22*5848",
+        "a": "g"
+    },
+    {
+        "o": 2362,
+        "r": "esv:Exodus:23:25",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 6:13*5556; Deuteronomy 10:12*5665; Deuteronomy 10:20*5673; Deuteronomy 11:13*5690; Deuteronomy 13:4*5749; Joshua 22:5*7031; Matthew 4:10*25863",
+        "a": "h"
+    },
+    {
+        "o": 2362,
+        "r": "esv:Exodus:23:25",
+        "w": 7,
+        "l": {},
+        "c": "Deuteronomy 7:13*5583; Deuteronomy 28:5*6139; Deuteronomy 28:8*6142",
+        "a": "i"
+    },
+    {
+        "o": 2362,
+        "r": "esv:Exodus:23:25",
+        "w": 8,
+        "l": {},
+        "t": "Septuagint, Vulgate I*i",
+        "a": "j"
+    },
+    {
+        "o": 2362,
+        "r": "esv:Exodus:23:25",
+        "w": 16,
+        "l": {},
+        "c": "Exodus 15:26*2119; Deuteronomy 7:15*5585",
+        "a": "k"
+    },
+    {
+        "o": 2363,
+        "r": "esv:Exodus:23:26",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 7:14*5584",
+        "a": "l"
+    },
+    {
+        "o": 2363,
+        "r": "esv:Exodus:23:26",
+        "w": 12,
+        "l": {},
+        "c": "Job 5:26*14296; Psalm 55:23*16309",
+        "a": "m"
+    },
+    {
+        "o": 2364,
+        "r": "esv:Exodus:23:27",
+        "w": 2,
+        "l": {},
+        "c": "Deuteronomy 2:25*5407; Joshua 2:9*6423",
+        "a": "n"
+    },
+    {
+        "o": 2364,
+        "r": "esv:Exodus:23:27",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 7:23*5593",
+        "a": "o"
+    },
+    {
+        "o": 2365,
+        "r": "esv:Exodus:23:28",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 7:20*5590; Joshua 24:12*7093",
+        "a": "p"
+    },
+    {
+        "o": 2365,
+        "r": "esv:Exodus:23:28",
+        "w": 4,
+        "l": {},
+        "t": "Or the*i hornet*i",
+        "a": "q"
+    },
+    {
+        "o": 2366,
+        "r": "esv:Exodus:23:29",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 7:22*5592",
+        "a": "r"
+    },
+    {
+        "o": 2368,
+        "r": "esv:Exodus:23:31",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 15:18*415; Numbers 34:3*5249; Deuteronomy 11:24*5701; Joshua 1:4*6397; 1 Kings 4:21*9718; 1 Kings 4:24*9721; Psalm 72:8*16612",
+        "a": "s"
+    },
+    {
+        "o": 2368,
+        "r": "esv:Exodus:23:31",
+        "w": 22,
+        "l": {},
+        "t": "Hebrew the*i River*i",
+        "a": "t"
+    },
+    {
+        "o": 2368,
+        "r": "esv:Exodus:23:31",
+        "w": 23,
+        "l": {},
+        "c": "Joshua 21:44*7023; Judges 1:4*7122; Judges 11:21*7493",
+        "a": "u"
+    },
+    {
+        "o": 2369,
+        "r": "esv:Exodus:23:32",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 34:12*2735; Exodus 34:15*2738; Deuteronomy 7:2*5572",
+        "a": "v"
+    },
+    {
+        "o": 2370,
+        "r": "esv:Exodus:23:33",
+        "w": 19,
+        "l": {},
+        "c": "Exodus 34:12*2735; Deuteronomy 7:16*5586; Joshua 23:13*7076; Judges 2:3*7160; Psalm 106:36*17385",
+        "a": "w"
+    }
+]

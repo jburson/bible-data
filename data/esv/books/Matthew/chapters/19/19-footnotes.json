@@ -1,0 +1,386 @@
+[
+    {
+        "o": 26510,
+        "r": "esv:Matthew:19:1",
+        "w": 10,
+        "l": {},
+        "c": "Matthew 17:24*26464",
+        "a": "a"
+    },
+    {
+        "o": 26510,
+        "r": "esv:Matthew:19:1",
+        "w": 12,
+        "l": {},
+        "c": "Matthew 19:1–9*26510; Mark 10:1–12*27451",
+        "a": "b"
+    },
+    {
+        "o": 26510,
+        "r": "esv:Matthew:19:1",
+        "w": 13,
+        "l": {},
+        "c": "Luke 9:51*28332; Luke 17:11*28695; John 10:40*29650; Matthew 4:25*25881",
+        "a": "c"
+    },
+    {
+        "o": 26511,
+        "r": "esv:Matthew:19:2",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 12:15*26206",
+        "a": "d"
+    },
+    {
+        "o": 26512,
+        "r": "esv:Matthew:19:3",
+        "w": 6,
+        "l": {},
+        "c": "John 8:6*29507",
+        "a": "e"
+    },
+    {
+        "o": 26512,
+        "r": "esv:Matthew:19:3",
+        "w": 10,
+        "l": {},
+        "c": "Matthew 5:31*25920",
+        "a": "f"
+    },
+    {
+        "o": 26513,
+        "r": "esv:Matthew:19:4",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 1:27*29; Genesis 2:18*54; Genesis 2:21–23*57; Genesis 5:2*119; Matthew 21:16*26599",
+        "a": "g"
+    },
+    {
+        "o": 26514,
+        "r": "esv:Matthew:19:5",
+        "w": 1,
+        "l": {},
+        "c": "Ephesians 5:31*32811; Genesis 2:24*60",
+        "a": "h"
+    },
+    {
+        "o": 26514,
+        "r": "esv:Matthew:19:5",
+        "w": 18,
+        "l": {},
+        "c": "1 Corinthians 6:16*31853; Malachi 2:15*25743",
+        "a": "i"
+    },
+    {
+        "o": 26515,
+        "r": "esv:Matthew:19:6",
+        "w": 8,
+        "l": {},
+        "c": "1 Corinthians 7:10*31869",
+        "a": "j"
+    },
+    {
+        "o": 26516,
+        "r": "esv:Matthew:19:7",
+        "w": 3,
+        "l": {},
+        "c": "Deuteronomy 24:1–4*6038",
+        "a": "k"
+    },
+    {
+        "o": 26517,
+        "r": "esv:Matthew:19:8",
+        "w": 6,
+        "l": {},
+        "c": "Mark 16:14*27798; Mark 3:5*27116; Mark 6:52*27303; Hebrews 3:8*33593",
+        "a": "l"
+    },
+    {
+        "o": 26518,
+        "r": "esv:Matthew:19:9",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:32*25922",
+        "a": "m"
+    },
+    {
+        "o": 26518,
+        "r": "esv:Matthew:19:9",
+        "w": 17,
+        "l": {},
+        "t": "Some manuscripts add and*i whoever*i marries*i a*i divorced*i woman*i commits*i adultery*i ; other manuscripts except*i for*i sexual*i immorality,*i makes*i her*i commit*i adultery,*i and*i whoever*i marries*i a*i divorced*i woman*i commits*i adultery*i",
+        "a": "n"
+    },
+    {
+        "o": 26520,
+        "r": "esv:Matthew:19:11",
+        "w": 4,
+        "l": {},
+        "c": "1 Corinthians 7:2*31861; 1 Corinthians 7:7–9*31866; 1 Corinthians 7:17*31877",
+        "a": "o"
+    },
+    {
+        "o": 26520,
+        "r": "esv:Matthew:19:11",
+        "w": 12,
+        "l": {},
+        "c": "Matthew 20:23*26568",
+        "a": "p"
+    },
+    {
+        "o": 26520,
+        "r": "esv:Matthew:19:11",
+        "w": 14,
+        "l": {},
+        "c": "Matthew 13:11*26259",
+        "a": "q"
+    },
+    {
+        "o": 26521,
+        "r": "esv:Matthew:19:12",
+        "w": 29,
+        "l": {},
+        "c": "1 Corinthians 7:32*31893",
+        "a": "r"
+    },
+    {
+        "o": 26523,
+        "r": "esv:Matthew:19:13",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 19:13–15*26523; Mark 10:13–16*27464; Luke 18:15–17*28740",
+        "a": "s"
+    },
+    {
+        "o": 26523,
+        "r": "esv:Matthew:19:13",
+        "w": 17,
+        "l": {},
+        "c": "Mark 10:48*27503",
+        "a": "t"
+    },
+    {
+        "o": 26524,
+        "r": "esv:Matthew:19:14",
+        "w": 2,
+        "l": {},
+        "c": "Matthew 18:3*26472",
+        "a": "u"
+    },
+    {
+        "o": 26524,
+        "r": "esv:Matthew:19:14",
+        "w": 6,
+        "l": {},
+        "c": "Mark 9:39*27438",
+        "a": "v"
+    },
+    {
+        "o": 26527,
+        "r": "esv:Matthew:19:16",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 19:16–29*26527; Mark 10:17–30*27469; Luke 18:18–30*28744; Luke 10:25–28*28375",
+        "a": "w"
+    },
+    {
+        "o": 26527,
+        "r": "esv:Matthew:19:16",
+        "w": 16,
+        "l": {},
+        "c": "Matthew 19:29*26540",
+        "a": "x"
+    },
+    {
+        "o": 26527,
+        "r": "esv:Matthew:19:16",
+        "w": 17,
+        "l": {},
+        "c": "Matthew 25:46*26834; Matthew 18:8*26478",
+        "a": "y"
+    },
+    {
+        "o": 26528,
+        "r": "esv:Matthew:19:17",
+        "w": 20,
+        "l": {},
+        "c": "Leviticus 18:5*3541; Nehemiah 9:29*13810; Ezekiel 20:11*23237; Ezekiel 20:13*23239; Ezekiel 20:21*23247; Romans 10:5*31524; Galatians 3:12*32563",
+        "a": "z"
+    },
+    {
+        "o": 26529,
+        "r": "esv:Matthew:19:18",
+        "w": 8,
+        "l": {},
+        "c": "Romans 13:9*31617; Exodus 20:12–16*2247; Deuteronomy 5:16–20*5524; Matthew 5:21*25908; Matthew 5:27*25915",
+        "a": "a"
+    },
+    {
+        "o": 26530,
+        "r": "esv:Matthew:19:19",
+        "w": 5,
+        "l": {},
+        "c": "Matthew 5:43*25935; Matthew 22:39*26677; Mark 12:31*27581; Luke 10:27*28377; Galatians 5:14*32632; James 2:8*33924; Leviticus 19:18*3588",
+        "a": "b"
+    },
+    {
+        "o": 26531,
+        "r": "esv:Matthew:19:20",
+        "w": 5,
+        "l": {},
+        "c": "Philippians 3:6*32920",
+        "a": "c"
+    },
+    {
+        "o": 26532,
+        "r": "esv:Matthew:19:21",
+        "w": 7,
+        "l": {},
+        "c": "Matthew 5:48*25940",
+        "a": "d"
+    },
+    {
+        "o": 26532,
+        "r": "esv:Matthew:19:21",
+        "w": 9,
+        "l": {},
+        "c": "Luke 12:33*28494; Luke 16:9*28654; Luke 19:8*28781; Acts 2:45*30189; Acts 4:34–35*30258; 1 Timothy 6:18–19*33362",
+        "a": "e"
+    },
+    {
+        "o": 26532,
+        "r": "esv:Matthew:19:21",
+        "w": 22,
+        "l": {},
+        "c": "Matthew 6:19–20*25964",
+        "a": "f"
+    },
+    {
+        "o": 26533,
+        "r": "esv:Matthew:19:22",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 33:31*23679",
+        "a": "g"
+    },
+    {
+        "o": 26534,
+        "r": "esv:Matthew:19:23",
+        "w": 10,
+        "l": {},
+        "c": "1 Corinthians 1:26*31747; Matthew 13:22*26271",
+        "a": "h"
+    },
+    {
+        "o": 26535,
+        "r": "esv:Matthew:19:24",
+        "w": 0,
+        "l": {},
+        "c": "Mark 10:24*27476",
+        "a": "i"
+    },
+    {
+        "o": 26535,
+        "r": "esv:Matthew:19:24",
+        "w": 24,
+        "l": {},
+        "c": "Matthew 12:28*26220",
+        "a": "j"
+    },
+    {
+        "o": 26537,
+        "r": "esv:Matthew:19:26",
+        "w": 1,
+        "l": {},
+        "c": "Mark 10:21*27473; Luke 22:61*28997",
+        "a": "k"
+    },
+    {
+        "o": 26537,
+        "r": "esv:Matthew:19:26",
+        "w": 6,
+        "l": {},
+        "c": "Genesis 18:14*481; Job 42:2*15314; Jeremiah 32:17*21972; Jeremiah 32:27*21982; Zechariah 8:6*25585; Mark 14:36*27685; Luke 1:37*27845",
+        "a": "l"
+    },
+    {
+        "o": 26538,
+        "r": "esv:Matthew:19:27",
+        "w": 5,
+        "l": {},
+        "c": "Matthew 4:20*25875; Matthew 4:22*25878; Mark 1:18*27045; Mark 1:20*27048",
+        "a": "m"
+    },
+    {
+        "o": 26539,
+        "r": "esv:Matthew:19:28",
+        "w": 12,
+        "l": {},
+        "t": "Greek in*i the*i regeneration*i",
+        "a": "n"
+    },
+    {
+        "o": 26539,
+        "r": "esv:Matthew:19:28",
+        "w": 12,
+        "l": {},
+        "c": "Matthew 16:27*26435",
+        "a": "o"
+    },
+    {
+        "o": 26539,
+        "r": "esv:Matthew:19:28",
+        "w": 28,
+        "l": {},
+        "c": "Luke 22:30*28962; Revelation 3:21*34471",
+        "a": "p"
+    },
+    {
+        "o": 26539,
+        "r": "esv:Matthew:19:28",
+        "w": 34,
+        "l": {},
+        "c": "1 Corinthians 6:2*31838",
+        "a": "q"
+    },
+    {
+        "o": 26540,
+        "r": "esv:Matthew:19:29",
+        "w": 0,
+        "l": {},
+        "c": "Luke 14:26*28597",
+        "a": "r"
+    },
+    {
+        "o": 26540,
+        "r": "esv:Matthew:19:29",
+        "w": 25,
+        "l": {},
+        "t": "Some manuscripts manifold*i",
+        "a": "s"
+    },
+    {
+        "o": 26540,
+        "r": "esv:Matthew:19:29",
+        "w": 27,
+        "l": {},
+        "c": "Matthew 19:16*26527; Matthew 25:34*26822",
+        "a": "t"
+    },
+    {
+        "o": 26541,
+        "r": "esv:Matthew:19:30",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 20:16*26560; Mark 10:31*27484; Luke 13:30*28561",
+        "a": "u"
+    },
+    {
+        "o": 26541,
+        "r": "esv:Matthew:19:30",
+        "w": 3,
+        "l": {},
+        "c": "Matthew 21:31–32*26617",
+        "a": "v"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "o": 11493,
+        "r": "csb:1 Chronicles:3:1",
+        "w": 0,
+        "l": {},
+        "c": "2Sm 3:2–5*8937",
+        "a": "a"
+    },
+    {
+        "o": 11496,
+        "r": "csb:1 Chronicles:3:4",
+        "w": 22,
+        "l": {},
+        "c": "2Sm 2:11*8912; 5:4–5*8995",
+        "a": "b"
+    },
+    {
+        "o": 11497,
+        "r": "csb:1 Chronicles:3:5",
+        "w": 0,
+        "l": {},
+        "c": "2Sm 5:14–16*9005; 1Ch 14:4–7*11948",
+        "a": "c"
+    },
+    {
+        "o": 11497,
+        "r": "csb:1 Chronicles:3:5",
+        "w": 12,
+        "l": {},
+        "c": "2Sm 12:24–25*9188",
+        "a": "d"
+    },
+    {
+        "o": 11497,
+        "r": "csb:1 Chronicles:3:5",
+        "w": 20,
+        "l": {},
+        "c": "2Sm 11:3*9134",
+        "a": "e"
+    },
+    {
+        "o": 11498,
+        "r": "csb:1 Chronicles:3:6",
+        "w": 4,
+        "l": {},
+        "t": "3:6*r Lit Elishama; 2Sm 5:15; 1Ch 14:5",
+        "a": "f"
+    },
+    {
+        "o": 11498,
+        "r": "csb:1 Chronicles:3:6",
+        "w": 4,
+        "l": {},
+        "c": "2Sm 5:15*9006; 1Ch 14:5*11949",
+        "a": "g"
+    },
+    {
+        "o": 11501,
+        "r": "csb:1 Chronicles:3:9",
+        "w": 8,
+        "l": {},
+        "c": "2Sm 13:1*9199",
+        "a": "h"
+    },
+    {
+        "o": 11504,
+        "r": "csb:1 Chronicles:3:11",
+        "w": 2,
+        "l": {},
+        "t": "3:11*r Lit Joram",
+        "a": "i"
+    },
+    {
+        "o": 11504,
+        "r": "csb:1 Chronicles:3:11",
+        "w": 2,
+        "l": {},
+        "t": "3:11*r = The Lord is Exalted",
+        "a": "j"
+    },
+    {
+        "o": 11515,
+        "r": "csb:1 Chronicles:3:21",
+        "w": 12,
+        "l": {},
+        "t": "3:21*r LXX reads Jeshaiah, his son Rephaiah, his son Arnan, his son Obadiah, and his son Shecaniah",
+        "a": "k"
+    },
+    {
+        "o": 11516,
+        "r": "csb:1 Chronicles:3:22",
+        "w": 1,
+        "l": {},
+        "t": "3:22*r LXX; MT reads sons",
+        "a": "l"
+    }
+]

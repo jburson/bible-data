@@ -1,0 +1,106 @@
+[
+    {
+        "o": 14055,
+        "r": "esv:Esther:4:1",
+        "w": 11,
+        "l": {},
+        "c": "2 Samuel 3:31*8885",
+        "a": "a"
+    },
+    {
+        "o": 14057,
+        "r": "esv:Esther:4:3",
+        "w": 18,
+        "l": {},
+        "c": "Esther 4:16*14070; Esther 9:31*14170",
+        "a": "b"
+    },
+    {
+        "o": 14057,
+        "r": "esv:Esther:4:3",
+        "w": 28,
+        "l": {},
+        "c": "Daniel 9:3*24438; Isaiah 58:5*20912",
+        "a": "c"
+    },
+    {
+        "o": 14061,
+        "r": "esv:Esther:4:7",
+        "w": 9,
+        "l": {},
+        "c": "Esther 3:9*14046",
+        "a": "d"
+    },
+    {
+        "o": 14062,
+        "r": "esv:Esther:4:8",
+        "w": 3,
+        "l": {},
+        "c": "Esther 3:14*14051; Esther 8:13*14132",
+        "a": "e"
+    },
+    {
+        "o": 14062,
+        "r": "esv:Esther:4:8",
+        "w": 15,
+        "l": {},
+        "t": "Or annihilation*i",
+        "a": "f"
+    },
+    {
+        "o": 14062,
+        "r": "esv:Esther:4:8",
+        "w": 43,
+        "l": {},
+        "t": "Hebrew and*i seek*i from*i before*i his*i face*i",
+        "a": "g"
+    },
+    {
+        "o": 14065,
+        "r": "esv:Esther:4:11",
+        "w": 22,
+        "l": {},
+        "c": "Esther 5:1*14074; Esther 6:4*14094",
+        "a": "h"
+    },
+    {
+        "o": 14065,
+        "r": "esv:Esther:4:11",
+        "w": 28,
+        "l": {},
+        "c": "Daniel 2:9*24187",
+        "a": "i"
+    },
+    {
+        "o": 14065,
+        "r": "esv:Esther:4:11",
+        "w": 41,
+        "l": {},
+        "c": "Esther 5:2*14075; Esther 8:4*14123",
+        "a": "j"
+    },
+    {
+        "o": 14070,
+        "r": "esv:Esther:4:16",
+        "w": 23,
+        "l": {},
+        "c": "Esther 5:1*14074",
+        "a": "k"
+    },
+    {
+        "o": 14070,
+        "r": "esv:Esther:4:16",
+        "w": 52,
+        "l": {},
+        "c": "Genesis 43:14*1412",
+        "a": "l"
+    },
+    {
+        "o": 14070,
+        "r": "esv:Esther:4:16",
+        "w": 58,
+        "l": {},
+        "t": "Hebrew if*i I*i am*i destroyed,*i then*i I*i will*i be*i destroyed*i",
+        "a": "m"
+    }
+]

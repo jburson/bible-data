@@ -1,0 +1,842 @@
+[
+    {
+        "o": 23100,
+        "r": "kjv:Hosea:1:4",
+        "w": 39,
+        "l": {},
+        "t": "avenge: Heb. visit",
+        "a": "a"
+    },
+    {
+        "o": 23102,
+        "r": "kjv:Hosea:1:6",
+        "w": 35,
+        "l": {},
+        "t": "Lo–ruhamah: that is, Not having obtained mercy",
+        "a": "b"
+    },
+    {
+        "o": 23102,
+        "r": "kjv:Hosea:1:6",
+        "w": 35,
+        "l": {},
+        "t": "no…: Heb. not add any more to",
+        "a": "c"
+    },
+    {
+        "o": 23102,
+        "r": "kjv:Hosea:1:6",
+        "w": 35,
+        "l": {},
+        "t": "but…: or, that I should altogether pardon them",
+        "a": "d"
+    },
+    {
+        "o": 23105,
+        "r": "kjv:Hosea:1:9",
+        "w": 19,
+        "l": {},
+        "t": "Lo–ammi: that is, Not my people",
+        "a": "e"
+    },
+    {
+        "o": 23106,
+        "r": "kjv:Hosea:1:10",
+        "w": 57,
+        "l": {},
+        "t": "in…: or, instead of that",
+        "a": "f"
+    },
+    {
+        "o": 23109,
+        "r": "kjv:Hosea:2:1",
+        "w": 10,
+        "l": {},
+        "t": "Ammi: that is, My people",
+        "a": "a"
+    },
+    {
+        "o": 23109,
+        "r": "kjv:Hosea:2:1",
+        "w": 10,
+        "l": {},
+        "t": "Ru–hamah: that is, Having obtained mercy",
+        "a": "b"
+    },
+    {
+        "o": 23113,
+        "r": "kjv:Hosea:2:5",
+        "w": 40,
+        "l": {},
+        "t": "drink: Heb. drinks",
+        "a": "c"
+    },
+    {
+        "o": 23114,
+        "r": "kjv:Hosea:2:6",
+        "w": 20,
+        "l": {},
+        "t": "make…: Heb. wall a wall",
+        "a": "d"
+    },
+    {
+        "o": 23116,
+        "r": "kjv:Hosea:2:8",
+        "w": 24,
+        "l": {},
+        "t": "wine: Heb. new wine",
+        "a": "e"
+    },
+    {
+        "o": 23116,
+        "r": "kjv:Hosea:2:8",
+        "w": 24,
+        "l": {},
+        "t": "which…: or, wherewith they made Baal",
+        "a": "f"
+    },
+    {
+        "o": 23117,
+        "r": "kjv:Hosea:2:9",
+        "w": 32,
+        "l": {},
+        "t": "recover: or, take away",
+        "a": "g"
+    },
+    {
+        "o": 23118,
+        "r": "kjv:Hosea:2:10",
+        "w": 21,
+        "l": {},
+        "t": "lewdness: Heb. folly, or, villany",
+        "a": "h"
+    },
+    {
+        "o": 23120,
+        "r": "kjv:Hosea:2:12",
+        "w": 39,
+        "l": {},
+        "t": "destroy: Heb. make desolate",
+        "a": "i"
+    },
+    {
+        "o": 23122,
+        "r": "kjv:Hosea:2:14",
+        "w": 16,
+        "l": {},
+        "t": "comfortably: or, friendly: Heb. to her heart",
+        "a": "j"
+    },
+    {
+        "o": 23124,
+        "r": "kjv:Hosea:2:16",
+        "w": 22,
+        "l": {},
+        "t": "Ishi: that is, My husband",
+        "a": "k"
+    },
+    {
+        "o": 23124,
+        "r": "kjv:Hosea:2:16",
+        "w": 22,
+        "l": {},
+        "t": "Baali: that is, My lord",
+        "a": "l"
+    },
+    {
+        "o": 23133,
+        "r": "kjv:Hosea:3:1",
+        "w": 39,
+        "l": {},
+        "t": "of wine: Heb. of grapes",
+        "a": "a"
+    },
+    {
+        "o": 23134,
+        "r": "kjv:Hosea:3:2",
+        "w": 22,
+        "l": {},
+        "t": "half…: Heb. lethech",
+        "a": "b"
+    },
+    {
+        "o": 23136,
+        "r": "kjv:Hosea:3:4",
+        "w": 30,
+        "l": {},
+        "t": "image: Heb. a standing, or, statue, or, pillar",
+        "a": "c"
+    },
+    {
+        "o": 23140,
+        "r": "kjv:Hosea:4:2",
+        "w": 17,
+        "l": {},
+        "t": "blood: Heb. bloods",
+        "a": "a"
+    },
+    {
+        "o": 23143,
+        "r": "kjv:Hosea:4:5",
+        "w": 23,
+        "l": {},
+        "t": "destroy: Heb. cut off",
+        "a": "b"
+    },
+    {
+        "o": 23144,
+        "r": "kjv:Hosea:4:6",
+        "w": 40,
+        "l": {},
+        "t": "destroyed: Heb. cut off",
+        "a": "c"
+    },
+    {
+        "o": 23146,
+        "r": "kjv:Hosea:4:8",
+        "w": 15,
+        "l": {},
+        "t": "set…: Heb. lift up their soul to",
+        "a": "d"
+    },
+    {
+        "o": 23147,
+        "r": "kjv:Hosea:4:9",
+        "w": 20,
+        "l": {},
+        "t": "punish: Heb. visit upon",
+        "a": "e"
+    },
+    {
+        "o": 23147,
+        "r": "kjv:Hosea:4:9",
+        "w": 20,
+        "l": {},
+        "t": "reward: Heb. cause to return",
+        "a": "f"
+    },
+    {
+        "o": 23152,
+        "r": "kjv:Hosea:4:14",
+        "w": 36,
+        "l": {},
+        "t": "I will not: or, Shall I not",
+        "a": "g"
+    },
+    {
+        "o": 23152,
+        "r": "kjv:Hosea:4:14",
+        "w": 36,
+        "l": {},
+        "t": "fall: or, be punished",
+        "a": "h"
+    },
+    {
+        "o": 23156,
+        "r": "kjv:Hosea:4:18",
+        "w": 16,
+        "l": {},
+        "t": "sour: Heb. gone",
+        "a": "i"
+    },
+    {
+        "o": 23156,
+        "r": "kjv:Hosea:4:18",
+        "w": 16,
+        "l": {},
+        "t": "rulers: Heb. shields",
+        "a": "j"
+    },
+    {
+        "o": 23160,
+        "r": "kjv:Hosea:5:2",
+        "w": 16,
+        "l": {},
+        "t": "though: or, and",
+        "a": "a"
+    },
+    {
+        "o": 23160,
+        "r": "kjv:Hosea:5:2",
+        "w": 16,
+        "l": {},
+        "t": "a rebuker: Heb. a correction",
+        "a": "b"
+    },
+    {
+        "o": 23162,
+        "r": "kjv:Hosea:5:4",
+        "w": 28,
+        "l": {},
+        "t": "They will…: or, Their doings will not suffer them",
+        "a": "c"
+    },
+    {
+        "o": 23162,
+        "r": "kjv:Hosea:5:4",
+        "w": 28,
+        "l": {},
+        "t": "frame: Heb. give",
+        "a": "d"
+    },
+    {
+        "o": 23170,
+        "r": "kjv:Hosea:5:12",
+        "w": 16,
+        "l": {},
+        "t": "rottenness: or, a worm",
+        "a": "e"
+    },
+    {
+        "o": 23171,
+        "r": "kjv:Hosea:5:13",
+        "w": 32,
+        "l": {},
+        "t": "king Jareb: or, the king of Jareb: or, the king that should plead",
+        "a": "f"
+    },
+    {
+        "o": 23173,
+        "r": "kjv:Hosea:5:15",
+        "w": 24,
+        "l": {},
+        "t": "acknowledge…: Heb. be guilty",
+        "a": "g"
+    },
+    {
+        "o": 23178,
+        "r": "kjv:Hosea:6:4",
+        "w": 31,
+        "l": {},
+        "t": "goodness: or, mercy, or, kindness",
+        "a": "a"
+    },
+    {
+        "o": 23179,
+        "r": "kjv:Hosea:6:5",
+        "w": 27,
+        "l": {},
+        "t": "and…: or, that thy judgments might be, etc.",
+        "a": "b"
+    },
+    {
+        "o": 23181,
+        "r": "kjv:Hosea:6:7",
+        "w": 14,
+        "l": {},
+        "t": "men: or, Adam",
+        "a": "c"
+    },
+    {
+        "o": 23182,
+        "r": "kjv:Hosea:6:8",
+        "w": 13,
+        "l": {},
+        "t": "polluted: or, cunning for",
+        "a": "d"
+    },
+    {
+        "o": 23183,
+        "r": "kjv:Hosea:6:9",
+        "w": 23,
+        "l": {},
+        "t": "by…: Heb. with one shoulder, or, to Shechem",
+        "a": "e"
+    },
+    {
+        "o": 23183,
+        "r": "kjv:Hosea:6:9",
+        "w": 23,
+        "l": {},
+        "t": "lewdness: or, enormity",
+        "a": "f"
+    },
+    {
+        "o": 23187,
+        "r": "kjv:Hosea:7:1",
+        "w": 33,
+        "l": {},
+        "t": "wickedness: Heb. evils",
+        "a": "a"
+    },
+    {
+        "o": 23187,
+        "r": "kjv:Hosea:7:1",
+        "w": 33,
+        "l": {},
+        "t": "spoileth: Heb. strippeth",
+        "a": "b"
+    },
+    {
+        "o": 23188,
+        "r": "kjv:Hosea:7:2",
+        "w": 25,
+        "l": {},
+        "t": "consider…: Heb. say not to",
+        "a": "c"
+    },
+    {
+        "o": 23190,
+        "r": "kjv:Hosea:7:4",
+        "w": 24,
+        "l": {},
+        "t": "who…: or, the raiser will cease",
+        "a": "d"
+    },
+    {
+        "o": 23190,
+        "r": "kjv:Hosea:7:4",
+        "w": 24,
+        "l": {},
+        "t": "raising: or, waking",
+        "a": "e"
+    },
+    {
+        "o": 23191,
+        "r": "kjv:Hosea:7:5",
+        "w": 22,
+        "l": {},
+        "t": "bottles…: or, heat through wine",
+        "a": "f"
+    },
+    {
+        "o": 23192,
+        "r": "kjv:Hosea:7:6",
+        "w": 29,
+        "l": {},
+        "t": "made…: or, applied",
+        "a": "g"
+    },
+    {
+        "o": 23195,
+        "r": "kjv:Hosea:7:9",
+        "w": 22,
+        "l": {},
+        "t": "here…: Heb. sprinkled",
+        "a": "h"
+    },
+    {
+        "o": 23199,
+        "r": "kjv:Hosea:7:13",
+        "w": 29,
+        "l": {},
+        "t": "destruction: Heb. spoil",
+        "a": "i"
+    },
+    {
+        "o": 23201,
+        "r": "kjv:Hosea:7:15",
+        "w": 14,
+        "l": {},
+        "t": "have…: or, chastened",
+        "a": "j"
+    },
+    {
+        "o": 23204,
+        "r": "kjv:Hosea:8:1",
+        "w": 28,
+        "l": {},
+        "t": "thy: Heb. the roof of thy",
+        "a": "a"
+    },
+    {
+        "o": 23210,
+        "r": "kjv:Hosea:8:7",
+        "w": 32,
+        "l": {},
+        "t": "stalk: or, standing corn",
+        "a": "b"
+    },
+    {
+        "o": 23212,
+        "r": "kjv:Hosea:8:9",
+        "w": 16,
+        "l": {},
+        "t": "lovers: Heb. loves",
+        "a": "c"
+    },
+    {
+        "o": 23213,
+        "r": "kjv:Hosea:8:10",
+        "w": 26,
+        "l": {},
+        "t": "sorrow: or, begin",
+        "a": "d"
+    },
+    {
+        "o": 23213,
+        "r": "kjv:Hosea:8:10",
+        "w": 26,
+        "l": {},
+        "t": "a…: or, in a little while",
+        "a": "e"
+    },
+    {
+        "o": 23216,
+        "r": "kjv:Hosea:8:13",
+        "w": 32,
+        "l": {},
+        "t": "They sacrifice…: or, In the sacrifices of mine offerings they, etc.",
+        "a": "f"
+    },
+    {
+        "o": 23219,
+        "r": "kjv:Hosea:9:1",
+        "w": 25,
+        "l": {},
+        "t": "upon: or, in, etc.",
+        "a": "a"
+    },
+    {
+        "o": 23220,
+        "r": "kjv:Hosea:9:2",
+        "w": 16,
+        "l": {},
+        "t": "winepress: or, winefat",
+        "a": "b"
+    },
+    {
+        "o": 23224,
+        "r": "kjv:Hosea:9:6",
+        "w": 32,
+        "l": {},
+        "t": "destruction: Heb. spoil",
+        "a": "c"
+    },
+    {
+        "o": 23224,
+        "r": "kjv:Hosea:9:6",
+        "w": 32,
+        "l": {},
+        "t": "the…: or, their silver shall be desired, the nettle, etc.: Heb. the desire",
+        "a": "d"
+    },
+    {
+        "o": 23225,
+        "r": "kjv:Hosea:9:7",
+        "w": 35,
+        "l": {},
+        "t": "spiritual…: Heb. man of the spirit",
+        "a": "e"
+    },
+    {
+        "o": 23226,
+        "r": "kjv:Hosea:9:8",
+        "w": 28,
+        "l": {},
+        "t": "in the: or, against the",
+        "a": "f"
+    },
+    {
+        "o": 23232,
+        "r": "kjv:Hosea:9:14",
+        "w": 15,
+        "l": {},
+        "t": "miscarrying: Heb. that casteth the fruit",
+        "a": "g"
+    },
+    {
+        "o": 23234,
+        "r": "kjv:Hosea:9:16",
+        "w": 28,
+        "l": {},
+        "t": "the…: Heb. the desires",
+        "a": "h"
+    },
+    {
+        "o": 23237,
+        "r": "kjv:Hosea:10:1",
+        "w": 34,
+        "l": {},
+        "t": "an…: or, a vine emptying the fruit which it giveth",
+        "a": "a"
+    },
+    {
+        "o": 23237,
+        "r": "kjv:Hosea:10:1",
+        "w": 34,
+        "l": {},
+        "t": "images: Heb. statues, or, standing images",
+        "a": "b"
+    },
+    {
+        "o": 23238,
+        "r": "kjv:Hosea:10:2",
+        "w": 20,
+        "l": {},
+        "t": "Their heart…: or, He hath divided their heart",
+        "a": "c"
+    },
+    {
+        "o": 23238,
+        "r": "kjv:Hosea:10:2",
+        "w": 20,
+        "l": {},
+        "t": "break…: Heb. behead",
+        "a": "d"
+    },
+    {
+        "o": 23238,
+        "r": "kjv:Hosea:10:2",
+        "w": 20,
+        "l": {},
+        "t": "images: Heb. statues, or, standing images",
+        "a": "e"
+    },
+    {
+        "o": 23241,
+        "r": "kjv:Hosea:10:5",
+        "w": 37,
+        "l": {},
+        "t": "the priests…: or, Chemarim",
+        "a": "f"
+    },
+    {
+        "o": 23243,
+        "r": "kjv:Hosea:10:7",
+        "w": 13,
+        "l": {},
+        "t": "the water: Heb. the face of the water",
+        "a": "g"
+    },
+    {
+        "o": 23246,
+        "r": "kjv:Hosea:10:10",
+        "w": 26,
+        "l": {},
+        "t": "when…: or, when I shall bind them for their two transgressions, or, in their two habitations",
+        "a": "h"
+    },
+    {
+        "o": 23247,
+        "r": "kjv:Hosea:10:11",
+        "w": 38,
+        "l": {},
+        "t": "her…: Heb. the beauty of her neck",
+        "a": "i"
+    },
+    {
+        "o": 23251,
+        "r": "kjv:Hosea:10:15",
+        "w": 22,
+        "l": {},
+        "t": "your…: Heb. the evil of your evil",
+        "a": "j"
+    },
+    {
+        "o": 23256,
+        "r": "kjv:Hosea:11:4",
+        "w": 32,
+        "l": {},
+        "t": "take off: Heb. lift up",
+        "a": "a"
+    },
+    {
+        "o": 23259,
+        "r": "kjv:Hosea:11:7",
+        "w": 22,
+        "l": {},
+        "t": "none…: Heb. together they exalted not",
+        "a": "b"
+    },
+    {
+        "o": 23264,
+        "r": "kjv:Hosea:11:12",
+        "w": 24,
+        "l": {},
+        "t": "saints: or, most holy",
+        "a": "c"
+    },
+    {
+        "o": 23267,
+        "r": "kjv:Hosea:12:2",
+        "w": 23,
+        "l": {},
+        "t": "punish: Heb. visit upon",
+        "a": "a"
+    },
+    {
+        "o": 23268,
+        "r": "kjv:Hosea:12:3",
+        "w": 18,
+        "l": {},
+        "t": "had…: Heb. was a prince, or, behaved himself princely",
+        "a": "b"
+    },
+    {
+        "o": 23272,
+        "r": "kjv:Hosea:12:7",
+        "w": 15,
+        "l": {},
+        "t": "a merchant: or, Canaan",
+        "a": "c"
+    },
+    {
+        "o": 23272,
+        "r": "kjv:Hosea:12:7",
+        "w": 15,
+        "l": {},
+        "t": "oppress: or, deceive",
+        "a": "d"
+    },
+    {
+        "o": 23273,
+        "r": "kjv:Hosea:12:8",
+        "w": 27,
+        "l": {},
+        "t": "in all…: or, all my labours suffice me not: he shall have punishment of iniquity in whom is sin",
+        "a": "e"
+    },
+    {
+        "o": 23273,
+        "r": "kjv:Hosea:12:8",
+        "w": 27,
+        "l": {},
+        "t": "that: Heb. which",
+        "a": "f"
+    },
+    {
+        "o": 23275,
+        "r": "kjv:Hosea:12:10",
+        "w": 20,
+        "l": {},
+        "t": "ministry: Heb. hand",
+        "a": "g"
+    },
+    {
+        "o": 23279,
+        "r": "kjv:Hosea:12:14",
+        "w": 23,
+        "l": {},
+        "t": "most…: Heb. with bitternesses",
+        "a": "h"
+    },
+    {
+        "o": 23279,
+        "r": "kjv:Hosea:12:14",
+        "w": 23,
+        "l": {},
+        "t": "blood: Heb. bloods",
+        "a": "i"
+    },
+    {
+        "o": 23282,
+        "r": "kjv:Hosea:13:2",
+        "w": 42,
+        "l": {},
+        "t": "they sin…: Heb. they add to sin",
+        "a": "a"
+    },
+    {
+        "o": 23282,
+        "r": "kjv:Hosea:13:2",
+        "w": 42,
+        "l": {},
+        "t": "the men…: or, the sacrificers of men",
+        "a": "b"
+    },
+    {
+        "o": 23285,
+        "r": "kjv:Hosea:13:5",
+        "w": 12,
+        "l": {},
+        "t": "great…: Heb. droughts",
+        "a": "c"
+    },
+    {
+        "o": 23288,
+        "r": "kjv:Hosea:13:8",
+        "w": 35,
+        "l": {},
+        "t": "wild…: Heb. beast of the field",
+        "a": "d"
+    },
+    {
+        "o": 23289,
+        "r": "kjv:Hosea:13:9",
+        "w": 11,
+        "l": {},
+        "t": "is…: Heb. in thy help",
+        "a": "e"
+    },
+    {
+        "o": 23290,
+        "r": "kjv:Hosea:13:10",
+        "w": 29,
+        "l": {},
+        "t": "I will…: rather, Where is thy king?",
+        "a": "f"
+    },
+    {
+        "o": 23293,
+        "r": "kjv:Hosea:13:13",
+        "w": 29,
+        "l": {},
+        "t": "long: Heb. a time",
+        "a": "g"
+    },
+    {
+        "o": 23294,
+        "r": "kjv:Hosea:13:14",
+        "w": 36,
+        "l": {},
+        "t": "power: Heb. hand",
+        "a": "h"
+    },
+    {
+        "o": 23295,
+        "r": "kjv:Hosea:13:15",
+        "w": 44,
+        "l": {},
+        "t": "pleasant…: Heb. vessels of desire",
+        "a": "i"
+    },
+    {
+        "o": 23299,
+        "r": "kjv:Hosea:14:2",
+        "w": 28,
+        "l": {},
+        "t": "receive…: or, give good",
+        "a": "a"
+    },
+    {
+        "o": 23302,
+        "r": "kjv:Hosea:14:5",
+        "w": 20,
+        "l": {},
+        "t": "grow: or, blossom",
+        "a": "b"
+    },
+    {
+        "o": 23302,
+        "r": "kjv:Hosea:14:5",
+        "w": 20,
+        "l": {},
+        "t": "cast…: Heb. strike",
+        "a": "c"
+    },
+    {
+        "o": 23303,
+        "r": "kjv:Hosea:14:6",
+        "w": 17,
+        "l": {},
+        "t": "spread: Heb. go",
+        "a": "d"
+    },
+    {
+        "o": 23304,
+        "r": "kjv:Hosea:14:7",
+        "w": 28,
+        "l": {},
+        "t": "grow: or, blossom",
+        "a": "e"
+    },
+    {
+        "o": 23304,
+        "r": "kjv:Hosea:14:7",
+        "w": 28,
+        "l": {},
+        "t": "scent: or, memorial",
+        "a": "f"
+    }
+]

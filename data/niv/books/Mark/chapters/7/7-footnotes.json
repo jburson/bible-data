@@ -1,0 +1,66 @@
+[
+    {
+        "o": 26998,
+        "r": "niv:Mark:7:4",
+        "w": 27,
+        "l": {},
+        "t": "7:4*r Some early manuscripts pitchers,*i kettles*i and*i dining*i couches*i",
+        "a": "a"
+    },
+    {
+        "o": 27001,
+        "r": "niv:Mark:7:7",
+        "w": 10,
+        "l": {},
+        "t": "7:7*r Isaiah 29:13",
+        "a": "b"
+    },
+    {
+        "o": 27003,
+        "r": "niv:Mark:7:9",
+        "w": 18,
+        "l": {},
+        "t": "7:9*r Some manuscripts set*i up*i",
+        "a": "c"
+    },
+    {
+        "o": 27004,
+        "r": "niv:Mark:7:10",
+        "w": 7,
+        "l": {},
+        "t": "7:10*r Exodus 20:12; Deut. 5:16",
+        "a": "d"
+    },
+    {
+        "o": 27004,
+        "r": "niv:Mark:7:10",
+        "w": 21,
+        "l": {},
+        "t": "7:10*r Exodus 21:17; Lev. 20:9",
+        "a": "e"
+    },
+    {
+        "o": 27009,
+        "r": "niv:Mark:7:15",
+        "w": 22,
+        "l": {},
+        "t": "7:16*r Some manuscripts include here the words of 4:23.",
+        "a": "f"
+    },
+    {
+        "o": 27018,
+        "r": "niv:Mark:7:24",
+        "w": 10,
+        "l": {},
+        "t": "7:24*r Many early manuscripts Tyre*i and*i Sidon*i",
+        "a": "g"
+    },
+    {
+        "o": 27026,
+        "r": "niv:Mark:7:31",
+        "w": 23,
+        "l": {},
+        "t": "7:31*r That is, the Ten Cities",
+        "a": "h"
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "o": 11521,
+        "r": "csb:1 Chronicles:4:1",
+        "w": 1,
+        "l": {},
+        "c": "1Ch 2:5,18,50*11440",
+        "a": "a"
+    },
+    {
+        "o": 11523,
+        "r": "csb:1 Chronicles:4:3",
+        "w": 3,
+        "l": {},
+        "t": "4:3*r LXX; MT reads father",
+        "a": "b"
+    },
+    {
+        "o": 11527,
+        "r": "csb:1 Chronicles:4:7",
+        "w": 3,
+        "l": {},
+        "t": "4:7*r Alt Hb tradition reads Izhar",
+        "a": "c"
+    },
+    {
+        "o": 11528,
+        "r": "csb:1 Chronicles:4:8",
+        "w": 3,
+        "l": {},
+        "t": "4:8*r Or Hazzobebah",
+        "a": "d"
+    },
+    {
+        "o": 11529,
+        "r": "csb:1 Chronicles:4:9",
+        "w": 0,
+        "l": {},
+        "t": "4:9*r In Hb, the name Jabez sounds like “he causes pain.”",
+        "a": "e"
+    },
+    {
+        "o": 11530,
+        "r": "csb:1 Chronicles:4:10",
+        "w": 34,
+        "l": {},
+        "t": "4:10*r Or not cause any pain",
+        "a": "f"
+    },
+    {
+        "o": 11533,
+        "r": "csb:1 Chronicles:4:13",
+        "w": 9,
+        "l": {},
+        "t": "4:13*r LXX, Vg; MT omits and Meonothai",
+        "a": "g"
+    },
+    {
+        "o": 11534,
+        "r": "csb:1 Chronicles:4:14",
+        "w": 14,
+        "l": {},
+        "t": "4:14*r Or the Ge-harashim",
+        "a": "h"
+    },
+    {
+        "o": 11541,
+        "r": "csb:1 Chronicles:4:21",
+        "w": 21,
+        "l": {},
+        "t": "4:21*r Lit house",
+        "a": "i"
+    },
+    {
+        "o": 11542,
+        "r": "csb:1 Chronicles:4:22",
+        "w": 11,
+        "l": {},
+        "t": "4:22*r Or who ruled over Moab",
+        "a": "j"
+    },
+    {
+        "o": 11542,
+        "r": "csb:1 Chronicles:4:22",
+        "w": 15,
+        "l": {},
+        "t": "4:22*r Tg, Vg; MT reads and Jashubi Lehem",
+        "a": "k"
+    },
+    {
+        "o": 11545,
+        "r": "csb:1 Chronicles:4:24",
+        "w": 1,
+        "l": {},
+        "c": "Gn 46:10*1535",
+        "a": "l"
+    },
+    {
+        "o": 11561,
+        "r": "csb:1 Chronicles:4:40",
+        "w": 12,
+        "l": {},
+        "c": "Jdg 18:7–10*7754",
+        "a": "m"
+    },
+    {
+        "o": 11562,
+        "r": "csb:1 Chronicles:4:41",
+        "w": 0,
+        "l": {},
+        "c": "1Ch 4:33–38*11554",
+        "a": "n"
+    },
+    {
+        "o": 11562,
+        "r": "csb:1 Chronicles:4:41",
+        "w": 31,
+        "l": {},
+        "c": "Nm 21:3*4778; Dt 2:34*5467; 7:2*5625; 13:15*5816; Jos 6:17–21*6592",
+        "a": "o"
+    },
+    {
+        "o": 11563,
+        "r": "csb:1 Chronicles:4:42",
+        "w": 25,
+        "l": {},
+        "c": "Gn 36:8–9*1156",
+        "a": "p"
+    },
+    {
+        "o": 11564,
+        "r": "csb:1 Chronicles:4:43",
+        "w": 2,
+        "l": {},
+        "c": "1Sm 15:7–8*8376; 30:17*8841",
+        "a": "q"
+    }
+]

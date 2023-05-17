@@ -1,0 +1,74 @@
+[
+    {
+        "o": 24281,
+        "r": "niv:Hosea:2:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 2:1-23 is numbered 2:3-25.",
+        "a": "a"
+    },
+    {
+        "o": 24296,
+        "r": "niv:Hosea:2:15",
+        "w": 14,
+        "l": {},
+        "t": "2:15*r Achor*i means trouble.*i",
+        "a": "b"
+    },
+    {
+        "o": 24296,
+        "r": "niv:Hosea:2:15",
+        "w": 22,
+        "l": {},
+        "t": "2:15*r Or sing*i",
+        "a": "c"
+    },
+    {
+        "o": 24297,
+        "r": "niv:Hosea:2:16",
+        "w": 19,
+        "l": {},
+        "t": "2:16*r Hebrew baal*i",
+        "a": "d"
+    },
+    {
+        "o": 24300,
+        "r": "niv:Hosea:2:19",
+        "w": 11,
+        "l": {},
+        "t": "2:19*r Or with*i ; also in verse 20",
+        "a": "e"
+    },
+    {
+        "o": 24300,
+        "r": "niv:Hosea:2:19",
+        "w": 15,
+        "l": {},
+        "t": "2:19*r Or with*i",
+        "a": "f"
+    },
+    {
+        "o": 24303,
+        "r": "niv:Hosea:2:22",
+        "w": 20,
+        "l": {},
+        "t": "2:22*r Jezreel*i means God*i plants.*i",
+        "a": "g"
+    },
+    {
+        "o": 24304,
+        "r": "niv:Hosea:2:23",
+        "w": 22,
+        "l": {},
+        "t": "2:23*r Hebrew Lo-Ruhamah*i (see 1:6)",
+        "a": "h"
+    },
+    {
+        "o": 24304,
+        "r": "niv:Hosea:2:23",
+        "w": 31,
+        "l": {},
+        "t": "2:23*r Hebrew Lo-Ammi*i (see 1:9)",
+        "a": "i"
+    }
+]

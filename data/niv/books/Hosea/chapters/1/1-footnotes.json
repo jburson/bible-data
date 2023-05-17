@@ -1,0 +1,26 @@
+[
+    {
+        "o": 24268,
+        "r": "niv:Hosea:1:1",
+        "w": 32,
+        "l": {},
+        "t": "1:1*r Hebrew Joash,*i a variant of Jehoash*i",
+        "a": "a"
+    },
+    {
+        "o": 24277,
+        "r": "niv:Hosea:1:9",
+        "w": 23,
+        "l": {},
+        "t": "1:9*r Or your*i I*i am*i",
+        "a": "b"
+    },
+    {
+        "o": 24279,
+        "r": "niv:Hosea:1:11",
+        "w": 32,
+        "l": {},
+        "t": "1:11*r In Hebrew texts 1:10,11 is numbered 2:1,2.",
+        "a": "c"
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "o": 32256,
+        "r": "csb:1 Corinthians:7:1",
+        "w": 7,
+        "l": {},
+        "t": "7:1*r Other mss add to me",
+        "a": "a"
+    },
+    {
+        "o": 32256,
+        "r": "csb:1 Corinthians:7:1",
+        "w": 22,
+        "l": {},
+        "t": "7:1*r Or “It is good for a man not to use a woman for sex”; lit “It is good for a man not to touch a woman.”",
+        "a": "b"
+    },
+    {
+        "o": 32257,
+        "r": "csb:1 Corinthians:7:2",
+        "w": 6,
+        "l": {},
+        "t": "7:2*r Lit because of immoralities",
+        "a": "c"
+    },
+    {
+        "o": 32257,
+        "r": "csb:1 Corinthians:7:2",
+        "w": 6,
+        "l": {},
+        "c": "1Th 4:3*33538",
+        "a": "d"
+    },
+    {
+        "o": 32257,
+        "r": "csb:1 Corinthians:7:2",
+        "w": 16,
+        "l": {},
+        "c": "Mt 1:6*26111; 1Pt 3:1*34493",
+        "a": "e"
+    },
+    {
+        "o": 32258,
+        "r": "csb:1 Corinthians:7:3",
+        "w": 6,
+        "l": {},
+        "c": "Rm 13:7*32002",
+        "a": "f"
+    },
+    {
+        "o": 32260,
+        "r": "csb:1 Corinthians:7:5",
+        "w": 2,
+        "l": {},
+        "c": "Mk 10:19*27797",
+        "a": "g"
+    },
+    {
+        "o": 32260,
+        "r": "csb:1 Corinthians:7:5",
+        "w": 14,
+        "l": {},
+        "t": "7:5*r Other mss add fasting and to",
+        "a": "h"
+    },
+    {
+        "o": 32262,
+        "r": "csb:1 Corinthians:7:7",
+        "w": 14,
+        "l": {},
+        "c": "2Co 1:11*32619",
+        "a": "i"
+    },
+    {
+        "o": 32264,
+        "r": "csb:1 Corinthians:7:8",
+        "w": 4,
+        "l": {},
+        "t": "7:8*r Or widowers",
+        "a": "j"
+    },
+    {
+        "o": 32264,
+        "r": "csb:1 Corinthians:7:8",
+        "w": 7,
+        "l": {},
+        "c": "Jms 1:27*34337",
+        "a": "k"
+    },
+    {
+        "o": 32265,
+        "r": "csb:1 Corinthians:7:9",
+        "w": 6,
+        "l": {},
+        "c": "1Co 9:25*32341",
+        "a": "l"
+    },
+    {
+        "o": 32265,
+        "r": "csb:1 Corinthians:7:9",
+        "w": 15,
+        "l": {},
+        "c": "1Tm 5:14*33741",
+        "a": "m"
+    },
+    {
+        "o": 32267,
+        "r": "csb:1 Corinthians:7:10",
+        "w": 6,
+        "l": {},
+        "c": "1Tm 5:14*33741",
+        "a": "n"
+    },
+    {
+        "o": 32267,
+        "r": "csb:1 Corinthians:7:10",
+        "w": 16,
+        "l": {},
+        "t": "7:10*r Or separate from, or divorce",
+        "a": "o"
+    },
+    {
+        "o": 32268,
+        "r": "csb:1 Corinthians:7:11",
+        "w": 22,
+        "l": {},
+        "c": "Dt 22:19*6056",
+        "a": "p"
+    },
+    {
+        "o": 32269,
+        "r": "csb:1 Corinthians:7:12",
+        "w": 11,
+        "l": {},
+        "c": "Ac 9:30*30830",
+        "a": "q"
+    },
+    {
+        "o": 32271,
+        "r": "csb:1 Corinthians:7:14",
+        "w": 6,
+        "l": {},
+        "c": "Lk 11:2*28729",
+        "a": "r"
+    },
+    {
+        "o": 32271,
+        "r": "csb:1 Corinthians:7:14",
+        "w": 19,
+        "l": {},
+        "t": "7:14*r Lit the brother",
+        "a": "s"
+    },
+    {
+        "o": 32272,
+        "r": "csb:1 Corinthians:7:15",
+        "w": 22,
+        "l": {},
+        "t": "7:15*r Other mss read us",
+        "a": "t"
+    },
+    {
+        "o": 32273,
+        "r": "csb:1 Corinthians:7:16",
+        "w": 19,
+        "l": {},
+        "t": "7:16*r Or Wife, how do you know that you will save your husband? Husband, how do you know that you will save your wife?",
+        "a": "u"
+    },
+    {
+        "o": 32275,
+        "r": "csb:1 Corinthians:7:17",
+        "w": 14,
+        "l": {},
+        "c": "Col 3:15*33447",
+        "a": "v"
+    },
+    {
+        "o": 32275,
+        "r": "csb:1 Corinthians:7:17",
+        "w": 15,
+        "l": {},
+        "t": "7:17*r Lit called each",
+        "a": "w"
+    },
+    {
+        "o": 32278,
+        "r": "csb:1 Corinthians:7:20",
+        "w": 7,
+        "l": {},
+        "t": "7:20*r Lit in the calling",
+        "a": "x"
+    },
+    {
+        "o": 32279,
+        "r": "csb:1 Corinthians:7:21",
+        "w": 22,
+        "l": {},
+        "t": "7:21*r Or But even though you can become free, make the most of your position as a slave",
+        "a": "y"
+    },
+    {
+        "o": 32280,
+        "r": "csb:1 Corinthians:7:22",
+        "w": 10,
+        "l": {},
+        "c": "Rm 1:1*31607; 2Tm 2:24*33831",
+        "a": "z"
+    },
+    {
+        "o": 32281,
+        "r": "csb:1 Corinthians:7:23",
+        "w": 2,
+        "l": {},
+        "c": "2Pt 2:1*34584",
+        "a": "a"
+    },
+    {
+        "o": 32284,
+        "r": "csb:1 Corinthians:7:25",
+        "w": 2,
+        "l": {},
+        "t": "7:25*r Or betrothed, or those not yet married",
+        "a": "b"
+    },
+    {
+        "o": 32284,
+        "r": "csb:1 Corinthians:7:25",
+        "w": 22,
+        "l": {},
+        "c": "Mt 5:7*26220; Mk 5:19*27546; Lk 1:50*28188",
+        "a": "c"
+    },
+    {
+        "o": 32284,
+        "r": "csb:1 Corinthians:7:25",
+        "w": 24,
+        "l": {},
+        "c": "Nm 12:7*4474",
+        "a": "d"
+    },
+    {
+        "o": 32287,
+        "r": "csb:1 Corinthians:7:28",
+        "w": 5,
+        "l": {},
+        "c": "1Tm 5:14*33741",
+        "a": "e"
+    },
+    {
+        "o": 32287,
+        "r": "csb:1 Corinthians:7:28",
+        "w": 13,
+        "l": {},
+        "t": "7:28*r Or betrothed woman",
+        "a": "f"
+    },
+    {
+        "o": 32287,
+        "r": "csb:1 Corinthians:7:28",
+        "w": 27,
+        "l": {},
+        "t": "7:28*r Lit in the flesh",
+        "a": "g"
+    },
+    {
+        "o": 32288,
+        "r": "csb:1 Corinthians:7:29",
+        "w": 11,
+        "l": {},
+        "c": "Rm 13:11*32007",
+        "a": "h"
+    },
+    {
+        "o": 32289,
+        "r": "csb:1 Corinthians:7:30",
+        "w": 11,
+        "l": {},
+        "c": "Php 1:18*33270",
+        "a": "i"
+    },
+    {
+        "o": 32290,
+        "r": "csb:1 Corinthians:7:31",
+        "w": 25,
+        "l": {},
+        "c": "Mk 13:7*27934; 1Jn 2:8*34649",
+        "a": "j"
+    },
+    {
+        "o": 32291,
+        "r": "csb:1 Corinthians:7:32",
+        "w": 20,
+        "l": {},
+        "c": "1Th 4:1*33536",
+        "a": "k"
+    },
+    {
+        "o": 32293,
+        "r": "csb:1 Corinthians:7:34",
+        "w": 17,
+        "l": {},
+        "c": "1Tm 5:5*33732",
+        "a": "l"
+    },
+    {
+        "o": 32296,
+        "r": "csb:1 Corinthians:7:37",
+        "w": 19,
+        "l": {},
+        "c": "Jn 1:13*29477",
+        "a": "m"
+    },
+    {
+        "o": 32297,
+        "r": "csb:1 Corinthians:7:38",
+        "w": 17,
+        "l": {},
+        "t": "7:36–38*r Or 36 If any man thinks he is acting improperly toward his virgin daughter, if she is getting beyond the usual age for marriage, and he feels she should marry — he can do what he wants. He is not sinning; she can get married. 37 But he who stands firm in his heart (who is under no compulsion, but has control over his own will) and has decided in his heart to keep his own virgin daughter will do well. 38 So then he who gives his own virgin daughter in marriage does well, but he who does not give his own virgin daughter in marriage will do better.",
+        "a": "n"
+    },
+    {
+        "o": 32298,
+        "r": "csb:1 Corinthians:7:39",
+        "w": 3,
+        "l": {},
+        "t": "7:39*r Other mss add by law",
+        "a": "o"
+    }
+]

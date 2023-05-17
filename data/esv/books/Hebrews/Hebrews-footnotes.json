@@ -1,0 +1,4394 @@
+[
+    {
+        "o": 33548,
+        "r": "esv:Hebrews:1:1",
+        "w": 5,
+        "l": {},
+        "c": "Numbers 12:6*4423; Numbers 12:8*4425; Joel 2:28*24829",
+        "a": "a"
+    },
+    {
+        "o": 33549,
+        "r": "esv:Hebrews:1:2",
+        "w": 0,
+        "l": {},
+        "c": "1 Peter 1:20*34032; Hebrews 9:26*33735; Acts 2:17*30160",
+        "a": "b"
+    },
+    {
+        "o": 33549,
+        "r": "esv:Hebrews:1:2",
+        "w": 4,
+        "l": {},
+        "c": "Hebrews 2:3*33566",
+        "a": "c"
+    },
+    {
+        "o": 33549,
+        "r": "esv:Hebrews:1:2",
+        "w": 10,
+        "l": {},
+        "c": "Matthew 14:33*26354",
+        "a": "d"
+    },
+    {
+        "o": 33549,
+        "r": "esv:Hebrews:1:2",
+        "w": 15,
+        "l": {},
+        "c": "Psalm 2:8*15350; Matthew 21:38*26625; Matthew 28:18*27019",
+        "a": "e"
+    },
+    {
+        "o": 33549,
+        "r": "esv:Hebrews:1:2",
+        "w": 20,
+        "l": {},
+        "c": "Hebrews 3:3*33587; John 1:3*29134",
+        "a": "f"
+    },
+    {
+        "o": 33549,
+        "r": "esv:Hebrews:1:2",
+        "w": 25,
+        "l": {},
+        "c": "Hebrews 11:3*33784",
+        "a": "g"
+    },
+    {
+        "o": 33550,
+        "r": "esv:Hebrews:1:3",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 4:4*32276",
+        "a": "h"
+    },
+    {
+        "o": 33550,
+        "r": "esv:Hebrews:1:3",
+        "w": 26,
+        "l": {},
+        "c": "Hebrews 9:14*33723",
+        "a": "i"
+    },
+    {
+        "o": 33550,
+        "r": "esv:Hebrews:1:3",
+        "w": 31,
+        "l": {},
+        "c": "Mark 16:19*27803",
+        "a": "j"
+    },
+    {
+        "o": 33550,
+        "r": "esv:Hebrews:1:3",
+        "w": 34,
+        "l": {},
+        "c": "Luke 22:69*29007",
+        "a": "k"
+    },
+    {
+        "o": 33551,
+        "r": "esv:Hebrews:1:4",
+        "w": 9,
+        "l": {},
+        "c": "Ephesians 1:21*32691; Philippians 2:9*32889",
+        "a": "l"
+    },
+    {
+        "o": 33552,
+        "r": "esv:Hebrews:1:5",
+        "w": 9,
+        "l": {},
+        "c": "Hebrews 5:5*33628; Acts 13:33*30635; Psalm 2:7*15349",
+        "a": "m"
+    },
+    {
+        "o": 33552,
+        "r": "esv:Hebrews:1:5",
+        "w": 20,
+        "l": {},
+        "c": "2 Samuel 7:14*8978; Psalm 89:26–27*17008",
+        "a": "n"
+    },
+    {
+        "o": 33553,
+        "r": "esv:Hebrews:1:6",
+        "w": 4,
+        "l": {},
+        "c": "Romans 8:29*31470",
+        "a": "o"
+    },
+    {
+        "o": 33553,
+        "r": "esv:Hebrews:1:6",
+        "w": 11,
+        "l": {},
+        "c": "Deuteronomy 32:43*6336; Psalm 97:7*17160",
+        "a": "p"
+    },
+    {
+        "o": 33554,
+        "r": "esv:Hebrews:1:7",
+        "w": 4,
+        "l": {},
+        "c": "Psalm 104:4*17269",
+        "a": "q"
+    },
+    {
+        "o": 33555,
+        "r": "esv:Hebrews:1:8",
+        "w": 5,
+        "l": {},
+        "c": "Psalm 45:6–7*16127",
+        "a": "r"
+    },
+    {
+        "o": 33556,
+        "r": "esv:Hebrews:1:9",
+        "w": 10,
+        "l": {},
+        "c": "Isaiah 61:1*20972",
+        "a": "s"
+    },
+    {
+        "o": 33556,
+        "r": "esv:Hebrews:1:9",
+        "w": 14,
+        "l": {},
+        "c": "Isaiah 61:3*20974",
+        "a": "t"
+    },
+    {
+        "o": 33557,
+        "r": "esv:Hebrews:1:10",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 102:25–27*17235",
+        "a": "u"
+    },
+    {
+        "o": 33559,
+        "r": "esv:Hebrews:1:12",
+        "w": 14,
+        "l": {},
+        "t": "Some manuscripts omit like*i a*i garment*i",
+        "a": "v"
+    },
+    {
+        "o": 33559,
+        "r": "esv:Hebrews:1:12",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 13:8*33864",
+        "a": "w"
+    },
+    {
+        "o": 33560,
+        "r": "esv:Hebrews:1:13",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 110:1*17497",
+        "a": "x"
+    },
+    {
+        "o": 33560,
+        "r": "esv:Hebrews:1:13",
+        "w": 14,
+        "l": {},
+        "c": "Hebrews 10:13*33752",
+        "a": "y"
+    },
+    {
+        "o": 33561,
+        "r": "esv:Hebrews:1:14",
+        "w": 5,
+        "l": {},
+        "c": "Genesis 19:16*519; Genesis 28:12*858; Genesis 32:1–2*1011; Judges 6:11*7291; Judges 13:3*7536; Psalm 34:7*15886; Psalm 91:11*17068; Psalm 103:20–21*17261; Daniel 3:28*24261; Daniel 6:22*24364; Daniel 10:11*24477; Matthew 18:10*26481",
+        "a": "z"
+    },
+    {
+        "o": 33561,
+        "r": "esv:Hebrews:1:14",
+        "w": 17,
+        "l": {},
+        "c": "Matthew 25:34*26822",
+        "a": "a"
+    },
+    {
+        "o": 33565,
+        "r": "esv:Hebrews:2:2",
+        "w": 1,
+        "l": {},
+        "c": "Acts 7:53*30381",
+        "a": "a"
+    },
+    {
+        "o": 33565,
+        "r": "esv:Hebrews:2:2",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 10:28*33768; Numbers 15:30–31*4552; Deuteronomy 4:3*5456; Deuteronomy 17:2*5851; Deuteronomy 17:5*5854; Deuteronomy 17:12*5862; Deuteronomy 27:26*6132",
+        "a": "b"
+    },
+    {
+        "o": 33565,
+        "r": "esv:Hebrews:2:2",
+        "w": 18,
+        "l": {},
+        "c": "Hebrews 10:35*33775; Hebrews 11:26*33807",
+        "a": "c"
+    },
+    {
+        "o": 33566,
+        "r": "esv:Hebrews:2:3",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 10:28–29*33768; Hebrews 12:25*33850",
+        "a": "d"
+    },
+    {
+        "o": 33566,
+        "r": "esv:Hebrews:2:3",
+        "w": 5,
+        "l": {},
+        "c": "Matthew 22:5*26640",
+        "a": "e"
+    },
+    {
+        "o": 33566,
+        "r": "esv:Hebrews:2:3",
+        "w": 12,
+        "l": {},
+        "c": "Hebrews 1:2*33549",
+        "a": "f"
+    },
+    {
+        "o": 33566,
+        "r": "esv:Hebrews:2:3",
+        "w": 21,
+        "l": {},
+        "c": "Mark 16:20*27804; Acts 5:32*30297",
+        "a": "g"
+    },
+    {
+        "o": 33566,
+        "r": "esv:Hebrews:2:3",
+        "w": 24,
+        "l": {},
+        "c": "Luke 1:2*27808",
+        "a": "h"
+    },
+    {
+        "o": 33567,
+        "r": "esv:Hebrews:2:4",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 2:3*33566",
+        "a": "i"
+    },
+    {
+        "o": 33567,
+        "r": "esv:Hebrews:2:4",
+        "w": 4,
+        "l": {},
+        "c": "Acts 2:22*30165; Acts 2:43*30187",
+        "a": "j"
+    },
+    {
+        "o": 33567,
+        "r": "esv:Hebrews:2:4",
+        "w": 13,
+        "l": {},
+        "c": "1 Corinthians 12:4*32024; 1 Corinthians 12:11*32032",
+        "a": "k"
+    },
+    {
+        "o": 33567,
+        "r": "esv:Hebrews:2:4",
+        "w": 18,
+        "l": {},
+        "c": "Ephesians 1:5*32674",
+        "a": "l"
+    },
+    {
+        "o": 33569,
+        "r": "esv:Hebrews:2:5",
+        "w": 10,
+        "l": {},
+        "c": "Hebrews 6:5*33644",
+        "a": "m"
+    },
+    {
+        "o": 33570,
+        "r": "esv:Hebrews:2:6",
+        "w": 4,
+        "l": {},
+        "c": "Psalm 8:4–6*15431",
+        "a": "n"
+    },
+    {
+        "o": 33571,
+        "r": "esv:Hebrews:2:7",
+        "w": 18,
+        "l": {},
+        "t": "Some manuscripts insert and*i set*i him*i over*i the*i works*i of*i your*i hands*i",
+        "a": "o"
+    },
+    {
+        "o": 33572,
+        "r": "esv:Hebrews:2:8",
+        "w": 22,
+        "l": {},
+        "c": "1 Corinthians 15:25*32138",
+        "a": "p"
+    },
+    {
+        "o": 33573,
+        "r": "esv:Hebrews:2:9",
+        "w": 3,
+        "l": {},
+        "c": "Hebrews 2:7*33571",
+        "a": "q"
+    },
+    {
+        "o": 33573,
+        "r": "esv:Hebrews:2:9",
+        "w": 16,
+        "l": {},
+        "c": "Acts 3:13*30207; 1 Peter 1:21*34033; Acts 2:33*30176",
+        "a": "r"
+    },
+    {
+        "o": 33573,
+        "r": "esv:Hebrews:2:9",
+        "w": 21,
+        "l": {},
+        "c": "Philippians 2:7–9*32887; John 10:17*29626",
+        "a": "s"
+    },
+    {
+        "o": 33573,
+        "r": "esv:Hebrews:2:9",
+        "w": 36,
+        "l": {},
+        "c": "Matthew 16:28*26436; John 8:52*29557",
+        "a": "t"
+    },
+    {
+        "o": 33573,
+        "r": "esv:Hebrews:2:9",
+        "w": 38,
+        "l": {},
+        "c": "John 12:32*29753",
+        "a": "u"
+    },
+    {
+        "o": 33574,
+        "r": "esv:Hebrews:2:10",
+        "w": 1,
+        "l": {},
+        "c": "Luke 24:26*29100",
+        "a": "v"
+    },
+    {
+        "o": 33574,
+        "r": "esv:Hebrews:2:10",
+        "w": 5,
+        "l": {},
+        "c": "Romans 11:36*31580",
+        "a": "w"
+    },
+    {
+        "o": 33574,
+        "r": "esv:Hebrews:2:10",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 3:1*33585; Romans 8:30*31472",
+        "a": "x"
+    },
+    {
+        "o": 33574,
+        "r": "esv:Hebrews:2:10",
+        "w": 22,
+        "l": {},
+        "c": "Hebrews 5:9*33632",
+        "a": "y"
+    },
+    {
+        "o": 33574,
+        "r": "esv:Hebrews:2:10",
+        "w": 26,
+        "l": {},
+        "c": "Hebrews 5:9*33632; Hebrews 7:28*33691; Luke 13:32*28563; Philippians 3:12*32927",
+        "a": "z"
+    },
+    {
+        "o": 33575,
+        "r": "esv:Hebrews:2:11",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 13:12*33868",
+        "a": "a"
+    },
+    {
+        "o": 33575,
+        "r": "esv:Hebrews:2:11",
+        "w": 4,
+        "l": {},
+        "c": "Hebrews 10:10*33749; Hebrews 10:14*33753; Hebrews 10:29*33769",
+        "a": "b"
+    },
+    {
+        "o": 33575,
+        "r": "esv:Hebrews:2:11",
+        "w": 8,
+        "l": {},
+        "c": "Acts 17:28*30810",
+        "a": "c"
+    },
+    {
+        "o": 33575,
+        "r": "esv:Hebrews:2:11",
+        "w": 12,
+        "l": {},
+        "t": "Greek all*i are*i of*i one*i",
+        "a": "d"
+    },
+    {
+        "o": 33575,
+        "r": "esv:Hebrews:2:11",
+        "w": 22,
+        "l": {},
+        "c": "Matthew 25:40*26828",
+        "a": "e"
+    },
+    {
+        "o": 33575,
+        "r": "esv:Hebrews:2:11",
+        "w": 23,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i . In New Testament usage, depending on the context, the plural Greek word adelphoi*i (translated “brothers”) may refer either to brothers*i or to brothers*i and*i sisters*i",
+        "a": "f"
+    },
+    {
+        "o": 33576,
+        "r": "esv:Hebrews:2:12",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 22:22*15682",
+        "a": "g"
+    },
+    {
+        "o": 33576,
+        "r": "esv:Hebrews:2:12",
+        "w": 14,
+        "l": {},
+        "c": "Hebrews 12:23*33848",
+        "a": "h"
+    },
+    {
+        "o": 33577,
+        "r": "esv:Hebrews:2:13",
+        "w": 1,
+        "l": {},
+        "c": "Psalm 18:2*15564; Isaiah 8:17*19821; Isaiah 12:2*19909",
+        "a": "i"
+    },
+    {
+        "o": 33577,
+        "r": "esv:Hebrews:2:13",
+        "w": 10,
+        "l": {},
+        "c": "Isaiah 8:18*19822",
+        "a": "j"
+    },
+    {
+        "o": 33577,
+        "r": "esv:Hebrews:2:13",
+        "w": 15,
+        "l": {},
+        "c": "John 17:2*29923",
+        "a": "k"
+    },
+    {
+        "o": 33578,
+        "r": "esv:Hebrews:2:14",
+        "w": 11,
+        "l": {},
+        "c": "John 1:14*29145",
+        "a": "l"
+    },
+    {
+        "o": 33578,
+        "r": "esv:Hebrews:2:14",
+        "w": 17,
+        "l": {},
+        "c": "1 Corinthians 15:54–56*32169",
+        "a": "m"
+    },
+    {
+        "o": 33578,
+        "r": "esv:Hebrews:2:14",
+        "w": 21,
+        "l": {},
+        "c": "Colossians 2:15*33015; 2 Timothy 1:10*33378",
+        "a": "n"
+    },
+    {
+        "o": 33578,
+        "r": "esv:Hebrews:2:14",
+        "w": 22,
+        "l": {},
+        "c": "1 John 3:8*34256; John 16:11*29895",
+        "a": "o"
+    },
+    {
+        "o": 33579,
+        "r": "esv:Hebrews:2:15",
+        "w": 4,
+        "l": {},
+        "c": "Romans 8:15*31455",
+        "a": "p"
+    },
+    {
+        "o": 33580,
+        "r": "esv:Hebrews:2:16",
+        "w": 10,
+        "l": {},
+        "c": "Isaiah 41:8–9*20535; Hebrews 8:9*33702",
+        "a": "q"
+    },
+    {
+        "o": 33581,
+        "r": "esv:Hebrews:2:17",
+        "w": 2,
+        "l": {},
+        "c": "Philippians 2:7*32887",
+        "a": "r"
+    },
+    {
+        "o": 33581,
+        "r": "esv:Hebrews:2:17",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 4:15–16*33621; Hebrews 5:2*33625; Hebrews 5:7–8*33630",
+        "a": "s"
+    },
+    {
+        "o": 33581,
+        "r": "esv:Hebrews:2:17",
+        "w": 22,
+        "l": {},
+        "c": "Hebrews 5:1*33624; Romans 15:17*31669",
+        "a": "t"
+    },
+    {
+        "o": 33582,
+        "r": "esv:Hebrews:2:18",
+        "w": 5,
+        "l": {},
+        "c": "Hebrews 4:15*33621; Luke 22:28*28959",
+        "a": "u"
+    },
+    {
+        "o": 33585,
+        "r": "esv:Hebrews:3:1",
+        "w": 2,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i ; also verse 12",
+        "a": "a"
+    },
+    {
+        "o": 33585,
+        "r": "esv:Hebrews:3:1",
+        "w": 6,
+        "l": {},
+        "c": "Ephesians 4:1*32745; Philippians 3:14*32929",
+        "a": "b"
+    },
+    {
+        "o": 33585,
+        "r": "esv:Hebrews:3:1",
+        "w": 11,
+        "l": {},
+        "c": "John 20:21*30069; Romans 15:8*31659",
+        "a": "c"
+    },
+    {
+        "o": 33586,
+        "r": "esv:Hebrews:3:2",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 3:5*33589",
+        "a": "d"
+    },
+    {
+        "o": 33586,
+        "r": "esv:Hebrews:3:2",
+        "w": 16,
+        "l": {},
+        "t": "Greek his*i ; also verses 5, 6",
+        "a": "e"
+    },
+    {
+        "o": 33588,
+        "r": "esv:Hebrews:3:4",
+        "w": 7,
+        "l": {},
+        "c": "Ephesians 2:10*32706; Ephesians 3:9*32729",
+        "a": "f"
+    },
+    {
+        "o": 33589,
+        "r": "esv:Hebrews:3:5",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 3:2*33586; Numbers 12:7*4424",
+        "a": "g"
+    },
+    {
+        "o": 33589,
+        "r": "esv:Hebrews:3:5",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 14:31*2090; Deuteronomy 34:5*6384; Joshua 1:2*6395; Joshua 8:31*6594; Psalm 105:26*17328; Revelation 15:3*34683",
+        "a": "h"
+    },
+    {
+        "o": 33589,
+        "r": "esv:Hebrews:3:5",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 18:15*5890; Deuteronomy 18:18–19*5893",
+        "a": "i"
+    },
+    {
+        "o": 33590,
+        "r": "esv:Hebrews:3:6",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 1:2*33549",
+        "a": "j"
+    },
+    {
+        "o": 33590,
+        "r": "esv:Hebrews:3:6",
+        "w": 10,
+        "l": {},
+        "c": "1 Corinthians 3:16*31789; 1 Corinthians 6:19*31856; 2 Corinthians 6:16*32333; Ephesians 2:21*32717; 1 Timothy 3:15*33293; 1 Peter 2:5*34044",
+        "a": "k"
+    },
+    {
+        "o": 33590,
+        "r": "esv:Hebrews:3:6",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 3:14*33599; Hebrews 6:11*33650; Psalm 119:33*17664; Psalm 119:112*17753; Matthew 10:22*26130; Revelation 2:26*34443",
+        "a": "l"
+    },
+    {
+        "o": 33590,
+        "r": "esv:Hebrews:3:6",
+        "w": 27,
+        "l": {},
+        "t": "Some manuscripts insert firm*i to*i the*i end*i",
+        "a": "m"
+    },
+    {
+        "o": 33592,
+        "r": "esv:Hebrews:3:7",
+        "w": 5,
+        "l": {},
+        "c": "Hebrews 3:15*33600; Hebrews 4:7*33612; Psalm 95:7–11*17132",
+        "a": "n"
+    },
+    {
+        "o": 33594,
+        "r": "esv:Hebrews:3:9",
+        "w": 12,
+        "l": {},
+        "c": "Acts 7:36*30363",
+        "a": "o"
+    },
+    {
+        "o": 33596,
+        "r": "esv:Hebrews:3:11",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 4:3*33608; Hebrews 4:5*33610",
+        "a": "p"
+    },
+    {
+        "o": 33597,
+        "r": "esv:Hebrews:3:12",
+        "w": 19,
+        "l": {},
+        "c": "Matthew 16:16*26422",
+        "a": "q"
+    },
+    {
+        "o": 33598,
+        "r": "esv:Hebrews:3:13",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 10:24–25*33764",
+        "a": "r"
+    },
+    {
+        "o": 33598,
+        "r": "esv:Hebrews:3:13",
+        "w": 20,
+        "l": {},
+        "c": "Isaiah 44:20*20641; Romans 7:11*31423; Ephesians 4:22*32767",
+        "a": "s"
+    },
+    {
+        "o": 33599,
+        "r": "esv:Hebrews:3:14",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 3:6*33591; Hebrews 10:23*33763; 1 Corinthians 15:2*32114",
+        "a": "t"
+    },
+    {
+        "o": 33600,
+        "r": "esv:Hebrews:3:15",
+        "w": 3,
+        "l": {},
+        "c": "Hebrews 3:7*33592",
+        "a": "u"
+    },
+    {
+        "o": 33601,
+        "r": "esv:Hebrews:3:16",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 14:2*4473; Deuteronomy 1:34–35*5367",
+        "a": "v"
+    },
+    {
+        "o": 33601,
+        "r": "esv:Hebrews:3:16",
+        "w": 11,
+        "l": {},
+        "c": "Numbers 14:24*4497; Numbers 14:30*4503; Deuteronomy 1:36*5369; Deuteronomy 1:38*5371",
+        "a": "w"
+    },
+    {
+        "o": 33602,
+        "r": "esv:Hebrews:3:17",
+        "w": 15,
+        "l": {},
+        "c": "Numbers 14:29*4502; Jude 5*34366",
+        "a": "x"
+    },
+    {
+        "o": 33603,
+        "r": "esv:Hebrews:3:18",
+        "w": 6,
+        "l": {},
+        "c": "Deuteronomy 1:34–35*5367; Hebrews 4:2*33607",
+        "a": "y"
+    },
+    {
+        "o": 33604,
+        "r": "esv:Hebrews:3:19",
+        "w": 3,
+        "l": {},
+        "c": "Hebrews 4:6*33611; Psalm 78:22*16758; Psalm 106:24*17373",
+        "a": "z"
+    },
+    {
+        "o": 33606,
+        "r": "esv:Hebrews:4:1",
+        "w": 18,
+        "l": {},
+        "c": "Hebrews 12:15*33839",
+        "a": "a"
+    },
+    {
+        "o": 33607,
+        "r": "esv:Hebrews:4:2",
+        "w": 19,
+        "l": {},
+        "c": "Romans 3:3*31301",
+        "a": "b"
+    },
+    {
+        "o": 33607,
+        "r": "esv:Hebrews:4:2",
+        "w": 29,
+        "l": {},
+        "t": "Some manuscripts it*i did*i not*i meet*i with*i faith*i in*i the*i hearers*i",
+        "a": "c"
+    },
+    {
+        "o": 33608,
+        "r": "esv:Hebrews:4:3",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 3:11*33596; Psalm 95:11*17136",
+        "a": "d"
+    },
+    {
+        "o": 33609,
+        "r": "esv:Hebrews:4:4",
+        "w": 11,
+        "l": {},
+        "c": "Genesis 2:2*37; Exodus 20:11*2246; Exodus 31:17*2655",
+        "a": "e"
+    },
+    {
+        "o": 33610,
+        "r": "esv:Hebrews:4:5",
+        "w": 6,
+        "l": {},
+        "c": "Hebrews 4:3*33608",
+        "a": "f"
+    },
+    {
+        "o": 33611,
+        "r": "esv:Hebrews:4:6",
+        "w": 16,
+        "l": {},
+        "c": "Hebrews 3:19*33604",
+        "a": "g"
+    },
+    {
+        "o": 33612,
+        "r": "esv:Hebrews:4:7",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 3:7–8*33592",
+        "a": "h"
+    },
+    {
+        "o": 33613,
+        "r": "esv:Hebrews:4:8",
+        "w": 7,
+        "l": {},
+        "t": "Greek he*i",
+        "a": "i"
+    },
+    {
+        "o": 33615,
+        "r": "esv:Hebrews:4:10",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 14:13*34671",
+        "a": "j"
+    },
+    {
+        "o": 33616,
+        "r": "esv:Hebrews:4:11",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 3:12*33597",
+        "a": "k"
+    },
+    {
+        "o": 33617,
+        "r": "esv:Hebrews:4:12",
+        "w": 0,
+        "l": {},
+        "c": "1 Peter 1:23*34035",
+        "a": "l"
+    },
+    {
+        "o": 33617,
+        "r": "esv:Hebrews:4:12",
+        "w": 7,
+        "l": {},
+        "c": "Jeremiah 23:29*21714; 1 Thessalonians 2:13*33100",
+        "a": "m"
+    },
+    {
+        "o": 33617,
+        "r": "esv:Hebrews:4:12",
+        "w": 8,
+        "l": {},
+        "c": "Isaiah 49:2*20738; Ephesians 6:17*32834",
+        "a": "n"
+    },
+    {
+        "o": 33617,
+        "r": "esv:Hebrews:4:12",
+        "w": 11,
+        "l": {},
+        "c": "Proverbs 5:4*18369; Revelation 1:16*34408; Revelation 2:12*34428",
+        "a": "o"
+    },
+    {
+        "o": 33617,
+        "r": "esv:Hebrews:4:12",
+        "w": 28,
+        "l": {},
+        "c": "1 Corinthians 14:24–25*32093",
+        "a": "p"
+    },
+    {
+        "o": 33618,
+        "r": "esv:Hebrews:4:13",
+        "w": 0,
+        "l": {},
+        "c": "2 Chronicles 16:9*12666; Job 34:21*15079; Psalm 33:13–15*15867",
+        "a": "q"
+    },
+    {
+        "o": 33618,
+        "r": "esv:Hebrews:4:13",
+        "w": 10,
+        "l": {},
+        "c": "Job 26:6*14833",
+        "a": "r"
+    },
+    {
+        "o": 33620,
+        "r": "esv:Hebrews:4:14",
+        "w": 3,
+        "l": {},
+        "c": "Hebrews 2:17–18*33581; Hebrews 10:21*33761",
+        "a": "s"
+    },
+    {
+        "o": 33620,
+        "r": "esv:Hebrews:4:14",
+        "w": 7,
+        "l": {},
+        "c": "Ephesians 4:10*32754",
+        "a": "t"
+    },
+    {
+        "o": 33620,
+        "r": "esv:Hebrews:4:14",
+        "w": 18,
+        "l": {},
+        "c": "Hebrews 10:23*33763",
+        "a": "u"
+    },
+    {
+        "o": 33621,
+        "r": "esv:Hebrews:4:15",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 5:2*33625; Isaiah 53:3*20823",
+        "a": "v"
+    },
+    {
+        "o": 33621,
+        "r": "esv:Hebrews:4:15",
+        "w": 23,
+        "l": {},
+        "c": "Hebrews 4:14*33620",
+        "a": "w"
+    },
+    {
+        "o": 33621,
+        "r": "esv:Hebrews:4:15",
+        "w": 27,
+        "l": {},
+        "c": "Hebrews 9:28*33737; 1 Peter 2:22*34062; 1 John 3:5*34253; Hebrews 7:26*33689; John 8:46*29550; John 14:30*29850",
+        "a": "x"
+    },
+    {
+        "o": 33622,
+        "r": "esv:Hebrews:4:16",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 10:19*33759; Ephesians 3:12*32732; Hebrews 7:19*33682; Hebrews 7:25*33688",
+        "a": "y"
+    },
+    {
+        "o": 33624,
+        "r": "esv:Hebrews:5:1",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 8:3*33696",
+        "a": "a"
+    },
+    {
+        "o": 33624,
+        "r": "esv:Hebrews:5:1",
+        "w": 15,
+        "l": {},
+        "c": "Hebrews 2:17*33581",
+        "a": "b"
+    },
+    {
+        "o": 33624,
+        "r": "esv:Hebrews:5:1",
+        "w": 19,
+        "l": {},
+        "c": "Hebrews 8:3–4*33696; Hebrews 9:9*33717; Hebrews 10:11*33750; Hebrews 11:4*33785",
+        "a": "c"
+    },
+    {
+        "o": 33625,
+        "r": "esv:Hebrews:5:2",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 2:18*33582; Hebrews 4:15*33621",
+        "a": "d"
+    },
+    {
+        "o": 33625,
+        "r": "esv:Hebrews:5:2",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 7:28*33691",
+        "a": "e"
+    },
+    {
+        "o": 33626,
+        "r": "esv:Hebrews:5:3",
+        "w": 12,
+        "l": {},
+        "c": "Hebrews 7:27*33690; Hebrews 9:7*33715; Leviticus 4:3*3054; Leviticus 9:7*3225; Leviticus 16:6*3487",
+        "a": "f"
+    },
+    {
+        "o": 33627,
+        "r": "esv:Hebrews:5:4",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 16:5*4572; Numbers 16:40*4607; Numbers 18:7*4641; 2 Chronicles 26:18*12930",
+        "a": "g"
+    },
+    {
+        "o": 33627,
+        "r": "esv:Hebrews:5:4",
+        "w": 13,
+        "l": {},
+        "c": "Exodus 28:1*2502; 1 Chronicles 23:13*12084",
+        "a": "h"
+    },
+    {
+        "o": 33628,
+        "r": "esv:Hebrews:5:5",
+        "w": 2,
+        "l": {},
+        "c": "John 8:54*29559",
+        "a": "i"
+    },
+    {
+        "o": 33628,
+        "r": "esv:Hebrews:5:5",
+        "w": 21,
+        "l": {},
+        "c": "Hebrews 1:5*33552",
+        "a": "j"
+    },
+    {
+        "o": 33629,
+        "r": "esv:Hebrews:5:6",
+        "w": 6,
+        "l": {},
+        "c": "Hebrews 7:17*33680; Hebrews 7:21*33684; Psalm 110:4*17500",
+        "a": "k"
+    },
+    {
+        "o": 33630,
+        "r": "esv:Hebrews:5:7",
+        "w": 5,
+        "l": {},
+        "c": "Matthew 26:39*26881; Matthew 26:44*26886; Mark 14:36*27685; Mark 14:39*27688; Luke 22:41*28975; Luke 22:44*28978",
+        "a": "l"
+    },
+    {
+        "o": 33630,
+        "r": "esv:Hebrews:5:7",
+        "w": 6,
+        "l": {},
+        "t": "Greek he*i",
+        "a": "m"
+    },
+    {
+        "o": 33630,
+        "r": "esv:Hebrews:5:7",
+        "w": 11,
+        "l": {},
+        "c": "Psalm 22:1–2*15661; Matthew 27:46*26975; Matthew 27:50*26979; Mark 15:34*27764; Mark 15:37*27767; Luke 23:46*29060",
+        "a": "n"
+    },
+    {
+        "o": 33630,
+        "r": "esv:Hebrews:5:7",
+        "w": 18,
+        "l": {},
+        "c": "Mark 14:36*27685",
+        "a": "o"
+    },
+    {
+        "o": 33630,
+        "r": "esv:Hebrews:5:7",
+        "w": 27,
+        "l": {},
+        "c": "Psalm 22:24*15684",
+        "a": "p"
+    },
+    {
+        "o": 33631,
+        "r": "esv:Hebrews:5:8",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 1:2*33549",
+        "a": "q"
+    },
+    {
+        "o": 33631,
+        "r": "esv:Hebrews:5:8",
+        "w": 4,
+        "l": {},
+        "c": "Philippians 2:8*32888",
+        "a": "r"
+    },
+    {
+        "o": 33632,
+        "r": "esv:Hebrews:5:9",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 2:10*33574",
+        "a": "s"
+    },
+    {
+        "o": 33633,
+        "r": "esv:Hebrews:5:10",
+        "w": 6,
+        "l": {},
+        "c": "Hebrews 5:6*33629; Hebrews 6:20*33660",
+        "a": "t"
+    },
+    {
+        "o": 33635,
+        "r": "esv:Hebrews:5:11",
+        "w": 9,
+        "l": {},
+        "c": "2 Peter 3:16*34197",
+        "a": "u"
+    },
+    {
+        "o": 33636,
+        "r": "esv:Hebrews:5:12",
+        "w": 16,
+        "l": {},
+        "c": "Hebrews 6:1*33640",
+        "a": "v"
+    },
+    {
+        "o": 33636,
+        "r": "esv:Hebrews:5:12",
+        "w": 26,
+        "l": {},
+        "c": "1 Corinthians 3:2*31775",
+        "a": "w"
+    },
+    {
+        "o": 33637,
+        "r": "esv:Hebrews:5:13",
+        "w": 15,
+        "l": {},
+        "c": "1 Corinthians 3:1*31774; 1 Peter 2:2*34041",
+        "a": "x"
+    },
+    {
+        "o": 33638,
+        "r": "esv:Hebrews:5:14",
+        "w": 4,
+        "l": {},
+        "c": "Ephesians 4:13*32757",
+        "a": "y"
+    },
+    {
+        "o": 33638,
+        "r": "esv:Hebrews:5:14",
+        "w": 12,
+        "l": {},
+        "c": "Genesis 3:22*85; 1 Kings 3:9*9674; Isaiah 7:15*19791",
+        "a": "z"
+    },
+    {
+        "o": 33640,
+        "r": "esv:Hebrews:6:1",
+        "w": 0,
+        "l": {},
+        "c": "Philippians 3:12–14*32927",
+        "a": "a"
+    },
+    {
+        "o": 33640,
+        "r": "esv:Hebrews:6:1",
+        "w": 3,
+        "l": {},
+        "c": "Hebrews 5:12*33636",
+        "a": "b"
+    },
+    {
+        "o": 33640,
+        "r": "esv:Hebrews:6:1",
+        "w": 20,
+        "l": {},
+        "c": "Hebrews 9:14*33723",
+        "a": "c"
+    },
+    {
+        "o": 33641,
+        "r": "esv:Hebrews:6:2",
+        "w": 1,
+        "l": {},
+        "c": "Acts 19:4–5*30854",
+        "a": "d"
+    },
+    {
+        "o": 33641,
+        "r": "esv:Hebrews:6:2",
+        "w": 4,
+        "l": {},
+        "t": "Or baptisms*i (that is, cleansing rites)",
+        "a": "e"
+    },
+    {
+        "o": 33641,
+        "r": "esv:Hebrews:6:2",
+        "w": 4,
+        "l": {},
+        "c": "Acts 8:17*30409; Acts 19:6*30856",
+        "a": "f"
+    },
+    {
+        "o": 33641,
+        "r": "esv:Hebrews:6:2",
+        "w": 9,
+        "l": {},
+        "c": "Acts 17:31–32*30813",
+        "a": "g"
+    },
+    {
+        "o": 33641,
+        "r": "esv:Hebrews:6:2",
+        "w": 15,
+        "l": {},
+        "c": "Acts 10:42*30529",
+        "a": "h"
+    },
+    {
+        "o": 33642,
+        "r": "esv:Hebrews:6:3",
+        "w": 4,
+        "l": {},
+        "c": "1 Corinthians 16:7*32183",
+        "a": "i"
+    },
+    {
+        "o": 33643,
+        "r": "esv:Hebrews:6:4",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 10:32*33772",
+        "a": "j"
+    },
+    {
+        "o": 33643,
+        "r": "esv:Hebrews:6:4",
+        "w": 16,
+        "l": {},
+        "c": "John 4:10*29267; Ephesians 2:8*32703",
+        "a": "k"
+    },
+    {
+        "o": 33643,
+        "r": "esv:Hebrews:6:4",
+        "w": 20,
+        "l": {},
+        "c": "Hebrews 2:4–5*33568; Galatians 3:2*32552; Galatians 3:5*32555",
+        "a": "l"
+    },
+    {
+        "o": 33644,
+        "r": "esv:Hebrews:6:5",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 34:8*15887",
+        "a": "m"
+    },
+    {
+        "o": 33645,
+        "r": "esv:Hebrews:6:6",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 19:26*26537; 1 John 5:16*34317",
+        "a": "n"
+    },
+    {
+        "o": 33645,
+        "r": "esv:Hebrews:6:6",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 10:29*33769",
+        "a": "o"
+    },
+    {
+        "o": 33646,
+        "r": "esv:Hebrews:6:7",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 65:10*16454",
+        "a": "p"
+    },
+    {
+        "o": 33647,
+        "r": "esv:Hebrews:6:8",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 5:1–7*19727; Genesis 3:17–18*80; Deuteronomy 29:22–23*6227; Jeremiah 44:22*22286; Luke 13:6–9*28533",
+        "a": "q"
+    },
+    {
+        "o": 33647,
+        "r": "esv:Hebrews:6:8",
+        "w": 14,
+        "l": {},
+        "c": "Malachi 4:1*25770; John 15:6*29859",
+        "a": "r"
+    },
+    {
+        "o": 33649,
+        "r": "esv:Hebrews:6:10",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 19:17*18811; Matthew 10:42*26153; Matthew 25:40*26828; Mark 9:41*27441",
+        "a": "s"
+    },
+    {
+        "o": 33649,
+        "r": "esv:Hebrews:6:10",
+        "w": 8,
+        "l": {},
+        "c": "1 Thessalonians 1:3*33078",
+        "a": "t"
+    },
+    {
+        "o": 33649,
+        "r": "esv:Hebrews:6:10",
+        "w": 21,
+        "l": {},
+        "c": "Romans 15:31*31684; 2 Corinthians 8:4*32359; 2 Corinthians 9:1*32383; 2 Corinthians 9:12*32395; 2 Timothy 1:18*33386; Revelation 2:19*34436",
+        "a": "u"
+    },
+    {
+        "o": 33650,
+        "r": "esv:Hebrews:6:11",
+        "w": 16,
+        "l": {},
+        "c": "Romans 5:2–5*31363",
+        "a": "v"
+    },
+    {
+        "o": 33651,
+        "r": "esv:Hebrews:6:12",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 13:7*33863; Hebrews 10:36*33776",
+        "a": "w"
+    },
+    {
+        "o": 33653,
+        "r": "esv:Hebrews:6:13",
+        "w": 17,
+        "l": {},
+        "c": "Genesis 22:16*619",
+        "a": "x"
+    },
+    {
+        "o": 33654,
+        "r": "esv:Hebrews:6:14",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 22:17*620",
+        "a": "y"
+    },
+    {
+        "o": 33655,
+        "r": "esv:Hebrews:6:15",
+        "w": 2,
+        "l": {},
+        "t": "Greek he*i",
+        "a": "z"
+    },
+    {
+        "o": 33655,
+        "r": "esv:Hebrews:6:15",
+        "w": 2,
+        "l": {},
+        "c": "Hebrews 6:12*33652; Hebrews 6:17*33657; Hebrews 7:6*33668; Romans 4:13*31347",
+        "a": "a"
+    },
+    {
+        "o": 33656,
+        "r": "esv:Hebrews:6:16",
+        "w": 12,
+        "l": {},
+        "c": "Exodus 22:11*2313",
+        "a": "b"
+    },
+    {
+        "o": 33657,
+        "r": "esv:Hebrews:6:17",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 11:9*33790",
+        "a": "c"
+    },
+    {
+        "o": 33657,
+        "r": "esv:Hebrews:6:17",
+        "w": 13,
+        "l": {},
+        "c": "Hebrews 6:18*33658; Psalm 110:4*17500; Proverbs 19:21*18815",
+        "a": "d"
+    },
+    {
+        "o": 33657,
+        "r": "esv:Hebrews:6:17",
+        "w": 19,
+        "l": {},
+        "c": "Galatians 3:20*32572",
+        "a": "e"
+    },
+    {
+        "o": 33658,
+        "r": "esv:Hebrews:6:18",
+        "w": 7,
+        "l": {},
+        "c": "Titus 1:2*33465",
+        "a": "f"
+    },
+    {
+        "o": 33658,
+        "r": "esv:Hebrews:6:18",
+        "w": 30,
+        "l": {},
+        "c": "Hebrews 12:1–2*33824",
+        "a": "g"
+    },
+    {
+        "o": 33659,
+        "r": "esv:Hebrews:6:19",
+        "w": 16,
+        "l": {},
+        "c": "Hebrews 9:7*33715; Leviticus 16:15*3496",
+        "a": "h"
+    },
+    {
+        "o": 33660,
+        "r": "esv:Hebrews:6:20",
+        "w": 3,
+        "l": {},
+        "c": "Hebrews 4:14*33620; Hebrews 8:1*33694; Hebrews 9:24*33733",
+        "a": "i"
+    },
+    {
+        "o": 33660,
+        "r": "esv:Hebrews:6:20",
+        "w": 9,
+        "l": {},
+        "c": "Hebrews 3:1*33585; Hebrews 5:6*33629; Hebrews 5:10*33634; Hebrews 7:17*33680; Hebrews 7:21*33684",
+        "a": "j"
+    },
+    {
+        "o": 33663,
+        "r": "esv:Hebrews:7:1",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 14:18–20*389",
+        "a": "a"
+    },
+    {
+        "o": 33663,
+        "r": "esv:Hebrews:7:1",
+        "w": 4,
+        "l": {},
+        "c": "Psalm 76:2*16700",
+        "a": "b"
+    },
+    {
+        "o": 33663,
+        "r": "esv:Hebrews:7:1",
+        "w": 7,
+        "l": {},
+        "c": "Numbers 24:16*4862; Deuteronomy 32:8*6301",
+        "a": "c"
+    },
+    {
+        "o": 33665,
+        "r": "esv:Hebrews:7:3",
+        "w": 5,
+        "l": {},
+        "c": "Hebrews 7:6*33668",
+        "a": "d"
+    },
+    {
+        "o": 33666,
+        "r": "esv:Hebrews:7:4",
+        "w": 8,
+        "l": {},
+        "c": "Acts 2:29*30172; Acts 7:8–9*30335",
+        "a": "e"
+    },
+    {
+        "o": 33667,
+        "r": "esv:Hebrews:7:5",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 18:21*4655; Numbers 18:26*4660; 2 Chronicles 31:4–5*13052",
+        "a": "f"
+    },
+    {
+        "o": 33667,
+        "r": "esv:Hebrews:7:5",
+        "w": 26,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i",
+        "a": "g"
+    },
+    {
+        "o": 33668,
+        "r": "esv:Hebrews:7:6",
+        "w": 2,
+        "l": {},
+        "c": "Hebrews 7:3*33665",
+        "a": "h"
+    },
+    {
+        "o": 33668,
+        "r": "esv:Hebrews:7:6",
+        "w": 16,
+        "l": {},
+        "c": "Romans 4:13*31347",
+        "a": "i"
+    },
+    {
+        "o": 33670,
+        "r": "esv:Hebrews:7:8",
+        "w": 16,
+        "l": {},
+        "c": "Hebrews 5:6*33629; Hebrews 6:20*33660",
+        "a": "j"
+    },
+    {
+        "o": 33670,
+        "r": "esv:Hebrews:7:8",
+        "w": 22,
+        "l": {},
+        "c": "John 6:57*29424; Revelation 1:17–18*34409",
+        "a": "k"
+    },
+    {
+        "o": 33674,
+        "r": "esv:Hebrews:7:11",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 7:18–19*33681; Hebrews 8:7*33700; Galatians 2:21*32548",
+        "a": "l"
+    },
+    {
+        "o": 33677,
+        "r": "esv:Hebrews:7:14",
+        "w": 8,
+        "l": {},
+        "c": "Isaiah 11:1*19890; Micah 5:2*25178; Matthew 1:3*25780; Luke 3:33*27986; Revelation 5:5*34492",
+        "a": "m"
+    },
+    {
+        "o": 33680,
+        "r": "esv:Hebrews:7:17",
+        "w": 5,
+        "l": {},
+        "c": "Hebrews 7:21*33684; Hebrews 5:6*33629; Hebrews 6:20*33660; Psalm 110:4*17500",
+        "a": "n"
+    },
+    {
+        "o": 33681,
+        "r": "esv:Hebrews:7:18",
+        "w": 10,
+        "l": {},
+        "c": "Romans 8:3*31442; Galatians 4:9*32593",
+        "a": "o"
+    },
+    {
+        "o": 33682,
+        "r": "esv:Hebrews:7:19",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 9:9*33717; Hebrews 10:1*33740; Leviticus 16:16*3497; Acts 13:39*30641",
+        "a": "p"
+    },
+    {
+        "o": 33682,
+        "r": "esv:Hebrews:7:19",
+        "w": 10,
+        "l": {},
+        "c": "Hebrews 6:18*33658",
+        "a": "q"
+    },
+    {
+        "o": 33682,
+        "r": "esv:Hebrews:7:19",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 7:25*33688; Leviticus 10:3*3247; Hebrews 4:16*33622",
+        "a": "r"
+    },
+    {
+        "o": 33684,
+        "r": "esv:Hebrews:7:21",
+        "w": 16,
+        "l": {},
+        "c": "Hebrews 7:17*33680",
+        "a": "s"
+    },
+    {
+        "o": 33685,
+        "r": "esv:Hebrews:7:22",
+        "w": 5,
+        "l": {},
+        "c": "Hebrews 8:6*33699",
+        "a": "t"
+    },
+    {
+        "o": 33687,
+        "r": "esv:Hebrews:7:24",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 7:21*33684; Hebrews 7:28*33691",
+        "a": "u"
+    },
+    {
+        "o": 33688,
+        "r": "esv:Hebrews:7:25",
+        "w": 8,
+        "l": {},
+        "t": "That is, completely; or at*i all*i times*i",
+        "a": "v"
+    },
+    {
+        "o": 33688,
+        "r": "esv:Hebrews:7:25",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 7:19*33682",
+        "a": "w"
+    },
+    {
+        "o": 33688,
+        "r": "esv:Hebrews:7:25",
+        "w": 14,
+        "l": {},
+        "c": "John 14:6*29825",
+        "a": "x"
+    },
+    {
+        "o": 33688,
+        "r": "esv:Hebrews:7:25",
+        "w": 20,
+        "l": {},
+        "c": "Hebrews 9:24*33733; Romans 8:34*31476",
+        "a": "y"
+    },
+    {
+        "o": 33689,
+        "r": "esv:Hebrews:7:26",
+        "w": 12,
+        "l": {},
+        "c": "Psalm 16:10*15540; Revelation 15:4*34684; Revelation 16:5*34695; Mark 1:24*27052",
+        "a": "z"
+    },
+    {
+        "o": 33689,
+        "r": "esv:Hebrews:7:26",
+        "w": 15,
+        "l": {},
+        "c": "Hebrews 4:15*33621",
+        "a": "a"
+    },
+    {
+        "o": 33689,
+        "r": "esv:Hebrews:7:26",
+        "w": 19,
+        "l": {},
+        "c": "Hebrews 8:1*33694; Hebrews 4:14*33620",
+        "a": "b"
+    },
+    {
+        "o": 33690,
+        "r": "esv:Hebrews:7:27",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 5:3*33626",
+        "a": "c"
+    },
+    {
+        "o": 33690,
+        "r": "esv:Hebrews:7:27",
+        "w": 27,
+        "l": {},
+        "c": "Hebrews 9:12*33721; Hebrews 10:10*33749; Hebrews 9:28*33737",
+        "a": "d"
+    },
+    {
+        "o": 33691,
+        "r": "esv:Hebrews:7:28",
+        "w": 4,
+        "l": {},
+        "c": "Hebrews 5:2*33625",
+        "a": "e"
+    },
+    {
+        "o": 33691,
+        "r": "esv:Hebrews:7:28",
+        "w": 29,
+        "l": {},
+        "c": "Hebrews 2:10*33574; Hebrews 5:9*33632",
+        "a": "f"
+    },
+    {
+        "o": 33694,
+        "r": "esv:Hebrews:8:1",
+        "w": 15,
+        "l": {},
+        "c": "Mark 16:19*27803",
+        "a": "a"
+    },
+    {
+        "o": 33695,
+        "r": "esv:Hebrews:8:2",
+        "w": 6,
+        "l": {},
+        "c": "Hebrews 9:24*33733; Hebrews 9:11*33720",
+        "a": "b"
+    },
+    {
+        "o": 33695,
+        "r": "esv:Hebrews:8:2",
+        "w": 9,
+        "l": {},
+        "t": "Or tabernacle*i ; also verse 5",
+        "a": "c"
+    },
+    {
+        "o": 33695,
+        "r": "esv:Hebrews:8:2",
+        "w": 12,
+        "l": {},
+        "c": "Exodus 33:7*2703",
+        "a": "d"
+    },
+    {
+        "o": 33696,
+        "r": "esv:Hebrews:8:3",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 5:1*33624",
+        "a": "e"
+    },
+    {
+        "o": 33696,
+        "r": "esv:Hebrews:8:3",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 9:12–14*33721; Hebrews 10:9–12*33748; Ephesians 5:2*32781",
+        "a": "f"
+    },
+    {
+        "o": 33698,
+        "r": "esv:Hebrews:8:5",
+        "w": 1,
+        "l": {},
+        "c": "Hebrews 9:23*33732",
+        "a": "g"
+    },
+    {
+        "o": 33698,
+        "r": "esv:Hebrews:8:5",
+        "w": 4,
+        "l": {},
+        "c": "Hebrews 10:1*33740; Colossians 2:17*33017",
+        "a": "h"
+    },
+    {
+        "o": 33698,
+        "r": "esv:Hebrews:8:5",
+        "w": 24,
+        "l": {},
+        "c": "Exodus 25:40*2435",
+        "a": "i"
+    },
+    {
+        "o": 33699,
+        "r": "esv:Hebrews:8:6",
+        "w": 4,
+        "l": {},
+        "t": "Greek he*i",
+        "a": "j"
+    },
+    {
+        "o": 33699,
+        "r": "esv:Hebrews:8:6",
+        "w": 10,
+        "l": {},
+        "c": "Hebrews 1:4*33551; 2 Corinthians 3:6–11*32258",
+        "a": "k"
+    },
+    {
+        "o": 33699,
+        "r": "esv:Hebrews:8:6",
+        "w": 18,
+        "l": {},
+        "c": "Hebrews 7:22*33685",
+        "a": "l"
+    },
+    {
+        "o": 33699,
+        "r": "esv:Hebrews:8:6",
+        "w": 20,
+        "l": {},
+        "c": "Hebrews 9:15*33724; Hebrews 12:24*33849; Galatians 3:19*32571",
+        "a": "m"
+    },
+    {
+        "o": 33700,
+        "r": "esv:Hebrews:8:7",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 7:11*33674",
+        "a": "n"
+    },
+    {
+        "o": 33701,
+        "r": "esv:Hebrews:8:8",
+        "w": 8,
+        "l": {},
+        "t": "Some manuscripts For*i finding*i fault*i with*i it*i he*i says*i to*i them*i",
+        "a": "o"
+    },
+    {
+        "o": 33701,
+        "r": "esv:Hebrews:8:8",
+        "w": 8,
+        "l": {},
+        "c": "Jeremiah 31:31–34*21943",
+        "a": "p"
+    },
+    {
+        "o": 33703,
+        "r": "esv:Hebrews:8:10",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 10:16*33755; Romans 11:27*31571",
+        "a": "q"
+    },
+    {
+        "o": 33703,
+        "r": "esv:Hebrews:8:10",
+        "w": 28,
+        "l": {},
+        "c": "2 Corinthians 3:3*32255",
+        "a": "r"
+    },
+    {
+        "o": 33704,
+        "r": "esv:Hebrews:8:11",
+        "w": 20,
+        "l": {},
+        "c": "Isaiah 54:13*20847; John 6:45*29412; 1 John 2:27*34245",
+        "a": "s"
+    },
+    {
+        "o": 33705,
+        "r": "esv:Hebrews:8:12",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 10:17*33756; Romans 11:27*31571",
+        "a": "t"
+    },
+    {
+        "o": 33706,
+        "r": "esv:Hebrews:8:13",
+        "w": 12,
+        "l": {},
+        "c": "2 Corinthians 5:17*32311",
+        "a": "u"
+    },
+    {
+        "o": 33709,
+        "r": "esv:Hebrews:9:1",
+        "w": 9,
+        "l": {},
+        "c": "Exodus 25:8*2400",
+        "a": "a"
+    },
+    {
+        "o": 33710,
+        "r": "esv:Hebrews:9:2",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 26:1*2438",
+        "a": "b"
+    },
+    {
+        "o": 33710,
+        "r": "esv:Hebrews:9:2",
+        "w": 2,
+        "l": {},
+        "t": "Or tabernacle*i ; also verses 11, 21",
+        "a": "c"
+    },
+    {
+        "o": 33710,
+        "r": "esv:Hebrews:9:2",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 25:31–39*2426; Exodus 26:35*2472; Exodus 40:4*2958",
+        "a": "d"
+    },
+    {
+        "o": 33710,
+        "r": "esv:Hebrews:9:2",
+        "w": 13,
+        "l": {},
+        "c": "Exodus 25:23–29*2417",
+        "a": "e"
+    },
+    {
+        "o": 33710,
+        "r": "esv:Hebrews:9:2",
+        "w": 16,
+        "l": {},
+        "c": "Exodus 25:30*2425; Leviticus 24:5–8*3760",
+        "a": "f"
+    },
+    {
+        "o": 33710,
+        "r": "esv:Hebrews:9:2",
+        "w": 21,
+        "l": {},
+        "t": "Greek the*i presentation*i of*i the*i loaves*i",
+        "a": "g"
+    },
+    {
+        "o": 33711,
+        "r": "esv:Hebrews:9:3",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 26:31–33*2468; Exodus 40:3*2957; Exodus 40:21*2975",
+        "a": "h"
+    },
+    {
+        "o": 33711,
+        "r": "esv:Hebrews:9:3",
+        "w": 7,
+        "l": {},
+        "t": "Greek tent*i ; also verses 6, 8",
+        "a": "i"
+    },
+    {
+        "o": 33712,
+        "r": "esv:Hebrews:9:4",
+        "w": 2,
+        "l": {},
+        "c": "Leviticus 16:12–13*3493",
+        "a": "j"
+    },
+    {
+        "o": 33712,
+        "r": "esv:Hebrews:9:4",
+        "w": 6,
+        "l": {},
+        "c": "Exodus 25:10*2403; Exodus 26:33*2470; Exodus 40:3*2957; Exodus 40:21*2975; Revelation 11:19*34613",
+        "a": "k"
+    },
+    {
+        "o": 33712,
+        "r": "esv:Hebrews:9:4",
+        "w": 20,
+        "l": {},
+        "c": "Exodus 16:33–34*2155",
+        "a": "l"
+    },
+    {
+        "o": 33712,
+        "r": "esv:Hebrews:9:4",
+        "w": 27,
+        "l": {},
+        "c": "Numbers 17:10*4629",
+        "a": "m"
+    },
+    {
+        "o": 33712,
+        "r": "esv:Hebrews:9:4",
+        "w": 32,
+        "l": {},
+        "c": "Exodus 25:16*2409; Exodus 40:20*2974; Deuteronomy 10:2*5654; Deuteronomy 10:5*5657; 1 Kings 8:9*9856; 1 Kings 8:21*9870; 2 Chronicles 5:10*12397",
+        "a": "n"
+    },
+    {
+        "o": 33713,
+        "r": "esv:Hebrews:9:5",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 25:18–22*2411; 1 Kings 8:6–7*9853",
+        "a": "o"
+    },
+    {
+        "o": 33713,
+        "r": "esv:Hebrews:9:5",
+        "w": 7,
+        "l": {},
+        "c": "Leviticus 16:2*3483",
+        "a": "p"
+    },
+    {
+        "o": 33714,
+        "r": "esv:Hebrews:9:6",
+        "w": 5,
+        "l": {},
+        "c": "Numbers 28:3*4990",
+        "a": "q"
+    },
+    {
+        "o": 33715,
+        "r": "esv:Hebrews:9:7",
+        "w": 4,
+        "l": {},
+        "c": "Leviticus 16:15*3496; Leviticus 16:34*3515; Hebrews 10:3*33742; Exodus 30:10*2605",
+        "a": "r"
+    },
+    {
+        "o": 33715,
+        "r": "esv:Hebrews:9:7",
+        "w": 11,
+        "l": {},
+        "c": "Leviticus 16:15*3496; Leviticus 16:34*3515; Hebrews 10:3*33742; Exodus 30:10*2605",
+        "a": "s"
+    },
+    {
+        "o": 33715,
+        "r": "esv:Hebrews:9:7",
+        "w": 19,
+        "l": {},
+        "c": "Hebrews 5:3*33626",
+        "a": "t"
+    },
+    {
+        "o": 33716,
+        "r": "esv:Hebrews:9:8",
+        "w": 6,
+        "l": {},
+        "c": "Hebrews 10:20*33760; John 14:6*29825",
+        "a": "u"
+    },
+    {
+        "o": 33717,
+        "r": "esv:Hebrews:9:9",
+        "w": 6,
+        "l": {},
+        "t": "Or which*i is*i symbolic*i for*i the*i age*i then*i present*i",
+        "a": "v"
+    },
+    {
+        "o": 33717,
+        "r": "esv:Hebrews:9:9",
+        "w": 15,
+        "l": {},
+        "c": "Hebrews 7:19*33682",
+        "a": "w"
+    },
+    {
+        "o": 33718,
+        "r": "esv:Hebrews:9:10",
+        "w": 3,
+        "l": {},
+        "c": "Leviticus 11:2*3268",
+        "a": "x"
+    },
+    {
+        "o": 33718,
+        "r": "esv:Hebrews:9:10",
+        "w": 7,
+        "l": {},
+        "c": "Mark 7:4*27313; Mark 7:8*27317; Leviticus 11:25*3291",
+        "a": "y"
+    },
+    {
+        "o": 33720,
+        "r": "esv:Hebrews:9:11",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 10:1*33740",
+        "a": "z"
+    },
+    {
+        "o": 33720,
+        "r": "esv:Hebrews:9:11",
+        "w": 14,
+        "l": {},
+        "t": "Some manuscripts good*i things*i to*i come*i",
+        "a": "a"
+    },
+    {
+        "o": 33720,
+        "r": "esv:Hebrews:9:11",
+        "w": 16,
+        "l": {},
+        "c": "Hebrews 9:24*33733; Hebrews 8:2*33695",
+        "a": "b"
+    },
+    {
+        "o": 33720,
+        "r": "esv:Hebrews:9:11",
+        "w": 22,
+        "l": {},
+        "c": "Mark 14:58*27710",
+        "a": "c"
+    },
+    {
+        "o": 33721,
+        "r": "esv:Hebrews:9:12",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 9:24*33733",
+        "a": "d"
+    },
+    {
+        "o": 33721,
+        "r": "esv:Hebrews:9:12",
+        "w": 1,
+        "l": {},
+        "c": "Hebrews 7:27*33690; Hebrews 10:10*33749",
+        "a": "e"
+    },
+    {
+        "o": 33721,
+        "r": "esv:Hebrews:9:12",
+        "w": 12,
+        "l": {},
+        "c": "Hebrews 10:4*33743",
+        "a": "f"
+    },
+    {
+        "o": 33721,
+        "r": "esv:Hebrews:9:12",
+        "w": 19,
+        "l": {},
+        "c": "Acts 20:28*30925",
+        "a": "g"
+    },
+    {
+        "o": 33721,
+        "r": "esv:Hebrews:9:12",
+        "w": 25,
+        "l": {},
+        "c": "Job 33:24*15047; Daniel 9:24*24461; 1 Corinthians 6:20*31857",
+        "a": "h"
+    },
+    {
+        "o": 33722,
+        "r": "esv:Hebrews:9:13",
+        "w": 1,
+        "l": {},
+        "c": "Leviticus 16:14–16*3495",
+        "a": "i"
+    },
+    {
+        "o": 33722,
+        "r": "esv:Hebrews:9:13",
+        "w": 14,
+        "l": {},
+        "c": "Numbers 19:2*4670; Numbers 19:17–18*4685",
+        "a": "j"
+    },
+    {
+        "o": 33722,
+        "r": "esv:Hebrews:9:13",
+        "w": 20,
+        "l": {},
+        "t": "Or For*i if*i the*i sprinkling*i of*i defiled*i persons*i with*i the*i blood*i of*i goats*i and*i bulls*i and*i with*i the*i ashes*i of*i a*i heifer*i sanctifies*i",
+        "a": "k"
+    },
+    {
+        "o": 33723,
+        "r": "esv:Hebrews:9:14",
+        "w": 3,
+        "l": {},
+        "c": "Hebrews 9:12*33721; 1 John 1:7*34209; Revelation 7:14*34537",
+        "a": "l"
+    },
+    {
+        "o": 33723,
+        "r": "esv:Hebrews:9:14",
+        "w": 12,
+        "l": {},
+        "c": "Hebrews 7:27*33690; Hebrews 8:3*33696",
+        "a": "m"
+    },
+    {
+        "o": 33723,
+        "r": "esv:Hebrews:9:14",
+        "w": 18,
+        "l": {},
+        "c": "Hebrews 1:3*33550; Hebrews 10:22*33762",
+        "a": "n"
+    },
+    {
+        "o": 33723,
+        "r": "esv:Hebrews:9:14",
+        "w": 20,
+        "l": {},
+        "t": "Some manuscripts your*i",
+        "a": "o"
+    },
+    {
+        "o": 33723,
+        "r": "esv:Hebrews:9:14",
+        "w": 21,
+        "l": {},
+        "c": "Hebrews 6:1*33640",
+        "a": "p"
+    },
+    {
+        "o": 33723,
+        "r": "esv:Hebrews:9:14",
+        "w": 24,
+        "l": {},
+        "c": "Romans 6:13*31398; 1 Peter 4:2*34094",
+        "a": "q"
+    },
+    {
+        "o": 33724,
+        "r": "esv:Hebrews:9:15",
+        "w": 2,
+        "l": {},
+        "c": "Hebrews 8:6*33699; Hebrews 12:24*33849",
+        "a": "r"
+    },
+    {
+        "o": 33724,
+        "r": "esv:Hebrews:9:15",
+        "w": 10,
+        "l": {},
+        "c": "Hebrews 3:1*33585; Romans 8:28*31469",
+        "a": "s"
+    },
+    {
+        "o": 33724,
+        "r": "esv:Hebrews:9:15",
+        "w": 15,
+        "l": {},
+        "c": "Hebrews 10:36*33776; Exodus 32:13*2671",
+        "a": "t"
+    },
+    {
+        "o": 33724,
+        "r": "esv:Hebrews:9:15",
+        "w": 20,
+        "l": {},
+        "c": "Romans 3:24–25*31324; Romans 5:6*31367",
+        "a": "u"
+    },
+    {
+        "o": 33724,
+        "r": "esv:Hebrews:9:15",
+        "w": 36,
+        "l": {},
+        "t": "The Greek word means both covenant*i and will*i ; also verses 16, 17",
+        "a": "v"
+    },
+    {
+        "o": 33726,
+        "r": "esv:Hebrews:9:17",
+        "w": 0,
+        "l": {},
+        "c": "Galatians 3:15*32567",
+        "a": "w"
+    },
+    {
+        "o": 33727,
+        "r": "esv:Hebrews:9:18",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 24:6*2378; Exodus 24:8*2380",
+        "a": "x"
+    },
+    {
+        "o": 33728,
+        "r": "esv:Hebrews:9:19",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 9:12*33721",
+        "a": "y"
+    },
+    {
+        "o": 33728,
+        "r": "esv:Hebrews:9:19",
+        "w": 23,
+        "l": {},
+        "c": "Leviticus 14:4*3390; Leviticus 14:7*3393; Numbers 19:6*4674; Numbers 19:17*4685",
+        "a": "z"
+    },
+    {
+        "o": 33729,
+        "r": "esv:Hebrews:9:20",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 24:8*2380; Matthew 26:28*26868",
+        "a": "a"
+    },
+    {
+        "o": 33730,
+        "r": "esv:Hebrews:9:21",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 29:12*2558; Exodus 29:36*2582; Leviticus 8:15*3195; Leviticus 8:19*3199; Leviticus 16:14*3495; Leviticus 16:16*3497; 2 Chronicles 29:22*13003",
+        "a": "b"
+    },
+    {
+        "o": 33731,
+        "r": "esv:Hebrews:9:22",
+        "w": 10,
+        "l": {},
+        "c": "Leviticus 17:11*3529",
+        "a": "c"
+    },
+    {
+        "o": 33732,
+        "r": "esv:Hebrews:9:23",
+        "w": 4,
+        "l": {},
+        "c": "Hebrews 8:5*33698",
+        "a": "d"
+    },
+    {
+        "o": 33733,
+        "r": "esv:Hebrews:9:24",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 8:2*33695; Hebrews 9:11*33720",
+        "a": "e"
+    },
+    {
+        "o": 33733,
+        "r": "esv:Hebrews:9:24",
+        "w": 29,
+        "l": {},
+        "c": "Hebrews 7:25*33688; Romans 8:34*31476",
+        "a": "f"
+    },
+    {
+        "o": 33734,
+        "r": "esv:Hebrews:9:25",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 9:7*33715",
+        "a": "g"
+    },
+    {
+        "o": 33734,
+        "r": "esv:Hebrews:9:25",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 10:19*33759",
+        "a": "h"
+    },
+    {
+        "o": 33735,
+        "r": "esv:Hebrews:9:26",
+        "w": 18,
+        "l": {},
+        "c": "1 John 3:5*34253",
+        "a": "i"
+    },
+    {
+        "o": 33735,
+        "r": "esv:Hebrews:9:26",
+        "w": 21,
+        "l": {},
+        "c": "Hebrews 9:12*33721; Hebrews 7:27*33690; Hebrews 10:10*33749; 1 Peter 3:18*34086",
+        "a": "j"
+    },
+    {
+        "o": 33735,
+        "r": "esv:Hebrews:9:26",
+        "w": 24,
+        "l": {},
+        "c": "Hebrews 1:2*33549; 1 Corinthians 10:11*31958",
+        "a": "k"
+    },
+    {
+        "o": 33736,
+        "r": "esv:Hebrews:9:27",
+        "w": 2,
+        "l": {},
+        "c": "Genesis 3:19*82",
+        "a": "l"
+    },
+    {
+        "o": 33736,
+        "r": "esv:Hebrews:9:27",
+        "w": 11,
+        "l": {},
+        "c": "Matthew 16:27*26435",
+        "a": "m"
+    },
+    {
+        "o": 33737,
+        "r": "esv:Hebrews:9:28",
+        "w": 5,
+        "l": {},
+        "c": "Isaiah 53:12*20832; 1 Peter 2:24*34064; 1 Peter 3:18*34086",
+        "a": "n"
+    },
+    {
+        "o": 33737,
+        "r": "esv:Hebrews:9:28",
+        "w": 10,
+        "l": {},
+        "c": "Matthew 20:28*26574; Matthew 26:28*26868; Mark 10:45*27500; Revelation 5:9*34496",
+        "a": "o"
+    },
+    {
+        "o": 33737,
+        "r": "esv:Hebrews:9:28",
+        "w": 13,
+        "l": {},
+        "c": "Acts 1:11*30125",
+        "a": "p"
+    },
+    {
+        "o": 33737,
+        "r": "esv:Hebrews:9:28",
+        "w": 16,
+        "l": {},
+        "c": "Hebrews 4:15*33621",
+        "a": "q"
+    },
+    {
+        "o": 33737,
+        "r": "esv:Hebrews:9:28",
+        "w": 28,
+        "l": {},
+        "c": "Titus 2:13*33495; Isaiah 25:9*20163",
+        "a": "r"
+    },
+    {
+        "o": 33740,
+        "r": "esv:Hebrews:10:1",
+        "w": 5,
+        "l": {},
+        "c": "Hebrews 8:5*33698; Colossians 2:17*33017",
+        "a": "a"
+    },
+    {
+        "o": 33740,
+        "r": "esv:Hebrews:10:1",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 9:11*33720",
+        "a": "b"
+    },
+    {
+        "o": 33740,
+        "r": "esv:Hebrews:10:1",
+        "w": 21,
+        "l": {},
+        "c": "Hebrews 9:9*33717",
+        "a": "c"
+    },
+    {
+        "o": 33742,
+        "r": "esv:Hebrews:10:3",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 9:7*33715",
+        "a": "d"
+    },
+    {
+        "o": 33742,
+        "r": "esv:Hebrews:10:3",
+        "w": 3,
+        "l": {},
+        "c": "Leviticus 16:21*3502",
+        "a": "e"
+    },
+    {
+        "o": 33743,
+        "r": "esv:Hebrews:10:4",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 10:11*33750",
+        "a": "f"
+    },
+    {
+        "o": 33744,
+        "r": "esv:Hebrews:10:5",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 1:6*33553",
+        "a": "g"
+    },
+    {
+        "o": 33744,
+        "r": "esv:Hebrews:10:5",
+        "w": 2,
+        "l": {},
+        "t": "Greek he*i",
+        "a": "h"
+    },
+    {
+        "o": 33744,
+        "r": "esv:Hebrews:10:5",
+        "w": 8,
+        "l": {},
+        "c": "Psalm 40:6–8*16040",
+        "a": "i"
+    },
+    {
+        "o": 33747,
+        "r": "esv:Hebrews:10:8",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 10:5*33744",
+        "a": "j"
+    },
+    {
+        "o": 33748,
+        "r": "esv:Hebrews:10:9",
+        "w": 2,
+        "l": {},
+        "c": "Hebrews 10:7*33746",
+        "a": "k"
+    },
+    {
+        "o": 33749,
+        "r": "esv:Hebrews:10:10",
+        "w": 3,
+        "l": {},
+        "c": "Hebrews 2:11*33575; Hebrews 13:12*33868",
+        "a": "l"
+    },
+    {
+        "o": 33749,
+        "r": "esv:Hebrews:10:10",
+        "w": 11,
+        "l": {},
+        "c": "Matthew 26:26*26866; Mark 14:22*27669; Luke 22:19*28949; 1 Corinthians 11:24*32008; Hebrews 10:5*33744",
+        "a": "m"
+    },
+    {
+        "o": 33749,
+        "r": "esv:Hebrews:10:10",
+        "w": 16,
+        "l": {},
+        "c": "Hebrews 7:27*33690; Hebrews 9:12*33721",
+        "a": "n"
+    },
+    {
+        "o": 33750,
+        "r": "esv:Hebrews:10:11",
+        "w": 3,
+        "l": {},
+        "c": "Numbers 28:3*4990",
+        "a": "o"
+    },
+    {
+        "o": 33750,
+        "r": "esv:Hebrews:10:11",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 5:1*33624",
+        "a": "p"
+    },
+    {
+        "o": 33750,
+        "r": "esv:Hebrews:10:11",
+        "w": 12,
+        "l": {},
+        "c": "Hebrews 10:1*33740; Hebrews 10:4*33743; Hebrews 9:9*33717",
+        "a": "q"
+    },
+    {
+        "o": 33751,
+        "r": "esv:Hebrews:10:12",
+        "w": 2,
+        "l": {},
+        "t": "Greek this*i one*i",
+        "a": "r"
+    },
+    {
+        "o": 33751,
+        "r": "esv:Hebrews:10:12",
+        "w": 13,
+        "l": {},
+        "c": "Hebrews 1:3*33550; Mark 16:19*27803",
+        "a": "s"
+    },
+    {
+        "o": 33752,
+        "r": "esv:Hebrews:10:13",
+        "w": 3,
+        "l": {},
+        "c": "Hebrews 1:13*33560; 1 Corinthians 15:25–28*32138",
+        "a": "t"
+    },
+    {
+        "o": 33753,
+        "r": "esv:Hebrews:10:14",
+        "w": 4,
+        "l": {},
+        "c": "Hebrews 10:1*33740",
+        "a": "u"
+    },
+    {
+        "o": 33755,
+        "r": "esv:Hebrews:10:16",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 8:10*33703; Romans 11:27*31571; Jeremiah 31:33*21945",
+        "a": "v"
+    },
+    {
+        "o": 33756,
+        "r": "esv:Hebrews:10:17",
+        "w": 2,
+        "l": {},
+        "c": "Hebrews 8:12*33705; Jeremiah 31:34*21946",
+        "a": "w"
+    },
+    {
+        "o": 33759,
+        "r": "esv:Hebrews:10:19",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 4:16*33622",
+        "a": "x"
+    },
+    {
+        "o": 33759,
+        "r": "esv:Hebrews:10:19",
+        "w": 1,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i",
+        "a": "y"
+    },
+    {
+        "o": 33759,
+        "r": "esv:Hebrews:10:19",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 9:25*33734",
+        "a": "z"
+    },
+    {
+        "o": 33760,
+        "r": "esv:Hebrews:10:20",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 9:8*33716; John 10:9*29618; John 14:6*29825",
+        "a": "a"
+    },
+    {
+        "o": 33760,
+        "r": "esv:Hebrews:10:20",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 9:3*33711",
+        "a": "b"
+    },
+    {
+        "o": 33761,
+        "r": "esv:Hebrews:10:21",
+        "w": 3,
+        "l": {},
+        "c": "Zechariah 6:11–13*25557; Hebrews 4:14*33620; Hebrews 2:17*33581",
+        "a": "c"
+    },
+    {
+        "o": 33762,
+        "r": "esv:Hebrews:10:22",
+        "w": 15,
+        "l": {},
+        "c": "Ezekiel 36:25*23762; Hebrews 12:24*33849; 2 Corinthians 7:1*32338; 1 Peter 1:2*34013",
+        "a": "d"
+    },
+    {
+        "o": 33762,
+        "r": "esv:Hebrews:10:22",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 9:14*33723",
+        "a": "e"
+    },
+    {
+        "o": 33762,
+        "r": "esv:Hebrews:10:22",
+        "w": 24,
+        "l": {},
+        "c": "1 Corinthians 6:11*31848",
+        "a": "f"
+    },
+    {
+        "o": 33763,
+        "r": "esv:Hebrews:10:23",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 4:14*33620",
+        "a": "g"
+    },
+    {
+        "o": 33763,
+        "r": "esv:Hebrews:10:23",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 11:11*33792; 1 Corinthians 1:9*31729",
+        "a": "h"
+    },
+    {
+        "o": 33764,
+        "r": "esv:Hebrews:10:24",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 3:13*33598",
+        "a": "i"
+    },
+    {
+        "o": 33765,
+        "r": "esv:Hebrews:10:25",
+        "w": 0,
+        "l": {},
+        "c": "Acts 2:42*30186",
+        "a": "j"
+    },
+    {
+        "o": 33765,
+        "r": "esv:Hebrews:10:25",
+        "w": 15,
+        "l": {},
+        "c": "Romans 13:11–13*31619",
+        "a": "k"
+    },
+    {
+        "o": 33765,
+        "r": "esv:Hebrews:10:25",
+        "w": 21,
+        "l": {},
+        "c": "1 Corinthians 3:13*31786",
+        "a": "l"
+    },
+    {
+        "o": 33766,
+        "r": "esv:Hebrews:10:26",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 15:30*4552; Deuteronomy 17:12*5862",
+        "a": "m"
+    },
+    {
+        "o": 33766,
+        "r": "esv:Hebrews:10:26",
+        "w": 6,
+        "l": {},
+        "c": "Hebrews 6:4*33643; 2 Peter 2:20–21*34176",
+        "a": "n"
+    },
+    {
+        "o": 33766,
+        "r": "esv:Hebrews:10:26",
+        "w": 13,
+        "l": {},
+        "c": "Hebrews 6:6*33645; 1 John 5:16*34317",
+        "a": "o"
+    },
+    {
+        "o": 33767,
+        "r": "esv:Hebrews:10:27",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 2:3*33566; Hebrews 12:25*33850",
+        "a": "p"
+    },
+    {
+        "o": 33767,
+        "r": "esv:Hebrews:10:27",
+        "w": 6,
+        "l": {},
+        "c": "Psalm 79:5*16816; Isaiah 26:11*20179; Zephaniah 1:18*25375; Zephaniah 3:8*25403; Ezekiel 36:5*23740; Zechariah 8:2*25581; 2 Thessalonians 1:8*33187",
+        "a": "q"
+    },
+    {
+        "o": 33768,
+        "r": "esv:Hebrews:10:28",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 17:2–6*5851",
+        "a": "r"
+    },
+    {
+        "o": 33768,
+        "r": "esv:Hebrews:10:28",
+        "w": 11,
+        "l": {},
+        "c": "Numbers 35:30*5309",
+        "a": "s"
+    },
+    {
+        "o": 33769,
+        "r": "esv:Hebrews:10:29",
+        "w": 12,
+        "l": {},
+        "c": "Hebrews 6:6*33645",
+        "a": "t"
+    },
+    {
+        "o": 33769,
+        "r": "esv:Hebrews:10:29",
+        "w": 23,
+        "l": {},
+        "c": "Hebrews 13:20*33877; Zechariah 9:11*25616",
+        "a": "u"
+    },
+    {
+        "o": 33769,
+        "r": "esv:Hebrews:10:29",
+        "w": 28,
+        "l": {},
+        "c": "Hebrews 9:13–14*33722",
+        "a": "v"
+    },
+    {
+        "o": 33769,
+        "r": "esv:Hebrews:10:29",
+        "w": 35,
+        "l": {},
+        "c": "Matthew 12:31–32*26223; Ephesians 4:30*32775",
+        "a": "w"
+    },
+    {
+        "o": 33770,
+        "r": "esv:Hebrews:10:30",
+        "w": 5,
+        "l": {},
+        "c": "Romans 12:19*31603; Deuteronomy 32:35*6328",
+        "a": "x"
+    },
+    {
+        "o": 33770,
+        "r": "esv:Hebrews:10:30",
+        "w": 13,
+        "l": {},
+        "c": "Psalm 50:4*16211; Psalm 135:14*17986; Deuteronomy 32:36*6329",
+        "a": "y"
+    },
+    {
+        "o": 33771,
+        "r": "esv:Hebrews:10:31",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 33:14*20349; Luke 12:5*28463",
+        "a": "z"
+    },
+    {
+        "o": 33772,
+        "r": "esv:Hebrews:10:32",
+        "w": 6,
+        "l": {},
+        "c": "Hebrews 6:4*33643",
+        "a": "a"
+    },
+    {
+        "o": 33772,
+        "r": "esv:Hebrews:10:32",
+        "w": 11,
+        "l": {},
+        "c": "Philippians 1:30*32878",
+        "a": "b"
+    },
+    {
+        "o": 33773,
+        "r": "esv:Hebrews:10:33",
+        "w": 1,
+        "l": {},
+        "c": "1 Corinthians 4:9*31807",
+        "a": "c"
+    },
+    {
+        "o": 33774,
+        "r": "esv:Hebrews:10:34",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 13:3*33859; Matthew 25:36*26824; 2 Timothy 1:16*33384",
+        "a": "d"
+    },
+    {
+        "o": 33774,
+        "r": "esv:Hebrews:10:34",
+        "w": 8,
+        "l": {},
+        "c": "Matthew 5:12*25897",
+        "a": "e"
+    },
+    {
+        "o": 33774,
+        "r": "esv:Hebrews:10:34",
+        "w": 23,
+        "l": {},
+        "c": "1 Peter 1:4*34015",
+        "a": "f"
+    },
+    {
+        "o": 33775,
+        "r": "esv:Hebrews:10:35",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 2:2*33565; Hebrews 11:26*33807",
+        "a": "g"
+    },
+    {
+        "o": 33776,
+        "r": "esv:Hebrews:10:36",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 12:1–7*33824; Luke 21:19*28903; Romans 2:7*31273; Romans 12:12*31596; Matthew 10:22*26130",
+        "a": "h"
+    },
+    {
+        "o": 33776,
+        "r": "esv:Hebrews:10:36",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 13:21*33879; 1 John 2:17*34234",
+        "a": "i"
+    },
+    {
+        "o": 33776,
+        "r": "esv:Hebrews:10:36",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 11:39*33820",
+        "a": "j"
+    },
+    {
+        "o": 33777,
+        "r": "esv:Hebrews:10:37",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 26:20*20188; Haggai 2:6*25442; Luke 18:8*28732",
+        "a": "k"
+    },
+    {
+        "o": 33777,
+        "r": "esv:Hebrews:10:37",
+        "w": 5,
+        "l": {},
+        "c": "Habakkuk 2:3–4*25314",
+        "a": "l"
+    },
+    {
+        "o": 33778,
+        "r": "esv:Hebrews:10:38",
+        "w": 0,
+        "l": {},
+        "c": "Romans 1:17*31249; Galatians 3:11*32562",
+        "a": "m"
+    },
+    {
+        "o": 33782,
+        "r": "esv:Hebrews:11:1",
+        "w": 11,
+        "l": {},
+        "c": "Romans 8:24*31465; 2 Corinthians 4:18*32291; 2 Corinthians 5:7*32300; 1 Peter 1:8*34019",
+        "a": "a"
+    },
+    {
+        "o": 33784,
+        "r": "esv:Hebrews:11:3",
+        "w": 9,
+        "l": {},
+        "c": "Genesis 1:1*3",
+        "a": "b"
+    },
+    {
+        "o": 33784,
+        "r": "esv:Hebrews:11:3",
+        "w": 23,
+        "l": {},
+        "c": "Romans 4:17*31351",
+        "a": "c"
+    },
+    {
+        "o": 33785,
+        "r": "esv:Hebrews:11:4",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 4:4–8*93; 1 John 3:12*34261",
+        "a": "d"
+    },
+    {
+        "o": 33785,
+        "r": "esv:Hebrews:11:4",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 15:8*18680",
+        "a": "e"
+    },
+    {
+        "o": 33785,
+        "r": "esv:Hebrews:11:4",
+        "w": 26,
+        "l": {},
+        "c": "Genesis 4:10*99",
+        "a": "f"
+    },
+    {
+        "o": 33785,
+        "r": "esv:Hebrews:11:4",
+        "w": 33,
+        "l": {},
+        "c": "Hebrews 12:24*33849",
+        "a": "g"
+    },
+    {
+        "o": 33786,
+        "r": "esv:Hebrews:11:5",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 5:22–24*139; 2 Kings 2:11*10489",
+        "a": "h"
+    },
+    {
+        "o": 33787,
+        "r": "esv:Hebrews:11:6",
+        "w": 15,
+        "l": {},
+        "c": "1 Chronicles 28:9*12253; Jeremiah 29:12–14*21862; John 4:24*29281",
+        "a": "i"
+    },
+    {
+        "o": 33787,
+        "r": "esv:Hebrews:11:6",
+        "w": 21,
+        "l": {},
+        "c": "1 Chronicles 28:9*12253; Jeremiah 29:12–14*21862; John 4:24*29281",
+        "a": "j"
+    },
+    {
+        "o": 33788,
+        "r": "esv:Hebrews:11:7",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 6:13–22*165; Luke 17:26*28711; 1 Peter 3:20*34088",
+        "a": "k"
+    },
+    {
+        "o": 33788,
+        "r": "esv:Hebrews:11:7",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 11:1*33782",
+        "a": "l"
+    },
+    {
+        "o": 33788,
+        "r": "esv:Hebrews:11:7",
+        "w": 34,
+        "l": {},
+        "c": "Romans 4:13*31347; Genesis 6:9*161; Ezekiel 14:14*23063; Ezekiel 14:20*23069",
+        "a": "m"
+    },
+    {
+        "o": 33789,
+        "r": "esv:Hebrews:11:8",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 12:1–4*328; Acts 7:2–4*30329",
+        "a": "n"
+    },
+    {
+        "o": 33789,
+        "r": "esv:Hebrews:11:8",
+        "w": 13,
+        "l": {},
+        "c": "Genesis 12:7*334",
+        "a": "o"
+    },
+    {
+        "o": 33790,
+        "r": "esv:Hebrews:11:9",
+        "w": 6,
+        "l": {},
+        "c": "Acts 7:5*30332",
+        "a": "p"
+    },
+    {
+        "o": 33790,
+        "r": "esv:Hebrews:11:9",
+        "w": 15,
+        "l": {},
+        "c": "Genesis 12:8*335; Genesis 13:3*353; Genesis 13:18*368; Genesis 18:1*468; Genesis 18:9*476",
+        "a": "q"
+    },
+    {
+        "o": 33790,
+        "r": "esv:Hebrews:11:9",
+        "w": 18,
+        "l": {},
+        "c": "Genesis 35:27*1128",
+        "a": "r"
+    },
+    {
+        "o": 33791,
+        "r": "esv:Hebrews:11:10",
+        "w": 5,
+        "l": {},
+        "c": "Hebrews 12:22*33847; Hebrews 13:14*33870",
+        "a": "s"
+    },
+    {
+        "o": 33791,
+        "r": "esv:Hebrews:11:10",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 87:1*16952; Revelation 21:14*34819",
+        "a": "t"
+    },
+    {
+        "o": 33791,
+        "r": "esv:Hebrews:11:10",
+        "w": 10,
+        "l": {},
+        "c": "Revelation 21:2*34806; Revelation 21:10*34815",
+        "a": "u"
+    },
+    {
+        "o": 33792,
+        "r": "esv:Hebrews:11:11",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 17:19*458; Genesis 18:11–14*478; Genesis 21:2*567",
+        "a": "v"
+    },
+    {
+        "o": 33792,
+        "r": "esv:Hebrews:11:11",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 10:23*33763",
+        "a": "w"
+    },
+    {
+        "o": 33793,
+        "r": "esv:Hebrews:11:12",
+        "w": 4,
+        "l": {},
+        "c": "Romans 4:19*31353",
+        "a": "x"
+    },
+    {
+        "o": 33793,
+        "r": "esv:Hebrews:11:12",
+        "w": 12,
+        "l": {},
+        "c": "Genesis 22:17*620; Genesis 32:12*1022; Genesis 15:5*402",
+        "a": "y"
+    },
+    {
+        "o": 33794,
+        "r": "esv:Hebrews:11:13",
+        "w": 4,
+        "l": {},
+        "c": "Hebrews 11:39*33820",
+        "a": "z"
+    },
+    {
+        "o": 33794,
+        "r": "esv:Hebrews:11:13",
+        "w": 11,
+        "l": {},
+        "c": "Hebrews 11:27*33808; John 8:56*29561; Matthew 13:17*26266",
+        "a": "a"
+    },
+    {
+        "o": 33794,
+        "r": "esv:Hebrews:11:13",
+        "w": 20,
+        "l": {},
+        "c": "Genesis 23:4*633; Genesis 47:9*1546; 1 Chronicles 29:15*12283; Psalm 39:12*16030",
+        "a": "b"
+    },
+    {
+        "o": 33794,
+        "r": "esv:Hebrews:11:13",
+        "w": 25,
+        "l": {},
+        "c": "Ephesians 2:19*32715",
+        "a": "c"
+    },
+    {
+        "o": 33796,
+        "r": "esv:Hebrews:11:15",
+        "w": 13,
+        "l": {},
+        "c": "Genesis 24:6–8*657",
+        "a": "d"
+    },
+    {
+        "o": 33797,
+        "r": "esv:Hebrews:11:16",
+        "w": 18,
+        "l": {},
+        "c": "Genesis 26:24*783; Genesis 28:13*859; Exodus 3:6*1720; Exodus 4:5*1743; Hebrews 2:11*33575",
+        "a": "e"
+    },
+    {
+        "o": 33797,
+        "r": "esv:Hebrews:11:16",
+        "w": 24,
+        "l": {},
+        "c": "Hebrews 11:10*33791; Matthew 25:34*26822; John 14:2*29821",
+        "a": "f"
+    },
+    {
+        "o": 33798,
+        "r": "esv:Hebrews:11:17",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 22:1–10*604; James 2:21*33938",
+        "a": "g"
+    },
+    {
+        "o": 33799,
+        "r": "esv:Hebrews:11:18",
+        "w": 4,
+        "l": {},
+        "c": "Romans 9:7*31490; Genesis 21:12*578",
+        "a": "h"
+    },
+    {
+        "o": 33800,
+        "r": "esv:Hebrews:11:19",
+        "w": 0,
+        "l": {},
+        "c": "Romans 4:17–21*31351",
+        "a": "i"
+    },
+    {
+        "o": 33801,
+        "r": "esv:Hebrews:11:20",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 27:27–29*823; Genesis 27:39–40*835",
+        "a": "j"
+    },
+    {
+        "o": 33802,
+        "r": "esv:Hebrews:11:21",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 48:16*1587; Genesis 48:20*1591",
+        "a": "k"
+    },
+    {
+        "o": 33802,
+        "r": "esv:Hebrews:11:21",
+        "w": 11,
+        "l": {},
+        "c": "Genesis 47:31*1569",
+        "a": "l"
+    },
+    {
+        "o": 33803,
+        "r": "esv:Hebrews:11:22",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 50:24–25*1656; Exodus 13:19*2054",
+        "a": "m"
+    },
+    {
+        "o": 33804,
+        "r": "esv:Hebrews:11:23",
+        "w": 1,
+        "l": {},
+        "c": "Exodus 2:2–3*1687; Acts 7:20*30347",
+        "a": "n"
+    },
+    {
+        "o": 33804,
+        "r": "esv:Hebrews:11:23",
+        "w": 28,
+        "l": {},
+        "c": "Exodus 1:16*1677; Exodus 1:22*1683",
+        "a": "o"
+    },
+    {
+        "o": 33805,
+        "r": "esv:Hebrews:11:24",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 2:10–11*1696",
+        "a": "p"
+    },
+    {
+        "o": 33806,
+        "r": "esv:Hebrews:11:25",
+        "w": 0,
+        "l": {},
+        "c": "Job 36:21*15136; Psalm 84:10*16910",
+        "a": "q"
+    },
+    {
+        "o": 33806,
+        "r": "esv:Hebrews:11:25",
+        "w": 12,
+        "l": {},
+        "c": "1 John 2:17*34234",
+        "a": "r"
+    },
+    {
+        "o": 33807,
+        "r": "esv:Hebrews:11:26",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 13:13*33869; Psalm 89:50–51*17032; Philippians 3:7–8*32921; 1 Peter 4:14*34107",
+        "a": "s"
+    },
+    {
+        "o": 33807,
+        "r": "esv:Hebrews:11:26",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 2:2*33565; Hebrews 10:35*33775",
+        "a": "t"
+    },
+    {
+        "o": 33808,
+        "r": "esv:Hebrews:11:27",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 12:37*2016; Exodus 13:17–18*2052",
+        "a": "u"
+    },
+    {
+        "o": 33808,
+        "r": "esv:Hebrews:11:27",
+        "w": 4,
+        "l": {},
+        "c": "Exodus 10:28–29*1962",
+        "a": "v"
+    },
+    {
+        "o": 33808,
+        "r": "esv:Hebrews:11:27",
+        "w": 16,
+        "l": {},
+        "c": "Hebrews 11:13*33794; 1 Timothy 1:17*33254",
+        "a": "w"
+    },
+    {
+        "o": 33809,
+        "r": "esv:Hebrews:11:28",
+        "w": 1,
+        "l": {},
+        "c": "Exodus 12:21–30*1998",
+        "a": "x"
+    },
+    {
+        "o": 33810,
+        "r": "esv:Hebrews:11:29",
+        "w": 1,
+        "l": {},
+        "c": "Exodus 14:21–30*2080",
+        "a": "y"
+    },
+    {
+        "o": 33811,
+        "r": "esv:Hebrews:11:30",
+        "w": 1,
+        "l": {},
+        "c": "Joshua 6:15–16*6519; Joshua 6:20*6524",
+        "a": "z"
+    },
+    {
+        "o": 33812,
+        "r": "esv:Hebrews:11:31",
+        "w": 1,
+        "l": {},
+        "c": "Joshua 6:25*6529; James 2:25*33942",
+        "a": "a"
+    },
+    {
+        "o": 33812,
+        "r": "esv:Hebrews:11:31",
+        "w": 14,
+        "l": {},
+        "c": "Joshua 2:1*6415; Joshua 2:8–13*6422",
+        "a": "b"
+    },
+    {
+        "o": 33813,
+        "r": "esv:Hebrews:11:32",
+        "w": 13,
+        "l": {},
+        "c": "Judges 6:11*7291",
+        "a": "c"
+    },
+    {
+        "o": 33813,
+        "r": "esv:Hebrews:11:32",
+        "w": 14,
+        "l": {},
+        "c": "Judges 4:6*7226",
+        "a": "d"
+    },
+    {
+        "o": 33813,
+        "r": "esv:Hebrews:11:32",
+        "w": 15,
+        "l": {},
+        "c": "Judges 13:24*7557",
+        "a": "e"
+    },
+    {
+        "o": 33813,
+        "r": "esv:Hebrews:11:32",
+        "w": 16,
+        "l": {},
+        "c": "Judges 11:1*7473",
+        "a": "f"
+    },
+    {
+        "o": 33813,
+        "r": "esv:Hebrews:11:32",
+        "w": 18,
+        "l": {},
+        "c": "1 Samuel 16:1*8319; 1 Samuel 16:13*8332",
+        "a": "g"
+    },
+    {
+        "o": 33813,
+        "r": "esv:Hebrews:11:32",
+        "w": 20,
+        "l": {},
+        "c": "1 Samuel 1:20*7914",
+        "a": "h"
+    },
+    {
+        "o": 33814,
+        "r": "esv:Hebrews:11:33",
+        "w": 8,
+        "l": {},
+        "c": "Judges 14:6*7566; 1 Samuel 17:35*8379; Daniel 6:22*24364",
+        "a": "i"
+    },
+    {
+        "o": 33815,
+        "r": "esv:Hebrews:11:34",
+        "w": 0,
+        "l": {},
+        "c": "Daniel 3:25*24258",
+        "a": "j"
+    },
+    {
+        "o": 33815,
+        "r": "esv:Hebrews:11:34",
+        "w": 16,
+        "l": {},
+        "c": "Judges 7:21*7346; 1 Samuel 17:51*8395; 2 Samuel 12:29*9115",
+        "a": "k"
+    },
+    {
+        "o": 33815,
+        "r": "esv:Hebrews:11:34",
+        "w": 20,
+        "l": {},
+        "c": "Judges 7:21*7346; 1 Samuel 17:51*8395; 2 Samuel 12:29*9115",
+        "a": "l"
+    },
+    {
+        "o": 33816,
+        "r": "esv:Hebrews:11:35",
+        "w": 0,
+        "l": {},
+        "c": "1 Kings 17:22*10239; 2 Kings 4:35*10572",
+        "a": "m"
+    },
+    {
+        "o": 33817,
+        "r": "esv:Hebrews:11:36",
+        "w": 6,
+        "l": {},
+        "c": "Genesis 39:20*1268; Jeremiah 20:2*21617; Jeremiah 37:15*22126",
+        "a": "n"
+    },
+    {
+        "o": 33818,
+        "r": "esv:Hebrews:11:37",
+        "w": 0,
+        "l": {},
+        "c": "1 Kings 21:13*10379; 2 Chronicles 24:21*12869",
+        "a": "o"
+    },
+    {
+        "o": 33818,
+        "r": "esv:Hebrews:11:37",
+        "w": 7,
+        "l": {},
+        "t": "Some manuscripts add they*i were*i tempted*i",
+        "a": "p"
+    },
+    {
+        "o": 33818,
+        "r": "esv:Hebrews:11:37",
+        "w": 7,
+        "l": {},
+        "c": "1 Kings 19:10*10304; Jeremiah 26:23*21804",
+        "a": "q"
+    },
+    {
+        "o": 33818,
+        "r": "esv:Hebrews:11:37",
+        "w": 13,
+        "l": {},
+        "c": "2 Kings 1:8*10466",
+        "a": "r"
+    },
+    {
+        "o": 33819,
+        "r": "esv:Hebrews:11:38",
+        "w": 6,
+        "l": {},
+        "c": "1 Samuel 22:1*8527; 1 Kings 18:4*10247; 1 Kings 19:9*10303",
+        "a": "s"
+    },
+    {
+        "o": 33820,
+        "r": "esv:Hebrews:11:39",
+        "w": 2,
+        "l": {},
+        "c": "Hebrews 11:2*33783; Hebrews 11:13*33794; 1 Peter 1:12*34024",
+        "a": "t"
+    },
+    {
+        "o": 33820,
+        "r": "esv:Hebrews:11:39",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 11:2*33783; Hebrews 11:13*33794; 1 Peter 1:12*34024",
+        "a": "u"
+    },
+    {
+        "o": 33821,
+        "r": "esv:Hebrews:11:40",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 6:11*34514",
+        "a": "v"
+    },
+    {
+        "o": 33824,
+        "r": "esv:Hebrews:12:1",
+        "w": 19,
+        "l": {},
+        "c": "Ephesians 4:22*32767",
+        "a": "a"
+    },
+    {
+        "o": 33824,
+        "r": "esv:Hebrews:12:1",
+        "w": 25,
+        "l": {},
+        "c": "1 Corinthians 9:24*31942",
+        "a": "b"
+    },
+    {
+        "o": 33824,
+        "r": "esv:Hebrews:12:1",
+        "w": 28,
+        "l": {},
+        "c": "Hebrews 10:36*33776",
+        "a": "c"
+    },
+    {
+        "o": 33824,
+        "r": "esv:Hebrews:12:1",
+        "w": 34,
+        "l": {},
+        "c": "Hebrews 6:18*33658",
+        "a": "d"
+    },
+    {
+        "o": 33825,
+        "r": "esv:Hebrews:12:2",
+        "w": 9,
+        "l": {},
+        "c": "Luke 24:26*29100; Philippians 2:8*32888; Isaiah 53:11*20831",
+        "a": "e"
+    },
+    {
+        "o": 33825,
+        "r": "esv:Hebrews:12:2",
+        "w": 22,
+        "l": {},
+        "c": "Psalm 22:6–7*15666; Psalm 69:19*16550; Isaiah 53:3*20823",
+        "a": "f"
+    },
+    {
+        "o": 33825,
+        "r": "esv:Hebrews:12:2",
+        "w": 25,
+        "l": {},
+        "c": "Hebrews 1:3*33550",
+        "a": "g"
+    },
+    {
+        "o": 33827,
+        "r": "esv:Hebrews:12:3",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 10:24*26132; Revelation 2:3*34417",
+        "a": "h"
+    },
+    {
+        "o": 33827,
+        "r": "esv:Hebrews:12:3",
+        "w": 17,
+        "l": {},
+        "c": "Galatians 6:9*32656",
+        "a": "i"
+    },
+    {
+        "o": 33829,
+        "r": "esv:Hebrews:12:5",
+        "w": 10,
+        "l": {},
+        "c": "Proverbs 3:11–12*18309",
+        "a": "j"
+    },
+    {
+        "o": 33829,
+        "r": "esv:Hebrews:12:5",
+        "w": 12,
+        "l": {},
+        "c": "Job 5:17*14287",
+        "a": "k"
+    },
+    {
+        "o": 33830,
+        "r": "esv:Hebrews:12:6",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 94:12*17112; Psalm 119:67*17702; Psalm 119:75*17711; Revelation 3:19*34469",
+        "a": "l"
+    },
+    {
+        "o": 33831,
+        "r": "esv:Hebrews:12:7",
+        "w": 8,
+        "l": {},
+        "c": "Deuteronomy 8:5*5603; 2 Samuel 7:14*8978; Proverbs 13:24*18634; Proverbs 19:18*18812; Proverbs 23:13*18931",
+        "a": "m"
+    },
+    {
+        "o": 33832,
+        "r": "esv:Hebrews:12:8",
+        "w": 5,
+        "l": {},
+        "c": "1 Peter 5:9*34123",
+        "a": "n"
+    },
+    {
+        "o": 33833,
+        "r": "esv:Hebrews:12:9",
+        "w": 21,
+        "l": {},
+        "c": "Numbers 16:22*4589",
+        "a": "o"
+    },
+    {
+        "o": 33833,
+        "r": "esv:Hebrews:12:9",
+        "w": 25,
+        "l": {},
+        "c": "Isaiah 38:16*20474",
+        "a": "p"
+    },
+    {
+        "o": 33834,
+        "r": "esv:Hebrews:12:10",
+        "w": 20,
+        "l": {},
+        "c": "2 Peter 1:4*34136; Leviticus 11:44*3310",
+        "a": "q"
+    },
+    {
+        "o": 33835,
+        "r": "esv:Hebrews:12:11",
+        "w": 0,
+        "l": {},
+        "c": "1 Peter 1:6*34017",
+        "a": "r"
+    },
+    {
+        "o": 33835,
+        "r": "esv:Hebrews:12:11",
+        "w": 13,
+        "l": {},
+        "c": "James 3:17–18*33963",
+        "a": "s"
+    },
+    {
+        "o": 33836,
+        "r": "esv:Hebrews:12:12",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 35:3*20383; Job 4:3–4*14251",
+        "a": "t"
+    },
+    {
+        "o": 33837,
+        "r": "esv:Hebrews:12:13",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 4:26–27*18362",
+        "a": "u"
+    },
+    {
+        "o": 33837,
+        "r": "esv:Hebrews:12:13",
+        "w": 18,
+        "l": {},
+        "c": "James 5:16*34004; Galatians 6:1*32648",
+        "a": "v"
+    },
+    {
+        "o": 33838,
+        "r": "esv:Hebrews:12:14",
+        "w": 0,
+        "l": {},
+        "c": "Romans 14:19*31644",
+        "a": "w"
+    },
+    {
+        "o": 33838,
+        "r": "esv:Hebrews:12:14",
+        "w": 7,
+        "l": {},
+        "c": "1 Thessalonians 4:7*33132",
+        "a": "x"
+    },
+    {
+        "o": 33838,
+        "r": "esv:Hebrews:12:14",
+        "w": 8,
+        "l": {},
+        "c": "Matthew 5:8*25892; 2 Corinthians 7:1*32338; Ephesians 5:5*32784; Revelation 21:27*34832; Revelation 22:4*34838",
+        "a": "y"
+    },
+    {
+        "o": 33839,
+        "r": "esv:Hebrews:12:15",
+        "w": 5,
+        "l": {},
+        "c": "Hebrews 4:1*33606; 2 Corinthians 6:1*32317; Galatians 5:4*32622",
+        "a": "z"
+    },
+    {
+        "o": 33839,
+        "r": "esv:Hebrews:12:15",
+        "w": 14,
+        "l": {},
+        "c": "Deuteronomy 29:18*6223",
+        "a": "a"
+    },
+    {
+        "o": 33840,
+        "r": "esv:Hebrews:12:16",
+        "w": 3,
+        "l": {},
+        "c": "Hebrews 13:4*33860; Genesis 25:33*755",
+        "a": "b"
+    },
+    {
+        "o": 33841,
+        "r": "esv:Hebrews:12:17",
+        "w": 3,
+        "l": {},
+        "c": "Genesis 27:34*830; Genesis 27:36*832; Genesis 27:38*834",
+        "a": "c"
+    },
+    {
+        "o": 33843,
+        "r": "esv:Hebrews:12:18",
+        "w": 5,
+        "l": {},
+        "c": "Exodus 19:18*2226; Exodus 20:18*2253; Deuteronomy 4:11*5464; Deuteronomy 5:22*5530; 2 Corinthians 3:9*32261",
+        "a": "d"
+    },
+    {
+        "o": 33844,
+        "r": "esv:Hebrews:12:19",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 19:16*2224; Exodus 19:19*2227",
+        "a": "e"
+    },
+    {
+        "o": 33844,
+        "r": "esv:Hebrews:12:19",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 20:19*2254; Deuteronomy 5:5*5513; Deuteronomy 18:16*5891",
+        "a": "f"
+    },
+    {
+        "o": 33845,
+        "r": "esv:Hebrews:12:20",
+        "w": 9,
+        "l": {},
+        "c": "Exodus 19:12–13*2220",
+        "a": "g"
+    },
+    {
+        "o": 33846,
+        "r": "esv:Hebrews:12:21",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 19:16*2224; Deuteronomy 9:19*5640",
+        "a": "h"
+    },
+    {
+        "o": 33847,
+        "r": "esv:Hebrews:12:22",
+        "w": 4,
+        "l": {},
+        "c": "Revelation 14:1*34657",
+        "a": "i"
+    },
+    {
+        "o": 33847,
+        "r": "esv:Hebrews:12:22",
+        "w": 14,
+        "l": {},
+        "c": "Galatians 4:26*32611",
+        "a": "j"
+    },
+    {
+        "o": 33847,
+        "r": "esv:Hebrews:12:22",
+        "w": 19,
+        "l": {},
+        "c": "Jude 14*34375",
+        "a": "k"
+    },
+    {
+        "o": 33848,
+        "r": "esv:Hebrews:12:23",
+        "w": 1,
+        "l": {},
+        "c": "Exodus 4:22*1761",
+        "a": "l"
+    },
+    {
+        "o": 33848,
+        "r": "esv:Hebrews:12:23",
+        "w": 3,
+        "l": {},
+        "t": "Or church*i",
+        "a": "m"
+    },
+    {
+        "o": 33848,
+        "r": "esv:Hebrews:12:23",
+        "w": 8,
+        "l": {},
+        "c": "Luke 10:20*28369",
+        "a": "n"
+    },
+    {
+        "o": 33848,
+        "r": "esv:Hebrews:12:23",
+        "w": 13,
+        "l": {},
+        "c": "Genesis 18:25*493",
+        "a": "o"
+    },
+    {
+        "o": 33849,
+        "r": "esv:Hebrews:12:24",
+        "w": 2,
+        "l": {},
+        "c": "Hebrews 8:6*33699; Hebrews 9:15*33724",
+        "a": "p"
+    },
+    {
+        "o": 33849,
+        "r": "esv:Hebrews:12:24",
+        "w": 10,
+        "l": {},
+        "c": "Hebrews 10:22*33762",
+        "a": "q"
+    },
+    {
+        "o": 33849,
+        "r": "esv:Hebrews:12:24",
+        "w": 13,
+        "l": {},
+        "c": "Hebrews 11:4*33785; Genesis 4:10*99",
+        "a": "r"
+    },
+    {
+        "o": 33850,
+        "r": "esv:Hebrews:12:25",
+        "w": 10,
+        "l": {},
+        "c": "Hebrews 2:3*33566",
+        "a": "s"
+    },
+    {
+        "o": 33851,
+        "r": "esv:Hebrews:12:26",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 19:18*2226",
+        "a": "t"
+    },
+    {
+        "o": 33851,
+        "r": "esv:Hebrews:12:26",
+        "w": 12,
+        "l": {},
+        "c": "Haggai 2:6*25442; Haggai 2:21*25459",
+        "a": "u"
+    },
+    {
+        "o": 33852,
+        "r": "esv:Hebrews:12:27",
+        "w": 5,
+        "l": {},
+        "c": "Psalm 102:26*17236",
+        "a": "v"
+    },
+    {
+        "o": 33853,
+        "r": "esv:Hebrews:12:28",
+        "w": 6,
+        "l": {},
+        "c": "Daniel 2:44*24224",
+        "a": "w"
+    },
+    {
+        "o": 33853,
+        "r": "esv:Hebrews:12:28",
+        "w": 14,
+        "l": {},
+        "c": "Hebrews 13:15*33871",
+        "a": "x"
+    },
+    {
+        "o": 33854,
+        "r": "esv:Hebrews:12:29",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 4:24*5478; 2 Thessalonians 1:8*33187",
+        "a": "y"
+    },
+    {
+        "o": 33857,
+        "r": "esv:Hebrews:13:1",
+        "w": 0,
+        "l": {},
+        "c": "Romans 12:10*31594; 1 Thessalonians 4:9*33134; 1 Peter 1:22*34034; 2 Peter 1:7*34139; 1 Peter 2:17*34057; 1 Peter 3:8*34076; 1 John 3:10*34259; 1 John 4:7*34283; 1 John 4:20–21*34296",
+        "a": "a"
+    },
+    {
+        "o": 33858,
+        "r": "esv:Hebrews:13:2",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 25:35*26823; 1 Peter 4:9*34101",
+        "a": "b"
+    },
+    {
+        "o": 33858,
+        "r": "esv:Hebrews:13:2",
+        "w": 9,
+        "l": {},
+        "c": "Genesis 18:3*470; Genesis 19:2*505",
+        "a": "c"
+    },
+    {
+        "o": 33859,
+        "r": "esv:Hebrews:13:3",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 10:34*33774; Matthew 25:36*26824",
+        "a": "d"
+    },
+    {
+        "o": 33860,
+        "r": "esv:Hebrews:13:4",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 7:38*31899; 1 Timothy 4:3*33299",
+        "a": "e"
+    },
+    {
+        "o": 33860,
+        "r": "esv:Hebrews:13:4",
+        "w": 18,
+        "l": {},
+        "c": "1 Corinthians 6:9*31845",
+        "a": "f"
+    },
+    {
+        "o": 33861,
+        "r": "esv:Hebrews:13:5",
+        "w": 2,
+        "l": {},
+        "c": "1 Timothy 3:3*33279",
+        "a": "g"
+    },
+    {
+        "o": 33861,
+        "r": "esv:Hebrews:13:5",
+        "w": 8,
+        "l": {},
+        "c": "1 Timothy 6:7–8*33350; Philippians 4:11*32950; Matthew 6:25*25971",
+        "a": "h"
+    },
+    {
+        "o": 33861,
+        "r": "esv:Hebrews:13:5",
+        "w": 18,
+        "l": {},
+        "c": "Joshua 1:5*6398; Psalm 37:25*15975; 2 Corinthians 4:9*32282",
+        "a": "i"
+    },
+    {
+        "o": 33862,
+        "r": "esv:Hebrews:13:6",
+        "w": 4,
+        "l": {},
+        "c": "Psalm 118:6*17601; Psalm 27:1*15757",
+        "a": "j"
+    },
+    {
+        "o": 33862,
+        "r": "esv:Hebrews:13:6",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 56:4*16316; Psalm 56:11*16323",
+        "a": "k"
+    },
+    {
+        "o": 33863,
+        "r": "esv:Hebrews:13:7",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 13:17*33873; Hebrews 13:24*33882",
+        "a": "l"
+    },
+    {
+        "o": 33863,
+        "r": "esv:Hebrews:13:7",
+        "w": 20,
+        "l": {},
+        "c": "Hebrews 6:12*33652",
+        "a": "m"
+    },
+    {
+        "o": 33864,
+        "r": "esv:Hebrews:13:8",
+        "w": 2,
+        "l": {},
+        "c": "Hebrews 1:12*33559; John 8:58*29563; Revelation 1:4*34395; Revelation 1:8*34400; 2 Corinthians 1:19*32225",
+        "a": "n"
+    },
+    {
+        "o": 33865,
+        "r": "esv:Hebrews:13:9",
+        "w": 2,
+        "l": {},
+        "c": "Jude 12*34373; Ephesians 4:14*32758",
+        "a": "o"
+    },
+    {
+        "o": 33865,
+        "r": "esv:Hebrews:13:9",
+        "w": 21,
+        "l": {},
+        "c": "Colossians 2:16*33016",
+        "a": "p"
+    },
+    {
+        "o": 33866,
+        "r": "esv:Hebrews:13:10",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 9:13*31931; 1 Corinthians 10:18*31965",
+        "a": "q"
+    },
+    {
+        "o": 33866,
+        "r": "esv:Hebrews:13:10",
+        "w": 10,
+        "l": {},
+        "t": "Or tabernacle*i",
+        "a": "r"
+    },
+    {
+        "o": 33867,
+        "r": "esv:Hebrews:13:11",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 29:14*2560",
+        "a": "s"
+    },
+    {
+        "o": 33867,
+        "r": "esv:Hebrews:13:11",
+        "w": 24,
+        "l": {},
+        "c": "Hebrews 13:13*33869",
+        "a": "t"
+    },
+    {
+        "o": 33868,
+        "r": "esv:Hebrews:13:12",
+        "w": 2,
+        "l": {},
+        "c": "Hebrews 9:12*33721",
+        "a": "u"
+    },
+    {
+        "o": 33868,
+        "r": "esv:Hebrews:13:12",
+        "w": 3,
+        "l": {},
+        "c": "Matthew 21:39*26626; Matthew 27:32*26960; John 19:17*30016; John 19:20*30019; Acts 7:58*30386",
+        "a": "v"
+    },
+    {
+        "o": 33868,
+        "r": "esv:Hebrews:13:12",
+        "w": 12,
+        "l": {},
+        "c": "Revelation 14:20*34678",
+        "a": "w"
+    },
+    {
+        "o": 33869,
+        "r": "esv:Hebrews:13:13",
+        "w": 10,
+        "l": {},
+        "c": "Hebrews 11:26*33807; 1 Peter 4:14*34107",
+        "a": "x"
+    },
+    {
+        "o": 33870,
+        "r": "esv:Hebrews:13:14",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 11:10*33791; Hebrews 11:16*33797; Hebrews 12:28*33853; Micah 2:10*25141; Ephesians 2:19*32715",
+        "a": "y"
+    },
+    {
+        "o": 33871,
+        "r": "esv:Hebrews:13:15",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 5:20*32799",
+        "a": "z"
+    },
+    {
+        "o": 33871,
+        "r": "esv:Hebrews:13:15",
+        "w": 7,
+        "l": {},
+        "c": "Leviticus 7:12*3152; Psalm 107:22*17422; Psalm 116:17*17587",
+        "a": "a"
+    },
+    {
+        "o": 33871,
+        "r": "esv:Hebrews:13:15",
+        "w": 15,
+        "l": {},
+        "c": "Isaiah 57:19*20903; Hosea 14:2*24766; Psalm 119:108*17748",
+        "a": "b"
+    },
+    {
+        "o": 33872,
+        "r": "esv:Hebrews:13:16",
+        "w": 6,
+        "l": {},
+        "c": "Romans 12:13*31597",
+        "a": "c"
+    },
+    {
+        "o": 33872,
+        "r": "esv:Hebrews:13:16",
+        "w": 13,
+        "l": {},
+        "c": "Micah 6:7–8*25202; Philippians 4:18*32957",
+        "a": "d"
+    },
+    {
+        "o": 33873,
+        "r": "esv:Hebrews:13:17",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 13:7*33863; Hebrews 13:24*33882",
+        "a": "e"
+    },
+    {
+        "o": 33873,
+        "r": "esv:Hebrews:13:17",
+        "w": 6,
+        "l": {},
+        "c": "Ezekiel 3:17*22813",
+        "a": "f"
+    },
+    {
+        "o": 33873,
+        "r": "esv:Hebrews:13:17",
+        "w": 20,
+        "l": {},
+        "c": "Jeremiah 13:20*21460; Ezekiel 34:10*23694",
+        "a": "g"
+    },
+    {
+        "o": 33873,
+        "r": "esv:Hebrews:13:17",
+        "w": 23,
+        "l": {},
+        "c": "Acts 20:24*30921; Acts 20:31*30928",
+        "a": "h"
+    },
+    {
+        "o": 33874,
+        "r": "esv:Hebrews:13:18",
+        "w": 0,
+        "l": {},
+        "c": "1 Thessalonians 5:25*33172; 2 Thessalonians 3:1*33214",
+        "a": "i"
+    },
+    {
+        "o": 33875,
+        "r": "esv:Hebrews:13:19",
+        "w": 10,
+        "l": {},
+        "c": "Philemon 22*33542",
+        "a": "j"
+    },
+    {
+        "o": 33877,
+        "r": "esv:Hebrews:13:20",
+        "w": 0,
+        "l": {},
+        "c": "Romans 15:33*31686",
+        "a": "k"
+    },
+    {
+        "o": 33877,
+        "r": "esv:Hebrews:13:20",
+        "w": 5,
+        "l": {},
+        "c": "Acts 2:24*30167",
+        "a": "l"
+    },
+    {
+        "o": 33877,
+        "r": "esv:Hebrews:13:20",
+        "w": 14,
+        "l": {},
+        "c": "Isaiah 63:11*21010; John 10:11*29620",
+        "a": "m"
+    },
+    {
+        "o": 33877,
+        "r": "esv:Hebrews:13:20",
+        "w": 21,
+        "l": {},
+        "c": "Hebrews 10:29*33769; Zechariah 9:11*25616; Isaiah 54:10*20844",
+        "a": "n"
+    },
+    {
+        "o": 33878,
+        "r": "esv:Hebrews:13:21",
+        "w": 0,
+        "l": {},
+        "c": "2 Thessalonians 2:17*33211; 1 Peter 5:10*34124",
+        "a": "o"
+    },
+    {
+        "o": 33878,
+        "r": "esv:Hebrews:13:21",
+        "w": 10,
+        "l": {},
+        "c": "Hebrews 10:36*33776; Philippians 2:13*32894",
+        "a": "p"
+    },
+    {
+        "o": 33878,
+        "r": "esv:Hebrews:13:21",
+        "w": 13,
+        "l": {},
+        "t": "Some manuscripts you*i",
+        "a": "q"
+    },
+    {
+        "o": 33878,
+        "r": "esv:Hebrews:13:21",
+        "w": 23,
+        "l": {},
+        "c": "Romans 11:36*31580",
+        "a": "r"
+    },
+    {
+        "o": 33880,
+        "r": "esv:Hebrews:13:22",
+        "w": 4,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i",
+        "a": "s"
+    },
+    {
+        "o": 33880,
+        "r": "esv:Hebrews:13:22",
+        "w": 11,
+        "l": {},
+        "c": "1 Peter 5:12*34127",
+        "a": "t"
+    },
+    {
+        "o": 33881,
+        "r": "esv:Hebrews:13:23",
+        "w": 3,
+        "l": {},
+        "c": "1 Thessalonians 3:2*33111",
+        "a": "u"
+    },
+    {
+        "o": 33882,
+        "r": "esv:Hebrews:13:24",
+        "w": 1,
+        "l": {},
+        "c": "Hebrews 13:7*33863; Hebrews 13:17*33873",
+        "a": "v"
+    },
+    {
+        "o": 33883,
+        "r": "esv:Hebrews:13:25",
+        "w": 0,
+        "l": {},
+        "c": "Colossians 4:18*33072",
+        "a": "w"
+    }
+]

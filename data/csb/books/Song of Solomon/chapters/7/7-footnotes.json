@@ -1,0 +1,138 @@
+[
+    {
+        "o": 19726,
+        "r": "csb:Song of Solomon:7:1",
+        "w": 6,
+        "l": {},
+        "t": "7:1*r Lit daughter of a nobleman, or prince",
+        "a": "a"
+    },
+    {
+        "o": 19726,
+        "r": "csb:Song of Solomon:7:1",
+        "w": 6,
+        "l": {},
+        "c": "Ps 45:13*16263",
+        "a": "b"
+    },
+    {
+        "o": 19728,
+        "r": "csb:Song of Solomon:7:3",
+        "w": 9,
+        "l": {},
+        "c": "Sg 4:5*19665",
+        "a": "c"
+    },
+    {
+        "o": 19729,
+        "r": "csb:Song of Solomon:7:4",
+        "w": 7,
+        "l": {},
+        "c": "Sg 4:4*19664",
+        "a": "d"
+    },
+    {
+        "o": 19730,
+        "r": "csb:Song of Solomon:7:5",
+        "w": 3,
+        "l": {},
+        "t": "7:5*r Lit head upon you is",
+        "a": "e"
+    },
+    {
+        "o": 19730,
+        "r": "csb:Song of Solomon:7:5",
+        "w": 20,
+        "l": {},
+        "c": "Sg 4:9*19669",
+        "a": "f"
+    },
+    {
+        "o": 19731,
+        "r": "csb:Song of Solomon:7:6",
+        "w": 6,
+        "l": {},
+        "c": "Sg 1:15–16*19619",
+        "a": "g"
+    },
+    {
+        "o": 19733,
+        "r": "csb:Song of Solomon:7:8",
+        "w": 13,
+        "l": {},
+        "c": "Pr 5:19*18520",
+        "a": "h"
+    },
+    {
+        "o": 19733,
+        "r": "csb:Song of Solomon:7:8",
+        "w": 29,
+        "l": {},
+        "c": "Sg 2:3*19627",
+        "a": "i"
+    },
+    {
+        "o": 19734,
+        "r": "csb:Song of Solomon:7:9",
+        "w": 1,
+        "l": {},
+        "t": "7:9*r Lit palate",
+        "a": "j"
+    },
+    {
+        "o": 19734,
+        "r": "csb:Song of Solomon:7:9",
+        "w": 5,
+        "l": {},
+        "c": "Sg 5:16*19703",
+        "a": "k"
+    },
+    {
+        "o": 19736,
+        "r": "csb:Song of Solomon:7:9",
+        "w": 10,
+        "l": {},
+        "t": "7:9*r LXX, Syr, Vg; MT reads past lips of sleepers",
+        "a": "l"
+    },
+    {
+        "o": 19737,
+        "r": "csb:Song of Solomon:7:10",
+        "w": 6,
+        "l": {},
+        "c": "Gn 3:16*79; 4:7*96",
+        "a": "m"
+    },
+    {
+        "o": 19737,
+        "r": "csb:Song of Solomon:7:10",
+        "w": 9,
+        "l": {},
+        "c": "Sg 2:16*19644; 6:3*19710; 8:6*19750",
+        "a": "n"
+    },
+    {
+        "o": 19738,
+        "r": "csb:Song of Solomon:7:11",
+        "w": 15,
+        "l": {},
+        "t": "7:11*r Or the villages",
+        "a": "o"
+    },
+    {
+        "o": 19739,
+        "r": "csb:Song of Solomon:7:12",
+        "w": 23,
+        "l": {},
+        "c": "Sg 6:11*19719",
+        "a": "p"
+    },
+    {
+        "o": 19740,
+        "r": "csb:Song of Solomon:7:13",
+        "w": 1,
+        "l": {},
+        "c": "Gn 30:14–16*933",
+        "a": "q"
+    }
+]

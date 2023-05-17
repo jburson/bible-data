@@ -1,0 +1,82 @@
+[
+    {
+        "o": 2840,
+        "r": "esv:Exodus:37:1",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 37:1–9*2840; Exodus 25:10–20*2403",
+        "a": "a"
+    },
+    {
+        "o": 2840,
+        "r": "esv:Exodus:37:1",
+        "w": 8,
+        "l": {},
+        "t": "A cubit*i was about 18 inches or 45 centimeters",
+        "a": "b"
+    },
+    {
+        "o": 2842,
+        "r": "esv:Exodus:37:3",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 25:12*2405",
+        "a": "c"
+    },
+    {
+        "o": 2850,
+        "r": "esv:Exodus:37:10",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 37:10–16*2850; Exodus 25:23–29*2417",
+        "a": "d"
+    },
+    {
+        "o": 2852,
+        "r": "esv:Exodus:37:12",
+        "w": 8,
+        "l": {},
+        "t": "A handbreadth*i was about 3 inches or 7.5 centimeters",
+        "a": "e"
+    },
+    {
+        "o": 2858,
+        "r": "esv:Exodus:37:17",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 37:17–24*2858; Exodus 25:31–39*2426",
+        "a": "f"
+    },
+    {
+        "o": 2865,
+        "r": "esv:Exodus:37:24",
+        "w": 10,
+        "l": {},
+        "t": "A talent*i was about 75 pounds or 34 kilograms",
+        "a": "g"
+    },
+    {
+        "o": 2867,
+        "r": "esv:Exodus:37:25",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 37:25–28*2867; Exodus 30:1–5*2595",
+        "a": "h"
+    },
+    {
+        "o": 2871,
+        "r": "esv:Exodus:37:29",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 30:23–24*2620; Exodus 30:34–35*2631",
+        "a": "i"
+    },
+    {
+        "o": 2871,
+        "r": "esv:Exodus:37:29",
+        "w": 8,
+        "l": {},
+        "c": "Exodus 30:7*2601",
+        "a": "j"
+    }
+]

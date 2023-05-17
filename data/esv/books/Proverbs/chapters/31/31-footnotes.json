@@ -1,0 +1,322 @@
+[
+    {
+        "o": 19172,
+        "r": "esv:Proverbs:31:2",
+        "w": 5,
+        "l": {},
+        "t": "Hebrew What,*i my*i son?*i",
+        "a": "a"
+    },
+    {
+        "o": 19172,
+        "r": "esv:Proverbs:31:2",
+        "w": 9,
+        "l": {},
+        "c": "Isaiah 49:15*20752",
+        "a": "b"
+    },
+    {
+        "o": 19172,
+        "r": "esv:Proverbs:31:2",
+        "w": 17,
+        "l": {},
+        "c": "1 Samuel 1:27*7921",
+        "a": "c"
+    },
+    {
+        "o": 19173,
+        "r": "esv:Proverbs:31:3",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 5:9*18374",
+        "a": "d"
+    },
+    {
+        "o": 19173,
+        "r": "esv:Proverbs:31:3",
+        "w": 10,
+        "l": {},
+        "c": "Proverbs 7:26*18454; Deuteronomy 17:17*5868; 1 Kings 11:1*9983; Nehemiah 13:26*13979",
+        "a": "e"
+    },
+    {
+        "o": 19174,
+        "r": "esv:Proverbs:31:4",
+        "w": 0,
+        "l": {},
+        "c": "Ecclesiastes 10:17*19425; 1 Kings 16:9*10185; 1 Kings 20:16*10335",
+        "a": "f"
+    },
+    {
+        "o": 19174,
+        "r": "esv:Proverbs:31:4",
+        "w": 11,
+        "l": {},
+        "c": "Hosea 4:11*24608",
+        "a": "g"
+    },
+    {
+        "o": 19174,
+        "r": "esv:Proverbs:31:4",
+        "w": 19,
+        "l": {},
+        "c": "Proverbs 20:1*18825",
+        "a": "h"
+    },
+    {
+        "o": 19175,
+        "r": "esv:Proverbs:31:5",
+        "w": 9,
+        "l": {},
+        "c": "Isaiah 5:22–23*19749",
+        "a": "i"
+    },
+    {
+        "o": 19176,
+        "r": "esv:Proverbs:31:6",
+        "w": 6,
+        "l": {},
+        "c": "Job 29:13*14911",
+        "a": "j"
+    },
+    {
+        "o": 19176,
+        "r": "esv:Proverbs:31:6",
+        "w": 11,
+        "l": {},
+        "c": "Job 3:20*14240",
+        "a": "k"
+    },
+    {
+        "o": 19176,
+        "r": "esv:Proverbs:31:6",
+        "w": 15,
+        "l": {},
+        "t": "Hebrew those*i bitter*i in*i soul*i",
+        "a": "l"
+    },
+    {
+        "o": 19177,
+        "r": "esv:Proverbs:31:7",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 104:15*17280",
+        "a": "m"
+    },
+    {
+        "o": 19178,
+        "r": "esv:Proverbs:31:8",
+        "w": 0,
+        "l": {},
+        "c": "Job 29:12*14910; Job 29:15–16*14913; Isaiah 1:17*19648",
+        "a": "n"
+    },
+    {
+        "o": 19178,
+        "r": "esv:Proverbs:31:8",
+        "w": 13,
+        "l": {},
+        "t": "Hebrew are*i sons*i of*i passing*i away*i",
+        "a": "o"
+    },
+    {
+        "o": 19179,
+        "r": "esv:Proverbs:31:9",
+        "w": 2,
+        "l": {},
+        "c": "Leviticus 19:15*3584; Deuteronomy 1:16*5347",
+        "a": "p"
+    },
+    {
+        "o": 19179,
+        "r": "esv:Proverbs:31:9",
+        "w": 4,
+        "l": {},
+        "c": "Jeremiah 22:16*21668; Isaiah 1:17*19648",
+        "a": "q"
+    },
+    {
+        "o": 19179,
+        "r": "esv:Proverbs:31:9",
+        "w": 8,
+        "l": {},
+        "c": "Proverbs 31:20*19191; Psalm 40:17*16051; Psalm 86:1*16932",
+        "a": "r"
+    },
+    {
+        "o": 19181,
+        "r": "esv:Proverbs:31:10",
+        "w": 0,
+        "l": {},
+        "t": "Verses 10–31 are an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet",
+        "a": "s"
+    },
+    {
+        "o": 19181,
+        "r": "esv:Proverbs:31:10",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 12:4*18585; Ruth 3:11*7858; Proverbs 18:22*18791; Proverbs 19:14*18808",
+        "a": "t"
+    },
+    {
+        "o": 19181,
+        "r": "esv:Proverbs:31:10",
+        "w": 11,
+        "l": {},
+        "c": "Job 28:18*14886",
+        "a": "u"
+    },
+    {
+        "o": 19184,
+        "r": "esv:Proverbs:31:13",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 31:21–22*19192; Proverbs 31:24*19195",
+        "a": "v"
+    },
+    {
+        "o": 19186,
+        "r": "esv:Proverbs:31:15",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 20:13*18837",
+        "a": "w"
+    },
+    {
+        "o": 19186,
+        "r": "esv:Proverbs:31:15",
+        "w": 7,
+        "l": {},
+        "c": "Luke 12:42*28504; Psalm 111:5*17510",
+        "a": "x"
+    },
+    {
+        "o": 19188,
+        "r": "esv:Proverbs:31:17",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 31:25*19196",
+        "a": "y"
+    },
+    {
+        "o": 19188,
+        "r": "esv:Proverbs:31:17",
+        "w": 2,
+        "l": {},
+        "t": "Hebrew She*i girds*i her*i loins*i",
+        "a": "z"
+    },
+    {
+        "o": 19191,
+        "r": "esv:Proverbs:31:20",
+        "w": 0,
+        "l": {},
+        "c": "Romans 12:13*31597; Ephesians 4:28*32773",
+        "a": "a"
+    },
+    {
+        "o": 19191,
+        "r": "esv:Proverbs:31:20",
+        "w": 4,
+        "l": {},
+        "c": "Proverbs 31:9*19180",
+        "a": "b"
+    },
+    {
+        "o": 19191,
+        "r": "esv:Proverbs:31:20",
+        "w": 12,
+        "l": {},
+        "c": "Proverbs 31:9*19180",
+        "a": "c"
+    },
+    {
+        "o": 19192,
+        "r": "esv:Proverbs:31:21",
+        "w": 15,
+        "l": {},
+        "c": "2 Samuel 1:24*8811",
+        "a": "d"
+    },
+    {
+        "o": 19192,
+        "r": "esv:Proverbs:31:21",
+        "w": 16,
+        "l": {},
+        "t": "Or in*i double*i thickness*i",
+        "a": "e"
+    },
+    {
+        "o": 19193,
+        "r": "esv:Proverbs:31:22",
+        "w": 1,
+        "l": {},
+        "c": "Proverbs 7:16*18444",
+        "a": "f"
+    },
+    {
+        "o": 19193,
+        "r": "esv:Proverbs:31:22",
+        "w": 8,
+        "l": {},
+        "c": "Genesis 41:42*1341; Revelation 19:8*34769; Revelation 19:14*34776",
+        "a": "g"
+    },
+    {
+        "o": 19193,
+        "r": "esv:Proverbs:31:22",
+        "w": 11,
+        "l": {},
+        "c": "Judges 8:26*7379",
+        "a": "h"
+    },
+    {
+        "o": 19194,
+        "r": "esv:Proverbs:31:23",
+        "w": 4,
+        "l": {},
+        "c": "Ruth 4:1–2*7868",
+        "a": "i"
+    },
+    {
+        "o": 19195,
+        "r": "esv:Proverbs:31:24",
+        "w": 1,
+        "l": {},
+        "c": "Judges 14:12*7572; Isaiah 3:23*19713",
+        "a": "j"
+    },
+    {
+        "o": 19196,
+        "r": "esv:Proverbs:31:25",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 31:17*19188",
+        "a": "k"
+    },
+    {
+        "o": 19200,
+        "r": "esv:Proverbs:31:29",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 6:9*19583",
+        "a": "l"
+    },
+    {
+        "o": 19200,
+        "r": "esv:Proverbs:31:29",
+        "w": 3,
+        "l": {},
+        "c": "Proverbs 31:10*19181",
+        "a": "m"
+    },
+    {
+        "o": 19201,
+        "r": "esv:Proverbs:31:30",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 11:16*18565",
+        "a": "n"
+    }
+]

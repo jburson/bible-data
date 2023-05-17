@@ -1,0 +1,42 @@
+[
+    {
+        "o": 17284,
+        "r": "nasb:Psalm:103:5",
+        "w": 2,
+        "l": {},
+        "t": "Or desire",
+        "a": "a"
+    },
+    {
+        "o": 17290,
+        "r": "nasb:Psalm:103:11",
+        "w": 17,
+        "l": {},
+        "t": "Or revere",
+        "a": "b"
+    },
+    {
+        "o": 17293,
+        "r": "nasb:Psalm:103:14",
+        "w": 3,
+        "l": {},
+        "t": "I.e. what we are made of",
+        "a": "c"
+    },
+    {
+        "o": 17296,
+        "r": "nasb:Psalm:103:17",
+        "w": 13,
+        "l": {},
+        "t": "Or revere",
+        "a": "d"
+    },
+    {
+        "o": 17298,
+        "r": "nasb:Psalm:103:19",
+        "w": 10,
+        "l": {},
+        "t": "Or kingdom",
+        "a": "e"
+    }
+]

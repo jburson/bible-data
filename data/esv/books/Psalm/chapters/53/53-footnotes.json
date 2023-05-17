@@ -1,0 +1,50 @@
+[
+    {
+        "o": 16267,
+        "r": "esv:Psalm:53:0",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 88:1*16962",
+        "a": "a"
+    },
+    {
+        "o": 16267,
+        "r": "esv:Psalm:53:0",
+        "w": 0,
+        "l": {},
+        "t": "Probably musical or liturgical terms",
+        "a": "b"
+    },
+    {
+        "o": 16268,
+        "r": "esv:Psalm:53:1",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 53*16267; Psalm 14*15512",
+        "a": "c"
+    },
+    {
+        "o": 16269,
+        "r": "esv:Psalm:53:2",
+        "w": 17,
+        "l": {},
+        "t": "Or who*i act*i wisely*i",
+        "a": "d"
+    },
+    {
+        "o": 16272,
+        "r": "esv:Psalm:53:5",
+        "w": 5,
+        "l": {},
+        "c": "Leviticus 26:17*3861; Leviticus 26:36*3880; Proverbs 28:1*19078",
+        "a": "e"
+    },
+    {
+        "o": 16272,
+        "r": "esv:Psalm:53:5",
+        "w": 12,
+        "l": {},
+        "c": "Psalm 89:10*16992; Psalm 141:7*18096; Jeremiah 8:1–2*21314; Ezekiel 6:5*22868",
+        "a": "f"
+    }
+]

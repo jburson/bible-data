@@ -1,0 +1,306 @@
+[
+    {
+        "o": 18429,
+        "r": "esv:Proverbs:7:1",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 2:1*18275",
+        "a": "a"
+    },
+    {
+        "o": 18429,
+        "r": "esv:Proverbs:7:1",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 2:1*18275",
+        "a": "b"
+    },
+    {
+        "o": 18430,
+        "r": "esv:Proverbs:7:2",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 4:4*18340",
+        "a": "c"
+    },
+    {
+        "o": 18430,
+        "r": "esv:Proverbs:7:2",
+        "w": 8,
+        "l": {},
+        "c": "Deuteronomy 32:10*6303",
+        "a": "d"
+    },
+    {
+        "o": 18431,
+        "r": "esv:Proverbs:7:3",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 3:3*18301",
+        "a": "e"
+    },
+    {
+        "o": 18431,
+        "r": "esv:Proverbs:7:3",
+        "w": 4,
+        "l": {},
+        "c": "Proverbs 3:3*18301",
+        "a": "f"
+    },
+    {
+        "o": 18433,
+        "r": "esv:Proverbs:7:5",
+        "w": 3,
+        "l": {},
+        "c": "Proverbs 2:16*18290",
+        "a": "g"
+    },
+    {
+        "o": 18433,
+        "r": "esv:Proverbs:7:5",
+        "w": 5,
+        "l": {},
+        "t": "Hebrew strange*i",
+        "a": "h"
+    },
+    {
+        "o": 18433,
+        "r": "esv:Proverbs:7:5",
+        "w": 7,
+        "l": {},
+        "c": "Proverbs 2:16*18290",
+        "a": "i"
+    },
+    {
+        "o": 18433,
+        "r": "esv:Proverbs:7:5",
+        "w": 9,
+        "l": {},
+        "t": "Hebrew the*i foreign*i woman*i",
+        "a": "j"
+    },
+    {
+        "o": 18434,
+        "r": "esv:Proverbs:7:6",
+        "w": 1,
+        "l": {},
+        "c": "Judges 5:28*7274",
+        "a": "k"
+    },
+    {
+        "o": 18435,
+        "r": "esv:Proverbs:7:7",
+        "w": 4,
+        "l": {},
+        "c": "Proverbs 1:4*18241",
+        "a": "l"
+    },
+    {
+        "o": 18435,
+        "r": "esv:Proverbs:7:7",
+        "w": 15,
+        "l": {},
+        "c": "Proverbs 6:32*18423",
+        "a": "m"
+    },
+    {
+        "o": 18436,
+        "r": "esv:Proverbs:7:8",
+        "w": 3,
+        "l": {},
+        "c": "Proverbs 7:12*18440",
+        "a": "n"
+    },
+    {
+        "o": 18437,
+        "r": "esv:Proverbs:7:9",
+        "w": 0,
+        "l": {},
+        "c": "Job 24:15*14807",
+        "a": "o"
+    },
+    {
+        "o": 18437,
+        "r": "esv:Proverbs:7:9",
+        "w": 6,
+        "l": {},
+        "c": "Proverbs 20:20*18844",
+        "a": "p"
+    },
+    {
+        "o": 18438,
+        "r": "esv:Proverbs:7:10",
+        "w": 5,
+        "l": {},
+        "c": "Genesis 38:14*1230",
+        "a": "q"
+    },
+    {
+        "o": 18438,
+        "r": "esv:Proverbs:7:10",
+        "w": 12,
+        "l": {},
+        "t": "Hebrew guarded*i in*i heart*i",
+        "a": "r"
+    },
+    {
+        "o": 18439,
+        "r": "esv:Proverbs:7:11",
+        "w": 1,
+        "l": {},
+        "c": "Proverbs 9:13*18509",
+        "a": "s"
+    },
+    {
+        "o": 18439,
+        "r": "esv:Proverbs:7:11",
+        "w": 3,
+        "l": {},
+        "c": "Hosea 4:16*24613",
+        "a": "t"
+    },
+    {
+        "o": 18439,
+        "r": "esv:Proverbs:7:11",
+        "w": 4,
+        "l": {},
+        "c": "1 Timothy 5:13*33328; Titus 2:5*33487",
+        "a": "u"
+    },
+    {
+        "o": 18440,
+        "r": "esv:Proverbs:7:12",
+        "w": 8,
+        "l": {},
+        "c": "Proverbs 7:8*18436",
+        "a": "v"
+    },
+    {
+        "o": 18440,
+        "r": "esv:Proverbs:7:12",
+        "w": 12,
+        "l": {},
+        "c": "Proverbs 23:28*18946",
+        "a": "w"
+    },
+    {
+        "o": 18441,
+        "r": "esv:Proverbs:7:13",
+        "w": 7,
+        "l": {},
+        "c": "Proverbs 21:29*18884",
+        "a": "x"
+    },
+    {
+        "o": 18442,
+        "r": "esv:Proverbs:7:14",
+        "w": 2,
+        "l": {},
+        "c": "Leviticus 7:11*3151",
+        "a": "y"
+    },
+    {
+        "o": 18442,
+        "r": "esv:Proverbs:7:14",
+        "w": 4,
+        "l": {},
+        "t": "Hebrew peace*i offerings*i",
+        "a": "z"
+    },
+    {
+        "o": 18442,
+        "r": "esv:Proverbs:7:14",
+        "w": 8,
+        "l": {},
+        "c": "Psalm 50:14*16221",
+        "a": "a"
+    },
+    {
+        "o": 18444,
+        "r": "esv:Proverbs:7:16",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 31:22*19193",
+        "a": "b"
+    },
+    {
+        "o": 18444,
+        "r": "esv:Proverbs:7:16",
+        "w": 9,
+        "l": {},
+        "c": "Isaiah 19:9*20036",
+        "a": "c"
+    },
+    {
+        "o": 18445,
+        "r": "esv:Proverbs:7:17",
+        "w": 5,
+        "l": {},
+        "c": "Psalm 45:8*16129",
+        "a": "d"
+    },
+    {
+        "o": 18445,
+        "r": "esv:Proverbs:7:17",
+        "w": 8,
+        "l": {},
+        "c": "Exodus 30:23*2620",
+        "a": "e"
+    },
+    {
+        "o": 18447,
+        "r": "esv:Proverbs:7:19",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 20:11*26554",
+        "a": "f"
+    },
+    {
+        "o": 18449,
+        "r": "esv:Proverbs:7:21",
+        "w": 7,
+        "l": {},
+        "c": "Proverbs 5:3*18368; Proverbs 6:24*18415; Psalm 12:2*15494",
+        "a": "g"
+    },
+    {
+        "o": 18450,
+        "r": "esv:Proverbs:7:22",
+        "w": 19,
+        "l": {},
+        "t": "Probable reading (compare Septuagint, Vulgate, Syriac); Hebrew as*i a*i chain*i to*i discipline*i a*i fool*i",
+        "a": "h"
+    },
+    {
+        "o": 18451,
+        "r": "esv:Proverbs:7:23",
+        "w": 6,
+        "l": {},
+        "c": "Ecclesiastes 9:12*19401",
+        "a": "i"
+    },
+    {
+        "o": 18452,
+        "r": "esv:Proverbs:7:24",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 4:1*18337",
+        "a": "j"
+    },
+    {
+        "o": 18454,
+        "r": "esv:Proverbs:7:26",
+        "w": 12,
+        "l": {},
+        "c": "Nehemiah 13:26*13979; Judges 16:1–5*7605",
+        "a": "k"
+    },
+    {
+        "o": 18455,
+        "r": "esv:Proverbs:7:27",
+        "w": 2,
+        "l": {},
+        "c": "Proverbs 2:18*18292; Proverbs 5:5*18370; Proverbs 9:18*18514",
+        "a": "l"
+    }
+]

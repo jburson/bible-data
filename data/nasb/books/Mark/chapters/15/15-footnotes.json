@@ -1,0 +1,58 @@
+[
+    {
+        "o": 27689,
+        "r": "nasb:Mark:15:1",
+        "w": 14,
+        "l": {},
+        "t": "Or Sanhedrin",
+        "a": "a"
+    },
+    {
+        "o": 27705,
+        "r": "nasb:Mark:15:16",
+        "w": 18,
+        "l": {},
+        "t": "Or battalion",
+        "a": "b"
+    },
+    {
+        "o": 27708,
+        "r": "nasb:Mark:15:19",
+        "w": 6,
+        "l": {},
+        "t": "Or staff (made of a reed)",
+        "a": "c"
+    },
+    {
+        "o": 27715,
+        "r": "nasb:Mark:15:25",
+        "w": 2,
+        "l": {},
+        "t": "I.e. 9 a.m.",
+        "a": "d"
+    },
+    {
+        "o": 27718,
+        "r": "nasb:Mark:15:28",
+        "w": 0,
+        "l": {},
+        "t": "Early mss do not contain this v",
+        "a": "e"
+    },
+    {
+        "o": 27723,
+        "r": "nasb:Mark:15:33",
+        "w": 1,
+        "l": {},
+        "t": "I.e. noon",
+        "a": "f"
+    },
+    {
+        "o": 27723,
+        "r": "nasb:Mark:15:33",
+        "w": 12,
+        "l": {},
+        "t": "I.e. 3 p.m.",
+        "a": "g"
+    }
+]

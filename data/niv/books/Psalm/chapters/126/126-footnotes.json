@@ -1,0 +1,26 @@
+[
+    {
+        "o": 17665,
+        "r": "niv:Psalm:126:1",
+        "w": 6,
+        "l": {},
+        "t": "126:1*r Or Lord*i brought*i back*i the*i captives*i to*i",
+        "a": "a"
+    },
+    {
+        "o": 17665,
+        "r": "niv:Psalm:126:1",
+        "w": 13,
+        "l": {},
+        "t": "126:1*r Or those*i restored*i to*i health*i",
+        "a": "b"
+    },
+    {
+        "o": 17668,
+        "r": "niv:Psalm:126:4",
+        "w": 2,
+        "l": {},
+        "t": "126:4*r Or Bring*i back*i our*i captives*i",
+        "a": "c"
+    }
+]

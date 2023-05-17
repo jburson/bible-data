@@ -1,0 +1,98 @@
+[
+    {
+        "o": 24153,
+        "r": "niv:Daniel:9:1",
+        "w": 8,
+        "l": {},
+        "t": "9:1*r Hebrew Ahasuerus*i",
+        "a": "a"
+    },
+    {
+        "o": 24153,
+        "r": "niv:Daniel:9:1",
+        "w": 19,
+        "l": {},
+        "t": "9:1*r Or Chaldean*i",
+        "a": "b"
+    },
+    {
+        "o": 24177,
+        "r": "niv:Daniel:9:24",
+        "w": 1,
+        "l": {},
+        "t": "9:24*r Or ‘weeks’*i ; also in verses 25 and 26",
+        "a": "c"
+    },
+    {
+        "o": 24177,
+        "r": "niv:Daniel:9:24",
+        "w": 12,
+        "l": {},
+        "t": "9:24*r Or restrain*i",
+        "a": "d"
+    },
+    {
+        "o": 24177,
+        "r": "niv:Daniel:9:24",
+        "w": 41,
+        "l": {},
+        "t": "9:24*r Or the*i most*i holy*i One*i",
+        "a": "e"
+    },
+    {
+        "o": 24178,
+        "r": "niv:Daniel:9:25",
+        "w": 19,
+        "l": {},
+        "t": "9:25*r Or an*i anointed*i one*i ; also in verse 26",
+        "a": "f"
+    },
+    {
+        "o": 24179,
+        "r": "niv:Daniel:9:26",
+        "w": 15,
+        "l": {},
+        "t": "9:26*r Or death*i and*i will*i have*i no*i one*i ; or death,*i but*i not*i for*i himself*i",
+        "a": "g"
+    },
+    {
+        "o": 24180,
+        "r": "niv:Daniel:9:27",
+        "w": 9,
+        "l": {},
+        "t": "9:27*r Or ‘week’*i",
+        "a": "h"
+    },
+    {
+        "o": 24180,
+        "r": "niv:Daniel:9:27",
+        "w": 15,
+        "l": {},
+        "t": "9:27*r Or ‘week’*i",
+        "a": "i"
+    },
+    {
+        "o": 24180,
+        "r": "niv:Daniel:9:27",
+        "w": 28,
+        "l": {},
+        "t": "9:27*r Septuagint and Theodotion; Hebrew wing*i",
+        "a": "j"
+    },
+    {
+        "o": 24180,
+        "r": "niv:Daniel:9:27",
+        "w": 48,
+        "l": {},
+        "t": "9:27*r Or it*i",
+        "a": "k"
+    },
+    {
+        "o": 24180,
+        "r": "niv:Daniel:9:27",
+        "w": 48,
+        "l": {},
+        "t": "9:27*r Or And*i one*i who*i causes*i desolation*i will*i come*i upon*i the*i wing*i of*i the*i abominable*i temple,*i until*i the*i end*i that*i is*i decreed*i is*i poured*i out*i on*i the*i desolated*i city*i",
+        "a": "l"
+    }
+]

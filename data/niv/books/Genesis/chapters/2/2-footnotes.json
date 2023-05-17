@@ -1,0 +1,66 @@
+[
+    {
+        "o": 40,
+        "r": "niv:Genesis:2:5",
+        "w": 8,
+        "l": {},
+        "t": "2:5*r Or land*i ; also in verse 6",
+        "a": "a"
+    },
+    {
+        "o": 41,
+        "r": "niv:Genesis:2:6",
+        "w": 1,
+        "l": {},
+        "t": "2:6*r Or mist*i",
+        "a": "b"
+    },
+    {
+        "o": 42,
+        "r": "niv:Genesis:2:7",
+        "w": 6,
+        "l": {},
+        "t": "2:7*r The Hebrew for man*i (adam) sounds like and may be related to the Hebrew for ground*i (adamah); it is also the name Adam*i (see verse 20).",
+        "a": "c"
+    },
+    {
+        "o": 47,
+        "r": "niv:Genesis:2:12",
+        "w": 8,
+        "l": {},
+        "t": "2:12*r Or good;*i pearls*i",
+        "a": "d"
+    },
+    {
+        "o": 48,
+        "r": "niv:Genesis:2:13",
+        "w": 16,
+        "l": {},
+        "t": "2:13*r Possibly southeast Mesopotamia",
+        "a": "e"
+    },
+    {
+        "o": 55,
+        "r": "niv:Genesis:2:20",
+        "w": 21,
+        "l": {},
+        "t": "2:20*r Or the*i man*i",
+        "a": "f"
+    },
+    {
+        "o": 56,
+        "r": "niv:Genesis:2:21",
+        "w": 24,
+        "l": {},
+        "t": "2:21*r Or took*i part*i of*i the*i man’s*i side*i",
+        "a": "g"
+    },
+    {
+        "o": 57,
+        "r": "niv:Genesis:2:22",
+        "w": 9,
+        "l": {},
+        "t": "2:22*r Or part*i",
+        "a": "h"
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "o": 26545,
+        "r": "esv:Matthew:20:2",
+        "w": 7,
+        "l": {},
+        "t": "A denarius*i was a day’s wage for a laborer",
+        "a": "a"
+    },
+    {
+        "o": 26549,
+        "r": "esv:Matthew:20:6",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 15:8*32120",
+        "a": "b"
+    },
+    {
+        "o": 26551,
+        "r": "esv:Matthew:20:8",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 19:13*3582; Deuteronomy 24:15*6053",
+        "a": "c"
+    },
+    {
+        "o": 26551,
+        "r": "esv:Matthew:20:8",
+        "w": 11,
+        "l": {},
+        "c": "Luke 8:3*28208; Matthew 24:45*26778",
+        "a": "d"
+    },
+    {
+        "o": 26555,
+        "r": "esv:Matthew:20:12",
+        "w": 23,
+        "l": {},
+        "c": "Luke 12:55*28519; James 1:11*33897",
+        "a": "e"
+    },
+    {
+        "o": 26556,
+        "r": "esv:Matthew:20:13",
+        "w": 6,
+        "l": {},
+        "c": "Matthew 22:12*26647; Matthew 26:50*26893",
+        "a": "f"
+    },
+    {
+        "o": 26557,
+        "r": "esv:Matthew:20:14",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 25:25*26812",
+        "a": "g"
+    },
+    {
+        "o": 26558,
+        "r": "esv:Matthew:20:15",
+        "w": 0,
+        "l": {},
+        "c": "Romans 9:15–24*31498",
+        "a": "h"
+    },
+    {
+        "o": 26558,
+        "r": "esv:Matthew:20:15",
+        "w": 14,
+        "l": {},
+        "c": "Matthew 6:23*25968; Deuteronomy 15:9*5806; Proverbs 23:6*18924",
+        "a": "i"
+    },
+    {
+        "o": 26558,
+        "r": "esv:Matthew:20:15",
+        "w": 19,
+        "l": {},
+        "t": "Or is*i your*i eye*i bad*i because*i I*i am*i good?*i",
+        "a": "j"
+    },
+    {
+        "o": 26559,
+        "r": "esv:Matthew:20:16",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 19:30*26541",
+        "a": "k"
+    },
+    {
+        "o": 26561,
+        "r": "esv:Matthew:20:17",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 20:17–19*26561; Mark 10:32–34*27485; Luke 18:31–33*28758; Matthew 16:21–28*26428; Matthew 17:12*26450; Matthew 17:22–23*26461",
+        "a": "l"
+    },
+    {
+        "o": 26562,
+        "r": "esv:Matthew:20:18",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 16:21*26428",
+        "a": "m"
+    },
+    {
+        "o": 26562,
+        "r": "esv:Matthew:20:18",
+        "w": 24,
+        "l": {},
+        "c": "Matthew 26:66*26910; John 19:7*30004",
+        "a": "n"
+    },
+    {
+        "o": 26563,
+        "r": "esv:Matthew:20:19",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 27:2*26925; John 18:30–31*29984; Acts 3:13*30207; Acts 2:23*30166; Acts 4:27*30250; Acts 21:11*30948",
+        "a": "o"
+    },
+    {
+        "o": 26563,
+        "r": "esv:Matthew:20:19",
+        "w": 6,
+        "l": {},
+        "c": "Matthew 27:26–31*26953",
+        "a": "p"
+    },
+    {
+        "o": 26563,
+        "r": "esv:Matthew:20:19",
+        "w": 12,
+        "l": {},
+        "c": "Matthew 26:2*26838; Luke 24:7*29080; John 12:32–33*29753; John 18:32*29987",
+        "a": "q"
+    },
+    {
+        "o": 26563,
+        "r": "esv:Matthew:20:19",
+        "w": 19,
+        "l": {},
+        "c": "Matthew 16:21*26428; Matthew 27:63*26994",
+        "a": "r"
+    },
+    {
+        "o": 26565,
+        "r": "esv:Matthew:20:20",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 20:20–28*26565; Mark 10:35–45*27489",
+        "a": "s"
+    },
+    {
+        "o": 26565,
+        "r": "esv:Matthew:20:20",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 4:21*25876; Matthew 27:56*26986",
+        "a": "t"
+    },
+    {
+        "o": 26565,
+        "r": "esv:Matthew:20:20",
+        "w": 15,
+        "l": {},
+        "c": "Matthew 8:2*26021",
+        "a": "u"
+    },
+    {
+        "o": 26566,
+        "r": "esv:Matthew:20:21",
+        "w": 19,
+        "l": {},
+        "c": "Matthew 19:28*26539",
+        "a": "v"
+    },
+    {
+        "o": 26566,
+        "r": "esv:Matthew:20:21",
+        "w": 32,
+        "l": {},
+        "c": "Matthew 16:28*26436; Matthew 25:31*26819; Matthew 25:34*26822; Luke 23:42*29055",
+        "a": "w"
+    },
+    {
+        "o": 26567,
+        "r": "esv:Matthew:20:22",
+        "w": 1,
+        "l": {},
+        "c": "Luke 9:33*28308; Luke 23:34*29047",
+        "a": "x"
+    },
+    {
+        "o": 26567,
+        "r": "esv:Matthew:20:22",
+        "w": 12,
+        "l": {},
+        "c": "Matthew 26:29*26870; Matthew 26:42*26884; Mark 14:36*27685; Luke 22:42*28976; John 18:11*29961; Isaiah 51:22*20800",
+        "a": "y"
+    },
+    {
+        "o": 26568,
+        "r": "esv:Matthew:20:23",
+        "w": 3,
+        "l": {},
+        "c": "Romans 8:17*31458; Philippians 3:10*32924",
+        "a": "z"
+    },
+    {
+        "o": 26568,
+        "r": "esv:Matthew:20:23",
+        "w": 6,
+        "l": {},
+        "c": "Acts 12:2*30573; Revelation 1:9*34401",
+        "a": "a"
+    },
+    {
+        "o": 26568,
+        "r": "esv:Matthew:20:23",
+        "w": 24,
+        "l": {},
+        "c": "Matthew 19:11*26520",
+        "a": "b"
+    },
+    {
+        "o": 26568,
+        "r": "esv:Matthew:20:23",
+        "w": 34,
+        "l": {},
+        "c": "Matthew 25:34*26822",
+        "a": "c"
+    },
+    {
+        "o": 26570,
+        "r": "esv:Matthew:20:25",
+        "w": 7,
+        "l": {},
+        "c": "Matthew 20:25–28*26570; Matthew 18:1–4*26470; Luke 22:25–27*28956",
+        "a": "d"
+    },
+    {
+        "o": 26570,
+        "r": "esv:Matthew:20:25",
+        "w": 15,
+        "l": {},
+        "c": "1 Peter 5:3*34117",
+        "a": "e"
+    },
+    {
+        "o": 26571,
+        "r": "esv:Matthew:20:26",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 23:11*26698; Luke 9:48*28328",
+        "a": "f"
+    },
+    {
+        "o": 26571,
+        "r": "esv:Matthew:20:26",
+        "w": 17,
+        "l": {},
+        "t": "Greek diakonos*i",
+        "a": "g"
+    },
+    {
+        "o": 26572,
+        "r": "esv:Matthew:20:27",
+        "w": 10,
+        "l": {},
+        "t": "Or bondservant*i , or servant*i (for the contextual rendering of the Greek word doulos*i , see Preface )",
+        "a": "h"
+    },
+    {
+        "o": 26573,
+        "r": "esv:Matthew:20:28",
+        "w": 11,
+        "l": {},
+        "c": "John 13:4*29780; John 13:13–15*29789; Philippians 2:7*32887; 2 Corinthians 8:9*32364",
+        "a": "i"
+    },
+    {
+        "o": 26573,
+        "r": "esv:Matthew:20:28",
+        "w": 14,
+        "l": {},
+        "c": "Isaiah 53:10*20830; Daniel 9:26*24463; John 10:15*29624; John 11:51–52*29709; Romans 4:25*31359; Galatians 1:4*32501; Galatians 2:20*32547; 1 Timothy 2:6*33265; Titus 2:14*33496; 1 Peter 1:18–19*34030",
+        "a": "j"
+    },
+    {
+        "o": 26573,
+        "r": "esv:Matthew:20:28",
+        "w": 22,
+        "l": {},
+        "c": "Matthew 26:28*26868; Isaiah 53:11–12*20831; Hebrews 2:10*33574; Hebrews 9:28*33737; Romans 5:15*31377; Revelation 5:9*34496",
+        "a": "k"
+    },
+    {
+        "o": 26575,
+        "r": "esv:Matthew:20:29",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 20:29–34*26575; Mark 10:46–52*27501; Luke 18:35–43*28763; Matthew 9:27–31*26091",
+        "a": "l"
+    },
+    {
+        "o": 26576,
+        "r": "esv:Matthew:20:30",
+        "w": 23,
+        "l": {},
+        "t": "Some manuscripts omit Lord*i",
+        "a": "m"
+    },
+    {
+        "o": 26576,
+        "r": "esv:Matthew:20:30",
+        "w": 27,
+        "l": {},
+        "c": "Matthew 21:9*26591; Matthew 22:42*26681; Matthew 1:1*25778",
+        "a": "n"
+    },
+    {
+        "o": 26577,
+        "r": "esv:Matthew:20:31",
+        "w": 1,
+        "l": {},
+        "c": "Matthew 19:13*26523",
+        "a": "o"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "o": 15591,
+        "r": "niv:Psalm:25:0",
+        "w": 0,
+        "l": {},
+        "t": "This psalm is an acrostic poem, the verses of which begin with the successive letters of the Hebrew alphabet.",
+        "a": "a"
+    },
+    {
+        "o": 15603,
+        "r": "niv:Psalm:25:12",
+        "w": 17,
+        "l": {},
+        "t": "25:12*r Or ways*i he*i chooses*i",
+        "a": "b"
+    },
+    {
+        "o": 15612,
+        "r": "niv:Psalm:25:21",
+        "w": 9,
+        "l": {},
+        "t": "25:21*r Septuagint; Hebrew does not have Lord*i .",
+        "a": "c"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "o": 13371,
+        "r": "niv:Ezra:8:5",
+        "w": 4,
+        "l": {},
+        "t": "8:5*r Some Septuagint manuscripts (also 1 Esdras 8:32); Hebrew does not have Zattu*i .*i",
+        "a": "a"
+    },
+    {
+        "o": 13376,
+        "r": "niv:Ezra:8:10",
+        "w": 4,
+        "l": {},
+        "t": "8:10*r Some Septuagint manuscripts (also 1 Esdras 8:36); Hebrew does not have Bani*i .*i",
+        "a": "b"
+    },
+    {
+        "o": 13393,
+        "r": "niv:Ezra:8:26",
+        "w": 6,
+        "l": {},
+        "t": "8:26*r That is, about 24 tons or about 22 metric tons",
+        "a": "c"
+    },
+    {
+        "o": 13393,
+        "r": "niv:Ezra:8:26",
+        "w": 13,
+        "l": {},
+        "t": "8:26*r That is, about 3 3/4 tons or about 3.4 metric tons",
+        "a": "d"
+    },
+    {
+        "o": 13393,
+        "r": "niv:Ezra:8:26",
+        "w": 15,
+        "l": {},
+        "t": "8:26*r That is, about 3 3/4 tons or about 3.4 metric tons",
+        "a": "e"
+    },
+    {
+        "o": 13394,
+        "r": "niv:Ezra:8:27",
+        "w": 7,
+        "l": {},
+        "t": "8:27*r That is, about 19 pounds or about 8.4 kilograms",
+        "a": "f"
+    },
+    {
+        "o": 13402,
+        "r": "niv:Ezra:8:35",
+        "w": 30,
+        "l": {},
+        "t": "8:35*r Or purification*i offering*i",
+        "a": "g"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "o": 1148,
+        "r": "niv:Genesis:36:16",
+        "w": 0,
+        "l": {},
+        "t": "36:16*r Masoretic Text; Samaritan Pentateuch (also verse 11 and 1 Chron. 1:36) does not have Korah*i .",
+        "a": "a"
+    },
+    {
+        "o": 1154,
+        "r": "niv:Genesis:36:22",
+        "w": 6,
+        "l": {},
+        "t": "36:22*r Hebrew Hemam,*i a variant of Homam*i (see 1 Chron. 1:39)",
+        "a": "b"
+    },
+    {
+        "o": 1156,
+        "r": "niv:Genesis:36:24",
+        "w": 15,
+        "l": {},
+        "t": "36:24*r Vulgate; Syriac discovered*i water;*i the meaning of the Hebrew for this word is uncertain.",
+        "a": "c"
+    },
+    {
+        "o": 1158,
+        "r": "niv:Genesis:36:26",
+        "w": 3,
+        "l": {},
+        "t": "36:26*r Hebrew Dishan,*i a variant of Dishon*i",
+        "a": "d"
+    },
+    {
+        "o": 1172,
+        "r": "niv:Genesis:36:39",
+        "w": 6,
+        "l": {},
+        "t": "36:39*r Many manuscripts of the Masoretic Text, Samaritan Pentateuch and Syriac (see also 1 Chron. 1:50); most manuscripts of the Masoretic Text Hadar*i",
+        "a": "e"
+    }
+]

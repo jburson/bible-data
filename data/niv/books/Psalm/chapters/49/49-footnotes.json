@@ -1,0 +1,34 @@
+[
+    {
+        "o": 16036,
+        "r": "niv:Psalm:49:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 49:1-20 is numbered 49:2-21.",
+        "a": "a"
+    },
+    {
+        "o": 16047,
+        "r": "niv:Psalm:49:11",
+        "w": 5,
+        "l": {},
+        "t": "49:11*r Septuagint and Syriac; Hebrew In*i their*i thoughts*i their*i houses*i will*i remain*i",
+        "a": "b"
+    },
+    {
+        "o": 16047,
+        "r": "niv:Psalm:49:11",
+        "w": 14,
+        "l": {},
+        "t": "49:11*r Or generations,*i /*i for*i they*i have*i",
+        "a": "c"
+    },
+    {
+        "o": 16049,
+        "r": "niv:Psalm:49:13",
+        "w": 17,
+        "l": {},
+        "t": "49:13*r The Hebrew has Selah*i (a word of uncertain meaning) here and at the end of verse 15.",
+        "a": "d"
+    }
+]

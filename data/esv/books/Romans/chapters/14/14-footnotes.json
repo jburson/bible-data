@@ -1,0 +1,298 @@
+[
+    {
+        "o": 31625,
+        "r": "esv:Romans:14:1",
+        "w": 1,
+        "l": {},
+        "c": "Romans 15:1*31651; 1 Corinthians 8:9–11*31912; 1 Corinthians 9:22*31940",
+        "a": "a"
+    },
+    {
+        "o": 31626,
+        "r": "esv:Romans:14:2",
+        "w": 0,
+        "l": {},
+        "c": "Romans 14:14*31639",
+        "a": "b"
+    },
+    {
+        "o": 31627,
+        "r": "esv:Romans:14:3",
+        "w": 11,
+        "l": {},
+        "c": "Colossians 2:16*33016",
+        "a": "c"
+    },
+    {
+        "o": 31628,
+        "r": "esv:Romans:14:4",
+        "w": 0,
+        "l": {},
+        "c": "James 4:12*33979",
+        "a": "d"
+    },
+    {
+        "o": 31628,
+        "r": "esv:Romans:14:4",
+        "w": 16,
+        "l": {},
+        "t": "Or lord*i",
+        "a": "e"
+    },
+    {
+        "o": 31629,
+        "r": "esv:Romans:14:5",
+        "w": 0,
+        "l": {},
+        "c": "Galatians 4:10*32594; Zechariah 7:5–6*25568",
+        "a": "f"
+    },
+    {
+        "o": 31629,
+        "r": "esv:Romans:14:5",
+        "w": 14,
+        "l": {},
+        "c": "Romans 14:23*31648",
+        "a": "g"
+    },
+    {
+        "o": 31630,
+        "r": "esv:Romans:14:6",
+        "w": 23,
+        "l": {},
+        "c": "1 Corinthians 10:30–31*31978; 1 Timothy 4:3–4*33299; Matthew 15:36*26399",
+        "a": "h"
+    },
+    {
+        "o": 31631,
+        "r": "esv:Romans:14:7",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 5:15*32309; Galatians 2:20*32547; 1 Peter 4:2*34094; 1 Corinthians 6:19*31856; 1 Thessalonians 5:10*33156",
+        "a": "i"
+    },
+    {
+        "o": 31632,
+        "r": "esv:Romans:14:8",
+        "w": 19,
+        "l": {},
+        "c": "Philippians 1:20*32868",
+        "a": "j"
+    },
+    {
+        "o": 31633,
+        "r": "esv:Romans:14:9",
+        "w": 4,
+        "l": {},
+        "c": "Revelation 1:18*34410; Revelation 2:8*34423",
+        "a": "k"
+    },
+    {
+        "o": 31633,
+        "r": "esv:Romans:14:9",
+        "w": 14,
+        "l": {},
+        "c": "Acts 10:42*30529; Revelation 20:12*34799",
+        "a": "l"
+    },
+    {
+        "o": 31634,
+        "r": "esv:Romans:14:10",
+        "w": 16,
+        "l": {},
+        "c": "Romans 14:9*31633",
+        "a": "m"
+    },
+    {
+        "o": 31634,
+        "r": "esv:Romans:14:10",
+        "w": 21,
+        "l": {},
+        "c": "2 Corinthians 5:10*32304",
+        "a": "n"
+    },
+    {
+        "o": 31635,
+        "r": "esv:Romans:14:11",
+        "w": 3,
+        "l": {},
+        "c": "Philippians 2:10–11*32890; Isaiah 45:23*20675",
+        "a": "o"
+    },
+    {
+        "o": 31635,
+        "r": "esv:Romans:14:11",
+        "w": 20,
+        "l": {},
+        "t": "Or shall*i give*i praise*i",
+        "a": "p"
+    },
+    {
+        "o": 31636,
+        "r": "esv:Romans:14:12",
+        "w": 1,
+        "l": {},
+        "c": "Matthew 12:36*26229; Matthew 16:27*26435; 1 Peter 4:5*34097; Galatians 6:5*32652",
+        "a": "q"
+    },
+    {
+        "o": 31638,
+        "r": "esv:Romans:14:13",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 7:1*25983",
+        "a": "r"
+    },
+    {
+        "o": 31638,
+        "r": "esv:Romans:14:13",
+        "w": 13,
+        "l": {},
+        "c": "1 Corinthians 8:13*31916",
+        "a": "s"
+    },
+    {
+        "o": 31639,
+        "r": "esv:Romans:14:14",
+        "w": 8,
+        "l": {},
+        "c": "Romans 14:2*31626; Romans 14:20*31645; Acts 10:15*30501",
+        "a": "t"
+    },
+    {
+        "o": 31639,
+        "r": "esv:Romans:14:14",
+        "w": 14,
+        "l": {},
+        "c": "1 Corinthians 8:7*31910; 1 Corinthians 8:10*31913",
+        "a": "u"
+    },
+    {
+        "o": 31640,
+        "r": "esv:Romans:14:15",
+        "w": 9,
+        "l": {},
+        "c": "Ephesians 5:2*32781",
+        "a": "v"
+    },
+    {
+        "o": 31640,
+        "r": "esv:Romans:14:15",
+        "w": 16,
+        "l": {},
+        "c": "1 Corinthians 8:11*31914; Romans 14:20*31645",
+        "a": "w"
+    },
+    {
+        "o": 31641,
+        "r": "esv:Romans:14:16",
+        "w": 0,
+        "l": {},
+        "c": "Romans 12:17*31601; 1 Corinthians 10:29–30*31977",
+        "a": "x"
+    },
+    {
+        "o": 31642,
+        "r": "esv:Romans:14:17",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 8:8*31911",
+        "a": "y"
+    },
+    {
+        "o": 31642,
+        "r": "esv:Romans:14:17",
+        "w": 13,
+        "l": {},
+        "c": "1 Corinthians 6:9*31845",
+        "a": "z"
+    },
+    {
+        "o": 31642,
+        "r": "esv:Romans:14:17",
+        "w": 16,
+        "l": {},
+        "c": "Galatians 5:22*32641; Romans 15:13*31665",
+        "a": "a"
+    },
+    {
+        "o": 31643,
+        "r": "esv:Romans:14:18",
+        "w": 4,
+        "l": {},
+        "c": "2 Corinthians 8:21*32377",
+        "a": "b"
+    },
+    {
+        "o": 31644,
+        "r": "esv:Romans:14:19",
+        "w": 3,
+        "l": {},
+        "c": "Psalm 34:14*15893; 1 Corinthians 7:15*31874; 2 Timothy 2:22*33411",
+        "a": "c"
+    },
+    {
+        "o": 31644,
+        "r": "esv:Romans:14:19",
+        "w": 10,
+        "l": {},
+        "c": "Romans 15:2*31652; 1 Corinthians 14:12*32081",
+        "a": "d"
+    },
+    {
+        "o": 31645,
+        "r": "esv:Romans:14:20",
+        "w": 0,
+        "l": {},
+        "c": "Romans 14:15*31640",
+        "a": "e"
+    },
+    {
+        "o": 31645,
+        "r": "esv:Romans:14:20",
+        "w": 11,
+        "l": {},
+        "c": "Titus 1:15*33479; Romans 14:14*31639",
+        "a": "f"
+    },
+    {
+        "o": 31645,
+        "r": "esv:Romans:14:20",
+        "w": 16,
+        "l": {},
+        "c": "1 Corinthians 8:9–12*31912",
+        "a": "g"
+    },
+    {
+        "o": 31646,
+        "r": "esv:Romans:14:21",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 8:13*31916",
+        "a": "h"
+    },
+    {
+        "o": 31646,
+        "r": "esv:Romans:14:21",
+        "w": 18,
+        "l": {},
+        "t": "Some manuscripts add or*i be*i hindered*i or*i be*i weakened*i",
+        "a": "i"
+    },
+    {
+        "o": 31647,
+        "r": "esv:Romans:14:22",
+        "w": 9,
+        "l": {},
+        "c": "1 John 3:21*34270",
+        "a": "j"
+    },
+    {
+        "o": 31648,
+        "r": "esv:Romans:14:23",
+        "w": 24,
+        "l": {},
+        "t": "Some manuscripts insert here 16:25–27",
+        "a": "k"
+    }
+]

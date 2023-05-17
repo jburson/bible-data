@@ -1,0 +1,3962 @@
+[
+    {
+        "o": 32205,
+        "r": "esv:2 Corinthians:1:1",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 1:1*32669; Colossians 1:1*32966; 1 Timothy 1:1*33236; 2 Timothy 1:1*33368; Titus 1:1*33464; Romans 1:1*31230; Galatians 1:1*32498",
+        "a": "a"
+    },
+    {
+        "o": 32205,
+        "r": "esv:2 Corinthians:1:1",
+        "w": 5,
+        "l": {},
+        "c": "1 Corinthians 1:1*31719",
+        "a": "b"
+    },
+    {
+        "o": 32205,
+        "r": "esv:2 Corinthians:1:1",
+        "w": 11,
+        "l": {},
+        "c": "1 Thessalonians 3:2*33111",
+        "a": "c"
+    },
+    {
+        "o": 32205,
+        "r": "esv:2 Corinthians:1:1",
+        "w": 23,
+        "l": {},
+        "c": "Philippians 1:1*32845; Colossians 1:2*32968",
+        "a": "d"
+    },
+    {
+        "o": 32206,
+        "r": "esv:2 Corinthians:1:2",
+        "w": 0,
+        "l": {},
+        "c": "Romans 1:7*31237",
+        "a": "e"
+    },
+    {
+        "o": 32208,
+        "r": "esv:2 Corinthians:1:3",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 1:3*32672; 1 Peter 1:3*34014",
+        "a": "f"
+    },
+    {
+        "o": 32208,
+        "r": "esv:2 Corinthians:1:3",
+        "w": 2,
+        "l": {},
+        "c": "Romans 15:6*31656",
+        "a": "g"
+    },
+    {
+        "o": 32208,
+        "r": "esv:2 Corinthians:1:3",
+        "w": 15,
+        "l": {},
+        "c": "Romans 15:5*31655",
+        "a": "h"
+    },
+    {
+        "o": 32209,
+        "r": "esv:2 Corinthians:1:4",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 51:12*20790; Isaiah 66:13*21076",
+        "a": "i"
+    },
+    {
+        "o": 32210,
+        "r": "esv:2 Corinthians:1:5",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 4:10*32283; Philippians 3:10*32924; Colossians 1:24*32992",
+        "a": "j"
+    },
+    {
+        "o": 32210,
+        "r": "esv:2 Corinthians:1:5",
+        "w": 16,
+        "l": {},
+        "t": "Or For*i as*i the*i sufferings*i of*i Christ*i abound*i for*i us,*i so*i also*i our*i comfort*i abounds*i through*i Christ*i",
+        "a": "k"
+    },
+    {
+        "o": 32211,
+        "r": "esv:2 Corinthians:1:6",
+        "w": 0,
+        "l": {},
+        "c": "2 Timothy 2:10*33398; 2 Corinthians 4:15*32288; 2 Corinthians 12:15*32472; Ephesians 3:13*32734",
+        "a": "l"
+    },
+    {
+        "o": 32212,
+        "r": "esv:2 Corinthians:1:7",
+        "w": 11,
+        "l": {},
+        "c": "Romans 8:17*31458",
+        "a": "m"
+    },
+    {
+        "o": 32213,
+        "r": "esv:2 Corinthians:1:8",
+        "w": 9,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i . In New Testament usage, depending on the context, the plural Greek word adelphoi*i (translated “brothers”) may refer either to brothers*i or to brothers*i and*i sisters*i",
+        "a": "n"
+    },
+    {
+        "o": 32213,
+        "r": "esv:2 Corinthians:1:8",
+        "w": 10,
+        "l": {},
+        "c": "Acts 19:23*30875; 1 Corinthians 15:32*32145",
+        "a": "o"
+    },
+    {
+        "o": 32214,
+        "r": "esv:2 Corinthians:1:9",
+        "w": 16,
+        "l": {},
+        "c": "Luke 18:9*28733",
+        "a": "p"
+    },
+    {
+        "o": 32214,
+        "r": "esv:2 Corinthians:1:9",
+        "w": 20,
+        "l": {},
+        "c": "Psalm 2:12*15354; Psalm 25:2*15718; Psalm 26:1*15742",
+        "a": "q"
+    },
+    {
+        "o": 32214,
+        "r": "esv:2 Corinthians:1:9",
+        "w": 23,
+        "l": {},
+        "c": "2 Corinthians 4:14*32287",
+        "a": "r"
+    },
+    {
+        "o": 32215,
+        "r": "esv:2 Corinthians:1:10",
+        "w": 0,
+        "l": {},
+        "c": "Romans 15:31*31684",
+        "a": "s"
+    },
+    {
+        "o": 32215,
+        "r": "esv:2 Corinthians:1:10",
+        "w": 12,
+        "l": {},
+        "c": "1 Timothy 4:10*33307",
+        "a": "t"
+    },
+    {
+        "o": 32216,
+        "r": "esv:2 Corinthians:1:11",
+        "w": 0,
+        "l": {},
+        "c": "Acts 12:5*30577; Romans 15:30*31683; Philippians 1:19*32867; Philemon 22*33542",
+        "a": "u"
+    },
+    {
+        "o": 32216,
+        "r": "esv:2 Corinthians:1:11",
+        "w": 15,
+        "l": {},
+        "c": "2 Corinthians 4:15*32288; 2 Corinthians 9:11–12*32394",
+        "a": "v"
+    },
+    {
+        "o": 32218,
+        "r": "esv:2 Corinthians:1:12",
+        "w": 4,
+        "l": {},
+        "c": "1 Thessalonians 2:10*33097; Acts 23:1*31015",
+        "a": "w"
+    },
+    {
+        "o": 32218,
+        "r": "esv:2 Corinthians:1:12",
+        "w": 17,
+        "l": {},
+        "t": "Some manuscripts holiness*i",
+        "a": "x"
+    },
+    {
+        "o": 32218,
+        "r": "esv:2 Corinthians:1:12",
+        "w": 18,
+        "l": {},
+        "c": "2 Corinthians 2:17*32250; 2 Corinthians 4:2*32274",
+        "a": "y"
+    },
+    {
+        "o": 32218,
+        "r": "esv:2 Corinthians:1:12",
+        "w": 20,
+        "l": {},
+        "c": "1 Corinthians 2:4*31758; 1 Corinthians 2:13*31768",
+        "a": "z"
+    },
+    {
+        "o": 32220,
+        "r": "esv:2 Corinthians:1:14",
+        "w": 3,
+        "l": {},
+        "c": "2 Corinthians 2:5*32237",
+        "a": "a"
+    },
+    {
+        "o": 32220,
+        "r": "esv:2 Corinthians:1:14",
+        "w": 7,
+        "l": {},
+        "c": "1 Corinthians 1:8*31727",
+        "a": "b"
+    },
+    {
+        "o": 32220,
+        "r": "esv:2 Corinthians:1:14",
+        "w": 14,
+        "l": {},
+        "c": "2 Corinthians 5:12*32306; 2 Corinthians 9:3*32385",
+        "a": "c"
+    },
+    {
+        "o": 32220,
+        "r": "esv:2 Corinthians:1:14",
+        "w": 20,
+        "l": {},
+        "c": "1 Corinthians 9:15*31933; Philippians 2:16*32897; Philippians 4:1*32939; 1 Thessalonians 2:19–20*33107",
+        "a": "d"
+    },
+    {
+        "o": 32221,
+        "r": "esv:2 Corinthians:1:15",
+        "w": 5,
+        "l": {},
+        "c": "1 Corinthians 4:19*31817",
+        "a": "e"
+    },
+    {
+        "o": 32221,
+        "r": "esv:2 Corinthians:1:15",
+        "w": 17,
+        "l": {},
+        "c": "Acts 18:1–18*30819",
+        "a": "f"
+    },
+    {
+        "o": 32221,
+        "r": "esv:2 Corinthians:1:15",
+        "w": 19,
+        "l": {},
+        "c": "Romans 1:11*31241",
+        "a": "g"
+    },
+    {
+        "o": 32222,
+        "r": "esv:2 Corinthians:1:16",
+        "w": 4,
+        "l": {},
+        "c": "Acts 19:21*30873; 1 Corinthians 16:5–7*32181",
+        "a": "h"
+    },
+    {
+        "o": 32223,
+        "r": "esv:2 Corinthians:1:17",
+        "w": 13,
+        "l": {},
+        "c": "2 Corinthians 10:2–3*32402",
+        "a": "i"
+    },
+    {
+        "o": 32224,
+        "r": "esv:2 Corinthians:1:18",
+        "w": 2,
+        "l": {},
+        "c": "1 Corinthians 1:9*31729",
+        "a": "j"
+    },
+    {
+        "o": 32224,
+        "r": "esv:2 Corinthians:1:18",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 2:17*32250",
+        "a": "k"
+    },
+    {
+        "o": 32225,
+        "r": "esv:2 Corinthians:1:19",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 14:33*26354",
+        "a": "l"
+    },
+    {
+        "o": 32225,
+        "r": "esv:2 Corinthians:1:19",
+        "w": 11,
+        "l": {},
+        "c": "Acts 15:22*30712",
+        "a": "m"
+    },
+    {
+        "o": 32225,
+        "r": "esv:2 Corinthians:1:19",
+        "w": 22,
+        "l": {},
+        "c": "Hebrews 13:8*33864",
+        "a": "n"
+    },
+    {
+        "o": 32226,
+        "r": "esv:2 Corinthians:1:20",
+        "w": 0,
+        "l": {},
+        "c": "Romans 15:8*31659; Hebrews 10:23*33763",
+        "a": "o"
+    },
+    {
+        "o": 32226,
+        "r": "esv:2 Corinthians:1:20",
+        "w": 21,
+        "l": {},
+        "c": "Revelation 3:14*34464; 1 Corinthians 14:16*32085",
+        "a": "p"
+    },
+    {
+        "o": 32227,
+        "r": "esv:2 Corinthians:1:21",
+        "w": 11,
+        "l": {},
+        "c": "1 John 2:20*34237; 1 John 2:27*34245",
+        "a": "q"
+    },
+    {
+        "o": 32228,
+        "r": "esv:2 Corinthians:1:22",
+        "w": 3,
+        "l": {},
+        "c": "Ephesians 1:13*32682; Ephesians 4:30*32775",
+        "a": "r"
+    },
+    {
+        "o": 32228,
+        "r": "esv:2 Corinthians:1:22",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 5:5*32298; Ephesians 1:14*32684; Romans 8:16*31456",
+        "a": "s"
+    },
+    {
+        "o": 32228,
+        "r": "esv:2 Corinthians:1:22",
+        "w": 19,
+        "l": {},
+        "t": "Or down*i payment*i",
+        "a": "t"
+    },
+    {
+        "o": 32229,
+        "r": "esv:2 Corinthians:1:23",
+        "w": 0,
+        "l": {},
+        "c": "Galatians 1:20*32519; Romans 1:9*31239",
+        "a": "u"
+    },
+    {
+        "o": 32229,
+        "r": "esv:2 Corinthians:1:23",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 2:1*32232; 2 Corinthians 2:3*32234; 1 Corinthians 4:21*31819",
+        "a": "v"
+    },
+    {
+        "o": 32230,
+        "r": "esv:2 Corinthians:1:24",
+        "w": 2,
+        "l": {},
+        "c": "1 Peter 5:3*34117; 2 Corinthians 4:5*32277; Matthew 23:8–10*26695",
+        "a": "w"
+    },
+    {
+        "o": 32230,
+        "r": "esv:2 Corinthians:1:24",
+        "w": 19,
+        "l": {},
+        "c": "Romans 11:20*31563; 1 Corinthians 15:1*32113",
+        "a": "x"
+    },
+    {
+        "o": 32232,
+        "r": "esv:2 Corinthians:2:1",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 1:23*32229; 2 Corinthians 12:20–21*32477; 2 Corinthians 13:10*32491",
+        "a": "a"
+    },
+    {
+        "o": 32233,
+        "r": "esv:2 Corinthians:2:2",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 7:8*32345",
+        "a": "b"
+    },
+    {
+        "o": 32234,
+        "r": "esv:2 Corinthians:2:3",
+        "w": 23,
+        "l": {},
+        "c": "2 Corinthians 8:22*32378; Galatians 5:10*32628; 2 Thessalonians 3:4*33217; 2 Corinthians 7:16*32353",
+        "a": "c"
+    },
+    {
+        "o": 32235,
+        "r": "esv:2 Corinthians:2:4",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 7:8*32345; 2 Corinthians 7:12*32349; Acts 20:19*30916",
+        "a": "d"
+    },
+    {
+        "o": 32237,
+        "r": "esv:2 Corinthians:2:5",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 5:1–2*31822",
+        "a": "e"
+    },
+    {
+        "o": 32237,
+        "r": "esv:2 Corinthians:2:5",
+        "w": 5,
+        "l": {},
+        "c": "Galatians 4:12*32596",
+        "a": "f"
+    },
+    {
+        "o": 32237,
+        "r": "esv:2 Corinthians:2:5",
+        "w": 13,
+        "l": {},
+        "c": "2 Corinthians 1:14*32220",
+        "a": "g"
+    },
+    {
+        "o": 32238,
+        "r": "esv:2 Corinthians:2:6",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 5:4–5*31825; 2 Corinthians 7:11*32348",
+        "a": "h"
+    },
+    {
+        "o": 32239,
+        "r": "esv:2 Corinthians:2:7",
+        "w": 0,
+        "l": {},
+        "c": "Galatians 6:1*32648; Ephesians 4:32*32777",
+        "a": "i"
+    },
+    {
+        "o": 32241,
+        "r": "esv:2 Corinthians:2:9",
+        "w": 8,
+        "l": {},
+        "c": "Philippians 2:22*32904",
+        "a": "j"
+    },
+    {
+        "o": 32241,
+        "r": "esv:2 Corinthians:2:9",
+        "w": 12,
+        "l": {},
+        "c": "2 Corinthians 7:15*32352; 2 Corinthians 10:6*32406",
+        "a": "k"
+    },
+    {
+        "o": 32243,
+        "r": "esv:2 Corinthians:2:11",
+        "w": 9,
+        "l": {},
+        "c": "1 Peter 5:8*34122",
+        "a": "l"
+    },
+    {
+        "o": 32245,
+        "r": "esv:2 Corinthians:2:12",
+        "w": 0,
+        "l": {},
+        "c": "Acts 16:8*30742; Acts 20:6*30902",
+        "a": "m"
+    },
+    {
+        "o": 32245,
+        "r": "esv:2 Corinthians:2:12",
+        "w": 12,
+        "l": {},
+        "c": "Acts 14:27*30686",
+        "a": "n"
+    },
+    {
+        "o": 32246,
+        "r": "esv:2 Corinthians:2:13",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 7:5*32342",
+        "a": "o"
+    },
+    {
+        "o": 32247,
+        "r": "esv:2 Corinthians:2:14",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 8:16*32372; 2 Corinthians 9:15*32398; Romans 6:17*31403",
+        "a": "p"
+    },
+    {
+        "o": 32247,
+        "r": "esv:2 Corinthians:2:14",
+        "w": 8,
+        "l": {},
+        "c": "Colossians 2:15*33015",
+        "a": "q"
+    },
+    {
+        "o": 32247,
+        "r": "esv:2 Corinthians:2:14",
+        "w": 17,
+        "l": {},
+        "c": "Ephesians 5:2*32781; Philippians 4:18*32957; Song of Solomon 1:3*19463",
+        "a": "r"
+    },
+    {
+        "o": 32248,
+        "r": "esv:2 Corinthians:2:15",
+        "w": 9,
+        "l": {},
+        "c": "1 Corinthians 1:18*31739",
+        "a": "s"
+    },
+    {
+        "o": 32248,
+        "r": "esv:2 Corinthians:2:15",
+        "w": 16,
+        "l": {},
+        "c": "2 Corinthians 4:3*32275",
+        "a": "t"
+    },
+    {
+        "o": 32249,
+        "r": "esv:2 Corinthians:2:16",
+        "w": 0,
+        "l": {},
+        "c": "Luke 2:34*27930; John 9:39*29605; 1 Peter 2:7–8*34046",
+        "a": "u"
+    },
+    {
+        "o": 32249,
+        "r": "esv:2 Corinthians:2:16",
+        "w": 7,
+        "l": {},
+        "c": "Luke 2:34*27930; John 9:39*29605; 1 Peter 2:7–8*34046",
+        "a": "v"
+    },
+    {
+        "o": 32249,
+        "r": "esv:2 Corinthians:2:16",
+        "w": 16,
+        "l": {},
+        "c": "2 Corinthians 3:5–6*32257",
+        "a": "w"
+    },
+    {
+        "o": 32253,
+        "r": "esv:2 Corinthians:3:1",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 5:12*32306; 2 Corinthians 10:12*32412; 2 Corinthians 12:11*32468",
+        "a": "a"
+    },
+    {
+        "o": 32253,
+        "r": "esv:2 Corinthians:3:1",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 11:4*32424",
+        "a": "b"
+    },
+    {
+        "o": 32253,
+        "r": "esv:2 Corinthians:3:1",
+        "w": 13,
+        "l": {},
+        "c": "Acts 18:27*30847; 1 Corinthians 16:3*32178",
+        "a": "c"
+    },
+    {
+        "o": 32254,
+        "r": "esv:2 Corinthians:3:2",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 9:2*31920",
+        "a": "d"
+    },
+    {
+        "o": 32254,
+        "r": "esv:2 Corinthians:3:2",
+        "w": 9,
+        "l": {},
+        "t": "Some manuscripts your*i",
+        "a": "e"
+    },
+    {
+        "o": 32255,
+        "r": "esv:2 Corinthians:3:3",
+        "w": 21,
+        "l": {},
+        "c": "Matthew 16:16*26422",
+        "a": "f"
+    },
+    {
+        "o": 32255,
+        "r": "esv:2 Corinthians:3:3",
+        "w": 26,
+        "l": {},
+        "c": "Exodus 24:12*2384",
+        "a": "g"
+    },
+    {
+        "o": 32255,
+        "r": "esv:2 Corinthians:3:3",
+        "w": 31,
+        "l": {},
+        "c": "Proverbs 3:3*18301; Proverbs 7:3*18431; Jeremiah 17:1*21543",
+        "a": "h"
+    },
+    {
+        "o": 32255,
+        "r": "esv:2 Corinthians:3:3",
+        "w": 33,
+        "l": {},
+        "c": "Ezekiel 11:19*22985; Ezekiel 36:26*23763; Jeremiah 31:33*21945; Hebrews 8:10*33703",
+        "a": "i"
+    },
+    {
+        "o": 32255,
+        "r": "esv:2 Corinthians:3:3",
+        "w": 35,
+        "l": {},
+        "t": "Greek fleshly*i hearts*i",
+        "a": "j"
+    },
+    {
+        "o": 32256,
+        "r": "esv:2 Corinthians:3:4",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 3:12*32732",
+        "a": "k"
+    },
+    {
+        "o": 32257,
+        "r": "esv:2 Corinthians:3:5",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 2:8*32703",
+        "a": "l"
+    },
+    {
+        "o": 32257,
+        "r": "esv:2 Corinthians:3:5",
+        "w": 14,
+        "l": {},
+        "c": "1 Corinthians 15:10*32122",
+        "a": "m"
+    },
+    {
+        "o": 32258,
+        "r": "esv:2 Corinthians:3:6",
+        "w": 6,
+        "l": {},
+        "c": "Ephesians 3:7*32727; Colossians 1:23*32991; Colossians 1:25*32993; 2 Corinthians 4:1*32273; 2 Corinthians 5:18*32312; 1 Timothy 1:12*33249",
+        "a": "n"
+    },
+    {
+        "o": 32258,
+        "r": "esv:2 Corinthians:3:6",
+        "w": 8,
+        "l": {},
+        "c": "Jeremiah 31:31*21943; Luke 22:20*28950; 1 Corinthians 11:25*32009; Hebrews 8:8*33701; Hebrews 8:13*33706; 2 Corinthians 3:14*32266; Hebrews 9:15*33724",
+        "a": "o"
+    },
+    {
+        "o": 32258,
+        "r": "esv:2 Corinthians:3:6",
+        "w": 13,
+        "l": {},
+        "c": "Romans 2:27*31294",
+        "a": "p"
+    },
+    {
+        "o": 32258,
+        "r": "esv:2 Corinthians:3:6",
+        "w": 24,
+        "l": {},
+        "c": "John 6:63*29431; Romans 8:2*31441",
+        "a": "q"
+    },
+    {
+        "o": 32259,
+        "r": "esv:2 Corinthians:3:7",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 3:9*32261; Romans 4:15*31349",
+        "a": "r"
+    },
+    {
+        "o": 32259,
+        "r": "esv:2 Corinthians:3:7",
+        "w": 14,
+        "l": {},
+        "c": "2 Corinthians 3:13*32265; Exodus 34:29–35*2753",
+        "a": "s"
+    },
+    {
+        "o": 32261,
+        "r": "esv:2 Corinthians:3:9",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 3:7*32259; Hebrews 12:18–21*33843",
+        "a": "t"
+    },
+    {
+        "o": 32261,
+        "r": "esv:2 Corinthians:3:9",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 11:15*32436",
+        "a": "u"
+    },
+    {
+        "o": 32264,
+        "r": "esv:2 Corinthians:3:12",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 7:4*32341; Ephesians 6:19*32836",
+        "a": "v"
+    },
+    {
+        "o": 32265,
+        "r": "esv:2 Corinthians:3:13",
+        "w": 2,
+        "l": {},
+        "c": "2 Corinthians 3:7*32259",
+        "a": "w"
+    },
+    {
+        "o": 32266,
+        "r": "esv:2 Corinthians:3:14",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 4:4*32276; Romans 11:25*31569",
+        "a": "x"
+    },
+    {
+        "o": 32266,
+        "r": "esv:2 Corinthians:3:14",
+        "w": 3,
+        "l": {},
+        "c": "Mark 6:52*27303",
+        "a": "y"
+    },
+    {
+        "o": 32266,
+        "r": "esv:2 Corinthians:3:14",
+        "w": 8,
+        "l": {},
+        "c": "Acts 13:15*30617; Acts 15:21*30711",
+        "a": "z"
+    },
+    {
+        "o": 32266,
+        "r": "esv:2 Corinthians:3:14",
+        "w": 11,
+        "l": {},
+        "c": "2 Corinthians 3:6*32258",
+        "a": "a"
+    },
+    {
+        "o": 32268,
+        "r": "esv:2 Corinthians:3:16",
+        "w": 1,
+        "l": {},
+        "c": "Romans 11:23*31566; Exodus 34:34*2758",
+        "a": "b"
+    },
+    {
+        "o": 32268,
+        "r": "esv:2 Corinthians:3:16",
+        "w": 2,
+        "l": {},
+        "t": "Greek he*i",
+        "a": "c"
+    },
+    {
+        "o": 32268,
+        "r": "esv:2 Corinthians:3:16",
+        "w": 6,
+        "l": {},
+        "c": "Isaiah 25:7*20161",
+        "a": "d"
+    },
+    {
+        "o": 32269,
+        "r": "esv:2 Corinthians:3:17",
+        "w": 2,
+        "l": {},
+        "t": "Or this*i Lord*i",
+        "a": "e"
+    },
+    {
+        "o": 32269,
+        "r": "esv:2 Corinthians:3:17",
+        "w": 7,
+        "l": {},
+        "c": "Isaiah 61:1–2*20972; Galatians 4:6*32589",
+        "a": "f"
+    },
+    {
+        "o": 32269,
+        "r": "esv:2 Corinthians:3:17",
+        "w": 15,
+        "l": {},
+        "c": "Galatians 5:1*32619; Galatians 5:13*32631; John 8:32*29535",
+        "a": "g"
+    },
+    {
+        "o": 32270,
+        "r": "esv:2 Corinthians:3:18",
+        "w": 5,
+        "l": {},
+        "c": "1 Corinthians 13:12*32066",
+        "a": "h"
+    },
+    {
+        "o": 32270,
+        "r": "esv:2 Corinthians:3:18",
+        "w": 6,
+        "l": {},
+        "c": "2 Corinthians 4:4*32276; 2 Corinthians 4:6*32279; 1 Timothy 1:11*33248; John 17:24*29945",
+        "a": "i"
+    },
+    {
+        "o": 32270,
+        "r": "esv:2 Corinthians:3:18",
+        "w": 11,
+        "l": {},
+        "t": "Or reflecting*i the*i glory*i of*i the*i Lord*i",
+        "a": "j"
+    },
+    {
+        "o": 32270,
+        "r": "esv:2 Corinthians:3:18",
+        "w": 11,
+        "l": {},
+        "c": "Romans 8:29*31470; 1 Corinthians 15:49*32164",
+        "a": "k"
+    },
+    {
+        "o": 32270,
+        "r": "esv:2 Corinthians:3:18",
+        "w": 18,
+        "l": {},
+        "c": "Psalm 84:7*16907",
+        "a": "l"
+    },
+    {
+        "o": 32270,
+        "r": "esv:2 Corinthians:3:18",
+        "w": 25,
+        "l": {},
+        "t": "Greek from*i glory*i to*i glory*i",
+        "a": "m"
+    },
+    {
+        "o": 32273,
+        "r": "esv:2 Corinthians:4:1",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 3:6*32258",
+        "a": "a"
+    },
+    {
+        "o": 32273,
+        "r": "esv:2 Corinthians:4:1",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 7:25*31886; 1 Timothy 1:13*33250",
+        "a": "b"
+    },
+    {
+        "o": 32273,
+        "r": "esv:2 Corinthians:4:1",
+        "w": 8,
+        "l": {},
+        "t": "Greek having*i this*i ministry*i as*i we*i have*i received*i mercy*i",
+        "a": "c"
+    },
+    {
+        "o": 32274,
+        "r": "esv:2 Corinthians:4:2",
+        "w": 3,
+        "l": {},
+        "c": "Romans 6:21*31407",
+        "a": "d"
+    },
+    {
+        "o": 32274,
+        "r": "esv:2 Corinthians:4:2",
+        "w": 10,
+        "l": {},
+        "t": "Greek to*i walk*i in*i",
+        "a": "e"
+    },
+    {
+        "o": 32274,
+        "r": "esv:2 Corinthians:4:2",
+        "w": 12,
+        "l": {},
+        "c": "2 Corinthians 2:17*32250",
+        "a": "f"
+    },
+    {
+        "o": 32274,
+        "r": "esv:2 Corinthians:4:2",
+        "w": 18,
+        "l": {},
+        "c": "2 Corinthians 6:7*32323; 2 Corinthians 7:14*32351",
+        "a": "g"
+    },
+    {
+        "o": 32274,
+        "r": "esv:2 Corinthians:4:2",
+        "w": 25,
+        "l": {},
+        "c": "2 Corinthians 5:11–12*32305",
+        "a": "h"
+    },
+    {
+        "o": 32275,
+        "r": "esv:2 Corinthians:4:3",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 3:14*32266",
+        "a": "i"
+    },
+    {
+        "o": 32275,
+        "r": "esv:2 Corinthians:4:3",
+        "w": 6,
+        "l": {},
+        "c": "Matthew 13:15*26263",
+        "a": "j"
+    },
+    {
+        "o": 32275,
+        "r": "esv:2 Corinthians:4:3",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 2:15*32248; 1 Corinthians 1:18*31739; 2 Thessalonians 2:10*33203",
+        "a": "k"
+    },
+    {
+        "o": 32276,
+        "r": "esv:2 Corinthians:4:4",
+        "w": 2,
+        "l": {},
+        "c": "John 12:31*29752",
+        "a": "l"
+    },
+    {
+        "o": 32276,
+        "r": "esv:2 Corinthians:4:4",
+        "w": 7,
+        "l": {},
+        "c": "2 Corinthians 4:3*32275",
+        "a": "m"
+    },
+    {
+        "o": 32276,
+        "r": "esv:2 Corinthians:4:4",
+        "w": 19,
+        "l": {},
+        "c": "2 Corinthians 4:6*32279; Acts 26:18*31131",
+        "a": "n"
+    },
+    {
+        "o": 32276,
+        "r": "esv:2 Corinthians:4:4",
+        "w": 22,
+        "l": {},
+        "c": "2 Corinthians 3:18*32270",
+        "a": "o"
+    },
+    {
+        "o": 32276,
+        "r": "esv:2 Corinthians:4:4",
+        "w": 29,
+        "l": {},
+        "c": "Colossians 1:15*32982; Philippians 2:6*32886; Hebrews 1:3*33550",
+        "a": "p"
+    },
+    {
+        "o": 32277,
+        "r": "esv:2 Corinthians:4:5",
+        "w": 1,
+        "l": {},
+        "c": "1 Thessalonians 2:6*33093",
+        "a": "q"
+    },
+    {
+        "o": 32277,
+        "r": "esv:2 Corinthians:4:5",
+        "w": 12,
+        "l": {},
+        "c": "1 Corinthians 9:19*31937; 2 Corinthians 1:24*32230",
+        "a": "r"
+    },
+    {
+        "o": 32277,
+        "r": "esv:2 Corinthians:4:5",
+        "w": 16,
+        "l": {},
+        "t": "Or slaves*i (for the contextual rendering of the Greek word doulos*i , see Preface )",
+        "a": "s"
+    },
+    {
+        "o": 32278,
+        "r": "esv:2 Corinthians:4:6",
+        "w": 3,
+        "l": {},
+        "c": "Genesis 1:3*5",
+        "a": "t"
+    },
+    {
+        "o": 32278,
+        "r": "esv:2 Corinthians:4:6",
+        "w": 9,
+        "l": {},
+        "c": "2 Peter 1:19*34152",
+        "a": "u"
+    },
+    {
+        "o": 32278,
+        "r": "esv:2 Corinthians:4:6",
+        "w": 16,
+        "l": {},
+        "c": "2 Corinthians 4:4*32276",
+        "a": "v"
+    },
+    {
+        "o": 32280,
+        "r": "esv:2 Corinthians:4:7",
+        "w": 5,
+        "l": {},
+        "c": "2 Timothy 2:20*33409; 2 Corinthians 5:1*32294; Job 10:9*14424; Job 13:12*14500; Lamentations 4:2*22707; 1 Thessalonians 4:4*33129; 1 Peter 3:7*34075",
+        "a": "w"
+    },
+    {
+        "o": 32280,
+        "r": "esv:2 Corinthians:4:7",
+        "w": 8,
+        "l": {},
+        "c": "1 Corinthians 2:5*31760; Judges 7:2*7326",
+        "a": "x"
+    },
+    {
+        "o": 32281,
+        "r": "esv:2 Corinthians:4:8",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 7:5*32342; Psalm 129:2*17914",
+        "a": "y"
+    },
+    {
+        "o": 32282,
+        "r": "esv:2 Corinthians:4:9",
+        "w": 1,
+        "l": {},
+        "c": "Hebrews 13:5*33861; Deuteronomy 4:31*5486",
+        "a": "z"
+    },
+    {
+        "o": 32282,
+        "r": "esv:2 Corinthians:4:9",
+        "w": 3,
+        "l": {},
+        "c": "Psalm 37:24*15974; Proverbs 24:16*18970; Micah 7:8*25222",
+        "a": "a"
+    },
+    {
+        "o": 32283,
+        "r": "esv:2 Corinthians:4:10",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 6:9*32325; 1 Corinthians 4:9*31807; 1 Corinthians 15:31*32144; 2 Corinthians 1:5*32210; 2 Corinthians 1:9*32214; Romans 6:5*31390; Romans 8:36*31478",
+        "a": "b"
+    },
+    {
+        "o": 32283,
+        "r": "esv:2 Corinthians:4:10",
+        "w": 8,
+        "l": {},
+        "c": "2 Timothy 2:11*33399; Romans 5:10*31371; Romans 6:8*31393",
+        "a": "c"
+    },
+    {
+        "o": 32285,
+        "r": "esv:2 Corinthians:4:12",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 13:9*32489",
+        "a": "d"
+    },
+    {
+        "o": 32286,
+        "r": "esv:2 Corinthians:4:13",
+        "w": 2,
+        "l": {},
+        "c": "1 Corinthians 12:9*32029; 2 Peter 1:1*34132",
+        "a": "e"
+    },
+    {
+        "o": 32286,
+        "r": "esv:2 Corinthians:4:13",
+        "w": 13,
+        "l": {},
+        "c": "Psalm 116:10*17580",
+        "a": "f"
+    },
+    {
+        "o": 32287,
+        "r": "esv:2 Corinthians:4:14",
+        "w": 1,
+        "l": {},
+        "c": "1 Thessalonians 4:14*33140; Acts 2:24*30167",
+        "a": "g"
+    },
+    {
+        "o": 32287,
+        "r": "esv:2 Corinthians:4:14",
+        "w": 7,
+        "l": {},
+        "c": "2 Corinthians 1:9*32214",
+        "a": "h"
+    },
+    {
+        "o": 32287,
+        "r": "esv:2 Corinthians:4:14",
+        "w": 14,
+        "l": {},
+        "c": "Jude 24*34387",
+        "a": "i"
+    },
+    {
+        "o": 32288,
+        "r": "esv:2 Corinthians:4:15",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 1:6*32211; Romans 8:28*31469",
+        "a": "j"
+    },
+    {
+        "o": 32288,
+        "r": "esv:2 Corinthians:4:15",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 1:11*32217; 2 Corinthians 9:11–12*32394",
+        "a": "k"
+    },
+    {
+        "o": 32288,
+        "r": "esv:2 Corinthians:4:15",
+        "w": 20,
+        "l": {},
+        "c": "2 Corinthians 8:19*32375",
+        "a": "l"
+    },
+    {
+        "o": 32289,
+        "r": "esv:2 Corinthians:4:16",
+        "w": 5,
+        "l": {},
+        "c": "Acts 20:24*30921",
+        "a": "m"
+    },
+    {
+        "o": 32289,
+        "r": "esv:2 Corinthians:4:16",
+        "w": 9,
+        "l": {},
+        "t": "Greek man*i",
+        "a": "n"
+    },
+    {
+        "o": 32289,
+        "r": "esv:2 Corinthians:4:16",
+        "w": 12,
+        "l": {},
+        "c": "Romans 7:22*31434",
+        "a": "o"
+    },
+    {
+        "o": 32289,
+        "r": "esv:2 Corinthians:4:16",
+        "w": 15,
+        "l": {},
+        "c": "Isaiah 40:30–31*20524; Romans 12:2*31585",
+        "a": "p"
+    },
+    {
+        "o": 32290,
+        "r": "esv:2 Corinthians:4:17",
+        "w": 0,
+        "l": {},
+        "c": "Romans 8:18*31459; 1 Peter 1:6*34017; 1 Peter 5:10*34124; Psalm 30:5*15804; Isaiah 54:7*20841",
+        "a": "q"
+    },
+    {
+        "o": 32291,
+        "r": "esv:2 Corinthians:4:18",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 5:7*32300; Romans 8:24*31465; Hebrews 11:1*33782; Hebrews 11:13*33794",
+        "a": "r"
+    },
+    {
+        "o": 32294,
+        "r": "esv:2 Corinthians:5:1",
+        "w": 4,
+        "l": {},
+        "c": "2 Peter 1:13–14*34145",
+        "a": "a"
+    },
+    {
+        "o": 32294,
+        "r": "esv:2 Corinthians:5:1",
+        "w": 8,
+        "l": {},
+        "c": "2 Corinthians 4:7*32280",
+        "a": "b"
+    },
+    {
+        "o": 32294,
+        "r": "esv:2 Corinthians:5:1",
+        "w": 19,
+        "l": {},
+        "c": "Mark 14:58*27710",
+        "a": "c"
+    },
+    {
+        "o": 32295,
+        "r": "esv:2 Corinthians:5:2",
+        "w": 3,
+        "l": {},
+        "c": "Romans 8:23*31464",
+        "a": "d"
+    },
+    {
+        "o": 32295,
+        "r": "esv:2 Corinthians:5:2",
+        "w": 7,
+        "l": {},
+        "c": "1 Corinthians 15:53–54*32168",
+        "a": "e"
+    },
+    {
+        "o": 32296,
+        "r": "esv:2 Corinthians:5:3",
+        "w": 5,
+        "l": {},
+        "t": "Some manuscripts putting*i it*i off*i",
+        "a": "f"
+    },
+    {
+        "o": 32297,
+        "r": "esv:2 Corinthians:5:4",
+        "w": 29,
+        "l": {},
+        "c": "1 Corinthians 15:54*32169",
+        "a": "g"
+    },
+    {
+        "o": 32298,
+        "r": "esv:2 Corinthians:5:5",
+        "w": 10,
+        "l": {},
+        "c": "Romans 8:23*31464; 2 Corinthians 1:22*32228",
+        "a": "h"
+    },
+    {
+        "o": 32299,
+        "r": "esv:2 Corinthians:5:6",
+        "w": 9,
+        "l": {},
+        "c": "Hebrews 11:13–14*33794",
+        "a": "i"
+    },
+    {
+        "o": 32300,
+        "r": "esv:2 Corinthians:5:7",
+        "w": 0,
+        "l": {},
+        "c": "John 20:29*30079; 2 Corinthians 4:18*32291",
+        "a": "j"
+    },
+    {
+        "o": 32300,
+        "r": "esv:2 Corinthians:5:7",
+        "w": 5,
+        "l": {},
+        "c": "1 Corinthians 13:12*32066",
+        "a": "k"
+    },
+    {
+        "o": 32301,
+        "r": "esv:2 Corinthians:5:8",
+        "w": 7,
+        "l": {},
+        "c": "Philippians 1:23*32871",
+        "a": "l"
+    },
+    {
+        "o": 32302,
+        "r": "esv:2 Corinthians:5:9",
+        "w": 13,
+        "l": {},
+        "c": "Colossians 1:10*32976; 1 Thessalonians 4:1*33126",
+        "a": "m"
+    },
+    {
+        "o": 32303,
+        "r": "esv:2 Corinthians:5:10",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 25:31–32*26819; Romans 14:10*31634; Acts 10:42*30529",
+        "a": "n"
+    },
+    {
+        "o": 32303,
+        "r": "esv:2 Corinthians:5:10",
+        "w": 10,
+        "l": {},
+        "c": "Psalm 62:12*16414",
+        "a": "o"
+    },
+    {
+        "o": 32305,
+        "r": "esv:2 Corinthians:5:11",
+        "w": 1,
+        "l": {},
+        "c": "Job 31:23*14980; Acts 9:31*30470; Hebrews 10:31*33771; Jude 23*34386",
+        "a": "p"
+    },
+    {
+        "o": 32305,
+        "r": "esv:2 Corinthians:5:11",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 4:2*32274",
+        "a": "q"
+    },
+    {
+        "o": 32306,
+        "r": "esv:2 Corinthians:5:12",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 3:1*32253",
+        "a": "r"
+    },
+    {
+        "o": 32306,
+        "r": "esv:2 Corinthians:5:12",
+        "w": 8,
+        "l": {},
+        "c": "2 Corinthians 1:14*32220",
+        "a": "s"
+    },
+    {
+        "o": 32307,
+        "r": "esv:2 Corinthians:5:13",
+        "w": 2,
+        "l": {},
+        "c": "2 Corinthians 11:1*32421; 2 Corinthians 11:16–17*32437; 2 Corinthians 12:6*32462; 2 Corinthians 12:11*32468",
+        "a": "t"
+    },
+    {
+        "o": 32308,
+        "r": "esv:2 Corinthians:5:14",
+        "w": 4,
+        "l": {},
+        "c": "Acts 18:5*30823",
+        "a": "u"
+    },
+    {
+        "o": 32308,
+        "r": "esv:2 Corinthians:5:14",
+        "w": 12,
+        "l": {},
+        "c": "Romans 5:15*31377",
+        "a": "v"
+    },
+    {
+        "o": 32309,
+        "r": "esv:2 Corinthians:5:15",
+        "w": 4,
+        "l": {},
+        "c": "Romans 6:11–12*31396; Romans 14:7*31631",
+        "a": "w"
+    },
+    {
+        "o": 32309,
+        "r": "esv:2 Corinthians:5:15",
+        "w": 15,
+        "l": {},
+        "c": "2 Corinthians 12:10*32467",
+        "a": "x"
+    },
+    {
+        "o": 32310,
+        "r": "esv:2 Corinthians:5:16",
+        "w": 3,
+        "l": {},
+        "c": "Galatians 2:6*32531; Philippians 3:7–8*32921; Colossians 2:11*33010; 1 Timothy 5:21*33336",
+        "a": "y"
+    },
+    {
+        "o": 32311,
+        "r": "esv:2 Corinthians:5:17",
+        "w": 3,
+        "l": {},
+        "c": "2 Corinthians 12:2*32458; Romans 16:7*31695; Galatians 1:22*32521",
+        "a": "z"
+    },
+    {
+        "o": 32311,
+        "r": "esv:2 Corinthians:5:17",
+        "w": 7,
+        "l": {},
+        "c": "John 3:3*29220; Romans 6:4*31389",
+        "a": "a"
+    },
+    {
+        "o": 32311,
+        "r": "esv:2 Corinthians:5:17",
+        "w": 10,
+        "l": {},
+        "t": "Or creature*i",
+        "a": "b"
+    },
+    {
+        "o": 32311,
+        "r": "esv:2 Corinthians:5:17",
+        "w": 10,
+        "l": {},
+        "c": "Isaiah 43:18–19*20606; Revelation 21:5*34809; Isaiah 65:17*21052; Ephesians 2:15*32711; Ephesians 4:24*32769; Hebrews 8:13*33706",
+        "a": "c"
+    },
+    {
+        "o": 32312,
+        "r": "esv:2 Corinthians:5:18",
+        "w": 4,
+        "l": {},
+        "c": "Colossians 1:20*32987; Romans 5:10*31371; 1 John 2:2*34216",
+        "a": "d"
+    },
+    {
+        "o": 32312,
+        "r": "esv:2 Corinthians:5:18",
+        "w": 14,
+        "l": {},
+        "c": "Romans 5:11*31373",
+        "a": "e"
+    },
+    {
+        "o": 32313,
+        "r": "esv:2 Corinthians:5:19",
+        "w": 6,
+        "l": {},
+        "t": "Or God*i was*i in*i Christ,*i reconciling*i",
+        "a": "f"
+    },
+    {
+        "o": 32313,
+        "r": "esv:2 Corinthians:5:19",
+        "w": 10,
+        "l": {},
+        "c": "Psalm 32:2*15843; Romans 4:8*31341",
+        "a": "g"
+    },
+    {
+        "o": 32313,
+        "r": "esv:2 Corinthians:5:19",
+        "w": 20,
+        "l": {},
+        "c": "2 Corinthians 5:18*32312",
+        "a": "h"
+    },
+    {
+        "o": 32314,
+        "r": "esv:2 Corinthians:5:20",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 6:20*32838; Malachi 2:7*25734; Galatians 4:14*32598",
+        "a": "i"
+    },
+    {
+        "o": 32314,
+        "r": "esv:2 Corinthians:5:20",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 6:1*32317",
+        "a": "j"
+    },
+    {
+        "o": 32315,
+        "r": "esv:2 Corinthians:5:21",
+        "w": 0,
+        "l": {},
+        "c": "Romans 8:3*31442; Galatians 3:13*32564; Romans 4:25*31359",
+        "a": "k"
+    },
+    {
+        "o": 32315,
+        "r": "esv:2 Corinthians:5:21",
+        "w": 8,
+        "l": {},
+        "c": "1 Peter 2:22*34062",
+        "a": "l"
+    },
+    {
+        "o": 32315,
+        "r": "esv:2 Corinthians:5:21",
+        "w": 19,
+        "l": {},
+        "c": "Romans 1:17*31249; 1 Corinthians 1:30*31751",
+        "a": "m"
+    },
+    {
+        "o": 32317,
+        "r": "esv:2 Corinthians:6:1",
+        "w": 0,
+        "l": {},
+        "c": "Mark 16:20*27804; 1 Corinthians 3:9*31782; Acts 15:4*30693",
+        "a": "a"
+    },
+    {
+        "o": 32317,
+        "r": "esv:2 Corinthians:6:1",
+        "w": 4,
+        "l": {},
+        "c": "2 Corinthians 5:20*32314",
+        "a": "b"
+    },
+    {
+        "o": 32317,
+        "r": "esv:2 Corinthians:6:1",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 12:15*33839",
+        "a": "c"
+    },
+    {
+        "o": 32318,
+        "r": "esv:2 Corinthians:6:2",
+        "w": 2,
+        "l": {},
+        "c": "Isaiah 49:8*20745",
+        "a": "d"
+    },
+    {
+        "o": 32318,
+        "r": "esv:2 Corinthians:6:2",
+        "w": 21,
+        "l": {},
+        "c": "Psalm 32:6*15847; Psalm 69:13*16544; Isaiah 55:6*20859; Hebrews 3:13*33598",
+        "a": "e"
+    },
+    {
+        "o": 32318,
+        "r": "esv:2 Corinthians:6:2",
+        "w": 24,
+        "l": {},
+        "c": "Luke 4:19*28014",
+        "a": "f"
+    },
+    {
+        "o": 32319,
+        "r": "esv:2 Corinthians:6:3",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 8:13*31916; 1 Corinthians 9:12*31930",
+        "a": "g"
+    },
+    {
+        "o": 32320,
+        "r": "esv:2 Corinthians:6:4",
+        "w": 0,
+        "l": {},
+        "c": "1 Thessalonians 3:2*33111; 2 Timothy 2:24–25*33413; 2 Corinthians 3:6*32258",
+        "a": "h"
+    },
+    {
+        "o": 32320,
+        "r": "esv:2 Corinthians:6:4",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 12:12*32469; 2 Timothy 3:10*33428",
+        "a": "i"
+    },
+    {
+        "o": 32320,
+        "r": "esv:2 Corinthians:6:4",
+        "w": 13,
+        "l": {},
+        "c": "Acts 9:16*30450",
+        "a": "j"
+    },
+    {
+        "o": 32320,
+        "r": "esv:2 Corinthians:6:4",
+        "w": 15,
+        "l": {},
+        "c": "2 Corinthians 12:10*32467",
+        "a": "k"
+    },
+    {
+        "o": 32321,
+        "r": "esv:2 Corinthians:6:5",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 11:23–27*32444; Acts 16:23*30759",
+        "a": "l"
+    },
+    {
+        "o": 32321,
+        "r": "esv:2 Corinthians:6:5",
+        "w": 1,
+        "l": {},
+        "c": "Acts 17:5*30784",
+        "a": "m"
+    },
+    {
+        "o": 32322,
+        "r": "esv:2 Corinthians:6:6",
+        "w": 0,
+        "l": {},
+        "c": "1 Thessalonians 2:10*33097",
+        "a": "n"
+    },
+    {
+        "o": 32322,
+        "r": "esv:2 Corinthians:6:6",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 11:6*32426",
+        "a": "o"
+    },
+    {
+        "o": 32322,
+        "r": "esv:2 Corinthians:6:6",
+        "w": 4,
+        "l": {},
+        "c": "Romans 15:19*31671; 1 Thessalonians 1:5*33080",
+        "a": "p"
+    },
+    {
+        "o": 32322,
+        "r": "esv:2 Corinthians:6:6",
+        "w": 7,
+        "l": {},
+        "c": "Romans 12:9*31593; James 3:17*33963",
+        "a": "q"
+    },
+    {
+        "o": 32323,
+        "r": "esv:2 Corinthians:6:7",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 1:13*32682; Colossians 1:5*32971",
+        "a": "r"
+    },
+    {
+        "o": 32323,
+        "r": "esv:2 Corinthians:6:7",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 2:5*31760",
+        "a": "s"
+    },
+    {
+        "o": 32323,
+        "r": "esv:2 Corinthians:6:7",
+        "w": 8,
+        "l": {},
+        "c": "2 Corinthians 10:4*32404; Ephesians 6:11–17*32828",
+        "a": "t"
+    },
+    {
+        "o": 32324,
+        "r": "esv:2 Corinthians:6:8",
+        "w": 3,
+        "l": {},
+        "c": "Romans 3:8*31307",
+        "a": "u"
+    },
+    {
+        "o": 32325,
+        "r": "esv:2 Corinthians:6:9",
+        "w": 2,
+        "l": {},
+        "c": "2 Corinthians 11:6*32426",
+        "a": "v"
+    },
+    {
+        "o": 32325,
+        "r": "esv:2 Corinthians:6:9",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 4:10*32283",
+        "a": "w"
+    },
+    {
+        "o": 32325,
+        "r": "esv:2 Corinthians:6:9",
+        "w": 11,
+        "l": {},
+        "c": "Psalm 118:18*17613",
+        "a": "x"
+    },
+    {
+        "o": 32326,
+        "r": "esv:2 Corinthians:6:10",
+        "w": 0,
+        "l": {},
+        "c": "John 16:22*29907; 2 Corinthians 7:4*32341",
+        "a": "y"
+    },
+    {
+        "o": 32326,
+        "r": "esv:2 Corinthians:6:10",
+        "w": 4,
+        "l": {},
+        "c": "2 Corinthians 8:9*32364; Proverbs 13:7*18617; 1 Corinthians 1:5*31724",
+        "a": "z"
+    },
+    {
+        "o": 32326,
+        "r": "esv:2 Corinthians:6:10",
+        "w": 10,
+        "l": {},
+        "c": "Acts 3:6*30199",
+        "a": "a"
+    },
+    {
+        "o": 32326,
+        "r": "esv:2 Corinthians:6:10",
+        "w": 13,
+        "l": {},
+        "c": "1 Corinthians 7:30*31891",
+        "a": "b"
+    },
+    {
+        "o": 32327,
+        "r": "esv:2 Corinthians:6:11",
+        "w": 5,
+        "l": {},
+        "t": "Greek Our*i mouth*i is*i open*i to*i you*i",
+        "a": "c"
+    },
+    {
+        "o": 32327,
+        "r": "esv:2 Corinthians:6:11",
+        "w": 6,
+        "l": {},
+        "c": "2 Corinthians 7:3*32340; 2 Corinthians 11:11*32431; 2 Corinthians 12:15*32472; Psalm 119:32*17663",
+        "a": "d"
+    },
+    {
+        "o": 32328,
+        "r": "esv:2 Corinthians:6:12",
+        "w": 6,
+        "l": {},
+        "c": "2 Corinthians 7:2*32339",
+        "a": "e"
+    },
+    {
+        "o": 32329,
+        "r": "esv:2 Corinthians:6:13",
+        "w": 0,
+        "l": {},
+        "c": "Galatians 4:12*32596",
+        "a": "f"
+    },
+    {
+        "o": 32329,
+        "r": "esv:2 Corinthians:6:13",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 4:14*31812",
+        "a": "g"
+    },
+    {
+        "o": 32331,
+        "r": "esv:2 Corinthians:6:14",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 7:3*5573; Joshua 23:12*7075; Ezra 9:2*13480; Nehemiah 13:25*13978; 1 Corinthians 7:39*31900",
+        "a": "h"
+    },
+    {
+        "o": 32331,
+        "r": "esv:2 Corinthians:6:14",
+        "w": 7,
+        "l": {},
+        "c": "Ephesians 5:7*32786; Ephesians 5:11*32790; 1 John 1:6*34208",
+        "a": "i"
+    },
+    {
+        "o": 32331,
+        "r": "esv:2 Corinthians:6:14",
+        "w": 14,
+        "l": {},
+        "c": "Acts 26:18*31131",
+        "a": "j"
+    },
+    {
+        "o": 32332,
+        "r": "esv:2 Corinthians:6:15",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 10:21*31968",
+        "a": "k"
+    },
+    {
+        "o": 32332,
+        "r": "esv:2 Corinthians:6:15",
+        "w": 5,
+        "l": {},
+        "t": "Greek Beliar*i",
+        "a": "l"
+    },
+    {
+        "o": 32333,
+        "r": "esv:2 Corinthians:6:16",
+        "w": 9,
+        "l": {},
+        "c": "Ephesians 2:22*32718; 1 Corinthians 3:16*31789",
+        "a": "m"
+    },
+    {
+        "o": 32333,
+        "r": "esv:2 Corinthians:6:16",
+        "w": 20,
+        "l": {},
+        "c": "Leviticus 26:12*3855; Exodus 29:45*2591",
+        "a": "n"
+    },
+    {
+        "o": 32333,
+        "r": "esv:2 Corinthians:6:16",
+        "w": 28,
+        "l": {},
+        "c": "Revelation 2:1*34415; Revelation 21:3*34807",
+        "a": "o"
+    },
+    {
+        "o": 32333,
+        "r": "esv:2 Corinthians:6:16",
+        "w": 32,
+        "l": {},
+        "c": "Exodus 6:7*1804; Jeremiah 31:33*21945; Ezekiel 11:20*22986",
+        "a": "p"
+    },
+    {
+        "o": 32334,
+        "r": "esv:2 Corinthians:6:17",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 52:11*20814; 2 Corinthians 7:1*32338; Ezekiel 20:34*23261; Ezekiel 20:41*23268; Zephaniah 3:20*25416; Revelation 18:4*34738",
+        "a": "q"
+    },
+    {
+        "o": 32335,
+        "r": "esv:2 Corinthians:6:18",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 4:22*1761; 2 Samuel 7:8*8972; 2 Samuel 7:14*8978; Isaiah 43:6*20594; Jeremiah 31:9*21920; Hosea 1:10*24561; Revelation 21:7*34811",
+        "a": "r"
+    },
+    {
+        "o": 32337,
+        "r": "esv:2 Corinthians:7:1",
+        "w": 5,
+        "l": {},
+        "c": "1 Peter 2:11*34050; 1 John 3:3*34251",
+        "a": "a"
+    },
+    {
+        "o": 32337,
+        "r": "esv:2 Corinthians:7:1",
+        "w": 14,
+        "l": {},
+        "t": "Greek flesh*i",
+        "a": "b"
+    },
+    {
+        "o": 32339,
+        "r": "esv:2 Corinthians:7:2",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 6:12–13*32328",
+        "a": "c"
+    },
+    {
+        "o": 32339,
+        "r": "esv:2 Corinthians:7:2",
+        "w": 4,
+        "l": {},
+        "t": "Greek lacks in*i your*i hearts*i",
+        "a": "d"
+    },
+    {
+        "o": 32339,
+        "r": "esv:2 Corinthians:7:2",
+        "w": 6,
+        "l": {},
+        "c": "Acts 20:33*30930; 2 Corinthians 11:20*32441",
+        "a": "e"
+    },
+    {
+        "o": 32340,
+        "r": "esv:2 Corinthians:7:3",
+        "w": 12,
+        "l": {},
+        "c": "2 Corinthians 6:11–13*32327",
+        "a": "f"
+    },
+    {
+        "o": 32341,
+        "r": "esv:2 Corinthians:7:4",
+        "w": 3,
+        "l": {},
+        "c": "2 Corinthians 3:12*32264",
+        "a": "g"
+    },
+    {
+        "o": 32341,
+        "r": "esv:2 Corinthians:7:4",
+        "w": 7,
+        "l": {},
+        "c": "2 Corinthians 1:12*32218; 2 Corinthians 8:24*32380; 2 Corinthians 9:2*32384",
+        "a": "h"
+    },
+    {
+        "o": 32341,
+        "r": "esv:2 Corinthians:7:4",
+        "w": 13,
+        "l": {},
+        "c": "2 Corinthians 1:4*32209; Philippians 2:17*32898; Colossians 1:24*32992; 2 Corinthians 6:10*32326",
+        "a": "i"
+    },
+    {
+        "o": 32342,
+        "r": "esv:2 Corinthians:7:5",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 2:13*32246",
+        "a": "j"
+    },
+    {
+        "o": 32342,
+        "r": "esv:2 Corinthians:7:5",
+        "w": 18,
+        "l": {},
+        "c": "Deuteronomy 32:25*6318; Lamentations 1:20*22609",
+        "a": "k"
+    },
+    {
+        "o": 32343,
+        "r": "esv:2 Corinthians:7:6",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 1:4*32209",
+        "a": "l"
+    },
+    {
+        "o": 32343,
+        "r": "esv:2 Corinthians:7:6",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 7:13*32350; 1 Thessalonians 3:6–7*33116",
+        "a": "m"
+    },
+    {
+        "o": 32345,
+        "r": "esv:2 Corinthians:7:8",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 2:2*32233",
+        "a": "n"
+    },
+    {
+        "o": 32345,
+        "r": "esv:2 Corinthians:7:8",
+        "w": 15,
+        "l": {},
+        "c": "2 Corinthians 2:4*32236",
+        "a": "o"
+    },
+    {
+        "o": 32346,
+        "r": "esv:2 Corinthians:7:9",
+        "w": 10,
+        "l": {},
+        "c": "Psalm 38:18*16011; 1 Corinthians 5:2*31823",
+        "a": "p"
+    },
+    {
+        "o": 32347,
+        "r": "esv:2 Corinthians:7:10",
+        "w": 0,
+        "l": {},
+        "c": "2 Samuel 12:13*9095; Acts 11:18*30557",
+        "a": "q"
+    },
+    {
+        "o": 32347,
+        "r": "esv:2 Corinthians:7:10",
+        "w": 12,
+        "l": {},
+        "c": "Proverbs 17:22*18762",
+        "a": "r"
+    },
+    {
+        "o": 32348,
+        "r": "esv:2 Corinthians:7:11",
+        "w": 23,
+        "l": {},
+        "c": "2 Corinthians 2:6*32238",
+        "a": "s"
+    },
+    {
+        "o": 32349,
+        "r": "esv:2 Corinthians:7:12",
+        "w": 14,
+        "l": {},
+        "c": "1 Corinthians 5:1–2*31822",
+        "a": "t"
+    },
+    {
+        "o": 32350,
+        "r": "esv:2 Corinthians:7:13",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 7:6*32343",
+        "a": "u"
+    },
+    {
+        "o": 32350,
+        "r": "esv:2 Corinthians:7:13",
+        "w": 20,
+        "l": {},
+        "c": "Romans 15:32*31685",
+        "a": "v"
+    },
+    {
+        "o": 32351,
+        "r": "esv:2 Corinthians:7:14",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 8:24*32380; 2 Corinthians 9:2*32384; 2 Corinthians 10:8*32408; 2 Thessalonians 1:4*33183",
+        "a": "w"
+    },
+    {
+        "o": 32351,
+        "r": "esv:2 Corinthians:7:14",
+        "w": 22,
+        "l": {},
+        "c": "2 Corinthians 4:2*32274; 2 Corinthians 6:7*32323",
+        "a": "x"
+    },
+    {
+        "o": 32352,
+        "r": "esv:2 Corinthians:7:15",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 2:9*32241; 2 Corinthians 10:6*32406",
+        "a": "y"
+    },
+    {
+        "o": 32353,
+        "r": "esv:2 Corinthians:7:16",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 2:3*32234",
+        "a": "z"
+    },
+    {
+        "o": 32356,
+        "r": "esv:2 Corinthians:8:1",
+        "w": 5,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i",
+        "a": "a"
+    },
+    {
+        "o": 32356,
+        "r": "esv:2 Corinthians:8:1",
+        "w": 13,
+        "l": {},
+        "c": "2 Corinthians 8:5*32360",
+        "a": "b"
+    },
+    {
+        "o": 32357,
+        "r": "esv:2 Corinthians:8:2",
+        "w": 11,
+        "l": {},
+        "c": "Mark 12:44*27597",
+        "a": "c"
+    },
+    {
+        "o": 32358,
+        "r": "esv:2 Corinthians:8:3",
+        "w": 2,
+        "l": {},
+        "c": "2 Corinthians 8:11*32366; 1 Corinthians 16:2*32177",
+        "a": "d"
+    },
+    {
+        "o": 32359,
+        "r": "esv:2 Corinthians:8:4",
+        "w": 2,
+        "l": {},
+        "c": "2 Corinthians 9:2*32384; Romans 15:25–26*31678; Acts 24:17*31069",
+        "a": "e"
+    },
+    {
+        "o": 32359,
+        "r": "esv:2 Corinthians:8:4",
+        "w": 5,
+        "l": {},
+        "t": "The Greek word charis*i can mean favor*i or grace*i or thanks*i , depending on the context",
+        "a": "f"
+    },
+    {
+        "o": 32359,
+        "r": "esv:2 Corinthians:8:4",
+        "w": 9,
+        "l": {},
+        "c": "Romans 15:31*31684",
+        "a": "g"
+    },
+    {
+        "o": 32360,
+        "r": "esv:2 Corinthians:8:5",
+        "w": 7,
+        "l": {},
+        "c": "2 Corinthians 8:1*32356",
+        "a": "h"
+    },
+    {
+        "o": 32361,
+        "r": "esv:2 Corinthians:8:6",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 8:17*32373; 2 Corinthians 12:18*32475",
+        "a": "i"
+    },
+    {
+        "o": 32361,
+        "r": "esv:2 Corinthians:8:6",
+        "w": 14,
+        "l": {},
+        "c": "2 Corinthians 8:19*32375; 2 Corinthians 8:4*32359",
+        "a": "j"
+    },
+    {
+        "o": 32362,
+        "r": "esv:2 Corinthians:8:7",
+        "w": 1,
+        "l": {},
+        "c": "1 Corinthians 1:5*31724",
+        "a": "k"
+    },
+    {
+        "o": 32362,
+        "r": "esv:2 Corinthians:8:7",
+        "w": 20,
+        "l": {},
+        "t": "Some manuscripts in*i your*i love*i for*i us*i",
+        "a": "l"
+    },
+    {
+        "o": 32362,
+        "r": "esv:2 Corinthians:8:7",
+        "w": 20,
+        "l": {},
+        "c": "2 Corinthians 9:8*32391",
+        "a": "m"
+    },
+    {
+        "o": 32363,
+        "r": "esv:2 Corinthians:8:8",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 7:6*31865",
+        "a": "n"
+    },
+    {
+        "o": 32364,
+        "r": "esv:2 Corinthians:8:9",
+        "w": 10,
+        "l": {},
+        "c": "Philippians 2:6–7*32886; 2 Corinthians 6:10*32326; Matthew 20:28*26574",
+        "a": "o"
+    },
+    {
+        "o": 32365,
+        "r": "esv:2 Corinthians:8:10",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 7:25*31886",
+        "a": "p"
+    },
+    {
+        "o": 32365,
+        "r": "esv:2 Corinthians:8:10",
+        "w": 7,
+        "l": {},
+        "c": "Deuteronomy 15:7–8*5804; Proverbs 19:17*18811; Proverbs 28:27*19104; 1 Timothy 6:18–19*33362; Hebrews 13:16*33872",
+        "a": "q"
+    },
+    {
+        "o": 32365,
+        "r": "esv:2 Corinthians:8:10",
+        "w": 11,
+        "l": {},
+        "c": "2 Corinthians 9:2*32384",
+        "a": "r"
+    },
+    {
+        "o": 32367,
+        "r": "esv:2 Corinthians:8:12",
+        "w": 8,
+        "l": {},
+        "c": "2 Corinthians 9:7*32390; Mark 12:43–44*27596; Luke 21:3*28884",
+        "a": "s"
+    },
+    {
+        "o": 32369,
+        "r": "esv:2 Corinthians:8:14",
+        "w": 7,
+        "l": {},
+        "c": "2 Corinthians 9:12*32395; Acts 4:34*30258",
+        "a": "t"
+    },
+    {
+        "o": 32370,
+        "r": "esv:2 Corinthians:8:15",
+        "w": 3,
+        "l": {},
+        "c": "Exodus 16:18*2140",
+        "a": "u"
+    },
+    {
+        "o": 32372,
+        "r": "esv:2 Corinthians:8:16",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 2:14*32247",
+        "a": "v"
+    },
+    {
+        "o": 32372,
+        "r": "esv:2 Corinthians:8:16",
+        "w": 4,
+        "l": {},
+        "c": "Revelation 17:17*34731",
+        "a": "w"
+    },
+    {
+        "o": 32373,
+        "r": "esv:2 Corinthians:8:17",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 8:6*32361",
+        "a": "x"
+    },
+    {
+        "o": 32373,
+        "r": "esv:2 Corinthians:8:17",
+        "w": 14,
+        "l": {},
+        "t": "Or he*i went*i",
+        "a": "y"
+    },
+    {
+        "o": 32374,
+        "r": "esv:2 Corinthians:8:18",
+        "w": 4,
+        "l": {},
+        "t": "Or we*i sent*i ; also verse 22",
+        "a": "z"
+    },
+    {
+        "o": 32374,
+        "r": "esv:2 Corinthians:8:18",
+        "w": 4,
+        "l": {},
+        "c": "2 Corinthians 12:18*32475",
+        "a": "a"
+    },
+    {
+        "o": 32374,
+        "r": "esv:2 Corinthians:8:18",
+        "w": 10,
+        "l": {},
+        "c": "1 Corinthians 7:17*31877",
+        "a": "b"
+    },
+    {
+        "o": 32375,
+        "r": "esv:2 Corinthians:8:19",
+        "w": 7,
+        "l": {},
+        "c": "1 Corinthians 16:3–4*32178",
+        "a": "c"
+    },
+    {
+        "o": 32375,
+        "r": "esv:2 Corinthians:8:19",
+        "w": 22,
+        "l": {},
+        "c": "2 Corinthians 8:6*32361",
+        "a": "d"
+    },
+    {
+        "o": 32375,
+        "r": "esv:2 Corinthians:8:19",
+        "w": 29,
+        "l": {},
+        "c": "2 Corinthians 4:15*32288",
+        "a": "e"
+    },
+    {
+        "o": 32377,
+        "r": "esv:2 Corinthians:8:21",
+        "w": 0,
+        "l": {},
+        "c": "Romans 12:17*31601",
+        "a": "f"
+    },
+    {
+        "o": 32377,
+        "r": "esv:2 Corinthians:8:21",
+        "w": 6,
+        "l": {},
+        "c": "Romans 14:18*31643; Philippians 4:8*32946; 1 Peter 2:12*34052",
+        "a": "g"
+    },
+    {
+        "o": 32379,
+        "r": "esv:2 Corinthians:8:23",
+        "w": 4,
+        "l": {},
+        "c": "Philemon 17*33536",
+        "a": "h"
+    },
+    {
+        "o": 32379,
+        "r": "esv:2 Corinthians:8:23",
+        "w": 20,
+        "l": {},
+        "t": "Greek apostles*i",
+        "a": "i"
+    },
+    {
+        "o": 32380,
+        "r": "esv:2 Corinthians:8:24",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 7:4*32341; 2 Corinthians 7:14*32351; 2 Corinthians 9:2–3*32384",
+        "a": "j"
+    },
+    {
+        "o": 32383,
+        "r": "esv:2 Corinthians:9:1",
+        "w": 0,
+        "l": {},
+        "c": "1 Thessalonians 4:9*33134",
+        "a": "a"
+    },
+    {
+        "o": 32383,
+        "r": "esv:2 Corinthians:9:1",
+        "w": 10,
+        "l": {},
+        "c": "Romans 15:25*31678",
+        "a": "b"
+    },
+    {
+        "o": 32384,
+        "r": "esv:2 Corinthians:9:2",
+        "w": 4,
+        "l": {},
+        "c": "2 Corinthians 8:24*32380",
+        "a": "c"
+    },
+    {
+        "o": 32384,
+        "r": "esv:2 Corinthians:9:2",
+        "w": 21,
+        "l": {},
+        "c": "2 Corinthians 8:10*32365",
+        "a": "d"
+    },
+    {
+        "o": 32385,
+        "r": "esv:2 Corinthians:9:3",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 8:6*32361; 2 Corinthians 8:17–18*32373; 2 Corinthians 8:22*32378",
+        "a": "e"
+    },
+    {
+        "o": 32385,
+        "r": "esv:2 Corinthians:9:3",
+        "w": 3,
+        "l": {},
+        "t": "Or I*i have*i sent*i",
+        "a": "f"
+    },
+    {
+        "o": 32385,
+        "r": "esv:2 Corinthians:9:3",
+        "w": 24,
+        "l": {},
+        "c": "1 Corinthians 16:2*32177",
+        "a": "g"
+    },
+    {
+        "o": 32386,
+        "r": "esv:2 Corinthians:9:4",
+        "w": 3,
+        "l": {},
+        "c": "Acts 20:4*30899",
+        "a": "h"
+    },
+    {
+        "o": 32387,
+        "r": "esv:2 Corinthians:9:5",
+        "w": 20,
+        "l": {},
+        "c": "Genesis 33:11*1056; Judges 1:15*7133; 1 Samuel 25:27*8637",
+        "a": "i"
+    },
+    {
+        "o": 32387,
+        "r": "esv:2 Corinthians:9:5",
+        "w": 21,
+        "l": {},
+        "t": "Greek blessing*i ; twice in this verse",
+        "a": "j"
+    },
+    {
+        "o": 32387,
+        "r": "esv:2 Corinthians:9:5",
+        "w": 30,
+        "l": {},
+        "c": "Philippians 4:17*32956",
+        "a": "k"
+    },
+    {
+        "o": 32387,
+        "r": "esv:2 Corinthians:9:5",
+        "w": 34,
+        "l": {},
+        "c": "2 Corinthians 12:17–18*32474",
+        "a": "l"
+    },
+    {
+        "o": 32387,
+        "r": "esv:2 Corinthians:9:5",
+        "w": 38,
+        "l": {},
+        "t": "Or a*i gift*i expecting*i something*i in*i return*i ; Greek greed*i",
+        "a": "m"
+    },
+    {
+        "o": 32389,
+        "r": "esv:2 Corinthians:9:6",
+        "w": 3,
+        "l": {},
+        "c": "Proverbs 11:24–25*18573; Proverbs 22:9*18896; Galatians 6:7*32654; Galatians 6:9*32656; Malachi 3:10*25758; Luke 6:38*28134",
+        "a": "n"
+    },
+    {
+        "o": 32389,
+        "r": "esv:2 Corinthians:9:6",
+        "w": 14,
+        "l": {},
+        "t": "Greek with*i blessings*i ; twice in this verse",
+        "a": "o"
+    },
+    {
+        "o": 32390,
+        "r": "esv:2 Corinthians:9:7",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 15:10*5807; 2 Corinthians 8:12*32367",
+        "a": "p"
+    },
+    {
+        "o": 32390,
+        "r": "esv:2 Corinthians:9:7",
+        "w": 16,
+        "l": {},
+        "c": "Exodus 25:2*2394",
+        "a": "q"
+    },
+    {
+        "o": 32391,
+        "r": "esv:2 Corinthians:9:8",
+        "w": 0,
+        "l": {},
+        "c": "Philippians 4:19*32958; Ephesians 3:2*32722",
+        "a": "r"
+    },
+    {
+        "o": 32391,
+        "r": "esv:2 Corinthians:9:8",
+        "w": 15,
+        "l": {},
+        "t": "Or all*i contentment*i",
+        "a": "s"
+    },
+    {
+        "o": 32392,
+        "r": "esv:2 Corinthians:9:9",
+        "w": 3,
+        "l": {},
+        "c": "Psalm 112:9*17526",
+        "a": "t"
+    },
+    {
+        "o": 32393,
+        "r": "esv:2 Corinthians:9:10",
+        "w": 2,
+        "l": {},
+        "c": "Isaiah 55:10*20863",
+        "a": "u"
+    },
+    {
+        "o": 32393,
+        "r": "esv:2 Corinthians:9:10",
+        "w": 19,
+        "l": {},
+        "c": "Hosea 10:12*24711",
+        "a": "v"
+    },
+    {
+        "o": 32394,
+        "r": "esv:2 Corinthians:9:11",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 1:5*31724",
+        "a": "w"
+    },
+    {
+        "o": 32394,
+        "r": "esv:2 Corinthians:9:11",
+        "w": 13,
+        "l": {},
+        "c": "2 Corinthians 1:11*32217",
+        "a": "x"
+    },
+    {
+        "o": 32395,
+        "r": "esv:2 Corinthians:9:12",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 8:14*32369",
+        "a": "y"
+    },
+    {
+        "o": 32396,
+        "r": "esv:2 Corinthians:9:13",
+        "w": 5,
+        "l": {},
+        "c": "Matthew 5:16*25902; 1 Peter 2:12*34052",
+        "a": "z"
+    },
+    {
+        "o": 32396,
+        "r": "esv:2 Corinthians:9:13",
+        "w": 6,
+        "l": {},
+        "t": "Or you*i",
+        "a": "a"
+    },
+    {
+        "o": 32396,
+        "r": "esv:2 Corinthians:9:13",
+        "w": 17,
+        "l": {},
+        "c": "1 Timothy 6:12–13*33356; Hebrews 3:1*33585; Hebrews 4:14*33620; Hebrews 10:23*33763",
+        "a": "b"
+    },
+    {
+        "o": 32398,
+        "r": "esv:2 Corinthians:9:15",
+        "w": 0,
+        "l": {},
+        "c": "John 3:16*29234; Ephesians 2:8*32703; 2 Corinthians 2:14*32247",
+        "a": "c"
+    },
+    {
+        "o": 32401,
+        "r": "esv:2 Corinthians:10:1",
+        "w": 0,
+        "l": {},
+        "c": "Romans 12:1*31583",
+        "a": "a"
+    },
+    {
+        "o": 32401,
+        "r": "esv:2 Corinthians:10:1",
+        "w": 6,
+        "l": {},
+        "c": "Zechariah 9:9*25614; Matthew 11:29*26186; Philippians 2:7–8*32887",
+        "a": "b"
+    },
+    {
+        "o": 32402,
+        "r": "esv:2 Corinthians:10:2",
+        "w": 3,
+        "l": {},
+        "c": "2 Corinthians 13:2*32482; 2 Corinthians 13:10*32491; 1 Corinthians 4:18*31816; 1 Corinthians 4:21*31819",
+        "a": "c"
+    },
+    {
+        "o": 32402,
+        "r": "esv:2 Corinthians:10:2",
+        "w": 14,
+        "l": {},
+        "c": "2 Corinthians 10:6*32406",
+        "a": "d"
+    },
+    {
+        "o": 32404,
+        "r": "esv:2 Corinthians:10:4",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 6:7*32323; Ephesians 6:11*32828; 1 Thessalonians 5:8*33154",
+        "a": "e"
+    },
+    {
+        "o": 32404,
+        "r": "esv:2 Corinthians:10:4",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 9:7*31925",
+        "a": "f"
+    },
+    {
+        "o": 32404,
+        "r": "esv:2 Corinthians:10:4",
+        "w": 12,
+        "l": {},
+        "c": "2 Corinthians 13:3–4*32483; 1 Corinthians 2:5*31760",
+        "a": "g"
+    },
+    {
+        "o": 32404,
+        "r": "esv:2 Corinthians:10:4",
+        "w": 14,
+        "l": {},
+        "c": "Jeremiah 1:10*21100",
+        "a": "h"
+    },
+    {
+        "o": 32405,
+        "r": "esv:2 Corinthians:10:5",
+        "w": 3,
+        "l": {},
+        "c": "Isaiah 2:11–12*19677",
+        "a": "i"
+    },
+    {
+        "o": 32405,
+        "r": "esv:2 Corinthians:10:5",
+        "w": 18,
+        "l": {},
+        "c": "2 Corinthians 9:13*32396; Romans 5:19*31381",
+        "a": "j"
+    },
+    {
+        "o": 32406,
+        "r": "esv:2 Corinthians:10:6",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 10:2*32402",
+        "a": "k"
+    },
+    {
+        "o": 32406,
+        "r": "esv:2 Corinthians:10:6",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 2:9*32241; 2 Corinthians 7:15*32352",
+        "a": "l"
+    },
+    {
+        "o": 32407,
+        "r": "esv:2 Corinthians:10:7",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 5:12*32306; John 7:24*29466",
+        "a": "m"
+    },
+    {
+        "o": 32407,
+        "r": "esv:2 Corinthians:10:7",
+        "w": 6,
+        "l": {},
+        "c": "1 Corinthians 1:12*31732; 1 Corinthians 14:37*32107; 1 John 4:6*34282",
+        "a": "n"
+    },
+    {
+        "o": 32407,
+        "r": "esv:2 Corinthians:10:7",
+        "w": 21,
+        "l": {},
+        "c": "1 Corinthians 3:23*31796",
+        "a": "o"
+    },
+    {
+        "o": 32407,
+        "r": "esv:2 Corinthians:10:7",
+        "w": 24,
+        "l": {},
+        "c": "2 Corinthians 11:23*32444; 1 Corinthians 9:1*31919; Galatians 1:12*32511",
+        "a": "p"
+    },
+    {
+        "o": 32408,
+        "r": "esv:2 Corinthians:10:8",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 13:10*32491",
+        "a": "q"
+    },
+    {
+        "o": 32410,
+        "r": "esv:2 Corinthians:10:10",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 11:21*32442; 2 Corinthians 12:7*32463",
+        "a": "r"
+    },
+    {
+        "o": 32410,
+        "r": "esv:2 Corinthians:10:10",
+        "w": 15,
+        "l": {},
+        "c": "1 Corinthians 1:17*31738",
+        "a": "s"
+    },
+    {
+        "o": 32412,
+        "r": "esv:2 Corinthians:10:12",
+        "w": 6,
+        "l": {},
+        "c": "1 Corinthians 2:13*31768",
+        "a": "t"
+    },
+    {
+        "o": 32412,
+        "r": "esv:2 Corinthians:10:12",
+        "w": 13,
+        "l": {},
+        "c": "2 Corinthians 10:18*32418; 2 Corinthians 3:1*32253; 2 Corinthians 12:6*32462; Proverbs 27:2*19051",
+        "a": "u"
+    },
+    {
+        "o": 32412,
+        "r": "esv:2 Corinthians:10:12",
+        "w": 32,
+        "l": {},
+        "c": "Proverbs 26:12*19032",
+        "a": "v"
+    },
+    {
+        "o": 32413,
+        "r": "esv:2 Corinthians:10:13",
+        "w": 4,
+        "l": {},
+        "c": "2 Corinthians 10:15*32415",
+        "a": "w"
+    },
+    {
+        "o": 32413,
+        "r": "esv:2 Corinthians:10:13",
+        "w": 8,
+        "l": {},
+        "c": "Romans 12:3*31586",
+        "a": "x"
+    },
+    {
+        "o": 32413,
+        "r": "esv:2 Corinthians:10:13",
+        "w": 21,
+        "l": {},
+        "c": "Romans 15:20*31672",
+        "a": "y"
+    },
+    {
+        "o": 32414,
+        "r": "esv:2 Corinthians:10:14",
+        "w": 12,
+        "l": {},
+        "c": "1 Corinthians 3:5*31778; 1 Corinthians 4:15*31813; 1 Corinthians 9:1*31919",
+        "a": "z"
+    },
+    {
+        "o": 32415,
+        "r": "esv:2 Corinthians:10:15",
+        "w": 15,
+        "l": {},
+        "c": "2 Thessalonians 1:3*33181",
+        "a": "a"
+    },
+    {
+        "o": 32415,
+        "r": "esv:2 Corinthians:10:15",
+        "w": 27,
+        "l": {},
+        "c": "Acts 5:13*30277",
+        "a": "b"
+    },
+    {
+        "o": 32417,
+        "r": "esv:2 Corinthians:10:17",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 1:31*31752; Jeremiah 9:23–24*21361",
+        "a": "c"
+    },
+    {
+        "o": 32418,
+        "r": "esv:2 Corinthians:10:18",
+        "w": 2,
+        "l": {},
+        "c": "2 Corinthians 10:12*32412",
+        "a": "d"
+    },
+    {
+        "o": 32418,
+        "r": "esv:2 Corinthians:10:18",
+        "w": 14,
+        "l": {},
+        "c": "Romans 2:29*31296; 1 Corinthians 4:5*31803",
+        "a": "e"
+    },
+    {
+        "o": 32422,
+        "r": "esv:2 Corinthians:11:2",
+        "w": 8,
+        "l": {},
+        "c": "Hosea 2:19–20*24584",
+        "a": "a"
+    },
+    {
+        "o": 32422,
+        "r": "esv:2 Corinthians:11:2",
+        "w": 14,
+        "l": {},
+        "c": "Colossians 1:22*32989; Colossians 1:28*32996",
+        "a": "b"
+    },
+    {
+        "o": 32422,
+        "r": "esv:2 Corinthians:11:2",
+        "w": 17,
+        "l": {},
+        "c": "Ephesians 5:27*32807; Revelation 14:4*34660",
+        "a": "c"
+    },
+    {
+        "o": 32423,
+        "r": "esv:2 Corinthians:11:3",
+        "w": 4,
+        "l": {},
+        "c": "Genesis 3:4*67; 1 Timothy 2:14*33273; John 8:44*29548; 1 Thessalonians 3:5*33115",
+        "a": "d"
+    },
+    {
+        "o": 32423,
+        "r": "esv:2 Corinthians:11:3",
+        "w": 14,
+        "l": {},
+        "c": "Colossians 2:4*33002; Colossians 2:8*33007",
+        "a": "e"
+    },
+    {
+        "o": 32423,
+        "r": "esv:2 Corinthians:11:3",
+        "w": 20,
+        "l": {},
+        "c": "Ephesians 6:5*32821",
+        "a": "f"
+    },
+    {
+        "o": 32423,
+        "r": "esv:2 Corinthians:11:3",
+        "w": 22,
+        "l": {},
+        "c": "2 Corinthians 6:6*32322",
+        "a": "g"
+    },
+    {
+        "o": 32424,
+        "r": "esv:2 Corinthians:11:4",
+        "w": 4,
+        "l": {},
+        "c": "1 Corinthians 3:11*31784",
+        "a": "h"
+    },
+    {
+        "o": 32424,
+        "r": "esv:2 Corinthians:11:4",
+        "w": 28,
+        "l": {},
+        "c": "Galatians 1:6*32504",
+        "a": "i"
+    },
+    {
+        "o": 32425,
+        "r": "esv:2 Corinthians:11:5",
+        "w": 3,
+        "l": {},
+        "c": "2 Corinthians 12:11*32468; Galatians 2:6*32531",
+        "a": "j"
+    },
+    {
+        "o": 32426,
+        "r": "esv:2 Corinthians:11:6",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 1:17*31738",
+        "a": "k"
+    },
+    {
+        "o": 32426,
+        "r": "esv:2 Corinthians:11:6",
+        "w": 6,
+        "l": {},
+        "c": "Ephesians 3:4*32724",
+        "a": "l"
+    },
+    {
+        "o": 32426,
+        "r": "esv:2 Corinthians:11:6",
+        "w": 16,
+        "l": {},
+        "c": "2 Corinthians 4:2*32274; 2 Corinthians 5:11*32305; 2 Corinthians 12:12*32469",
+        "a": "m"
+    },
+    {
+        "o": 32427,
+        "r": "esv:2 Corinthians:11:7",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 12:13*32470",
+        "a": "n"
+    },
+    {
+        "o": 32427,
+        "r": "esv:2 Corinthians:11:7",
+        "w": 15,
+        "l": {},
+        "c": "Acts 18:3*30821",
+        "a": "o"
+    },
+    {
+        "o": 32429,
+        "r": "esv:2 Corinthians:11:9",
+        "w": 7,
+        "l": {},
+        "c": "Philippians 4:12*32951",
+        "a": "p"
+    },
+    {
+        "o": 32429,
+        "r": "esv:2 Corinthians:11:9",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 12:13–14*32470",
+        "a": "q"
+    },
+    {
+        "o": 32429,
+        "r": "esv:2 Corinthians:11:9",
+        "w": 21,
+        "l": {},
+        "c": "1 Corinthians 16:17*32194; Philippians 4:15–16*32954",
+        "a": "r"
+    },
+    {
+        "o": 32429,
+        "r": "esv:2 Corinthians:11:9",
+        "w": 30,
+        "l": {},
+        "c": "2 Corinthians 12:16*32473; 1 Thessalonians 2:6*33093",
+        "a": "s"
+    },
+    {
+        "o": 32430,
+        "r": "esv:2 Corinthians:11:10",
+        "w": 0,
+        "l": {},
+        "c": "Romans 1:9*31239; Romans 9:1*31484",
+        "a": "t"
+    },
+    {
+        "o": 32430,
+        "r": "esv:2 Corinthians:11:10",
+        "w": 11,
+        "l": {},
+        "c": "1 Corinthians 9:15*31933",
+        "a": "u"
+    },
+    {
+        "o": 32431,
+        "r": "esv:2 Corinthians:11:11",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 6:11*32327",
+        "a": "v"
+    },
+    {
+        "o": 32431,
+        "r": "esv:2 Corinthians:11:11",
+        "w": 7,
+        "l": {},
+        "c": "2 Corinthians 11:31*32452; 2 Corinthians 12:2–3*32458",
+        "a": "w"
+    },
+    {
+        "o": 32432,
+        "r": "esv:2 Corinthians:11:12",
+        "w": 9,
+        "l": {},
+        "c": "1 Corinthians 9:12*31930",
+        "a": "x"
+    },
+    {
+        "o": 32433,
+        "r": "esv:2 Corinthians:11:13",
+        "w": 3,
+        "l": {},
+        "c": "Revelation 2:2*34416; Galatians 1:7*32505; Galatians 2:4*32529; Galatians 6:12*32660; Philippians 1:15*32861; Philippians 3:18*32933; Titus 1:10*33474; Titus 1:12*33476; 2 Peter 2:1*34157; 1 John 4:1*34276",
+        "a": "y"
+    },
+    {
+        "o": 32433,
+        "r": "esv:2 Corinthians:11:13",
+        "w": 5,
+        "l": {},
+        "c": "Philippians 3:2*32916",
+        "a": "z"
+    },
+    {
+        "o": 32433,
+        "r": "esv:2 Corinthians:11:13",
+        "w": 7,
+        "l": {},
+        "c": "2 Corinthians 11:14–15*32434",
+        "a": "a"
+    },
+    {
+        "o": 32434,
+        "r": "esv:2 Corinthians:11:14",
+        "w": 8,
+        "l": {},
+        "c": "Galatians 1:8*32506",
+        "a": "b"
+    },
+    {
+        "o": 32435,
+        "r": "esv:2 Corinthians:11:15",
+        "w": 11,
+        "l": {},
+        "c": "2 Corinthians 3:9*32261",
+        "a": "c"
+    },
+    {
+        "o": 32435,
+        "r": "esv:2 Corinthians:11:15",
+        "w": 14,
+        "l": {},
+        "c": "Philippians 3:19*32934",
+        "a": "d"
+    },
+    {
+        "o": 32437,
+        "r": "esv:2 Corinthians:11:16",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 12:6*32462",
+        "a": "e"
+    },
+    {
+        "o": 32438,
+        "r": "esv:2 Corinthians:11:17",
+        "w": 3,
+        "l": {},
+        "c": "2 Corinthians 9:4*32386",
+        "a": "f"
+    },
+    {
+        "o": 32438,
+        "r": "esv:2 Corinthians:11:17",
+        "w": 7,
+        "l": {},
+        "c": "1 Corinthians 7:12*31871",
+        "a": "g"
+    },
+    {
+        "o": 32438,
+        "r": "esv:2 Corinthians:11:17",
+        "w": 14,
+        "l": {},
+        "t": "Greek not*i according*i to*i the*i Lord*i",
+        "a": "h"
+    },
+    {
+        "o": 32439,
+        "r": "esv:2 Corinthians:11:18",
+        "w": 0,
+        "l": {},
+        "c": "Philippians 3:3–4*32917",
+        "a": "i"
+    },
+    {
+        "o": 32440,
+        "r": "esv:2 Corinthians:11:19",
+        "w": 5,
+        "l": {},
+        "c": "1 Corinthians 4:10*31808",
+        "a": "j"
+    },
+    {
+        "o": 32441,
+        "r": "esv:2 Corinthians:11:20",
+        "w": 5,
+        "l": {},
+        "c": "Galatians 2:4*32529; Galatians 4:3*32586; Galatians 4:9*32593; Galatians 5:1*32619",
+        "a": "k"
+    },
+    {
+        "o": 32441,
+        "r": "esv:2 Corinthians:11:20",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 7:2*32339",
+        "a": "l"
+    },
+    {
+        "o": 32441,
+        "r": "esv:2 Corinthians:11:20",
+        "w": 22,
+        "l": {},
+        "c": "1 Corinthians 4:11*31809",
+        "a": "m"
+    },
+    {
+        "o": 32442,
+        "r": "esv:2 Corinthians:11:21",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 10:10*32410",
+        "a": "n"
+    },
+    {
+        "o": 32443,
+        "r": "esv:2 Corinthians:11:22",
+        "w": 2,
+        "l": {},
+        "c": "Romans 11:1*31543; Philippians 3:5*32919",
+        "a": "o"
+    },
+    {
+        "o": 32444,
+        "r": "esv:2 Corinthians:11:23",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 3:6*32258; 2 Corinthians 10:7*32407",
+        "a": "p"
+    },
+    {
+        "o": 32444,
+        "r": "esv:2 Corinthians:11:23",
+        "w": 4,
+        "l": {},
+        "c": "1 Corinthians 15:10*32122",
+        "a": "q"
+    },
+    {
+        "o": 32444,
+        "r": "esv:2 Corinthians:11:23",
+        "w": 19,
+        "l": {},
+        "c": "2 Corinthians 6:5*32321",
+        "a": "r"
+    },
+    {
+        "o": 32444,
+        "r": "esv:2 Corinthians:11:23",
+        "w": 22,
+        "l": {},
+        "c": "Acts 16:23*30759",
+        "a": "s"
+    },
+    {
+        "o": 32444,
+        "r": "esv:2 Corinthians:11:23",
+        "w": 26,
+        "l": {},
+        "c": "2 Corinthians 1:9–10*32214; 2 Corinthians 4:11*32284; 2 Corinthians 6:9*32325; Romans 8:36*31478; 1 Corinthians 15:30–32*32143",
+        "a": "t"
+    },
+    {
+        "o": 32445,
+        "r": "esv:2 Corinthians:11:24",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 25:3*6064",
+        "a": "u"
+    },
+    {
+        "o": 32446,
+        "r": "esv:2 Corinthians:11:25",
+        "w": 3,
+        "l": {},
+        "c": "Acts 16:22*30758",
+        "a": "v"
+    },
+    {
+        "o": 32446,
+        "r": "esv:2 Corinthians:11:25",
+        "w": 6,
+        "l": {},
+        "c": "Acts 14:19*30677",
+        "a": "w"
+    },
+    {
+        "o": 32446,
+        "r": "esv:2 Corinthians:11:25",
+        "w": 13,
+        "l": {},
+        "c": "Acts 27:41*31190",
+        "a": "x"
+    },
+    {
+        "o": 32447,
+        "r": "esv:2 Corinthians:11:26",
+        "w": 9,
+        "l": {},
+        "c": "Acts 9:23*30460; Acts 13:50*30652; Acts 14:5*30661; Acts 17:5*30784; 1 Thessalonians 2:15*33102; Acts 18:12*30830; Acts 20:3*30898; Acts 20:19*30916; Acts 21:27*30966; Acts 23:10*31024; Acts 23:12*31027; Acts 25:3*31085",
+        "a": "y"
+    },
+    {
+        "o": 32447,
+        "r": "esv:2 Corinthians:11:26",
+        "w": 14,
+        "l": {},
+        "c": "Acts 14:5*30661; Acts 19:23*30875; Acts 27:42*31191",
+        "a": "z"
+    },
+    {
+        "o": 32447,
+        "r": "esv:2 Corinthians:11:26",
+        "w": 17,
+        "l": {},
+        "c": "Acts 21:31*30970",
+        "a": "a"
+    },
+    {
+        "o": 32448,
+        "r": "esv:2 Corinthians:11:27",
+        "w": 0,
+        "l": {},
+        "c": "1 Thessalonians 2:9*33096; 2 Thessalonians 3:8*33222",
+        "a": "b"
+    },
+    {
+        "o": 32448,
+        "r": "esv:2 Corinthians:11:27",
+        "w": 8,
+        "l": {},
+        "c": "1 Corinthians 4:11*31809; Philippians 4:12*32951",
+        "a": "c"
+    },
+    {
+        "o": 32448,
+        "r": "esv:2 Corinthians:11:27",
+        "w": 15,
+        "l": {},
+        "t": "Or often*i in*i fasting*i",
+        "a": "d"
+    },
+    {
+        "o": 32449,
+        "r": "esv:2 Corinthians:11:28",
+        "w": 15,
+        "l": {},
+        "c": "1 Corinthians 7:17*31877",
+        "a": "e"
+    },
+    {
+        "o": 32450,
+        "r": "esv:2 Corinthians:11:29",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 8:13*31916; 1 Corinthians 9:22*31940",
+        "a": "f"
+    },
+    {
+        "o": 32451,
+        "r": "esv:2 Corinthians:11:30",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 10:10*32410; 2 Corinthians 12:5*32461; 2 Corinthians 12:9*32465; 1 Corinthians 2:3*31757",
+        "a": "g"
+    },
+    {
+        "o": 32452,
+        "r": "esv:2 Corinthians:11:31",
+        "w": 0,
+        "l": {},
+        "c": "Romans 15:6*31656",
+        "a": "h"
+    },
+    {
+        "o": 32452,
+        "r": "esv:2 Corinthians:11:31",
+        "w": 7,
+        "l": {},
+        "c": "Romans 9:5*31488",
+        "a": "i"
+    },
+    {
+        "o": 32452,
+        "r": "esv:2 Corinthians:11:31",
+        "w": 12,
+        "l": {},
+        "c": "2 Corinthians 11:11*32431",
+        "a": "j"
+    },
+    {
+        "o": 32453,
+        "r": "esv:2 Corinthians:11:32",
+        "w": 6,
+        "l": {},
+        "c": "Acts 9:24*30461",
+        "a": "k"
+    },
+    {
+        "o": 32454,
+        "r": "esv:2 Corinthians:11:33",
+        "w": 0,
+        "l": {},
+        "c": "Acts 9:25*30463",
+        "a": "l"
+    },
+    {
+        "o": 32457,
+        "r": "esv:2 Corinthians:12:1",
+        "w": 20,
+        "l": {},
+        "c": "Galatians 1:12*32511; Galatians 2:2*32527; Ephesians 3:3*32723",
+        "a": "a"
+    },
+    {
+        "o": 32458,
+        "r": "esv:2 Corinthians:12:2",
+        "w": 3,
+        "l": {},
+        "c": "2 Corinthians 5:17*32311",
+        "a": "b"
+    },
+    {
+        "o": 32458,
+        "r": "esv:2 Corinthians:12:2",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 12:3*32459; 1 Thessalonians 4:17*33143; Revelation 12:5*34620; Ezekiel 8:3*22911; Acts 8:39*30431",
+        "a": "c"
+    },
+    {
+        "o": 32458,
+        "r": "esv:2 Corinthians:12:2",
+        "w": 13,
+        "l": {},
+        "c": "Psalm 148:4*18206",
+        "a": "d"
+    },
+    {
+        "o": 32458,
+        "r": "esv:2 Corinthians:12:2",
+        "w": 29,
+        "l": {},
+        "c": "2 Corinthians 11:11*32431",
+        "a": "e"
+    },
+    {
+        "o": 32459,
+        "r": "esv:2 Corinthians:12:3",
+        "w": 9,
+        "l": {},
+        "c": "Luke 23:43*29057; Revelation 2:7*34422; Genesis 2:8*44",
+        "a": "f"
+    },
+    {
+        "o": 32459,
+        "r": "esv:2 Corinthians:12:3",
+        "w": 23,
+        "l": {},
+        "c": "2 Corinthians 12:2*32458",
+        "a": "g"
+    },
+    {
+        "o": 32461,
+        "r": "esv:2 Corinthians:12:5",
+        "w": 16,
+        "l": {},
+        "c": "1 Corinthians 2:3*31757",
+        "a": "h"
+    },
+    {
+        "o": 32462,
+        "r": "esv:2 Corinthians:12:6",
+        "w": 6,
+        "l": {},
+        "c": "2 Corinthians 5:13*32307; 2 Corinthians 11:16–17*32437; 2 Corinthians 12:11*32468",
+        "a": "i"
+    },
+    {
+        "o": 32463,
+        "r": "esv:2 Corinthians:12:7",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 10:10*32410",
+        "a": "j"
+    },
+    {
+        "o": 32463,
+        "r": "esv:2 Corinthians:12:7",
+        "w": 14,
+        "l": {},
+        "t": "Or hears*i from*i me,*i even*i because*i of*i the*i surpassing*i greatness*i of*i the*i revelations.*i So*i to*i keep*i me*i from*i becoming*i conceited*i",
+        "a": "k"
+    },
+    {
+        "o": 32463,
+        "r": "esv:2 Corinthians:12:7",
+        "w": 14,
+        "l": {},
+        "c": "Numbers 33:55*5243; Ezekiel 28:24*23536",
+        "a": "l"
+    },
+    {
+        "o": 32463,
+        "r": "esv:2 Corinthians:12:7",
+        "w": 22,
+        "l": {},
+        "c": "Luke 13:16*28544; 1 Corinthians 5:5*31826",
+        "a": "m"
+    },
+    {
+        "o": 32464,
+        "r": "esv:2 Corinthians:12:8",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 26:44*26886",
+        "a": "n"
+    },
+    {
+        "o": 32465,
+        "r": "esv:2 Corinthians:12:9",
+        "w": 4,
+        "l": {},
+        "c": "Isaiah 43:2*20590",
+        "a": "o"
+    },
+    {
+        "o": 32465,
+        "r": "esv:2 Corinthians:12:9",
+        "w": 11,
+        "l": {},
+        "c": "Isaiah 40:29–31*20523; Philippians 4:13*32952",
+        "a": "p"
+    },
+    {
+        "o": 32465,
+        "r": "esv:2 Corinthians:12:9",
+        "w": 31,
+        "l": {},
+        "c": "1 Corinthians 2:5*31760",
+        "a": "q"
+    },
+    {
+        "o": 32466,
+        "r": "esv:2 Corinthians:12:10",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 5:15*32309; Matthew 5:11–12*25895",
+        "a": "r"
+    },
+    {
+        "o": 32466,
+        "r": "esv:2 Corinthians:12:10",
+        "w": 5,
+        "l": {},
+        "c": "Romans 5:3*31364",
+        "a": "s"
+    },
+    {
+        "o": 32466,
+        "r": "esv:2 Corinthians:12:10",
+        "w": 16,
+        "l": {},
+        "c": "2 Corinthians 13:4*32484",
+        "a": "t"
+    },
+    {
+        "o": 32468,
+        "r": "esv:2 Corinthians:12:11",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 12:6*32462",
+        "a": "u"
+    },
+    {
+        "o": 32468,
+        "r": "esv:2 Corinthians:12:11",
+        "w": 21,
+        "l": {},
+        "c": "2 Corinthians 11:5*32425; 1 Corinthians 15:10*32122",
+        "a": "v"
+    },
+    {
+        "o": 32468,
+        "r": "esv:2 Corinthians:12:11",
+        "w": 28,
+        "l": {},
+        "c": "1 Corinthians 3:7*31780; 1 Corinthians 15:9*32121",
+        "a": "w"
+    },
+    {
+        "o": 32469,
+        "r": "esv:2 Corinthians:12:12",
+        "w": 0,
+        "l": {},
+        "c": "Romans 15:19*31671; 1 Corinthians 9:1*31919",
+        "a": "x"
+    },
+    {
+        "o": 32469,
+        "r": "esv:2 Corinthians:12:12",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 6:4*32320",
+        "a": "y"
+    },
+    {
+        "o": 32470,
+        "r": "esv:2 Corinthians:12:13",
+        "w": 14,
+        "l": {},
+        "c": "1 Corinthians 9:12*31930; Acts 20:33*30930",
+        "a": "z"
+    },
+    {
+        "o": 32471,
+        "r": "esv:2 Corinthians:12:14",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 13:1*32481; 2 Corinthians 1:15*32221; 2 Corinthians 13:2*32482",
+        "a": "a"
+    },
+    {
+        "o": 32471,
+        "r": "esv:2 Corinthians:12:14",
+        "w": 19,
+        "l": {},
+        "c": "1 Corinthians 10:24*31972; 1 Corinthians 10:33*31981",
+        "a": "b"
+    },
+    {
+        "o": 32471,
+        "r": "esv:2 Corinthians:12:14",
+        "w": 28,
+        "l": {},
+        "c": "1 Corinthians 4:14–15*31812",
+        "a": "c"
+    },
+    {
+        "o": 32471,
+        "r": "esv:2 Corinthians:12:14",
+        "w": 39,
+        "l": {},
+        "c": "Proverbs 19:14*18808; Ezekiel 34:2*23685",
+        "a": "d"
+    },
+    {
+        "o": 32472,
+        "r": "esv:2 Corinthians:12:15",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 1:6*32211; Philippians 2:17*32898; Colossians 1:24*32992; 1 Thessalonians 2:8*33095; 2 Timothy 2:10*33398",
+        "a": "e"
+    },
+    {
+        "o": 32472,
+        "r": "esv:2 Corinthians:12:15",
+        "w": 11,
+        "l": {},
+        "c": "2 Corinthians 6:11*32327",
+        "a": "f"
+    },
+    {
+        "o": 32473,
+        "r": "esv:2 Corinthians:12:16",
+        "w": 2,
+        "l": {},
+        "c": "2 Corinthians 11:9*32429",
+        "a": "g"
+    },
+    {
+        "o": 32474,
+        "r": "esv:2 Corinthians:12:17",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 9:5*32388",
+        "a": "h"
+    },
+    {
+        "o": 32475,
+        "r": "esv:2 Corinthians:12:18",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 8:6*32361",
+        "a": "i"
+    },
+    {
+        "o": 32475,
+        "r": "esv:2 Corinthians:12:18",
+        "w": 6,
+        "l": {},
+        "c": "2 Corinthians 8:18*32374",
+        "a": "j"
+    },
+    {
+        "o": 32476,
+        "r": "esv:2 Corinthians:12:19",
+        "w": 15,
+        "l": {},
+        "c": "Romans 1:9*31239; Romans 9:1*31484",
+        "a": "k"
+    },
+    {
+        "o": 32476,
+        "r": "esv:2 Corinthians:12:19",
+        "w": 28,
+        "l": {},
+        "c": "1 Corinthians 14:26*32096",
+        "a": "l"
+    },
+    {
+        "o": 32477,
+        "r": "esv:2 Corinthians:12:20",
+        "w": 4,
+        "l": {},
+        "c": "2 Corinthians 2:1–4*32232; 1 Corinthians 4:21*31819",
+        "a": "m"
+    },
+    {
+        "o": 32478,
+        "r": "esv:2 Corinthians:12:21",
+        "w": 23,
+        "l": {},
+        "c": "2 Corinthians 13:2*32482; Revelation 2:21*34438",
+        "a": "n"
+    },
+    {
+        "o": 32478,
+        "r": "esv:2 Corinthians:12:21",
+        "w": 33,
+        "l": {},
+        "c": "1 Corinthians 5:1*31822; 1 Corinthians 6:18*31855",
+        "a": "o"
+    },
+    {
+        "o": 32481,
+        "r": "esv:2 Corinthians:13:1",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 12:14*32471",
+        "a": "a"
+    },
+    {
+        "o": 32481,
+        "r": "esv:2 Corinthians:13:1",
+        "w": 14,
+        "l": {},
+        "c": "Deuteronomy 19:15*5916; Numbers 35:30*5309",
+        "a": "b"
+    },
+    {
+        "o": 32482,
+        "r": "esv:2 Corinthians:13:2",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 10:2*32402",
+        "a": "c"
+    },
+    {
+        "o": 32482,
+        "r": "esv:2 Corinthians:13:2",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 12:21*32478",
+        "a": "d"
+    },
+    {
+        "o": 32482,
+        "r": "esv:2 Corinthians:13:2",
+        "w": 26,
+        "l": {},
+        "c": "2 Corinthians 13:10*32491; 1 Corinthians 4:21*31819",
+        "a": "e"
+    },
+    {
+        "o": 32483,
+        "r": "esv:2 Corinthians:13:3",
+        "w": 5,
+        "l": {},
+        "c": "Matthew 10:20*26128; 1 Corinthians 5:4*31825",
+        "a": "f"
+    },
+    {
+        "o": 32483,
+        "r": "esv:2 Corinthians:13:3",
+        "w": 18,
+        "l": {},
+        "c": "2 Corinthians 10:4*32404",
+        "a": "g"
+    },
+    {
+        "o": 32484,
+        "r": "esv:2 Corinthians:13:4",
+        "w": 0,
+        "l": {},
+        "c": "Philippians 2:7–8*32887; 1 Peter 3:18*34086",
+        "a": "h"
+    },
+    {
+        "o": 32484,
+        "r": "esv:2 Corinthians:13:4",
+        "w": 6,
+        "l": {},
+        "c": "Romans 1:4*31233; Romans 6:4*31389",
+        "a": "i"
+    },
+    {
+        "o": 32484,
+        "r": "esv:2 Corinthians:13:4",
+        "w": 13,
+        "l": {},
+        "c": "2 Corinthians 12:10*32467",
+        "a": "j"
+    },
+    {
+        "o": 32484,
+        "r": "esv:2 Corinthians:13:4",
+        "w": 24,
+        "l": {},
+        "c": "Romans 6:8*31393",
+        "a": "k"
+    },
+    {
+        "o": 32485,
+        "r": "esv:2 Corinthians:13:5",
+        "w": 9,
+        "l": {},
+        "c": "1 Corinthians 11:28*32012; Galatians 6:4*32651",
+        "a": "l"
+    },
+    {
+        "o": 32485,
+        "r": "esv:2 Corinthians:13:5",
+        "w": 20,
+        "l": {},
+        "c": "Romans 8:10*31449; Galatians 4:19*32603",
+        "a": "m"
+    },
+    {
+        "o": 32489,
+        "r": "esv:2 Corinthians:13:9",
+        "w": 4,
+        "l": {},
+        "c": "1 Corinthians 4:10*31808; 2 Corinthians 4:12*32285; 2 Corinthians 12:5*32461; 2 Corinthians 12:9–10*32465",
+        "a": "n"
+    },
+    {
+        "o": 32489,
+        "r": "esv:2 Corinthians:13:9",
+        "w": 12,
+        "l": {},
+        "c": "Ephesians 4:12*32756; 1 Thessalonians 3:10*33120; 2 Corinthians 13:11*32492",
+        "a": "o"
+    },
+    {
+        "o": 32490,
+        "r": "esv:2 Corinthians:13:10",
+        "w": 16,
+        "l": {},
+        "c": "2 Corinthians 2:3*32234",
+        "a": "p"
+    },
+    {
+        "o": 32490,
+        "r": "esv:2 Corinthians:13:10",
+        "w": 22,
+        "l": {},
+        "c": "Titus 1:13*33477",
+        "a": "q"
+    },
+    {
+        "o": 32490,
+        "r": "esv:2 Corinthians:13:10",
+        "w": 27,
+        "l": {},
+        "c": "2 Corinthians 10:8*32408",
+        "a": "r"
+    },
+    {
+        "o": 32492,
+        "r": "esv:2 Corinthians:13:11",
+        "w": 1,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i",
+        "a": "s"
+    },
+    {
+        "o": 32492,
+        "r": "esv:2 Corinthians:13:11",
+        "w": 2,
+        "l": {},
+        "c": "Luke 6:40*28136",
+        "a": "t"
+    },
+    {
+        "o": 32492,
+        "r": "esv:2 Corinthians:13:11",
+        "w": 8,
+        "l": {},
+        "t": "Or listen*i to*i my*i appeal*i",
+        "a": "u"
+    },
+    {
+        "o": 32492,
+        "r": "esv:2 Corinthians:13:11",
+        "w": 8,
+        "l": {},
+        "c": "Romans 12:16*31600",
+        "a": "v"
+    },
+    {
+        "o": 32492,
+        "r": "esv:2 Corinthians:13:11",
+        "w": 12,
+        "l": {},
+        "c": "Mark 9:50*27448",
+        "a": "w"
+    },
+    {
+        "o": 32492,
+        "r": "esv:2 Corinthians:13:11",
+        "w": 21,
+        "l": {},
+        "c": "Romans 15:33*31686",
+        "a": "x"
+    },
+    {
+        "o": 32493,
+        "r": "esv:2 Corinthians:13:12",
+        "w": 0,
+        "l": {},
+        "c": "Romans 16:16*31705",
+        "a": "y"
+    },
+    {
+        "o": 32494,
+        "r": "esv:2 Corinthians:13:13",
+        "w": 0,
+        "l": {},
+        "c": "Philippians 4:22*32962",
+        "a": "z"
+    },
+    {
+        "o": 32495,
+        "r": "esv:2 Corinthians:13:14",
+        "w": 0,
+        "l": {},
+        "c": "Romans 16:20*31709",
+        "a": "a"
+    },
+    {
+        "o": 32495,
+        "r": "esv:2 Corinthians:13:14",
+        "w": 7,
+        "l": {},
+        "c": "Jude 21*34383",
+        "a": "b"
+    },
+    {
+        "o": 32495,
+        "r": "esv:2 Corinthians:13:14",
+        "w": 12,
+        "l": {},
+        "c": "Philippians 2:1*32881",
+        "a": "c"
+    }
+]

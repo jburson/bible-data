@@ -1,0 +1,434 @@
+[
+    {
+        "o": 5712,
+        "r": "esv:Deuteronomy:12:1",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 6:1*5544",
+        "a": "a"
+    },
+    {
+        "o": 5712,
+        "r": "esv:Deuteronomy:12:1",
+        "w": 28,
+        "l": {},
+        "c": "Deuteronomy 4:10*5463",
+        "a": "b"
+    },
+    {
+        "o": 5713,
+        "r": "esv:Deuteronomy:12:2",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 7:5*5575; Exodus 34:13*2736",
+        "a": "c"
+    },
+    {
+        "o": 5713,
+        "r": "esv:Deuteronomy:12:2",
+        "w": 16,
+        "l": {},
+        "c": "1 Kings 14:23*10127; 2 Kings 16:4*10949; 2 Kings 17:10*10979; Jeremiah 3:6*21156",
+        "a": "d"
+    },
+    {
+        "o": 5714,
+        "r": "esv:Deuteronomy:12:3",
+        "w": 9,
+        "l": {},
+        "c": "Deuteronomy 16:22*5848",
+        "a": "e"
+    },
+    {
+        "o": 5714,
+        "r": "esv:Deuteronomy:12:3",
+        "w": 14,
+        "l": {},
+        "c": "Deuteronomy 16:21*5847",
+        "a": "f"
+    },
+    {
+        "o": 5714,
+        "r": "esv:Deuteronomy:12:3",
+        "w": 28,
+        "l": {},
+        "c": "Zephaniah 1:4*25360; Zechariah 13:2*25677",
+        "a": "g"
+    },
+    {
+        "o": 5715,
+        "r": "esv:Deuteronomy:12:4",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 12:31*5743",
+        "a": "h"
+    },
+    {
+        "o": 5716,
+        "r": "esv:Deuteronomy:12:5",
+        "w": 3,
+        "l": {},
+        "c": "Deuteronomy 16:2*5824; Deuteronomy 26:2*6086; 1 Kings 8:29*9878; 2 Chronicles 7:12*12462; Joshua 18:1*6879",
+        "a": "i"
+    },
+    {
+        "o": 5716,
+        "r": "esv:Deuteronomy:12:5",
+        "w": 25,
+        "l": {},
+        "t": "Or name*i as*i its*i habitation*i",
+        "a": "j"
+    },
+    {
+        "o": 5717,
+        "r": "esv:Deuteronomy:12:6",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 14:22–23*5788; Deuteronomy 15:19–20*5816",
+        "a": "k"
+    },
+    {
+        "o": 5717,
+        "r": "esv:Deuteronomy:12:6",
+        "w": 26,
+        "l": {},
+        "c": "Deuteronomy 14:23*5789",
+        "a": "l"
+    },
+    {
+        "o": 5718,
+        "r": "esv:Deuteronomy:12:7",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 14:23*5789; Deuteronomy 14:26*5792; Deuteronomy 15:20*5817",
+        "a": "m"
+    },
+    {
+        "o": 5718,
+        "r": "esv:Deuteronomy:12:7",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 14:26*5792; Deuteronomy 16:11*5834; Deuteronomy 16:14–15*5838; Deuteronomy 26:11*6095; Deuteronomy 27:7*6112; Deuteronomy 28:8*6142; Leviticus 23:40*3748",
+        "a": "n"
+    },
+    {
+        "o": 5719,
+        "r": "esv:Deuteronomy:12:8",
+        "w": 12,
+        "l": {},
+        "c": "Judges 17:6*7644; Judges 21:25*7794",
+        "a": "o"
+    },
+    {
+        "o": 5720,
+        "r": "esv:Deuteronomy:12:9",
+        "w": 7,
+        "l": {},
+        "c": "1 Kings 8:56*9906; Psalm 95:11*17136; Hebrews 4:8*33613",
+        "a": "p"
+    },
+    {
+        "o": 5721,
+        "r": "esv:Deuteronomy:12:10",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 11:31*5708",
+        "a": "q"
+    },
+    {
+        "o": 5721,
+        "r": "esv:Deuteronomy:12:10",
+        "w": 21,
+        "l": {},
+        "c": "Deuteronomy 25:19*6082; Joshua 23:1*7064; 2 Samuel 7:1*8965; 1 Kings 5:4*9737",
+        "a": "r"
+    },
+    {
+        "o": 5722,
+        "r": "esv:Deuteronomy:12:11",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 12:5*5716",
+        "a": "s"
+    },
+    {
+        "o": 5722,
+        "r": "esv:Deuteronomy:12:11",
+        "w": 31,
+        "l": {},
+        "c": "Deuteronomy 12:6*5717",
+        "a": "t"
+    },
+    {
+        "o": 5723,
+        "r": "esv:Deuteronomy:12:12",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 12:7*5718",
+        "a": "u"
+    },
+    {
+        "o": 5723,
+        "r": "esv:Deuteronomy:12:12",
+        "w": 31,
+        "l": {},
+        "c": "Numbers 18:20*4654",
+        "a": "v"
+    },
+    {
+        "o": 5724,
+        "r": "esv:Deuteronomy:12:13",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 17:3–4*3520; 1 Kings 12:28*10058; 1 Kings 12:33*10063",
+        "a": "w"
+    },
+    {
+        "o": 5725,
+        "r": "esv:Deuteronomy:12:14",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 12:5*5716",
+        "a": "x"
+    },
+    {
+        "o": 5726,
+        "r": "esv:Deuteronomy:12:15",
+        "w": 16,
+        "l": {},
+        "c": "Deuteronomy 16:17*5842",
+        "a": "y"
+    },
+    {
+        "o": 5726,
+        "r": "esv:Deuteronomy:12:15",
+        "w": 30,
+        "l": {},
+        "c": "Deuteronomy 14:5*5770; Deuteronomy 15:22*5819",
+        "a": "z"
+    },
+    {
+        "o": 5727,
+        "r": "esv:Deuteronomy:12:16",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 3:17*3049",
+        "a": "a"
+    },
+    {
+        "o": 5728,
+        "r": "esv:Deuteronomy:12:17",
+        "w": 6,
+        "l": {},
+        "c": "Deuteronomy 12:6*5717",
+        "a": "b"
+    },
+    {
+        "o": 5729,
+        "r": "esv:Deuteronomy:12:18",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 12:7*5718",
+        "a": "c"
+    },
+    {
+        "o": 5729,
+        "r": "esv:Deuteronomy:12:18",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 12:5*5716",
+        "a": "d"
+    },
+    {
+        "o": 5729,
+        "r": "esv:Deuteronomy:12:18",
+        "w": 42,
+        "l": {},
+        "c": "Deuteronomy 12:7*5718",
+        "a": "e"
+    },
+    {
+        "o": 5730,
+        "r": "esv:Deuteronomy:12:19",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 14:27*5793; 2 Chronicles 31:4*13052",
+        "a": "f"
+    },
+    {
+        "o": 5731,
+        "r": "esv:Deuteronomy:12:20",
+        "w": 4,
+        "l": {},
+        "c": "Deuteronomy 19:8*5907",
+        "a": "g"
+    },
+    {
+        "o": 5731,
+        "r": "esv:Deuteronomy:12:20",
+        "w": 7,
+        "l": {},
+        "c": "Deuteronomy 11:24*5701; Deuteronomy 19:8–9*5907; Genesis 28:14*860; Exodus 34:24*2747",
+        "a": "h"
+    },
+    {
+        "o": 5732,
+        "r": "esv:Deuteronomy:12:21",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 12:5*5716",
+        "a": "i"
+    },
+    {
+        "o": 5732,
+        "r": "esv:Deuteronomy:12:21",
+        "w": 19,
+        "l": {},
+        "c": "Deuteronomy 12:15*5726",
+        "a": "j"
+    },
+    {
+        "o": 5733,
+        "r": "esv:Deuteronomy:12:22",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 14:5*5770; Deuteronomy 15:22*5819",
+        "a": "k"
+    },
+    {
+        "o": 5733,
+        "r": "esv:Deuteronomy:12:22",
+        "w": 14,
+        "l": {},
+        "c": "Deuteronomy 14:5*5770; Deuteronomy 15:22*5819",
+        "a": "l"
+    },
+    {
+        "o": 5734,
+        "r": "esv:Deuteronomy:12:23",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 3:17*3049",
+        "a": "m"
+    },
+    {
+        "o": 5734,
+        "r": "esv:Deuteronomy:12:23",
+        "w": 9,
+        "l": {},
+        "c": "Genesis 9:4*229",
+        "a": "n"
+    },
+    {
+        "o": 5736,
+        "r": "esv:Deuteronomy:12:25",
+        "w": 4,
+        "l": {},
+        "c": "Deuteronomy 4:40*5496; Ecclesiastes 8:12*19379; Isaiah 3:10*19700",
+        "a": "o"
+    },
+    {
+        "o": 5736,
+        "r": "esv:Deuteronomy:12:25",
+        "w": 17,
+        "l": {},
+        "c": "Deuteronomy 6:18*5561; Deuteronomy 13:18*5763; Exodus 15:26*2119; 1 Kings 11:38*10021",
+        "a": "p"
+    },
+    {
+        "o": 5737,
+        "r": "esv:Deuteronomy:12:26",
+        "w": 1,
+        "l": {},
+        "c": "Numbers 5:9–10*4137; Numbers 18:19*4653",
+        "a": "q"
+    },
+    {
+        "o": 5737,
+        "r": "esv:Deuteronomy:12:26",
+        "w": 9,
+        "l": {},
+        "c": "1 Samuel 1:21*7915",
+        "a": "r"
+    },
+    {
+        "o": 5737,
+        "r": "esv:Deuteronomy:12:26",
+        "w": 20,
+        "l": {},
+        "c": "Deuteronomy 12:21*5732",
+        "a": "s"
+    },
+    {
+        "o": 5738,
+        "r": "esv:Deuteronomy:12:27",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 1:5*3000; Leviticus 1:9*3004; Leviticus 1:13*3008; Leviticus 17:11*3529",
+        "a": "t"
+    },
+    {
+        "o": 5739,
+        "r": "esv:Deuteronomy:12:28",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 12:25*5736",
+        "a": "u"
+    },
+    {
+        "o": 5741,
+        "r": "esv:Deuteronomy:12:29",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 19:1*5900; Joshua 23:4–5*7067",
+        "a": "v"
+    },
+    {
+        "o": 5742,
+        "r": "esv:Deuteronomy:12:30",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 7:16*5586",
+        "a": "w"
+    },
+    {
+        "o": 5743,
+        "r": "esv:Deuteronomy:12:31",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 12:4*5715; Leviticus 18:3*3539; Leviticus 18:26*3562; Leviticus 18:30*3566; 2 Kings 17:15*10984",
+        "a": "x"
+    },
+    {
+        "o": 5743,
+        "r": "esv:Deuteronomy:12:31",
+        "w": 12,
+        "l": {},
+        "c": "Deuteronomy 7:25*5595; Deuteronomy 17:1*5850; Deuteronomy 18:12*5886; Deuteronomy 23:18*6028; Deuteronomy 25:16*6079; Deuteronomy 27:15*6121",
+        "a": "y"
+    },
+    {
+        "o": 5743,
+        "r": "esv:Deuteronomy:12:31",
+        "w": 25,
+        "l": {},
+        "c": "2 Kings 17:31*11001; Jeremiah 7:31*21309; Jeremiah 19:5*21603",
+        "a": "z"
+    },
+    {
+        "o": 5743,
+        "r": "esv:Deuteronomy:12:31",
+        "w": 39,
+        "l": {},
+        "t": "Ch 13:1 in Hebrew",
+        "a": "a"
+    },
+    {
+        "o": 5744,
+        "r": "esv:Deuteronomy:12:32",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 4:2*5455",
+        "a": "b"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "o": 8213,
+        "r": "niv:1 Samuel:14:15",
+        "w": 28,
+        "l": {},
+        "t": "14:15*r Or a*i terrible*i panic*i",
+        "a": "a"
+    },
+    {
+        "o": 8216,
+        "r": "niv:1 Samuel:14:18",
+        "w": 16,
+        "l": {},
+        "t": "14:18*r Hebrew; Septuagint “Bring*i the*i ephod.”*i (At*i that*i time*i he*i wore*i the*i ephod*i before*i the*i Israelites.)*i",
+        "a": "b"
+    },
+    {
+        "o": 8226,
+        "r": "niv:1 Samuel:14:27",
+        "w": 45,
+        "l": {},
+        "t": "14:27*r Or his*i strength*i was*i renewed*i ; similarly in verse 29",
+        "a": "c"
+    },
+    {
+        "o": 8240,
+        "r": "niv:1 Samuel:14:41",
+        "w": 39,
+        "l": {},
+        "t": "14:41*r Septuagint; Hebrew does not have “Why…*i at*i fault*i .*i",
+        "a": "d"
+    },
+    {
+        "o": 8246,
+        "r": "niv:1 Samuel:14:47",
+        "w": 20,
+        "l": {},
+        "t": "14:47*r Masoretic Text; Dead Sea Scrolls and Septuagint king*i",
+        "a": "e"
+    },
+    {
+        "o": 8246,
+        "r": "niv:1 Samuel:14:47",
+        "w": 33,
+        "l": {},
+        "t": "14:47*r Hebrew; Septuagint he*i was*i victorious*i",
+        "a": "f"
+    }
+]

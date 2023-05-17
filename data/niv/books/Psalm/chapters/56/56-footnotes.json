@@ -1,0 +1,26 @@
+[
+    {
+        "o": 16157,
+        "r": "niv:Psalm:56:0",
+        "w": 17,
+        "l": {},
+        "t": "Title: Probably a literary or musical term",
+        "a": "a"
+    },
+    {
+        "o": 16164,
+        "r": "niv:Psalm:56:7",
+        "w": 5,
+        "l": {},
+        "t": "56:7*r Probable reading of the original Hebrew text; Masoretic Text does not have do*i not*i .",
+        "a": "b"
+    },
+    {
+        "o": 16165,
+        "r": "niv:Psalm:56:8",
+        "w": 8,
+        "l": {},
+        "t": "56:8*r Or misery;*i /*i put*i my*i tears*i in*i your*i wineskin*i",
+        "a": "c"
+    }
+]

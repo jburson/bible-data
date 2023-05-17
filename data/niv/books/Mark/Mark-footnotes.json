@@ -1,0 +1,586 @@
+[
+    {
+        "o": 26712,
+        "r": "niv:Mark:1:1",
+        "w": 9,
+        "l": {},
+        "t": "1:1*r Or Jesus*i Christ.*i Messiah*i (Hebrew) and Christ*i (Greek) both mean Anointed*i One.*i",
+        "a": "a"
+    },
+    {
+        "o": 26712,
+        "r": "niv:Mark:1:1",
+        "w": 13,
+        "l": {},
+        "t": "1:1*r Some manuscripts do not have the*i Son*i of*i God.*i",
+        "a": "b"
+    },
+    {
+        "o": 26713,
+        "r": "niv:Mark:1:2",
+        "w": 20,
+        "l": {},
+        "t": "1:2*r Mal. 3:1",
+        "a": "c"
+    },
+    {
+        "o": 26714,
+        "r": "niv:Mark:1:3",
+        "w": 18,
+        "l": {},
+        "t": "1:3*r Isaiah 40:3",
+        "a": "d"
+    },
+    {
+        "o": 26719,
+        "r": "niv:Mark:1:8",
+        "w": 3,
+        "l": {},
+        "t": "1:8*r Or in*i",
+        "a": "e"
+    },
+    {
+        "o": 26719,
+        "r": "niv:Mark:1:8",
+        "w": 10,
+        "l": {},
+        "t": "1:8*r Or in*i",
+        "a": "f"
+    },
+    {
+        "o": 26725,
+        "r": "niv:Mark:1:13",
+        "w": 9,
+        "l": {},
+        "t": "1:13*r The Greek for tempted*i can also mean tested.*i",
+        "a": "g"
+    },
+    {
+        "o": 26758,
+        "r": "niv:Mark:1:40",
+        "w": 3,
+        "l": {},
+        "t": "1:40*r The Greek word traditionally translated leprosy*i was used for various diseases affecting the skin.",
+        "a": "h"
+    },
+    {
+        "o": 26759,
+        "r": "niv:Mark:1:41",
+        "w": 2,
+        "l": {},
+        "t": "1:41*r Many manuscripts Jesus*i was*i filled*i with*i compassion*i",
+        "a": "i"
+    },
+    {
+        "o": 26814,
+        "r": "niv:Mark:3:14",
+        "w": 2,
+        "l": {},
+        "t": "3:14*r Some manuscripts twelve—designating*i them*i apostles—*i",
+        "a": "a"
+    },
+    {
+        "o": 26822,
+        "r": "niv:Mark:3:21",
+        "w": 2,
+        "l": {},
+        "t": "3:21*r Or his*i associates*i",
+        "a": "b"
+    },
+    {
+        "o": 26850,
+        "r": "niv:Mark:4:12",
+        "w": 22,
+        "l": {},
+        "t": "4:12*r Isaiah 6:9,10",
+        "a": "a"
+    },
+    {
+        "o": 26886,
+        "r": "niv:Mark:5:1",
+        "w": 10,
+        "l": {},
+        "t": "5:1*r Some manuscripts Gadarenes*i ; other manuscripts Gergesenes*i",
+        "a": "a"
+    },
+    {
+        "o": 26905,
+        "r": "niv:Mark:5:20",
+        "w": 11,
+        "l": {},
+        "t": "5:20*r That is, the Ten Cities",
+        "a": "b"
+    },
+    {
+        "o": 26922,
+        "r": "niv:Mark:5:36",
+        "w": 0,
+        "l": {},
+        "t": "5:36*r Or Ignoring*i",
+        "a": "c"
+    },
+    {
+        "o": 26934,
+        "r": "niv:Mark:6:3",
+        "w": 13,
+        "l": {},
+        "t": "6:3*r Greek Joses*i , a variant of Joseph*i",
+        "a": "a"
+    },
+    {
+        "o": 26948,
+        "r": "niv:Mark:6:14",
+        "w": 14,
+        "l": {},
+        "t": "6:14*r Some early manuscripts He*i was*i saying*i",
+        "a": "b"
+    },
+    {
+        "o": 26954,
+        "r": "niv:Mark:6:20",
+        "w": 23,
+        "l": {},
+        "t": "6:20*r Some early manuscripts he*i did*i many*i things*i",
+        "a": "c"
+    },
+    {
+        "o": 26956,
+        "r": "niv:Mark:6:22",
+        "w": 3,
+        "l": {},
+        "t": "6:22*r Some early manuscripts When*i his*i daughter*i",
+        "a": "d"
+    },
+    {
+        "o": 26972,
+        "r": "niv:Mark:6:37",
+        "w": 21,
+        "l": {},
+        "t": "6:37*r Greek take*i two*i hundred*i denarii*i",
+        "a": "e"
+    },
+    {
+        "o": 26998,
+        "r": "niv:Mark:7:4",
+        "w": 27,
+        "l": {},
+        "t": "7:4*r Some early manuscripts pitchers,*i kettles*i and*i dining*i couches*i",
+        "a": "a"
+    },
+    {
+        "o": 27001,
+        "r": "niv:Mark:7:7",
+        "w": 10,
+        "l": {},
+        "t": "7:7*r Isaiah 29:13",
+        "a": "b"
+    },
+    {
+        "o": 27003,
+        "r": "niv:Mark:7:9",
+        "w": 18,
+        "l": {},
+        "t": "7:9*r Some manuscripts set*i up*i",
+        "a": "c"
+    },
+    {
+        "o": 27004,
+        "r": "niv:Mark:7:10",
+        "w": 7,
+        "l": {},
+        "t": "7:10*r Exodus 20:12; Deut. 5:16",
+        "a": "d"
+    },
+    {
+        "o": 27004,
+        "r": "niv:Mark:7:10",
+        "w": 21,
+        "l": {},
+        "t": "7:10*r Exodus 21:17; Lev. 20:9",
+        "a": "e"
+    },
+    {
+        "o": 27009,
+        "r": "niv:Mark:7:15",
+        "w": 22,
+        "l": {},
+        "t": "7:16*r Some manuscripts include here the words of 4:23.",
+        "a": "f"
+    },
+    {
+        "o": 27018,
+        "r": "niv:Mark:7:24",
+        "w": 10,
+        "l": {},
+        "t": "7:24*r Many early manuscripts Tyre*i and*i Sidon*i",
+        "a": "g"
+    },
+    {
+        "o": 27026,
+        "r": "niv:Mark:7:31",
+        "w": 23,
+        "l": {},
+        "t": "7:31*r That is, the Ten Cities",
+        "a": "h"
+    },
+    {
+        "o": 27062,
+        "r": "niv:Mark:8:26",
+        "w": 8,
+        "l": {},
+        "t": "8:26*r Some manuscripts go*i and*i tell*i anyone*i in*i",
+        "a": "a"
+    },
+    {
+        "o": 27074,
+        "r": "niv:Mark:8:35",
+        "w": 6,
+        "l": {},
+        "t": "8:35*r The Greek word means either life*i or soul*i ; also in verses 36 and 37.",
+        "a": "b"
+    },
+    {
+        "o": 27109,
+        "r": "niv:Mark:9:29",
+        "w": 9,
+        "l": {},
+        "t": "9:29*r Some manuscripts prayer*i and*i fasting*i",
+        "a": "a"
+    },
+    {
+        "o": 27126,
+        "r": "niv:Mark:9:43",
+        "w": 32,
+        "l": {},
+        "t": "9:44*r Some manuscripts include here the words of verse 48.",
+        "a": "b"
+    },
+    {
+        "o": 27127,
+        "r": "niv:Mark:9:45",
+        "w": 29,
+        "l": {},
+        "t": "9:46*r Some manuscripts include here the words of verse 48.",
+        "a": "c"
+    },
+    {
+        "o": 27129,
+        "r": "niv:Mark:9:48",
+        "w": 14,
+        "l": {},
+        "t": "9:48*r Isaiah 66:24",
+        "a": "d"
+    },
+    {
+        "o": 27139,
+        "r": "niv:Mark:10:6",
+        "w": 11,
+        "l": {},
+        "t": "10:6*r Gen. 1:27",
+        "a": "a"
+    },
+    {
+        "o": 27140,
+        "r": "niv:Mark:10:7",
+        "w": 16,
+        "l": {},
+        "t": "10:7*r Some early manuscripts do not have and*i be*i united*i to*i his*i wife.*i",
+        "a": "b"
+    },
+    {
+        "o": 27141,
+        "r": "niv:Mark:10:8",
+        "w": 6,
+        "l": {},
+        "t": "10:8*r Gen. 2:24",
+        "a": "c"
+    },
+    {
+        "o": 27154,
+        "r": "niv:Mark:10:19",
+        "w": 31,
+        "l": {},
+        "t": "10:19*r Exodus 20:12-16; Deut. 5:16-20",
+        "a": "d"
+    },
+    {
+        "o": 27159,
+        "r": "niv:Mark:10:24",
+        "w": 15,
+        "l": {},
+        "t": "10:24*r Some manuscripts is*i for*i those*i who*i trust*i in*i riches*i",
+        "a": "e"
+    },
+    {
+        "o": 27201,
+        "r": "niv:Mark:11:9",
+        "w": 9,
+        "l": {},
+        "t": "11:9*r A Hebrew expression meaning “Save!” which became an exclamation of praise; also in verse 10",
+        "a": "a"
+    },
+    {
+        "o": 27201,
+        "r": "niv:Mark:11:9",
+        "w": 20,
+        "l": {},
+        "t": "11:9*r Psalm 118:25,26",
+        "a": "b"
+    },
+    {
+        "o": 27210,
+        "r": "niv:Mark:11:17",
+        "w": 22,
+        "l": {},
+        "t": "11:17*r Isaiah 56:7",
+        "a": "c"
+    },
+    {
+        "o": 27210,
+        "r": "niv:Mark:11:17",
+        "w": 31,
+        "l": {},
+        "t": "11:17*r Jer. 7:11",
+        "a": "d"
+    },
+    {
+        "o": 27212,
+        "r": "niv:Mark:11:19",
+        "w": 6,
+        "l": {},
+        "t": "11:19*r Some early manuscripts came,*i Jesus*i",
+        "a": "e"
+    },
+    {
+        "o": 27216,
+        "r": "niv:Mark:11:23",
+        "w": 0,
+        "l": {},
+        "t": "11:22,23*r Some early manuscripts “If*i you*i have*i faith*i in*i God,”*i Jesus*i answered,*i “truly*i",
+        "a": "f"
+    },
+    {
+        "o": 27218,
+        "r": "niv:Mark:11:25",
+        "w": 23,
+        "l": {},
+        "t": "11:26*r Some manuscripts include here words similar to Matt. 6:15.",
+        "a": "g"
+    },
+    {
+        "o": 27239,
+        "r": "niv:Mark:12:11",
+        "w": 11,
+        "l": {},
+        "t": "12:11*r Psalm 118:22,23",
+        "a": "a"
+    },
+    {
+        "o": 27243,
+        "r": "niv:Mark:12:14",
+        "w": 49,
+        "l": {},
+        "t": "12:14*r A special tax levied on subject peoples, not on Roman citizens",
+        "a": "b"
+    },
+    {
+        "o": 27253,
+        "r": "niv:Mark:12:23",
+        "w": 2,
+        "l": {},
+        "t": "12:23*r Some manuscripts resurrection,*i when*i people*i rise*i from*i the*i dead,*i",
+        "a": "c"
+    },
+    {
+        "o": 27256,
+        "r": "niv:Mark:12:26",
+        "w": 39,
+        "l": {},
+        "t": "12:26*r Exodus 3:6",
+        "a": "d"
+    },
+    {
+        "o": 27260,
+        "r": "niv:Mark:12:29",
+        "w": 18,
+        "l": {},
+        "t": "12:29*r Or The*i Lord*i our*i God*i is*i one*i Lord*i",
+        "a": "e"
+    },
+    {
+        "o": 27261,
+        "r": "niv:Mark:12:30",
+        "w": 23,
+        "l": {},
+        "t": "12:30*r Deut. 6:4,5",
+        "a": "f"
+    },
+    {
+        "o": 27262,
+        "r": "niv:Mark:12:31",
+        "w": 8,
+        "l": {},
+        "t": "12:31*r Lev. 19:18",
+        "a": "g"
+    },
+    {
+        "o": 27268,
+        "r": "niv:Mark:12:36",
+        "w": 26,
+        "l": {},
+        "t": "12:36*r Psalm 110:1",
+        "a": "h"
+    },
+    {
+        "o": 27294,
+        "r": "niv:Mark:13:14",
+        "w": 7,
+        "l": {},
+        "t": "13:14*r Daniel 9:27; 11:31; 12:11",
+        "a": "a"
+    },
+    {
+        "o": 27294,
+        "r": "niv:Mark:13:14",
+        "w": 10,
+        "l": {},
+        "t": "13:14*r Or he*i",
+        "a": "b"
+    },
+    {
+        "o": 27305,
+        "r": "niv:Mark:13:25",
+        "w": 13,
+        "l": {},
+        "t": "13:25*r Isaiah 13:10; 34:4",
+        "a": "c"
+    },
+    {
+        "o": 27309,
+        "r": "niv:Mark:13:29",
+        "w": 11,
+        "l": {},
+        "t": "13:29*r Or he*i",
+        "a": "d"
+    },
+    {
+        "o": 27314,
+        "r": "niv:Mark:13:33",
+        "w": 4,
+        "l": {},
+        "t": "13:33*r Some manuscripts alert*i and*i pray*i",
+        "a": "e"
+    },
+    {
+        "o": 27325,
+        "r": "niv:Mark:14:5",
+        "w": 10,
+        "l": {},
+        "t": "14:5*r Greek than*i three*i hundred*i denarii*i",
+        "a": "a"
+    },
+    {
+        "o": 27327,
+        "r": "niv:Mark:14:7",
+        "w": 7,
+        "l": {},
+        "t": "14:7*r See Deut. 15:11.",
+        "a": "b"
+    },
+    {
+        "o": 27345,
+        "r": "niv:Mark:14:24",
+        "w": 5,
+        "l": {},
+        "t": "14:24*r Some manuscripts the*i new*i",
+        "a": "c"
+    },
+    {
+        "o": 27349,
+        "r": "niv:Mark:14:27",
+        "w": 22,
+        "l": {},
+        "t": "14:27*r Zech. 13:7",
+        "a": "d"
+    },
+    {
+        "o": 27352,
+        "r": "niv:Mark:14:30",
+        "w": 11,
+        "l": {},
+        "t": "14:30*r Some early manuscripts do not have twice.*i",
+        "a": "e"
+    },
+    {
+        "o": 27359,
+        "r": "niv:Mark:14:36",
+        "w": 0,
+        "l": {},
+        "t": "14:36*r Aramaic for father*i",
+        "a": "f"
+    },
+    {
+        "o": 27394,
+        "r": "niv:Mark:14:68",
+        "w": 20,
+        "l": {},
+        "t": "14:68*r Some early manuscripts entryway*i and*i the*i rooster*i crowed*i",
+        "a": "g"
+    },
+    {
+        "o": 27398,
+        "r": "niv:Mark:14:72",
+        "w": 6,
+        "l": {},
+        "t": "14:72*r Some early manuscripts do not have the*i second*i time.*i",
+        "a": "h"
+    },
+    {
+        "o": 27398,
+        "r": "niv:Mark:14:72",
+        "w": 21,
+        "l": {},
+        "t": "14:72*r Some early manuscripts do not have twice.*i",
+        "a": "i"
+    },
+    {
+        "o": 27429,
+        "r": "niv:Mark:15:27",
+        "w": 14,
+        "l": {},
+        "t": "15:28*r Some manuscripts include here words similar to Luke 22:37.",
+        "a": "a"
+    },
+    {
+        "o": 27436,
+        "r": "niv:Mark:15:34",
+        "w": 27,
+        "l": {},
+        "t": "15:34*r Psalm 22:1",
+        "a": "b"
+    },
+    {
+        "o": 27441,
+        "r": "niv:Mark:15:39",
+        "w": 14,
+        "l": {},
+        "t": "15:39*r Some manuscripts saw*i that*i he*i died*i with*i such*i a*i cry*i",
+        "a": "c"
+    },
+    {
+        "o": 27442,
+        "r": "niv:Mark:15:40",
+        "w": 21,
+        "l": {},
+        "t": "15:40*r Greek Joses,*i a variant of Joseph*i ;*i also in verse 47",
+        "a": "d"
+    },
+    {
+        "o": 27460,
+        "r": "niv:Mark:16:8",
+        "w": 20,
+        "l": {},
+        "t": "16:8*r Some manuscripts have the following ending between verses 8 and 9, and one manuscript has it after verse 8 (omitting verses 9-20): Then*i they*i quickly*i reported*i all*i these*i instructions*i to*i those*i around*i Peter.*i After*i this,*i Jesus*i himself*i also*i sent*i out*i through*i them*i from*i east*i to*i west*i the*i sacred*i and*i imperishable*i proclamation*i of*i eternal*i salvation.*i Amen.*i",
+        "a": "a"
+    }
+]

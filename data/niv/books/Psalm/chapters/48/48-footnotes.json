@@ -1,0 +1,26 @@
+[
+    {
+        "o": 16020,
+        "r": "niv:Psalm:48:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 48:1-14 is numbered 48:2-15.",
+        "a": "a"
+    },
+    {
+        "o": 16022,
+        "r": "niv:Psalm:48:2",
+        "w": 14,
+        "l": {},
+        "t": "48:2*r Zaphon*i was the most sacred mountain of the Canaanites.",
+        "a": "b"
+    },
+    {
+        "o": 16028,
+        "r": "niv:Psalm:48:8",
+        "w": 25,
+        "l": {},
+        "t": "48:8*r The Hebrew has Selah*i (a word of uncertain meaning) here.",
+        "a": "c"
+    }
+]

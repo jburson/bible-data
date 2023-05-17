@@ -1,0 +1,298 @@
+[
+    {
+        "o": 34558,
+        "r": "esv:Revelation:9:1",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 8:10*34553; Revelation 12:9*34625; Luke 10:18*28366",
+        "a": "a"
+    },
+    {
+        "o": 34558,
+        "r": "esv:Revelation:9:1",
+        "w": 20,
+        "l": {},
+        "c": "Revelation 1:18*34410",
+        "a": "b"
+    },
+    {
+        "o": 34558,
+        "r": "esv:Revelation:9:1",
+        "w": 26,
+        "l": {},
+        "c": "Revelation 9:2*34559; Revelation 9:11*34568; Revelation 11:7*34600; Revelation 17:8*34722; Revelation 20:1*34786; Revelation 20:3*34788; Luke 8:31*28241; Romans 10:7*31526",
+        "a": "c"
+    },
+    {
+        "o": 34558,
+        "r": "esv:Revelation:9:1",
+        "w": 29,
+        "l": {},
+        "t": "Greek the*i abyss*i ; also verses 2, 11",
+        "a": "d"
+    },
+    {
+        "o": 34559,
+        "r": "esv:Revelation:9:2",
+        "w": 11,
+        "l": {},
+        "c": "Genesis 19:28*532; Isaiah 34:10*20371",
+        "a": "e"
+    },
+    {
+        "o": 34559,
+        "r": "esv:Revelation:9:2",
+        "w": 21,
+        "l": {},
+        "c": "Joel 2:10*24808",
+        "a": "f"
+    },
+    {
+        "o": 34560,
+        "r": "esv:Revelation:9:3",
+        "w": 4,
+        "l": {},
+        "c": "Exodus 10:4*1937",
+        "a": "g"
+    },
+    {
+        "o": 34561,
+        "r": "esv:Revelation:9:4",
+        "w": 2,
+        "l": {},
+        "c": "Revelation 6:6*34509; Revelation 7:3*34525",
+        "a": "h"
+    },
+    {
+        "o": 34561,
+        "r": "esv:Revelation:9:4",
+        "w": 5,
+        "l": {},
+        "c": "Revelation 8:7*34550",
+        "a": "i"
+    },
+    {
+        "o": 34561,
+        "r": "esv:Revelation:9:4",
+        "w": 25,
+        "l": {},
+        "c": "Revelation 7:2–3*34524",
+        "a": "j"
+    },
+    {
+        "o": 34562,
+        "r": "esv:Revelation:9:5",
+        "w": 5,
+        "l": {},
+        "c": "Revelation 9:10*34567",
+        "a": "k"
+    },
+    {
+        "o": 34563,
+        "r": "esv:Revelation:9:6",
+        "w": 3,
+        "l": {},
+        "c": "Job 3:21*14241; Job 7:15–16*14346; Jeremiah 8:3*21317",
+        "a": "l"
+    },
+    {
+        "o": 34564,
+        "r": "esv:Revelation:9:7",
+        "w": 0,
+        "l": {},
+        "c": "Joel 2:4*24802",
+        "a": "m"
+    },
+    {
+        "o": 34564,
+        "r": "esv:Revelation:9:7",
+        "w": 9,
+        "l": {},
+        "c": "Nahum 3:17*25286",
+        "a": "n"
+    },
+    {
+        "o": 34564,
+        "r": "esv:Revelation:9:7",
+        "w": 22,
+        "l": {},
+        "c": "Daniel 7:8*24381",
+        "a": "o"
+    },
+    {
+        "o": 34565,
+        "r": "esv:Revelation:9:8",
+        "w": 5,
+        "l": {},
+        "c": "Joel 1:6*24781",
+        "a": "p"
+    },
+    {
+        "o": 34566,
+        "r": "esv:Revelation:9:9",
+        "w": 13,
+        "l": {},
+        "c": "Joel 2:5*24803",
+        "a": "q"
+    },
+    {
+        "o": 34566,
+        "r": "esv:Revelation:9:9",
+        "w": 20,
+        "l": {},
+        "c": "Jeremiah 8:6*21320; Job 39:21–25*15239",
+        "a": "r"
+    },
+    {
+        "o": 34567,
+        "r": "esv:Revelation:9:10",
+        "w": 12,
+        "l": {},
+        "c": "Revelation 9:5*34562",
+        "a": "s"
+    },
+    {
+        "o": 34568,
+        "r": "esv:Revelation:9:11",
+        "w": 1,
+        "l": {},
+        "c": "Job 18:14*14635; Proverbs 30:27*19162; Ephesians 2:2*32697",
+        "a": "t"
+    },
+    {
+        "o": 34568,
+        "r": "esv:Revelation:9:11",
+        "w": 16,
+        "l": {},
+        "c": "Job 26:6*14833",
+        "a": "u"
+    },
+    {
+        "o": 34568,
+        "r": "esv:Revelation:9:11",
+        "w": 24,
+        "l": {},
+        "t": "Abaddon*i means destruction*i ; Apollyon*i means destroyer*i",
+        "a": "v"
+    },
+    {
+        "o": 34569,
+        "r": "esv:Revelation:9:12",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 8:13*34556; Revelation 11:14*34608",
+        "a": "w"
+    },
+    {
+        "o": 34570,
+        "r": "esv:Revelation:9:13",
+        "w": 12,
+        "l": {},
+        "c": "Exodus 30:3*2597",
+        "a": "x"
+    },
+    {
+        "o": 34571,
+        "r": "esv:Revelation:9:14",
+        "w": 9,
+        "l": {},
+        "c": "Revelation 7:1*34523",
+        "a": "y"
+    },
+    {
+        "o": 34571,
+        "r": "esv:Revelation:9:14",
+        "w": 16,
+        "l": {},
+        "c": "Revelation 16:12*34702",
+        "a": "z"
+    },
+    {
+        "o": 34572,
+        "r": "esv:Revelation:9:15",
+        "w": 19,
+        "l": {},
+        "c": "Revelation 8:7*34550",
+        "a": "a"
+    },
+    {
+        "o": 34573,
+        "r": "esv:Revelation:9:16",
+        "w": 2,
+        "l": {},
+        "c": "Ezekiel 38:4*23812",
+        "a": "b"
+    },
+    {
+        "o": 34573,
+        "r": "esv:Revelation:9:16",
+        "w": 5,
+        "l": {},
+        "c": "Psalm 68:17*16510; Daniel 7:10*24383",
+        "a": "c"
+    },
+    {
+        "o": 34573,
+        "r": "esv:Revelation:9:16",
+        "w": 11,
+        "l": {},
+        "c": "Revelation 7:4*34526",
+        "a": "d"
+    },
+    {
+        "o": 34574,
+        "r": "esv:Revelation:9:17",
+        "w": 25,
+        "l": {},
+        "t": "Greek hyacinth*i",
+        "a": "e"
+    },
+    {
+        "o": 34574,
+        "r": "esv:Revelation:9:17",
+        "w": 35,
+        "l": {},
+        "c": "1 Chronicles 12:8*11784; Isaiah 5:28–29*19755",
+        "a": "f"
+    },
+    {
+        "o": 34577,
+        "r": "esv:Revelation:9:20",
+        "w": 10,
+        "l": {},
+        "c": "Revelation 2:21*34438",
+        "a": "g"
+    },
+    {
+        "o": 34577,
+        "r": "esv:Revelation:9:20",
+        "w": 14,
+        "l": {},
+        "c": "Deuteronomy 31:29*6291; Jeremiah 1:16*21106; Jeremiah 25:14*21754",
+        "a": "h"
+    },
+    {
+        "o": 34577,
+        "r": "esv:Revelation:9:20",
+        "w": 23,
+        "l": {},
+        "c": "1 Corinthians 10:20*31967",
+        "a": "i"
+    },
+    {
+        "o": 34577,
+        "r": "esv:Revelation:9:20",
+        "w": 24,
+        "l": {},
+        "c": "Psalm 115:4–7*17554; Psalm 135:15–17*17987; Daniel 5:23*24332",
+        "a": "j"
+    },
+    {
+        "o": 34578,
+        "r": "esv:Revelation:9:21",
+        "w": 8,
+        "l": {},
+        "c": "Revelation 21:8*34813; Revelation 22:15*34850; Galatians 5:20*32639",
+        "a": "k"
+    }
+]

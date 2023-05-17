@@ -1,0 +1,690 @@
+[
+    {
+        "o": 32966,
+        "r": "esv:Colossians:1:1",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 1:1*32205",
+        "a": "a"
+    },
+    {
+        "o": 32966,
+        "r": "esv:Colossians:1:1",
+        "w": 5,
+        "l": {},
+        "c": "1 Corinthians 1:1*31719",
+        "a": "b"
+    },
+    {
+        "o": 32966,
+        "r": "esv:Colossians:1:1",
+        "w": 12,
+        "l": {},
+        "c": "1 Thessalonians 3:2*33111",
+        "a": "c"
+    },
+    {
+        "o": 32967,
+        "r": "esv:Colossians:1:2",
+        "w": 1,
+        "l": {},
+        "c": "Ephesians 1:1*32669; Philippians 1:1*32845",
+        "a": "d"
+    },
+    {
+        "o": 32967,
+        "r": "esv:Colossians:1:2",
+        "w": 5,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i . In New Testament usage, depending on the context, the plural Greek word adelphoi*i (translated “brothers”) may refer either to brothers*i or to brothers*i and*i sisters*i",
+        "a": "e"
+    },
+    {
+        "o": 32967,
+        "r": "esv:Colossians:1:2",
+        "w": 9,
+        "l": {},
+        "c": "Romans 1:7*31237",
+        "a": "f"
+    },
+    {
+        "o": 32969,
+        "r": "esv:Colossians:1:3",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 1:15–16*32685; Philemon 4*33522",
+        "a": "g"
+    },
+    {
+        "o": 32970,
+        "r": "esv:Colossians:1:4",
+        "w": 3,
+        "l": {},
+        "c": "1 Thessalonians 1:3*33078",
+        "a": "h"
+    },
+    {
+        "o": 32970,
+        "r": "esv:Colossians:1:4",
+        "w": 10,
+        "l": {},
+        "c": "1 Thessalonians 1:3*33078",
+        "a": "i"
+    },
+    {
+        "o": 32971,
+        "r": "esv:Colossians:1:5",
+        "w": 1,
+        "l": {},
+        "c": "Colossians 1:23*32991; Acts 23:6*31020; Titus 1:2*33465; Hebrews 3:6*33591",
+        "a": "j"
+    },
+    {
+        "o": 32971,
+        "r": "esv:Colossians:1:5",
+        "w": 3,
+        "l": {},
+        "c": "2 Timothy 4:8*33446; 1 Peter 1:4*34015",
+        "a": "k"
+    },
+    {
+        "o": 32971,
+        "r": "esv:Colossians:1:5",
+        "w": 16,
+        "l": {},
+        "c": "Ephesians 1:13*32682",
+        "a": "l"
+    },
+    {
+        "o": 32972,
+        "r": "esv:Colossians:1:6",
+        "w": 6,
+        "l": {},
+        "c": "Colossians 1:23*32991; Psalm 98:3*17171; Matthew 24:14*26744",
+        "a": "m"
+    },
+    {
+        "o": 32972,
+        "r": "esv:Colossians:1:6",
+        "w": 12,
+        "l": {},
+        "c": "John 15:5*29858; John 15:16*29869; Philippians 1:11*32857",
+        "a": "n"
+    },
+    {
+        "o": 32972,
+        "r": "esv:Colossians:1:6",
+        "w": 26,
+        "l": {},
+        "c": "Romans 16:26*31715; Ephesians 4:21*32766",
+        "a": "o"
+    },
+    {
+        "o": 32972,
+        "r": "esv:Colossians:1:6",
+        "w": 30,
+        "l": {},
+        "c": "Acts 11:23*30562",
+        "a": "p"
+    },
+    {
+        "o": 32973,
+        "r": "esv:Colossians:1:7",
+        "w": 5,
+        "l": {},
+        "c": "Colossians 4:12*33066; Philemon 23*33543",
+        "a": "q"
+    },
+    {
+        "o": 32973,
+        "r": "esv:Colossians:1:7",
+        "w": 8,
+        "l": {},
+        "c": "Colossians 4:7*33061",
+        "a": "r"
+    },
+    {
+        "o": 32973,
+        "r": "esv:Colossians:1:7",
+        "w": 10,
+        "l": {},
+        "t": "For the contextual rendering of the Greek word sundoulos*i , see Preface",
+        "a": "s"
+    },
+    {
+        "o": 32973,
+        "r": "esv:Colossians:1:7",
+        "w": 12,
+        "l": {},
+        "c": "Colossians 4:7*33061",
+        "a": "t"
+    },
+    {
+        "o": 32973,
+        "r": "esv:Colossians:1:7",
+        "w": 19,
+        "l": {},
+        "t": "Some manuscripts our*i",
+        "a": "u"
+    },
+    {
+        "o": 32974,
+        "r": "esv:Colossians:1:8",
+        "w": 6,
+        "l": {},
+        "c": "Romans 15:30*31683",
+        "a": "v"
+    },
+    {
+        "o": 32975,
+        "r": "esv:Colossians:1:9",
+        "w": 1,
+        "l": {},
+        "c": "Colossians 1:4*32970",
+        "a": "w"
+    },
+    {
+        "o": 32975,
+        "r": "esv:Colossians:1:9",
+        "w": 6,
+        "l": {},
+        "c": "2 Thessalonians 1:11*33190",
+        "a": "x"
+    },
+    {
+        "o": 32975,
+        "r": "esv:Colossians:1:9",
+        "w": 16,
+        "l": {},
+        "c": "Ephesians 1:17*32687",
+        "a": "y"
+    },
+    {
+        "o": 32975,
+        "r": "esv:Colossians:1:9",
+        "w": 28,
+        "l": {},
+        "c": "Colossians 4:5*33058; Ephesians 1:8*32677; 1 Corinthians 12:8*32028",
+        "a": "z"
+    },
+    {
+        "o": 32976,
+        "r": "esv:Colossians:1:10",
+        "w": 1,
+        "l": {},
+        "c": "Psalm 1:1*15335; Psalm 1:3*15337; Ephesians 4:1*32745",
+        "a": "a"
+    },
+    {
+        "o": 32976,
+        "r": "esv:Colossians:1:10",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 5:9*32302; Ephesians 5:10*32789; 1 Thessalonians 4:1*33126",
+        "a": "b"
+    },
+    {
+        "o": 32976,
+        "r": "esv:Colossians:1:10",
+        "w": 14,
+        "l": {},
+        "c": "Colossians 1:6*32972",
+        "a": "c"
+    },
+    {
+        "o": 32977,
+        "r": "esv:Colossians:1:11",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 3:16*32737",
+        "a": "d"
+    },
+    {
+        "o": 32977,
+        "r": "esv:Colossians:1:11",
+        "w": 10,
+        "l": {},
+        "c": "Ephesians 4:2*32746",
+        "a": "e"
+    },
+    {
+        "o": 32977,
+        "r": "esv:Colossians:1:11",
+        "w": 14,
+        "l": {},
+        "c": "Matthew 5:12*25897",
+        "a": "f"
+    },
+    {
+        "o": 32978,
+        "r": "esv:Colossians:1:12",
+        "w": 0,
+        "l": {},
+        "c": "Colossians 3:15*33040; Ephesians 5:20*32799",
+        "a": "g"
+    },
+    {
+        "o": 32978,
+        "r": "esv:Colossians:1:12",
+        "w": 1,
+        "l": {},
+        "t": "Or patience,*i with*i joy*i giving*i thanks*i",
+        "a": "h"
+    },
+    {
+        "o": 32978,
+        "r": "esv:Colossians:1:12",
+        "w": 8,
+        "l": {},
+        "t": "Some manuscripts us*i",
+        "a": "i"
+    },
+    {
+        "o": 32978,
+        "r": "esv:Colossians:1:12",
+        "w": 11,
+        "l": {},
+        "c": "Acts 26:18*31131",
+        "a": "j"
+    },
+    {
+        "o": 32979,
+        "r": "esv:Colossians:1:13",
+        "w": 0,
+        "l": {},
+        "c": "1 Thessalonians 1:10*33085",
+        "a": "k"
+    },
+    {
+        "o": 32979,
+        "r": "esv:Colossians:1:13",
+        "w": 4,
+        "l": {},
+        "c": "Luke 22:53*28989; Ephesians 6:12*32829",
+        "a": "l"
+    },
+    {
+        "o": 32979,
+        "r": "esv:Colossians:1:13",
+        "w": 12,
+        "l": {},
+        "c": "2 Peter 1:11*34143",
+        "a": "m"
+    },
+    {
+        "o": 32979,
+        "r": "esv:Colossians:1:13",
+        "w": 15,
+        "l": {},
+        "c": "Ephesians 1:6*32675",
+        "a": "n"
+    },
+    {
+        "o": 32980,
+        "r": "esv:Colossians:1:14",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 1:7*32676",
+        "a": "o"
+    },
+    {
+        "o": 32982,
+        "r": "esv:Colossians:1:15",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 4:4*32276",
+        "a": "p"
+    },
+    {
+        "o": 32982,
+        "r": "esv:Colossians:1:15",
+        "w": 4,
+        "l": {},
+        "c": "1 Timothy 1:17*33254",
+        "a": "q"
+    },
+    {
+        "o": 32982,
+        "r": "esv:Colossians:1:15",
+        "w": 7,
+        "l": {},
+        "c": "Psalm 89:27*17009; Romans 8:29*31470",
+        "a": "r"
+    },
+    {
+        "o": 32983,
+        "r": "esv:Colossians:1:16",
+        "w": 1,
+        "l": {},
+        "t": "That is, by means of; or in*i",
+        "a": "s"
+    },
+    {
+        "o": 32983,
+        "r": "esv:Colossians:1:16",
+        "w": 6,
+        "l": {},
+        "c": "Ephesians 1:10*32679",
+        "a": "t"
+    },
+    {
+        "o": 32983,
+        "r": "esv:Colossians:1:16",
+        "w": 15,
+        "l": {},
+        "c": "Ezekiel 10:1*22942",
+        "a": "u"
+    },
+    {
+        "o": 32983,
+        "r": "esv:Colossians:1:16",
+        "w": 17,
+        "l": {},
+        "c": "Ephesians 1:21*32691",
+        "a": "v"
+    },
+    {
+        "o": 32983,
+        "r": "esv:Colossians:1:16",
+        "w": 26,
+        "l": {},
+        "c": "Romans 11:36*31580; 1 Corinthians 8:6*31909",
+        "a": "w"
+    },
+    {
+        "o": 32984,
+        "r": "esv:Colossians:1:17",
+        "w": 0,
+        "l": {},
+        "c": "John 8:58*29563; John 1:1*29132",
+        "a": "x"
+    },
+    {
+        "o": 32984,
+        "r": "esv:Colossians:1:17",
+        "w": 10,
+        "l": {},
+        "c": "Hebrews 1:3*33550",
+        "a": "y"
+    },
+    {
+        "o": 32985,
+        "r": "esv:Colossians:1:18",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 1:22–23*32692",
+        "a": "z"
+    },
+    {
+        "o": 32985,
+        "r": "esv:Colossians:1:18",
+        "w": 11,
+        "l": {},
+        "c": "Revelation 3:14*34464",
+        "a": "a"
+    },
+    {
+        "o": 32985,
+        "r": "esv:Colossians:1:18",
+        "w": 13,
+        "l": {},
+        "c": "Acts 26:23*31136; 1 Corinthians 15:20*32133; Revelation 1:5*34396",
+        "a": "b"
+    },
+    {
+        "o": 32986,
+        "r": "esv:Colossians:1:19",
+        "w": 0,
+        "l": {},
+        "c": "Colossians 2:9*33008",
+        "a": "c"
+    },
+    {
+        "o": 32986,
+        "r": "esv:Colossians:1:19",
+        "w": 4,
+        "l": {},
+        "c": "John 1:16*29147",
+        "a": "d"
+    },
+    {
+        "o": 32987,
+        "r": "esv:Colossians:1:20",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 5:18*32312; Ephesians 1:10*32679",
+        "a": "e"
+    },
+    {
+        "o": 32987,
+        "r": "esv:Colossians:1:20",
+        "w": 14,
+        "l": {},
+        "c": "Ephesians 2:14*32710",
+        "a": "f"
+    },
+    {
+        "o": 32987,
+        "r": "esv:Colossians:1:20",
+        "w": 16,
+        "l": {},
+        "c": "Ephesians 2:13*32709",
+        "a": "g"
+    },
+    {
+        "o": 32988,
+        "r": "esv:Colossians:1:21",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 2:1–2*32696; Ephesians 2:12*32708",
+        "a": "h"
+    },
+    {
+        "o": 32988,
+        "r": "esv:Colossians:1:21",
+        "w": 9,
+        "l": {},
+        "c": "Titus 1:16*33480",
+        "a": "i"
+    },
+    {
+        "o": 32989,
+        "r": "esv:Colossians:1:22",
+        "w": 3,
+        "l": {},
+        "c": "Romans 7:4*31415",
+        "a": "j"
+    },
+    {
+        "o": 32989,
+        "r": "esv:Colossians:1:22",
+        "w": 11,
+        "l": {},
+        "c": "Jude 24*34387; Ephesians 1:4*32673; Ephesians 5:27*32807",
+        "a": "k"
+    },
+    {
+        "o": 32989,
+        "r": "esv:Colossians:1:22",
+        "w": 20,
+        "l": {},
+        "c": "1 Corinthians 1:8*31727",
+        "a": "l"
+    },
+    {
+        "o": 32990,
+        "r": "esv:Colossians:1:23",
+        "w": 0,
+        "l": {},
+        "c": "John 15:4*29857",
+        "a": "m"
+    },
+    {
+        "o": 32990,
+        "r": "esv:Colossians:1:23",
+        "w": 6,
+        "l": {},
+        "c": "Colossians 2:7*33006; Ephesians 3:17*32738",
+        "a": "n"
+    },
+    {
+        "o": 32990,
+        "r": "esv:Colossians:1:23",
+        "w": 12,
+        "l": {},
+        "c": "Colossians 1:5–6*32971",
+        "a": "o"
+    },
+    {
+        "o": 32990,
+        "r": "esv:Colossians:1:23",
+        "w": 24,
+        "l": {},
+        "c": "Mark 16:15*27799; Acts 2:5*30147",
+        "a": "p"
+    },
+    {
+        "o": 32990,
+        "r": "esv:Colossians:1:23",
+        "w": 27,
+        "l": {},
+        "t": "Or to*i every*i creature*i",
+        "a": "q"
+    },
+    {
+        "o": 32990,
+        "r": "esv:Colossians:1:23",
+        "w": 29,
+        "l": {},
+        "c": "2 Corinthians 3:6*32258",
+        "a": "r"
+    },
+    {
+        "o": 32992,
+        "r": "esv:Colossians:1:24",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 7:4*32341",
+        "a": "s"
+    },
+    {
+        "o": 32992,
+        "r": "esv:Colossians:1:24",
+        "w": 12,
+        "l": {},
+        "c": "2 Timothy 1:8*33376; 2 Timothy 2:10*33398",
+        "a": "t"
+    },
+    {
+        "o": 32992,
+        "r": "esv:Colossians:1:24",
+        "w": 16,
+        "l": {},
+        "c": "2 Corinthians 1:5*32210",
+        "a": "u"
+    },
+    {
+        "o": 32992,
+        "r": "esv:Colossians:1:24",
+        "w": 22,
+        "l": {},
+        "c": "Ephesians 4:12*32756",
+        "a": "v"
+    },
+    {
+        "o": 32993,
+        "r": "esv:Colossians:1:25",
+        "w": 0,
+        "l": {},
+        "c": "Colossians 1:23*32991",
+        "a": "w"
+    },
+    {
+        "o": 32993,
+        "r": "esv:Colossians:1:25",
+        "w": 7,
+        "l": {},
+        "c": "Ephesians 3:2*32722",
+        "a": "x"
+    },
+    {
+        "o": 32994,
+        "r": "esv:Colossians:1:26",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 3:9*32729; Romans 16:25–26*31714",
+        "a": "y"
+    },
+    {
+        "o": 32995,
+        "r": "esv:Colossians:1:27",
+        "w": 0,
+        "l": {},
+        "c": "Colossians 2:2*33000",
+        "a": "z"
+    },
+    {
+        "o": 32995,
+        "r": "esv:Colossians:1:27",
+        "w": 12,
+        "l": {},
+        "c": "Ephesians 1:18*32688; Ephesians 3:16*32737",
+        "a": "a"
+    },
+    {
+        "o": 32995,
+        "r": "esv:Colossians:1:27",
+        "w": 18,
+        "l": {},
+        "c": "Colossians 1:26*32994",
+        "a": "b"
+    },
+    {
+        "o": 32995,
+        "r": "esv:Colossians:1:27",
+        "w": 25,
+        "l": {},
+        "c": "1 Timothy 1:1*33236",
+        "a": "c"
+    },
+    {
+        "o": 32996,
+        "r": "esv:Colossians:1:28",
+        "w": 11,
+        "l": {},
+        "c": "Colossians 1:22–23*32989",
+        "a": "d"
+    },
+    {
+        "o": 32996,
+        "r": "esv:Colossians:1:28",
+        "w": 15,
+        "l": {},
+        "c": "Matthew 5:48*25940",
+        "a": "e"
+    },
+    {
+        "o": 32997,
+        "r": "esv:Colossians:1:29",
+        "w": 1,
+        "l": {},
+        "c": "1 Corinthians 15:10*32122; 1 Timothy 4:10*33307",
+        "a": "f"
+    },
+    {
+        "o": 32997,
+        "r": "esv:Colossians:1:29",
+        "w": 3,
+        "l": {},
+        "c": "Colossians 4:12*33066; Colossians 2:1*32999",
+        "a": "g"
+    },
+    {
+        "o": 32997,
+        "r": "esv:Colossians:1:29",
+        "w": 4,
+        "l": {},
+        "c": "Ephesians 1:19*32689",
+        "a": "h"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "o": 8045,
+        "r": "niv:1 Samuel:8:1",
+        "w": 10,
+        "l": {},
+        "t": "8:1*r Traditionally judges*i",
+        "a": "a"
+    },
+    {
+        "o": 8049,
+        "r": "niv:1 Samuel:8:5",
+        "w": 20,
+        "l": {},
+        "t": "8:5*r Traditionally judge*i ; also in verses 6 and 20",
+        "a": "b"
+    },
+    {
+        "o": 8060,
+        "r": "niv:1 Samuel:8:16",
+        "w": 10,
+        "l": {},
+        "t": "8:16*r Septuagint; Hebrew young*i men*i",
+        "a": "c"
+    }
+]

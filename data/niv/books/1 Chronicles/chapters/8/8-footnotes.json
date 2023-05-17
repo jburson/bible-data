@@ -1,0 +1,50 @@
+[
+    {
+        "o": 11574,
+        "r": "niv:1 Chronicles:8:3",
+        "w": 7,
+        "l": {},
+        "t": "8:3*r Or Gera*i the*i father*i of*i Ehud*i",
+        "a": "a"
+    },
+    {
+        "o": 11600,
+        "r": "niv:1 Chronicles:8:29",
+        "w": 0,
+        "l": {},
+        "t": "8:29*r Some Septuagint manuscripts (see also 9:35); Hebrew does not have Jeiel*i .*i",
+        "a": "b"
+    },
+    {
+        "o": 11600,
+        "r": "niv:1 Chronicles:8:29",
+        "w": 2,
+        "l": {},
+        "t": "8:29*r Father*i may mean civic*i leader*i or military*i leader.*i",
+        "a": "c"
+    },
+    {
+        "o": 11601,
+        "r": "niv:1 Chronicles:8:30",
+        "w": 11,
+        "l": {},
+        "t": "8:30*r Some Septuagint manuscripts (see also 9:36); Hebrew does not have Ner*i .*i",
+        "a": "d"
+    },
+    {
+        "o": 11604,
+        "r": "niv:1 Chronicles:8:33",
+        "w": 20,
+        "l": {},
+        "t": "8:33*r Also known as Ish-Bosheth*i",
+        "a": "e"
+    },
+    {
+        "o": 11605,
+        "r": "niv:1 Chronicles:8:34",
+        "w": 4,
+        "l": {},
+        "t": "8:34*r Also known as Mephibosheth*i",
+        "a": "f"
+    }
+]

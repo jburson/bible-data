@@ -1,0 +1,42 @@
+[
+    {
+        "o": 15894,
+        "r": "niv:Psalm:40:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 40:1-17 is numbered 40:2-18.",
+        "a": "a"
+    },
+    {
+        "o": 15898,
+        "r": "niv:Psalm:40:4",
+        "w": 23,
+        "l": {},
+        "t": "40:4*r Or to*i lies*i",
+        "a": "b"
+    },
+    {
+        "o": 15900,
+        "r": "niv:Psalm:40:6",
+        "w": 12,
+        "l": {},
+        "t": "40:6*r Hebrew; some Septuagint manuscripts but*i a*i body*i you*i have*i prepared*i for*i me*i",
+        "a": "c"
+    },
+    {
+        "o": 15900,
+        "r": "niv:Psalm:40:6",
+        "w": 17,
+        "l": {},
+        "t": "40:6*r Or purification*i offerings*i",
+        "a": "d"
+    },
+    {
+        "o": 15901,
+        "r": "niv:Psalm:40:7",
+        "w": 16,
+        "l": {},
+        "t": "40:7*r Or come*i /*i with*i the*i scroll*i written*i for*i me*i",
+        "a": "e"
+    }
+]

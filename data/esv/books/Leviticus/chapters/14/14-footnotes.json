@@ -1,0 +1,410 @@
+[
+    {
+        "o": 3388,
+        "r": "esv:Leviticus:14:2",
+        "w": 14,
+        "l": {},
+        "c": "Matthew 8:2*26021; Matthew 8:4*26024; Mark 1:40*27071; Mark 1:44*27075; Luke 5:12*28057; Luke 5:14*28059; Luke 17:14*28698",
+        "a": "a"
+    },
+    {
+        "o": 3389,
+        "r": "esv:Leviticus:14:3",
+        "w": 4,
+        "l": {},
+        "c": "2 Kings 7:10*10662; Luke 17:12*28696",
+        "a": "b"
+    },
+    {
+        "o": 3390,
+        "r": "esv:Leviticus:14:4",
+        "w": 15,
+        "l": {},
+        "t": "Or wild*i",
+        "a": "c"
+    },
+    {
+        "o": 3390,
+        "r": "esv:Leviticus:14:4",
+        "w": 18,
+        "l": {},
+        "c": "Numbers 19:6*4674",
+        "a": "d"
+    },
+    {
+        "o": 3390,
+        "r": "esv:Leviticus:14:4",
+        "w": 20,
+        "l": {},
+        "c": "Hebrews 9:19*33728",
+        "a": "e"
+    },
+    {
+        "o": 3390,
+        "r": "esv:Leviticus:14:4",
+        "w": 23,
+        "l": {},
+        "c": "Exodus 12:22*1999",
+        "a": "f"
+    },
+    {
+        "o": 3391,
+        "r": "esv:Leviticus:14:5",
+        "w": 17,
+        "l": {},
+        "t": "Or running*i ; Hebrew living*i ; also verses 6, 50, 51, 52",
+        "a": "g"
+    },
+    {
+        "o": 3393,
+        "r": "esv:Leviticus:14:7",
+        "w": 2,
+        "l": {},
+        "c": "Hebrews 9:13*33722",
+        "a": "h"
+    },
+    {
+        "o": 3393,
+        "r": "esv:Leviticus:14:7",
+        "w": 4,
+        "l": {},
+        "c": "2 Kings 5:10*10594; 2 Kings 5:14*10599",
+        "a": "i"
+    },
+    {
+        "o": 3393,
+        "r": "esv:Leviticus:14:7",
+        "w": 25,
+        "l": {},
+        "c": "Leviticus 16:22*3503",
+        "a": "j"
+    },
+    {
+        "o": 3393,
+        "r": "esv:Leviticus:14:7",
+        "w": 30,
+        "l": {},
+        "c": "Leviticus 14:53*3440; Leviticus 17:5*3522",
+        "a": "k"
+    },
+    {
+        "o": 3394,
+        "r": "esv:Leviticus:14:8",
+        "w": 6,
+        "l": {},
+        "c": "Leviticus 14:47*3434; Leviticus 11:25*3291",
+        "a": "l"
+    },
+    {
+        "o": 3394,
+        "r": "esv:Leviticus:14:8",
+        "w": 36,
+        "l": {},
+        "c": "Numbers 12:15*4432",
+        "a": "m"
+    },
+    {
+        "o": 3395,
+        "r": "esv:Leviticus:14:9",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 31:19*5106",
+        "a": "n"
+    },
+    {
+        "o": 3395,
+        "r": "esv:Leviticus:14:9",
+        "w": 29,
+        "l": {},
+        "c": "Leviticus 14:8*3394",
+        "a": "o"
+    },
+    {
+        "o": 3396,
+        "r": "esv:Leviticus:14:10",
+        "w": 5,
+        "l": {},
+        "c": "Matthew 8:4*26024; Mark 1:44*27075; Luke 5:14*28059",
+        "a": "p"
+    },
+    {
+        "o": 3396,
+        "r": "esv:Leviticus:14:10",
+        "w": 23,
+        "l": {},
+        "c": "Numbers 15:4*4525; Leviticus 2:1*3015",
+        "a": "q"
+    },
+    {
+        "o": 3396,
+        "r": "esv:Leviticus:14:10",
+        "w": 31,
+        "l": {},
+        "t": "An ephah*i was about 3/5 bushel or 22 liters",
+        "a": "r"
+    },
+    {
+        "o": 3396,
+        "r": "esv:Leviticus:14:10",
+        "w": 40,
+        "l": {},
+        "t": "A log*i was about 1/3 quart or 0.3 liter",
+        "a": "s"
+    },
+    {
+        "o": 3398,
+        "r": "esv:Leviticus:14:12",
+        "w": 10,
+        "l": {},
+        "c": "Leviticus 5:18*3106; Leviticus 6:6–7*3114",
+        "a": "t"
+    },
+    {
+        "o": 3398,
+        "r": "esv:Leviticus:14:12",
+        "w": 23,
+        "l": {},
+        "c": "Exodus 29:24*2570",
+        "a": "u"
+    },
+    {
+        "o": 3399,
+        "r": "esv:Leviticus:14:13",
+        "w": 5,
+        "l": {},
+        "c": "Leviticus 1:5*3000; Leviticus 1:11*3006; Leviticus 4:4*3055; Leviticus 4:24*3075",
+        "a": "v"
+    },
+    {
+        "o": 3399,
+        "r": "esv:Leviticus:14:13",
+        "w": 25,
+        "l": {},
+        "c": "Leviticus 7:7*3147",
+        "a": "w"
+    },
+    {
+        "o": 3399,
+        "r": "esv:Leviticus:14:13",
+        "w": 36,
+        "l": {},
+        "c": "Leviticus 2:3*3017; Leviticus 7:6*3146",
+        "a": "x"
+    },
+    {
+        "o": 3400,
+        "r": "esv:Leviticus:14:14",
+        "w": 17,
+        "l": {},
+        "c": "Leviticus 8:23*3203; Exodus 29:20*2566",
+        "a": "y"
+    },
+    {
+        "o": 3404,
+        "r": "esv:Leviticus:14:18",
+        "w": 24,
+        "l": {},
+        "c": "Leviticus 4:26*3077",
+        "a": "z"
+    },
+    {
+        "o": 3406,
+        "r": "esv:Leviticus:14:20",
+        "w": 9,
+        "l": {},
+        "c": "Leviticus 14:10*3396",
+        "a": "a"
+    },
+    {
+        "o": 3406,
+        "r": "esv:Leviticus:14:20",
+        "w": 14,
+        "l": {},
+        "c": "Leviticus 14:18*3404",
+        "a": "b"
+    },
+    {
+        "o": 3407,
+        "r": "esv:Leviticus:14:21",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 5:7*3094; Leviticus 5:11*3098; Leviticus 12:8*3323",
+        "a": "c"
+    },
+    {
+        "o": 3407,
+        "r": "esv:Leviticus:14:21",
+        "w": 20,
+        "l": {},
+        "c": "Leviticus 14:12*3398",
+        "a": "d"
+    },
+    {
+        "o": 3408,
+        "r": "esv:Leviticus:14:22",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 12:8*3323",
+        "a": "e"
+    },
+    {
+        "o": 3409,
+        "r": "esv:Leviticus:14:23",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 14:10–11*3396",
+        "a": "f"
+    },
+    {
+        "o": 3410,
+        "r": "esv:Leviticus:14:24",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 14:12*3398",
+        "a": "g"
+    },
+    {
+        "o": 3411,
+        "r": "esv:Leviticus:14:25",
+        "w": 9,
+        "l": {},
+        "c": "Leviticus 14:25–29*3411; Leviticus 14:14–18*3400",
+        "a": "h"
+    },
+    {
+        "o": 3416,
+        "r": "esv:Leviticus:14:30",
+        "w": 5,
+        "l": {},
+        "c": "Leviticus 14:22*3408; Leviticus 15:15*3461",
+        "a": "i"
+    },
+    {
+        "o": 3417,
+        "r": "esv:Leviticus:14:31",
+        "w": 0,
+        "l": {},
+        "t": "Septuagint, Syriac; Hebrew afford,*i 31*i such*i as*i he*i can*i afford,*i one*i",
+        "a": "j"
+    },
+    {
+        "o": 3417,
+        "r": "esv:Leviticus:14:31",
+        "w": 16,
+        "l": {},
+        "c": "Leviticus 14:18*3404",
+        "a": "k"
+    },
+    {
+        "o": 3418,
+        "r": "esv:Leviticus:14:32",
+        "w": 16,
+        "l": {},
+        "c": "Leviticus 14:10*3396",
+        "a": "l"
+    },
+    {
+        "o": 3421,
+        "r": "esv:Leviticus:14:34",
+        "w": 11,
+        "l": {},
+        "c": "Genesis 17:8*446; Numbers 32:22*5165; Deuteronomy 32:49*6343",
+        "a": "m"
+    },
+    {
+        "o": 3422,
+        "r": "esv:Leviticus:14:35",
+        "w": 20,
+        "l": {},
+        "c": "Psalm 91:10*17067; Zechariah 5:4*25536",
+        "a": "n"
+    },
+    {
+        "o": 3431,
+        "r": "esv:Leviticus:14:44",
+        "w": 18,
+        "l": {},
+        "c": "Leviticus 13:51–52*3376",
+        "a": "o"
+    },
+    {
+        "o": 3434,
+        "r": "esv:Leviticus:14:47",
+        "w": 5,
+        "l": {},
+        "c": "Leviticus 11:25*3291",
+        "a": "p"
+    },
+    {
+        "o": 3436,
+        "r": "esv:Leviticus:14:49",
+        "w": 2,
+        "l": {},
+        "c": "Leviticus 14:52*3439",
+        "a": "q"
+    },
+    {
+        "o": 3436,
+        "r": "esv:Leviticus:14:49",
+        "w": 9,
+        "l": {},
+        "c": "Leviticus 14:4–6*3390",
+        "a": "r"
+    },
+    {
+        "o": 3440,
+        "r": "esv:Leviticus:14:53",
+        "w": 11,
+        "l": {},
+        "c": "Leviticus 14:7*3393",
+        "a": "s"
+    },
+    {
+        "o": 3440,
+        "r": "esv:Leviticus:14:53",
+        "w": 18,
+        "l": {},
+        "c": "Leviticus 14:19–20*3405",
+        "a": "t"
+    },
+    {
+        "o": 3441,
+        "r": "esv:Leviticus:14:54",
+        "w": 10,
+        "l": {},
+        "c": "Leviticus 13:30*3355",
+        "a": "u"
+    },
+    {
+        "o": 3442,
+        "r": "esv:Leviticus:14:55",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 13:47*3372",
+        "a": "v"
+    },
+    {
+        "o": 3442,
+        "r": "esv:Leviticus:14:55",
+        "w": 7,
+        "l": {},
+        "c": "Leviticus 14:34*3421",
+        "a": "w"
+    },
+    {
+        "o": 3443,
+        "r": "esv:Leviticus:14:56",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 13:2*3327",
+        "a": "x"
+    },
+    {
+        "o": 3444,
+        "r": "esv:Leviticus:14:57",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 10:10–11*3254",
+        "a": "y"
+    }
+]

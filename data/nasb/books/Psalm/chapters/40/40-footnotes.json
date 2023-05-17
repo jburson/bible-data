@@ -1,0 +1,34 @@
+[
+    {
+        "o": 16073,
+        "r": "nasb:Psalm:40:1",
+        "w": 1,
+        "l": {},
+        "t": "Or intently",
+        "a": "a"
+    },
+    {
+        "o": 16078,
+        "r": "nasb:Psalm:40:6",
+        "w": 11,
+        "l": {},
+        "t": "Lit dug; or possibly pierced",
+        "a": "b"
+    },
+    {
+        "o": 16086,
+        "r": "nasb:Psalm:40:14",
+        "w": 9,
+        "l": {},
+        "t": "Or soul",
+        "a": "c"
+    },
+    {
+        "o": 16086,
+        "r": "nasb:Psalm:40:14",
+        "w": 22,
+        "l": {},
+        "t": "Or to injure me",
+        "a": "d"
+    }
+]

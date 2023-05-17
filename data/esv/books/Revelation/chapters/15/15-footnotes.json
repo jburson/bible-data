@@ -1,0 +1,202 @@
+[
+    {
+        "o": 34681,
+        "r": "esv:Revelation:15:1",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 12:1*34616; Revelation 12:3*34618",
+        "a": "a"
+    },
+    {
+        "o": 34681,
+        "r": "esv:Revelation:15:1",
+        "w": 9,
+        "l": {},
+        "c": "Revelation 16:1*34691; Revelation 17:1*34715; Revelation 21:9*34814",
+        "a": "b"
+    },
+    {
+        "o": 34682,
+        "r": "esv:Revelation:15:2",
+        "w": 2,
+        "l": {},
+        "c": "Revelation 4:6*34480; Revelation 21:18*34823; Revelation 21:21*34826",
+        "a": "c"
+    },
+    {
+        "o": 34682,
+        "r": "esv:Revelation:15:2",
+        "w": 16,
+        "l": {},
+        "c": "Revelation 12:11*34627",
+        "a": "d"
+    },
+    {
+        "o": 34682,
+        "r": "esv:Revelation:15:2",
+        "w": 25,
+        "l": {},
+        "c": "Revelation 13:17*34653",
+        "a": "e"
+    },
+    {
+        "o": 34682,
+        "r": "esv:Revelation:15:2",
+        "w": 36,
+        "l": {},
+        "c": "Revelation 5:8*34495; Revelation 14:2*34658",
+        "a": "f"
+    },
+    {
+        "o": 34683,
+        "r": "esv:Revelation:15:3",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 15:1*2093; Deuteronomy 31:30*6292",
+        "a": "g"
+    },
+    {
+        "o": 34683,
+        "r": "esv:Revelation:15:3",
+        "w": 6,
+        "l": {},
+        "c": "Hebrews 3:5*33589",
+        "a": "h"
+    },
+    {
+        "o": 34683,
+        "r": "esv:Revelation:15:3",
+        "w": 17,
+        "l": {},
+        "c": "Deuteronomy 32:3–4*6296; Job 37:5*15155; Psalm 111:2*17507; Psalm 139:14*18060; Psalm 145:17*18162",
+        "a": "i"
+    },
+    {
+        "o": 34683,
+        "r": "esv:Revelation:15:3",
+        "w": 28,
+        "l": {},
+        "c": "Revelation 16:7*34697; Hosea 14:9*24773",
+        "a": "j"
+    },
+    {
+        "o": 34683,
+        "r": "esv:Revelation:15:3",
+        "w": 39,
+        "l": {},
+        "t": "Some manuscripts the*i ages*i",
+        "a": "k"
+    },
+    {
+        "o": 34684,
+        "r": "esv:Revelation:15:4",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 14:7*34664; Malachi 2:2*25729",
+        "a": "l"
+    },
+    {
+        "o": 34684,
+        "r": "esv:Revelation:15:4",
+        "w": 13,
+        "l": {},
+        "c": "Revelation 16:5*34695; Hebrews 7:26*33689",
+        "a": "m"
+    },
+    {
+        "o": 34684,
+        "r": "esv:Revelation:15:4",
+        "w": 14,
+        "l": {},
+        "c": "Psalm 86:9*16940",
+        "a": "n"
+    },
+    {
+        "o": 34685,
+        "r": "esv:Revelation:15:5",
+        "w": 4,
+        "l": {},
+        "c": "Revelation 11:19*34613",
+        "a": "o"
+    },
+    {
+        "o": 34685,
+        "r": "esv:Revelation:15:5",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 38:21*2897; Numbers 1:50*3979; Acts 7:44*30371",
+        "a": "p"
+    },
+    {
+        "o": 34685,
+        "r": "esv:Revelation:15:5",
+        "w": 9,
+        "l": {},
+        "t": "Or tabernacle*i",
+        "a": "q"
+    },
+    {
+        "o": 34686,
+        "r": "esv:Revelation:15:6",
+        "w": 5,
+        "l": {},
+        "c": "Revelation 15:1*34681",
+        "a": "r"
+    },
+    {
+        "o": 34686,
+        "r": "esv:Revelation:15:6",
+        "w": 16,
+        "l": {},
+        "c": "Revelation 19:8*34769",
+        "a": "s"
+    },
+    {
+        "o": 34686,
+        "r": "esv:Revelation:15:6",
+        "w": 17,
+        "l": {},
+        "c": "Revelation 1:13*34405",
+        "a": "t"
+    },
+    {
+        "o": 34687,
+        "r": "esv:Revelation:15:7",
+        "w": 2,
+        "l": {},
+        "c": "Revelation 4:6*34480",
+        "a": "u"
+    },
+    {
+        "o": 34687,
+        "r": "esv:Revelation:15:7",
+        "w": 12,
+        "l": {},
+        "c": "Revelation 5:8*34495",
+        "a": "v"
+    },
+    {
+        "o": 34687,
+        "r": "esv:Revelation:15:7",
+        "w": 20,
+        "l": {},
+        "c": "Revelation 1:18*34410; Revelation 4:9*34483; Revelation 5:13*34500",
+        "a": "w"
+    },
+    {
+        "o": 34688,
+        "r": "esv:Revelation:15:8",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 40:34*2989; Isaiah 6:4*19763; Haggai 2:7*25443; 1 Kings 8:10–11*9857; 2 Chronicles 5:13–14*12400",
+        "a": "x"
+    },
+    {
+        "o": 34688,
+        "r": "esv:Revelation:15:8",
+        "w": 16,
+        "l": {},
+        "c": "Exodus 40:35*2990; 1 Kings 8:11*9859",
+        "a": "y"
+    }
+]

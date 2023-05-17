@@ -1,0 +1,434 @@
+[
+    {
+        "o": 34735,
+        "r": "esv:Revelation:18:1",
+        "w": 3,
+        "l": {},
+        "c": "Revelation 17:1*34715; Revelation 17:7*34721",
+        "a": "a"
+    },
+    {
+        "o": 34735,
+        "r": "esv:Revelation:18:1",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 43:2*23974",
+        "a": "b"
+    },
+    {
+        "o": 34736,
+        "r": "esv:Revelation:18:2",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 14:8*34665",
+        "a": "c"
+    },
+    {
+        "o": 34736,
+        "r": "esv:Revelation:18:2",
+        "w": 16,
+        "l": {},
+        "c": "Isaiah 13:21*19936; Isaiah 34:14*20375; Jeremiah 50:39*22475; Jeremiah 51:37*22521; Zephaniah 2:14–15*25391",
+        "a": "d"
+    },
+    {
+        "o": 34736,
+        "r": "esv:Revelation:18:2",
+        "w": 23,
+        "l": {},
+        "c": "Revelation 16:13*34703",
+        "a": "e"
+    },
+    {
+        "o": 34736,
+        "r": "esv:Revelation:18:2",
+        "w": 29,
+        "l": {},
+        "c": "Isaiah 14:23*19964; Isaiah 34:11*20372",
+        "a": "f"
+    },
+    {
+        "o": 34737,
+        "r": "esv:Revelation:18:3",
+        "w": 4,
+        "l": {},
+        "t": "Some manuscripts fallen*i by*i",
+        "a": "g"
+    },
+    {
+        "o": 34737,
+        "r": "esv:Revelation:18:3",
+        "w": 4,
+        "l": {},
+        "c": "Revelation 14:8*34665",
+        "a": "h"
+    },
+    {
+        "o": 34737,
+        "r": "esv:Revelation:18:3",
+        "w": 14,
+        "l": {},
+        "c": "Revelation 18:9*34743; Revelation 17:2*34716",
+        "a": "i"
+    },
+    {
+        "o": 34737,
+        "r": "esv:Revelation:18:3",
+        "w": 25,
+        "l": {},
+        "c": "Revelation 18:11*34745; Revelation 18:15*34749; Ezekiel 27:33*23504",
+        "a": "j"
+    },
+    {
+        "o": 34738,
+        "r": "esv:Revelation:18:4",
+        "w": 7,
+        "l": {},
+        "c": "2 Corinthians 6:17*32334; Isaiah 48:20*20732",
+        "a": "k"
+    },
+    {
+        "o": 34739,
+        "r": "esv:Revelation:18:5",
+        "w": 0,
+        "l": {},
+        "c": "Jeremiah 51:9*22493; Genesis 18:20–21*487; Ezra 9:6*13484; Jonah 1:2*25056",
+        "a": "l"
+    },
+    {
+        "o": 34739,
+        "r": "esv:Revelation:18:5",
+        "w": 8,
+        "l": {},
+        "c": "Revelation 16:19*34710",
+        "a": "m"
+    },
+    {
+        "o": 34740,
+        "r": "esv:Revelation:18:6",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 137:8*18031; Jeremiah 50:15*22451; Jeremiah 50:29*22465; Jeremiah 51:24*22508; Jeremiah 51:49*22533",
+        "a": "n"
+    },
+    {
+        "o": 34740,
+        "r": "esv:Revelation:18:6",
+        "w": 12,
+        "l": {},
+        "c": "Jeremiah 16:18*21537",
+        "a": "o"
+    },
+    {
+        "o": 34740,
+        "r": "esv:Revelation:18:6",
+        "w": 22,
+        "l": {},
+        "c": "Revelation 14:10*34667; Revelation 16:19*34710; Revelation 17:4*34718",
+        "a": "p"
+    },
+    {
+        "o": 34741,
+        "r": "esv:Revelation:18:7",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 28:2–8*23511",
+        "a": "q"
+    },
+    {
+        "o": 34741,
+        "r": "esv:Revelation:18:7",
+        "w": 23,
+        "l": {},
+        "c": "Isaiah 47:7–8*20701; Zephaniah 2:15*25392; Revelation 3:17*34467",
+        "a": "r"
+    },
+    {
+        "o": 34742,
+        "r": "esv:Revelation:18:8",
+        "w": 6,
+        "l": {},
+        "c": "Isaiah 47:9*20703; Revelation 18:10*34744",
+        "a": "s"
+    },
+    {
+        "o": 34742,
+        "r": "esv:Revelation:18:8",
+        "w": 16,
+        "l": {},
+        "c": "Revelation 17:16*34730",
+        "a": "t"
+    },
+    {
+        "o": 34742,
+        "r": "esv:Revelation:18:8",
+        "w": 24,
+        "l": {},
+        "c": "Jeremiah 50:34*22470",
+        "a": "u"
+    },
+    {
+        "o": 34743,
+        "r": "esv:Revelation:18:9",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 18:3*34737; Revelation 17:2*34716; Ezekiel 26:16–17*23464",
+        "a": "v"
+    },
+    {
+        "o": 34743,
+        "r": "esv:Revelation:18:9",
+        "w": 15,
+        "l": {},
+        "c": "Jeremiah 50:46*22482",
+        "a": "w"
+    },
+    {
+        "o": 34743,
+        "r": "esv:Revelation:18:9",
+        "w": 21,
+        "l": {},
+        "c": "Revelation 18:18*34752; Revelation 19:3*34763",
+        "a": "x"
+    },
+    {
+        "o": 34744,
+        "r": "esv:Revelation:18:10",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 18:15*34749; Revelation 18:17*34751",
+        "a": "y"
+    },
+    {
+        "o": 34744,
+        "r": "esv:Revelation:18:10",
+        "w": 13,
+        "l": {},
+        "c": "Revelation 14:8*34665",
+        "a": "z"
+    },
+    {
+        "o": 34744,
+        "r": "esv:Revelation:18:10",
+        "w": 21,
+        "l": {},
+        "c": "Revelation 18:17*34751; Revelation 18:19*34753; Revelation 18:8*34742",
+        "a": "a"
+    },
+    {
+        "o": 34745,
+        "r": "esv:Revelation:18:11",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 18:3*34737; Revelation 18:15*34749; Ezekiel 27:36*23507",
+        "a": "b"
+    },
+    {
+        "o": 34747,
+        "r": "esv:Revelation:18:13",
+        "w": 21,
+        "l": {},
+        "t": "Or and*i slaves,*i and*i human*i lives*i",
+        "a": "c"
+    },
+    {
+        "o": 34749,
+        "r": "esv:Revelation:18:15",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 18:3*34737; Revelation 18:11*34745",
+        "a": "d"
+    },
+    {
+        "o": 34749,
+        "r": "esv:Revelation:18:15",
+        "w": 9,
+        "l": {},
+        "c": "Revelation 18:10*34744",
+        "a": "e"
+    },
+    {
+        "o": 34750,
+        "r": "esv:Revelation:18:16",
+        "w": 5,
+        "l": {},
+        "c": "Revelation 17:4*34718",
+        "a": "f"
+    },
+    {
+        "o": 34751,
+        "r": "esv:Revelation:18:17",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 18:10*34744; Revelation 18:19*34753",
+        "a": "g"
+    },
+    {
+        "o": 34751,
+        "r": "esv:Revelation:18:17",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 17:16*34730",
+        "a": "h"
+    },
+    {
+        "o": 34751,
+        "r": "esv:Revelation:18:17",
+        "w": 12,
+        "l": {},
+        "c": "Ezekiel 27:28–29*23499",
+        "a": "i"
+    },
+    {
+        "o": 34752,
+        "r": "esv:Revelation:18:18",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 27:30*23501",
+        "a": "j"
+    },
+    {
+        "o": 34752,
+        "r": "esv:Revelation:18:18",
+        "w": 2,
+        "l": {},
+        "c": "Revelation 18:9*34743",
+        "a": "k"
+    },
+    {
+        "o": 34752,
+        "r": "esv:Revelation:18:18",
+        "w": 10,
+        "l": {},
+        "c": "Ezekiel 27:32*23503; Revelation 13:4*34639",
+        "a": "l"
+    },
+    {
+        "o": 34753,
+        "r": "esv:Revelation:18:19",
+        "w": 2,
+        "l": {},
+        "c": "Joshua 7:6*6539; Job 2:12*14217",
+        "a": "m"
+    },
+    {
+        "o": 34753,
+        "r": "esv:Revelation:18:19",
+        "w": 19,
+        "l": {},
+        "c": "Revelation 18:3*34737; Revelation 18:15*34749",
+        "a": "n"
+    },
+    {
+        "o": 34753,
+        "r": "esv:Revelation:18:19",
+        "w": 32,
+        "l": {},
+        "c": "Revelation 18:10*34744; Revelation 18:17*34751",
+        "a": "o"
+    },
+    {
+        "o": 34754,
+        "r": "esv:Revelation:18:20",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 32:43*6336; Jeremiah 51:48*22532; Revelation 12:12*34628",
+        "a": "p"
+    },
+    {
+        "o": 34754,
+        "r": "esv:Revelation:18:20",
+        "w": 8,
+        "l": {},
+        "c": "Luke 11:49–50*28450",
+        "a": "q"
+    },
+    {
+        "o": 34754,
+        "r": "esv:Revelation:18:20",
+        "w": 12,
+        "l": {},
+        "c": "Revelation 19:2*34762",
+        "a": "r"
+    },
+    {
+        "o": 34755,
+        "r": "esv:Revelation:18:21",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 5:2*34489; Revelation 10:1*34581",
+        "a": "s"
+    },
+    {
+        "o": 34755,
+        "r": "esv:Revelation:18:21",
+        "w": 3,
+        "l": {},
+        "c": "Jeremiah 51:63–64*22547",
+        "a": "t"
+    },
+    {
+        "o": 34755,
+        "r": "esv:Revelation:18:21",
+        "w": 21,
+        "l": {},
+        "c": "Revelation 18:10*34744",
+        "a": "u"
+    },
+    {
+        "o": 34756,
+        "r": "esv:Revelation:18:22",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 14:11*19951; Isaiah 24:8*20137; Ezekiel 26:13*23461",
+        "a": "v"
+    },
+    {
+        "o": 34756,
+        "r": "esv:Revelation:18:22",
+        "w": 32,
+        "l": {},
+        "c": "Ecclesiastes 12:4*19446; Jeremiah 25:10*21749",
+        "a": "w"
+    },
+    {
+        "o": 34757,
+        "r": "esv:Revelation:18:23",
+        "w": 12,
+        "l": {},
+        "c": "Jeremiah 7:34*21312; Jeremiah 16:9*21527; Jeremiah 33:11*22013",
+        "a": "x"
+    },
+    {
+        "o": 34757,
+        "r": "esv:Revelation:18:23",
+        "w": 26,
+        "l": {},
+        "c": "Isaiah 23:8*20117",
+        "a": "y"
+    },
+    {
+        "o": 34757,
+        "r": "esv:Revelation:18:23",
+        "w": 40,
+        "l": {},
+        "c": "Nahum 3:4*25273",
+        "a": "z"
+    },
+    {
+        "o": 34758,
+        "r": "esv:Revelation:18:24",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 17:6*34720; Matthew 23:35–36*26721",
+        "a": "a"
+    },
+    {
+        "o": 34758,
+        "r": "esv:Revelation:18:24",
+        "w": 13,
+        "l": {},
+        "c": "Jeremiah 51:49*22533",
+        "a": "b"
+    }
+]

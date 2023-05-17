@@ -1,0 +1,34 @@
+[
+    {
+        "o": 16536,
+        "r": "nasb:Psalm:68:5",
+        "w": 7,
+        "l": {},
+        "t": "Lit of",
+        "a": "a"
+    },
+    {
+        "o": 16544,
+        "r": "nasb:Psalm:68:13",
+        "w": 0,
+        "l": {},
+        "t": "Lit If",
+        "a": "b"
+    },
+    {
+        "o": 16544,
+        "r": "nasb:Psalm:68:13",
+        "w": 5,
+        "l": {},
+        "t": "Or cooking stones or saddle bags",
+        "a": "c"
+    },
+    {
+        "o": 16548,
+        "r": "nasb:Psalm:68:17",
+        "w": 4,
+        "l": {},
+        "t": "Lit twice ten thousand",
+        "a": "d"
+    }
+]

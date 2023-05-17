@@ -1,0 +1,74 @@
+[
+    {
+        "o": 517,
+        "r": "niv:Genesis:19:14",
+        "w": 13,
+        "l": {},
+        "t": "19:14*r Or were*i married*i to*i",
+        "a": "a"
+    },
+    {
+        "o": 521,
+        "r": "niv:Genesis:19:18",
+        "w": 7,
+        "l": {},
+        "t": "19:18*r Or No,*i Lord*i ; or No,*i my*i lord*i",
+        "a": "b"
+    },
+    {
+        "o": 522,
+        "r": "niv:Genesis:19:19",
+        "w": 0,
+        "l": {},
+        "t": "19:19*r The Hebrew is singular.",
+        "a": "c"
+    },
+    {
+        "o": 522,
+        "r": "niv:Genesis:19:19",
+        "w": 6,
+        "l": {},
+        "t": "19:19*r The Hebrew is singular.",
+        "a": "d"
+    },
+    {
+        "o": 522,
+        "r": "niv:Genesis:19:19",
+        "w": 9,
+        "l": {},
+        "t": "19:19*r The Hebrew is singular.",
+        "a": "e"
+    },
+    {
+        "o": 525,
+        "r": "niv:Genesis:19:22",
+        "w": 20,
+        "l": {},
+        "t": "19:22*r Zoar*i means small.*i",
+        "a": "f"
+    },
+    {
+        "o": 541,
+        "r": "niv:Genesis:19:37",
+        "w": 10,
+        "l": {},
+        "t": "19:37*r Moab*i sounds like the Hebrew for from*i father.*i",
+        "a": "g"
+    },
+    {
+        "o": 542,
+        "r": "niv:Genesis:19:38",
+        "w": 11,
+        "l": {},
+        "t": "19:38*r Ben-Ammi*i means son*i of*i my*i father’s*i people.*i",
+        "a": "h"
+    },
+    {
+        "o": 542,
+        "r": "niv:Genesis:19:38",
+        "w": 18,
+        "l": {},
+        "t": "19:38*r Hebrew Bene-Ammon*i",
+        "a": "i"
+    }
+]

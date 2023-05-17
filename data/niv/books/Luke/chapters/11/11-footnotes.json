@@ -1,0 +1,66 @@
+[
+    {
+        "o": 28049,
+        "r": "niv:Luke:11:2",
+        "w": 8,
+        "l": {},
+        "t": "11:2*r Some manuscripts Our*i Father*i in*i heaven*i",
+        "a": "a"
+    },
+    {
+        "o": 28049,
+        "r": "niv:Luke:11:2",
+        "w": 15,
+        "l": {},
+        "t": "11:2*r Some manuscripts come.*i May*i your*i will*i be*i done*i on*i earth*i as*i it*i is*i in*i heaven.*i",
+        "a": "b"
+    },
+    {
+        "o": 28051,
+        "r": "niv:Luke:11:4",
+        "w": 12,
+        "l": {},
+        "t": "11:4*r Greek everyone*i who*i is*i indebted*i to*i us*i",
+        "a": "c"
+    },
+    {
+        "o": 28051,
+        "r": "niv:Luke:11:4",
+        "w": 18,
+        "l": {},
+        "t": "11:4*r Some manuscripts temptation,*i but*i deliver*i us*i from*i the*i evil*i one*i",
+        "a": "d"
+    },
+    {
+        "o": 28055,
+        "r": "niv:Luke:11:8",
+        "w": 23,
+        "l": {},
+        "t": "11:8*r Or yet*i to*i preserve*i his*i good*i name*i",
+        "a": "e"
+    },
+    {
+        "o": 28058,
+        "r": "niv:Luke:11:11",
+        "w": 8,
+        "l": {},
+        "t": "11:11*r Some manuscripts for*i bread,*i will*i give*i him*i a*i stone?*i Or*i if*i he*i asks*i for*i",
+        "a": "f"
+    },
+    {
+        "o": 28084,
+        "r": "niv:Luke:11:34",
+        "w": 12,
+        "l": {},
+        "t": "11:34*r The Greek for healthy*i here implies generous.",
+        "a": "g"
+    },
+    {
+        "o": 28084,
+        "r": "niv:Luke:11:34",
+        "w": 25,
+        "l": {},
+        "t": "11:34*r The Greek for unhealthy*i here implies stingy.",
+        "a": "h"
+    }
+]

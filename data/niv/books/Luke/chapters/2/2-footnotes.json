@@ -1,0 +1,50 @@
+[
+    {
+        "o": 27564,
+        "r": "niv:Luke:2:2",
+        "w": 8,
+        "l": {},
+        "t": "2:2*r Or This*i census*i took*i place*i before*i",
+        "a": "a"
+    },
+    {
+        "o": 27586,
+        "r": "niv:Luke:2:23",
+        "w": 19,
+        "l": {},
+        "t": "2:23*r Exodus 13:2,12",
+        "a": "b"
+    },
+    {
+        "o": 27587,
+        "r": "niv:Luke:2:24",
+        "w": 24,
+        "l": {},
+        "t": "2:24*r Lev. 12:8",
+        "a": "c"
+    },
+    {
+        "o": 27592,
+        "r": "niv:Luke:2:29",
+        "w": 9,
+        "l": {},
+        "t": "2:29*r Or promised,*i /*i now*i dismiss*i",
+        "a": "d"
+    },
+    {
+        "o": 27600,
+        "r": "niv:Luke:2:37",
+        "w": 8,
+        "l": {},
+        "t": "2:37*r Or then*i had*i been*i a*i widow*i for*i eighty-four*i years.*i",
+        "a": "e"
+    },
+    {
+        "o": 27613,
+        "r": "niv:Luke:2:49",
+        "w": 18,
+        "l": {},
+        "t": "2:49*r Or be*i about*i my*i Father’s*i business*i",
+        "a": "f"
+    }
+]

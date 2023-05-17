@@ -1,0 +1,306 @@
+[
+    {
+        "o": 13683,
+        "r": "esv:Nehemiah:7:1",
+        "w": 6,
+        "l": {},
+        "c": "Nehemiah 6:1*13662",
+        "a": "a"
+    },
+    {
+        "o": 13684,
+        "r": "esv:Nehemiah:7:2",
+        "w": 1,
+        "l": {},
+        "c": "Nehemiah 1:2*13544",
+        "a": "b"
+    },
+    {
+        "o": 13684,
+        "r": "esv:Nehemiah:7:2",
+        "w": 9,
+        "l": {},
+        "c": "Nehemiah 2:8*13565",
+        "a": "c"
+    },
+    {
+        "o": 13684,
+        "r": "esv:Nehemiah:7:2",
+        "w": 17,
+        "l": {},
+        "c": "Nehemiah 13:13*13966",
+        "a": "d"
+    },
+    {
+        "o": 13688,
+        "r": "esv:Nehemiah:7:5",
+        "w": 31,
+        "l": {},
+        "c": "Ezra 1:11*13243",
+        "a": "e"
+    },
+    {
+        "o": 13689,
+        "r": "esv:Nehemiah:7:6",
+        "w": 0,
+        "l": {},
+        "c": "Nehemiah 7:6–73*13689; Ezra 2*13245",
+        "a": "f"
+    },
+    {
+        "o": 13690,
+        "r": "esv:Nehemiah:7:7",
+        "w": 5,
+        "l": {},
+        "c": "Ezra 2:2*13247",
+        "a": "g"
+    },
+    {
+        "o": 13693,
+        "r": "esv:Nehemiah:7:10",
+        "w": 3,
+        "l": {},
+        "c": "Ezra 2:5*13250",
+        "a": "h"
+    },
+    {
+        "o": 13695,
+        "r": "esv:Nehemiah:7:12",
+        "w": 2,
+        "l": {},
+        "c": "Nehemiah 7:34*13717",
+        "a": "i"
+    },
+    {
+        "o": 13698,
+        "r": "esv:Nehemiah:7:15",
+        "w": 2,
+        "l": {},
+        "c": "Ezra 2:10*13255",
+        "a": "j"
+    },
+    {
+        "o": 13706,
+        "r": "esv:Nehemiah:7:23",
+        "w": 2,
+        "l": {},
+        "c": "Ezra 2:17*13262",
+        "a": "k"
+    },
+    {
+        "o": 13708,
+        "r": "esv:Nehemiah:7:25",
+        "w": 2,
+        "l": {},
+        "c": "Ezra 2:20*13265",
+        "a": "l"
+    },
+    {
+        "o": 13711,
+        "r": "esv:Nehemiah:7:28",
+        "w": 1,
+        "l": {},
+        "c": "Ezra 2:24*13269",
+        "a": "m"
+    },
+    {
+        "o": 13712,
+        "r": "esv:Nehemiah:7:29",
+        "w": 2,
+        "l": {},
+        "c": "Ezra 2:25*13270",
+        "a": "n"
+    },
+    {
+        "o": 13717,
+        "r": "esv:Nehemiah:7:34",
+        "w": 2,
+        "l": {},
+        "c": "Nehemiah 7:12*13695",
+        "a": "o"
+    },
+    {
+        "o": 13722,
+        "r": "esv:Nehemiah:7:39",
+        "w": 4,
+        "l": {},
+        "c": "1 Chronicles 9:10*11672; 1 Chronicles 24:7*12112",
+        "a": "p"
+    },
+    {
+        "o": 13723,
+        "r": "esv:Nehemiah:7:40",
+        "w": 2,
+        "l": {},
+        "c": "1 Chronicles 9:12*11674; 1 Chronicles 24:14*12119",
+        "a": "q"
+    },
+    {
+        "o": 13724,
+        "r": "esv:Nehemiah:7:41",
+        "w": 2,
+        "l": {},
+        "c": "1 Chronicles 9:12*11674",
+        "a": "r"
+    },
+    {
+        "o": 13725,
+        "r": "esv:Nehemiah:7:42",
+        "w": 2,
+        "l": {},
+        "c": "1 Chronicles 24:8*12113",
+        "a": "s"
+    },
+    {
+        "o": 13726,
+        "r": "esv:Nehemiah:7:43",
+        "w": 12,
+        "l": {},
+        "c": "Ezra 2:40*13285; Ezra 3:9*13327",
+        "a": "t"
+    },
+    {
+        "o": 13730,
+        "r": "esv:Nehemiah:7:47",
+        "w": 6,
+        "l": {},
+        "c": "Ezra 2:44*13289",
+        "a": "u"
+    },
+    {
+        "o": 13731,
+        "r": "esv:Nehemiah:7:48",
+        "w": 6,
+        "l": {},
+        "c": "Ezra 2:46*13291",
+        "a": "v"
+    },
+    {
+        "o": 13731,
+        "r": "esv:Nehemiah:7:48",
+        "w": 10,
+        "l": {},
+        "c": "Ezra 2:46*13291",
+        "a": "w"
+    },
+    {
+        "o": 13735,
+        "r": "esv:Nehemiah:7:52",
+        "w": 10,
+        "l": {},
+        "c": "Ezra 2:50*13295",
+        "a": "x"
+    },
+    {
+        "o": 13737,
+        "r": "esv:Nehemiah:7:54",
+        "w": 2,
+        "l": {},
+        "c": "Ezra 2:52*13297",
+        "a": "y"
+    },
+    {
+        "o": 13740,
+        "r": "esv:Nehemiah:7:57",
+        "w": 15,
+        "l": {},
+        "c": "Ezra 2:55*13300",
+        "a": "z"
+    },
+    {
+        "o": 13742,
+        "r": "esv:Nehemiah:7:59",
+        "w": 14,
+        "l": {},
+        "c": "Ezra 2:57*13302",
+        "a": "a"
+    },
+    {
+        "o": 13744,
+        "r": "esv:Nehemiah:7:61",
+        "w": 0,
+        "l": {},
+        "c": "Ezra 2:59*13304",
+        "a": "b"
+    },
+    {
+        "o": 13744,
+        "r": "esv:Nehemiah:7:61",
+        "w": 10,
+        "l": {},
+        "c": "Ezra 2:59*13304",
+        "a": "c"
+    },
+    {
+        "o": 13748,
+        "r": "esv:Nehemiah:7:65",
+        "w": 0,
+        "l": {},
+        "c": "Ezra 2:63*13308",
+        "a": "d"
+    },
+    {
+        "o": 13748,
+        "r": "esv:Nehemiah:7:65",
+        "w": 0,
+        "l": {},
+        "c": "Nehemiah 8:9*13769; Nehemiah 10:1*13822",
+        "a": "e"
+    },
+    {
+        "o": 13752,
+        "r": "esv:Nehemiah:7:68",
+        "w": 6,
+        "l": {},
+        "t": "Compare Ezra 2:66 and the margins of some Hebrew manuscripts; Hebrew lacks Their*i horses . . .*i 245*i",
+        "a": "f"
+    },
+    {
+        "o": 13754,
+        "r": "esv:Nehemiah:7:70",
+        "w": 12,
+        "l": {},
+        "c": "Nehemiah 7:65*13749",
+        "a": "g"
+    },
+    {
+        "o": 13754,
+        "r": "esv:Nehemiah:7:70",
+        "w": 19,
+        "l": {},
+        "t": "A daric*i was a coin weighing about 1/4 ounce or 8.5 grams",
+        "a": "h"
+    },
+    {
+        "o": 13754,
+        "r": "esv:Nehemiah:7:70",
+        "w": 29,
+        "l": {},
+        "t": "A mina*i was about 1 1/4 pounds or 0.6 kilogram",
+        "a": "i"
+    },
+    {
+        "o": 13754,
+        "r": "esv:Nehemiah:7:70",
+        "w": 31,
+        "l": {},
+        "t": "Probable reading; Hebrew lacks minas*i of*i silver*i",
+        "a": "j"
+    },
+    {
+        "o": 13756,
+        "r": "esv:Nehemiah:7:72",
+        "w": 0,
+        "l": {},
+        "c": "Ezra 2:69*13314",
+        "a": "k"
+    },
+    {
+        "o": 13757,
+        "r": "esv:Nehemiah:7:73",
+        "w": 22,
+        "l": {},
+        "c": "Ezra 3:1*13318",
+        "a": "l"
+    }
+]

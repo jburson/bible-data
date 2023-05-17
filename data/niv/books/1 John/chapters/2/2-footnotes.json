@@ -1,0 +1,42 @@
+[
+    {
+        "o": 33795,
+        "r": "niv:1 John:2:5",
+        "w": 8,
+        "l": {},
+        "t": "2:5*r Or word,*i God’s*i love*i",
+        "a": "a"
+    },
+    {
+        "o": 33799,
+        "r": "niv:1 John:2:9",
+        "w": 13,
+        "l": {},
+        "t": "2:9*r The Greek word for brother*i or*i sister*i (adelphos) refers here to a believer, whether man or woman, as part of God’s family; also in verse 11; and in 3:15, 17; 4:20; 5:16.",
+        "a": "b"
+    },
+    {
+        "o": 33800,
+        "r": "niv:1 John:2:10",
+        "w": 6,
+        "l": {},
+        "t": "2:10*r The Greek word for brother*i and*i sister*i (adelphos) refers here to a believer, whether man or woman, as part of God’s family; also in 3:10; 4:20, 21.",
+        "a": "c"
+    },
+    {
+        "o": 33807,
+        "r": "niv:1 John:2:15",
+        "w": 18,
+        "l": {},
+        "t": "2:15*r Or world,*i the*i Father’s*i love*i",
+        "a": "d"
+    },
+    {
+        "o": 33813,
+        "r": "niv:1 John:2:20",
+        "w": 15,
+        "l": {},
+        "t": "2:20*r Some manuscripts and*i you*i know*i all*i things*i",
+        "a": "e"
+    }
+]

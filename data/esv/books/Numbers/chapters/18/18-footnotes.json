@@ -1,0 +1,410 @@
+[
+    {
+        "o": 4635,
+        "r": "esv:Numbers:18:1",
+        "w": 16,
+        "l": {},
+        "c": "Numbers 18:23*4657; Exodus 28:38*2539",
+        "a": "a"
+    },
+    {
+        "o": 4635,
+        "r": "esv:Numbers:18:1",
+        "w": 22,
+        "l": {},
+        "c": "Numbers 18:23*4657",
+        "a": "b"
+    },
+    {
+        "o": 4636,
+        "r": "esv:Numbers:18:2",
+        "w": 18,
+        "l": {},
+        "c": "Genesis 29:34*905",
+        "a": "c"
+    },
+    {
+        "o": 4636,
+        "r": "esv:Numbers:18:2",
+        "w": 21,
+        "l": {},
+        "c": "Numbers 3:6–10*4028",
+        "a": "d"
+    },
+    {
+        "o": 4637,
+        "r": "esv:Numbers:18:3",
+        "w": 6,
+        "l": {},
+        "c": "Numbers 3:25*4047; Numbers 3:31*4053; Numbers 3:36*4058",
+        "a": "e"
+    },
+    {
+        "o": 4637,
+        "r": "esv:Numbers:18:3",
+        "w": 10,
+        "l": {},
+        "c": "Numbers 16:40*4607",
+        "a": "f"
+    },
+    {
+        "o": 4637,
+        "r": "esv:Numbers:18:3",
+        "w": 25,
+        "l": {},
+        "c": "Numbers 4:15*4091",
+        "a": "g"
+    },
+    {
+        "o": 4638,
+        "r": "esv:Numbers:18:4",
+        "w": 18,
+        "l": {},
+        "c": "Numbers 17:13*4632",
+        "a": "h"
+    },
+    {
+        "o": 4639,
+        "r": "esv:Numbers:18:5",
+        "w": 2,
+        "l": {},
+        "c": "Numbers 3:38*4060; Exodus 27:21*2499; Exodus 30:7*2601; Leviticus 24:3*3757",
+        "a": "i"
+    },
+    {
+        "o": 4639,
+        "r": "esv:Numbers:18:5",
+        "w": 11,
+        "l": {},
+        "c": "Leviticus 10:6*3250",
+        "a": "j"
+    },
+    {
+        "o": 4640,
+        "r": "esv:Numbers:18:6",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 3:12*4034; Numbers 3:45*4068",
+        "a": "k"
+    },
+    {
+        "o": 4640,
+        "r": "esv:Numbers:18:6",
+        "w": 14,
+        "l": {},
+        "c": "Numbers 3:9*4031; Numbers 8:19*4303",
+        "a": "l"
+    },
+    {
+        "o": 4641,
+        "r": "esv:Numbers:18:7",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 3:10*4032",
+        "a": "m"
+    },
+    {
+        "o": 4641,
+        "r": "esv:Numbers:18:7",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 9:3*33711; Hebrews 9:6*33714",
+        "a": "n"
+    },
+    {
+        "o": 4641,
+        "r": "esv:Numbers:18:7",
+        "w": 33,
+        "l": {},
+        "t": "Hebrew service*i of*i gift*i",
+        "a": "o"
+    },
+    {
+        "o": 4641,
+        "r": "esv:Numbers:18:7",
+        "w": 34,
+        "l": {},
+        "c": "Numbers 1:51*3980",
+        "a": "p"
+    },
+    {
+        "o": 4642,
+        "r": "esv:Numbers:18:8",
+        "w": 6,
+        "l": {},
+        "c": "Numbers 5:9*4137; Leviticus 7:32*3172",
+        "a": "q"
+    },
+    {
+        "o": 4642,
+        "r": "esv:Numbers:18:8",
+        "w": 32,
+        "l": {},
+        "c": "Exodus 29:29*2575; Exodus 40:13*2967; Exodus 40:15*2969",
+        "a": "r"
+    },
+    {
+        "o": 4643,
+        "r": "esv:Numbers:18:9",
+        "w": 23,
+        "l": {},
+        "c": "Leviticus 4:22*3073; Leviticus 4:27*3078; Leviticus 6:25–26*3134",
+        "a": "s"
+    },
+    {
+        "o": 4643,
+        "r": "esv:Numbers:18:9",
+        "w": 29,
+        "l": {},
+        "c": "Leviticus 7:7*3147; Leviticus 14:13*3399",
+        "a": "t"
+    },
+    {
+        "o": 4645,
+        "r": "esv:Numbers:18:11",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 29:27–28*2573; Leviticus 7:30*3170; Leviticus 7:34*3174",
+        "a": "u"
+    },
+    {
+        "o": 4645,
+        "r": "esv:Numbers:18:11",
+        "w": 22,
+        "l": {},
+        "c": "Leviticus 10:14*3258; Deuteronomy 18:3*5876",
+        "a": "v"
+    },
+    {
+        "o": 4645,
+        "r": "esv:Numbers:18:11",
+        "w": 35,
+        "l": {},
+        "c": "Leviticus 22:2–3*3667; Leviticus 22:11–13*3676",
+        "a": "w"
+    },
+    {
+        "o": 4646,
+        "r": "esv:Numbers:18:12",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 18:4*5877",
+        "a": "x"
+    },
+    {
+        "o": 4646,
+        "r": "esv:Numbers:18:12",
+        "w": 16,
+        "l": {},
+        "c": "Exodus 23:19*2356; Exodus 34:26*2749; Nehemiah 10:35–36*13857",
+        "a": "y"
+    },
+    {
+        "o": 4647,
+        "r": "esv:Numbers:18:13",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 22:29*2332; Leviticus 2:14*3028; Deuteronomy 26:2*6086",
+        "a": "z"
+    },
+    {
+        "o": 4647,
+        "r": "esv:Numbers:18:13",
+        "w": 19,
+        "l": {},
+        "c": "Numbers 18:11*4645",
+        "a": "a"
+    },
+    {
+        "o": 4648,
+        "r": "esv:Numbers:18:14",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 27:28*3920",
+        "a": "b"
+    },
+    {
+        "o": 4649,
+        "r": "esv:Numbers:18:15",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 13:2*2036",
+        "a": "c"
+    },
+    {
+        "o": 4649,
+        "r": "esv:Numbers:18:15",
+        "w": 21,
+        "l": {},
+        "c": "Exodus 13:13*2047; Exodus 34:20*2743",
+        "a": "d"
+    },
+    {
+        "o": 4650,
+        "r": "esv:Numbers:18:16",
+        "w": 3,
+        "l": {},
+        "c": "Numbers 3:47*4070; Leviticus 27:2*3894; Leviticus 27:6*3898",
+        "a": "e"
+    },
+    {
+        "o": 4650,
+        "r": "esv:Numbers:18:16",
+        "w": 17,
+        "l": {},
+        "t": "A shekel*i was about 2/5 ounce or 11 grams",
+        "a": "f"
+    },
+    {
+        "o": 4650,
+        "r": "esv:Numbers:18:16",
+        "w": 26,
+        "l": {},
+        "c": "Exodus 30:13*2608",
+        "a": "g"
+    },
+    {
+        "o": 4651,
+        "r": "esv:Numbers:18:17",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 15:19*5816",
+        "a": "h"
+    },
+    {
+        "o": 4652,
+        "r": "esv:Numbers:18:18",
+        "w": 6,
+        "l": {},
+        "c": "Exodus 29:26*2572; Exodus 29:28*2574; Leviticus 7:31–32*3171; Leviticus 7:34*3174",
+        "a": "i"
+    },
+    {
+        "o": 4653,
+        "r": "esv:Numbers:18:19",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 18:11*4645",
+        "a": "j"
+    },
+    {
+        "o": 4653,
+        "r": "esv:Numbers:18:19",
+        "w": 28,
+        "l": {},
+        "c": "Leviticus 2:13*3027; 2 Chronicles 13:5*12600",
+        "a": "k"
+    },
+    {
+        "o": 4654,
+        "r": "esv:Numbers:18:20",
+        "w": 21,
+        "l": {},
+        "c": "Numbers 18:23–24*4657; Deuteronomy 10:9*5661; Deuteronomy 12:12*5723; Deuteronomy 14:27*5793; Deuteronomy 18:1–2*5874; Joshua 13:33*6762; Joshua 14:3*6767; Joshua 18:7*6885; Ezekiel 44:28*24031",
+        "a": "l"
+    },
+    {
+        "o": 4655,
+        "r": "esv:Numbers:18:21",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 18:24*4658; Numbers 18:26*4660; Leviticus 27:30*3922; Leviticus 27:32*3924; Deuteronomy 14:22*5788; Nehemiah 10:37*13859; Nehemiah 12:44*13948; Hebrews 7:5*33667; Hebrews 7:8–9*33670; Genesis 14:20*391; Genesis 28:22*868",
+        "a": "m"
+    },
+    {
+        "o": 4656,
+        "r": "esv:Numbers:18:22",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 1:51*3980",
+        "a": "n"
+    },
+    {
+        "o": 4656,
+        "r": "esv:Numbers:18:22",
+        "w": 13,
+        "l": {},
+        "c": "Leviticus 22:9*3674",
+        "a": "o"
+    },
+    {
+        "o": 4657,
+        "r": "esv:Numbers:18:23",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 3:7*4029",
+        "a": "p"
+    },
+    {
+        "o": 4657,
+        "r": "esv:Numbers:18:23",
+        "w": 11,
+        "l": {},
+        "c": "Numbers 18:1*4635",
+        "a": "q"
+    },
+    {
+        "o": 4658,
+        "r": "esv:Numbers:18:24",
+        "w": 8,
+        "l": {},
+        "c": "Numbers 18:19*4653; Numbers 18:26*4660; Numbers 18:29*4663",
+        "a": "r"
+    },
+    {
+        "o": 4658,
+        "r": "esv:Numbers:18:24",
+        "w": 37,
+        "l": {},
+        "c": "Numbers 18:20–21*4654; Numbers 18:26*4660",
+        "a": "s"
+    },
+    {
+        "o": 4660,
+        "r": "esv:Numbers:18:26",
+        "w": 39,
+        "l": {},
+        "c": "Nehemiah 10:38*13860",
+        "a": "t"
+    },
+    {
+        "o": 4661,
+        "r": "esv:Numbers:18:27",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 18:30*4664",
+        "a": "u"
+    },
+    {
+        "o": 4664,
+        "r": "esv:Numbers:18:30",
+        "w": 15,
+        "l": {},
+        "c": "Numbers 18:27*4661",
+        "a": "v"
+    },
+    {
+        "o": 4665,
+        "r": "esv:Numbers:18:31",
+        "w": 14,
+        "l": {},
+        "c": "Matthew 10:10*26117; Luke 10:7*28353; 1 Timothy 5:17–18*33332; 1 Corinthians 9:4–14*31922",
+        "a": "w"
+    },
+    {
+        "o": 4666,
+        "r": "esv:Numbers:18:32",
+        "w": 2,
+        "l": {},
+        "c": "Leviticus 19:8*3577; Leviticus 22:16*3682",
+        "a": "x"
+    },
+    {
+        "o": 4666,
+        "r": "esv:Numbers:18:32",
+        "w": 21,
+        "l": {},
+        "c": "Leviticus 22:2*3667; Leviticus 22:15*3680",
+        "a": "y"
+    }
+]

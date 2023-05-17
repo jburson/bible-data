@@ -1,0 +1,50 @@
+[
+    {
+        "o": 12092,
+        "r": "niv:1 Chronicles:25:3",
+        "w": 9,
+        "l": {},
+        "t": "25:3*r One Hebrew manuscript and some Septuagint manuscripts (see also verse 17); most Hebrew manuscripts do not have Shimei*i .*i",
+        "a": "a"
+    },
+    {
+        "o": 12098,
+        "r": "niv:1 Chronicles:25:9",
+        "w": 13,
+        "l": {},
+        "t": "25:9*r See Septuagint; Hebrew does not have his*i sons*i and*i relatives*i .*i",
+        "a": "b"
+    },
+    {
+        "o": 12098,
+        "r": "niv:1 Chronicles:25:9",
+        "w": 14,
+        "l": {},
+        "t": "25:9*r See the total in verse 7; Hebrew does not have twelve*i .*i",
+        "a": "c"
+    },
+    {
+        "o": 12100,
+        "r": "niv:1 Chronicles:25:11",
+        "w": 3,
+        "l": {},
+        "t": "25:11*r A variant of Zeri*i",
+        "a": "d"
+    },
+    {
+        "o": 12103,
+        "r": "niv:1 Chronicles:25:14",
+        "w": 3,
+        "l": {},
+        "t": "25:14*r A variant of Asarelah*i",
+        "a": "e"
+    },
+    {
+        "o": 12107,
+        "r": "niv:1 Chronicles:25:18",
+        "w": 3,
+        "l": {},
+        "t": "25:18*r A variant of Uzziel*i",
+        "a": "f"
+    }
+]

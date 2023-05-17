@@ -1,0 +1,26 @@
+[
+    {
+        "o": 14909,
+        "r": "niv:Job:32:3",
+        "w": 21,
+        "l": {},
+        "t": "32:3*r Masoretic Text; an ancient Hebrew scribal tradition Job,*i and*i so*i had*i condemned*i God*i",
+        "a": "a"
+    },
+    {
+        "o": 14914,
+        "r": "niv:Job:32:8",
+        "w": 4,
+        "l": {},
+        "t": "32:8*r Or Spirit*i ; also in verse 18",
+        "a": "b"
+    },
+    {
+        "o": 14915,
+        "r": "niv:Job:32:9",
+        "w": 5,
+        "l": {},
+        "t": "32:9*r Or many*i ; or great*i",
+        "a": "c"
+    }
+]

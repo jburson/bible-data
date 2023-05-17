@@ -1,0 +1,650 @@
+[
+    {
+        "o": 32745,
+        "r": "esv:Ephesians:4:1",
+        "w": 1,
+        "l": {},
+        "c": "Ephesians 3:1*32721",
+        "a": "a"
+    },
+    {
+        "o": 32745,
+        "r": "esv:Ephesians:4:1",
+        "w": 9,
+        "l": {},
+        "c": "Colossians 1:10*32976; Colossians 2:6*33005; 1 Thessalonians 2:12*33099; Philippians 1:27*32875",
+        "a": "b"
+    },
+    {
+        "o": 32745,
+        "r": "esv:Ephesians:4:1",
+        "w": 15,
+        "l": {},
+        "c": "Romans 8:28*31469",
+        "a": "c"
+    },
+    {
+        "o": 32746,
+        "r": "esv:Ephesians:4:2",
+        "w": 1,
+        "l": {},
+        "c": "Acts 20:19*30916; Philippians 2:3*32883; Colossians 3:12*33037; 1 Peter 3:8*34076; 1 Peter 5:5*34119; Colossians 2:18*33018; Colossians 2:23*33023",
+        "a": "d"
+    },
+    {
+        "o": 32746,
+        "r": "esv:Ephesians:4:2",
+        "w": 3,
+        "l": {},
+        "c": "Galatians 5:23*32642",
+        "a": "e"
+    },
+    {
+        "o": 32746,
+        "r": "esv:Ephesians:4:2",
+        "w": 5,
+        "l": {},
+        "c": "Colossians 1:11*32977",
+        "a": "f"
+    },
+    {
+        "o": 32746,
+        "r": "esv:Ephesians:4:2",
+        "w": 6,
+        "l": {},
+        "c": "Colossians 3:13*33038",
+        "a": "g"
+    },
+    {
+        "o": 32747,
+        "r": "esv:Ephesians:4:3",
+        "w": 8,
+        "l": {},
+        "c": "Colossians 3:14*33039; Acts 8:23*30415",
+        "a": "h"
+    },
+    {
+        "o": 32748,
+        "r": "esv:Ephesians:4:4",
+        "w": 1,
+        "l": {},
+        "c": "Ephesians 2:16*32712",
+        "a": "i"
+    },
+    {
+        "o": 32748,
+        "r": "esv:Ephesians:4:4",
+        "w": 4,
+        "l": {},
+        "c": "Ephesians 2:18*32714",
+        "a": "j"
+    },
+    {
+        "o": 32748,
+        "r": "esv:Ephesians:4:4",
+        "w": 14,
+        "l": {},
+        "c": "Ephesians 1:18*32688",
+        "a": "k"
+    },
+    {
+        "o": 32749,
+        "r": "esv:Ephesians:4:5",
+        "w": 0,
+        "l": {},
+        "c": "Zechariah 14:9*25696; 1 Corinthians 1:13*31733; 1 Corinthians 8:6*31909",
+        "a": "l"
+    },
+    {
+        "o": 32749,
+        "r": "esv:Ephesians:4:5",
+        "w": 1,
+        "l": {},
+        "c": "Ephesians 4:13*32757; Jude 3*34364",
+        "a": "m"
+    },
+    {
+        "o": 32749,
+        "r": "esv:Ephesians:4:5",
+        "w": 3,
+        "l": {},
+        "c": "Galatians 3:27–28*32579",
+        "a": "n"
+    },
+    {
+        "o": 32750,
+        "r": "esv:Ephesians:4:6",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 12:5–6*32025",
+        "a": "o"
+    },
+    {
+        "o": 32750,
+        "r": "esv:Ephesians:4:6",
+        "w": 5,
+        "l": {},
+        "c": "Romans 9:5*31488",
+        "a": "p"
+    },
+    {
+        "o": 32751,
+        "r": "esv:Ephesians:4:7",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 3:2*32722",
+        "a": "q"
+    },
+    {
+        "o": 32751,
+        "r": "esv:Ephesians:4:7",
+        "w": 3,
+        "l": {},
+        "c": "Matthew 25:15*26802; 1 Corinthians 12:7*32027",
+        "a": "r"
+    },
+    {
+        "o": 32751,
+        "r": "esv:Ephesians:4:7",
+        "w": 8,
+        "l": {},
+        "c": "Romans 12:3*31586; Ephesians 4:16*32761",
+        "a": "s"
+    },
+    {
+        "o": 32752,
+        "r": "esv:Ephesians:4:8",
+        "w": 2,
+        "l": {},
+        "c": "Psalm 68:18*16511",
+        "a": "t"
+    },
+    {
+        "o": 32752,
+        "r": "esv:Ephesians:4:8",
+        "w": 7,
+        "l": {},
+        "c": "Judges 5:12*7258; Colossians 2:15*33015",
+        "a": "u"
+    },
+    {
+        "o": 32752,
+        "r": "esv:Ephesians:4:8",
+        "w": 19,
+        "l": {},
+        "t": "The Greek word anthropoi*i can refer to both men and women",
+        "a": "v"
+    },
+    {
+        "o": 32753,
+        "r": "esv:Ephesians:4:9",
+        "w": 0,
+        "l": {},
+        "c": "John 3:13*29230",
+        "a": "w"
+    },
+    {
+        "o": 32753,
+        "r": "esv:Ephesians:4:9",
+        "w": 14,
+        "l": {},
+        "c": "Psalm 63:9*16426; Isaiah 44:23*20644",
+        "a": "x"
+    },
+    {
+        "o": 32753,
+        "r": "esv:Ephesians:4:9",
+        "w": 19,
+        "l": {},
+        "t": "Or the*i lower*i parts*i of*i the*i earth?*i",
+        "a": "y"
+    },
+    {
+        "o": 32754,
+        "r": "esv:Ephesians:4:10",
+        "w": 7,
+        "l": {},
+        "c": "Mark 16:19*27803",
+        "a": "z"
+    },
+    {
+        "o": 32754,
+        "r": "esv:Ephesians:4:10",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 4:14*33620; Hebrews 7:26*33689; Hebrews 9:24*33733",
+        "a": "a"
+    },
+    {
+        "o": 32754,
+        "r": "esv:Ephesians:4:10",
+        "w": 16,
+        "l": {},
+        "c": "Ephesians 1:23*32693",
+        "a": "b"
+    },
+    {
+        "o": 32755,
+        "r": "esv:Ephesians:4:11",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 12:5–6*32025",
+        "a": "c"
+    },
+    {
+        "o": 32755,
+        "r": "esv:Ephesians:4:11",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 12:28*32049",
+        "a": "d"
+    },
+    {
+        "o": 32755,
+        "r": "esv:Ephesians:4:11",
+        "w": 7,
+        "l": {},
+        "c": "Acts 21:8*30945; 2 Timothy 4:5*33442",
+        "a": "e"
+    },
+    {
+        "o": 32755,
+        "r": "esv:Ephesians:4:11",
+        "w": 9,
+        "l": {},
+        "c": "Jeremiah 3:15*21165; Acts 20:28*30925",
+        "a": "f"
+    },
+    {
+        "o": 32755,
+        "r": "esv:Ephesians:4:11",
+        "w": 10,
+        "l": {},
+        "t": "Or pastors*i",
+        "a": "g"
+    },
+    {
+        "o": 32755,
+        "r": "esv:Ephesians:4:11",
+        "w": 12,
+        "l": {},
+        "t": "Or the*i shepherd-teachers*i",
+        "a": "h"
+    },
+    {
+        "o": 32756,
+        "r": "esv:Ephesians:4:12",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 13:9*32489",
+        "a": "i"
+    },
+    {
+        "o": 32756,
+        "r": "esv:Ephesians:4:12",
+        "w": 9,
+        "l": {},
+        "c": "Ephesians 4:16*32761; Ephesians 4:29*32774",
+        "a": "j"
+    },
+    {
+        "o": 32756,
+        "r": "esv:Ephesians:4:12",
+        "w": 11,
+        "l": {},
+        "c": "1 Corinthians 12:27*32048",
+        "a": "k"
+    },
+    {
+        "o": 32757,
+        "r": "esv:Ephesians:4:13",
+        "w": 4,
+        "l": {},
+        "c": "Ephesians 4:5*32749",
+        "a": "l"
+    },
+    {
+        "o": 32757,
+        "r": "esv:Ephesians:4:13",
+        "w": 18,
+        "l": {},
+        "c": "Hebrews 5:14*33638",
+        "a": "m"
+    },
+    {
+        "o": 32757,
+        "r": "esv:Ephesians:4:13",
+        "w": 21,
+        "l": {},
+        "t": "Greek to*i a*i full-grown*i man*i",
+        "a": "n"
+    },
+    {
+        "o": 32757,
+        "r": "esv:Ephesians:4:13",
+        "w": 28,
+        "l": {},
+        "c": "Ephesians 1:23*32693",
+        "a": "o"
+    },
+    {
+        "o": 32758,
+        "r": "esv:Ephesians:4:14",
+        "w": 7,
+        "l": {},
+        "c": "Matthew 11:7*26162; Hebrews 13:9*33865; James 1:6*33892; Jude 12*34373",
+        "a": "p"
+    },
+    {
+        "o": 32758,
+        "r": "esv:Ephesians:4:14",
+        "w": 28,
+        "l": {},
+        "c": "Ephesians 6:11*32828",
+        "a": "q"
+    },
+    {
+        "o": 32759,
+        "r": "esv:Ephesians:4:15",
+        "w": 0,
+        "l": {},
+        "c": "1 John 3:18*34267; Ephesians 4:25*32770",
+        "a": "r"
+    },
+    {
+        "o": 32759,
+        "r": "esv:Ephesians:4:15",
+        "w": 8,
+        "l": {},
+        "c": "Ephesians 2:21*32717",
+        "a": "s"
+    },
+    {
+        "o": 32759,
+        "r": "esv:Ephesians:4:15",
+        "w": 17,
+        "l": {},
+        "c": "Ephesians 1:22*32692",
+        "a": "t"
+    },
+    {
+        "o": 32760,
+        "r": "esv:Ephesians:4:16",
+        "w": 0,
+        "l": {},
+        "c": "Colossians 2:19*33019",
+        "a": "u"
+    },
+    {
+        "o": 32760,
+        "r": "esv:Ephesians:4:16",
+        "w": 16,
+        "l": {},
+        "c": "Ephesians 4:7*32751",
+        "a": "v"
+    },
+    {
+        "o": 32762,
+        "r": "esv:Ephesians:4:17",
+        "w": 4,
+        "l": {},
+        "c": "1 Thessalonians 2:12*33099",
+        "a": "w"
+    },
+    {
+        "o": 32762,
+        "r": "esv:Ephesians:4:17",
+        "w": 8,
+        "l": {},
+        "c": "Ephesians 4:22*32767; Ephesians 2:1–3*32696; Colossians 3:7*33032; 1 Peter 4:3*34095",
+        "a": "x"
+    },
+    {
+        "o": 32762,
+        "r": "esv:Ephesians:4:17",
+        "w": 18,
+        "l": {},
+        "c": "Romans 1:21*31253; 1 Peter 1:18*34030; Colossians 2:18*33018; 2 Peter 2:18*34174",
+        "a": "y"
+    },
+    {
+        "o": 32763,
+        "r": "esv:Ephesians:4:18",
+        "w": 0,
+        "l": {},
+        "c": "Romans 11:10*31553",
+        "a": "z"
+    },
+    {
+        "o": 32763,
+        "r": "esv:Ephesians:4:18",
+        "w": 5,
+        "l": {},
+        "c": "Ephesians 2:12*32708",
+        "a": "a"
+    },
+    {
+        "o": 32763,
+        "r": "esv:Ephesians:4:18",
+        "w": 21,
+        "l": {},
+        "c": "Mark 3:5*27116",
+        "a": "b"
+    },
+    {
+        "o": 32764,
+        "r": "esv:Ephesians:4:19",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 23:35*18953; 1 Timothy 4:2*33298",
+        "a": "c"
+    },
+    {
+        "o": 32764,
+        "r": "esv:Ephesians:4:19",
+        "w": 4,
+        "l": {},
+        "c": "1 Kings 21:25*10393; Romans 1:24*31256; Romans 1:26*31258; Romans 1:28*31260",
+        "a": "d"
+    },
+    {
+        "o": 32765,
+        "r": "esv:Ephesians:4:20",
+        "w": 6,
+        "l": {},
+        "c": "Matthew 11:29*26186",
+        "a": "e"
+    },
+    {
+        "o": 32766,
+        "r": "esv:Ephesians:4:21",
+        "w": 1,
+        "l": {},
+        "c": "Ephesians 1:13*32682",
+        "a": "f"
+    },
+    {
+        "o": 32766,
+        "r": "esv:Ephesians:4:21",
+        "w": 7,
+        "l": {},
+        "c": "Colossians 2:7*33006",
+        "a": "g"
+    },
+    {
+        "o": 32767,
+        "r": "esv:Ephesians:4:22",
+        "w": 0,
+        "l": {},
+        "c": "Colossians 3:8*33033; Hebrews 12:1*33824; James 1:21*33908; 1 Peter 2:1*34040",
+        "a": "h"
+    },
+    {
+        "o": 32767,
+        "r": "esv:Ephesians:4:22",
+        "w": 2,
+        "l": {},
+        "c": "Romans 6:6*31391; Colossians 3:9*33034",
+        "a": "i"
+    },
+    {
+        "o": 32767,
+        "r": "esv:Ephesians:4:22",
+        "w": 5,
+        "l": {},
+        "t": "Greek man*i ; also verse 24",
+        "a": "j"
+    },
+    {
+        "o": 32767,
+        "r": "esv:Ephesians:4:22",
+        "w": 17,
+        "l": {},
+        "c": "Hebrews 3:13*33598",
+        "a": "k"
+    },
+    {
+        "o": 32768,
+        "r": "esv:Ephesians:4:23",
+        "w": 0,
+        "l": {},
+        "c": "Romans 12:2*31585",
+        "a": "l"
+    },
+    {
+        "o": 32769,
+        "r": "esv:Ephesians:4:24",
+        "w": 3,
+        "l": {},
+        "c": "Romans 6:4*31389",
+        "a": "m"
+    },
+    {
+        "o": 32769,
+        "r": "esv:Ephesians:4:24",
+        "w": 6,
+        "l": {},
+        "c": "Ephesians 2:10*32706",
+        "a": "n"
+    },
+    {
+        "o": 32770,
+        "r": "esv:Ephesians:4:25",
+        "w": 9,
+        "l": {},
+        "c": "Zechariah 8:16*25595; Colossians 3:9*33034; Ephesians 4:15*32759",
+        "a": "o"
+    },
+    {
+        "o": 32770,
+        "r": "esv:Ephesians:4:25",
+        "w": 16,
+        "l": {},
+        "c": "Romans 12:5*31588",
+        "a": "p"
+    },
+    {
+        "o": 32771,
+        "r": "esv:Ephesians:4:26",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 37:8*15958",
+        "a": "q"
+    },
+    {
+        "o": 32772,
+        "r": "esv:Ephesians:4:27",
+        "w": 0,
+        "l": {},
+        "c": "James 4:7*33973",
+        "a": "r"
+    },
+    {
+        "o": 32773,
+        "r": "esv:Ephesians:4:28",
+        "w": 7,
+        "l": {},
+        "c": "Acts 20:35*30932; Galatians 6:10*32658",
+        "a": "s"
+    },
+    {
+        "o": 32773,
+        "r": "esv:Ephesians:4:28",
+        "w": 10,
+        "l": {},
+        "c": "1 Thessalonians 4:11*33136; 2 Thessalonians 3:8*33222; 2 Thessalonians 3:11–12*33225",
+        "a": "t"
+    },
+    {
+        "o": 32773,
+        "r": "esv:Ephesians:4:28",
+        "w": 18,
+        "l": {},
+        "c": "Proverbs 21:26*18881",
+        "a": "u"
+    },
+    {
+        "o": 32774,
+        "r": "esv:Ephesians:4:29",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 5:4*32783; Colossians 3:8*33033; Matthew 12:34*26227",
+        "a": "v"
+    },
+    {
+        "o": 32774,
+        "r": "esv:Ephesians:4:29",
+        "w": 25,
+        "l": {},
+        "c": "Colossians 4:6*33060; Ecclesiastes 10:12*19420",
+        "a": "w"
+    },
+    {
+        "o": 32775,
+        "r": "esv:Ephesians:4:30",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 63:10*21009; 1 Thessalonians 5:19*33166",
+        "a": "x"
+    },
+    {
+        "o": 32775,
+        "r": "esv:Ephesians:4:30",
+        "w": 8,
+        "l": {},
+        "c": "Ephesians 1:13*32682",
+        "a": "y"
+    },
+    {
+        "o": 32775,
+        "r": "esv:Ephesians:4:30",
+        "w": 17,
+        "l": {},
+        "c": "Ephesians 1:7*32676",
+        "a": "z"
+    },
+    {
+        "o": 32776,
+        "r": "esv:Ephesians:4:31",
+        "w": 0,
+        "l": {},
+        "c": "Colossians 3:8*33033; Colossians 3:19*33045",
+        "a": "a"
+    },
+    {
+        "o": 32777,
+        "r": "esv:Ephesians:4:32",
+        "w": 0,
+        "l": {},
+        "c": "Colossians 3:12–13*33037; 1 Peter 3:8*34076",
+        "a": "b"
+    },
+    {
+        "o": 32777,
+        "r": "esv:Ephesians:4:32",
+        "w": 5,
+        "l": {},
+        "c": "2 Corinthians 2:7*32239; 2 Corinthians 2:10*32242; Matthew 6:14*25957",
+        "a": "c"
+    }
+]

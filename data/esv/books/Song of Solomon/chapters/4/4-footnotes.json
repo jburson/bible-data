@@ -1,0 +1,474 @@
+[
+    {
+        "o": 19542,
+        "r": "esv:Song of Solomon:4:16",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 6:2*19574",
+        "a": "a"
+    },
+    {
+        "o": 19525,
+        "r": "esv:Song of Solomon:4:1",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 1:15*19484",
+        "a": "b"
+    },
+    {
+        "o": 19525,
+        "r": "esv:Song of Solomon:4:1",
+        "w": 9,
+        "l": {},
+        "c": "Song of Solomon 1:15*19484; Song of Solomon 5:12*19564",
+        "a": "c"
+    },
+    {
+        "o": 19525,
+        "r": "esv:Song of Solomon:4:1",
+        "w": 13,
+        "l": {},
+        "c": "Song of Solomon 6:7*19581",
+        "a": "d"
+    },
+    {
+        "o": 19525,
+        "r": "esv:Song of Solomon:4:1",
+        "w": 16,
+        "l": {},
+        "c": "Song of Solomon 6:5*19579; Song of Solomon 7:5*19597",
+        "a": "e"
+    },
+    {
+        "o": 19525,
+        "r": "esv:Song of Solomon:4:1",
+        "w": 26,
+        "l": {},
+        "c": "Micah 7:14*25228",
+        "a": "f"
+    },
+    {
+        "o": 19526,
+        "r": "esv:Song of Solomon:4:2",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 6:6*19580",
+        "a": "g"
+    },
+    {
+        "o": 19527,
+        "r": "esv:Song of Solomon:4:3",
+        "w": 3,
+        "l": {},
+        "c": "Joshua 2:18*6432",
+        "a": "h"
+    },
+    {
+        "o": 19527,
+        "r": "esv:Song of Solomon:4:3",
+        "w": 10,
+        "l": {},
+        "c": "Song of Solomon 1:5*19468; Song of Solomon 2:14*19504",
+        "a": "i"
+    },
+    {
+        "o": 19527,
+        "r": "esv:Song of Solomon:4:3",
+        "w": 12,
+        "l": {},
+        "c": "Song of Solomon 6:7*19581",
+        "a": "j"
+    },
+    {
+        "o": 19527,
+        "r": "esv:Song of Solomon:4:3",
+        "w": 19,
+        "l": {},
+        "c": "Song of Solomon 4:1*19525",
+        "a": "k"
+    },
+    {
+        "o": 19528,
+        "r": "esv:Song of Solomon:4:4",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 7:4*19596",
+        "a": "l"
+    },
+    {
+        "o": 19528,
+        "r": "esv:Song of Solomon:4:4",
+        "w": 9,
+        "l": {},
+        "c": "Nehemiah 3:19*13598",
+        "a": "m"
+    },
+    {
+        "o": 19528,
+        "r": "esv:Song of Solomon:4:4",
+        "w": 12,
+        "l": {},
+        "t": "The meaning of the Hebrew word is uncertain",
+        "a": "n"
+    },
+    {
+        "o": 19528,
+        "r": "esv:Song of Solomon:4:4",
+        "w": 14,
+        "l": {},
+        "c": "Ezekiel 27:10–11*23481",
+        "a": "o"
+    },
+    {
+        "o": 19528,
+        "r": "esv:Song of Solomon:4:4",
+        "w": 20,
+        "l": {},
+        "c": "2 Samuel 1:21*8808",
+        "a": "p"
+    },
+    {
+        "o": 19529,
+        "r": "esv:Song of Solomon:4:5",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 7:3*19595; Song of Solomon 8:10*19623; Proverbs 5:19*18384",
+        "a": "q"
+    },
+    {
+        "o": 19529,
+        "r": "esv:Song of Solomon:4:5",
+        "w": 5,
+        "l": {},
+        "c": "Song of Solomon 2:9*19499",
+        "a": "r"
+    },
+    {
+        "o": 19529,
+        "r": "esv:Song of Solomon:4:5",
+        "w": 11,
+        "l": {},
+        "c": "Song of Solomon 2:16*19506; Song of Solomon 6:3*19577",
+        "a": "s"
+    },
+    {
+        "o": 19530,
+        "r": "esv:Song of Solomon:4:6",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 2:17*19507",
+        "a": "t"
+    },
+    {
+        "o": 19530,
+        "r": "esv:Song of Solomon:4:6",
+        "w": 15,
+        "l": {},
+        "c": "Song of Solomon 4:14*19538; Song of Solomon 3:6*19516",
+        "a": "u"
+    },
+    {
+        "o": 19530,
+        "r": "esv:Song of Solomon:4:6",
+        "w": 20,
+        "l": {},
+        "c": "Song of Solomon 4:14*19538; Song of Solomon 3:6*19516",
+        "a": "v"
+    },
+    {
+        "o": 19531,
+        "r": "esv:Song of Solomon:4:7",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 1:15*19484",
+        "a": "w"
+    },
+    {
+        "o": 19531,
+        "r": "esv:Song of Solomon:4:7",
+        "w": 8,
+        "l": {},
+        "c": "Song of Solomon 5:2*19551; Ephesians 5:27*32807",
+        "a": "x"
+    },
+    {
+        "o": 19532,
+        "r": "esv:Song of Solomon:4:8",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 45:10–11*16131",
+        "a": "y"
+    },
+    {
+        "o": 19532,
+        "r": "esv:Song of Solomon:4:8",
+        "w": 3,
+        "l": {},
+        "c": "Song of Solomon 7:4*19596; 1 Kings 4:33*9730",
+        "a": "z"
+    },
+    {
+        "o": 19532,
+        "r": "esv:Song of Solomon:4:8",
+        "w": 5,
+        "l": {},
+        "c": "Isaiah 62:5*20989",
+        "a": "a"
+    },
+    {
+        "o": 19532,
+        "r": "esv:Song of Solomon:4:8",
+        "w": 10,
+        "l": {},
+        "c": "Song of Solomon 7:4*19596; 1 Kings 4:33*9730",
+        "a": "b"
+    },
+    {
+        "o": 19532,
+        "r": "esv:Song of Solomon:4:8",
+        "w": 12,
+        "l": {},
+        "t": "Or Look*i",
+        "a": "c"
+    },
+    {
+        "o": 19532,
+        "r": "esv:Song of Solomon:4:8",
+        "w": 21,
+        "l": {},
+        "c": "Deuteronomy 3:9*5430; 1 Chronicles 5:23*11485",
+        "a": "d"
+    },
+    {
+        "o": 19532,
+        "r": "esv:Song of Solomon:4:8",
+        "w": 23,
+        "l": {},
+        "c": "Psalm 89:12*16994",
+        "a": "e"
+    },
+    {
+        "o": 19533,
+        "r": "esv:Song of Solomon:4:9",
+        "w": 5,
+        "l": {},
+        "c": "Song of Solomon 5:1–2*19550",
+        "a": "f"
+    },
+    {
+        "o": 19533,
+        "r": "esv:Song of Solomon:4:9",
+        "w": 21,
+        "l": {},
+        "c": "Judges 8:26*7379",
+        "a": "g"
+    },
+    {
+        "o": 19534,
+        "r": "esv:Song of Solomon:4:10",
+        "w": 5,
+        "l": {},
+        "c": "Song of Solomon 4:9*19533",
+        "a": "h"
+    },
+    {
+        "o": 19534,
+        "r": "esv:Song of Solomon:4:10",
+        "w": 10,
+        "l": {},
+        "c": "Song of Solomon 1:2*19462; Song of Solomon 1:4*19467",
+        "a": "i"
+    },
+    {
+        "o": 19534,
+        "r": "esv:Song of Solomon:4:10",
+        "w": 17,
+        "l": {},
+        "c": "Song of Solomon 1:3*19463",
+        "a": "j"
+    },
+    {
+        "o": 19535,
+        "r": "esv:Song of Solomon:4:11",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 5:3*18368",
+        "a": "k"
+    },
+    {
+        "o": 19535,
+        "r": "esv:Song of Solomon:4:11",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 24:13*18967",
+        "a": "l"
+    },
+    {
+        "o": 19535,
+        "r": "esv:Song of Solomon:4:11",
+        "w": 18,
+        "l": {},
+        "c": "Hosea 14:6*24770; Genesis 27:27*823",
+        "a": "m"
+    },
+    {
+        "o": 19535,
+        "r": "esv:Song of Solomon:4:11",
+        "w": 22,
+        "l": {},
+        "c": "Song of Solomon 4:8*19532",
+        "a": "n"
+    },
+    {
+        "o": 19536,
+        "r": "esv:Song of Solomon:4:12",
+        "w": 4,
+        "l": {},
+        "c": "Song of Solomon 4:9*19533",
+        "a": "o"
+    },
+    {
+        "o": 19536,
+        "r": "esv:Song of Solomon:4:12",
+        "w": 10,
+        "l": {},
+        "c": "Genesis 29:3*873; Daniel 6:17*24359",
+        "a": "p"
+    },
+    {
+        "o": 19536,
+        "r": "esv:Song of Solomon:4:12",
+        "w": 12,
+        "l": {},
+        "c": "Proverbs 5:15*18380",
+        "a": "q"
+    },
+    {
+        "o": 19537,
+        "r": "esv:Song of Solomon:4:13",
+        "w": 2,
+        "l": {},
+        "c": "Ecclesiastes 2:5*19230",
+        "a": "r"
+    },
+    {
+        "o": 19537,
+        "r": "esv:Song of Solomon:4:13",
+        "w": 8,
+        "l": {},
+        "c": "Song of Solomon 7:13*19608",
+        "a": "s"
+    },
+    {
+        "o": 19537,
+        "r": "esv:Song of Solomon:4:13",
+        "w": 10,
+        "l": {},
+        "c": "Song of Solomon 1:14*19482",
+        "a": "t"
+    },
+    {
+        "o": 19537,
+        "r": "esv:Song of Solomon:4:13",
+        "w": 12,
+        "l": {},
+        "c": "Song of Solomon 1:12*19479",
+        "a": "u"
+    },
+    {
+        "o": 19538,
+        "r": "esv:Song of Solomon:4:14",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 30:23*2620",
+        "a": "v"
+    },
+    {
+        "o": 19538,
+        "r": "esv:Song of Solomon:4:14",
+        "w": 4,
+        "l": {},
+        "c": "Exodus 30:23*2620",
+        "a": "w"
+    },
+    {
+        "o": 19538,
+        "r": "esv:Song of Solomon:4:14",
+        "w": 9,
+        "l": {},
+        "c": "Song of Solomon 4:6*19530",
+        "a": "x"
+    },
+    {
+        "o": 19538,
+        "r": "esv:Song of Solomon:4:14",
+        "w": 10,
+        "l": {},
+        "c": "Song of Solomon 3:6*19516",
+        "a": "y"
+    },
+    {
+        "o": 19538,
+        "r": "esv:Song of Solomon:4:14",
+        "w": 12,
+        "l": {},
+        "c": "John 19:39*30041",
+        "a": "z"
+    },
+    {
+        "o": 19538,
+        "r": "esv:Song of Solomon:4:14",
+        "w": 15,
+        "l": {},
+        "c": "Exodus 30:23*2620",
+        "a": "a"
+    },
+    {
+        "o": 19539,
+        "r": "esv:Song of Solomon:4:15",
+        "w": 5,
+        "l": {},
+        "c": "Jeremiah 2:13*21124; John 4:10*29267; John 7:38*29482",
+        "a": "b"
+    },
+    {
+        "o": 19539,
+        "r": "esv:Song of Solomon:4:15",
+        "w": 11,
+        "l": {},
+        "c": "Song of Solomon 4:8*19532",
+        "a": "c"
+    },
+    {
+        "o": 19540,
+        "r": "esv:Song of Solomon:4:16",
+        "w": 11,
+        "l": {},
+        "c": "Song of Solomon 5:1*19550; Song of Solomon 6:2*19574",
+        "a": "d"
+    },
+    {
+        "o": 19542,
+        "r": "esv:Song of Solomon:4:16",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 6:2*19574",
+        "a": "e"
+    },
+    {
+        "o": 19543,
+        "r": "esv:Song of Solomon:4:16",
+        "w": 5,
+        "l": {},
+        "c": "Song of Solomon 6:2*19574",
+        "a": "f"
+    },
+    {
+        "o": 19543,
+        "r": "esv:Song of Solomon:4:16",
+        "w": 9,
+        "l": {},
+        "c": "Song of Solomon 4:13*19537",
+        "a": "g"
+    }
+]

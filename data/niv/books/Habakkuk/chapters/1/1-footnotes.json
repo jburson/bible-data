@@ -1,0 +1,26 @@
+[
+    {
+        "o": 25008,
+        "r": "niv:Habakkuk:1:6",
+        "w": 5,
+        "l": {},
+        "t": "1:6*r Or Chaldeans*i",
+        "a": "a"
+    },
+    {
+        "o": 25011,
+        "r": "niv:Habakkuk:1:9",
+        "w": 7,
+        "l": {},
+        "t": "1:9*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 25015,
+        "r": "niv:Habakkuk:1:12",
+        "w": 11,
+        "l": {},
+        "t": "1:12*r An ancient Hebrew scribal tradition; Masoretic Text we*i",
+        "a": "c"
+    }
+]

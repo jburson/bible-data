@@ -1,0 +1,570 @@
+[
+    {
+        "o": 18119,
+        "r": "kjv:Ecclesiastes:1:5",
+        "w": 16,
+        "l": {},
+        "t": "hasteth: Heb. panteth",
+        "a": "a"
+    },
+    {
+        "o": 18121,
+        "r": "kjv:Ecclesiastes:1:7",
+        "w": 24,
+        "l": {},
+        "t": "return…: Heb. return to go",
+        "a": "b"
+    },
+    {
+        "o": 18127,
+        "r": "kjv:Ecclesiastes:1:13",
+        "w": 34,
+        "l": {},
+        "t": "to be…: or, to afflict them",
+        "a": "c"
+    },
+    {
+        "o": 18129,
+        "r": "kjv:Ecclesiastes:1:15",
+        "w": 15,
+        "l": {},
+        "t": "that which is wanting: Heb. defect",
+        "a": "d"
+    },
+    {
+        "o": 18130,
+        "r": "kjv:Ecclesiastes:1:16",
+        "w": 38,
+        "l": {},
+        "t": "had…: Heb. had seen much",
+        "a": "e"
+    },
+    {
+        "o": 18136,
+        "r": "kjv:Ecclesiastes:2:3",
+        "w": 47,
+        "l": {},
+        "t": "to give…: Heb. to draw my flesh with wine",
+        "a": "a"
+    },
+    {
+        "o": 18136,
+        "r": "kjv:Ecclesiastes:2:3",
+        "w": 47,
+        "l": {},
+        "t": "all…: Heb. the number of the days of their life",
+        "a": "b"
+    },
+    {
+        "o": 18140,
+        "r": "kjv:Ecclesiastes:2:7",
+        "w": 30,
+        "l": {},
+        "t": "servants born…: Heb. sons of my house",
+        "a": "c"
+    },
+    {
+        "o": 18141,
+        "r": "kjv:Ecclesiastes:2:8",
+        "w": 40,
+        "l": {},
+        "t": "musical…: Heb. musical instrument and instruments",
+        "a": "d"
+    },
+    {
+        "o": 18145,
+        "r": "kjv:Ecclesiastes:2:12",
+        "w": 28,
+        "l": {},
+        "t": "even…: or, in those things which have been already done",
+        "a": "e"
+    },
+    {
+        "o": 18146,
+        "r": "kjv:Ecclesiastes:2:13",
+        "w": 12,
+        "l": {},
+        "t": "that…: Heb. that there is an excellency in wisdom more than in folly, etc.",
+        "a": "f"
+    },
+    {
+        "o": 18148,
+        "r": "kjv:Ecclesiastes:2:15",
+        "w": 35,
+        "l": {},
+        "t": "happeneth even…: Heb. happeneth to me, even to me",
+        "a": "g"
+    },
+    {
+        "o": 18151,
+        "r": "kjv:Ecclesiastes:2:18",
+        "w": 25,
+        "l": {},
+        "t": "taken: Heb. laboured",
+        "a": "h"
+    },
+    {
+        "o": 18154,
+        "r": "kjv:Ecclesiastes:2:21",
+        "w": 39,
+        "l": {},
+        "t": "leave: Heb. give",
+        "a": "i"
+    },
+    {
+        "o": 18157,
+        "r": "kjv:Ecclesiastes:2:24",
+        "w": 37,
+        "l": {},
+        "t": "should make…: or, delight his senses",
+        "a": "j"
+    },
+    {
+        "o": 18159,
+        "r": "kjv:Ecclesiastes:2:26",
+        "w": 48,
+        "l": {},
+        "t": "in his…: Heb. before him",
+        "a": "k"
+    },
+    {
+        "o": 18162,
+        "r": "kjv:Ecclesiastes:3:2",
+        "w": 23,
+        "l": {},
+        "t": "to be…: Heb. to bear",
+        "a": "a"
+    },
+    {
+        "o": 18165,
+        "r": "kjv:Ecclesiastes:3:5",
+        "w": 23,
+        "l": {},
+        "t": "to refrain from: Heb. to be far from",
+        "a": "b"
+    },
+    {
+        "o": 18166,
+        "r": "kjv:Ecclesiastes:3:6",
+        "w": 18,
+        "l": {},
+        "t": "get: or, seek",
+        "a": "c"
+    },
+    {
+        "o": 18175,
+        "r": "kjv:Ecclesiastes:3:15",
+        "w": 21,
+        "l": {},
+        "t": "that which is past: Heb. that which is driven away",
+        "a": "d"
+    },
+    {
+        "o": 18178,
+        "r": "kjv:Ecclesiastes:3:18",
+        "w": 27,
+        "l": {},
+        "t": "that God…: or, that they might clear God, and see, etc.",
+        "a": "e"
+    },
+    {
+        "o": 18181,
+        "r": "kjv:Ecclesiastes:3:21",
+        "w": 20,
+        "l": {},
+        "t": "of man: Heb. of the sons of man",
+        "a": "f"
+    },
+    {
+        "o": 18181,
+        "r": "kjv:Ecclesiastes:3:21",
+        "w": 20,
+        "l": {},
+        "t": "goeth upward: Heb. is ascending, etc.",
+        "a": "g"
+    },
+    {
+        "o": 18184,
+        "r": "kjv:Ecclesiastes:4:1",
+        "w": 42,
+        "l": {},
+        "t": "side: Heb. hand",
+        "a": "a"
+    },
+    {
+        "o": 18187,
+        "r": "kjv:Ecclesiastes:4:4",
+        "w": 26,
+        "l": {},
+        "t": "every…: Heb. all the rightness of work",
+        "a": "b"
+    },
+    {
+        "o": 18187,
+        "r": "kjv:Ecclesiastes:4:4",
+        "w": 26,
+        "l": {},
+        "t": "for this…: Heb. this is the envy of a man from his neighbour",
+        "a": "c"
+    },
+    {
+        "o": 18196,
+        "r": "kjv:Ecclesiastes:4:13",
+        "w": 19,
+        "l": {},
+        "t": "who…: Heb. who knoweth not to be admonished",
+        "a": "d"
+    },
+    {
+        "o": 18202,
+        "r": "kjv:Ecclesiastes:5:2",
+        "w": 33,
+        "l": {},
+        "t": "thing: or, word",
+        "a": "a"
+    },
+    {
+        "o": 18208,
+        "r": "kjv:Ecclesiastes:5:8",
+        "w": 37,
+        "l": {},
+        "t": "at the…: Heb. at the will, or, purpose",
+        "a": "b"
+    },
+    {
+        "o": 18218,
+        "r": "kjv:Ecclesiastes:5:18",
+        "w": 47,
+        "l": {},
+        "t": "it is good…: Heb. there is a good which is comely, etc.",
+        "a": "c"
+    },
+    {
+        "o": 18218,
+        "r": "kjv:Ecclesiastes:5:18",
+        "w": 47,
+        "l": {},
+        "t": "all the days: Heb. the number of the days",
+        "a": "d"
+    },
+    {
+        "o": 18220,
+        "r": "kjv:Ecclesiastes:5:20",
+        "w": 20,
+        "l": {},
+        "t": "For…: or, Though he give not much, yet he remembereth, etc.",
+        "a": "e"
+    },
+    {
+        "o": 18228,
+        "r": "kjv:Ecclesiastes:6:7",
+        "w": 15,
+        "l": {},
+        "t": "appetite: Heb. soul",
+        "a": "a"
+    },
+    {
+        "o": 18230,
+        "r": "kjv:Ecclesiastes:6:9",
+        "w": 20,
+        "l": {},
+        "t": "than…: Heb. than the walking of the soul",
+        "a": "b"
+    },
+    {
+        "o": 18233,
+        "r": "kjv:Ecclesiastes:6:12",
+        "w": 37,
+        "l": {},
+        "t": "all…: Heb. the number of the days of the life of his vanity",
+        "a": "c"
+    },
+    {
+        "o": 18237,
+        "r": "kjv:Ecclesiastes:7:3",
+        "w": 16,
+        "l": {},
+        "t": "Sorrow: or, Anger",
+        "a": "a"
+    },
+    {
+        "o": 18240,
+        "r": "kjv:Ecclesiastes:7:6",
+        "w": 19,
+        "l": {},
+        "t": "crackling: Heb. sound",
+        "a": "b"
+    },
+    {
+        "o": 18244,
+        "r": "kjv:Ecclesiastes:7:10",
+        "w": 22,
+        "l": {},
+        "t": "wisely: Heb. out of wisdom",
+        "a": "c"
+    },
+    {
+        "o": 18245,
+        "r": "kjv:Ecclesiastes:7:11",
+        "w": 17,
+        "l": {},
+        "t": "good…: or, as good as an inheritance, yea, better too",
+        "a": "d"
+    },
+    {
+        "o": 18246,
+        "r": "kjv:Ecclesiastes:7:12",
+        "w": 24,
+        "l": {},
+        "t": "defence: Heb. shadow",
+        "a": "e"
+    },
+    {
+        "o": 18248,
+        "r": "kjv:Ecclesiastes:7:14",
+        "w": 33,
+        "l": {},
+        "t": "set: Heb. made",
+        "a": "f"
+    },
+    {
+        "o": 18250,
+        "r": "kjv:Ecclesiastes:7:16",
+        "w": 14,
+        "l": {},
+        "t": "destroy…: Heb. be desolate?",
+        "a": "g"
+    },
+    {
+        "o": 18251,
+        "r": "kjv:Ecclesiastes:7:17",
+        "w": 15,
+        "l": {},
+        "t": "before…: Heb. not in thy time?",
+        "a": "h"
+    },
+    {
+        "o": 18255,
+        "r": "kjv:Ecclesiastes:7:21",
+        "w": 16,
+        "l": {},
+        "t": "take…: Heb. give not thine heart",
+        "a": "i"
+    },
+    {
+        "o": 18259,
+        "r": "kjv:Ecclesiastes:7:25",
+        "w": 30,
+        "l": {},
+        "t": "I applied…: Heb. I and mine heart compassed",
+        "a": "j"
+    },
+    {
+        "o": 18260,
+        "r": "kjv:Ecclesiastes:7:26",
+        "w": 34,
+        "l": {},
+        "t": "whoso…: Heb. he that is good before God",
+        "a": "k"
+    },
+    {
+        "o": 18261,
+        "r": "kjv:Ecclesiastes:7:27",
+        "w": 16,
+        "l": {},
+        "t": "counting…: or, weighing one thing after another, to find out the reason",
+        "a": "l"
+    },
+    {
+        "o": 18265,
+        "r": "kjv:Ecclesiastes:8:1",
+        "w": 30,
+        "l": {},
+        "t": "the boldness: Heb. the strength",
+        "a": "a"
+    },
+    {
+        "o": 18269,
+        "r": "kjv:Ecclesiastes:8:5",
+        "w": 18,
+        "l": {},
+        "t": "shall…: Heb. shall know",
+        "a": "b"
+    },
+    {
+        "o": 18271,
+        "r": "kjv:Ecclesiastes:8:7",
+        "w": 16,
+        "l": {},
+        "t": "when…: or, how it shall be?",
+        "a": "c"
+    },
+    {
+        "o": 18272,
+        "r": "kjv:Ecclesiastes:8:8",
+        "w": 40,
+        "l": {},
+        "t": "discharge: or, casting off weapons",
+        "a": "d"
+    },
+    {
+        "o": 18283,
+        "r": "kjv:Ecclesiastes:9:1",
+        "w": 40,
+        "l": {},
+        "t": "I considered…: Heb. I gave, or, set to my heart",
+        "a": "a"
+    },
+    {
+        "o": 18291,
+        "r": "kjv:Ecclesiastes:9:9",
+        "w": 48,
+        "l": {},
+        "t": "Live…: Heb. See, or, Enjoy life",
+        "a": "b"
+    },
+    {
+        "o": 18302,
+        "r": "kjv:Ecclesiastes:10:1",
+        "w": 27,
+        "l": {},
+        "t": "Dead…: Heb. Flies of death",
+        "a": "a"
+    },
+    {
+        "o": 18304,
+        "r": "kjv:Ecclesiastes:10:3",
+        "w": 26,
+        "l": {},
+        "t": "his…: Heb. his heart",
+        "a": "b"
+    },
+    {
+        "o": 18306,
+        "r": "kjv:Ecclesiastes:10:5",
+        "w": 18,
+        "l": {},
+        "t": "from: Heb. from before",
+        "a": "c"
+    },
+    {
+        "o": 18307,
+        "r": "kjv:Ecclesiastes:10:6",
+        "w": 12,
+        "l": {},
+        "t": "in great…: Heb. in great heights",
+        "a": "d"
+    },
+    {
+        "o": 18312,
+        "r": "kjv:Ecclesiastes:10:11",
+        "w": 12,
+        "l": {},
+        "t": "a babbler: Heb. the master of the tongue",
+        "a": "e"
+    },
+    {
+        "o": 18313,
+        "r": "kjv:Ecclesiastes:10:12",
+        "w": 18,
+        "l": {},
+        "t": "gracious: Heb. grace",
+        "a": "f"
+    },
+    {
+        "o": 18314,
+        "r": "kjv:Ecclesiastes:10:13",
+        "w": 18,
+        "l": {},
+        "t": "his talk: Heb. his mouth",
+        "a": "g"
+    },
+    {
+        "o": 18315,
+        "r": "kjv:Ecclesiastes:10:14",
+        "w": 23,
+        "l": {},
+        "t": "is full…: Heb. multiplieth words",
+        "a": "h"
+    },
+    {
+        "o": 18320,
+        "r": "kjv:Ecclesiastes:10:19",
+        "w": 14,
+        "l": {},
+        "t": "maketh…: Heb. maketh glad the life",
+        "a": "i"
+    },
+    {
+        "o": 18321,
+        "r": "kjv:Ecclesiastes:10:20",
+        "w": 35,
+        "l": {},
+        "t": "thought: or, conscience",
+        "a": "j"
+    },
+    {
+        "o": 18323,
+        "r": "kjv:Ecclesiastes:11:1",
+        "w": 13,
+        "l": {},
+        "t": "upon…: Heb. upon the face of the waters",
+        "a": "a"
+    },
+    {
+        "o": 18328,
+        "r": "kjv:Ecclesiastes:11:6",
+        "w": 32,
+        "l": {},
+        "t": "shall prosper: Heb. shall be right",
+        "a": "b"
+    },
+    {
+        "o": 18332,
+        "r": "kjv:Ecclesiastes:11:10",
+        "w": 18,
+        "l": {},
+        "t": "sorrow: or, anger",
+        "a": "c"
+    },
+    {
+        "o": 18336,
+        "r": "kjv:Ecclesiastes:12:3",
+        "w": 35,
+        "l": {},
+        "t": "the grinders…: or, the grinders fail, because they grind little",
+        "a": "a"
+    },
+    {
+        "o": 18342,
+        "r": "kjv:Ecclesiastes:12:9",
+        "w": 26,
+        "l": {},
+        "t": "moreover…: or, the more wise the preacher was, etc.",
+        "a": "b"
+    },
+    {
+        "o": 18343,
+        "r": "kjv:Ecclesiastes:12:10",
+        "w": 18,
+        "l": {},
+        "t": "acceptable…: Heb. words of delight",
+        "a": "c"
+    },
+    {
+        "o": 18345,
+        "r": "kjv:Ecclesiastes:12:12",
+        "w": 24,
+        "l": {},
+        "t": "study: or, reading",
+        "a": "d"
+    },
+    {
+        "o": 18346,
+        "r": "kjv:Ecclesiastes:12:13",
+        "w": 22,
+        "l": {},
+        "t": "Let…: or, The end of the matter, even all that hath been heard, is",
+        "a": "e"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "o": 12106,
+        "r": "esv:1 Chronicles:24:1",
+        "w": 11,
+        "l": {},
+        "c": "Leviticus 10:1*3245; Leviticus 10:6*3250; Numbers 26:60*4954",
+        "a": "a"
+    },
+    {
+        "o": 12107,
+        "r": "esv:1 Chronicles:24:2",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 10:2*3246; Numbers 26:61*4955",
+        "a": "b"
+    },
+    {
+        "o": 12108,
+        "r": "esv:1 Chronicles:24:3",
+        "w": 3,
+        "l": {},
+        "c": "1 Chronicles 24:31*12136; 2 Samuel 8:17*9014",
+        "a": "c"
+    },
+    {
+        "o": 12110,
+        "r": "esv:1 Chronicles:24:5",
+        "w": 2,
+        "l": {},
+        "c": "1 Chronicles 24:31*12136",
+        "a": "d"
+    },
+    {
+        "o": 12111,
+        "r": "esv:1 Chronicles:24:6",
+        "w": 25,
+        "l": {},
+        "c": "2 Samuel 8:17*9014; 1 Chronicles 18:16*11980; 1 Samuel 22:20*8547; 1 Samuel 23:6*8558",
+        "a": "e"
+    },
+    {
+        "o": 12115,
+        "r": "esv:1 Chronicles:24:10",
+        "w": 6,
+        "l": {},
+        "c": "Luke 1:5*27812",
+        "a": "f"
+    },
+    {
+        "o": 12124,
+        "r": "esv:1 Chronicles:24:19",
+        "w": 8,
+        "l": {},
+        "c": "1 Chronicles 9:25*11687",
+        "a": "g"
+    },
+    {
+        "o": 12125,
+        "r": "esv:1 Chronicles:24:20",
+        "w": 8,
+        "l": {},
+        "c": "1 Chronicles 23:13*12084",
+        "a": "h"
+    },
+    {
+        "o": 12126,
+        "r": "esv:1 Chronicles:24:21",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 23:17*12088",
+        "a": "i"
+    },
+    {
+        "o": 12128,
+        "r": "esv:1 Chronicles:24:23",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 23:19*12090",
+        "a": "j"
+    },
+    {
+        "o": 12128,
+        "r": "esv:1 Chronicles:24:23",
+        "w": 3,
+        "l": {},
+        "t": "Compare 23:19; Hebrew lacks Hebron*i",
+        "a": "k"
+    },
+    {
+        "o": 12128,
+        "r": "esv:1 Chronicles:24:23",
+        "w": 6,
+        "l": {},
+        "t": "Compare 23:19; Hebrew lacks the*i chief*i",
+        "a": "l"
+    },
+    {
+        "o": 12129,
+        "r": "esv:1 Chronicles:24:24",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 23:20*12091",
+        "a": "m"
+    },
+    {
+        "o": 12131,
+        "r": "esv:1 Chronicles:24:26",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 23:21*12092",
+        "a": "n"
+    },
+    {
+        "o": 12131,
+        "r": "esv:1 Chronicles:24:26",
+        "w": 11,
+        "l": {},
+        "t": "Or his*i son*i ; also verse 27",
+        "a": "o"
+    },
+    {
+        "o": 12133,
+        "r": "esv:1 Chronicles:24:28",
+        "w": 2,
+        "l": {},
+        "c": "1 Chronicles 23:22*12093",
+        "a": "p"
+    },
+    {
+        "o": 12135,
+        "r": "esv:1 Chronicles:24:30",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 23:23*12094",
+        "a": "q"
+    },
+    {
+        "o": 12136,
+        "r": "esv:1 Chronicles:24:31",
+        "w": 12,
+        "l": {},
+        "c": "1 Chronicles 24:5*12110; 1 Chronicles 25:8*12146; 1 Chronicles 26:13–14*12184; Nehemiah 11:1*13864",
+        "a": "r"
+    },
+    {
+        "o": 12136,
+        "r": "esv:1 Chronicles:24:31",
+        "w": 28,
+        "l": {},
+        "c": "1 Chronicles 24:6*12111",
+        "a": "s"
+    }
+]

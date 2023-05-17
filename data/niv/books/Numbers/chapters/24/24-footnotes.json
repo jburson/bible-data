@@ -1,0 +1,42 @@
+[
+    {
+        "o": 4844,
+        "r": "niv:Numbers:24:4",
+        "w": 16,
+        "l": {},
+        "t": "24:4*r Hebrew Shaddai*i ; also in verse 16",
+        "a": "a"
+    },
+    {
+        "o": 4858,
+        "r": "niv:Numbers:24:17",
+        "w": 34,
+        "l": {},
+        "t": "24:17*r Samaritan Pentateuch (see also Jer. 48:45); the meaning of the word in the Masoretic Text is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 4858,
+        "r": "niv:Numbers:24:17",
+        "w": 35,
+        "l": {},
+        "t": "24:17*r Or possibly Moab,*i /*i batter*i",
+        "a": "c"
+    },
+    {
+        "o": 4858,
+        "r": "niv:Numbers:24:17",
+        "w": 40,
+        "l": {},
+        "t": "24:17*r Or all*i the*i noisy*i boasters*i",
+        "a": "d"
+    },
+    {
+        "o": 4867,
+        "r": "niv:Numbers:24:23",
+        "w": 12,
+        "l": {},
+        "t": "24:23*r Masoretic Text; with a different word division of the Hebrew The*i people*i from*i the*i islands*i will*i gather*i from*i the*i north.*i",
+        "a": "e"
+    }
+]

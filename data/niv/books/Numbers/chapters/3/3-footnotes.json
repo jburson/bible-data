@@ -1,0 +1,34 @@
+[
+    {
+        "o": 4031,
+        "r": "niv:Numbers:3:9",
+        "w": 19,
+        "l": {},
+        "t": "3:9*r Most manuscripts of the Masoretic Text; some manuscripts of the Masoretic Text, Samaritan Pentateuch and Septuagint (see also 8:16) to*i me*i",
+        "a": "a"
+    },
+    {
+        "o": 4050,
+        "r": "niv:Numbers:3:28",
+        "w": 12,
+        "l": {},
+        "t": "3:28*r Hebrew; some Septuagint manuscripts 8,300*i",
+        "a": "b"
+    },
+    {
+        "o": 4069,
+        "r": "niv:Numbers:3:47",
+        "w": 2,
+        "l": {},
+        "t": "3:47*r That is, about 2 ounces or about 58 grams",
+        "a": "c"
+    },
+    {
+        "o": 4072,
+        "r": "niv:Numbers:3:50",
+        "w": 11,
+        "l": {},
+        "t": "3:50*r That is, about 35 pounds or about 16 kilograms",
+        "a": "d"
+    }
+]

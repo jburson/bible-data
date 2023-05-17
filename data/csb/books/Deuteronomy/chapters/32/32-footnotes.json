@@ -1,0 +1,514 @@
+[
+    {
+        "o": 6364,
+        "r": "csb:Deuteronomy:32:1",
+        "w": 14,
+        "l": {},
+        "c": "Jdg 5:3*7340; Pr 4:20*18491; Is 1:2*19766; 28:23*20374; 34:1*20505; 49:1*20878; Mc 1:2*25432",
+        "a": "a"
+    },
+    {
+        "o": 6366,
+        "r": "csb:Deuteronomy:32:3",
+        "w": 6,
+        "l": {},
+        "c": "Ex 33:19*2756; Ps 22:22*15811; 71:16,18*16722; 89:1*17113",
+        "a": "b"
+    },
+    {
+        "o": 6367,
+        "r": "csb:Deuteronomy:32:4",
+        "w": 1,
+        "l": {},
+        "c": "Gn 49:24*1646; Dt 32:15,18,30–31*6378; 1Sm 23:28*8670; 2Sm 23:3*9563; Is 30:29*20439; 44:8*20771; Hab 1:12*25629",
+        "a": "c"
+    },
+    {
+        "o": 6367,
+        "r": "csb:Deuteronomy:32:4",
+        "w": 10,
+        "l": {},
+        "c": "2Sm 22:31*9538; Ps 10:5*15595; 18:30*15721; 25:10*15855; 145:17*18294; Lm 1:18*22826; Dn 4:37*24605",
+        "a": "d"
+    },
+    {
+        "o": 6367,
+        "r": "csb:Deuteronomy:32:4",
+        "w": 13,
+        "l": {},
+        "c": "Dt 7:9*5632; Ps 59:10,17*16495",
+        "a": "e"
+    },
+    {
+        "o": 6368,
+        "r": "csb:Deuteronomy:32:5",
+        "w": 6,
+        "l": {},
+        "c": "Ex 32:7*2706; Dt 4:16,25*5522; 9:12*5686; Jdg 2:19*7269; Neh 1:7*13690; Zph 3:7*25727",
+        "a": "f"
+    },
+    {
+        "o": 6368,
+        "r": "csb:Deuteronomy:32:5",
+        "w": 10,
+        "l": {},
+        "t": "32:5*r Or him; through their fault; Hb obscure",
+        "a": "g"
+    },
+    {
+        "o": 6368,
+        "r": "csb:Deuteronomy:32:5",
+        "w": 21,
+        "l": {},
+        "c": "Dt 32:20*6383; Ps 78:8*16874; Jr 2:31*21282; Mt 11:16*26498; 12:39*26559; 16:4*26734; 17:7*26770; Ac 2:40*30533; Php 2:15*33302",
+        "a": "h"
+    },
+    {
+        "o": 6369,
+        "r": "csb:Deuteronomy:32:6",
+        "w": 11,
+        "l": {},
+        "c": "Jr 4:22*21343; 5:21*21376; 10:8*21529",
+        "a": "i"
+    },
+    {
+        "o": 6369,
+        "r": "csb:Deuteronomy:32:6",
+        "w": 17,
+        "l": {},
+        "t": "32:6*r Or Possessor",
+        "a": "j"
+    },
+    {
+        "o": 6369,
+        "r": "csb:Deuteronomy:32:6",
+        "w": 17,
+        "l": {},
+        "c": "Mal 2:10*26062",
+        "a": "k"
+    },
+    {
+        "o": 6371,
+        "r": "csb:Deuteronomy:32:8",
+        "w": 8,
+        "l": {},
+        "t": "32:8*r Or Most High divided the nations",
+        "a": "l"
+    },
+    {
+        "o": 6371,
+        "r": "csb:Deuteronomy:32:8",
+        "w": 13,
+        "l": {},
+        "c": "Gn 11:1–9*297",
+        "a": "m"
+    },
+    {
+        "o": 6371,
+        "r": "csb:Deuteronomy:32:8",
+        "w": 20,
+        "l": {},
+        "c": "Ac 17:26*31176",
+        "a": "n"
+    },
+    {
+        "o": 6371,
+        "r": "csb:Deuteronomy:32:8",
+        "w": 29,
+        "l": {},
+        "t": "32:8*r One DSS reads number of the sons of God; LXX reads number of the angels of God",
+        "a": "o"
+    },
+    {
+        "o": 6372,
+        "r": "csb:Deuteronomy:32:9",
+        "w": 10,
+        "l": {},
+        "c": "Nm 18:20*4703; Dt 10:9*5714; Zch 2:12*25826",
+        "a": "p"
+    },
+    {
+        "o": 6373,
+        "r": "csb:Deuteronomy:32:10",
+        "w": 17,
+        "l": {},
+        "c": "Ezk 16:6–14*23382",
+        "a": "q"
+    },
+    {
+        "o": 6373,
+        "r": "csb:Deuteronomy:32:10",
+        "w": 26,
+        "l": {},
+        "c": "Pr 7:2*18568",
+        "a": "r"
+    },
+    {
+        "o": 6374,
+        "r": "csb:Deuteronomy:32:11",
+        "w": 2,
+        "l": {},
+        "t": "32:11*r Or He stirs up",
+        "a": "s"
+    },
+    {
+        "o": 6374,
+        "r": "csb:Deuteronomy:32:11",
+        "w": 24,
+        "l": {},
+        "c": "Ex 19:4*2238; Ps 91:4*17192",
+        "a": "t"
+    },
+    {
+        "o": 6376,
+        "r": "csb:Deuteronomy:32:13",
+        "w": 9,
+        "l": {},
+        "c": "Is 58:14*21061",
+        "a": "u"
+    },
+    {
+        "o": 6377,
+        "r": "csb:Deuteronomy:32:14",
+        "w": 16,
+        "l": {},
+        "c": "Ps 22:12*15801; Ezk 39:18*24144; Am 4:1*25227; Mc 7:14*25551",
+        "a": "v"
+    },
+    {
+        "o": 6377,
+        "r": "csb:Deuteronomy:32:14",
+        "w": 31,
+        "l": {},
+        "t": "32:14*r Lit drank the blood of grapes, fermenting wine",
+        "a": "w"
+    },
+    {
+        "o": 6378,
+        "r": "csb:Deuteronomy:32:15",
+        "w": 0,
+        "l": {},
+        "t": "32:15*r DSS, Sam, LXX add Jacob ate his fill;",
+        "a": "x"
+    },
+    {
+        "o": 6378,
+        "r": "csb:Deuteronomy:32:15",
+        "w": 1,
+        "l": {},
+        "t": "32:15*r = Upright One, referring to Israel",
+        "a": "y"
+    },
+    {
+        "o": 6378,
+        "r": "csb:Deuteronomy:32:15",
+        "w": 1,
+        "l": {},
+        "c": "Is 44:2*20764",
+        "a": "z"
+    },
+    {
+        "o": 6379,
+        "r": "csb:Deuteronomy:32:16",
+        "w": 12,
+        "l": {},
+        "c": "Ex 20:5*2266; 34:14*2777; Dt 4:24*5530; 5:9*5568; 6:15*5611; 29:20*6296; Jos 24:19*7191; 1Kg 14:22*10211; Ps 78:58*16924; Nah 1:2*25561; Zph 1:18*25700; 3:8*25729",
+        "a": "a"
+    },
+    {
+        "o": 6380,
+        "r": "csb:Deuteronomy:32:17",
+        "w": 23,
+        "l": {},
+        "c": "Ps 106:37*17517; 1Co 10:19–20*32365",
+        "a": "b"
+    },
+    {
+        "o": 6383,
+        "r": "csb:Deuteronomy:32:20",
+        "w": 8,
+        "l": {},
+        "c": "Dt 31:17–18*6347; Jb 13:24*14651; 34:29*15223; Ps 10:11*15601; 13:1*15633; 22:24*15813; 27:9*15894; 30:7*15935; 69:17*16677; 88:14*17105; 102:2*17343; 104:29*17425; 143:7*18251; Is 8:17*19954; 54:8*20982; 59:2*21065; 64:7*21166; Jr 33:5*22193; Ezk 39:23–24*24150; 39:29*24156; Mc 3:4*25471",
+        "a": "c"
+    },
+    {
+        "o": 6384,
+        "r": "csb:Deuteronomy:32:21",
+        "w": 10,
+        "l": {},
+        "t": "32:21*r Lit with no gods",
+        "a": "d"
+    },
+    {
+        "o": 6384,
+        "r": "csb:Deuteronomy:32:21",
+        "w": 18,
+        "l": {},
+        "c": "1Kg 16:13,26*10274; 2Kg 17:15*11076; Jr 10:8*21529",
+        "a": "e"
+    },
+    {
+        "o": 6384,
+        "r": "csb:Deuteronomy:32:21",
+        "w": 30,
+        "l": {},
+        "t": "32:21*r Lit with no people",
+        "a": "f"
+    },
+    {
+        "o": 6384,
+        "r": "csb:Deuteronomy:32:21",
+        "w": 38,
+        "l": {},
+        "c": "Dt 32:6*6369; Ps 74:18*16807; Rm 10:19*31925; 11:14*31944",
+        "a": "g"
+    },
+    {
+        "o": 6385,
+        "r": "csb:Deuteronomy:32:22",
+        "w": 15,
+        "l": {},
+        "c": "Ps 86:13*17074; Pr 9:18*18652; Is 7:11*19920",
+        "a": "h"
+    },
+    {
+        "o": 6388,
+        "r": "csb:Deuteronomy:32:25",
+        "w": 28,
+        "l": {},
+        "c": "Is 5:8–30*19869; Jr 9:17–21*21509",
+        "a": "i"
+    },
+    {
+        "o": 6389,
+        "r": "csb:Deuteronomy:32:26",
+        "w": 9,
+        "l": {},
+        "t": "32:26*r LXX reads will scatter them",
+        "a": "j"
+    },
+    {
+        "o": 6389,
+        "r": "csb:Deuteronomy:32:26",
+        "w": 18,
+        "l": {},
+        "c": "Ex 17:14*2201; Dt 9:14*5688; 25:19*6150; 29:20*6296; 2Kg 14:27*10985",
+        "a": "k"
+    },
+    {
+        "o": 6391,
+        "r": "csb:Deuteronomy:32:28",
+        "w": 10,
+        "l": {},
+        "c": "Is 44:19*20782; Jr 29:7*22039",
+        "a": "l"
+    },
+    {
+        "o": 6393,
+        "r": "csb:Deuteronomy:32:30",
+        "w": 12,
+        "l": {},
+        "c": "Lv 26:36*3927",
+        "a": "m"
+    },
+    {
+        "o": 6393,
+        "r": "csb:Deuteronomy:32:30",
+        "w": 25,
+        "l": {},
+        "c": "Ps 127:1*18028; Lm 3:37*22931; Mk 13:20*27949",
+        "a": "n"
+    },
+    {
+        "o": 6396,
+        "r": "csb:Deuteronomy:32:33",
+        "w": 9,
+        "l": {},
+        "c": "Jb 20:14*14827",
+        "a": "o"
+    },
+    {
+        "o": 6398,
+        "r": "csb:Deuteronomy:32:35",
+        "w": 5,
+        "l": {},
+        "t": "32:35*r MT; LXX, reads On a day of vengeance I will repay.",
+        "a": "p"
+    },
+    {
+        "o": 6398,
+        "r": "csb:Deuteronomy:32:35",
+        "w": 5,
+        "l": {},
+        "c": "1Sm 24:12*8685; 2Sm 22:48*9555; Jr 11:20*21570; 51:36*22722; Nah 1:2*25561; Rm 12:19*31990; Heb 10:30*34194",
+        "a": "q"
+    },
+    {
+        "o": 6399,
+        "r": "csb:Deuteronomy:32:36",
+        "w": 12,
+        "l": {},
+        "c": "Ps 135:14*18118",
+        "a": "r"
+    },
+    {
+        "o": 6399,
+        "r": "csb:Deuteronomy:32:36",
+        "w": 27,
+        "l": {},
+        "t": "32:36*r Or left — even the weak and impaired; Hb obscure",
+        "a": "s"
+    },
+    {
+        "o": 6401,
+        "r": "csb:Deuteronomy:32:38",
+        "w": 23,
+        "l": {},
+        "t": "32:38*r Sam, LXX, Tg, Vg read them",
+        "a": "t"
+    },
+    {
+        "o": 6402,
+        "r": "csb:Deuteronomy:32:39",
+        "w": 12,
+        "l": {},
+        "c": "Is 40:25*20663; 43:11–13*20742; 46:9*20830; Ezk 36:23*24053",
+        "a": "u"
+    },
+    {
+        "o": 6402,
+        "r": "csb:Deuteronomy:32:39",
+        "w": 32,
+        "l": {},
+        "c": "Dt 30:15,19*6323; 1Sm 2:6–8*8021; 4:8*8086; Jr 21:8*21813; Hs 2:10*24879",
+        "a": "v"
+    },
+    {
+        "o": 6405,
+        "r": "csb:Deuteronomy:32:42",
+        "w": 26,
+        "l": {},
+        "t": "32:42*r Or the long-haired heads of the enemy",
+        "a": "w"
+    },
+    {
+        "o": 6406,
+        "r": "csb:Deuteronomy:32:43",
+        "w": 5,
+        "l": {},
+        "t": "32:43*r LXX reads Rejoice, you heavens, along with him, and let all the sons of God worship him; rejoice, you nations, with his people, and let all the angels of God strengthen themselves in him; DSS read Rejoice, you heavens, along with him, and let all the angels worship him; Heb 1:6",
+        "a": "x"
+    },
+    {
+        "o": 6406,
+        "r": "csb:Deuteronomy:32:43",
+        "w": 5,
+        "l": {},
+        "c": "Rm 15:10*32049",
+        "a": "y"
+    },
+    {
+        "o": 6406,
+        "r": "csb:Deuteronomy:32:43",
+        "w": 14,
+        "l": {},
+        "t": "32:43*r DSS, LXX read sons",
+        "a": "z"
+    },
+    {
+        "o": 6406,
+        "r": "csb:Deuteronomy:32:43",
+        "w": 21,
+        "l": {},
+        "t": "32:43*r DSS, LXX add and he will repay those who hate him; v. 41",
+        "a": "a"
+    },
+    {
+        "o": 6406,
+        "r": "csb:Deuteronomy:32:43",
+        "w": 21,
+        "l": {},
+        "c": "Ps 79:10*16951; Jr 46:10*22509; Mc 5:15*25514; Nah 1:2*25561",
+        "a": "b"
+    },
+    {
+        "o": 6406,
+        "r": "csb:Deuteronomy:32:43",
+        "w": 29,
+        "l": {},
+        "t": "32:43*r Syr, Tg; DSS, Sam, LXX, Vg read his people’s land",
+        "a": "c"
+    },
+    {
+        "o": 6407,
+        "r": "csb:Deuteronomy:32:44",
+        "w": 3,
+        "l": {},
+        "t": "32:44*r LXX, Syr, Vg; MT reads Hoshea; Nm 13:8,16",
+        "a": "d"
+    },
+    {
+        "o": 6409,
+        "r": "csb:Deuteronomy:32:46",
+        "w": 18,
+        "l": {},
+        "c": "Dt 11:18*5748; Ezk 3:10*23092; Mal 2:2*26053",
+        "a": "e"
+    },
+    {
+        "o": 6409,
+        "r": "csb:Deuteronomy:32:46",
+        "w": 34,
+        "l": {},
+        "c": "Dt 29:29*6305; 31:12*6342",
+        "a": "f"
+    },
+    {
+        "o": 6410,
+        "r": "csb:Deuteronomy:32:47",
+        "w": 12,
+        "l": {},
+        "c": "Dt 30:20*6328; Pr 4:13*18483",
+        "a": "g"
+    },
+    {
+        "o": 6412,
+        "r": "csb:Deuteronomy:32:48",
+        "w": 8,
+        "l": {},
+        "c": "Nm 27:12–14*5022",
+        "a": "h"
+    },
+    {
+        "o": 6413,
+        "r": "csb:Deuteronomy:32:49",
+        "w": 3,
+        "l": {},
+        "c": "Dt 34:1*6450",
+        "a": "i"
+    },
+    {
+        "o": 6414,
+        "r": "csb:Deuteronomy:32:50",
+        "w": 18,
+        "l": {},
+        "c": "Gn 25:8,17*734; 35:29*1146; 49:33*1656; Nm 27:13*5023; 31:2*5138",
+        "a": "j"
+    },
+    {
+        "o": 6414,
+        "r": "csb:Deuteronomy:32:50",
+        "w": 33,
+        "l": {},
+        "c": "Nm 20:22–29*4765",
+        "a": "k"
+    },
+    {
+        "o": 6416,
+        "r": "csb:Deuteronomy:32:52",
+        "w": 19,
+        "l": {},
+        "c": "Nm 20:2–13*4743",
+        "a": "l"
+    }
+]

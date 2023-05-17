@@ -1,0 +1,34 @@
+[
+    {
+        "o": 970,
+        "r": "niv:Genesis:31:18",
+        "w": 19,
+        "l": {},
+        "t": "31:18*r That is, Northwest Mesopotamia",
+        "a": "a"
+    },
+    {
+        "o": 1000,
+        "r": "niv:Genesis:31:47",
+        "w": 9,
+        "l": {},
+        "t": "31:47*r The Aramaic Jegar*i Sahadutha*i and the Hebrew Galeed*i both mean witness*i heap.*i",
+        "a": "b"
+    },
+    {
+        "o": 1002,
+        "r": "niv:Genesis:31:49",
+        "w": 4,
+        "l": {},
+        "t": "31:49*r Mizpah*i means watchtower.*i",
+        "a": "c"
+    },
+    {
+        "o": 1008,
+        "r": "niv:Genesis:31:55",
+        "w": 19,
+        "l": {},
+        "t": "31:55*r In Hebrew texts this verse (31:55) is numbered 32:1.",
+        "a": "d"
+    }
+]

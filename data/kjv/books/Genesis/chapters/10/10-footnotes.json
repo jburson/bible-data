@@ -1,0 +1,74 @@
+[
+    {
+        "o": 249,
+        "r": "kjv:Genesis:10:4",
+        "w": 10,
+        "l": {},
+        "t": "Dodanim: or, as some read it, Rodanim",
+        "a": "a"
+    },
+    {
+        "o": 255,
+        "r": "kjv:Genesis:10:10",
+        "w": 18,
+        "l": {},
+        "t": "Babel: Gr. Babylon",
+        "a": "b"
+    },
+    {
+        "o": 256,
+        "r": "kjv:Genesis:10:11",
+        "w": 15,
+        "l": {},
+        "t": "went…: or, he went out into Assyria",
+        "a": "c"
+    },
+    {
+        "o": 256,
+        "r": "kjv:Genesis:10:11",
+        "w": 15,
+        "l": {},
+        "t": "the city…: or, the streets of the city",
+        "a": "d"
+    },
+    {
+        "o": 260,
+        "r": "kjv:Genesis:10:15",
+        "w": 7,
+        "l": {},
+        "t": "Sidon: Heb. Tzidon",
+        "a": "e"
+    },
+    {
+        "o": 264,
+        "r": "kjv:Genesis:10:19",
+        "w": 29,
+        "l": {},
+        "t": "Gaza: Heb. Azzah",
+        "a": "f"
+    },
+    {
+        "o": 267,
+        "r": "kjv:Genesis:10:22",
+        "w": 12,
+        "l": {},
+        "t": "Arphaxad: Heb. Arpachshad",
+        "a": "g"
+    },
+    {
+        "o": 269,
+        "r": "kjv:Genesis:10:24",
+        "w": 7,
+        "l": {},
+        "t": "Salah: Heb. Shelah",
+        "a": "h"
+    },
+    {
+        "o": 270,
+        "r": "kjv:Genesis:10:25",
+        "w": 26,
+        "l": {},
+        "t": "Peleg: that is, Division",
+        "a": "i"
+    }
+]

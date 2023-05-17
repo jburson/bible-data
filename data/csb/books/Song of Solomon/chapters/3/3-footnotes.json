@@ -1,0 +1,146 @@
+[
+    {
+        "o": 19647,
+        "r": "csb:Song of Solomon:3:1",
+        "w": 4,
+        "l": {},
+        "t": "3:1*r Or bed night after night",
+        "a": "a"
+    },
+    {
+        "o": 19647,
+        "r": "csb:Song of Solomon:3:1",
+        "w": 10,
+        "l": {},
+        "c": "Sg 1:7*19608",
+        "a": "b"
+    },
+    {
+        "o": 19647,
+        "r": "csb:Song of Solomon:3:1",
+        "w": 18,
+        "l": {},
+        "t": "3:1*r LXX adds I called him, but he did not answer me",
+        "a": "c"
+    },
+    {
+        "o": 19647,
+        "r": "csb:Song of Solomon:3:1",
+        "w": 18,
+        "l": {},
+        "c": "Sg 5:6*19691",
+        "a": "d"
+    },
+    {
+        "o": 19648,
+        "r": "csb:Song of Solomon:3:2",
+        "w": 14,
+        "l": {},
+        "c": "Jr 5:1*21355",
+        "a": "e"
+    },
+    {
+        "o": 19649,
+        "r": "csb:Song of Solomon:3:3",
+        "w": 8,
+        "l": {},
+        "c": "Sg 5:7*19692",
+        "a": "f"
+    },
+    {
+        "o": 19650,
+        "r": "csb:Song of Solomon:3:4",
+        "w": 30,
+        "l": {},
+        "c": "Sg 8:2*19743",
+        "a": "g"
+    },
+    {
+        "o": 19651,
+        "r": "csb:Song of Solomon:3:5",
+        "w": 27,
+        "l": {},
+        "t": "3:5*r Lit until it pleases",
+        "a": "h"
+    },
+    {
+        "o": 19651,
+        "r": "csb:Song of Solomon:3:5",
+        "w": 27,
+        "l": {},
+        "c": "Sg 2:7*19631; 5:8*19694; 8:4*19746",
+        "a": "i"
+    },
+    {
+        "o": 19653,
+        "r": "csb:Song of Solomon:3:6",
+        "w": 2,
+        "l": {},
+        "c": "Sg 6:10*19718; 8:5*19749",
+        "a": "j"
+    },
+    {
+        "o": 19653,
+        "r": "csb:Song of Solomon:3:6",
+        "w": 16,
+        "l": {},
+        "c": "Sg 4:6,14*19666",
+        "a": "k"
+    },
+    {
+        "o": 19655,
+        "r": "csb:Song of Solomon:3:8",
+        "w": 17,
+        "l": {},
+        "c": "Ps 45:3*16253",
+        "a": "l"
+    },
+    {
+        "o": 19655,
+        "r": "csb:Song of Solomon:3:8",
+        "w": 25,
+        "l": {},
+        "c": "Ps 91:5*17193",
+        "a": "m"
+    },
+    {
+        "o": 19657,
+        "r": "csb:Song of Solomon:3:10",
+        "w": 7,
+        "l": {},
+        "t": "3:10*r Or base, or canopy",
+        "a": "n"
+    },
+    {
+        "o": 19657,
+        "r": "csb:Song of Solomon:3:10",
+        "w": 20,
+        "l": {},
+        "t": "3:10*r Or leather",
+        "a": "o"
+    },
+    {
+        "o": 19657,
+        "r": "csb:Song of Solomon:3:10",
+        "w": 26,
+        "l": {},
+        "c": "Sg 1:5*19605",
+        "a": "p"
+    },
+    {
+        "o": 19658,
+        "r": "csb:Song of Solomon:3:11",
+        "w": 5,
+        "l": {},
+        "c": "Is 3:16–17*19840; 4:4*19856",
+        "a": "q"
+    },
+    {
+        "o": 19658,
+        "r": "csb:Song of Solomon:3:11",
+        "w": 24,
+        "l": {},
+        "c": "Is 62:5*21128",
+        "a": "r"
+    }
+]

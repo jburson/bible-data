@@ -1,0 +1,1986 @@
+[
+    {
+        "o": 33236,
+        "r": "esv:1 Timothy:1:1",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 1:1*32205",
+        "a": "a"
+    },
+    {
+        "o": 33236,
+        "r": "esv:1 Timothy:1:1",
+        "w": 5,
+        "l": {},
+        "c": "Titus 1:3*33466; Romans 16:26*31715",
+        "a": "b"
+    },
+    {
+        "o": 33236,
+        "r": "esv:1 Timothy:1:1",
+        "w": 8,
+        "l": {},
+        "c": "Luke 1:47*27857",
+        "a": "c"
+    },
+    {
+        "o": 33236,
+        "r": "esv:1 Timothy:1:1",
+        "w": 15,
+        "l": {},
+        "c": "Colossians 1:27*32995",
+        "a": "d"
+    },
+    {
+        "o": 33237,
+        "r": "esv:1 Timothy:1:2",
+        "w": 1,
+        "l": {},
+        "c": "Titus 1:4*33468",
+        "a": "e"
+    },
+    {
+        "o": 33237,
+        "r": "esv:1 Timothy:1:2",
+        "w": 7,
+        "l": {},
+        "c": "2 Timothy 1:2*33370; 2 John 3*34328; Jude 2*34363",
+        "a": "f"
+    },
+    {
+        "o": 33239,
+        "r": "esv:1 Timothy:1:3",
+        "w": 0,
+        "l": {},
+        "c": "Titus 1:5*33469",
+        "a": "g"
+    },
+    {
+        "o": 33239,
+        "r": "esv:1 Timothy:1:3",
+        "w": 20,
+        "l": {},
+        "c": "1 Timothy 6:3*33346; Galatians 1:6–7*32504",
+        "a": "h"
+    },
+    {
+        "o": 33240,
+        "r": "esv:1 Timothy:1:4",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 4:7*33304; 2 Timothy 4:4*33441; Titus 1:14*33478; 2 Peter 1:16*34149",
+        "a": "i"
+    },
+    {
+        "o": 33240,
+        "r": "esv:1 Timothy:1:4",
+        "w": 7,
+        "l": {},
+        "c": "Titus 3:9*33508",
+        "a": "j"
+    },
+    {
+        "o": 33240,
+        "r": "esv:1 Timothy:1:4",
+        "w": 10,
+        "l": {},
+        "c": "1 Timothy 6:4*33347",
+        "a": "k"
+    },
+    {
+        "o": 33240,
+        "r": "esv:1 Timothy:1:4",
+        "w": 15,
+        "l": {},
+        "t": "Or good*i order*i",
+        "a": "l"
+    },
+    {
+        "o": 33241,
+        "r": "esv:1 Timothy:1:5",
+        "w": 6,
+        "l": {},
+        "c": "2 Timothy 2:22*33411",
+        "a": "m"
+    },
+    {
+        "o": 33241,
+        "r": "esv:1 Timothy:1:5",
+        "w": 13,
+        "l": {},
+        "c": "1 Peter 3:16*34084; 1 Peter 3:21*34089",
+        "a": "n"
+    },
+    {
+        "o": 33241,
+        "r": "esv:1 Timothy:1:5",
+        "w": 17,
+        "l": {},
+        "c": "Romans 12:9*31593; 2 Timothy 1:5*33373",
+        "a": "o"
+    },
+    {
+        "o": 33242,
+        "r": "esv:1 Timothy:1:6",
+        "w": 2,
+        "l": {},
+        "c": "1 Timothy 6:21*33365",
+        "a": "p"
+    },
+    {
+        "o": 33242,
+        "r": "esv:1 Timothy:1:6",
+        "w": 9,
+        "l": {},
+        "c": "Titus 1:10*33474",
+        "a": "q"
+    },
+    {
+        "o": 33243,
+        "r": "esv:1 Timothy:1:7",
+        "w": 6,
+        "l": {},
+        "c": "1 Timothy 6:4*33347; Colossians 2:18*33018",
+        "a": "r"
+    },
+    {
+        "o": 33244,
+        "r": "esv:1 Timothy:1:8",
+        "w": 3,
+        "l": {},
+        "c": "Romans 7:16*31428",
+        "a": "s"
+    },
+    {
+        "o": 33245,
+        "r": "esv:1 Timothy:1:9",
+        "w": 3,
+        "l": {},
+        "c": "Galatians 5:23*32642",
+        "a": "t"
+    },
+    {
+        "o": 33246,
+        "r": "esv:1 Timothy:1:10",
+        "w": 7,
+        "l": {},
+        "t": "That is, those who take someone captive in order to sell him into slavery",
+        "a": "u"
+    },
+    {
+        "o": 33246,
+        "r": "esv:1 Timothy:1:10",
+        "w": 15,
+        "l": {},
+        "c": "2 Timothy 4:3*33440; 1 Timothy 6:3*33346; 2 Timothy 1:13*33381; Titus 1:13*33477; Titus 2:2*33484",
+        "a": "v"
+    },
+    {
+        "o": 33246,
+        "r": "esv:1 Timothy:1:10",
+        "w": 16,
+        "l": {},
+        "t": "Or healthy*i",
+        "a": "w"
+    },
+    {
+        "o": 33247,
+        "r": "esv:1 Timothy:1:11",
+        "w": 2,
+        "l": {},
+        "c": "2 Corinthians 4:4*32276",
+        "a": "x"
+    },
+    {
+        "o": 33247,
+        "r": "esv:1 Timothy:1:11",
+        "w": 8,
+        "l": {},
+        "c": "1 Timothy 6:15*33359",
+        "a": "y"
+    },
+    {
+        "o": 33247,
+        "r": "esv:1 Timothy:1:11",
+        "w": 11,
+        "l": {},
+        "c": "Titus 1:3*33466; Romans 2:16*31283; Galatians 2:7*32532",
+        "a": "z"
+    },
+    {
+        "o": 33249,
+        "r": "esv:1 Timothy:1:12",
+        "w": 2,
+        "l": {},
+        "c": "Acts 9:22*30459; Philippians 4:13*32952",
+        "a": "a"
+    },
+    {
+        "o": 33249,
+        "r": "esv:1 Timothy:1:12",
+        "w": 16,
+        "l": {},
+        "c": "2 Corinthians 3:6*32258",
+        "a": "b"
+    },
+    {
+        "o": 33250,
+        "r": "esv:1 Timothy:1:13",
+        "w": 5,
+        "l": {},
+        "c": "Acts 8:3*30394",
+        "a": "c"
+    },
+    {
+        "o": 33250,
+        "r": "esv:1 Timothy:1:13",
+        "w": 10,
+        "l": {},
+        "c": "1 Corinthians 7:25*31886; 2 Corinthians 4:1*32273",
+        "a": "d"
+    },
+    {
+        "o": 33250,
+        "r": "esv:1 Timothy:1:13",
+        "w": 13,
+        "l": {},
+        "c": "Acts 3:17*30211",
+        "a": "e"
+    },
+    {
+        "o": 33251,
+        "r": "esv:1 Timothy:1:14",
+        "w": 0,
+        "l": {},
+        "c": "Romans 5:20*31382",
+        "a": "f"
+    },
+    {
+        "o": 33251,
+        "r": "esv:1 Timothy:1:14",
+        "w": 10,
+        "l": {},
+        "c": "Luke 7:47*28199; Luke 7:50*28202; 1 Thessalonians 1:3*33078",
+        "a": "g"
+    },
+    {
+        "o": 33252,
+        "r": "esv:1 Timothy:1:15",
+        "w": 2,
+        "l": {},
+        "c": "1 Timothy 3:1*33277; 1 Timothy 4:9*33306; 2 Timothy 2:11*33399; Titus 3:8*33507; Revelation 22:6*34841",
+        "a": "h"
+    },
+    {
+        "o": 33252,
+        "r": "esv:1 Timothy:1:15",
+        "w": 11,
+        "l": {},
+        "c": "Matthew 9:13*26075; John 3:17*29235; Romans 4:25*31359",
+        "a": "i"
+    },
+    {
+        "o": 33252,
+        "r": "esv:1 Timothy:1:15",
+        "w": 18,
+        "l": {},
+        "c": "1 Corinthians 15:9*32121",
+        "a": "j"
+    },
+    {
+        "o": 33254,
+        "r": "esv:1 Timothy:1:17",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 10:16*15477; Revelation 4:9–10*34483",
+        "a": "k"
+    },
+    {
+        "o": 33254,
+        "r": "esv:1 Timothy:1:17",
+        "w": 5,
+        "l": {},
+        "c": "1 Timothy 6:15–16*33359; Romans 1:23*31255",
+        "a": "l"
+    },
+    {
+        "o": 33254,
+        "r": "esv:1 Timothy:1:17",
+        "w": 6,
+        "l": {},
+        "c": "John 1:18*29150; Colossians 1:15*32982; Hebrews 11:27*33808; 1 John 4:12*34288",
+        "a": "m"
+    },
+    {
+        "o": 33254,
+        "r": "esv:1 Timothy:1:17",
+        "w": 7,
+        "l": {},
+        "c": "Jude 25*34388",
+        "a": "n"
+    },
+    {
+        "o": 33254,
+        "r": "esv:1 Timothy:1:17",
+        "w": 10,
+        "l": {},
+        "c": "1 Chronicles 29:11*12279",
+        "a": "o"
+    },
+    {
+        "o": 33254,
+        "r": "esv:1 Timothy:1:17",
+        "w": 17,
+        "l": {},
+        "t": "Greek to*i the*i ages*i of*i ages*i",
+        "a": "p"
+    },
+    {
+        "o": 33255,
+        "r": "esv:1 Timothy:1:18",
+        "w": 1,
+        "l": {},
+        "c": "2 Timothy 2:2*33390",
+        "a": "q"
+    },
+    {
+        "o": 33255,
+        "r": "esv:1 Timothy:1:18",
+        "w": 11,
+        "l": {},
+        "c": "1 Timothy 4:14*33311",
+        "a": "r"
+    },
+    {
+        "o": 33255,
+        "r": "esv:1 Timothy:1:18",
+        "w": 22,
+        "l": {},
+        "c": "1 Corinthians 9:7*31925; 2 Corinthians 10:4*32404; 2 Timothy 2:3–4*33391; 1 Timothy 6:12*33356",
+        "a": "s"
+    },
+    {
+        "o": 33256,
+        "r": "esv:1 Timothy:1:19",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 3:9*33286",
+        "a": "t"
+    },
+    {
+        "o": 33256,
+        "r": "esv:1 Timothy:1:19",
+        "w": 10,
+        "l": {},
+        "c": "1 Timothy 6:9*33352",
+        "a": "u"
+    },
+    {
+        "o": 33257,
+        "r": "esv:1 Timothy:1:20",
+        "w": 2,
+        "l": {},
+        "c": "2 Timothy 2:17*33406",
+        "a": "v"
+    },
+    {
+        "o": 33257,
+        "r": "esv:1 Timothy:1:20",
+        "w": 4,
+        "l": {},
+        "c": "2 Timothy 4:14*33452",
+        "a": "w"
+    },
+    {
+        "o": 33257,
+        "r": "esv:1 Timothy:1:20",
+        "w": 7,
+        "l": {},
+        "c": "1 Corinthians 5:5*31826",
+        "a": "x"
+    },
+    {
+        "o": 33257,
+        "r": "esv:1 Timothy:1:20",
+        "w": 18,
+        "l": {},
+        "c": "Acts 13:45*30647",
+        "a": "y"
+    },
+    {
+        "o": 33261,
+        "r": "esv:1 Timothy:2:2",
+        "w": 0,
+        "l": {},
+        "c": "Ezra 6:10*13391",
+        "a": "a"
+    },
+    {
+        "o": 33261,
+        "r": "esv:1 Timothy:2:2",
+        "w": 19,
+        "l": {},
+        "c": "1 Timothy 3:4*33280",
+        "a": "b"
+    },
+    {
+        "o": 33262,
+        "r": "esv:1 Timothy:2:3",
+        "w": 3,
+        "l": {},
+        "c": "1 Timothy 5:4*33319",
+        "a": "c"
+    },
+    {
+        "o": 33262,
+        "r": "esv:1 Timothy:2:3",
+        "w": 10,
+        "l": {},
+        "c": "1 Timothy 1:1*33236",
+        "a": "d"
+    },
+    {
+        "o": 33263,
+        "r": "esv:1 Timothy:2:4",
+        "w": 1,
+        "l": {},
+        "c": "1 Timothy 4:10*33307; Ezekiel 18:23*23199; Ezekiel 18:32*23208",
+        "a": "e"
+    },
+    {
+        "o": 33263,
+        "r": "esv:1 Timothy:2:4",
+        "w": 7,
+        "l": {},
+        "c": "2 Timothy 3:7*33424",
+        "a": "f"
+    },
+    {
+        "o": 33263,
+        "r": "esv:1 Timothy:2:4",
+        "w": 10,
+        "l": {},
+        "c": "2 Timothy 2:25*33414; Titus 1:1*33464; Hebrews 10:26*33766",
+        "a": "g"
+    },
+    {
+        "o": 33264,
+        "r": "esv:1 Timothy:2:5",
+        "w": 0,
+        "l": {},
+        "c": "Galatians 3:20*32572",
+        "a": "h"
+    },
+    {
+        "o": 33264,
+        "r": "esv:1 Timothy:2:5",
+        "w": 15,
+        "l": {},
+        "t": "men*i and man*i render the same Greek word that is translated people*i in verses 1 and 4",
+        "a": "i"
+    },
+    {
+        "o": 33265,
+        "r": "esv:1 Timothy:2:6",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 20:28*26574",
+        "a": "j"
+    },
+    {
+        "o": 33265,
+        "r": "esv:1 Timothy:2:6",
+        "w": 9,
+        "l": {},
+        "c": "1 Corinthians 1:6*31725",
+        "a": "k"
+    },
+    {
+        "o": 33265,
+        "r": "esv:1 Timothy:2:6",
+        "w": 12,
+        "l": {},
+        "c": "1 Timothy 6:15*33359; Titus 1:3*33466; Galatians 4:4*32587",
+        "a": "l"
+    },
+    {
+        "o": 33266,
+        "r": "esv:1 Timothy:2:7",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 1:11*33248; Ephesians 3:7–8*32727; 2 Timothy 1:11*33379",
+        "a": "m"
+    },
+    {
+        "o": 33266,
+        "r": "esv:1 Timothy:2:7",
+        "w": 9,
+        "l": {},
+        "c": "Romans 9:1*31484",
+        "a": "n"
+    },
+    {
+        "o": 33266,
+        "r": "esv:1 Timothy:2:7",
+        "w": 18,
+        "l": {},
+        "c": "Acts 9:15*30449",
+        "a": "o"
+    },
+    {
+        "o": 33267,
+        "r": "esv:1 Timothy:2:8",
+        "w": 3,
+        "l": {},
+        "c": "John 4:21*29278",
+        "a": "p"
+    },
+    {
+        "o": 33267,
+        "r": "esv:1 Timothy:2:8",
+        "w": 10,
+        "l": {},
+        "c": "Psalm 63:4*16421; Psalm 119:48*17681; Isaiah 1:15*19646",
+        "a": "q"
+    },
+    {
+        "o": 33267,
+        "r": "esv:1 Timothy:2:8",
+        "w": 11,
+        "l": {},
+        "c": "Job 17:9*14612; Psalm 24:4*15707",
+        "a": "r"
+    },
+    {
+        "o": 33268,
+        "r": "esv:1 Timothy:2:9",
+        "w": 1,
+        "l": {},
+        "c": "1 Peter 3:3*34070; Isaiah 3:18–23*19708",
+        "a": "s"
+    },
+    {
+        "o": 33269,
+        "r": "esv:1 Timothy:2:10",
+        "w": 0,
+        "l": {},
+        "c": "1 Peter 3:4*34071",
+        "a": "t"
+    },
+    {
+        "o": 33270,
+        "r": "esv:1 Timothy:2:11",
+        "w": 4,
+        "l": {},
+        "c": "Titus 2:5*33487",
+        "a": "u"
+    },
+    {
+        "o": 33271,
+        "r": "esv:1 Timothy:2:12",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 14:34*32104",
+        "a": "v"
+    },
+    {
+        "o": 33272,
+        "r": "esv:1 Timothy:2:13",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 1:27*29; Genesis 2:8*44",
+        "a": "w"
+    },
+    {
+        "o": 33272,
+        "r": "esv:1 Timothy:2:13",
+        "w": 4,
+        "l": {},
+        "c": "Genesis 2:18*54; Genesis 2:22*58",
+        "a": "x"
+    },
+    {
+        "o": 33273,
+        "r": "esv:1 Timothy:2:14",
+        "w": 5,
+        "l": {},
+        "c": "Genesis 3:6*69; Genesis 3:13*76",
+        "a": "y"
+    },
+    {
+        "o": 33274,
+        "r": "esv:1 Timothy:2:15",
+        "w": 5,
+        "l": {},
+        "c": "Galatians 4:4*32587",
+        "a": "z"
+    },
+    {
+        "o": 33274,
+        "r": "esv:1 Timothy:2:15",
+        "w": 10,
+        "l": {},
+        "c": "1 Timothy 1:14*33251",
+        "a": "a"
+    },
+    {
+        "o": 33277,
+        "r": "esv:1 Timothy:3:1",
+        "w": 2,
+        "l": {},
+        "c": "1 Timothy 1:15*33252",
+        "a": "a"
+    },
+    {
+        "o": 33277,
+        "r": "esv:1 Timothy:3:1",
+        "w": 7,
+        "l": {},
+        "c": "Acts 20:28*30925",
+        "a": "b"
+    },
+    {
+        "o": 33278,
+        "r": "esv:1 Timothy:3:2",
+        "w": 0,
+        "l": {},
+        "c": "Titus 1:6–9*33470",
+        "a": "c"
+    },
+    {
+        "o": 33278,
+        "r": "esv:1 Timothy:3:2",
+        "w": 2,
+        "l": {},
+        "t": "Or bishop*i ; Greek episkopos*i ; a similar term occurs in verse 1",
+        "a": "d"
+    },
+    {
+        "o": 33278,
+        "r": "esv:1 Timothy:3:2",
+        "w": 6,
+        "l": {},
+        "c": "1 Timothy 5:9*33324",
+        "a": "e"
+    },
+    {
+        "o": 33278,
+        "r": "esv:1 Timothy:3:2",
+        "w": 11,
+        "l": {},
+        "t": "Or a*i man*i of*i one*i woman*i ; also verse 12",
+        "a": "f"
+    },
+    {
+        "o": 33278,
+        "r": "esv:1 Timothy:3:2",
+        "w": 11,
+        "l": {},
+        "c": "1 Timothy 3:11*33288; Titus 2:2*33484",
+        "a": "g"
+    },
+    {
+        "o": 33278,
+        "r": "esv:1 Timothy:3:2",
+        "w": 14,
+        "l": {},
+        "c": "1 Peter 4:9*34101",
+        "a": "h"
+    },
+    {
+        "o": 33278,
+        "r": "esv:1 Timothy:3:2",
+        "w": 15,
+        "l": {},
+        "c": "2 Timothy 2:24*33413",
+        "a": "i"
+    },
+    {
+        "o": 33279,
+        "r": "esv:1 Timothy:3:3",
+        "w": 5,
+        "l": {},
+        "c": "Titus 3:2*33501",
+        "a": "j"
+    },
+    {
+        "o": 33279,
+        "r": "esv:1 Timothy:3:3",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 13:5*33861; 1 Timothy 6:10*33354",
+        "a": "k"
+    },
+    {
+        "o": 33280,
+        "r": "esv:1 Timothy:3:4",
+        "w": 9,
+        "l": {},
+        "c": "1 Timothy 3:12*33289",
+        "a": "l"
+    },
+    {
+        "o": 33281,
+        "r": "esv:1 Timothy:3:5",
+        "w": 16,
+        "l": {},
+        "c": "1 Timothy 3:1*33277",
+        "a": "m"
+    },
+    {
+        "o": 33282,
+        "r": "esv:1 Timothy:3:6",
+        "w": 9,
+        "l": {},
+        "c": "1 Timothy 6:4*33347; 2 Timothy 3:4*33421",
+        "a": "n"
+    },
+    {
+        "o": 33283,
+        "r": "esv:1 Timothy:3:7",
+        "w": 7,
+        "l": {},
+        "c": "Mark 4:11*27164",
+        "a": "o"
+    },
+    {
+        "o": 33283,
+        "r": "esv:1 Timothy:3:7",
+        "w": 17,
+        "l": {},
+        "c": "2 Timothy 2:26*33415; 1 Timothy 6:9*33352",
+        "a": "p"
+    },
+    {
+        "o": 33285,
+        "r": "esv:1 Timothy:3:8",
+        "w": 0,
+        "l": {},
+        "c": "Philippians 1:1*32845",
+        "a": "q"
+    },
+    {
+        "o": 33285,
+        "r": "esv:1 Timothy:3:8",
+        "w": 6,
+        "l": {},
+        "t": "Or devious*i in*i speech*i",
+        "a": "r"
+    },
+    {
+        "o": 33285,
+        "r": "esv:1 Timothy:3:8",
+        "w": 6,
+        "l": {},
+        "c": "1 Timothy 5:23*33338; Titus 2:3*33485",
+        "a": "s"
+    },
+    {
+        "o": 33285,
+        "r": "esv:1 Timothy:3:8",
+        "w": 11,
+        "l": {},
+        "c": "Titus 1:7*33471; 1 Peter 5:2*34116",
+        "a": "t"
+    },
+    {
+        "o": 33286,
+        "r": "esv:1 Timothy:3:9",
+        "w": 1,
+        "l": {},
+        "c": "1 Timothy 1:19*33256",
+        "a": "u"
+    },
+    {
+        "o": 33286,
+        "r": "esv:1 Timothy:3:9",
+        "w": 8,
+        "l": {},
+        "c": "Acts 23:1*31015",
+        "a": "v"
+    },
+    {
+        "o": 33287,
+        "r": "esv:1 Timothy:3:10",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 5:22*33337",
+        "a": "w"
+    },
+    {
+        "o": 33288,
+        "r": "esv:1 Timothy:3:11",
+        "w": 0,
+        "l": {},
+        "c": "Titus 2:3*33485",
+        "a": "x"
+    },
+    {
+        "o": 33288,
+        "r": "esv:1 Timothy:3:11",
+        "w": 2,
+        "l": {},
+        "t": "Or Wives*i likewise*i , or Women*i likewise*i",
+        "a": "y"
+    },
+    {
+        "o": 33288,
+        "r": "esv:1 Timothy:3:11",
+        "w": 9,
+        "l": {},
+        "c": "Titus 2:10*33492",
+        "a": "z"
+    },
+    {
+        "o": 33289,
+        "r": "esv:1 Timothy:3:12",
+        "w": 3,
+        "l": {},
+        "c": "1 Timothy 3:2*33278; 1 Timothy 3:4*33280",
+        "a": "a"
+    },
+    {
+        "o": 33289,
+        "r": "esv:1 Timothy:3:12",
+        "w": 8,
+        "l": {},
+        "c": "1 Timothy 3:2*33278; 1 Timothy 3:4*33280",
+        "a": "b"
+    },
+    {
+        "o": 33290,
+        "r": "esv:1 Timothy:3:13",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 25:21*26808",
+        "a": "c"
+    },
+    {
+        "o": 33294,
+        "r": "esv:1 Timothy:3:16",
+        "w": 8,
+        "l": {},
+        "c": "John 1:14*29145; 1 Peter 1:20*34032",
+        "a": "d"
+    },
+    {
+        "o": 33294,
+        "r": "esv:1 Timothy:3:16",
+        "w": 9,
+        "l": {},
+        "t": "Greek Who*i ; some manuscripts God*i ; others Which*i",
+        "a": "e"
+    },
+    {
+        "o": 33294,
+        "r": "esv:1 Timothy:3:16",
+        "w": 15,
+        "l": {},
+        "t": "Or justified*i",
+        "a": "f"
+    },
+    {
+        "o": 33294,
+        "r": "esv:1 Timothy:3:16",
+        "w": 18,
+        "l": {},
+        "t": "Or vindicated*i in*i spirit*i",
+        "a": "g"
+    },
+    {
+        "o": 33294,
+        "r": "esv:1 Timothy:3:16",
+        "w": 18,
+        "l": {},
+        "c": "Luke 2:13*27908; Luke 24:4*29077",
+        "a": "h"
+    },
+    {
+        "o": 33294,
+        "r": "esv:1 Timothy:3:16",
+        "w": 21,
+        "l": {},
+        "c": "Galatians 2:2*32527",
+        "a": "i"
+    },
+    {
+        "o": 33294,
+        "r": "esv:1 Timothy:3:16",
+        "w": 25,
+        "l": {},
+        "c": "2 Thessalonians 1:10*33189",
+        "a": "j"
+    },
+    {
+        "o": 33294,
+        "r": "esv:1 Timothy:3:16",
+        "w": 30,
+        "l": {},
+        "c": "Acts 1:2*30114",
+        "a": "k"
+    },
+    {
+        "o": 33297,
+        "r": "esv:1 Timothy:4:1",
+        "w": 0,
+        "l": {},
+        "c": "John 14:17*29837",
+        "a": "a"
+    },
+    {
+        "o": 33297,
+        "r": "esv:1 Timothy:4:1",
+        "w": 5,
+        "l": {},
+        "c": "2 Thessalonians 2:3–9*33196; 2 Timothy 3:1*33418; 1 Corinthians 11:19*32003",
+        "a": "b"
+    },
+    {
+        "o": 33297,
+        "r": "esv:1 Timothy:4:1",
+        "w": 18,
+        "l": {},
+        "c": "1 John 4:6*34282; Matthew 7:15*26000",
+        "a": "c"
+    },
+    {
+        "o": 33298,
+        "r": "esv:1 Timothy:4:2",
+        "w": 3,
+        "l": {},
+        "c": "1 Thessalonians 2:3*33090; 2 Thessalonians 2:11*33204",
+        "a": "d"
+    },
+    {
+        "o": 33299,
+        "r": "esv:1 Timothy:4:3",
+        "w": 0,
+        "l": {},
+        "c": "Daniel 11:37*24526; Hebrews 13:4*33860",
+        "a": "e"
+    },
+    {
+        "o": 33299,
+        "r": "esv:1 Timothy:4:3",
+        "w": 3,
+        "l": {},
+        "c": "Colossians 2:16*33016",
+        "a": "f"
+    },
+    {
+        "o": 33299,
+        "r": "esv:1 Timothy:4:3",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 1:29*31; Genesis 9:3*228",
+        "a": "g"
+    },
+    {
+        "o": 33299,
+        "r": "esv:1 Timothy:4:3",
+        "w": 10,
+        "l": {},
+        "c": "Romans 14:6*31630",
+        "a": "h"
+    },
+    {
+        "o": 33300,
+        "r": "esv:1 Timothy:4:4",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 1:31*33",
+        "a": "i"
+    },
+    {
+        "o": 33300,
+        "r": "esv:1 Timothy:4:4",
+        "w": 7,
+        "l": {},
+        "c": "Acts 10:15*30501",
+        "a": "j"
+    },
+    {
+        "o": 33300,
+        "r": "esv:1 Timothy:4:4",
+        "w": 15,
+        "l": {},
+        "c": "1 Timothy 4:3*33299",
+        "a": "k"
+    },
+    {
+        "o": 33301,
+        "r": "esv:1 Timothy:4:5",
+        "w": 4,
+        "l": {},
+        "c": "Genesis 1:25*27; Genesis 1:31*33",
+        "a": "l"
+    },
+    {
+        "o": 33303,
+        "r": "esv:1 Timothy:4:6",
+        "w": 0,
+        "l": {},
+        "c": "2 Timothy 3:14–15*33432",
+        "a": "m"
+    },
+    {
+        "o": 33303,
+        "r": "esv:1 Timothy:4:6",
+        "w": 7,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i . In New Testament usage, depending on the context, the plural Greek word adelphoi*i (translated “brothers”) may refer either to brothers*i or to brothers*i and*i sisters*i",
+        "a": "n"
+    },
+    {
+        "o": 33303,
+        "r": "esv:1 Timothy:4:6",
+        "w": 32,
+        "l": {},
+        "c": "2 Timothy 3:10*33428",
+        "a": "o"
+    },
+    {
+        "o": 33304,
+        "r": "esv:1 Timothy:4:7",
+        "w": 5,
+        "l": {},
+        "c": "1 Timothy 1:4*33240",
+        "a": "p"
+    },
+    {
+        "o": 33304,
+        "r": "esv:1 Timothy:4:7",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 5:14*33638",
+        "a": "q"
+    },
+    {
+        "o": 33305,
+        "r": "esv:1 Timothy:4:8",
+        "w": 1,
+        "l": {},
+        "c": "Colossians 2:23*33023",
+        "a": "r"
+    },
+    {
+        "o": 33305,
+        "r": "esv:1 Timothy:4:8",
+        "w": 8,
+        "l": {},
+        "c": "1 Timothy 6:6*33349",
+        "a": "s"
+    },
+    {
+        "o": 33305,
+        "r": "esv:1 Timothy:4:8",
+        "w": 15,
+        "l": {},
+        "c": "Psalm 37:4*15954; Psalm 37:9*15959; Psalm 37:11*15961; Psalm 84:11*16911; Psalm 112:2*17519; Psalm 145:19*18164; Proverbs 19:23*18817; Proverbs 22:4*18891; Matthew 6:33*25979; Mark 10:30*27482; 1 Peter 3:9*34077",
+        "a": "t"
+    },
+    {
+        "o": 33306,
+        "r": "esv:1 Timothy:4:9",
+        "w": 2,
+        "l": {},
+        "c": "1 Timothy 1:15*33252",
+        "a": "u"
+    },
+    {
+        "o": 33307,
+        "r": "esv:1 Timothy:4:10",
+        "w": 7,
+        "l": {},
+        "t": "Some manuscripts and*i suffer*i reproach*i",
+        "a": "v"
+    },
+    {
+        "o": 33307,
+        "r": "esv:1 Timothy:4:10",
+        "w": 17,
+        "l": {},
+        "c": "1 Timothy 2:4*33263; John 4:42*29299",
+        "a": "w"
+    },
+    {
+        "o": 33308,
+        "r": "esv:1 Timothy:4:11",
+        "w": 2,
+        "l": {},
+        "c": "1 Timothy 5:7*33322; 1 Timothy 6:2*33345",
+        "a": "x"
+    },
+    {
+        "o": 33309,
+        "r": "esv:1 Timothy:4:12",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 16:11*32188; 2 Timothy 2:22*33411; Titus 2:15*33497",
+        "a": "y"
+    },
+    {
+        "o": 33309,
+        "r": "esv:1 Timothy:4:12",
+        "w": 11,
+        "l": {},
+        "c": "Titus 2:7*33489; 1 Peter 5:3*34117",
+        "a": "z"
+    },
+    {
+        "o": 33311,
+        "r": "esv:1 Timothy:4:14",
+        "w": 0,
+        "l": {},
+        "c": "1 Thessalonians 5:19*33166",
+        "a": "a"
+    },
+    {
+        "o": 33311,
+        "r": "esv:1 Timothy:4:14",
+        "w": 10,
+        "l": {},
+        "c": "1 Timothy 1:18*33255",
+        "a": "b"
+    },
+    {
+        "o": 33311,
+        "r": "esv:1 Timothy:4:14",
+        "w": 17,
+        "l": {},
+        "c": "Acts 6:6*30315",
+        "a": "c"
+    },
+    {
+        "o": 33312,
+        "r": "esv:1 Timothy:4:15",
+        "w": 6,
+        "l": {},
+        "t": "Greek be*i in*i them*i",
+        "a": "d"
+    },
+    {
+        "o": 33312,
+        "r": "esv:1 Timothy:4:15",
+        "w": 8,
+        "l": {},
+        "c": "Philippians 1:12*32858",
+        "a": "e"
+    },
+    {
+        "o": 33313,
+        "r": "esv:1 Timothy:4:16",
+        "w": 0,
+        "l": {},
+        "c": "Acts 20:28*30925",
+        "a": "f"
+    },
+    {
+        "o": 33313,
+        "r": "esv:1 Timothy:4:16",
+        "w": 19,
+        "l": {},
+        "c": "Ezekiel 33:9*23656",
+        "a": "g"
+    },
+    {
+        "o": 33313,
+        "r": "esv:1 Timothy:4:16",
+        "w": 22,
+        "l": {},
+        "c": "Romans 11:14*31557",
+        "a": "h"
+    },
+    {
+        "o": 33316,
+        "r": "esv:1 Timothy:5:1",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 19:32*3602",
+        "a": "a"
+    },
+    {
+        "o": 33316,
+        "r": "esv:1 Timothy:5:1",
+        "w": 13,
+        "l": {},
+        "c": "Titus 2:6*33488",
+        "a": "b"
+    },
+    {
+        "o": 33318,
+        "r": "esv:1 Timothy:5:3",
+        "w": 1,
+        "l": {},
+        "c": "1 Timothy 5:5*33320; 1 Timothy 5:16*33331",
+        "a": "c"
+    },
+    {
+        "o": 33319,
+        "r": "esv:1 Timothy:5:4",
+        "w": 11,
+        "l": {},
+        "c": "Matthew 15:4–6*26363; Mark 7:10–13*27319; Ephesians 6:1–2*32816; Genesis 45:9–11*1479",
+        "a": "d"
+    },
+    {
+        "o": 33319,
+        "r": "esv:1 Timothy:5:4",
+        "w": 27,
+        "l": {},
+        "c": "1 Timothy 2:3*33262",
+        "a": "e"
+    },
+    {
+        "o": 33320,
+        "r": "esv:1 Timothy:5:5",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 5:3*33318; 1 Timothy 5:16*33331",
+        "a": "f"
+    },
+    {
+        "o": 33320,
+        "r": "esv:1 Timothy:5:5",
+        "w": 15,
+        "l": {},
+        "c": "Luke 2:37*27933; Luke 18:1–5*28724",
+        "a": "g"
+    },
+    {
+        "o": 33321,
+        "r": "esv:1 Timothy:5:6",
+        "w": 0,
+        "l": {},
+        "c": "James 5:5*33991; Ezekiel 16:49*23133",
+        "a": "h"
+    },
+    {
+        "o": 33321,
+        "r": "esv:1 Timothy:5:6",
+        "w": 5,
+        "l": {},
+        "c": "Revelation 3:1*34449",
+        "a": "i"
+    },
+    {
+        "o": 33322,
+        "r": "esv:1 Timothy:5:7",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 4:11*33308; 1 Timothy 6:2*33345",
+        "a": "j"
+    },
+    {
+        "o": 33323,
+        "r": "esv:1 Timothy:5:8",
+        "w": 11,
+        "l": {},
+        "c": "Galatians 6:10*32658",
+        "a": "k"
+    },
+    {
+        "o": 33323,
+        "r": "esv:1 Timothy:5:8",
+        "w": 17,
+        "l": {},
+        "c": "Revelation 2:13*34429; 2 Timothy 3:5*33422; Titus 1:16*33480; 2 Peter 2:1*34157; Revelation 3:8*34457",
+        "a": "l"
+    },
+    {
+        "o": 33324,
+        "r": "esv:1 Timothy:5:9",
+        "w": 16,
+        "l": {},
+        "c": "1 Timothy 3:2*33278",
+        "a": "m"
+    },
+    {
+        "o": 33324,
+        "r": "esv:1 Timothy:5:9",
+        "w": 21,
+        "l": {},
+        "t": "Or a*i woman*i of*i one*i man*i",
+        "a": "n"
+    },
+    {
+        "o": 33325,
+        "r": "esv:1 Timothy:5:10",
+        "w": 13,
+        "l": {},
+        "c": "1 Timothy 5:9*33324",
+        "a": "o"
+    },
+    {
+        "o": 33325,
+        "r": "esv:1 Timothy:5:10",
+        "w": 15,
+        "l": {},
+        "c": "Genesis 18:4*471",
+        "a": "p"
+    },
+    {
+        "o": 33325,
+        "r": "esv:1 Timothy:5:10",
+        "w": 23,
+        "l": {},
+        "c": "1 Timothy 5:16*33331",
+        "a": "q"
+    },
+    {
+        "o": 33325,
+        "r": "esv:1 Timothy:5:10",
+        "w": 29,
+        "l": {},
+        "c": "1 Timothy 6:18*33362",
+        "a": "r"
+    },
+    {
+        "o": 33326,
+        "r": "esv:1 Timothy:5:11",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 18:3*34737; Revelation 18:7*34741; Revelation 18:9*34743",
+        "a": "s"
+    },
+    {
+        "o": 33328,
+        "r": "esv:1 Timothy:5:13",
+        "w": 18,
+        "l": {},
+        "c": "3 John 10*34352",
+        "a": "t"
+    },
+    {
+        "o": 33328,
+        "r": "esv:1 Timothy:5:13",
+        "w": 20,
+        "l": {},
+        "c": "2 Thessalonians 3:11*33225; 1 Peter 4:15*34108",
+        "a": "u"
+    },
+    {
+        "o": 33329,
+        "r": "esv:1 Timothy:5:14",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 7:9*31868",
+        "a": "v"
+    },
+    {
+        "o": 33329,
+        "r": "esv:1 Timothy:5:14",
+        "w": 8,
+        "l": {},
+        "c": "Titus 2:5*33487",
+        "a": "w"
+    },
+    {
+        "o": 33329,
+        "r": "esv:1 Timothy:5:14",
+        "w": 12,
+        "l": {},
+        "c": "1 Timothy 6:1*33342; Titus 2:5*33487; Titus 2:8*33490",
+        "a": "x"
+    },
+    {
+        "o": 33330,
+        "r": "esv:1 Timothy:5:15",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 1:20*33257",
+        "a": "y"
+    },
+    {
+        "o": 33331,
+        "r": "esv:1 Timothy:5:16",
+        "w": 26,
+        "l": {},
+        "c": "1 Timothy 5:3*33318; 1 Timothy 5:5*33320",
+        "a": "z"
+    },
+    {
+        "o": 33332,
+        "r": "esv:1 Timothy:5:17",
+        "w": 2,
+        "l": {},
+        "c": "Romans 12:8*31592; 1 Thessalonians 5:12*33159; 1 Corinthians 12:28*32049",
+        "a": "a"
+    },
+    {
+        "o": 33332,
+        "r": "esv:1 Timothy:5:17",
+        "w": 9,
+        "l": {},
+        "c": "Deuteronomy 21:17*5966",
+        "a": "b"
+    },
+    {
+        "o": 33333,
+        "r": "esv:1 Timothy:5:18",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 9:9*31927; Deuteronomy 25:4*6066",
+        "a": "c"
+    },
+    {
+        "o": 33333,
+        "r": "esv:1 Timothy:5:18",
+        "w": 16,
+        "l": {},
+        "c": "Matthew 10:10*26117; Luke 10:7*28353; Leviticus 19:13*3582; Deuteronomy 24:15*6053; 1 Corinthians 9:4*31922; 1 Corinthians 9:7–14*31925",
+        "a": "d"
+    },
+    {
+        "o": 33334,
+        "r": "esv:1 Timothy:5:19",
+        "w": 8,
+        "l": {},
+        "c": "Deuteronomy 19:15*5916",
+        "a": "e"
+    },
+    {
+        "o": 33335,
+        "r": "esv:1 Timothy:5:20",
+        "w": 6,
+        "l": {},
+        "c": "Titus 1:13*33477; Titus 2:15*33497",
+        "a": "f"
+    },
+    {
+        "o": 33335,
+        "r": "esv:1 Timothy:5:20",
+        "w": 13,
+        "l": {},
+        "c": "Deuteronomy 13:11*5756",
+        "a": "g"
+    },
+    {
+        "o": 33336,
+        "r": "esv:1 Timothy:5:21",
+        "w": 13,
+        "l": {},
+        "c": "1 Timothy 6:13*33357; 2 Timothy 2:14*33403; 2 Timothy 4:1*33438",
+        "a": "h"
+    },
+    {
+        "o": 33336,
+        "r": "esv:1 Timothy:5:21",
+        "w": 22,
+        "l": {},
+        "c": "2 Corinthians 5:16*32310",
+        "a": "i"
+    },
+    {
+        "o": 33337,
+        "r": "esv:1 Timothy:5:22",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 3:10*33287",
+        "a": "j"
+    },
+    {
+        "o": 33337,
+        "r": "esv:1 Timothy:5:22",
+        "w": 5,
+        "l": {},
+        "c": "Acts 6:6*30315",
+        "a": "k"
+    },
+    {
+        "o": 33337,
+        "r": "esv:1 Timothy:5:22",
+        "w": 10,
+        "l": {},
+        "c": "2 John 11*34337",
+        "a": "l"
+    },
+    {
+        "o": 33338,
+        "r": "esv:1 Timothy:5:23",
+        "w": 5,
+        "l": {},
+        "c": "1 Timothy 3:8*33285",
+        "a": "m"
+    },
+    {
+        "o": 33338,
+        "r": "esv:1 Timothy:5:23",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 104:15*17280",
+        "a": "n"
+    },
+    {
+        "o": 33340,
+        "r": "esv:1 Timothy:5:25",
+        "w": 6,
+        "l": {},
+        "c": "Psalm 37:6*15956; Proverbs 10:9*18525",
+        "a": "o"
+    },
+    {
+        "o": 33342,
+        "r": "esv:1 Timothy:6:1",
+        "w": 0,
+        "l": {},
+        "c": "1 Peter 2:18*34058",
+        "a": "a"
+    },
+    {
+        "o": 33342,
+        "r": "esv:1 Timothy:6:1",
+        "w": 8,
+        "l": {},
+        "t": "For the contextual rendering of the Greek word doulos*i , see Preface",
+        "a": "b"
+    },
+    {
+        "o": 33342,
+        "r": "esv:1 Timothy:6:1",
+        "w": 17,
+        "l": {},
+        "c": "Isaiah 52:5*20808; Romans 2:24*31291; Titus 2:5*33487",
+        "a": "c"
+    },
+    {
+        "o": 33343,
+        "r": "esv:1 Timothy:6:2",
+        "w": 14,
+        "l": {},
+        "c": "Philemon 16*33535",
+        "a": "d"
+    },
+    {
+        "o": 33354,
+        "r": "esv:1 Timothy:6:2",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 4:11*33308; 1 Timothy 4:13*33310; 1 Timothy 5:7*33322",
+        "a": "e"
+    },
+    {
+        "o": 33346,
+        "r": "esv:1 Timothy:6:3",
+        "w": 1,
+        "l": {},
+        "c": "1 Timothy 1:3*33239",
+        "a": "f"
+    },
+    {
+        "o": 33346,
+        "r": "esv:1 Timothy:6:3",
+        "w": 10,
+        "l": {},
+        "c": "1 Timothy 1:10*33246",
+        "a": "g"
+    },
+    {
+        "o": 33346,
+        "r": "esv:1 Timothy:6:3",
+        "w": 12,
+        "l": {},
+        "t": "Or healthy*i",
+        "a": "h"
+    },
+    {
+        "o": 33346,
+        "r": "esv:1 Timothy:6:3",
+        "w": 21,
+        "l": {},
+        "c": "Titus 1:1*33464",
+        "a": "i"
+    },
+    {
+        "o": 33347,
+        "r": "esv:1 Timothy:6:4",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 3:6*33282; 2 Timothy 3:4*33421",
+        "a": "j"
+    },
+    {
+        "o": 33347,
+        "r": "esv:1 Timothy:6:4",
+        "w": 6,
+        "l": {},
+        "c": "1 Corinthians 8:2*31905; 1 Timothy 1:7*33243",
+        "a": "k"
+    },
+    {
+        "o": 33347,
+        "r": "esv:1 Timothy:6:4",
+        "w": 14,
+        "l": {},
+        "c": "1 Timothy 1:4*33240; 2 Timothy 2:23*33412; Titus 3:9*33508",
+        "a": "l"
+    },
+    {
+        "o": 33347,
+        "r": "esv:1 Timothy:6:4",
+        "w": 17,
+        "l": {},
+        "c": "2 Timothy 2:14*33403; Acts 18:15*30833",
+        "a": "m"
+    },
+    {
+        "o": 33348,
+        "r": "esv:1 Timothy:6:5",
+        "w": 4,
+        "l": {},
+        "c": "2 Timothy 3:8*33425; Ephesians 4:22*32767; Titus 1:15*33479",
+        "a": "n"
+    },
+    {
+        "o": 33348,
+        "r": "esv:1 Timothy:6:5",
+        "w": 14,
+        "l": {},
+        "c": "Titus 1:11*33475; 2 Peter 2:3*34159",
+        "a": "o"
+    },
+    {
+        "o": 33349,
+        "r": "esv:1 Timothy:6:6",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 4:8*33305",
+        "a": "p"
+    },
+    {
+        "o": 33349,
+        "r": "esv:1 Timothy:6:6",
+        "w": 1,
+        "l": {},
+        "c": "Psalm 37:16*15966; Proverbs 15:16*18688; Proverbs 16:8*18714; Philippians 4:11*32950; Hebrews 13:5*33861",
+        "a": "q"
+    },
+    {
+        "o": 33350,
+        "r": "esv:1 Timothy:6:7",
+        "w": 0,
+        "l": {},
+        "c": "Job 1:21*14201; Psalm 49:17*16201; Ecclesiastes 5:15*19315",
+        "a": "r"
+    },
+    {
+        "o": 33350,
+        "r": "esv:1 Timothy:6:7",
+        "w": 7,
+        "l": {},
+        "t": "Greek for*i ; some manuscripts insert [it is] certain*i [that]",
+        "a": "s"
+    },
+    {
+        "o": 33351,
+        "r": "esv:1 Timothy:6:8",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 28:20*866; Proverbs 30:8*19143",
+        "a": "t"
+    },
+    {
+        "o": 33352,
+        "r": "esv:1 Timothy:6:9",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 15:27*18699; Proverbs 23:4*18922; Proverbs 28:20*19097; Matthew 13:22*26271",
+        "a": "u"
+    },
+    {
+        "o": 33352,
+        "r": "esv:1 Timothy:6:9",
+        "w": 9,
+        "l": {},
+        "c": "1 Timothy 3:7*33284",
+        "a": "v"
+    },
+    {
+        "o": 33352,
+        "r": "esv:1 Timothy:6:9",
+        "w": 19,
+        "l": {},
+        "c": "1 Timothy 1:19*33256",
+        "a": "w"
+    },
+    {
+        "o": 33353,
+        "r": "esv:1 Timothy:6:10",
+        "w": 8,
+        "l": {},
+        "c": "Exodus 23:8*2343; Deuteronomy 16:19*5844",
+        "a": "x"
+    },
+    {
+        "o": 33354,
+        "r": "esv:1 Timothy:6:2",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 4:11*33308; 1 Timothy 4:13*33310; 1 Timothy 5:7*33322",
+        "a": "y"
+    },
+    {
+        "o": 33355,
+        "r": "esv:1 Timothy:6:11",
+        "w": 3,
+        "l": {},
+        "c": "2 Timothy 3:17*33435",
+        "a": "z"
+    },
+    {
+        "o": 33355,
+        "r": "esv:1 Timothy:6:11",
+        "w": 7,
+        "l": {},
+        "c": "2 Timothy 2:22*33411",
+        "a": "a"
+    },
+    {
+        "o": 33355,
+        "r": "esv:1 Timothy:6:11",
+        "w": 10,
+        "l": {},
+        "c": "Proverbs 15:9*18681",
+        "a": "b"
+    },
+    {
+        "o": 33356,
+        "r": "esv:1 Timothy:6:12",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 1:18*33255; 1 Corinthians 9:25*31943",
+        "a": "c"
+    },
+    {
+        "o": 33356,
+        "r": "esv:1 Timothy:6:12",
+        "w": 6,
+        "l": {},
+        "c": "Philippians 3:12*32927",
+        "a": "d"
+    },
+    {
+        "o": 33356,
+        "r": "esv:1 Timothy:6:12",
+        "w": 12,
+        "l": {},
+        "c": "1 Peter 5:10*34124",
+        "a": "e"
+    },
+    {
+        "o": 33356,
+        "r": "esv:1 Timothy:6:12",
+        "w": 22,
+        "l": {},
+        "c": "2 Corinthians 9:13*32396",
+        "a": "f"
+    },
+    {
+        "o": 33357,
+        "r": "esv:1 Timothy:6:13",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 5:21*33336",
+        "a": "g"
+    },
+    {
+        "o": 33357,
+        "r": "esv:1 Timothy:6:13",
+        "w": 17,
+        "l": {},
+        "c": "Matthew 27:11*26935; John 18:37*29992; Revelation 1:5*34396; Revelation 3:14*34464",
+        "a": "h"
+    },
+    {
+        "o": 33357,
+        "r": "esv:1 Timothy:6:13",
+        "w": 22,
+        "l": {},
+        "t": "Or in*i the*i time*i of*i",
+        "a": "i"
+    },
+    {
+        "o": 33357,
+        "r": "esv:1 Timothy:6:13",
+        "w": 25,
+        "l": {},
+        "c": "1 Timothy 6:12*33356",
+        "a": "j"
+    },
+    {
+        "o": 33358,
+        "r": "esv:1 Timothy:6:14",
+        "w": 9,
+        "l": {},
+        "c": "2 Thessalonians 2:8*33201",
+        "a": "k"
+    },
+    {
+        "o": 33359,
+        "r": "esv:1 Timothy:6:15",
+        "w": 3,
+        "l": {},
+        "c": "1 Timothy 2:6*33265",
+        "a": "l"
+    },
+    {
+        "o": 33359,
+        "r": "esv:1 Timothy:6:15",
+        "w": 10,
+        "l": {},
+        "c": "1 Timothy 1:11*33248",
+        "a": "m"
+    },
+    {
+        "o": 33359,
+        "r": "esv:1 Timothy:6:15",
+        "w": 15,
+        "l": {},
+        "c": "Revelation 17:14*34728",
+        "a": "n"
+    },
+    {
+        "o": 33360,
+        "r": "esv:1 Timothy:6:16",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 1:17*33254",
+        "a": "o"
+    },
+    {
+        "o": 33360,
+        "r": "esv:1 Timothy:6:16",
+        "w": 3,
+        "l": {},
+        "c": "Psalm 104:2*17267",
+        "a": "p"
+    },
+    {
+        "o": 33360,
+        "r": "esv:1 Timothy:6:16",
+        "w": 6,
+        "l": {},
+        "c": "Job 37:23*15173",
+        "a": "q"
+    },
+    {
+        "o": 33360,
+        "r": "esv:1 Timothy:6:16",
+        "w": 8,
+        "l": {},
+        "c": "John 1:18*29150",
+        "a": "r"
+    },
+    {
+        "o": 33361,
+        "r": "esv:1 Timothy:6:17",
+        "w": 4,
+        "l": {},
+        "c": "2 Timothy 4:10*33448; Titus 2:12*33494",
+        "a": "s"
+    },
+    {
+        "o": 33361,
+        "r": "esv:1 Timothy:6:17",
+        "w": 9,
+        "l": {},
+        "c": "Romans 11:20*31563; Romans 12:3*31586; Romans 12:16*31600",
+        "a": "t"
+    },
+    {
+        "o": 33361,
+        "r": "esv:1 Timothy:6:17",
+        "w": 14,
+        "l": {},
+        "c": "Mark 10:24*27476",
+        "a": "u"
+    },
+    {
+        "o": 33361,
+        "r": "esv:1 Timothy:6:17",
+        "w": 19,
+        "l": {},
+        "c": "Proverbs 23:5*18923; Matthew 13:22*26271",
+        "a": "v"
+    },
+    {
+        "o": 33361,
+        "r": "esv:1 Timothy:6:17",
+        "w": 26,
+        "l": {},
+        "c": "Acts 14:17*30674",
+        "a": "w"
+    },
+    {
+        "o": 33362,
+        "r": "esv:1 Timothy:6:18",
+        "w": 4,
+        "l": {},
+        "c": "Luke 12:21*28482; Titus 3:8*33507; Titus 3:14*33514",
+        "a": "x"
+    },
+    {
+        "o": 33362,
+        "r": "esv:1 Timothy:6:18",
+        "w": 14,
+        "l": {},
+        "c": "Romans 12:13*31597",
+        "a": "y"
+    },
+    {
+        "o": 33363,
+        "r": "esv:1 Timothy:6:19",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 6:19–20*25964",
+        "a": "z"
+    },
+    {
+        "o": 33363,
+        "r": "esv:1 Timothy:6:19",
+        "w": 16,
+        "l": {},
+        "c": "1 Timothy 6:12*33356",
+        "a": "a"
+    },
+    {
+        "o": 33363,
+        "r": "esv:1 Timothy:6:19",
+        "w": 19,
+        "l": {},
+        "c": "2 Timothy 1:1*33368",
+        "a": "b"
+    },
+    {
+        "o": 33364,
+        "r": "esv:1 Timothy:6:20",
+        "w": 7,
+        "l": {},
+        "c": "2 Timothy 3:5*33422; Colossians 2:8*33007; 2 Timothy 4:4*33441; Titus 1:14*33478",
+        "a": "c"
+    },
+    {
+        "o": 33364,
+        "r": "esv:1 Timothy:6:20",
+        "w": 9,
+        "l": {},
+        "c": "2 Timothy 2:16*33405",
+        "a": "d"
+    },
+    {
+        "o": 33365,
+        "r": "esv:1 Timothy:6:21",
+        "w": 9,
+        "l": {},
+        "c": "Colossians 4:18*33072",
+        "a": "e"
+    },
+    {
+        "o": 33365,
+        "r": "esv:1 Timothy:6:21",
+        "w": 13,
+        "l": {},
+        "t": "The Greek for you*i is plural",
+        "a": "f"
+    }
+]

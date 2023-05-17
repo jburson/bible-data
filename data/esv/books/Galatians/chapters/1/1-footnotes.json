@@ -1,0 +1,354 @@
+[
+    {
+        "o": 32498,
+        "r": "esv:Galatians:1:1",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 1:1*32205",
+        "a": "a"
+    },
+    {
+        "o": 32498,
+        "r": "esv:Galatians:1:1",
+        "w": 2,
+        "l": {},
+        "c": "Galatians 1:11–12*32510",
+        "a": "b"
+    },
+    {
+        "o": 32498,
+        "r": "esv:Galatians:1:1",
+        "w": 9,
+        "l": {},
+        "c": "Acts 9:6*30440; Acts 20:24*30921; Acts 22:10*30991; Acts 22:15*30996; Acts 22:21*31003; Acts 26:16*31129; 1 Timothy 1:1*33236; Titus 1:3*33466",
+        "a": "c"
+    },
+    {
+        "o": 32498,
+        "r": "esv:Galatians:1:1",
+        "w": 16,
+        "l": {},
+        "c": "Acts 2:24*30167",
+        "a": "d"
+    },
+    {
+        "o": 32499,
+        "r": "esv:Galatians:1:2",
+        "w": 1,
+        "l": {},
+        "c": "Philippians 4:21*32961",
+        "a": "e"
+    },
+    {
+        "o": 32499,
+        "r": "esv:Galatians:1:2",
+        "w": 3,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i . In New Testament usage, depending on the context, the plural Greek word adelphoi*i (translated “brothers”) may refer either to brothers*i or to brothers*i and*i sisters*i ; also verse 11",
+        "a": "f"
+    },
+    {
+        "o": 32499,
+        "r": "esv:Galatians:1:2",
+        "w": 8,
+        "l": {},
+        "c": "Acts 16:6*30740; 1 Corinthians 16:1*32176",
+        "a": "g"
+    },
+    {
+        "o": 32500,
+        "r": "esv:Galatians:1:3",
+        "w": 0,
+        "l": {},
+        "c": "Romans 1:7*31237; 1 Corinthians 1:3*31722",
+        "a": "h"
+    },
+    {
+        "o": 32500,
+        "r": "esv:Galatians:1:3",
+        "w": 4,
+        "l": {},
+        "c": "1 Timothy 1:2*33238",
+        "a": "i"
+    },
+    {
+        "o": 32501,
+        "r": "esv:Galatians:1:4",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 20:28*26574; Romans 4:25*31359; 1 Corinthians 15:3*32115",
+        "a": "j"
+    },
+    {
+        "o": 32501,
+        "r": "esv:Galatians:1:4",
+        "w": 11,
+        "l": {},
+        "c": "Ephesians 2:2*32697; 1 John 5:19*34320; John 15:19*29873",
+        "a": "k"
+    },
+    {
+        "o": 32501,
+        "r": "esv:Galatians:1:4",
+        "w": 18,
+        "l": {},
+        "c": "Philippians 4:20*32960; 1 Thessalonians 1:3*33078; 1 Thessalonians 3:11*33121; 1 Thessalonians 3:13*33123",
+        "a": "l"
+    },
+    {
+        "o": 32504,
+        "r": "esv:Galatians:1:6",
+        "w": 5,
+        "l": {},
+        "c": "Galatians 4:13*32597; Acts 16:6*30740; Acts 18:23*30843",
+        "a": "m"
+    },
+    {
+        "o": 32504,
+        "r": "esv:Galatians:1:6",
+        "w": 8,
+        "l": {},
+        "c": "Galatians 5:8*32626",
+        "a": "n"
+    },
+    {
+        "o": 32504,
+        "r": "esv:Galatians:1:6",
+        "w": 21,
+        "l": {},
+        "c": "2 Corinthians 11:4*32424; 1 Timothy 1:3*33239",
+        "a": "o"
+    },
+    {
+        "o": 32505,
+        "r": "esv:Galatians:1:7",
+        "w": 0,
+        "l": {},
+        "c": "Acts 4:12*30234; 1 Corinthians 3:11*31784",
+        "a": "p"
+    },
+    {
+        "o": 32505,
+        "r": "esv:Galatians:1:7",
+        "w": 6,
+        "l": {},
+        "c": "Galatians 5:10*32628; Acts 15:24*30714; 2 Corinthians 11:13*32433",
+        "a": "q"
+    },
+    {
+        "o": 32506,
+        "r": "esv:Galatians:1:8",
+        "w": 4,
+        "l": {},
+        "c": "2 Corinthians 11:14*32434",
+        "a": "r"
+    },
+    {
+        "o": 32506,
+        "r": "esv:Galatians:1:8",
+        "w": 22,
+        "l": {},
+        "c": "Romans 9:3*31486",
+        "a": "s"
+    },
+    {
+        "o": 32507,
+        "r": "esv:Galatians:1:9",
+        "w": 23,
+        "l": {},
+        "c": "Galatians 1:8*32506",
+        "a": "t"
+    },
+    {
+        "o": 32508,
+        "r": "esv:Galatians:1:10",
+        "w": 15,
+        "l": {},
+        "c": "1 Thessalonians 2:4*33091; Romans 2:29*31296; 1 Corinthians 10:33*31981; Ephesians 6:6*32822; Colossians 3:22*33048",
+        "a": "u"
+    },
+    {
+        "o": 32508,
+        "r": "esv:Galatians:1:10",
+        "w": 31,
+        "l": {},
+        "c": "Romans 1:1*31230",
+        "a": "v"
+    },
+    {
+        "o": 32508,
+        "r": "esv:Galatians:1:10",
+        "w": 32,
+        "l": {},
+        "t": "For the contextual rendering of the Greek word doulos*i , see Preface",
+        "a": "w"
+    },
+    {
+        "o": 32510,
+        "r": "esv:Galatians:1:11",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 15:1*32113",
+        "a": "x"
+    },
+    {
+        "o": 32510,
+        "r": "esv:Galatians:1:11",
+        "w": 7,
+        "l": {},
+        "c": "Romans 2:16*31283",
+        "a": "y"
+    },
+    {
+        "o": 32510,
+        "r": "esv:Galatians:1:11",
+        "w": 18,
+        "l": {},
+        "t": "Greek not*i according*i to*i man*i",
+        "a": "z"
+    },
+    {
+        "o": 32511,
+        "r": "esv:Galatians:1:12",
+        "w": 0,
+        "l": {},
+        "c": "Galatians 1:1*32498; 1 Corinthians 11:23*32007; 1 Corinthians 15:3*32115; Acts 22:14*30995",
+        "a": "a"
+    },
+    {
+        "o": 32511,
+        "r": "esv:Galatians:1:12",
+        "w": 17,
+        "l": {},
+        "c": "Galatians 1:16*32515; 1 Corinthians 2:10*31765; 2 Corinthians 12:1*32457",
+        "a": "b"
+    },
+    {
+        "o": 32512,
+        "r": "esv:Galatians:1:13",
+        "w": 4,
+        "l": {},
+        "c": "Acts 26:4*31116",
+        "a": "c"
+    },
+    {
+        "o": 32512,
+        "r": "esv:Galatians:1:13",
+        "w": 10,
+        "l": {},
+        "c": "Acts 8:3*30394",
+        "a": "d"
+    },
+    {
+        "o": 32513,
+        "r": "esv:Galatians:1:14",
+        "w": 16,
+        "l": {},
+        "c": "Philippians 3:6*32920; Acts 21:20*30958",
+        "a": "e"
+    },
+    {
+        "o": 32513,
+        "r": "esv:Galatians:1:14",
+        "w": 20,
+        "l": {},
+        "c": "Jeremiah 9:14*21352; 2 Timothy 1:3*33371; Matthew 15:2*26361",
+        "a": "f"
+    },
+    {
+        "o": 32514,
+        "r": "esv:Galatians:1:15",
+        "w": 2,
+        "l": {},
+        "c": "Acts 13:2*30602; Romans 1:1*31230",
+        "a": "g"
+    },
+    {
+        "o": 32514,
+        "r": "esv:Galatians:1:15",
+        "w": 7,
+        "l": {},
+        "c": "Isaiah 49:1*20737; Isaiah 49:5*20741; Jeremiah 1:5*21095; Luke 1:15*27822",
+        "a": "h"
+    },
+    {
+        "o": 32514,
+        "r": "esv:Galatians:1:15",
+        "w": 11,
+        "l": {},
+        "t": "Greek set*i me*i apart*i from*i my*i mother’s*i womb*i",
+        "a": "i"
+    },
+    {
+        "o": 32514,
+        "r": "esv:Galatians:1:15",
+        "w": 13,
+        "l": {},
+        "c": "Galatians 1:6*32504",
+        "a": "j"
+    },
+    {
+        "o": 32515,
+        "r": "esv:Galatians:1:16",
+        "w": 6,
+        "l": {},
+        "t": "Greek in*i",
+        "a": "k"
+    },
+    {
+        "o": 32515,
+        "r": "esv:Galatians:1:16",
+        "w": 9,
+        "l": {},
+        "c": "Galatians 2:9*32534; Acts 9:15*30449",
+        "a": "l"
+    },
+    {
+        "o": 32515,
+        "r": "esv:Galatians:1:16",
+        "w": 24,
+        "l": {},
+        "t": "Greek with*i flesh*i and*i blood*i",
+        "a": "m"
+    },
+    {
+        "o": 32517,
+        "r": "esv:Galatians:1:18",
+        "w": 0,
+        "l": {},
+        "c": "Acts 9:22–23*30459",
+        "a": "n"
+    },
+    {
+        "o": 32518,
+        "r": "esv:Galatians:1:19",
+        "w": 9,
+        "l": {},
+        "c": "Matthew 12:46*26242; Acts 12:17*30589",
+        "a": "o"
+    },
+    {
+        "o": 32519,
+        "r": "esv:Galatians:1:20",
+        "w": 6,
+        "l": {},
+        "c": "Romans 1:9*31239; Romans 9:1*31484",
+        "a": "p"
+    },
+    {
+        "o": 32520,
+        "r": "esv:Galatians:1:21",
+        "w": 0,
+        "l": {},
+        "c": "Acts 9:30*30468; Acts 11:25–26*30564; Acts 13:1*30601",
+        "a": "q"
+    },
+    {
+        "o": 32521,
+        "r": "esv:Galatians:1:22",
+        "w": 7,
+        "l": {},
+        "c": "1 Thessalonians 2:14*33101",
+        "a": "r"
+    }
+]

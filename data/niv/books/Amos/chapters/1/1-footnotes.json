@@ -1,0 +1,42 @@
+[
+    {
+        "o": 24575,
+        "r": "niv:Amos:1:1",
+        "w": 30,
+        "l": {},
+        "t": "1:1*r Hebrew Joash,*i a variant of Jehoash*i",
+        "a": "a"
+    },
+    {
+        "o": 24580,
+        "r": "niv:Amos:1:5",
+        "w": 15,
+        "l": {},
+        "t": "1:5*r Or the*i inhabitants*i of*i",
+        "a": "b"
+    },
+    {
+        "o": 24580,
+        "r": "niv:Amos:1:5",
+        "w": 19,
+        "l": {},
+        "t": "1:5*r Aven*i means wickedness.*i",
+        "a": "c"
+    },
+    {
+        "o": 24583,
+        "r": "niv:Amos:1:8",
+        "w": 4,
+        "l": {},
+        "t": "1:8*r Or inhabitants*i",
+        "a": "d"
+    },
+    {
+        "o": 24590,
+        "r": "niv:Amos:1:15",
+        "w": 1,
+        "l": {},
+        "t": "1:15*r Or /*i Molek*i",
+        "a": "e"
+    }
+]

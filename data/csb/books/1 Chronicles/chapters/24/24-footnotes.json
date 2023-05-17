@@ -1,0 +1,114 @@
+[
+    {
+        "o": 12210,
+        "r": "csb:1 Chronicles:24:1",
+        "w": 17,
+        "l": {},
+        "c": "Ex 6:23*1849",
+        "a": "a"
+    },
+    {
+        "o": 12211,
+        "r": "csb:1 Chronicles:24:2",
+        "w": 19,
+        "l": {},
+        "c": "Lv 10:1–2*3299",
+        "a": "b"
+    },
+    {
+        "o": 12212,
+        "r": "csb:1 Chronicles:24:3",
+        "w": 2,
+        "l": {},
+        "c": "1Ch 15:11*11974; 24:6,31*12215",
+        "a": "c"
+    },
+    {
+        "o": 12213,
+        "r": "csb:1 Chronicles:24:4",
+        "w": 18,
+        "l": {},
+        "t": "24:4*r Lit house of fathers",
+        "a": "d"
+    },
+    {
+        "o": 12214,
+        "r": "csb:1 Chronicles:24:5",
+        "w": 0,
+        "l": {},
+        "c": "1Ch 24:31*12241",
+        "a": "e"
+    },
+    {
+        "o": 12215,
+        "r": "csb:1 Chronicles:24:6",
+        "w": 22,
+        "l": {},
+        "c": "2Sm 8:17*9092; 1Ch 18:16*12085; 24:31*12241",
+        "a": "f"
+    },
+    {
+        "o": 12215,
+        "r": "csb:1 Chronicles:24:6",
+        "w": 39,
+        "l": {},
+        "t": "24:6*r Lit father’s house",
+        "a": "g"
+    },
+    {
+        "o": 12219,
+        "r": "csb:1 Chronicles:24:10",
+        "w": 7,
+        "l": {},
+        "c": "Neh 12:4*14050; Lk 1:5*28140",
+        "a": "h"
+    },
+    {
+        "o": 12233,
+        "r": "csb:1 Chronicles:24:23",
+        "w": 0,
+        "l": {},
+        "t": "24:23*r Some Hb mss, some LXX mss; other Hb mss omit Hebron’s; 1Ch 23:19",
+        "a": "i"
+    },
+    {
+        "o": 12233,
+        "r": "csb:1 Chronicles:24:23",
+        "w": 0,
+        "l": {},
+        "c": "1Ch 23:19*12194",
+        "a": "j"
+    },
+    {
+        "o": 12236,
+        "r": "csb:1 Chronicles:24:26",
+        "w": 11,
+        "l": {},
+        "t": "24:26*r Or Mushi; Jaaziah’s sons: Beno.",
+        "a": "k"
+    },
+    {
+        "o": 12237,
+        "r": "csb:1 Chronicles:24:27",
+        "w": 5,
+        "l": {},
+        "t": "24:27*r Or sons, Jaaziah: Beno,",
+        "a": "l"
+    },
+    {
+        "o": 12240,
+        "r": "csb:1 Chronicles:24:30",
+        "w": 17,
+        "l": {},
+        "t": "24:30*r Lit the house of their fathers",
+        "a": "m"
+    },
+    {
+        "o": 12241,
+        "r": "csb:1 Chronicles:24:31",
+        "w": 40,
+        "l": {},
+        "c": "1Ch 24:5–6*12214",
+        "a": "n"
+    }
+]

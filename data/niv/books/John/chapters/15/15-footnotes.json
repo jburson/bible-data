@@ -1,0 +1,26 @@
+[
+    {
+        "o": 29475,
+        "r": "niv:John:15:2",
+        "w": 19,
+        "l": {},
+        "t": "15:2*r The Greek for he*i prunes*i also means he*i cleans.*i",
+        "a": "a"
+    },
+    {
+        "o": 29494,
+        "r": "niv:John:15:20",
+        "w": 12,
+        "l": {},
+        "t": "15:20*r John 13:16",
+        "a": "b"
+    },
+    {
+        "o": 29499,
+        "r": "niv:John:15:25",
+        "w": 15,
+        "l": {},
+        "t": "15:25*r Psalms 35:19; 69:4",
+        "a": "c"
+    }
+]

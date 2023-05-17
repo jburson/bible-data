@@ -1,0 +1,26 @@
+[
+    {
+        "o": 14942,
+        "r": "niv:Job:33:13",
+        "w": 12,
+        "l": {},
+        "t": "33:13*r Or that*i he*i does*i not*i answer*i for*i any*i of*i his*i actions*i",
+        "a": "a"
+    },
+    {
+        "o": 14947,
+        "r": "niv:Job:33:18",
+        "w": 12,
+        "l": {},
+        "t": "33:18*r Or from*i crossing*i the*i river*i",
+        "a": "b"
+    },
+    {
+        "o": 14951,
+        "r": "niv:Job:33:22",
+        "w": 13,
+        "l": {},
+        "t": "33:22*r Or to*i the*i place*i of*i the*i dead*i",
+        "a": "c"
+    }
+]

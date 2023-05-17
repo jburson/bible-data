@@ -1,0 +1,50 @@
+[
+    {
+        "o": 24211,
+        "r": "niv:Daniel:11:6",
+        "w": 38,
+        "l": {},
+        "t": "11:6*r Or offspring*i",
+        "a": "a"
+    },
+    {
+        "o": 24211,
+        "r": "niv:Daniel:11:6",
+        "w": 56,
+        "l": {},
+        "t": "11:6*r Or child*i (see Vulgate and Syriac)",
+        "a": "b"
+    },
+    {
+        "o": 24222,
+        "r": "niv:Daniel:11:17",
+        "w": 40,
+        "l": {},
+        "t": "11:17*r Or but*i she*i",
+        "a": "c"
+    },
+    {
+        "o": 24245,
+        "r": "niv:Daniel:11:39",
+        "w": 36,
+        "l": {},
+        "t": "11:39*r Or land*i for*i a*i reward*i",
+        "a": "d"
+    },
+    {
+        "o": 24249,
+        "r": "niv:Daniel:11:43",
+        "w": 21,
+        "l": {},
+        "t": "11:43*r That is, people from the upper Nile region",
+        "a": "e"
+    },
+    {
+        "o": 24251,
+        "r": "niv:Daniel:11:45",
+        "w": 9,
+        "l": {},
+        "t": "11:45*r Or the*i sea*i and*i",
+        "a": "f"
+    }
+]

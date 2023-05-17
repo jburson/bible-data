@@ -1,0 +1,634 @@
+[
+    {
+        "o": 14101,
+        "r": "niv:Job:1:6",
+        "w": 3,
+        "l": {},
+        "t": "1:6*r Hebrew the*i sons*i of*i God*i",
+        "a": "a"
+    },
+    {
+        "o": 14101,
+        "r": "niv:Job:1:6",
+        "w": 12,
+        "l": {},
+        "t": "1:6*r Hebrew satan means adversary.*i",
+        "a": "b"
+    },
+    {
+        "o": 14116,
+        "r": "niv:Job:1:21",
+        "w": 13,
+        "l": {},
+        "t": "1:21*r Or will*i return*i there*i",
+        "a": "c"
+    },
+    {
+        "o": 14119,
+        "r": "niv:Job:2:1",
+        "w": 4,
+        "l": {},
+        "t": "2:1*r Hebrew the*i sons*i of*i God*i",
+        "a": "a"
+    },
+    {
+        "o": 14128,
+        "r": "niv:Job:2:10",
+        "w": 7,
+        "l": {},
+        "t": "2:10*r The Hebrew word rendered foolish*i denotes moral deficiency.",
+        "a": "b"
+    },
+    {
+        "o": 14141,
+        "r": "niv:Job:3:8",
+        "w": 4,
+        "l": {},
+        "t": "3:8*r Or curse*i the*i sea*i",
+        "a": "a"
+    },
+    {
+        "o": 14200,
+        "r": "niv:Job:5:17",
+        "w": 15,
+        "l": {},
+        "t": "5:17*r Hebrew Shaddai*i ; here and throughout Job",
+        "a": "a"
+    },
+    {
+        "o": 14218,
+        "r": "niv:Job:6:6",
+        "w": 15,
+        "l": {},
+        "t": "6:6*r The meaning of the Hebrew for this phrase is uncertain.",
+        "a": "a"
+    },
+    {
+        "o": 14241,
+        "r": "niv:Job:6:29",
+        "w": 11,
+        "l": {},
+        "t": "6:29*r Or my*i righteousness*i still*i stands*i",
+        "a": "b"
+    },
+    {
+        "o": 14263,
+        "r": "niv:Job:7:20",
+        "w": 29,
+        "l": {},
+        "t": "7:20*r A few manuscripts of the Masoretic Text, an ancient Hebrew scribal tradition and Septuagint; most manuscripts of the Masoretic Text I*i have*i become*i a*i burden*i to*i myself.*i",
+        "a": "a"
+    },
+    {
+        "o": 14280,
+        "r": "niv:Job:8:14",
+        "w": 5,
+        "l": {},
+        "t": "8:14*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "a"
+    },
+    {
+        "o": 14285,
+        "r": "niv:Job:8:19",
+        "w": 5,
+        "l": {},
+        "t": "8:19*r Or Surely*i all*i the*i joy*i it*i has*i /*i is*i that*i",
+        "a": "b"
+    },
+    {
+        "o": 14299,
+        "r": "niv:Job:9:9",
+        "w": 6,
+        "l": {},
+        "t": "9:9*r Or of*i Leo*i",
+        "a": "a"
+    },
+    {
+        "o": 14309,
+        "r": "niv:Job:9:19",
+        "w": 21,
+        "l": {},
+        "t": "9:19*r See Septuagint; Hebrew me.*i",
+        "a": "b"
+    },
+    {
+        "o": 14341,
+        "r": "niv:Job:10:15",
+        "w": 24,
+        "l": {},
+        "t": "10:15*r Or and*i aware*i of*i",
+        "a": "a"
+    },
+    {
+        "o": 14362,
+        "r": "niv:Job:11:12",
+        "w": 16,
+        "l": {},
+        "t": "11:12*r Or wild*i donkey*i can*i be*i born*i tame*i",
+        "a": "a"
+    },
+    {
+        "o": 14378,
+        "r": "niv:Job:12:6",
+        "w": 18,
+        "l": {},
+        "t": "12:6*r Or those*i whose*i god*i is*i in*i their*i own*i hand*i",
+        "a": "a"
+    },
+    {
+        "o": 14390,
+        "r": "niv:Job:12:18",
+        "w": 12,
+        "l": {},
+        "t": "12:18*r Or shackles*i of*i kings*i /*i and*i ties*i a*i belt*i",
+        "a": "b"
+    },
+    {
+        "o": 14413,
+        "r": "niv:Job:13:15",
+        "w": 12,
+        "l": {},
+        "t": "13:15*r Or He*i will*i surely*i slay*i me;*i I*i have*i no*i hope—*i /*i yet*i I*i will*i",
+        "a": "a"
+    },
+    {
+        "o": 14430,
+        "r": "niv:Job:14:3",
+        "w": 10,
+        "l": {},
+        "t": "14:3*r Septuagint, Vulgate and Syriac; Hebrew me*i",
+        "a": "a"
+    },
+    {
+        "o": 14441,
+        "r": "niv:Job:14:14",
+        "w": 19,
+        "l": {},
+        "t": "14:14*r Or release*i",
+        "a": "b"
+    },
+    {
+        "o": 14508,
+        "r": "niv:Job:16:20",
+        "w": 4,
+        "l": {},
+        "t": "16:20*r Or My*i friends*i treat*i me*i with*i scorn*i",
+        "a": "a"
+    },
+    {
+        "o": 14544,
+        "r": "niv:Job:18:15",
+        "w": 1,
+        "l": {},
+        "t": "18:15*r Or Nothing*i he*i had*i remains*i",
+        "a": "a"
+    },
+    {
+        "o": 14572,
+        "r": "niv:Job:19:20",
+        "w": 16,
+        "l": {},
+        "t": "19:20*r Or only*i by*i my*i gums*i",
+        "a": "a"
+    },
+    {
+        "o": 14576,
+        "r": "niv:Job:19:24",
+        "w": 8,
+        "l": {},
+        "t": "19:24*r Or and*i",
+        "a": "b"
+    },
+    {
+        "o": 14577,
+        "r": "niv:Job:19:25",
+        "w": 4,
+        "l": {},
+        "t": "19:25*r Or vindicator*i",
+        "a": "c"
+    },
+    {
+        "o": 14577,
+        "r": "niv:Job:19:25",
+        "w": 16,
+        "l": {},
+        "t": "19:25*r Or on*i my*i grave*i",
+        "a": "d"
+    },
+    {
+        "o": 14578,
+        "r": "niv:Job:19:26",
+        "w": 7,
+        "l": {},
+        "t": "19:26*r Or And*i after*i I*i awake,*i /*i though*i this*i body*i has*i been*i destroyed,*i /*i then*i",
+        "a": "e"
+    },
+    {
+        "o": 14578,
+        "r": "niv:Job:19:26",
+        "w": 8,
+        "l": {},
+        "t": "19:26*r Or destroyed,*i /*i apart*i from*i",
+        "a": "f"
+    },
+    {
+        "o": 14580,
+        "r": "niv:Job:19:28",
+        "w": 16,
+        "l": {},
+        "t": "19:28*r Many Hebrew manuscripts, Septuagint and Vulgate; most Hebrew manuscripts me*i",
+        "a": "g"
+    },
+    {
+        "o": 14581,
+        "r": "niv:Job:19:29",
+        "w": 22,
+        "l": {},
+        "t": "19:29*r Or sword,*i /*i that*i you*i may*i come*i to*i know*i the*i Almighty*i",
+        "a": "h"
+    },
+    {
+        "o": 14587,
+        "r": "niv:Job:20:4",
+        "w": 12,
+        "l": {},
+        "t": "20:4*r Or Adam*i",
+        "a": "a"
+    },
+    {
+        "o": 14611,
+        "r": "niv:Job:20:28",
+        "w": 8,
+        "l": {},
+        "t": "20:28*r Or The*i possessions*i in*i his*i house*i will*i be*i carried*i off,*i /*i washed*i away*i",
+        "a": "b"
+    },
+    {
+        "o": 14627,
+        "r": "niv:Job:21:13",
+        "w": 13,
+        "l": {},
+        "t": "21:13*r Or in*i an*i instant*i",
+        "a": "a"
+    },
+    {
+        "o": 14638,
+        "r": "niv:Job:21:24",
+        "w": 3,
+        "l": {},
+        "t": "21:24*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 14644,
+        "r": "niv:Job:21:30",
+        "w": 14,
+        "l": {},
+        "t": "21:30*r Or wicked*i are*i reserved*i for*i the*i day*i of*i calamity,*i /*i that*i they*i are*i brought*i forth*i to*i",
+        "a": "c"
+    },
+    {
+        "o": 14647,
+        "r": "niv:Job:21:33",
+        "w": 17,
+        "l": {},
+        "t": "21:33*r Or them,*i /*i as*i a*i countless*i throng*i went*i",
+        "a": "d"
+    },
+    {
+        "o": 14684,
+        "r": "niv:Job:23:2",
+        "w": 7,
+        "l": {},
+        "t": "23:2*r Septuagint and Syriac; Hebrew / the*i hand*i on*i me*i",
+        "a": "a"
+    },
+    {
+        "o": 14684,
+        "r": "niv:Job:23:2",
+        "w": 12,
+        "l": {},
+        "t": "23:2*r Or heavy*i on*i me*i in*i",
+        "a": "b"
+    },
+    {
+        "o": 14711,
+        "r": "niv:Job:24:11",
+        "w": 5,
+        "l": {},
+        "t": "24:11*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "a"
+    },
+    {
+        "o": 14741,
+        "r": "niv:Job:26:6",
+        "w": 9,
+        "l": {},
+        "t": "26:6*r Hebrew Abaddon*i",
+        "a": "a"
+    },
+    {
+        "o": 14787,
+        "r": "niv:Job:28:11",
+        "w": 1,
+        "l": {},
+        "t": "28:11*r Septuagint, Aquila and Vulgate; Hebrew They*i dam*i up*i",
+        "a": "a"
+    },
+    {
+        "o": 14798,
+        "r": "niv:Job:28:22",
+        "w": 0,
+        "l": {},
+        "t": "28:22*r Hebrew Abaddon*i",
+        "a": "b"
+    },
+    {
+        "o": 14830,
+        "r": "niv:Job:29:24",
+        "w": 17,
+        "l": {},
+        "t": "29:24*r The meaning of the Hebrew for this clause is uncertain.",
+        "a": "a"
+    },
+    {
+        "o": 14835,
+        "r": "niv:Job:30:3",
+        "w": 6,
+        "l": {},
+        "t": "30:3*r Or gnawed*i",
+        "a": "a"
+    },
+    {
+        "o": 14836,
+        "r": "niv:Job:30:4",
+        "w": 9,
+        "l": {},
+        "t": "30:4*r Or fuel*i",
+        "a": "b"
+    },
+    {
+        "o": 14844,
+        "r": "niv:Job:30:12",
+        "w": 4,
+        "l": {},
+        "t": "30:12*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "c"
+    },
+    {
+        "o": 14850,
+        "r": "niv:Job:30:18",
+        "w": 9,
+        "l": {},
+        "t": "30:18*r Hebrew; Septuagint power*i he*i grasps*i my*i clothing*i",
+        "a": "d"
+    },
+    {
+        "o": 14876,
+        "r": "niv:Job:31:12",
+        "w": 7,
+        "l": {},
+        "t": "31:12*r Hebrew Abaddon*i",
+        "a": "a"
+    },
+    {
+        "o": 14897,
+        "r": "niv:Job:31:33",
+        "w": 8,
+        "l": {},
+        "t": "31:33*r Or as*i Adam*i did*i",
+        "a": "b"
+    },
+    {
+        "o": 14909,
+        "r": "niv:Job:32:3",
+        "w": 21,
+        "l": {},
+        "t": "32:3*r Masoretic Text; an ancient Hebrew scribal tradition Job,*i and*i so*i had*i condemned*i God*i",
+        "a": "a"
+    },
+    {
+        "o": 14914,
+        "r": "niv:Job:32:8",
+        "w": 4,
+        "l": {},
+        "t": "32:8*r Or Spirit*i ; also in verse 18",
+        "a": "b"
+    },
+    {
+        "o": 14915,
+        "r": "niv:Job:32:9",
+        "w": 5,
+        "l": {},
+        "t": "32:9*r Or many*i ; or great*i",
+        "a": "c"
+    },
+    {
+        "o": 14942,
+        "r": "niv:Job:33:13",
+        "w": 12,
+        "l": {},
+        "t": "33:13*r Or that*i he*i does*i not*i answer*i for*i any*i of*i his*i actions*i",
+        "a": "a"
+    },
+    {
+        "o": 14947,
+        "r": "niv:Job:33:18",
+        "w": 12,
+        "l": {},
+        "t": "33:18*r Or from*i crossing*i the*i river*i",
+        "a": "b"
+    },
+    {
+        "o": 14951,
+        "r": "niv:Job:33:22",
+        "w": 13,
+        "l": {},
+        "t": "33:22*r Or to*i the*i place*i of*i the*i dead*i",
+        "a": "c"
+    },
+    {
+        "o": 14977,
+        "r": "niv:Job:34:14",
+        "w": 9,
+        "l": {},
+        "t": "34:14*r Or Spirit*i",
+        "a": "a"
+    },
+    {
+        "o": 15004,
+        "r": "niv:Job:35:3",
+        "w": 9,
+        "l": {},
+        "t": "35:3*r Or you*i",
+        "a": "a"
+    },
+    {
+        "o": 15012,
+        "r": "niv:Job:35:11",
+        "w": 6,
+        "l": {},
+        "t": "35:10,11*r Or night,*i /*i who*i teaches*i us*i by*i",
+        "a": "b"
+    },
+    {
+        "o": 15012,
+        "r": "niv:Job:35:11",
+        "w": 16,
+        "l": {},
+        "t": "35:11*r Or us*i wise*i by*i",
+        "a": "c"
+    },
+    {
+        "o": 15016,
+        "r": "niv:Job:35:15",
+        "w": 16,
+        "l": {},
+        "t": "35:15*r Symmachus, Theodotion and Vulgate; the meaning of the Hebrew for this word is uncertain.",
+        "a": "d"
+    },
+    {
+        "o": 15030,
+        "r": "niv:Job:36:12",
+        "w": 11,
+        "l": {},
+        "t": "36:12*r Or will*i cross*i the*i river*i",
+        "a": "a"
+    },
+    {
+        "o": 15038,
+        "r": "niv:Job:36:20",
+        "w": 12,
+        "l": {},
+        "t": "36:20*r The meaning of the Hebrew for verses 18-20 is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 15045,
+        "r": "niv:Job:36:27",
+        "w": 13,
+        "l": {},
+        "t": "36:27*r Or distill*i from*i the*i mist*i as*i rain*i",
+        "a": "c"
+    },
+    {
+        "o": 15049,
+        "r": "niv:Job:36:31",
+        "w": 5,
+        "l": {},
+        "t": "36:31*r Or nourishes*i",
+        "a": "d"
+    },
+    {
+        "o": 15051,
+        "r": "niv:Job:36:33",
+        "w": 12,
+        "l": {},
+        "t": "36:33*r Or announces*i his*i coming—*i /*i the*i One*i zealous*i against*i evil*i",
+        "a": "e"
+    },
+    {
+        "o": 15059,
+        "r": "niv:Job:37:7",
+        "w": 16,
+        "l": {},
+        "t": "37:7*r Or work,*i /*i he*i fills*i all*i people*i with*i fear*i by*i his*i power*i",
+        "a": "a"
+    },
+    {
+        "o": 15076,
+        "r": "niv:Job:37:24",
+        "w": 15,
+        "l": {},
+        "t": "37:24*r Or for*i he*i does*i not*i have*i regard*i for*i any*i who*i think*i they*i are*i wise.*i",
+        "a": "b"
+    },
+    {
+        "o": 15085,
+        "r": "niv:Job:38:7",
+        "w": 9,
+        "l": {},
+        "t": "38:7*r Hebrew the*i sons*i of*i God*i",
+        "a": "a"
+    },
+    {
+        "o": 15109,
+        "r": "niv:Job:38:31",
+        "w": 4,
+        "l": {},
+        "t": "38:31*r Septuagint; Hebrew beauty*i",
+        "a": "b"
+    },
+    {
+        "o": 15110,
+        "r": "niv:Job:38:32",
+        "w": 8,
+        "l": {},
+        "t": "38:32*r Or the*i morning*i star*i in*i its*i season*i",
+        "a": "c"
+    },
+    {
+        "o": 15110,
+        "r": "niv:Job:38:32",
+        "w": 13,
+        "l": {},
+        "t": "38:32*r Or out*i Leo*i",
+        "a": "d"
+    },
+    {
+        "o": 15111,
+        "r": "niv:Job:38:33",
+        "w": 12,
+        "l": {},
+        "t": "38:33*r Or their*i",
+        "a": "e"
+    },
+    {
+        "o": 15114,
+        "r": "niv:Job:38:36",
+        "w": 4,
+        "l": {},
+        "t": "38:36*r That is, wisdom about the flooding of the Nile",
+        "a": "f"
+    },
+    {
+        "o": 15114,
+        "r": "niv:Job:38:36",
+        "w": 9,
+        "l": {},
+        "t": "38:36*r That is, understanding of when to crow; the meaning of the Hebrew for this verse is uncertain.",
+        "a": "g"
+    },
+    {
+        "o": 15177,
+        "r": "niv:Job:41:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 41:1-8 is numbered 40:25-32, and 41:9-34 is numbered 41:1-26.",
+        "a": "a"
+    },
+    {
+        "o": 15189,
+        "r": "niv:Job:41:13",
+        "w": 14,
+        "l": {},
+        "t": "41:13*r Septuagint; Hebrew double*i bridle*i",
+        "a": "b"
+    },
+    {
+        "o": 15191,
+        "r": "niv:Job:41:15",
+        "w": 2,
+        "l": {},
+        "t": "41:15*r Or Its*i pride*i is*i its*i",
+        "a": "c"
+    },
+    {
+        "o": 15224,
+        "r": "niv:Job:42:11",
+        "w": 43,
+        "l": {},
+        "t": "42:11*r Hebrew him*i a*i kesitah*i ; a kesitah was a unit of money of unknown weight and value.",
+        "a": "a"
+    }
+]

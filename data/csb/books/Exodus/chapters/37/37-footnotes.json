@@ -1,0 +1,90 @@
+[
+    {
+        "o": 2881,
+        "r": "csb:Exodus:37:1",
+        "w": 0,
+        "l": {},
+        "c": "Ex 25:10–20*2437",
+        "a": "a"
+    },
+    {
+        "o": 2881,
+        "r": "csb:Exodus:37:1",
+        "w": 16,
+        "l": {},
+        "t": "37:1*r Lit two and a half cubits its length, one and a half cubits its width, and one and a half cubits its height",
+        "a": "b"
+    },
+    {
+        "o": 2886,
+        "r": "csb:Exodus:37:6",
+        "w": 14,
+        "l": {},
+        "t": "37:6*r Lit two and a half cubits its length and one and a half cubits its width",
+        "a": "c"
+    },
+    {
+        "o": 2891,
+        "r": "csb:Exodus:37:10",
+        "w": 0,
+        "l": {},
+        "c": "Ex 25:23–29*2451",
+        "a": "d"
+    },
+    {
+        "o": 2891,
+        "r": "csb:Exodus:37:10",
+        "w": 16,
+        "l": {},
+        "t": "37:10*r Lit two cubits its length, one cubit its width, and one and a half cubits its height",
+        "a": "e"
+    },
+    {
+        "o": 2893,
+        "r": "csb:Exodus:37:12",
+        "w": 3,
+        "l": {},
+        "t": "37:12*r Lit a handbreadth",
+        "a": "f"
+    },
+    {
+        "o": 2899,
+        "r": "csb:Exodus:37:17",
+        "w": 0,
+        "l": {},
+        "c": "Ex 25:31–39*2460",
+        "a": "g"
+    },
+    {
+        "o": 2906,
+        "r": "csb:Exodus:37:24",
+        "w": 9,
+        "l": {},
+        "t": "37:24*r Lit a talent",
+        "a": "h"
+    },
+    {
+        "o": 2908,
+        "r": "csb:Exodus:37:25",
+        "w": 0,
+        "l": {},
+        "c": "Ex 30:1–5*2634",
+        "a": "i"
+    },
+    {
+        "o": 2908,
+        "r": "csb:Exodus:37:25",
+        "w": 24,
+        "l": {},
+        "t": "37:25*r Lit a cubit its length, a cubit its width, and two cubits its height",
+        "a": "j"
+    },
+    {
+        "o": 2912,
+        "r": "csb:Exodus:37:29",
+        "w": 14,
+        "l": {},
+        "c": "Ex 30:23–24,34–35*2659",
+        "a": "k"
+    }
+]

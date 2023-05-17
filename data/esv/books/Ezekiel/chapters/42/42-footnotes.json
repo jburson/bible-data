@@ -1,0 +1,378 @@
+[
+    {
+        "o": 23951,
+        "r": "esv:Ezekiel:42:1",
+        "w": 5,
+        "l": {},
+        "c": "Ezekiel 40:17*23883",
+        "a": "a"
+    },
+    {
+        "o": 23951,
+        "r": "esv:Ezekiel:42:1",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 40:20*23887",
+        "a": "b"
+    },
+    {
+        "o": 23951,
+        "r": "esv:Ezekiel:42:1",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 40:17*23883",
+        "a": "c"
+    },
+    {
+        "o": 23951,
+        "r": "esv:Ezekiel:42:1",
+        "w": 21,
+        "l": {},
+        "c": "Ezekiel 42:10*23960; Ezekiel 42:13*23963; Ezekiel 41:12–13*23934",
+        "a": "d"
+    },
+    {
+        "o": 23951,
+        "r": "esv:Ezekiel:42:1",
+        "w": 26,
+        "l": {},
+        "c": "Ezekiel 41:12*23934; Ezekiel 41:15*23937",
+        "a": "e"
+    },
+    {
+        "o": 23952,
+        "r": "esv:Ezekiel:42:2",
+        "w": 9,
+        "l": {},
+        "c": "Ezekiel 41:13*23935",
+        "a": "f"
+    },
+    {
+        "o": 23952,
+        "r": "esv:Ezekiel:42:2",
+        "w": 12,
+        "l": {},
+        "t": "A cubit*i was about 18 inches or 45 centimeters",
+        "a": "g"
+    },
+    {
+        "o": 23952,
+        "r": "esv:Ezekiel:42:2",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 42:8*23958",
+        "a": "h"
+    },
+    {
+        "o": 23953,
+        "r": "esv:Ezekiel:42:3",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 41:10*23932",
+        "a": "i"
+    },
+    {
+        "o": 23953,
+        "r": "esv:Ezekiel:42:3",
+        "w": 11,
+        "l": {},
+        "c": "Ezekiel 40:17*23883",
+        "a": "j"
+    },
+    {
+        "o": 23953,
+        "r": "esv:Ezekiel:42:3",
+        "w": 20,
+        "l": {},
+        "c": "Ezekiel 42:5*23955; Ezekiel 41:15–16*23937",
+        "a": "k"
+    },
+    {
+        "o": 23953,
+        "r": "esv:Ezekiel:42:3",
+        "w": 21,
+        "l": {},
+        "t": "The meaning of the Hebrew word is unknown; also verse 5",
+        "a": "l"
+    },
+    {
+        "o": 23954,
+        "r": "esv:Ezekiel:42:4",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 46:19*24084",
+        "a": "m"
+    },
+    {
+        "o": 23954,
+        "r": "esv:Ezekiel:42:4",
+        "w": 11,
+        "l": {},
+        "c": "Ezekiel 42:11*23961",
+        "a": "n"
+    },
+    {
+        "o": 23954,
+        "r": "esv:Ezekiel:42:4",
+        "w": 15,
+        "l": {},
+        "t": "Septuagint, Syriac; Hebrew and*i a*i way*i of*i one*i cubit*i",
+        "a": "o"
+    },
+    {
+        "o": 23954,
+        "r": "esv:Ezekiel:42:4",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 46:19*24084",
+        "a": "p"
+    },
+    {
+        "o": 23957,
+        "r": "esv:Ezekiel:42:7",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 42:10*23960; Ezekiel 42:12*23962",
+        "a": "q"
+    },
+    {
+        "o": 23957,
+        "r": "esv:Ezekiel:42:7",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 42:2*23952",
+        "a": "r"
+    },
+    {
+        "o": 23958,
+        "r": "esv:Ezekiel:42:8",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 41:1*23923; Ezekiel 41:21*23943; Ezekiel 41:23*23945",
+        "a": "s"
+    },
+    {
+        "o": 23958,
+        "r": "esv:Ezekiel:42:8",
+        "w": 15,
+        "l": {},
+        "t": "Or temple*i",
+        "a": "t"
+    },
+    {
+        "o": 23958,
+        "r": "esv:Ezekiel:42:8",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 41:13–14*23935",
+        "a": "u"
+    },
+    {
+        "o": 23959,
+        "r": "esv:Ezekiel:42:9",
+        "w": 3,
+        "l": {},
+        "c": "Ezekiel 44:5*24007; Ezekiel 46:19*24084",
+        "a": "v"
+    },
+    {
+        "o": 23960,
+        "r": "esv:Ezekiel:42:10",
+        "w": 3,
+        "l": {},
+        "c": "Ezekiel 42:7*23957",
+        "a": "w"
+    },
+    {
+        "o": 23960,
+        "r": "esv:Ezekiel:42:10",
+        "w": 11,
+        "l": {},
+        "t": "Septuagint; Hebrew east*i",
+        "a": "x"
+    },
+    {
+        "o": 23960,
+        "r": "esv:Ezekiel:42:10",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 42:1*23951",
+        "a": "y"
+    },
+    {
+        "o": 23960,
+        "r": "esv:Ezekiel:42:10",
+        "w": 17,
+        "l": {},
+        "c": "Ezekiel 42:1*23951",
+        "a": "z"
+    },
+    {
+        "o": 23960,
+        "r": "esv:Ezekiel:42:10",
+        "w": 21,
+        "l": {},
+        "c": "Ezekiel 40:17*23883",
+        "a": "a"
+    },
+    {
+        "o": 23961,
+        "r": "esv:Ezekiel:42:11",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 42:4*23954",
+        "a": "b"
+    },
+    {
+        "o": 23961,
+        "r": "esv:Ezekiel:42:11",
+        "w": 25,
+        "l": {},
+        "t": "Hebrew and*i all*i their*i exits*i",
+        "a": "c"
+    },
+    {
+        "o": 23961,
+        "r": "esv:Ezekiel:42:11",
+        "w": 28,
+        "l": {},
+        "c": "Ezekiel 42:4*23954",
+        "a": "d"
+    },
+    {
+        "o": 23962,
+        "r": "esv:Ezekiel:42:12",
+        "w": 22,
+        "l": {},
+        "c": "Ezekiel 42:10*23960",
+        "a": "e"
+    },
+    {
+        "o": 23962,
+        "r": "esv:Ezekiel:42:12",
+        "w": 32,
+        "l": {},
+        "t": "The meaning of the Hebrew verse is uncertain",
+        "a": "f"
+    },
+    {
+        "o": 23963,
+        "r": "esv:Ezekiel:42:13",
+        "w": 12,
+        "l": {},
+        "c": "Ezekiel 42:10*23960",
+        "a": "g"
+    },
+    {
+        "o": 23963,
+        "r": "esv:Ezekiel:42:13",
+        "w": 18,
+        "l": {},
+        "c": "Ezekiel 40:46*23916",
+        "a": "h"
+    },
+    {
+        "o": 23963,
+        "r": "esv:Ezekiel:42:13",
+        "w": 25,
+        "l": {},
+        "c": "Leviticus 6:16*3125; Leviticus 6:26*3135; Leviticus 10:13*3257; Leviticus 24:9*3765",
+        "a": "i"
+    },
+    {
+        "o": 23963,
+        "r": "esv:Ezekiel:42:13",
+        "w": 28,
+        "l": {},
+        "c": "Numbers 18:9*4643",
+        "a": "j"
+    },
+    {
+        "o": 23963,
+        "r": "esv:Ezekiel:42:13",
+        "w": 39,
+        "l": {},
+        "c": "Numbers 18:9*4643",
+        "a": "k"
+    },
+    {
+        "o": 23963,
+        "r": "esv:Ezekiel:42:13",
+        "w": 42,
+        "l": {},
+        "c": "Ezekiel 40:39*23908",
+        "a": "l"
+    },
+    {
+        "o": 23963,
+        "r": "esv:Ezekiel:42:13",
+        "w": 46,
+        "l": {},
+        "c": "Ezekiel 40:39*23908",
+        "a": "m"
+    },
+    {
+        "o": 23964,
+        "r": "esv:Ezekiel:42:14",
+        "w": 17,
+        "l": {},
+        "c": "Ezekiel 44:19*24022; Leviticus 6:11*3120",
+        "a": "n"
+    },
+    {
+        "o": 23964,
+        "r": "esv:Ezekiel:42:14",
+        "w": 30,
+        "l": {},
+        "c": "Ezekiel 44:19*24022; Leviticus 6:11*3120",
+        "a": "o"
+    },
+    {
+        "o": 23965,
+        "r": "esv:Ezekiel:42:15",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 43:1*23973",
+        "a": "p"
+    },
+    {
+        "o": 23966,
+        "r": "esv:Ezekiel:42:16",
+        "w": 5,
+        "l": {},
+        "c": "Ezekiel 40:3*23867",
+        "a": "q"
+    },
+    {
+        "o": 23970,
+        "r": "esv:Ezekiel:42:20",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 40:5*23870",
+        "a": "r"
+    },
+    {
+        "o": 23970,
+        "r": "esv:Ezekiel:42:20",
+        "w": 12,
+        "l": {},
+        "c": "Ezekiel 45:2*24038; Revelation 21:16*34821",
+        "a": "s"
+    },
+    {
+        "o": 23970,
+        "r": "esv:Ezekiel:42:20",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 45:2*24038; Revelation 21:16*34821",
+        "a": "t"
+    },
+    {
+        "o": 23970,
+        "r": "esv:Ezekiel:42:20",
+        "w": 19,
+        "l": {},
+        "c": "Ezekiel 22:26*23338; Ezekiel 43:12*23985; Ezekiel 44:23*24026; Ezekiel 48:15*24131",
+        "a": "u"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "o": 8172,
+        "r": "niv:1 Samuel:13:1",
+        "w": 2,
+        "l": {},
+        "t": "13:1*r A few late manuscripts of the Septuagint; Hebrew does not have thirty*i .*i",
+        "a": "a"
+    },
+    {
+        "o": 8172,
+        "r": "niv:1 Samuel:13:1",
+        "w": 14,
+        "l": {},
+        "t": "13:1*r Probable reading of the original Hebrew text (see Acts 13:21); Masoretic Text does not have forty-*i .",
+        "a": "b"
+    },
+    {
+        "o": 8176,
+        "r": "niv:1 Samuel:13:5",
+        "w": 8,
+        "l": {},
+        "t": "13:5*r Some Septuagint manuscripts and Syriac; Hebrew thirty*i thousand*i",
+        "a": "c"
+    },
+    {
+        "o": 8186,
+        "r": "niv:1 Samuel:13:15",
+        "w": 3,
+        "l": {},
+        "t": "13:15*r Hebrew; Septuagint Gilgal*i and*i went*i his*i way;*i the*i rest*i of*i the*i people*i went*i after*i Saul*i to*i meet*i the*i army,*i and*i they*i went*i out*i of*i Gilgal*i",
+        "a": "d"
+    },
+    {
+        "o": 8188,
+        "r": "niv:1 Samuel:13:16",
+        "w": 13,
+        "l": {},
+        "t": "13:16*r Two Hebrew manuscripts; most Hebrew manuscripts Geba,*i a variant of Gibeah*i",
+        "a": "e"
+    },
+    {
+        "o": 8192,
+        "r": "niv:1 Samuel:13:20",
+        "w": 16,
+        "l": {},
+        "t": "13:20*r Septuagint; Hebrew plow*i points*i",
+        "a": "f"
+    },
+    {
+        "o": 8193,
+        "r": "niv:1 Samuel:13:21",
+        "w": 6,
+        "l": {},
+        "t": "13:21*r That is, about 1/4 ounce or about 8 grams",
+        "a": "g"
+    },
+    {
+        "o": 8193,
+        "r": "niv:1 Samuel:13:21",
+        "w": 18,
+        "l": {},
+        "t": "13:21*r That is, about 1/8 ounce or about 4 grams",
+        "a": "h"
+    }
+]

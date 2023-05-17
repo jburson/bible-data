@@ -1,0 +1,42 @@
+[
+    {
+        "o": 30762,
+        "r": "niv:Acts:27:9",
+        "w": 20,
+        "l": {},
+        "t": "27:9*r That is, Yom Kippur",
+        "a": "a"
+    },
+    {
+        "o": 30771,
+        "r": "niv:Acts:27:17",
+        "w": 35,
+        "l": {},
+        "t": "27:17*r Or the*i sails*i",
+        "a": "b"
+    },
+    {
+        "o": 30782,
+        "r": "niv:Acts:27:27",
+        "w": 11,
+        "l": {},
+        "t": "27:27*r In ancient times the name referred to an area extending well south of Italy.",
+        "a": "c"
+    },
+    {
+        "o": 30783,
+        "r": "niv:Acts:27:28",
+        "w": 13,
+        "l": {},
+        "t": "27:28*r Or about 37 meters",
+        "a": "d"
+    },
+    {
+        "o": 30783,
+        "r": "niv:Acts:27:28",
+        "w": 28,
+        "l": {},
+        "t": "27:28*r Or about 27 meters",
+        "a": "e"
+    }
+]

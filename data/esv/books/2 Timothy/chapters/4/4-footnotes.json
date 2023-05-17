@@ -1,0 +1,402 @@
+[
+    {
+        "o": 33438,
+        "r": "esv:2 Timothy:4:1",
+        "w": 0,
+        "l": {},
+        "c": "2 Timothy 2:14*33403; 1 Timothy 5:21*33336; 1 Timothy 6:13*33357",
+        "a": "a"
+    },
+    {
+        "o": 33438,
+        "r": "esv:2 Timothy:4:1",
+        "w": 11,
+        "l": {},
+        "c": "Acts 10:42*30529",
+        "a": "b"
+    },
+    {
+        "o": 33438,
+        "r": "esv:2 Timothy:4:1",
+        "w": 22,
+        "l": {},
+        "c": "2 Timothy 4:8*33446; 2 Thessalonians 2:8*33201",
+        "a": "c"
+    },
+    {
+        "o": 33439,
+        "r": "esv:2 Timothy:4:2",
+        "w": 10,
+        "l": {},
+        "c": "1 Timothy 5:20*33335; Titus 1:13*33477; Titus 2:15*33497",
+        "a": "d"
+    },
+    {
+        "o": 33439,
+        "r": "esv:2 Timothy:4:2",
+        "w": 13,
+        "l": {},
+        "c": "1 Timothy 4:13*33310",
+        "a": "e"
+    },
+    {
+        "o": 33440,
+        "r": "esv:2 Timothy:4:3",
+        "w": 0,
+        "l": {},
+        "c": "2 Timothy 3:1*33418",
+        "a": "f"
+    },
+    {
+        "o": 33440,
+        "r": "esv:2 Timothy:4:3",
+        "w": 9,
+        "l": {},
+        "c": "1 Timothy 1:10*33246",
+        "a": "g"
+    },
+    {
+        "o": 33440,
+        "r": "esv:2 Timothy:4:3",
+        "w": 10,
+        "l": {},
+        "t": "Or healthy*i",
+        "a": "h"
+    },
+    {
+        "o": 33441,
+        "r": "esv:2 Timothy:4:4",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 6:20*33364",
+        "a": "i"
+    },
+    {
+        "o": 33441,
+        "r": "esv:2 Timothy:4:4",
+        "w": 9,
+        "l": {},
+        "c": "1 Timothy 1:4*33240; 1 Timothy 1:6*33242",
+        "a": "j"
+    },
+    {
+        "o": 33442,
+        "r": "esv:2 Timothy:4:5",
+        "w": 2,
+        "l": {},
+        "c": "1 Peter 1:13*34025",
+        "a": "k"
+    },
+    {
+        "o": 33442,
+        "r": "esv:2 Timothy:4:5",
+        "w": 5,
+        "l": {},
+        "c": "2 Timothy 1:8*33376; 2 Timothy 2:3*33391; 2 Timothy 2:9*33397",
+        "a": "l"
+    },
+    {
+        "o": 33442,
+        "r": "esv:2 Timothy:4:5",
+        "w": 11,
+        "l": {},
+        "c": "Acts 21:8*30945; Ephesians 4:11*32755",
+        "a": "m"
+    },
+    {
+        "o": 33442,
+        "r": "esv:2 Timothy:4:5",
+        "w": 13,
+        "l": {},
+        "c": "Colossians 4:17*33071",
+        "a": "n"
+    },
+    {
+        "o": 33443,
+        "r": "esv:2 Timothy:4:6",
+        "w": 0,
+        "l": {},
+        "c": "Philippians 2:17*32898",
+        "a": "o"
+    },
+    {
+        "o": 33443,
+        "r": "esv:2 Timothy:4:6",
+        "w": 15,
+        "l": {},
+        "c": "Philippians 1:23*32871; 2 Peter 1:14*34146",
+        "a": "p"
+    },
+    {
+        "o": 33444,
+        "r": "esv:2 Timothy:4:7",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 6:12*33356",
+        "a": "q"
+    },
+    {
+        "o": 33444,
+        "r": "esv:2 Timothy:4:7",
+        "w": 5,
+        "l": {},
+        "c": "Acts 20:24*30921",
+        "a": "r"
+    },
+    {
+        "o": 33445,
+        "r": "esv:2 Timothy:4:8",
+        "w": 2,
+        "l": {},
+        "c": "Colossians 1:5*32971; 1 Peter 1:4*34015",
+        "a": "s"
+    },
+    {
+        "o": 33445,
+        "r": "esv:2 Timothy:4:8",
+        "w": 6,
+        "l": {},
+        "c": "James 1:12*33898",
+        "a": "t"
+    },
+    {
+        "o": 33445,
+        "r": "esv:2 Timothy:4:8",
+        "w": 13,
+        "l": {},
+        "c": "Psalm 7:11*15418",
+        "a": "u"
+    },
+    {
+        "o": 33445,
+        "r": "esv:2 Timothy:4:8",
+        "w": 21,
+        "l": {},
+        "c": "2 Timothy 1:12*33380",
+        "a": "v"
+    },
+    {
+        "o": 33445,
+        "r": "esv:2 Timothy:4:8",
+        "w": 32,
+        "l": {},
+        "c": "Revelation 22:20*34855",
+        "a": "w"
+    },
+    {
+        "o": 33447,
+        "r": "esv:2 Timothy:4:9",
+        "w": 0,
+        "l": {},
+        "c": "2 Timothy 1:4*33372",
+        "a": "x"
+    },
+    {
+        "o": 33448,
+        "r": "esv:2 Timothy:4:10",
+        "w": 0,
+        "l": {},
+        "c": "Colossians 4:14*33068; Philemon 24*33544",
+        "a": "y"
+    },
+    {
+        "o": 33448,
+        "r": "esv:2 Timothy:4:10",
+        "w": 1,
+        "l": {},
+        "c": "1 John 2:15*34231",
+        "a": "z"
+    },
+    {
+        "o": 33448,
+        "r": "esv:2 Timothy:4:10",
+        "w": 4,
+        "l": {},
+        "c": "1 Timothy 6:17*33361; Titus 2:12*33494",
+        "a": "a"
+    },
+    {
+        "o": 33448,
+        "r": "esv:2 Timothy:4:10",
+        "w": 7,
+        "l": {},
+        "c": "2 Timothy 1:15*33383",
+        "a": "b"
+    },
+    {
+        "o": 33448,
+        "r": "esv:2 Timothy:4:10",
+        "w": 19,
+        "l": {},
+        "t": "Some manuscripts Gaul*i",
+        "a": "c"
+    },
+    {
+        "o": 33448,
+        "r": "esv:2 Timothy:4:10",
+        "w": 19,
+        "l": {},
+        "c": "Titus 3:12*33512",
+        "a": "d"
+    },
+    {
+        "o": 33449,
+        "r": "esv:2 Timothy:4:11",
+        "w": 0,
+        "l": {},
+        "c": "2 Timothy 4:10*33448",
+        "a": "e"
+    },
+    {
+        "o": 33449,
+        "r": "esv:2 Timothy:4:11",
+        "w": 5,
+        "l": {},
+        "c": "Acts 12:12*30584",
+        "a": "f"
+    },
+    {
+        "o": 33450,
+        "r": "esv:2 Timothy:4:12",
+        "w": 0,
+        "l": {},
+        "c": "Acts 20:4*30899; Ephesians 6:21*32839; Colossians 4:7*33061; Titus 3:12*33512",
+        "a": "g"
+    },
+    {
+        "o": 33452,
+        "r": "esv:2 Timothy:4:14",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 1:20*33257",
+        "a": "h"
+    },
+    {
+        "o": 33452,
+        "r": "esv:2 Timothy:4:14",
+        "w": 6,
+        "l": {},
+        "c": "Psalm 62:12*16414; Proverbs 24:12*18966; Nehemiah 6:14*13676; Nehemiah 13:29*13982; Psalm 28:4*15777; Revelation 18:6*34740",
+        "a": "i"
+    },
+    {
+        "o": 33454,
+        "r": "esv:2 Timothy:4:16",
+        "w": 14,
+        "l": {},
+        "c": "Acts 7:60*30388",
+        "a": "j"
+    },
+    {
+        "o": 33455,
+        "r": "esv:2 Timothy:4:17",
+        "w": 0,
+        "l": {},
+        "c": "Acts 23:11*31026; Acts 27:23*31171; Matthew 10:19*26127",
+        "a": "k"
+    },
+    {
+        "o": 33455,
+        "r": "esv:2 Timothy:4:17",
+        "w": 6,
+        "l": {},
+        "c": "1 Timothy 1:12*33249",
+        "a": "l"
+    },
+    {
+        "o": 33455,
+        "r": "esv:2 Timothy:4:17",
+        "w": 19,
+        "l": {},
+        "c": "Acts 9:15*30449",
+        "a": "m"
+    },
+    {
+        "o": 33455,
+        "r": "esv:2 Timothy:4:17",
+        "w": 26,
+        "l": {},
+        "c": "2 Timothy 3:11*33429",
+        "a": "n"
+    },
+    {
+        "o": 33455,
+        "r": "esv:2 Timothy:4:17",
+        "w": 29,
+        "l": {},
+        "c": "Psalm 22:21*15681; 1 Samuel 17:37*8381",
+        "a": "o"
+    },
+    {
+        "o": 33456,
+        "r": "esv:2 Timothy:4:18",
+        "w": 16,
+        "l": {},
+        "c": "Romans 11:36*31580",
+        "a": "p"
+    },
+    {
+        "o": 33458,
+        "r": "esv:2 Timothy:4:19",
+        "w": 0,
+        "l": {},
+        "c": "Acts 18:2*30820",
+        "a": "q"
+    },
+    {
+        "o": 33458,
+        "r": "esv:2 Timothy:4:19",
+        "w": 4,
+        "l": {},
+        "c": "2 Timothy 1:16*33384",
+        "a": "r"
+    },
+    {
+        "o": 33459,
+        "r": "esv:2 Timothy:4:20",
+        "w": 6,
+        "l": {},
+        "c": "Acts 20:4*30899; Acts 21:29*30968",
+        "a": "s"
+    },
+    {
+        "o": 33460,
+        "r": "esv:2 Timothy:4:21",
+        "w": 0,
+        "l": {},
+        "c": "2 Timothy 4:9*33447",
+        "a": "t"
+    },
+    {
+        "o": 33460,
+        "r": "esv:2 Timothy:4:21",
+        "w": 22,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i . In New Testament usage, depending on the context, the plural Greek word adelphoi*i (translated “brothers”) may refer either to brothers*i or to brothers*i and*i sisters*i",
+        "a": "u"
+    },
+    {
+        "o": 33461,
+        "r": "esv:2 Timothy:4:22",
+        "w": 2,
+        "l": {},
+        "c": "Galatians 6:18*32666; Philemon 25*33545",
+        "a": "v"
+    },
+    {
+        "o": 33461,
+        "r": "esv:2 Timothy:4:22",
+        "w": 5,
+        "l": {},
+        "c": "Colossians 4:18*33072",
+        "a": "w"
+    },
+    {
+        "o": 33461,
+        "r": "esv:2 Timothy:4:22",
+        "w": 9,
+        "l": {},
+        "t": "The Greek for you*i is plural",
+        "a": "x"
+    }
+]

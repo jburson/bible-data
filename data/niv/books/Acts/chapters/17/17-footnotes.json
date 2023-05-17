@@ -1,0 +1,26 @@
+[
+    {
+        "o": 30395,
+        "r": "niv:Acts:17:5",
+        "w": 44,
+        "l": {},
+        "t": "17:5*r Or the*i assembly*i of*i the*i people*i",
+        "a": "a"
+    },
+    {
+        "o": 30420,
+        "r": "niv:Acts:17:28",
+        "w": 10,
+        "l": {},
+        "t": "17:28*r From the Cretan philosopher Epimenides",
+        "a": "b"
+    },
+    {
+        "o": 30420,
+        "r": "niv:Acts:17:28",
+        "w": 22,
+        "l": {},
+        "t": "17:28*r From the Cilician Stoic philosopher Aratus",
+        "a": "c"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "o": 15996,
+        "r": "niv:Psalm:46:0",
+        "w": 12,
+        "l": {},
+        "t": "Title: Probably a musical term",
+        "a": "a"
+    },
+    {
+        "o": 15999,
+        "r": "niv:Psalm:46:3",
+        "w": 12,
+        "l": {},
+        "t": "46:3*r The Hebrew has Selah*i (a word of uncertain meaning) here and at the end of verses 7 and 11.",
+        "a": "b"
+    },
+    {
+        "o": 16005,
+        "r": "niv:Psalm:46:9",
+        "w": 21,
+        "l": {},
+        "t": "46:9*r Or chariots*i",
+        "a": "c"
+    }
+]

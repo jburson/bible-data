@@ -1,0 +1,34 @@
+[
+    {
+        "o": 7231,
+        "r": "niv:Judges:5:3",
+        "w": 12,
+        "l": {},
+        "t": "5:3*r Or of*i",
+        "a": "a"
+    },
+    {
+        "o": 7239,
+        "r": "niv:Judges:5:11",
+        "w": 4,
+        "l": {},
+        "t": "5:11*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 7242,
+        "r": "niv:Judges:5:14",
+        "w": 28,
+        "l": {},
+        "t": "5:14*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "c"
+    },
+    {
+        "o": 7244,
+        "r": "niv:Judges:5:16",
+        "w": 7,
+        "l": {},
+        "t": "5:16*r Or the*i campfires*i ; or the*i saddlebags*i",
+        "a": "d"
+    }
+]

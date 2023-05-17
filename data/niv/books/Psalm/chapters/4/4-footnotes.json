@@ -1,0 +1,34 @@
+[
+    {
+        "o": 15264,
+        "r": "niv:Psalm:4:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 4:1-8 is numbered 4:2-9.",
+        "a": "a"
+    },
+    {
+        "o": 15266,
+        "r": "niv:Psalm:4:2",
+        "w": 19,
+        "l": {},
+        "t": "4:2*r Or seek*i lies*i",
+        "a": "b"
+    },
+    {
+        "o": 15266,
+        "r": "niv:Psalm:4:2",
+        "w": 19,
+        "l": {},
+        "t": "4:2*r The Hebrew has Selah*i (a word of uncertain meaning) here and at the end of verse 4.",
+        "a": "c"
+    },
+    {
+        "o": 15268,
+        "r": "niv:Psalm:4:4",
+        "w": 1,
+        "l": {},
+        "t": "4:4*r Or In*i your*i anger*i (see Septuagint)",
+        "a": "d"
+    }
+]

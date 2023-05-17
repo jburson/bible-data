@@ -1,0 +1,42 @@
+[
+    {
+        "o": 13358,
+        "r": "niv:Ezra:7:22",
+        "w": 4,
+        "l": {},
+        "t": "7:22*r That is, about 3 3/4 tons or about 3.4 metric tons",
+        "a": "a"
+    },
+    {
+        "o": 13358,
+        "r": "niv:Ezra:7:22",
+        "w": 9,
+        "l": {},
+        "t": "7:22*r That is, probably about 18 tons or about 16 metric tons",
+        "a": "b"
+    },
+    {
+        "o": 13358,
+        "r": "niv:Ezra:7:22",
+        "w": 14,
+        "l": {},
+        "t": "7:22*r That is, about 600 gallons or about 2,200 liters",
+        "a": "c"
+    },
+    {
+        "o": 13358,
+        "r": "niv:Ezra:7:22",
+        "w": 19,
+        "l": {},
+        "t": "7:22*r That is, about 600 gallons or about 2,200 liters",
+        "a": "d"
+    },
+    {
+        "o": 13362,
+        "r": "niv:Ezra:7:26",
+        "w": 26,
+        "l": {},
+        "t": "7:26*r The text of 7:12-26 is in Aramaic.",
+        "a": "e"
+    }
+]

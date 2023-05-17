@@ -1,0 +1,34 @@
+[
+    {
+        "o": 7073,
+        "r": "niv:Joshua:24:6",
+        "w": 21,
+        "l": {},
+        "t": "24:6*r Or charioteers*i",
+        "a": "a"
+    },
+    {
+        "o": 7073,
+        "r": "niv:Joshua:24:6",
+        "w": 27,
+        "l": {},
+        "t": "24:6*r Or the*i Sea*i of*i Reeds*i",
+        "a": "b"
+    },
+    {
+        "o": 7098,
+        "r": "niv:Joshua:24:30",
+        "w": 12,
+        "l": {},
+        "t": "24:30*r Also known as Timnath*i Heres*i (see Judges 2:9)",
+        "a": "c"
+    },
+    {
+        "o": 7100,
+        "r": "niv:Joshua:24:32",
+        "w": 28,
+        "l": {},
+        "t": "24:32*r Hebrew hundred*i kesitahs*i ; a kesitah was a unit of money of unknown weight and value.",
+        "a": "d"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "o": 25068,
+        "r": "niv:Zephaniah:1:3",
+        "w": 31,
+        "l": {},
+        "t": "1:3*r The meaning of the Hebrew for this line is uncertain.",
+        "a": "a"
+    },
+    {
+        "o": 25070,
+        "r": "niv:Zephaniah:1:5",
+        "w": 26,
+        "l": {},
+        "t": "1:5*r Hebrew Malkam*i",
+        "a": "b"
+    },
+    {
+        "o": 25074,
+        "r": "niv:Zephaniah:1:9",
+        "w": 12,
+        "l": {},
+        "t": "1:9*r See 1 Samuel 5:5.",
+        "a": "c"
+    },
+    {
+        "o": 25076,
+        "r": "niv:Zephaniah:1:11",
+        "w": 7,
+        "l": {},
+        "t": "1:11*r Or the*i Mortar*i",
+        "a": "d"
+    },
+    {
+        "o": 25076,
+        "r": "niv:Zephaniah:1:11",
+        "w": 18,
+        "l": {},
+        "t": "1:11*r Or in*i",
+        "a": "e"
+    }
+]

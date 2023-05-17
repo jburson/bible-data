@@ -1,0 +1,34 @@
+[
+    {
+        "o": 27765,
+        "r": "nasb:Luke:1:2",
+        "w": 19,
+        "l": {},
+        "t": "I.e. gospel",
+        "a": "a"
+    },
+    {
+        "o": 27769,
+        "r": "nasb:Luke:1:5",
+        "w": 17,
+        "l": {},
+        "t": "Gr Abia",
+        "a": "b"
+    },
+    {
+        "o": 27769,
+        "r": "nasb:Luke:1:5",
+        "w": 23,
+        "l": {},
+        "t": "I.e. of priestly descent",
+        "a": "c"
+    },
+    {
+        "o": 27803,
+        "r": "nasb:Luke:1:38",
+        "w": 4,
+        "l": {},
+        "t": "I.e. female slave",
+        "a": "d"
+    }
+]

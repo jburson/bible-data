@@ -1,0 +1,34 @@
+[
+    {
+        "o": 17601,
+        "r": "niv:Psalm:119:0",
+        "w": 0,
+        "l": {},
+        "t": "This psalm is an acrostic poem, the stanzas of which begin with successive letters of the Hebrew alphabet; moreover, the verses of each stanza begin with the same letter of the Hebrew alphabet.",
+        "a": "a"
+    },
+    {
+        "o": 17449,
+        "r": "niv:Psalm:119:33",
+        "w": 15,
+        "l": {},
+        "t": "119:33*r Or follow*i it*i for*i its*i reward*i",
+        "a": "b"
+    },
+    {
+        "o": 17453,
+        "r": "niv:Psalm:119:37",
+        "w": 13,
+        "l": {},
+        "t": "119:37*r Two manuscripts of the Masoretic Text and Dead Sea Scrolls; most manuscripts of the Masoretic Text life*i in*i your*i way*i",
+        "a": "c"
+    },
+    {
+        "o": 17537,
+        "r": "niv:Psalm:119:112",
+        "w": 11,
+        "l": {},
+        "t": "119:112*r Or decrees*i /*i for*i their*i enduring*i reward*i",
+        "a": "d"
+    }
+]

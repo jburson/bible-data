@@ -1,0 +1,378 @@
+[
+    {
+        "o": 31386,
+        "r": "esv:Romans:6:1",
+        "w": 4,
+        "l": {},
+        "c": "Romans 6:15*31401; Romans 3:8*31307",
+        "a": "a"
+    },
+    {
+        "o": 31387,
+        "r": "esv:Romans:6:2",
+        "w": 4,
+        "l": {},
+        "c": "Romans 6:11*31396; Romans 7:4*31415; Romans 7:6*31418; Galatians 2:19*32546; Colossians 2:20*33020; Colossians 3:3*33028; 1 Peter 2:24*34064",
+        "a": "b"
+    },
+    {
+        "o": 31388,
+        "r": "esv:Romans:6:3",
+        "w": 7,
+        "l": {},
+        "c": "Galatians 3:27*32579",
+        "a": "c"
+    },
+    {
+        "o": 31388,
+        "r": "esv:Romans:6:3",
+        "w": 11,
+        "l": {},
+        "c": "Matthew 28:19*27020",
+        "a": "d"
+    },
+    {
+        "o": 31389,
+        "r": "esv:Romans:6:4",
+        "w": 1,
+        "l": {},
+        "c": "Colossians 2:12*33011",
+        "a": "e"
+    },
+    {
+        "o": 31389,
+        "r": "esv:Romans:6:4",
+        "w": 14,
+        "l": {},
+        "c": "Romans 6:9*31394; Romans 8:11*31451; Acts 2:24*30167",
+        "a": "f"
+    },
+    {
+        "o": 31389,
+        "r": "esv:Romans:6:4",
+        "w": 21,
+        "l": {},
+        "c": "John 11:40*29697; 2 Corinthians 13:4*32484",
+        "a": "g"
+    },
+    {
+        "o": 31389,
+        "r": "esv:Romans:6:4",
+        "w": 31,
+        "l": {},
+        "c": "2 Corinthians 5:17*32311; Galatians 6:15*32663; Ephesians 4:23–24*32768; Colossians 3:10*33035; Romans 7:6*31418",
+        "a": "h"
+    },
+    {
+        "o": 31390,
+        "r": "esv:Romans:6:5",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 4:10*32283",
+        "a": "i"
+    },
+    {
+        "o": 31390,
+        "r": "esv:Romans:6:5",
+        "w": 8,
+        "l": {},
+        "c": "Philippians 3:10–11*32924; Colossians 2:12*33011; Colossians 3:1*33026",
+        "a": "j"
+    },
+    {
+        "o": 31391,
+        "r": "esv:Romans:6:6",
+        "w": 2,
+        "l": {},
+        "c": "Ephesians 4:22*32767; Colossians 3:9*33034",
+        "a": "k"
+    },
+    {
+        "o": 31391,
+        "r": "esv:Romans:6:6",
+        "w": 5,
+        "l": {},
+        "t": "Greek man*i",
+        "a": "l"
+    },
+    {
+        "o": 31391,
+        "r": "esv:Romans:6:6",
+        "w": 5,
+        "l": {},
+        "c": "Galatians 2:20*32547; Galatians 5:24*32643; Galatians 6:14*32662",
+        "a": "m"
+    },
+    {
+        "o": 31391,
+        "r": "esv:Romans:6:6",
+        "w": 12,
+        "l": {},
+        "c": "Romans 7:24*31436",
+        "a": "n"
+    },
+    {
+        "o": 31392,
+        "r": "esv:Romans:6:7",
+        "w": 0,
+        "l": {},
+        "c": "1 Peter 4:1*34093",
+        "a": "o"
+    },
+    {
+        "o": 31392,
+        "r": "esv:Romans:6:7",
+        "w": 4,
+        "l": {},
+        "c": "Romans 6:18*31404",
+        "a": "p"
+    },
+    {
+        "o": 31392,
+        "r": "esv:Romans:6:7",
+        "w": 8,
+        "l": {},
+        "t": "Greek has*i been*i justified*i",
+        "a": "q"
+    },
+    {
+        "o": 31393,
+        "r": "esv:Romans:6:8",
+        "w": 0,
+        "l": {},
+        "c": "2 Timothy 2:11*33399; 2 Corinthians 4:10*32283; 2 Corinthians 13:4*32484",
+        "a": "r"
+    },
+    {
+        "o": 31394,
+        "r": "esv:Romans:6:9",
+        "w": 2,
+        "l": {},
+        "c": "Acts 13:34*30636; Revelation 1:18*34410",
+        "a": "s"
+    },
+    {
+        "o": 31394,
+        "r": "esv:Romans:6:9",
+        "w": 12,
+        "l": {},
+        "c": "Romans 5:14*31376; Romans 5:17*31379",
+        "a": "t"
+    },
+    {
+        "o": 31395,
+        "r": "esv:Romans:6:10",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 7:27*33690",
+        "a": "u"
+    },
+    {
+        "o": 31396,
+        "r": "esv:Romans:6:11",
+        "w": 5,
+        "l": {},
+        "c": "Romans 6:2*31387",
+        "a": "v"
+    },
+    {
+        "o": 31397,
+        "r": "esv:Romans:6:12",
+        "w": 1,
+        "l": {},
+        "c": "Romans 6:14*31400; Psalm 19:13*15628; Psalm 119:133*17776; Micah 7:19*25234; 2 Corinthians 5:17*32311",
+        "a": "w"
+    },
+    {
+        "o": 31398,
+        "r": "esv:Romans:6:13",
+        "w": 0,
+        "l": {},
+        "c": "Romans 7:5*31416; Colossians 3:5*33030",
+        "a": "x"
+    },
+    {
+        "o": 31398,
+        "r": "esv:Romans:6:13",
+        "w": 11,
+        "l": {},
+        "c": "Romans 12:1*31583; 1 Peter 2:24*34064; 1 Peter 4:2*34094",
+        "a": "y"
+    },
+    {
+        "o": 31399,
+        "r": "esv:Romans:6:14",
+        "w": 0,
+        "l": {},
+        "c": "Romans 8:2*31441; Romans 8:12*31452",
+        "a": "z"
+    },
+    {
+        "o": 31399,
+        "r": "esv:Romans:6:14",
+        "w": 1,
+        "l": {},
+        "c": "Romans 6:12*31397",
+        "a": "a"
+    },
+    {
+        "o": 31401,
+        "r": "esv:Romans:6:15",
+        "w": 1,
+        "l": {},
+        "c": "Romans 6:1*31386",
+        "a": "b"
+    },
+    {
+        "o": 31401,
+        "r": "esv:Romans:6:15",
+        "w": 5,
+        "l": {},
+        "c": "1 Corinthians 9:21*31939",
+        "a": "c"
+    },
+    {
+        "o": 31402,
+        "r": "esv:Romans:6:16",
+        "w": 8,
+        "l": {},
+        "c": "Romans 6:20*31406; Matthew 6:24*25970; John 8:34*29537",
+        "a": "d"
+    },
+    {
+        "o": 31402,
+        "r": "esv:Romans:6:16",
+        "w": 13,
+        "l": {},
+        "t": "For the contextual rendering of the Greek word doulos*i , see Preface ; twice in this verse; also verses 17, 19 (twice), 20",
+        "a": "e"
+    },
+    {
+        "o": 31403,
+        "r": "esv:Romans:6:17",
+        "w": 0,
+        "l": {},
+        "c": "Romans 1:8*31238",
+        "a": "f"
+    },
+    {
+        "o": 31403,
+        "r": "esv:Romans:6:17",
+        "w": 20,
+        "l": {},
+        "c": "2 Timothy 1:13*33381",
+        "a": "g"
+    },
+    {
+        "o": 31404,
+        "r": "esv:Romans:6:18",
+        "w": 0,
+        "l": {},
+        "c": "Romans 6:22*31408; Romans 8:2*31441; Romans 6:7*31392; John 8:32*29535",
+        "a": "h"
+    },
+    {
+        "o": 31404,
+        "r": "esv:Romans:6:18",
+        "w": 6,
+        "l": {},
+        "c": "Romans 6:22*31408",
+        "a": "i"
+    },
+    {
+        "o": 31405,
+        "r": "esv:Romans:6:19",
+        "w": 0,
+        "l": {},
+        "c": "Romans 3:5*31303",
+        "a": "j"
+    },
+    {
+        "o": 31405,
+        "r": "esv:Romans:6:19",
+        "w": 11,
+        "l": {},
+        "c": "Romans 6:13*31398",
+        "a": "k"
+    },
+    {
+        "o": 31405,
+        "r": "esv:Romans:6:19",
+        "w": 34,
+        "l": {},
+        "c": "1 Corinthians 9:27*31945",
+        "a": "l"
+    },
+    {
+        "o": 31406,
+        "r": "esv:Romans:6:20",
+        "w": 0,
+        "l": {},
+        "c": "Romans 6:16*31402",
+        "a": "m"
+    },
+    {
+        "o": 31407,
+        "r": "esv:Romans:6:21",
+        "w": 0,
+        "l": {},
+        "c": "Romans 7:5*31416; Jeremiah 12:13*21432",
+        "a": "n"
+    },
+    {
+        "o": 31407,
+        "r": "esv:Romans:6:21",
+        "w": 11,
+        "l": {},
+        "c": "2 Corinthians 4:2*32274",
+        "a": "o"
+    },
+    {
+        "o": 31407,
+        "r": "esv:Romans:6:21",
+        "w": 17,
+        "l": {},
+        "c": "Romans 1:32*31264; Romans 8:6*31445; Romans 8:13*31453; Proverbs 14:12*18648; Galatians 6:8*32655",
+        "a": "p"
+    },
+    {
+        "o": 31408,
+        "r": "esv:Romans:6:22",
+        "w": 3,
+        "l": {},
+        "c": "Romans 6:18*31404",
+        "a": "q"
+    },
+    {
+        "o": 31408,
+        "r": "esv:Romans:6:22",
+        "w": 10,
+        "l": {},
+        "c": "1 Corinthians 7:22*31882; 1 Peter 2:16*34056",
+        "a": "r"
+    },
+    {
+        "o": 31408,
+        "r": "esv:Romans:6:22",
+        "w": 15,
+        "l": {},
+        "c": "Romans 7:4*31415",
+        "a": "s"
+    },
+    {
+        "o": 31408,
+        "r": "esv:Romans:6:22",
+        "w": 23,
+        "l": {},
+        "c": "1 Peter 1:9*34020",
+        "a": "t"
+    },
+    {
+        "o": 31409,
+        "r": "esv:Romans:6:23",
+        "w": 0,
+        "l": {},
+        "c": "Romans 2:7*31273; Romans 5:12*31374",
+        "a": "u"
+    }
+]

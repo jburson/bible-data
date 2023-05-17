@@ -1,0 +1,26 @@
+[
+    {
+        "o": 23905,
+        "r": "niv:Daniel:2:2",
+        "w": 9,
+        "l": {},
+        "t": "2:2*r Or Chaldeans*i ; also in verses 4, 5 and 10",
+        "a": "a"
+    },
+    {
+        "o": 23906,
+        "r": "niv:Daniel:2:3",
+        "w": 19,
+        "l": {},
+        "t": "2:3*r Or was*i",
+        "a": "b"
+    },
+    {
+        "o": 23907,
+        "r": "niv:Daniel:2:4",
+        "w": 5,
+        "l": {},
+        "t": "2:4*r At this point the Hebrew text has in*i Aramaic*i , indicating that the text from here through the end of chapter 7 is in Aramaic.",
+        "a": "c"
+    }
+]

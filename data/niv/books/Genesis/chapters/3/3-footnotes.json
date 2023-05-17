@@ -1,0 +1,42 @@
+[
+    {
+        "o": 77,
+        "r": "niv:Genesis:3:15",
+        "w": 13,
+        "l": {},
+        "t": "3:15*r Or seed*i",
+        "a": "a"
+    },
+    {
+        "o": 77,
+        "r": "niv:Genesis:3:15",
+        "w": 18,
+        "l": {},
+        "t": "3:15*r Or strike*i",
+        "a": "b"
+    },
+    {
+        "o": 82,
+        "r": "niv:Genesis:3:20",
+        "w": 0,
+        "l": {},
+        "t": "3:20*r Or The*i man*i",
+        "a": "c"
+    },
+    {
+        "o": 82,
+        "r": "niv:Genesis:3:20",
+        "w": 4,
+        "l": {},
+        "t": "3:20*r Eve*i probably means living.*i",
+        "a": "d"
+    },
+    {
+        "o": 86,
+        "r": "niv:Genesis:3:24",
+        "w": 11,
+        "l": {},
+        "t": "3:24*r Or placed*i in*i front*i",
+        "a": "e"
+    }
+]

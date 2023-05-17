@@ -1,0 +1,26 @@
+[
+    {
+        "o": 29068,
+        "r": "niv:John:7:1",
+        "w": 10,
+        "l": {},
+        "t": "7:1*r Some manuscripts not*i have*i authority*i",
+        "a": "a"
+    },
+    {
+        "o": 29075,
+        "r": "niv:John:7:8",
+        "w": 7,
+        "l": {},
+        "t": "7:8*r Some manuscripts not*i yet*i",
+        "a": "b"
+    },
+    {
+        "o": 29107,
+        "r": "niv:John:7:38",
+        "w": 16,
+        "l": {},
+        "t": "7:37,38*r Or me.*i And*i let*i anyone*i drink*i who*i believes*i in*i me.”*i As*i Scripture*i has*i said,*i “Out*i of*i him*i (or them*i ) will*i flow*i rivers*i of*i living*i water.”*i",
+        "a": "c"
+    }
+]

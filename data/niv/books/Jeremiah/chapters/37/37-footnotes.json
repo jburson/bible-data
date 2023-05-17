@@ -1,0 +1,26 @@
+[
+    {
+        "o": 21855,
+        "r": "niv:Jeremiah:37:1",
+        "w": 19,
+        "l": {},
+        "t": "37:1*r Hebrew Koniah,*i a variant of Jehoiachin*i",
+        "a": "a"
+    },
+    {
+        "o": 21859,
+        "r": "niv:Jeremiah:37:5",
+        "w": 10,
+        "l": {},
+        "t": "37:5*r Or Chaldeans*i ; also in verses 8, 9, 13 and 14",
+        "a": "b"
+    },
+    {
+        "o": 21864,
+        "r": "niv:Jeremiah:37:10",
+        "w": 8,
+        "l": {},
+        "t": "37:10*r Or Chaldean*i ; also in verse 11",
+        "a": "c"
+    }
+]

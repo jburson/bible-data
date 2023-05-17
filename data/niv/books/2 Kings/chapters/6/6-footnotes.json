@@ -1,0 +1,34 @@
+[
+    {
+        "o": 10587,
+        "r": "niv:2 Kings:6:25",
+        "w": 20,
+        "l": {},
+        "t": "6:25*r That is, about 2 pounds or about 920 grams",
+        "a": "a"
+    },
+    {
+        "o": 10587,
+        "r": "niv:2 Kings:6:25",
+        "w": 28,
+        "l": {},
+        "t": "6:25*r That is, probably about 1/4 pound or about 100 grams",
+        "a": "b"
+    },
+    {
+        "o": 10587,
+        "r": "niv:2 Kings:6:25",
+        "w": 31,
+        "l": {},
+        "t": "6:25*r Or of*i doves’*i dung*i",
+        "a": "c"
+    },
+    {
+        "o": 10587,
+        "r": "niv:2 Kings:6:25",
+        "w": 34,
+        "l": {},
+        "t": "6:25*r That is, about 2 ounces or about 58 grams",
+        "a": "d"
+    }
+]

@@ -1,0 +1,506 @@
+[
+    {
+        "o": 32881,
+        "r": "esv:Philippians:2:1",
+        "w": 10,
+        "l": {},
+        "c": "Romans 15:30*31683; 2 Thessalonians 2:16*33210",
+        "a": "a"
+    },
+    {
+        "o": 32881,
+        "r": "esv:Philippians:2:1",
+        "w": 12,
+        "l": {},
+        "c": "2 Corinthians 13:14*32495",
+        "a": "b"
+    },
+    {
+        "o": 32881,
+        "r": "esv:Philippians:2:1",
+        "w": 17,
+        "l": {},
+        "c": "Colossians 3:12*33037",
+        "a": "c"
+    },
+    {
+        "o": 32882,
+        "r": "esv:Philippians:2:2",
+        "w": 0,
+        "l": {},
+        "c": "John 3:29*29248; John 15:11*29864",
+        "a": "d"
+    },
+    {
+        "o": 32882,
+        "r": "esv:Philippians:2:2",
+        "w": 4,
+        "l": {},
+        "c": "Romans 12:16*31600",
+        "a": "e"
+    },
+    {
+        "o": 32883,
+        "r": "esv:Philippians:2:3",
+        "w": 2,
+        "l": {},
+        "c": "Philippians 1:17*32863",
+        "a": "f"
+    },
+    {
+        "o": 32883,
+        "r": "esv:Philippians:2:3",
+        "w": 5,
+        "l": {},
+        "c": "Galatians 5:26*32645",
+        "a": "g"
+    },
+    {
+        "o": 32883,
+        "r": "esv:Philippians:2:3",
+        "w": 8,
+        "l": {},
+        "c": "Ephesians 5:21*32801; Romans 12:10*31594; Ephesians 4:2*32746",
+        "a": "h"
+    },
+    {
+        "o": 32884,
+        "r": "esv:Philippians:2:4",
+        "w": 3,
+        "l": {},
+        "c": "Romans 15:2*31652",
+        "a": "i"
+    },
+    {
+        "o": 32885,
+        "r": "esv:Philippians:2:5",
+        "w": 0,
+        "l": {},
+        "c": "Romans 15:3*31653; Matthew 11:29*26186",
+        "a": "j"
+    },
+    {
+        "o": 32885,
+        "r": "esv:Philippians:2:5",
+        "w": 10,
+        "l": {},
+        "t": "Or which*i was*i also*i in*i Christ*i Jesus*i",
+        "a": "k"
+    },
+    {
+        "o": 32886,
+        "r": "esv:Philippians:2:6",
+        "w": 0,
+        "l": {},
+        "c": "John 1:1*29132",
+        "a": "l"
+    },
+    {
+        "o": 32886,
+        "r": "esv:Philippians:2:6",
+        "w": 4,
+        "l": {},
+        "c": "2 Corinthians 4:4*32276",
+        "a": "m"
+    },
+    {
+        "o": 32886,
+        "r": "esv:Philippians:2:6",
+        "w": 14,
+        "l": {},
+        "c": "John 5:18*29333; John 10:33*29643; John 14:28*29848",
+        "a": "n"
+    },
+    {
+        "o": 32886,
+        "r": "esv:Philippians:2:6",
+        "w": 19,
+        "l": {},
+        "t": "Or a*i thing*i to*i be*i held*i on*i to*i for*i advantage*i",
+        "a": "o"
+    },
+    {
+        "o": 32887,
+        "r": "esv:Philippians:2:7",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 8:9*32364; 2 Corinthians 13:4*32484; Mark 9:12*27407",
+        "a": "p"
+    },
+    {
+        "o": 32887,
+        "r": "esv:Philippians:2:7",
+        "w": 8,
+        "l": {},
+        "c": "Isaiah 42:1*20560; Matthew 20:28*26574",
+        "a": "q"
+    },
+    {
+        "o": 32887,
+        "r": "esv:Philippians:2:7",
+        "w": 9,
+        "l": {},
+        "t": "Or slave*i (for the contextual rendering of the Greek word doulos*i , see Preface )",
+        "a": "r"
+    },
+    {
+        "o": 32887,
+        "r": "esv:Philippians:2:7",
+        "w": 9,
+        "l": {},
+        "c": "Romans 8:3*31442; Galatians 4:4*32587; John 1:14*29145",
+        "a": "s"
+    },
+    {
+        "o": 32888,
+        "r": "esv:Philippians:2:8",
+        "w": 9,
+        "l": {},
+        "c": "Hebrews 5:8*33631; Matthew 26:39*26881; John 10:18*29627; Romans 5:19*31381",
+        "a": "t"
+    },
+    {
+        "o": 32888,
+        "r": "esv:Philippians:2:8",
+        "w": 16,
+        "l": {},
+        "c": "Hebrews 12:2*33826",
+        "a": "u"
+    },
+    {
+        "o": 32889,
+        "r": "esv:Philippians:2:9",
+        "w": 0,
+        "l": {},
+        "c": "John 10:17*29626; Isaiah 52:13*20817; Isaiah 53:12*20832; Hebrews 2:9*33573",
+        "a": "v"
+    },
+    {
+        "o": 32889,
+        "r": "esv:Philippians:2:9",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 28:18*27019",
+        "a": "w"
+    },
+    {
+        "o": 32889,
+        "r": "esv:Philippians:2:9",
+        "w": 2,
+        "l": {},
+        "c": "Acts 2:33*30176",
+        "a": "x"
+    },
+    {
+        "o": 32889,
+        "r": "esv:Philippians:2:9",
+        "w": 9,
+        "l": {},
+        "c": "Ephesians 1:21*32691; Hebrews 1:4*33551; Acts 5:41*30306",
+        "a": "y"
+    },
+    {
+        "o": 32890,
+        "r": "esv:Philippians:2:10",
+        "w": 6,
+        "l": {},
+        "c": "Isaiah 45:23*20675; Romans 14:11*31635",
+        "a": "z"
+    },
+    {
+        "o": 32890,
+        "r": "esv:Philippians:2:10",
+        "w": 10,
+        "l": {},
+        "c": "Revelation 5:3*34490; Revelation 5:13*34500; Ephesians 1:10*32679",
+        "a": "a"
+    },
+    {
+        "o": 32891,
+        "r": "esv:Philippians:2:11",
+        "w": 0,
+        "l": {},
+        "c": "Romans 10:9*31528; 1 Corinthians 12:3*32023",
+        "a": "b"
+    },
+    {
+        "o": 32891,
+        "r": "esv:Philippians:2:11",
+        "w": 7,
+        "l": {},
+        "c": "Romans 14:9*31633; John 13:13*29789",
+        "a": "c"
+    },
+    {
+        "o": 32893,
+        "r": "esv:Philippians:2:12",
+        "w": 2,
+        "l": {},
+        "c": "Philippians 1:5*32850; Philippians 4:15*32954",
+        "a": "d"
+    },
+    {
+        "o": 32893,
+        "r": "esv:Philippians:2:12",
+        "w": 6,
+        "l": {},
+        "c": "Hebrews 5:9*33632; 2 Corinthians 10:5*32405; 1 Peter 1:2*34013",
+        "a": "e"
+    },
+    {
+        "o": 32894,
+        "r": "esv:Philippians:2:13",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 12:6*32026; Hebrews 13:21*33879; 1 Corinthians 15:10*32122",
+        "a": "f"
+    },
+    {
+        "o": 32894,
+        "r": "esv:Philippians:2:13",
+        "w": 14,
+        "l": {},
+        "c": "1 Timothy 2:4*33263",
+        "a": "g"
+    },
+    {
+        "o": 32895,
+        "r": "esv:Philippians:2:14",
+        "w": 2,
+        "l": {},
+        "c": "1 Peter 4:9*34101",
+        "a": "h"
+    },
+    {
+        "o": 32895,
+        "r": "esv:Philippians:2:14",
+        "w": 5,
+        "l": {},
+        "c": "1 Timothy 2:8*33267",
+        "a": "i"
+    },
+    {
+        "o": 32896,
+        "r": "esv:Philippians:2:15",
+        "w": 6,
+        "l": {},
+        "c": "Matthew 5:45*25937; Ephesians 5:1*32780",
+        "a": "j"
+    },
+    {
+        "o": 32896,
+        "r": "esv:Philippians:2:15",
+        "w": 9,
+        "l": {},
+        "c": "Jude 24*34387",
+        "a": "k"
+    },
+    {
+        "o": 32896,
+        "r": "esv:Philippians:2:15",
+        "w": 11,
+        "l": {},
+        "c": "1 Peter 2:12*34052",
+        "a": "l"
+    },
+    {
+        "o": 32896,
+        "r": "esv:Philippians:2:15",
+        "w": 15,
+        "l": {},
+        "c": "Deuteronomy 32:5*6298",
+        "a": "m"
+    },
+    {
+        "o": 32896,
+        "r": "esv:Philippians:2:15",
+        "w": 24,
+        "l": {},
+        "c": "Matthew 5:14*25899; Matthew 5:16*25902; Titus 2:10*33492",
+        "a": "n"
+    },
+    {
+        "o": 32897,
+        "r": "esv:Philippians:2:16",
+        "w": 2,
+        "l": {},
+        "c": "Acts 5:20*30285",
+        "a": "o"
+    },
+    {
+        "o": 32897,
+        "r": "esv:Philippians:2:16",
+        "w": 9,
+        "l": {},
+        "c": "1 Corinthians 1:8*31727",
+        "a": "p"
+    },
+    {
+        "o": 32897,
+        "r": "esv:Philippians:2:16",
+        "w": 13,
+        "l": {},
+        "c": "2 Corinthians 1:14*32220",
+        "a": "q"
+    },
+    {
+        "o": 32897,
+        "r": "esv:Philippians:2:16",
+        "w": 18,
+        "l": {},
+        "c": "Galatians 2:2*32527; 1 Thessalonians 3:5*33115; Galatians 4:11*32595",
+        "a": "r"
+    },
+    {
+        "o": 32898,
+        "r": "esv:Philippians:2:17",
+        "w": 5,
+        "l": {},
+        "c": "1 John 3:16*34265; 2 Corinthians 12:15*32472",
+        "a": "s"
+    },
+    {
+        "o": 32898,
+        "r": "esv:Philippians:2:17",
+        "w": 12,
+        "l": {},
+        "c": "Romans 15:16*31668",
+        "a": "t"
+    },
+    {
+        "o": 32901,
+        "r": "esv:Philippians:2:19",
+        "w": 5,
+        "l": {},
+        "c": "1 Corinthians 4:17*31815; 1 Thessalonians 3:2*33111",
+        "a": "u"
+    },
+    {
+        "o": 32902,
+        "r": "esv:Philippians:2:20",
+        "w": 4,
+        "l": {},
+        "c": "1 Corinthians 16:10*32186",
+        "a": "v"
+    },
+    {
+        "o": 32903,
+        "r": "esv:Philippians:2:21",
+        "w": 2,
+        "l": {},
+        "c": "2 Timothy 3:2*33419; 1 Corinthians 10:24*31972",
+        "a": "w"
+    },
+    {
+        "o": 32904,
+        "r": "esv:Philippians:2:22",
+        "w": 3,
+        "l": {},
+        "t": "Greek his*i",
+        "a": "x"
+    },
+    {
+        "o": 32904,
+        "r": "esv:Philippians:2:22",
+        "w": 3,
+        "l": {},
+        "c": "2 Corinthians 2:9*32241",
+        "a": "y"
+    },
+    {
+        "o": 32904,
+        "r": "esv:Philippians:2:22",
+        "w": 6,
+        "l": {},
+        "c": "1 Corinthians 4:17*31815; 1 Timothy 1:2*33238; 2 Timothy 1:2*33370",
+        "a": "z"
+    },
+    {
+        "o": 32904,
+        "r": "esv:Philippians:2:22",
+        "w": 9,
+        "l": {},
+        "t": "Greek child*i",
+        "a": "a"
+    },
+    {
+        "o": 32904,
+        "r": "esv:Philippians:2:22",
+        "w": 12,
+        "l": {},
+        "c": "2 Timothy 3:10*33428",
+        "a": "b"
+    },
+    {
+        "o": 32906,
+        "r": "esv:Philippians:2:24",
+        "w": 0,
+        "l": {},
+        "c": "Philippians 1:25*32873; Philemon 22*33542",
+        "a": "c"
+    },
+    {
+        "o": 32907,
+        "r": "esv:Philippians:2:25",
+        "w": 8,
+        "l": {},
+        "c": "Philippians 4:18*32957",
+        "a": "d"
+    },
+    {
+        "o": 32907,
+        "r": "esv:Philippians:2:25",
+        "w": 15,
+        "l": {},
+        "c": "Philemon 2*33519",
+        "a": "e"
+    },
+    {
+        "o": 32907,
+        "r": "esv:Philippians:2:25",
+        "w": 21,
+        "l": {},
+        "c": "Philippians 4:18*32957",
+        "a": "f"
+    },
+    {
+        "o": 32911,
+        "r": "esv:Philippians:2:29",
+        "w": 0,
+        "l": {},
+        "c": "Romans 16:2*31690",
+        "a": "g"
+    },
+    {
+        "o": 32911,
+        "r": "esv:Philippians:2:29",
+        "w": 9,
+        "l": {},
+        "c": "1 Corinthians 16:18*32196; 1 Thessalonians 5:12–13*33159; 1 Timothy 5:17*33332",
+        "a": "h"
+    },
+    {
+        "o": 32912,
+        "r": "esv:Philippians:2:30",
+        "w": 3,
+        "l": {},
+        "t": "Or he*i drew*i near*i to*i the*i point*i of*i death*i ; compare verse 8",
+        "a": "i"
+    },
+    {
+        "o": 32912,
+        "r": "esv:Philippians:2:30",
+        "w": 3,
+        "l": {},
+        "c": "Acts 20:24*30921",
+        "a": "j"
+    },
+    {
+        "o": 32912,
+        "r": "esv:Philippians:2:30",
+        "w": 11,
+        "l": {},
+        "c": "Philippians 4:10*32949; 1 Corinthians 16:17*32194",
+        "a": "k"
+    }
+]

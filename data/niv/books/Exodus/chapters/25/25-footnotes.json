@@ -1,0 +1,50 @@
+[
+    {
+        "o": 2395,
+        "r": "niv:Exodus:25:5",
+        "w": 9,
+        "l": {},
+        "t": "25:5*r Possibly the hides of large aquatic mammals",
+        "a": "a"
+    },
+    {
+        "o": 2401,
+        "r": "niv:Exodus:25:10",
+        "w": 4,
+        "l": {},
+        "t": "25:10*r That is, a chest",
+        "a": "b"
+    },
+    {
+        "o": 2401,
+        "r": "niv:Exodus:25:10",
+        "w": 25,
+        "l": {},
+        "t": "25:10*r That is, about 3 3/4 feet long and 2 1/4 feet wide and high or about 1.1 meters long and 68 centimeters wide and high; similarly in verse 17",
+        "a": "c"
+    },
+    {
+        "o": 2415,
+        "r": "niv:Exodus:25:23",
+        "w": 17,
+        "l": {},
+        "t": "25:23*r That is, about 3 feet long, 1 1/2 feet wide and 2 1/4 feet high or about 90 centimeters long, 45 centimeters wide and 68 centimeters high",
+        "a": "d"
+    },
+    {
+        "o": 2417,
+        "r": "niv:Exodus:25:25",
+        "w": 7,
+        "l": {},
+        "t": "25:25*r That is, about 3 inches or about 7.5 centimeters",
+        "a": "e"
+    },
+    {
+        "o": 2432,
+        "r": "niv:Exodus:25:39",
+        "w": 1,
+        "l": {},
+        "t": "25:39*r That is, about 75 pounds or about 34 kilograms",
+        "a": "f"
+    }
+]

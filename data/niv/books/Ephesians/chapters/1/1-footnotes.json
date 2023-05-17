@@ -1,0 +1,50 @@
+[
+    {
+        "o": 32263,
+        "r": "niv:Ephesians:1:1",
+        "w": 16,
+        "l": {},
+        "t": "1:1*r Some early manuscripts do not have in*i Ephesus*i .",
+        "a": "a"
+    },
+    {
+        "o": 32268,
+        "r": "niv:Ephesians:1:5",
+        "w": 0,
+        "l": {},
+        "t": "1:4,5*r Or sight*i in*i love.*i He*i",
+        "a": "b"
+    },
+    {
+        "o": 32268,
+        "r": "niv:Ephesians:1:5",
+        "w": 6,
+        "l": {},
+        "t": "1:5*r The Greek word for adoption*i to*i sonship*i is a legal term referring to the full legal standing of an adopted male heir in Roman culture.",
+        "a": "c"
+    },
+    {
+        "o": 32272,
+        "r": "niv:Ephesians:1:9",
+        "w": 0,
+        "l": {},
+        "t": "1:8,9*r Or us*i with*i all*i wisdom*i and*i understanding.*i And*i he*i",
+        "a": "d"
+    },
+    {
+        "o": 32274,
+        "r": "niv:Ephesians:1:11",
+        "w": 5,
+        "l": {},
+        "t": "1:11*r Or were*i made*i heirs*i",
+        "a": "e"
+    },
+    {
+        "o": 32281,
+        "r": "niv:Ephesians:1:17",
+        "w": 18,
+        "l": {},
+        "t": "1:17*r Or a*i spirit*i",
+        "a": "f"
+    }
+]

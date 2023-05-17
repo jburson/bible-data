@@ -1,0 +1,610 @@
+[
+    {
+        "o": 22881,
+        "r": "esv:Ezekiel:7:2",
+        "w": 1,
+        "l": {},
+        "c": "Ezekiel 2:1*22785",
+        "a": "a"
+    },
+    {
+        "o": 22881,
+        "r": "esv:Ezekiel:7:2",
+        "w": 15,
+        "l": {},
+        "c": "Lamentations 4:18*22723; Isaiah 10:23*19876",
+        "a": "b"
+    },
+    {
+        "o": 22881,
+        "r": "esv:Ezekiel:7:2",
+        "w": 28,
+        "l": {},
+        "t": "Or earth*i",
+        "a": "c"
+    },
+    {
+        "o": 22882,
+        "r": "esv:Ezekiel:7:3",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 7:2*22881",
+        "a": "d"
+    },
+    {
+        "o": 22882,
+        "r": "esv:Ezekiel:7:3",
+        "w": 6,
+        "l": {},
+        "c": "Ezekiel 7:8*22887",
+        "a": "e"
+    },
+    {
+        "o": 22882,
+        "r": "esv:Ezekiel:7:3",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 18:30*23206",
+        "a": "f"
+    },
+    {
+        "o": 22883,
+        "r": "esv:Ezekiel:7:4",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 5:11*22855",
+        "a": "g"
+    },
+    {
+        "o": 22883,
+        "r": "esv:Ezekiel:7:4",
+        "w": 12,
+        "l": {},
+        "c": "Ezekiel 9:10*22938; Ezekiel 11:21*22987; Ezekiel 16:43*23127; Ezekiel 22:31*23343",
+        "a": "h"
+    },
+    {
+        "o": 22883,
+        "r": "esv:Ezekiel:7:4",
+        "w": 26,
+        "l": {},
+        "c": "Ezekiel 6:7*22870",
+        "a": "i"
+    },
+    {
+        "o": 22884,
+        "r": "esv:Ezekiel:7:5",
+        "w": 5,
+        "l": {},
+        "c": "Ezekiel 5:9*22853",
+        "a": "j"
+    },
+    {
+        "o": 22884,
+        "r": "esv:Ezekiel:7:5",
+        "w": 7,
+        "l": {},
+        "t": "Some Hebrew manuscripts (compare Syriac, Targum); most Hebrew manuscripts Disaster!*i A*i unique*i disaster!*i",
+        "a": "k"
+    },
+    {
+        "o": 22885,
+        "r": "esv:Ezekiel:7:6",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 7:2*22881",
+        "a": "l"
+    },
+    {
+        "o": 22886,
+        "r": "esv:Ezekiel:7:7",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 7:10*22889",
+        "a": "m"
+    },
+    {
+        "o": 22886,
+        "r": "esv:Ezekiel:7:7",
+        "w": 1,
+        "l": {},
+        "t": "The meaning of the Hebrew word is uncertain; also verse 10",
+        "a": "n"
+    },
+    {
+        "o": 22886,
+        "r": "esv:Ezekiel:7:7",
+        "w": 10,
+        "l": {},
+        "c": "Zephaniah 1:14–15*25371; Ezekiel 12:23*23016",
+        "a": "o"
+    },
+    {
+        "o": 22886,
+        "r": "esv:Ezekiel:7:7",
+        "w": 24,
+        "l": {},
+        "c": "Jeremiah 25:30*21770",
+        "a": "p"
+    },
+    {
+        "o": 22887,
+        "r": "esv:Ezekiel:7:8",
+        "w": 3,
+        "l": {},
+        "c": "Ezekiel 9:8*22936; Ezekiel 14:19*23068; Ezekiel 20:8*23234; Ezekiel 20:13*23239; Ezekiel 20:21*23247; Ezekiel 20:33–34*23260; Ezekiel 22:22*23334; Ezekiel 36:18*23754",
+        "a": "q"
+    },
+    {
+        "o": 22887,
+        "r": "esv:Ezekiel:7:8",
+        "w": 10,
+        "l": {},
+        "c": "Ezekiel 5:13*22857",
+        "a": "r"
+    },
+    {
+        "o": 22887,
+        "r": "esv:Ezekiel:7:8",
+        "w": 15,
+        "l": {},
+        "c": "Ezekiel 7:3*22882",
+        "a": "s"
+    },
+    {
+        "o": 22888,
+        "r": "esv:Ezekiel:7:9",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 7:4*22883",
+        "a": "t"
+    },
+    {
+        "o": 22888,
+        "r": "esv:Ezekiel:7:9",
+        "w": 25,
+        "l": {},
+        "c": "Ezekiel 6:7*22870",
+        "a": "u"
+    },
+    {
+        "o": 22889,
+        "r": "esv:Ezekiel:7:10",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 7:2*22881",
+        "a": "v"
+    },
+    {
+        "o": 22889,
+        "r": "esv:Ezekiel:7:10",
+        "w": 5,
+        "l": {},
+        "c": "Ezekiel 7:7*22886",
+        "a": "w"
+    },
+    {
+        "o": 22889,
+        "r": "esv:Ezekiel:7:10",
+        "w": 9,
+        "l": {},
+        "c": "Isaiah 10:5*19857; Isaiah 14:5*19945",
+        "a": "x"
+    },
+    {
+        "o": 22890,
+        "r": "esv:Ezekiel:7:11",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 7:23*22902",
+        "a": "y"
+    },
+    {
+        "o": 22890,
+        "r": "esv:Ezekiel:7:11",
+        "w": 4,
+        "l": {},
+        "c": "Ezekiel 7:10*22889",
+        "a": "z"
+    },
+    {
+        "o": 22890,
+        "r": "esv:Ezekiel:7:11",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 17:13*23163",
+        "a": "a"
+    },
+    {
+        "o": 22890,
+        "r": "esv:Ezekiel:7:11",
+        "w": 26,
+        "l": {},
+        "t": "The meaning of this last Hebrew sentence is uncertain",
+        "a": "b"
+    },
+    {
+        "o": 22891,
+        "r": "esv:Ezekiel:7:12",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 7:7*22886",
+        "a": "c"
+    },
+    {
+        "o": 22891,
+        "r": "esv:Ezekiel:7:12",
+        "w": 9,
+        "l": {},
+        "c": "Isaiah 24:2*20131; 1 Corinthians 7:29–30*31890",
+        "a": "d"
+    },
+    {
+        "o": 22891,
+        "r": "esv:Ezekiel:7:12",
+        "w": 13,
+        "l": {},
+        "c": "Isaiah 24:2*20131; 1 Corinthians 7:29–30*31890",
+        "a": "e"
+    },
+    {
+        "o": 22891,
+        "r": "esv:Ezekiel:7:12",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 7:14*22893",
+        "a": "f"
+    },
+    {
+        "o": 22891,
+        "r": "esv:Ezekiel:7:12",
+        "w": 23,
+        "l": {},
+        "t": "Or abundance*i ; also verses 13, 14",
+        "a": "g"
+    },
+    {
+        "o": 22892,
+        "r": "esv:Ezekiel:7:13",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 25:13–14*3796",
+        "a": "h"
+    },
+    {
+        "o": 22892,
+        "r": "esv:Ezekiel:7:13",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 9:8–10*22936",
+        "a": "i"
+    },
+    {
+        "o": 22892,
+        "r": "esv:Ezekiel:7:13",
+        "w": 35,
+        "l": {},
+        "t": "The meaning of this last Hebrew sentence is uncertain",
+        "a": "j"
+    },
+    {
+        "o": 22893,
+        "r": "esv:Ezekiel:7:14",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 7:12*22891",
+        "a": "k"
+    },
+    {
+        "o": 22894,
+        "r": "esv:Ezekiel:7:15",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 6:12*22875; Lamentations 1:20*22609",
+        "a": "l"
+    },
+    {
+        "o": 22894,
+        "r": "esv:Ezekiel:7:15",
+        "w": 8,
+        "l": {},
+        "c": "Jeremiah 14:18*21488",
+        "a": "m"
+    },
+    {
+        "o": 22894,
+        "r": "esv:Ezekiel:7:15",
+        "w": 18,
+        "l": {},
+        "c": "Jeremiah 14:18*21488",
+        "a": "n"
+    },
+    {
+        "o": 22895,
+        "r": "esv:Ezekiel:7:16",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 6:8*22871",
+        "a": "o"
+    },
+    {
+        "o": 22895,
+        "r": "esv:Ezekiel:7:16",
+        "w": 11,
+        "l": {},
+        "c": "Isaiah 38:14*20472",
+        "a": "p"
+    },
+    {
+        "o": 22896,
+        "r": "esv:Ezekiel:7:17",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 21:7*23285; Isaiah 13:7*19922; Jeremiah 6:24*21269",
+        "a": "q"
+    },
+    {
+        "o": 22897,
+        "r": "esv:Ezekiel:7:18",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 15:2–3*19978; Lamentations 2:10*22623",
+        "a": "r"
+    },
+    {
+        "o": 22897,
+        "r": "esv:Ezekiel:7:18",
+        "w": 4,
+        "l": {},
+        "c": "Psalm 55:5*16291",
+        "a": "s"
+    },
+    {
+        "o": 22897,
+        "r": "esv:Ezekiel:7:18",
+        "w": 13,
+        "l": {},
+        "c": "Isaiah 3:24*19714",
+        "a": "t"
+    },
+    {
+        "o": 22898,
+        "r": "esv:Ezekiel:7:19",
+        "w": 14,
+        "l": {},
+        "c": "Proverbs 11:4*18553; Zephaniah 1:18*25375",
+        "a": "u"
+    },
+    {
+        "o": 22898,
+        "r": "esv:Ezekiel:7:19",
+        "w": 44,
+        "l": {},
+        "c": "1 Timothy 6:10*33354",
+        "a": "v"
+    },
+    {
+        "o": 22898,
+        "r": "esv:Ezekiel:7:19",
+        "w": 47,
+        "l": {},
+        "c": "Ezekiel 14:3–4*23051; Ezekiel 14:7*23055; Ezekiel 44:12*24014",
+        "a": "w"
+    },
+    {
+        "o": 22899,
+        "r": "esv:Ezekiel:7:20",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 64:11*21031",
+        "a": "x"
+    },
+    {
+        "o": 22899,
+        "r": "esv:Ezekiel:7:20",
+        "w": 7,
+        "l": {},
+        "c": "Ezekiel 16:17*23101; Ezekiel 8:5–16*22913",
+        "a": "y"
+    },
+    {
+        "o": 22899,
+        "r": "esv:Ezekiel:7:20",
+        "w": 19,
+        "l": {},
+        "c": "Ezekiel 9:7*22935; Ezekiel 24:21*23418; Ezekiel 25:3*23429",
+        "a": "z"
+    },
+    {
+        "o": 22900,
+        "r": "esv:Ezekiel:7:21",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 28:7*23516",
+        "a": "a"
+    },
+    {
+        "o": 22900,
+        "r": "esv:Ezekiel:7:21",
+        "w": 11,
+        "l": {},
+        "c": "Ezekiel 7:24*22903; Ezekiel 23:46*23391",
+        "a": "b"
+    },
+    {
+        "o": 22900,
+        "r": "esv:Ezekiel:7:21",
+        "w": 21,
+        "l": {},
+        "c": "Ezekiel 7:20*22899",
+        "a": "c"
+    },
+    {
+        "o": 22901,
+        "r": "esv:Ezekiel:7:22",
+        "w": 7,
+        "l": {},
+        "c": "Ezekiel 7:20*22899",
+        "a": "d"
+    },
+    {
+        "o": 22901,
+        "r": "esv:Ezekiel:7:22",
+        "w": 12,
+        "l": {},
+        "t": "Or secret*i",
+        "a": "e"
+    },
+    {
+        "o": 22901,
+        "r": "esv:Ezekiel:7:22",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 7:20*22899",
+        "a": "f"
+    },
+    {
+        "o": 22902,
+        "r": "esv:Ezekiel:7:23",
+        "w": 0,
+        "l": {},
+        "c": "Jeremiah 27:2*21809",
+        "a": "g"
+    },
+    {
+        "o": 22902,
+        "r": "esv:Ezekiel:7:23",
+        "w": 2,
+        "l": {},
+        "t": "Probably refers to an instrument of captivity",
+        "a": "h"
+    },
+    {
+        "o": 22902,
+        "r": "esv:Ezekiel:7:23",
+        "w": 2,
+        "l": {},
+        "c": "Ezekiel 8:17*22925; Ezekiel 9:9*22937; Ezekiel 11:6*22971; Ezekiel 22:3–4*23315; Jeremiah 6:7*21252",
+        "a": "i"
+    },
+    {
+        "o": 22902,
+        "r": "esv:Ezekiel:7:23",
+        "w": 10,
+        "l": {},
+        "c": "Ezekiel 7:11*22890",
+        "a": "j"
+    },
+    {
+        "o": 22903,
+        "r": "esv:Ezekiel:7:24",
+        "w": 2,
+        "l": {},
+        "c": "Ezekiel 7:21*22900; Habakkuk 1:6*25297; Habakkuk 1:13*25305",
+        "a": "k"
+    },
+    {
+        "o": 22903,
+        "r": "esv:Ezekiel:7:24",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 7:11*22890",
+        "a": "l"
+    },
+    {
+        "o": 22903,
+        "r": "esv:Ezekiel:7:24",
+        "w": 24,
+        "l": {},
+        "c": "Ezekiel 7:20*22899",
+        "a": "m"
+    },
+    {
+        "o": 22903,
+        "r": "esv:Ezekiel:7:24",
+        "w": 28,
+        "l": {},
+        "t": "By revocalization (compare Septuagint); Hebrew and*i those*i who*i sanctify*i them*i",
+        "a": "n"
+    },
+    {
+        "o": 22904,
+        "r": "esv:Ezekiel:7:25",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 7:2*22881",
+        "a": "o"
+    },
+    {
+        "o": 22904,
+        "r": "esv:Ezekiel:7:25",
+        "w": 2,
+        "l": {},
+        "c": "Jeremiah 6:14*21259; Jeremiah 8:15*21329; 1 Thessalonians 5:3*33149",
+        "a": "p"
+    },
+    {
+        "o": 22905,
+        "r": "esv:Ezekiel:7:26",
+        "w": 0,
+        "l": {},
+        "c": "Jeremiah 4:20*21198",
+        "a": "q"
+    },
+    {
+        "o": 22905,
+        "r": "esv:Ezekiel:7:26",
+        "w": 3,
+        "l": {},
+        "c": "Job 1:16–19*14196",
+        "a": "r"
+    },
+    {
+        "o": 22905,
+        "r": "esv:Ezekiel:7:26",
+        "w": 6,
+        "l": {},
+        "c": "Ezekiel 20:1*23227; Ezekiel 20:3*23229; Psalm 74:9*16668",
+        "a": "s"
+    },
+    {
+        "o": 22905,
+        "r": "esv:Ezekiel:7:26",
+        "w": 14,
+        "l": {},
+        "c": "Malachi 2:7*25734",
+        "a": "t"
+    },
+    {
+        "o": 22905,
+        "r": "esv:Ezekiel:7:26",
+        "w": 16,
+        "l": {},
+        "t": "Or instruction*i",
+        "a": "u"
+    },
+    {
+        "o": 22905,
+        "r": "esv:Ezekiel:7:26",
+        "w": 21,
+        "l": {},
+        "c": "1 Kings 12:6*10034",
+        "a": "v"
+    },
+    {
+        "o": 22906,
+        "r": "esv:Ezekiel:7:27",
+        "w": 25,
+        "l": {},
+        "c": "Ezekiel 7:4*22883",
+        "a": "w"
+    },
+    {
+        "o": 22906,
+        "r": "esv:Ezekiel:7:27",
+        "w": 39,
+        "l": {},
+        "c": "Ezekiel 6:7*22870",
+        "a": "x"
+    }
+]

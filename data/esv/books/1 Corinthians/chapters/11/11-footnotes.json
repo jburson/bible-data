@@ -1,0 +1,410 @@
+[
+    {
+        "o": 31983,
+        "r": "esv:1 Corinthians:11:1",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 4:16*31814",
+        "a": "a"
+    },
+    {
+        "o": 31985,
+        "r": "esv:1 Corinthians:11:2",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 4:17*31815; 1 Thessalonians 3:6*33116",
+        "a": "b"
+    },
+    {
+        "o": 31985,
+        "r": "esv:1 Corinthians:11:2",
+        "w": 10,
+        "l": {},
+        "c": "2 Thessalonians 2:15*33209; 2 Thessalonians 3:6*33220",
+        "a": "c"
+    },
+    {
+        "o": 31985,
+        "r": "esv:1 Corinthians:11:2",
+        "w": 13,
+        "l": {},
+        "c": "1 Thessalonians 4:1–2*33126",
+        "a": "d"
+    },
+    {
+        "o": 31986,
+        "r": "esv:1 Corinthians:11:3",
+        "w": 6,
+        "l": {},
+        "c": "Ephesians 1:22*32692; Ephesians 4:15*32759; Ephesians 5:23*32803; Colossians 1:18*32985",
+        "a": "e"
+    },
+    {
+        "o": 31986,
+        "r": "esv:1 Corinthians:11:3",
+        "w": 13,
+        "l": {},
+        "c": "Genesis 3:16*79",
+        "a": "f"
+    },
+    {
+        "o": 31986,
+        "r": "esv:1 Corinthians:11:3",
+        "w": 18,
+        "l": {},
+        "t": "Greek gunē*i . This term may refer to a woman*i or a wife*i , depending on the context",
+        "a": "g"
+    },
+    {
+        "o": 31986,
+        "r": "esv:1 Corinthians:11:3",
+        "w": 21,
+        "l": {},
+        "t": "Greek anēr*i . This term may refer to a man*i or a husband*i , depending on the context",
+        "a": "h"
+    },
+    {
+        "o": 31986,
+        "r": "esv:1 Corinthians:11:3",
+        "w": 22,
+        "l": {},
+        "c": "1 Corinthians 3:23*31796",
+        "a": "i"
+    },
+    {
+        "o": 31988,
+        "r": "esv:1 Corinthians:11:5",
+        "w": 2,
+        "l": {},
+        "t": "In verses 5–13, the Greek word gunē*i is translated wife*i in verses that deal with wearing a veil, a sign of being married in first-century culture",
+        "a": "j"
+    },
+    {
+        "o": 31988,
+        "r": "esv:1 Corinthians:11:5",
+        "w": 5,
+        "l": {},
+        "c": "Luke 2:36*27932; Acts 21:9*30946; 1 Corinthians 14:34*32104",
+        "a": "k"
+    },
+    {
+        "o": 31988,
+        "r": "esv:1 Corinthians:11:5",
+        "w": 6,
+        "l": {},
+        "c": "Numbers 5:18*4147",
+        "a": "l"
+    },
+    {
+        "o": 31988,
+        "r": "esv:1 Corinthians:11:5",
+        "w": 18,
+        "l": {},
+        "c": "Deuteronomy 21:12*5959",
+        "a": "m"
+    },
+    {
+        "o": 31990,
+        "r": "esv:1 Corinthians:11:7",
+        "w": 9,
+        "l": {},
+        "c": "Genesis 1:26*28",
+        "a": "n"
+    },
+    {
+        "o": 31990,
+        "r": "esv:1 Corinthians:11:7",
+        "w": 18,
+        "l": {},
+        "c": "Proverbs 12:4*18585",
+        "a": "o"
+    },
+    {
+        "o": 31991,
+        "r": "esv:1 Corinthians:11:8",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 2:21–23*57; 1 Timothy 2:13*33272",
+        "a": "p"
+    },
+    {
+        "o": 31992,
+        "r": "esv:1 Corinthians:11:9",
+        "w": 6,
+        "l": {},
+        "c": "Genesis 2:18*54",
+        "a": "q"
+    },
+    {
+        "o": 31993,
+        "r": "esv:1 Corinthians:11:10",
+        "w": 18,
+        "l": {},
+        "t": "Or messengers*i , that is, people sent to observe and report",
+        "a": "r"
+    },
+    {
+        "o": 31994,
+        "r": "esv:1 Corinthians:11:11",
+        "w": 0,
+        "l": {},
+        "c": "Galatians 3:28*32580",
+        "a": "s"
+    },
+    {
+        "o": 31995,
+        "r": "esv:1 Corinthians:11:12",
+        "w": 14,
+        "l": {},
+        "c": "Romans 11:36*31580",
+        "a": "t"
+    },
+    {
+        "o": 31999,
+        "r": "esv:1 Corinthians:11:16",
+        "w": 0,
+        "l": {},
+        "c": "1 Timothy 6:3–4*33346",
+        "a": "u"
+    },
+    {
+        "o": 31999,
+        "r": "esv:1 Corinthians:11:16",
+        "w": 13,
+        "l": {},
+        "c": "2 Thessalonians 1:4*33183; 1 Thessalonians 2:14*33101; 1 Corinthians 7:17*31877; 1 Corinthians 10:32*31980",
+        "a": "v"
+    },
+    {
+        "o": 32002,
+        "r": "esv:1 Corinthians:11:18",
+        "w": 11,
+        "l": {},
+        "c": "1 Corinthians 1:10–12*31730; 1 Corinthians 3:3*31776",
+        "a": "w"
+    },
+    {
+        "o": 32002,
+        "r": "esv:1 Corinthians:11:18",
+        "w": 25,
+        "l": {},
+        "t": "Or I*i believe*i a*i certain*i report*i",
+        "a": "x"
+    },
+    {
+        "o": 32003,
+        "r": "esv:1 Corinthians:11:19",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 18:7*26477; Luke 17:1*28682; Acts 20:30*30927; 1 Timothy 4:1*33297; 2 Peter 2:1*34157",
+        "a": "y"
+    },
+    {
+        "o": 32003,
+        "r": "esv:1 Corinthians:11:19",
+        "w": 8,
+        "l": {},
+        "c": "1 John 2:19*34236; Deuteronomy 13:3*5748",
+        "a": "z"
+    },
+    {
+        "o": 32005,
+        "r": "esv:1 Corinthians:11:21",
+        "w": 13,
+        "l": {},
+        "c": "2 Peter 2:13*34169; Jude 12*34373",
+        "a": "a"
+    },
+    {
+        "o": 32006,
+        "r": "esv:1 Corinthians:11:22",
+        "w": 14,
+        "l": {},
+        "c": "Acts 20:28*30925",
+        "a": "b"
+    },
+    {
+        "o": 32006,
+        "r": "esv:1 Corinthians:11:22",
+        "w": 19,
+        "l": {},
+        "c": "Proverbs 17:5*18745; James 2:6*33922",
+        "a": "c"
+    },
+    {
+        "o": 32007,
+        "r": "esv:1 Corinthians:11:23",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 15:3*32115; Galatians 1:12*32511",
+        "a": "d"
+    },
+    {
+        "o": 32007,
+        "r": "esv:1 Corinthians:11:23",
+        "w": 12,
+        "l": {},
+        "c": "1 Corinthians 11:23–25*32007; Matthew 26:26–28*26866; Mark 14:22–24*27669; Luke 22:19–20*28949",
+        "a": "e"
+    },
+    {
+        "o": 32008,
+        "r": "esv:1 Corinthians:11:24",
+        "w": 17,
+        "l": {},
+        "t": "Some manuscripts broken*i for*i",
+        "a": "f"
+    },
+    {
+        "o": 32008,
+        "r": "esv:1 Corinthians:11:24",
+        "w": 24,
+        "l": {},
+        "t": "Or as*i my*i memorial*i ; also verse 25",
+        "a": "g"
+    },
+    {
+        "o": 32010,
+        "r": "esv:1 Corinthians:11:26",
+        "w": 16,
+        "l": {},
+        "c": "John 21:22*30107",
+        "a": "h"
+    },
+    {
+        "o": 32011,
+        "r": "esv:1 Corinthians:11:27",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 9:10*4323; Numbers 9:13*4326",
+        "a": "i"
+    },
+    {
+        "o": 32011,
+        "r": "esv:1 Corinthians:11:27",
+        "w": 11,
+        "l": {},
+        "c": "John 13:27*29804",
+        "a": "j"
+    },
+    {
+        "o": 32011,
+        "r": "esv:1 Corinthians:11:27",
+        "w": 19,
+        "l": {},
+        "c": "John 6:51*29418; John 6:53–56*29420",
+        "a": "k"
+    },
+    {
+        "o": 32012,
+        "r": "esv:1 Corinthians:11:28",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 13:5*32485; Galatians 6:4*32651",
+        "a": "l"
+    },
+    {
+        "o": 32014,
+        "r": "esv:1 Corinthians:11:30",
+        "w": 11,
+        "l": {},
+        "c": "Matthew 27:52*26981",
+        "a": "m"
+    },
+    {
+        "o": 32014,
+        "r": "esv:1 Corinthians:11:30",
+        "w": 13,
+        "l": {},
+        "t": "Greek have*i fallen*i asleep*i (as in 15:6, 20)",
+        "a": "n"
+    },
+    {
+        "o": 32015,
+        "r": "esv:1 Corinthians:11:31",
+        "w": 0,
+        "l": {},
+        "c": "1 John 1:9*34211",
+        "a": "o"
+    },
+    {
+        "o": 32015,
+        "r": "esv:1 Corinthians:11:31",
+        "w": 3,
+        "l": {},
+        "t": "Or discerned*i",
+        "a": "p"
+    },
+    {
+        "o": 32016,
+        "r": "esv:1 Corinthians:11:32",
+        "w": 7,
+        "l": {},
+        "c": "Proverbs 3:11*18309",
+        "a": "q"
+    },
+    {
+        "o": 32016,
+        "r": "esv:1 Corinthians:11:32",
+        "w": 10,
+        "l": {},
+        "t": "Or when*i we*i are*i judged*i we*i are*i being*i disciplined*i by*i the*i Lord*i",
+        "a": "r"
+    },
+    {
+        "o": 32016,
+        "r": "esv:1 Corinthians:11:32",
+        "w": 16,
+        "l": {},
+        "c": "Romans 5:16*31378",
+        "a": "s"
+    },
+    {
+        "o": 32017,
+        "r": "esv:1 Corinthians:11:33",
+        "w": 3,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i",
+        "a": "t"
+    },
+    {
+        "o": 32017,
+        "r": "esv:1 Corinthians:11:33",
+        "w": 11,
+        "l": {},
+        "t": "Or share*i with*i",
+        "a": "u"
+    },
+    {
+        "o": 32018,
+        "r": "esv:1 Corinthians:11:34",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 11:21*32005",
+        "a": "v"
+    },
+    {
+        "o": 32018,
+        "r": "esv:1 Corinthians:11:34",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 11:22*32006",
+        "a": "w"
+    },
+    {
+        "o": 32018,
+        "r": "esv:1 Corinthians:11:34",
+        "w": 24,
+        "l": {},
+        "c": "1 Corinthians 7:17*31877; Titus 1:5*33469",
+        "a": "x"
+    },
+    {
+        "o": 32018,
+        "r": "esv:1 Corinthians:11:34",
+        "w": 28,
+        "l": {},
+        "c": "1 Corinthians 4:19*31817",
+        "a": "y"
+    }
+]

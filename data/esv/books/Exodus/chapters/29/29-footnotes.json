@@ -1,0 +1,554 @@
+[
+    {
+        "o": 2547,
+        "r": "esv:Exodus:29:1",
+        "w": 18,
+        "l": {},
+        "c": "Leviticus 8:2*3182",
+        "a": "a"
+    },
+    {
+        "o": 2548,
+        "r": "esv:Exodus:29:2",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 2:4*3018; Leviticus 6:20–22*3129",
+        "a": "b"
+    },
+    {
+        "o": 2550,
+        "r": "esv:Exodus:29:4",
+        "w": 15,
+        "l": {},
+        "c": "Exodus 40:12*2966; Leviticus 8:6*3186; Hebrews 10:22*33762",
+        "a": "c"
+    },
+    {
+        "o": 2551,
+        "r": "esv:Exodus:29:5",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 28:2–4*2503",
+        "a": "d"
+    },
+    {
+        "o": 2551,
+        "r": "esv:Exodus:29:5",
+        "w": 28,
+        "l": {},
+        "c": "Exodus 28:8*2509",
+        "a": "e"
+    },
+    {
+        "o": 2552,
+        "r": "esv:Exodus:29:6",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 28:36–37*2537; Leviticus 8:9*3189; Numbers 6:7*4169",
+        "a": "f"
+    },
+    {
+        "o": 2553,
+        "r": "esv:Exodus:29:7",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 29:21*2567; Exodus 28:41*2542; Exodus 30:25*2622; Leviticus 8:12*3192; Leviticus 8:30*3210; Leviticus 10:7*3251; Leviticus 21:10*3650; Numbers 35:25*5304",
+        "a": "g"
+    },
+    {
+        "o": 2554,
+        "r": "esv:Exodus:29:8",
+        "w": 1,
+        "l": {},
+        "c": "Leviticus 8:13*3193",
+        "a": "h"
+    },
+    {
+        "o": 2555,
+        "r": "esv:Exodus:29:9",
+        "w": 8,
+        "l": {},
+        "c": "Exodus 28:4*2505; Exodus 28:39*2540",
+        "a": "i"
+    },
+    {
+        "o": 2555,
+        "r": "esv:Exodus:29:9",
+        "w": 15,
+        "l": {},
+        "c": "Exodus 27:21*2499; Numbers 18:7*4641",
+        "a": "j"
+    },
+    {
+        "o": 2555,
+        "r": "esv:Exodus:29:9",
+        "w": 27,
+        "l": {},
+        "c": "Exodus 29:29*2575; Exodus 29:33*2579; Leviticus 8:33*3213; Leviticus 16:32*3513; Exodus 28:41*2542",
+        "a": "k"
+    },
+    {
+        "o": 2556,
+        "r": "esv:Exodus:29:10",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 29:15*2561; Exodus 29:19*2565; Leviticus 1:4*2999; Leviticus 8:14*3194",
+        "a": "l"
+    },
+    {
+        "o": 2558,
+        "r": "esv:Exodus:29:12",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 8:15*3195",
+        "a": "m"
+    },
+    {
+        "o": 2558,
+        "r": "esv:Exodus:29:12",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 27:2*2478",
+        "a": "n"
+    },
+    {
+        "o": 2558,
+        "r": "esv:Exodus:29:12",
+        "w": 25,
+        "l": {},
+        "t": "Hebrew all*i",
+        "a": "o"
+    },
+    {
+        "o": 2559,
+        "r": "esv:Exodus:29:13",
+        "w": 4,
+        "l": {},
+        "c": "Leviticus 3:3–4*3035",
+        "a": "p"
+    },
+    {
+        "o": 2560,
+        "r": "esv:Exodus:29:14",
+        "w": 16,
+        "l": {},
+        "c": "Leviticus 4:11–12*3062; Leviticus 4:21*3072; Numbers 19:3*4671; Numbers 19:5*4673; Hebrews 13:11*33867",
+        "a": "q"
+    },
+    {
+        "o": 2560,
+        "r": "esv:Exodus:29:14",
+        "w": 19,
+        "l": {},
+        "c": "Exodus 29:36*2582; Exodus 30:10*2605",
+        "a": "r"
+    },
+    {
+        "o": 2561,
+        "r": "esv:Exodus:29:15",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 29:1*2547; Leviticus 8:18*3198",
+        "a": "s"
+    },
+    {
+        "o": 2561,
+        "r": "esv:Exodus:29:15",
+        "w": 8,
+        "l": {},
+        "c": "Exodus 29:19*2565; Leviticus 1:4*2999; Leviticus 8:14*3194",
+        "a": "t"
+    },
+    {
+        "o": 2563,
+        "r": "esv:Exodus:29:17",
+        "w": 2,
+        "l": {},
+        "c": "Leviticus 8:20*3200",
+        "a": "u"
+    },
+    {
+        "o": 2564,
+        "r": "esv:Exodus:29:18",
+        "w": 18,
+        "l": {},
+        "c": "Exodus 29:25*2571; Exodus 29:41*2587; Genesis 8:21*223",
+        "a": "v"
+    },
+    {
+        "o": 2564,
+        "r": "esv:Exodus:29:18",
+        "w": 23,
+        "l": {},
+        "t": "Or an*i offering*i by*i fire*i ; also verses 25, 41",
+        "a": "w"
+    },
+    {
+        "o": 2565,
+        "r": "esv:Exodus:29:19",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 29:1*2547; Leviticus 8:22*3202",
+        "a": "x"
+    },
+    {
+        "o": 2565,
+        "r": "esv:Exodus:29:19",
+        "w": 5,
+        "l": {},
+        "c": "Exodus 29:15*2561",
+        "a": "y"
+    },
+    {
+        "o": 2567,
+        "r": "esv:Exodus:29:21",
+        "w": 15,
+        "l": {},
+        "c": "Exodus 29:7*2553",
+        "a": "z"
+    },
+    {
+        "o": 2568,
+        "r": "esv:Exodus:29:22",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 29:13*2559",
+        "a": "a"
+    },
+    {
+        "o": 2568,
+        "r": "esv:Exodus:29:22",
+        "w": 47,
+        "l": {},
+        "c": "Leviticus 7:37*3177; Leviticus 8:28*3208; Leviticus 8:31*3211; Leviticus 8:33*3213",
+        "a": "b"
+    },
+    {
+        "o": 2569,
+        "r": "esv:Exodus:29:23",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 29:2–3*2548; Leviticus 8:26*3206",
+        "a": "c"
+    },
+    {
+        "o": 2570,
+        "r": "esv:Exodus:29:24",
+        "w": 17,
+        "l": {},
+        "c": "Leviticus 7:30*3170; Leviticus 8:27*3207; Leviticus 8:29*3209; Numbers 5:25*4154; Numbers 6:20*4182",
+        "a": "d"
+    },
+    {
+        "o": 2571,
+        "r": "esv:Exodus:29:25",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 6:22*3131; Leviticus 8:28*3208",
+        "a": "e"
+    },
+    {
+        "o": 2571,
+        "r": "esv:Exodus:29:25",
+        "w": 21,
+        "l": {},
+        "c": "Exodus 29:18*2564; Exodus 29:41*2587",
+        "a": "f"
+    },
+    {
+        "o": 2572,
+        "r": "esv:Exodus:29:26",
+        "w": 3,
+        "l": {},
+        "c": "Leviticus 8:29*3209",
+        "a": "g"
+    },
+    {
+        "o": 2572,
+        "r": "esv:Exodus:29:26",
+        "w": 9,
+        "l": {},
+        "c": "Exodus 29:22*2568",
+        "a": "h"
+    },
+    {
+        "o": 2572,
+        "r": "esv:Exodus:29:26",
+        "w": 11,
+        "l": {},
+        "c": "Exodus 29:24*2570",
+        "a": "i"
+    },
+    {
+        "o": 2573,
+        "r": "esv:Exodus:29:27",
+        "w": 4,
+        "l": {},
+        "c": "Leviticus 7:31*3171; Leviticus 7:34*3174; Leviticus 10:14–15*3258; Numbers 18:11*4645; Numbers 18:18*4652",
+        "a": "j"
+    },
+    {
+        "o": 2573,
+        "r": "esv:Exodus:29:27",
+        "w": 14,
+        "l": {},
+        "c": "Leviticus 7:32*3172; Leviticus 7:34*3174; Leviticus 10:15*3259; Numbers 18:11*4645",
+        "a": "k"
+    },
+    {
+        "o": 2573,
+        "r": "esv:Exodus:29:27",
+        "w": 26,
+        "l": {},
+        "c": "Exodus 29:26*2572",
+        "a": "l"
+    },
+    {
+        "o": 2574,
+        "r": "esv:Exodus:29:28",
+        "w": 9,
+        "l": {},
+        "c": "Leviticus 10:15*3259",
+        "a": "m"
+    },
+    {
+        "o": 2574,
+        "r": "esv:Exodus:29:28",
+        "w": 20,
+        "l": {},
+        "c": "Exodus 29:26*2572",
+        "a": "n"
+    },
+    {
+        "o": 2574,
+        "r": "esv:Exodus:29:28",
+        "w": 25,
+        "l": {},
+        "c": "Exodus 29:26*2572",
+        "a": "o"
+    },
+    {
+        "o": 2575,
+        "r": "esv:Exodus:29:29",
+        "w": 4,
+        "l": {},
+        "c": "Numbers 18:8*4642; Numbers 20:26*4722; Numbers 20:28*4724",
+        "a": "p"
+    },
+    {
+        "o": 2575,
+        "r": "esv:Exodus:29:29",
+        "w": 13,
+        "l": {},
+        "c": "Exodus 29:9*2555",
+        "a": "q"
+    },
+    {
+        "o": 2576,
+        "r": "esv:Exodus:29:30",
+        "w": 22,
+        "l": {},
+        "c": "Leviticus 8:33*3213; Leviticus 8:35*3215",
+        "a": "r"
+    },
+    {
+        "o": 2577,
+        "r": "esv:Exodus:29:31",
+        "w": 7,
+        "l": {},
+        "c": "Leviticus 8:31*3211",
+        "a": "s"
+    },
+    {
+        "o": 2578,
+        "r": "esv:Exodus:29:32",
+        "w": 13,
+        "l": {},
+        "c": "Matthew 12:4*26193",
+        "a": "t"
+    },
+    {
+        "o": 2579,
+        "r": "esv:Exodus:29:33",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 10:14–15*3258; Leviticus 10:17*3261",
+        "a": "u"
+    },
+    {
+        "o": 2579,
+        "r": "esv:Exodus:29:33",
+        "w": 16,
+        "l": {},
+        "c": "Leviticus 22:10*3675",
+        "a": "v"
+    },
+    {
+        "o": 2580,
+        "r": "esv:Exodus:29:34",
+        "w": 19,
+        "l": {},
+        "c": "Leviticus 8:32*3212",
+        "a": "w"
+    },
+    {
+        "o": 2581,
+        "r": "esv:Exodus:29:35",
+        "w": 18,
+        "l": {},
+        "c": "Leviticus 8:33–35*3213",
+        "a": "x"
+    },
+    {
+        "o": 2582,
+        "r": "esv:Exodus:29:36",
+        "w": 6,
+        "l": {},
+        "c": "Exodus 29:14*2560; Exodus 30:10*2605",
+        "a": "y"
+    },
+    {
+        "o": 2582,
+        "r": "esv:Exodus:29:36",
+        "w": 27,
+        "l": {},
+        "c": "Exodus 30:26*2623; Exodus 30:28–29*2625; Exodus 40:10*2964",
+        "a": "z"
+    },
+    {
+        "o": 2583,
+        "r": "esv:Exodus:29:37",
+        "w": 13,
+        "l": {},
+        "c": "Exodus 40:10*2964",
+        "a": "a"
+    },
+    {
+        "o": 2583,
+        "r": "esv:Exodus:29:37",
+        "w": 18,
+        "l": {},
+        "c": "Exodus 30:29*2626; Matthew 23:19*26705",
+        "a": "b"
+    },
+    {
+        "o": 2584,
+        "r": "esv:Exodus:29:38",
+        "w": 9,
+        "l": {},
+        "c": "Numbers 28:3*4990; 1 Chronicles 16:40*11928; 2 Chronicles 2:4*12328; 2 Chronicles 13:11*12606; 2 Chronicles 31:3*13051; Ezra 3:3*13320",
+        "a": "c"
+    },
+    {
+        "o": 2584,
+        "r": "esv:Exodus:29:38",
+        "w": 14,
+        "l": {},
+        "c": "Daniel 8:11–13*24416; Daniel 9:27*24464; Daniel 12:11*24547; Hebrews 10:11*33750",
+        "a": "d"
+    },
+    {
+        "o": 2585,
+        "r": "esv:Exodus:29:39",
+        "w": 4,
+        "l": {},
+        "c": "2 Kings 16:15*10960; Ezekiel 46:13–15*24077",
+        "a": "e"
+    },
+    {
+        "o": 2585,
+        "r": "esv:Exodus:29:39",
+        "w": 14,
+        "l": {},
+        "c": "1 Kings 18:29*10273; 1 Kings 18:36*10280; Ezra 9:4–5*13482; Psalm 141:2*18091; Daniel 9:21*24457",
+        "a": "f"
+    },
+    {
+        "o": 2586,
+        "r": "esv:Exodus:29:40",
+        "w": 7,
+        "l": {},
+        "t": "Possibly an ephah (about 3/5 bushel or 22 liters)",
+        "a": "g"
+    },
+    {
+        "o": 2586,
+        "r": "esv:Exodus:29:40",
+        "w": 17,
+        "l": {},
+        "t": "A hin*i was about 4 quarts or 3.5 liters",
+        "a": "h"
+    },
+    {
+        "o": 2587,
+        "r": "esv:Exodus:29:41",
+        "w": 5,
+        "l": {},
+        "c": "Exodus 29:39*2585",
+        "a": "i"
+    },
+    {
+        "o": 2587,
+        "r": "esv:Exodus:29:41",
+        "w": 20,
+        "l": {},
+        "c": "Exodus 30:9*2603; Exodus 40:29*2983",
+        "a": "j"
+    },
+    {
+        "o": 2587,
+        "r": "esv:Exodus:29:41",
+        "w": 25,
+        "l": {},
+        "c": "Exodus 29:18*2564; Exodus 29:25*2571",
+        "a": "k"
+    },
+    {
+        "o": 2588,
+        "r": "esv:Exodus:29:42",
+        "w": 3,
+        "l": {},
+        "c": "Numbers 28:6*4993",
+        "a": "l"
+    },
+    {
+        "o": 2588,
+        "r": "esv:Exodus:29:42",
+        "w": 20,
+        "l": {},
+        "c": "Exodus 25:22*2416",
+        "a": "m"
+    },
+    {
+        "o": 2589,
+        "r": "esv:Exodus:29:43",
+        "w": 12,
+        "l": {},
+        "c": "Exodus 40:34*2989; 1 Kings 8:11*9859; 2 Chronicles 5:14*12401; 2 Chronicles 7:1–3*12449; Ezekiel 43:5*23977; Haggai 2:7*25443; Haggai 2:9*25446; Malachi 3:1*25748",
+        "a": "n"
+    },
+    {
+        "o": 2590,
+        "r": "esv:Exodus:29:44",
+        "w": 9,
+        "l": {},
+        "c": "Leviticus 21:15*3655; Leviticus 22:9*3674; Leviticus 22:16*3682",
+        "a": "o"
+    },
+    {
+        "o": 2591,
+        "r": "esv:Exodus:29:45",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 25:8*2400; Leviticus 26:12*3855; Zechariah 2:10*25498; 2 Corinthians 6:16*32333; Revelation 21:3*34807",
+        "a": "p"
+    },
+    {
+        "o": 2592,
+        "r": "esv:Exodus:29:46",
+        "w": 4,
+        "l": {},
+        "c": "Exodus 20:2*2237",
+        "a": "q"
+    }
+]

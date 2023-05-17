@@ -1,0 +1,314 @@
+[
+    {
+        "o": 1101,
+        "r": "esv:Genesis:35:1",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 28:19*865",
+        "a": "a"
+    },
+    {
+        "o": 1101,
+        "r": "esv:Genesis:35:1",
+        "w": 22,
+        "l": {},
+        "c": "Genesis 27:43*839",
+        "a": "b"
+    },
+    {
+        "o": 1102,
+        "r": "esv:Genesis:35:2",
+        "w": 4,
+        "l": {},
+        "c": "Genesis 18:19*486; Joshua 24:15*7097",
+        "a": "c"
+    },
+    {
+        "o": 1102,
+        "r": "esv:Genesis:35:2",
+        "w": 14,
+        "l": {},
+        "c": "Genesis 31:19*972; Joshua 24:23*7105; 1 Samuel 7:3*8053",
+        "a": "d"
+    },
+    {
+        "o": 1102,
+        "r": "esv:Genesis:35:2",
+        "w": 22,
+        "l": {},
+        "c": "Exodus 19:10*2218",
+        "a": "e"
+    },
+    {
+        "o": 1103,
+        "r": "esv:Genesis:35:3",
+        "w": 19,
+        "l": {},
+        "c": "Genesis 32:7*1017; Genesis 32:24*1035",
+        "a": "f"
+    },
+    {
+        "o": 1103,
+        "r": "esv:Genesis:35:3",
+        "w": 29,
+        "l": {},
+        "c": "Genesis 28:20*866; Genesis 31:3*956",
+        "a": "g"
+    },
+    {
+        "o": 1104,
+        "r": "esv:Genesis:35:4",
+        "w": 23,
+        "l": {},
+        "c": "Joshua 24:26*7108; Judges 9:6*7397",
+        "a": "h"
+    },
+    {
+        "o": 1106,
+        "r": "esv:Genesis:35:6",
+        "w": 3,
+        "l": {},
+        "c": "Genesis 28:19*865",
+        "a": "i"
+    },
+    {
+        "o": 1107,
+        "r": "esv:Genesis:35:7",
+        "w": 10,
+        "l": {},
+        "t": "El-bethel*i means God*i of*i Bethel*i",
+        "a": "j"
+    },
+    {
+        "o": 1107,
+        "r": "esv:Genesis:35:7",
+        "w": 11,
+        "l": {},
+        "c": "Genesis 35:1*1101",
+        "a": "k"
+    },
+    {
+        "o": 1108,
+        "r": "esv:Genesis:35:8",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 24:59*710",
+        "a": "l"
+    },
+    {
+        "o": 1108,
+        "r": "esv:Genesis:35:8",
+        "w": 19,
+        "l": {},
+        "t": "Allon-bacuth*i means oak*i of*i weeping*i",
+        "a": "m"
+    },
+    {
+        "o": 1109,
+        "r": "esv:Genesis:35:9",
+        "w": 1,
+        "l": {},
+        "t": "Or had*i appeared*i",
+        "a": "n"
+    },
+    {
+        "o": 1110,
+        "r": "esv:Genesis:35:10",
+        "w": 8,
+        "l": {},
+        "c": "Genesis 17:5*443; Genesis 17:15*454",
+        "a": "o"
+    },
+    {
+        "o": 1110,
+        "r": "esv:Genesis:35:10",
+        "w": 17,
+        "l": {},
+        "c": "Genesis 32:28*1039",
+        "a": "p"
+    },
+    {
+        "o": 1111,
+        "r": "esv:Genesis:35:11",
+        "w": 4,
+        "l": {},
+        "c": "Genesis 17:1*439",
+        "a": "q"
+    },
+    {
+        "o": 1111,
+        "r": "esv:Genesis:35:11",
+        "w": 8,
+        "l": {},
+        "t": "Hebrew El*i Shaddai*i",
+        "a": "r"
+    },
+    {
+        "o": 1111,
+        "r": "esv:Genesis:35:11",
+        "w": 9,
+        "l": {},
+        "c": "Genesis 28:3*847; Genesis 48:4*1575",
+        "a": "s"
+    },
+    {
+        "o": 1111,
+        "r": "esv:Genesis:35:11",
+        "w": 12,
+        "l": {},
+        "c": "Genesis 17:5–6*443; Genesis 17:16*455; Genesis 26:4*762",
+        "a": "t"
+    },
+    {
+        "o": 1111,
+        "r": "esv:Genesis:35:11",
+        "w": 31,
+        "l": {},
+        "t": "Hebrew from*i your*i loins*i",
+        "a": "u"
+    },
+    {
+        "o": 1112,
+        "r": "esv:Genesis:35:12",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 12:7*334; Genesis 13:15*365; Genesis 17:8*446; Genesis 26:3*761; Genesis 28:13*859",
+        "a": "v"
+    },
+    {
+        "o": 1113,
+        "r": "esv:Genesis:35:13",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 17:22*461",
+        "a": "w"
+    },
+    {
+        "o": 1114,
+        "r": "esv:Genesis:35:14",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 28:18*864; Genesis 31:45*998",
+        "a": "x"
+    },
+    {
+        "o": 1115,
+        "r": "esv:Genesis:35:15",
+        "w": 13,
+        "l": {},
+        "c": "Genesis 28:19*865",
+        "a": "y"
+    },
+    {
+        "o": 1117,
+        "r": "esv:Genesis:35:16",
+        "w": 10,
+        "l": {},
+        "t": "Or about*i two*i hours’*i distance*i",
+        "a": "z"
+    },
+    {
+        "o": 1118,
+        "r": "esv:Genesis:35:17",
+        "w": 16,
+        "l": {},
+        "c": "Genesis 30:24*932",
+        "a": "a"
+    },
+    {
+        "o": 1119,
+        "r": "esv:Genesis:35:18",
+        "w": 14,
+        "l": {},
+        "t": "Ben-oni*i could mean son*i of*i my*i sorrow*i , or son*i of*i my*i strength*i",
+        "a": "b"
+    },
+    {
+        "o": 1119,
+        "r": "esv:Genesis:35:18",
+        "w": 14,
+        "l": {},
+        "c": "Luke 1:59–60*27870",
+        "a": "c"
+    },
+    {
+        "o": 1119,
+        "r": "esv:Genesis:35:18",
+        "w": 20,
+        "l": {},
+        "t": "Benjamin*i means son*i of*i the*i right*i hand*i",
+        "a": "d"
+    },
+    {
+        "o": 1120,
+        "r": "esv:Genesis:35:19",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 48:7*1578",
+        "a": "e"
+    },
+    {
+        "o": 1120,
+        "r": "esv:Genesis:35:19",
+        "w": 10,
+        "l": {},
+        "c": "Ruth 1:2*7798; Ruth 4:11*7878; Micah 5:2*25178; Matthew 2:6*25811; Matthew 2:16–18*25823",
+        "a": "f"
+    },
+    {
+        "o": 1121,
+        "r": "esv:Genesis:35:20",
+        "w": 10,
+        "l": {},
+        "c": "1 Samuel 10:2*8126; 2 Samuel 18:18*9314",
+        "a": "g"
+    },
+    {
+        "o": 1123,
+        "r": "esv:Genesis:35:22",
+        "w": 8,
+        "l": {},
+        "c": "Genesis 49:4*1599; 1 Chronicles 5:1*11461; 2 Samuel 16:22*9261; 2 Samuel 20:3*9383; 1 Corinthians 5:1*31822",
+        "a": "h"
+    },
+    {
+        "o": 1124,
+        "r": "esv:Genesis:35:23",
+        "w": 3,
+        "l": {},
+        "c": "Genesis 35:23–26*1124; Genesis 46:8–27*1508; Exodus 1:2–4*1662",
+        "a": "i"
+    },
+    {
+        "o": 1128,
+        "r": "esv:Genesis:35:27",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 13:18*368; Genesis 23:19*648",
+        "a": "j"
+    },
+    {
+        "o": 1128,
+        "r": "esv:Genesis:35:27",
+        "w": 9,
+        "l": {},
+        "c": "Genesis 23:2*631; Joshua 14:15*6780; Joshua 15:13*6795",
+        "a": "k"
+    },
+    {
+        "o": 1130,
+        "r": "esv:Genesis:35:29",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 15:15*412; Genesis 25:8*728",
+        "a": "l"
+    },
+    {
+        "o": 1130,
+        "r": "esv:Genesis:35:29",
+        "w": 19,
+        "l": {},
+        "c": "Genesis 25:9*729; Genesis 49:31*1627",
+        "a": "m"
+    }
+]

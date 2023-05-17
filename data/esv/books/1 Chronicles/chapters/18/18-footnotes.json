@@ -1,0 +1,178 @@
+[
+    {
+        "o": 11964,
+        "r": "esv:1 Chronicles:18:1",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 18*11963; 2 Samuel 8*8996",
+        "a": "a"
+    },
+    {
+        "o": 11966,
+        "r": "esv:1 Chronicles:18:3",
+        "w": 2,
+        "l": {},
+        "c": "2 Samuel 8:3*8999",
+        "a": "b"
+    },
+    {
+        "o": 11966,
+        "r": "esv:1 Chronicles:18:3",
+        "w": 5,
+        "l": {},
+        "c": "1 Kings 8:65*9916",
+        "a": "c"
+    },
+    {
+        "o": 11966,
+        "r": "esv:1 Chronicles:18:3",
+        "w": 14,
+        "l": {},
+        "t": "Hebrew hand*i",
+        "a": "d"
+    },
+    {
+        "o": 11967,
+        "r": "esv:1 Chronicles:18:4",
+        "w": 6,
+        "l": {},
+        "c": "2 Samuel 8:4*9000",
+        "a": "e"
+    },
+    {
+        "o": 11968,
+        "r": "esv:1 Chronicles:18:5",
+        "w": 10,
+        "l": {},
+        "c": "1 Chronicles 19:6*11989",
+        "a": "f"
+    },
+    {
+        "o": 11969,
+        "r": "esv:1 Chronicles:18:6",
+        "w": 3,
+        "l": {},
+        "t": "Septuagint, Vulgate, 2 Samuel 8:6 (compare Syriac); Hebrew lacks garrisons*i",
+        "a": "g"
+    },
+    {
+        "o": 11969,
+        "r": "esv:1 Chronicles:18:6",
+        "w": 24,
+        "l": {},
+        "t": "Hebrew the*i Lord*i saved*i David*i ; also verse 13",
+        "a": "h"
+    },
+    {
+        "o": 11971,
+        "r": "esv:1 Chronicles:18:8",
+        "w": 1,
+        "l": {},
+        "c": "2 Samuel 8:8*9004",
+        "a": "i"
+    },
+    {
+        "o": 11971,
+        "r": "esv:1 Chronicles:18:8",
+        "w": 15,
+        "l": {},
+        "c": "1 Kings 7:15*9809; 1 Kings 7:23*9817; 2 Chronicles 4:12*12375; 2 Chronicles 4:15–16*12378",
+        "a": "j"
+    },
+    {
+        "o": 11972,
+        "r": "esv:1 Chronicles:18:9",
+        "w": 0,
+        "l": {},
+        "c": "2 Samuel 8:9*9005",
+        "a": "k"
+    },
+    {
+        "o": 11972,
+        "r": "esv:1 Chronicles:18:9",
+        "w": 15,
+        "l": {},
+        "c": "1 Chronicles 18:5*11968",
+        "a": "l"
+    },
+    {
+        "o": 11973,
+        "r": "esv:1 Chronicles:18:10",
+        "w": 3,
+        "l": {},
+        "c": "2 Samuel 8:10*9006",
+        "a": "m"
+    },
+    {
+        "o": 11973,
+        "r": "esv:1 Chronicles:18:10",
+        "w": 21,
+        "l": {},
+        "c": "1 Chronicles 18:3*11966",
+        "a": "n"
+    },
+    {
+        "o": 11973,
+        "r": "esv:1 Chronicles:18:10",
+        "w": 26,
+        "l": {},
+        "c": "1 Chronicles 18:3*11966",
+        "a": "o"
+    },
+    {
+        "o": 11974,
+        "r": "esv:1 Chronicles:18:11",
+        "w": 23,
+        "l": {},
+        "c": "2 Samuel 8:12*9008",
+        "a": "p"
+    },
+    {
+        "o": 11975,
+        "r": "esv:1 Chronicles:18:12",
+        "w": 0,
+        "l": {},
+        "c": "1 Samuel 26:6*8662; 2 Samuel 8:13*9009",
+        "a": "q"
+    },
+    {
+        "o": 11979,
+        "r": "esv:1 Chronicles:18:15",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 11:6*11732",
+        "a": "r"
+    },
+    {
+        "o": 11980,
+        "r": "esv:1 Chronicles:18:16",
+        "w": 0,
+        "l": {},
+        "c": "2 Samuel 8:17*9014; 2 Samuel 20:25*9405",
+        "a": "s"
+    },
+    {
+        "o": 11980,
+        "r": "esv:1 Chronicles:18:16",
+        "w": 6,
+        "l": {},
+        "c": "1 Chronicles 24:3*12108; 1 Chronicles 24:6*12111",
+        "a": "t"
+    },
+    {
+        "o": 11980,
+        "r": "esv:1 Chronicles:18:16",
+        "w": 14,
+        "l": {},
+        "c": "2 Samuel 8:17*9014; 1 Kings 4:3*9699",
+        "a": "u"
+    },
+    {
+        "o": 11981,
+        "r": "esv:1 Chronicles:18:17",
+        "w": 17,
+        "l": {},
+        "c": "2 Samuel 8:18*9015",
+        "a": "v"
+    }
+]

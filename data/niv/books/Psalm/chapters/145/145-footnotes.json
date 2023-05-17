@@ -1,0 +1,26 @@
+[
+    {
+        "o": 17904,
+        "r": "niv:Psalm:145:0",
+        "w": 0,
+        "l": {},
+        "t": "This psalm is an acrostic poem, the verses of which (including verse 13b) begin with the successive letters of the Hebrew alphabet.",
+        "a": "a"
+    },
+    {
+        "o": 17909,
+        "r": "niv:Psalm:145:5",
+        "w": 16,
+        "l": {},
+        "t": "145:5*r Dead Sea Scrolls and Syriac (see also Septuagint); Masoretic Text On*i the*i glorious*i splendor*i of*i your*i majesty*i /*i and*i on*i your*i wonderful*i works*i I*i will*i meditate*i",
+        "a": "b"
+    },
+    {
+        "o": 17917,
+        "r": "niv:Psalm:145:13",
+        "w": 26,
+        "l": {},
+        "t": "145:13*r One manuscript of the Masoretic Text, Dead Sea Scrolls and Syriac (see also Septuagint); most manuscripts of the Masoretic Text do not have the last two lines of verse 13.",
+        "a": "c"
+    }
+]

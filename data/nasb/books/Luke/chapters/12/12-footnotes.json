@@ -1,0 +1,34 @@
+[
+    {
+        "o": 28412,
+        "r": "nasb:Luke:12:25",
+        "w": 9,
+        "l": {},
+        "t": "Lit cubit (approx 18 in.)",
+        "a": "a"
+    },
+    {
+        "o": 28412,
+        "r": "nasb:Luke:12:25",
+        "w": 12,
+        "l": {},
+        "t": "Or height",
+        "a": "b"
+    },
+    {
+        "o": 28426,
+        "r": "nasb:Luke:12:38",
+        "w": 4,
+        "l": {},
+        "t": "I.e. 9 p.m. to midnight",
+        "a": "c"
+    },
+    {
+        "o": 28426,
+        "r": "nasb:Luke:12:38",
+        "w": 10,
+        "l": {},
+        "t": "I.e. midnight to 3 a.m.",
+        "a": "d"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "o": 19680,
+        "r": "csb:Song of Solomon:5:1",
+        "w": 10,
+        "l": {},
+        "t": "5:1*r Lit pluck",
+        "a": "a"
+    },
+    {
+        "o": 19682,
+        "r": "csb:Song of Solomon:5:1",
+        "w": 6,
+        "l": {},
+        "t": "5:1*r Or Drink your fill, lovers",
+        "a": "b"
+    },
+    {
+        "o": 19682,
+        "r": "csb:Song of Solomon:5:1",
+        "w": 6,
+        "l": {},
+        "c": "Pr 5:19*18520",
+        "a": "c"
+    },
+    {
+        "o": 19684,
+        "r": "csb:Song of Solomon:5:2",
+        "w": 13,
+        "l": {},
+        "c": "Sg 2:8*19632",
+        "a": "d"
+    },
+    {
+        "o": 19688,
+        "r": "csb:Song of Solomon:5:3",
+        "w": 5,
+        "l": {},
+        "c": "Lk 11:7*28735",
+        "a": "e"
+    },
+    {
+        "o": 19690,
+        "r": "csb:Song of Solomon:5:5",
+        "w": 11,
+        "l": {},
+        "c": "Sg 5:13*19700",
+        "a": "f"
+    },
+    {
+        "o": 19691,
+        "r": "csb:Song of Solomon:5:6",
+        "w": 15,
+        "l": {},
+        "t": "5:6*r Lit My soul went out",
+        "a": "g"
+    },
+    {
+        "o": 19691,
+        "r": "csb:Song of Solomon:5:6",
+        "w": 19,
+        "l": {},
+        "t": "5:6*r Or spoken",
+        "a": "h"
+    },
+    {
+        "o": 19691,
+        "r": "csb:Song of Solomon:5:6",
+        "w": 27,
+        "l": {},
+        "c": "Sg 3:1–2*19647",
+        "a": "i"
+    },
+    {
+        "o": 19692,
+        "r": "csb:Song of Solomon:5:7",
+        "w": 8,
+        "l": {},
+        "c": "Sg 3:3*19649",
+        "a": "j"
+    },
+    {
+        "o": 19692,
+        "r": "csb:Song of Solomon:5:7",
+        "w": 17,
+        "l": {},
+        "t": "5:7*r Or veil, or shawl",
+        "a": "k"
+    },
+    {
+        "o": 19692,
+        "r": "csb:Song of Solomon:5:7",
+        "w": 24,
+        "l": {},
+        "c": "Sg 8:9–10*19755",
+        "a": "l"
+    },
+    {
+        "o": 19693,
+        "r": "csb:Song of Solomon:5:8",
+        "w": 6,
+        "l": {},
+        "c": "Sg 2:7*19631; 3:5*19652; 8:4*19746",
+        "a": "m"
+    },
+    {
+        "o": 19693,
+        "r": "csb:Song of Solomon:5:8",
+        "w": 17,
+        "l": {},
+        "c": "Sg 2:5*19629",
+        "a": "n"
+    },
+    {
+        "o": 19695,
+        "r": "csb:Song of Solomon:5:9",
+        "w": 12,
+        "l": {},
+        "c": "Sg 1:8*19609; 6:1*19707",
+        "a": "o"
+    },
+    {
+        "o": 19697,
+        "r": "csb:Song of Solomon:5:10",
+        "w": 5,
+        "l": {},
+        "t": "5:10*r Or is radiant and ruddy",
+        "a": "p"
+    },
+    {
+        "o": 19697,
+        "r": "csb:Song of Solomon:5:10",
+        "w": 5,
+        "l": {},
+        "c": "1Sm 16:12*8418",
+        "a": "q"
+    },
+    {
+        "o": 19697,
+        "r": "csb:Song of Solomon:5:10",
+        "w": 9,
+        "l": {},
+        "c": "Ps 45:2*16252",
+        "a": "r"
+    },
+    {
+        "o": 19698,
+        "r": "csb:Song of Solomon:5:11",
+        "w": 8,
+        "l": {},
+        "t": "5:11*r Or is like palm leaves; Hb obscure",
+        "a": "s"
+    },
+    {
+        "o": 19698,
+        "r": "csb:Song of Solomon:5:11",
+        "w": 8,
+        "l": {},
+        "c": "Sg 5:2*19687",
+        "a": "t"
+    },
+    {
+        "o": 19699,
+        "r": "csb:Song of Solomon:5:12",
+        "w": 4,
+        "l": {},
+        "c": "Sg 1:15*19619; 4:1*19661",
+        "a": "u"
+    },
+    {
+        "o": 19699,
+        "r": "csb:Song of Solomon:5:12",
+        "w": 14,
+        "l": {},
+        "t": "5:12*r Lit milk sitting in fullness",
+        "a": "v"
+    },
+    {
+        "o": 19700,
+        "r": "csb:Song of Solomon:5:13",
+        "w": 1,
+        "l": {},
+        "c": "Sg 1:10*19611",
+        "a": "w"
+    },
+    {
+        "o": 19700,
+        "r": "csb:Song of Solomon:5:13",
+        "w": 8,
+        "l": {},
+        "t": "5:13*r LXX, Vg read spice, yielding",
+        "a": "x"
+    },
+    {
+        "o": 19700,
+        "r": "csb:Song of Solomon:5:13",
+        "w": 17,
+        "l": {},
+        "c": "Sg 5:5*19690",
+        "a": "y"
+    },
+    {
+        "o": 19701,
+        "r": "csb:Song of Solomon:5:14",
+        "w": 1,
+        "l": {},
+        "t": "5:14*r Lit hands",
+        "a": "z"
+    },
+    {
+        "o": 19701,
+        "r": "csb:Song of Solomon:5:14",
+        "w": 6,
+        "l": {},
+        "t": "5:14*r Lit filled; Sg 5:2,12",
+        "a": "a"
+    },
+    {
+        "o": 19701,
+        "r": "csb:Song of Solomon:5:14",
+        "w": 8,
+        "l": {},
+        "c": "Ex 28:20*2557; 39:13*2965; Ezk 1:16*23057",
+        "a": "b"
+    },
+    {
+        "o": 19701,
+        "r": "csb:Song of Solomon:5:14",
+        "w": 10,
+        "l": {},
+        "t": "5:14*r Lit abdomen",
+        "a": "c"
+    },
+    {
+        "o": 19701,
+        "r": "csb:Song of Solomon:5:14",
+        "w": 18,
+        "l": {},
+        "c": "Ex 24:10*2416",
+        "a": "d"
+    },
+    {
+        "o": 19702,
+        "r": "csb:Song of Solomon:5:15",
+        "w": 15,
+        "l": {},
+        "c": "Sg 7:4–5*19729",
+        "a": "e"
+    },
+    {
+        "o": 19702,
+        "r": "csb:Song of Solomon:5:15",
+        "w": 20,
+        "l": {},
+        "c": "1Kg 4:33*9808",
+        "a": "f"
+    },
+    {
+        "o": 19703,
+        "r": "csb:Song of Solomon:5:16",
+        "w": 7,
+        "l": {},
+        "c": "Sg 4:7*19667",
+        "a": "g"
+    }
+]

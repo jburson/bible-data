@@ -1,0 +1,66 @@
+[
+    {
+        "o": 2475,
+        "r": "niv:Exodus:27:1",
+        "w": 7,
+        "l": {},
+        "t": "27:1*r That is, about 4 1/2 feet or about 1.4 meters",
+        "a": "a"
+    },
+    {
+        "o": 2475,
+        "r": "niv:Exodus:27:1",
+        "w": 20,
+        "l": {},
+        "t": "27:1*r That is, about 7 1/2 feet or about 2.3 meters long and wide",
+        "a": "b"
+    },
+    {
+        "o": 2484,
+        "r": "niv:Exodus:27:9",
+        "w": 13,
+        "l": {},
+        "t": "27:9*r That is, about 150 feet or about 45 meters; also in verse 11",
+        "a": "c"
+    },
+    {
+        "o": 2487,
+        "r": "niv:Exodus:27:12",
+        "w": 9,
+        "l": {},
+        "t": "27:12*r That is, about 75 feet or about 23 meters; also in verse 13",
+        "a": "d"
+    },
+    {
+        "o": 2489,
+        "r": "niv:Exodus:27:14",
+        "w": 2,
+        "l": {},
+        "t": "27:14*r That is, about 23 feet or about 6.8 meters; also in verse 15",
+        "a": "e"
+    },
+    {
+        "o": 2491,
+        "r": "niv:Exodus:27:16",
+        "w": 10,
+        "l": {},
+        "t": "27:16*r That is, about 30 feet or about 9 meters",
+        "a": "f"
+    },
+    {
+        "o": 2493,
+        "r": "niv:Exodus:27:18",
+        "w": 11,
+        "l": {},
+        "t": "27:18*r That is, about 150 feet long and 75 feet wide or about 45 meters long and 23 meters wide",
+        "a": "g"
+    },
+    {
+        "o": 2493,
+        "r": "niv:Exodus:27:18",
+        "w": 19,
+        "l": {},
+        "t": "27:18*r That is, about 7 1/2 feet or about 2.3 meters",
+        "a": "h"
+    }
+]

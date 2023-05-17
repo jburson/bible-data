@@ -1,0 +1,26 @@
+[
+    {
+        "o": 26455,
+        "r": "nasb:Matthew:17:21",
+        "w": 0,
+        "l": {},
+        "t": "Early mss do not contain this v",
+        "a": "a"
+    },
+    {
+        "o": 26459,
+        "r": "nasb:Matthew:17:24",
+        "w": 8,
+        "l": {},
+        "t": "Equivalent to two denarii or two days’ wages, paid as a temple tax",
+        "a": "b"
+    },
+    {
+        "o": 26462,
+        "r": "nasb:Matthew:17:27",
+        "w": 33,
+        "l": {},
+        "t": "Lit standard coin, which was a shekel",
+        "a": "c"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "o": 2556,
+        "r": "niv:Exodus:29:9",
+        "w": 12,
+        "l": {},
+        "t": "29:9*r Hebrew; Septuagint on*i them*i",
+        "a": "a"
+    },
+    {
+        "o": 2561,
+        "r": "niv:Exodus:29:14",
+        "w": 18,
+        "l": {},
+        "t": "29:14*r Or purification*i offering*i ; also in verse 36",
+        "a": "b"
+    },
+    {
+        "o": 2587,
+        "r": "niv:Exodus:29:40",
+        "w": 9,
+        "l": {},
+        "t": "29:40*r That is, probably about 3 1/2 pounds or about 1.6 kilograms",
+        "a": "c"
+    },
+    {
+        "o": 2587,
+        "r": "niv:Exodus:29:40",
+        "w": 20,
+        "l": {},
+        "t": "29:40*r That is, probably about 1 quart or about 1 liter",
+        "a": "d"
+    }
+]

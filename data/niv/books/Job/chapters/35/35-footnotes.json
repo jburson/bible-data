@@ -1,0 +1,34 @@
+[
+    {
+        "o": 15004,
+        "r": "niv:Job:35:3",
+        "w": 9,
+        "l": {},
+        "t": "35:3*r Or you*i",
+        "a": "a"
+    },
+    {
+        "o": 15012,
+        "r": "niv:Job:35:11",
+        "w": 6,
+        "l": {},
+        "t": "35:10,11*r Or night,*i /*i who*i teaches*i us*i by*i",
+        "a": "b"
+    },
+    {
+        "o": 15012,
+        "r": "niv:Job:35:11",
+        "w": 16,
+        "l": {},
+        "t": "35:11*r Or us*i wise*i by*i",
+        "a": "c"
+    },
+    {
+        "o": 15016,
+        "r": "niv:Job:35:15",
+        "w": 16,
+        "l": {},
+        "t": "35:15*r Symmachus, Theodotion and Vulgate; the meaning of the Hebrew for this word is uncertain.",
+        "a": "d"
+    }
+]

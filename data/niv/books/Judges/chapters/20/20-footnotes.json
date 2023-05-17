@@ -1,0 +1,42 @@
+[
+    {
+        "o": 7704,
+        "r": "niv:Judges:20:10",
+        "w": 38,
+        "l": {},
+        "t": "20:10*r One Hebrew manuscript; most Hebrew manuscripts Geba,*i a variant of Gibeah*i",
+        "a": "a"
+    },
+    {
+        "o": 7712,
+        "r": "niv:Judges:20:18",
+        "w": 5,
+        "l": {},
+        "t": "20:18*r Or to*i the*i house*i of*i God*i ; also in verse 26",
+        "a": "b"
+    },
+    {
+        "o": 7727,
+        "r": "niv:Judges:20:33",
+        "w": 27,
+        "l": {},
+        "t": "20:33*r Some Septuagint manuscripts and Vulgate; the meaning of the Hebrew for this word is uncertain.",
+        "a": "c"
+    },
+    {
+        "o": 7727,
+        "r": "niv:Judges:20:33",
+        "w": 29,
+        "l": {},
+        "t": "20:33*r Hebrew Geba,*i a variant of Gibeah*i",
+        "a": "d"
+    },
+    {
+        "o": 7737,
+        "r": "niv:Judges:20:43",
+        "w": 7,
+        "l": {},
+        "t": "20:43*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "e"
+    }
+]

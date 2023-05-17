@@ -1,0 +1,26 @@
+[
+    {
+        "o": 28583,
+        "r": "niv:Luke:22:20",
+        "w": 26,
+        "l": {},
+        "t": "22:19,20*r Some manuscripts do not have given*i for*i you…*i poured*i out*i for*i you.*i",
+        "a": "a"
+    },
+    {
+        "o": 28600,
+        "r": "niv:Luke:22:37",
+        "w": 9,
+        "l": {},
+        "t": "22:37*r Isaiah 53:12",
+        "a": "b"
+    },
+    {
+        "o": 28608,
+        "r": "niv:Luke:22:44",
+        "w": 19,
+        "l": {},
+        "t": "22:43,44*r Many early manuscripts do not have verses 43 and 44.",
+        "a": "c"
+    }
+]

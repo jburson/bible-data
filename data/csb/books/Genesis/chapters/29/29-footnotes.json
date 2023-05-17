@@ -1,0 +1,162 @@
+[
+    {
+        "o": 882,
+        "r": "csb:Genesis:29:1",
+        "w": 3,
+        "l": {},
+        "t": "29:1*r Lit Jacob picked up his feet",
+        "a": "a"
+    },
+    {
+        "o": 882,
+        "r": "csb:Genesis:29:1",
+        "w": 9,
+        "l": {},
+        "t": "29:1*r Lit the land of the children of the east",
+        "a": "b"
+    },
+    {
+        "o": 882,
+        "r": "csb:Genesis:29:1",
+        "w": 9,
+        "l": {},
+        "c": "Nm 23:7*4866; Jdg 6:3*7373",
+        "a": "c"
+    },
+    {
+        "o": 884,
+        "r": "csb:Genesis:29:3",
+        "w": 19,
+        "l": {},
+        "t": "29:3*r Sam, some LXX mss read flocks and the shepherds",
+        "a": "d"
+    },
+    {
+        "o": 891,
+        "r": "csb:Genesis:29:10",
+        "w": 12,
+        "l": {},
+        "t": "29:10*r Lit with the sheep of Laban his mother’s brother",
+        "a": "e"
+    },
+    {
+        "o": 892,
+        "r": "csb:Genesis:29:11",
+        "w": 6,
+        "l": {},
+        "t": "29:11*r Lit and he lifted his voice and wept",
+        "a": "f"
+    },
+    {
+        "o": 896,
+        "r": "csb:Genesis:29:14",
+        "w": 11,
+        "l": {},
+        "t": "29:14*r Lit my bone and my flesh",
+        "a": "g"
+    },
+    {
+        "o": 896,
+        "r": "csb:Genesis:29:14",
+        "w": 11,
+        "l": {},
+        "c": "Gn 2:23*58; 37:27*1223; Jdg 9:2*7485; 2Sm 5:1*8992; 19:12–13*9420; 1Ch 11:1*11835",
+        "a": "h"
+    },
+    {
+        "o": 900,
+        "r": "csb:Genesis:29:18",
+        "w": 17,
+        "l": {},
+        "c": "Gn 30:26*946; 31:41*1008; Hs 12:12*25055",
+        "a": "i"
+    },
+    {
+        "o": 903,
+        "r": "csb:Genesis:29:21",
+        "w": 18,
+        "l": {},
+        "t": "29:21*r Lit can go to",
+        "a": "j"
+    },
+    {
+        "o": 912,
+        "r": "csb:Genesis:29:30",
+        "w": 20,
+        "l": {},
+        "c": "Gn 31:41*1008",
+        "a": "k"
+    },
+    {
+        "o": 914,
+        "r": "csb:Genesis:29:31",
+        "w": 7,
+        "l": {},
+        "c": "Gn 25:28*757; Dt 21:15–16*6023; 22:13*6050; 24:3*6105; Lk 14:26*28932; 16:13*28993",
+        "a": "l"
+    },
+    {
+        "o": 914,
+        "r": "csb:Genesis:29:31",
+        "w": 11,
+        "l": {},
+        "c": "Gn 30:22*941",
+        "a": "m"
+    },
+    {
+        "o": 914,
+        "r": "csb:Genesis:29:31",
+        "w": 17,
+        "l": {},
+        "c": "Gn 11:30*327; 25:21*749; Jdg 13:2–3*7629; 1Sm 2:5*8020; Lk 1:36*28172",
+        "a": "n"
+    },
+    {
+        "o": 915,
+        "r": "csb:Genesis:29:32",
+        "w": 10,
+        "l": {},
+        "t": "29:32*r = See, a Son; in Hb, the name Reuben sounds like “has seen my affliction.”",
+        "a": "o"
+    },
+    {
+        "o": 915,
+        "r": "csb:Genesis:29:32",
+        "w": 19,
+        "l": {},
+        "c": "Gn 31:42*1009; Ex 3:7*1747; 4:31*1797; Dt 26:7*6159",
+        "a": "p"
+    },
+    {
+        "o": 916,
+        "r": "csb:Genesis:29:33",
+        "w": 28,
+        "l": {},
+        "t": "29:33*r In Hb, the name Simeon sounds like “has heard.”",
+        "a": "q"
+    },
+    {
+        "o": 917,
+        "r": "csb:Genesis:29:34",
+        "w": 31,
+        "l": {},
+        "t": "29:34*r In Hb, the name Levi sounds like “attached to.”",
+        "a": "r"
+    },
+    {
+        "o": 918,
+        "r": "csb:Genesis:29:35",
+        "w": 22,
+        "l": {},
+        "t": "29:35*r In Hb, the name Judah sounds like “praise.”",
+        "a": "s"
+    },
+    {
+        "o": 918,
+        "r": "csb:Genesis:29:35",
+        "w": 22,
+        "l": {},
+        "c": "Gn 49:8*1630; Mt 1:2*26105",
+        "a": "t"
+    }
+]

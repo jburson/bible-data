@@ -1,0 +1,26 @@
+[
+    {
+        "o": 21600,
+        "r": "niv:Jeremiah:29:2",
+        "w": 4,
+        "l": {},
+        "t": "29:2*r Hebrew Jeconiah,*i a variant of Jehoiachin*i",
+        "a": "a"
+    },
+    {
+        "o": 21612,
+        "r": "niv:Jeremiah:29:14",
+        "w": 15,
+        "l": {},
+        "t": "29:14*r Or will*i restore*i your*i fortunes*i",
+        "a": "b"
+    },
+    {
+        "o": 21616,
+        "r": "niv:Jeremiah:29:18",
+        "w": 23,
+        "l": {},
+        "t": "29:18*r That is, their names will be used in cursing (see verse 22); or, others will see that they are cursed.",
+        "a": "c"
+    }
+]

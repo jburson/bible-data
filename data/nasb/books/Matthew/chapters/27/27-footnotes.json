@@ -1,0 +1,26 @@
+[
+    {
+        "o": 26965,
+        "r": "nasb:Matthew:27:45",
+        "w": 2,
+        "l": {},
+        "t": "I.e. 12 noon",
+        "a": "a"
+    },
+    {
+        "o": 26965,
+        "r": "nasb:Matthew:27:45",
+        "w": 12,
+        "l": {},
+        "t": "I.e. 3 p.m.",
+        "a": "b"
+    },
+    {
+        "o": 26969,
+        "r": "nasb:Matthew:27:49",
+        "w": 15,
+        "l": {},
+        "t": "Some early mss read And another took a spear and pierced His side, and there came out water and blood (cf John 19:34)",
+        "a": "c"
+    }
+]

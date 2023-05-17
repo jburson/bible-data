@@ -1,0 +1,58 @@
+[
+    {
+        "o": 12312,
+        "r": "niv:2 Chronicles:4:1",
+        "w": 14,
+        "l": {},
+        "t": "4:1*r That is, about 30 feet long and wide and 15 feet high or about 9 meters long and wide and 4.5 meters high",
+        "a": "a"
+    },
+    {
+        "o": 12313,
+        "r": "niv:2 Chronicles:4:2",
+        "w": 19,
+        "l": {},
+        "t": "4:2*r That is, about 7 1/2 feet or about 2.3 meters",
+        "a": "b"
+    },
+    {
+        "o": 12313,
+        "r": "niv:2 Chronicles:4:2",
+        "w": 27,
+        "l": {},
+        "t": "4:2*r That is, about 45 feet or about 14 meters",
+        "a": "c"
+    },
+    {
+        "o": 12314,
+        "r": "niv:2 Chronicles:4:3",
+        "w": 10,
+        "l": {},
+        "t": "4:3*r That is, about 18 inches or about 45 centimeters",
+        "a": "d"
+    },
+    {
+        "o": 12316,
+        "r": "niv:2 Chronicles:4:5",
+        "w": 3,
+        "l": {},
+        "t": "4:5*r That is, about 3 inches or about 7.5 centimeters",
+        "a": "e"
+    },
+    {
+        "o": 12316,
+        "r": "niv:2 Chronicles:4:5",
+        "w": 24,
+        "l": {},
+        "t": "4:5*r That is, about 18,000 gallons or about 66,000 liters",
+        "a": "f"
+    },
+    {
+        "o": 12328,
+        "r": "niv:2 Chronicles:4:17",
+        "w": 17,
+        "l": {},
+        "t": "4:17*r Hebrew Zeredatha,*i a variant of Zarethan*i",
+        "a": "g"
+    }
+]

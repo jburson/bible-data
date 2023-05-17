@@ -1,0 +1,730 @@
+[
+    {
+        "o": 9517,
+        "r": "niv:1 Kings:1:5",
+        "w": 20,
+        "l": {},
+        "t": "1:5*r Or charioteers*i",
+        "a": "a"
+    },
+    {
+        "o": 9671,
+        "r": "niv:1 Kings:4:22",
+        "w": 5,
+        "l": {},
+        "t": "4:22*r That is, probably about 5 1/2 tons or about 5 metric tons",
+        "a": "a"
+    },
+    {
+        "o": 9671,
+        "r": "niv:1 Kings:4:22",
+        "w": 12,
+        "l": {},
+        "t": "4:22*r That is, probably about 11 tons or about 10 metric tons",
+        "a": "b"
+    },
+    {
+        "o": 9675,
+        "r": "niv:1 Kings:4:26",
+        "w": 2,
+        "l": {},
+        "t": "4:26*r Some Septuagint manuscripts (see also 2 Chron. 9:25); Hebrew forty*i",
+        "a": "c"
+    },
+    {
+        "o": 9675,
+        "r": "niv:1 Kings:4:26",
+        "w": 11,
+        "l": {},
+        "t": "4:26*r Or charioteers*i",
+        "a": "d"
+    },
+    {
+        "o": 9684,
+        "r": "niv:1 Kings:4:34",
+        "w": 23,
+        "l": {},
+        "t": "4:34*r In Hebrew texts 4:21-34 is numbered 5:1-14.",
+        "a": "e"
+    },
+    {
+        "o": 9686,
+        "r": "niv:1 Kings:5:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 5:1-18 is numbered 5:15-32.",
+        "a": "a"
+    },
+    {
+        "o": 9697,
+        "r": "niv:1 Kings:5:11",
+        "w": 6,
+        "l": {},
+        "t": "5:11*r That is, probably about 3,600 tons or about 3,250 metric tons",
+        "a": "b"
+    },
+    {
+        "o": 9697,
+        "r": "niv:1 Kings:5:11",
+        "w": 19,
+        "l": {},
+        "t": "5:11*r Septuagint (see also 2 Chron. 2:10); Hebrew twenty*i cors*i",
+        "a": "c"
+    },
+    {
+        "o": 9697,
+        "r": "niv:1 Kings:5:11",
+        "w": 19,
+        "l": {},
+        "t": "5:11*r That is, about 120,000 gallons or about 440,000 liters",
+        "a": "d"
+    },
+    {
+        "o": 9702,
+        "r": "niv:1 Kings:5:16",
+        "w": 4,
+        "l": {},
+        "t": "5:16*r Hebrew; some Septuagint manuscripts (see also 2 Chron. 2:2,18) thirty-six*i hundred*i",
+        "a": "e"
+    },
+    {
+        "o": 9707,
+        "r": "niv:1 Kings:6:1",
+        "w": 5,
+        "l": {},
+        "t": "6:1*r Hebrew; Septuagint four*i hundred*i and*i fortieth*i",
+        "a": "a"
+    },
+    {
+        "o": 9708,
+        "r": "niv:1 Kings:6:2",
+        "w": 17,
+        "l": {},
+        "t": "6:2*r That is, about 90 feet long, 30 feet wide and 45 feet high or about 27 meters long, 9 meters wide and 14 meters high",
+        "a": "b"
+    },
+    {
+        "o": 9709,
+        "r": "niv:1 Kings:6:3",
+        "w": 21,
+        "l": {},
+        "t": "6:3*r That is, about 30 feet or about 9 meters; also in verses 16 and 20",
+        "a": "c"
+    },
+    {
+        "o": 9709,
+        "r": "niv:1 Kings:6:3",
+        "w": 25,
+        "l": {},
+        "t": "6:3*r That is, about 15 feet or about 4.5 meters; also in verses 23-26",
+        "a": "d"
+    },
+    {
+        "o": 9712,
+        "r": "niv:1 Kings:6:6",
+        "w": 5,
+        "l": {},
+        "t": "6:6*r That is, about 7 1/2 feet or about 2.3 meters; also in verses 10 and 24",
+        "a": "e"
+    },
+    {
+        "o": 9712,
+        "r": "niv:1 Kings:6:6",
+        "w": 11,
+        "l": {},
+        "t": "6:6*r That is, about 9 feet or about 2.7 meters",
+        "a": "f"
+    },
+    {
+        "o": 9712,
+        "r": "niv:1 Kings:6:6",
+        "w": 16,
+        "l": {},
+        "t": "6:6*r That is, about 11 feet or about 3.2 meters",
+        "a": "g"
+    },
+    {
+        "o": 9714,
+        "r": "niv:1 Kings:6:8",
+        "w": 4,
+        "l": {},
+        "t": "6:8*r Septuagint; Hebrew middle*i",
+        "a": "h"
+    },
+    {
+        "o": 9723,
+        "r": "niv:1 Kings:6:17",
+        "w": 10,
+        "l": {},
+        "t": "6:17*r That is, about 60 feet or about 18 meters",
+        "a": "i"
+    },
+    {
+        "o": 9748,
+        "r": "niv:1 Kings:7:2",
+        "w": 17,
+        "l": {},
+        "t": "7:2*r That is, about 150 feet long, 75 feet wide and 45 feet high or about 45 meters long, 23 meters wide and 14 meters high",
+        "a": "a"
+    },
+    {
+        "o": 9751,
+        "r": "niv:1 Kings:7:5",
+        "w": 18,
+        "l": {},
+        "t": "7:5*r The meaning of the Hebrew for this verse is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 9752,
+        "r": "niv:1 Kings:7:6",
+        "w": 9,
+        "l": {},
+        "t": "7:6*r That is, about 75 feet long and 45 feet wide or about 23 meters long and 14 meters wide",
+        "a": "c"
+    },
+    {
+        "o": 9753,
+        "r": "niv:1 Kings:7:7",
+        "w": 23,
+        "l": {},
+        "t": "7:7*r Vulgate and Syriac; Hebrew floor*i",
+        "a": "d"
+    },
+    {
+        "o": 9756,
+        "r": "niv:1 Kings:7:10",
+        "w": 13,
+        "l": {},
+        "t": "7:10*r That is, about 15 feet or about 4.5 meters; also in verse 23",
+        "a": "e"
+    },
+    {
+        "o": 9756,
+        "r": "niv:1 Kings:7:10",
+        "w": 16,
+        "l": {},
+        "t": "7:10*r That is, about 12 feet or about 3.6 meters",
+        "a": "f"
+    },
+    {
+        "o": 9760,
+        "r": "niv:1 Kings:7:13",
+        "w": 7,
+        "l": {},
+        "t": "7:13*r Hebrew Hiram,*i a variant of Huram*i ; also in verses 40 and 45",
+        "a": "g"
+    },
+    {
+        "o": 9762,
+        "r": "niv:1 Kings:7:15",
+        "w": 13,
+        "l": {},
+        "t": "7:15*r That is, about 27 feet high and 18 feet in circumference or about 8.1 meters high and 5.4 meters in circumference",
+        "a": "h"
+    },
+    {
+        "o": 9763,
+        "r": "niv:1 Kings:7:16",
+        "w": 20,
+        "l": {},
+        "t": "7:16*r That is, about 7 1/2 feet or about 2.3 meters; also in verse 23",
+        "a": "i"
+    },
+    {
+        "o": 9765,
+        "r": "niv:1 Kings:7:18",
+        "w": 5,
+        "l": {},
+        "t": "7:18*r Two Hebrew manuscripts and Septuagint; most Hebrew manuscripts made*i the*i pillars,*i and*i there*i were*i two*i rows*i",
+        "a": "j"
+    },
+    {
+        "o": 9765,
+        "r": "niv:1 Kings:7:18",
+        "w": 17,
+        "l": {},
+        "t": "7:18*r Many Hebrew manuscripts and Syriac; most Hebrew manuscripts pomegranates*i",
+        "a": "k"
+    },
+    {
+        "o": 9766,
+        "r": "niv:1 Kings:7:19",
+        "w": 17,
+        "l": {},
+        "t": "7:19*r That is, about 6 feet or about 1.8 meters; also in verse 38",
+        "a": "l"
+    },
+    {
+        "o": 9768,
+        "r": "niv:1 Kings:7:21",
+        "w": 17,
+        "l": {},
+        "t": "7:21*r Jakin*i probably means he*i establishes.*i",
+        "a": "m"
+    },
+    {
+        "o": 9768,
+        "r": "niv:1 Kings:7:21",
+        "w": 24,
+        "l": {},
+        "t": "7:21*r Boaz*i probably means in*i him*i is*i strength.*i",
+        "a": "n"
+    },
+    {
+        "o": 9770,
+        "r": "niv:1 Kings:7:23",
+        "w": 27,
+        "l": {},
+        "t": "7:23*r That is, about 45 feet or about 14 meters",
+        "a": "o"
+    },
+    {
+        "o": 9773,
+        "r": "niv:1 Kings:7:26",
+        "w": 3,
+        "l": {},
+        "t": "7:26*r That is, about 3 inches or about 7.5 centimeters",
+        "a": "p"
+    },
+    {
+        "o": 9773,
+        "r": "niv:1 Kings:7:26",
+        "w": 24,
+        "l": {},
+        "t": "7:26*r That is, about 12,000 gallons or about 44,000 liters; the Septuagint does not have this sentence.",
+        "a": "q"
+    },
+    {
+        "o": 9774,
+        "r": "niv:1 Kings:7:27",
+        "w": 17,
+        "l": {},
+        "t": "7:27*r That is, about 6 feet long and wide and about 4 1/2 feet high or about 1.8 meters long and wide and 1.4 meters high",
+        "a": "r"
+    },
+    {
+        "o": 9778,
+        "r": "niv:1 Kings:7:31",
+        "w": 16,
+        "l": {},
+        "t": "7:31*r That is, about 18 inches or about 45 centimeters",
+        "a": "s"
+    },
+    {
+        "o": 9778,
+        "r": "niv:1 Kings:7:31",
+        "w": 32,
+        "l": {},
+        "t": "7:31*r That is, about 2 1/4 feet or about 68 centimeters; also in verse 32",
+        "a": "t"
+    },
+    {
+        "o": 9782,
+        "r": "niv:1 Kings:7:35",
+        "w": 13,
+        "l": {},
+        "t": "7:35*r That is, about 9 inches or about 23 centimeters",
+        "a": "u"
+    },
+    {
+        "o": 9785,
+        "r": "niv:1 Kings:7:38",
+        "w": 9,
+        "l": {},
+        "t": "7:38*r That is, about 240 gallons or about 880 liters",
+        "a": "v"
+    },
+    {
+        "o": 9787,
+        "r": "niv:1 Kings:7:40",
+        "w": 4,
+        "l": {},
+        "t": "7:40*r Many Hebrew manuscripts, Septuagint, Syriac and Vulgate (see also verse 45 and 2 Chron. 4:11); many other Hebrew manuscripts basins*i",
+        "a": "w"
+    },
+    {
+        "o": 9876,
+        "r": "niv:1 Kings:9:6",
+        "w": 2,
+        "l": {},
+        "t": "9:6*r The Hebrew is plural.",
+        "a": "a"
+    },
+    {
+        "o": 9876,
+        "r": "niv:1 Kings:9:6",
+        "w": 21,
+        "l": {},
+        "t": "9:6*r The Hebrew is plural.",
+        "a": "b"
+    },
+    {
+        "o": 9878,
+        "r": "niv:1 Kings:9:8",
+        "w": 8,
+        "l": {},
+        "t": "9:8*r See some Septuagint manuscripts, Old Latin, Syriac, Arabic and Targum; Hebrew And*i though*i this*i temple*i is*i now*i imposing,*i all*i",
+        "a": "c"
+    },
+    {
+        "o": 9884,
+        "r": "niv:1 Kings:9:13",
+        "w": 21,
+        "l": {},
+        "t": "9:13*r Kabul*i sounds like the Hebrew for good-for-nothing.*i",
+        "a": "d"
+    },
+    {
+        "o": 9885,
+        "r": "niv:1 Kings:9:14",
+        "w": 8,
+        "l": {},
+        "t": "9:14*r That is, about 4 1/2 tons or about 4 metric tons",
+        "a": "e"
+    },
+    {
+        "o": 9886,
+        "r": "niv:1 Kings:9:15",
+        "w": 20,
+        "l": {},
+        "t": "9:15*r Or the*i Millo*i ; also in verse 24",
+        "a": "f"
+    },
+    {
+        "o": 9889,
+        "r": "niv:1 Kings:9:18",
+        "w": 2,
+        "l": {},
+        "t": "9:18*r The Hebrew may also be read Tamar.*i",
+        "a": "g"
+    },
+    {
+        "o": 9890,
+        "r": "niv:1 Kings:9:19",
+        "w": 16,
+        "l": {},
+        "t": "9:19*r Or charioteers*i",
+        "a": "h"
+    },
+    {
+        "o": 9892,
+        "r": "niv:1 Kings:9:21",
+        "w": 16,
+        "l": {},
+        "t": "9:21*r The Hebrew term refers to the irrevocable giving over of things or persons to the Lord, often by totally destroying them.",
+        "a": "i"
+    },
+    {
+        "o": 9897,
+        "r": "niv:1 Kings:9:26",
+        "w": 20,
+        "l": {},
+        "t": "9:26*r Or the*i Sea*i of*i Reeds*i",
+        "a": "j"
+    },
+    {
+        "o": 9899,
+        "r": "niv:1 Kings:9:28",
+        "w": 8,
+        "l": {},
+        "t": "9:28*r That is, about 16 tons or about 14 metric tons",
+        "a": "k"
+    },
+    {
+        "o": 9906,
+        "r": "niv:1 Kings:10:5",
+        "w": 24,
+        "l": {},
+        "t": "10:5*r Or the*i ascent*i by*i which*i he*i went*i up*i to*i",
+        "a": "a"
+    },
+    {
+        "o": 9911,
+        "r": "niv:1 Kings:10:10",
+        "w": 6,
+        "l": {},
+        "t": "10:10*r That is, about 4 1/2 tons or about 4 metric tons",
+        "a": "b"
+    },
+    {
+        "o": 9912,
+        "r": "niv:1 Kings:10:11",
+        "w": 14,
+        "l": {},
+        "t": "10:11*r Probably a variant of algumwood*i ; also in verse 12",
+        "a": "c"
+    },
+    {
+        "o": 9913,
+        "r": "niv:1 Kings:10:12",
+        "w": 7,
+        "l": {},
+        "t": "10:12*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "d"
+    },
+    {
+        "o": 9916,
+        "r": "niv:1 Kings:10:14",
+        "w": 11,
+        "l": {},
+        "t": "10:14*r That is, about 25 tons or about 23 metric tons",
+        "a": "e"
+    },
+    {
+        "o": 9918,
+        "r": "niv:1 Kings:10:16",
+        "w": 12,
+        "l": {},
+        "t": "10:16*r That is, about 15 pounds or about 6.9 kilograms; also in verse 29",
+        "a": "f"
+    },
+    {
+        "o": 9919,
+        "r": "niv:1 Kings:10:17",
+        "w": 12,
+        "l": {},
+        "t": "10:17*r That is, about 3 3/4 pounds or about 1.7 kilograms; or perhaps reference is to double minas, that is, about 7 1/2 pounds or about 3.5 kilograms.",
+        "a": "g"
+    },
+    {
+        "o": 9924,
+        "r": "niv:1 Kings:10:22",
+        "w": 7,
+        "l": {},
+        "t": "10:22*r Hebrew of*i ships*i of*i Tarshish*i",
+        "a": "h"
+    },
+    {
+        "o": 9928,
+        "r": "niv:1 Kings:10:26",
+        "w": 13,
+        "l": {},
+        "t": "10:26*r Or charioteers*i",
+        "a": "i"
+    },
+    {
+        "o": 9930,
+        "r": "niv:1 Kings:10:28",
+        "w": 8,
+        "l": {},
+        "t": "10:28*r Probably Cilicia*i",
+        "a": "j"
+    },
+    {
+        "o": 9931,
+        "r": "niv:1 Kings:10:29",
+        "w": 19,
+        "l": {},
+        "t": "10:29*r That is, about 3 3/4 pounds or about 1.7 kilograms",
+        "a": "k"
+    },
+    {
+        "o": 9962,
+        "r": "niv:1 Kings:11:27",
+        "w": 15,
+        "l": {},
+        "t": "11:27*r Or the*i Millo*i",
+        "a": "a"
+    },
+    {
+        "o": 9968,
+        "r": "niv:1 Kings:11:33",
+        "w": 6,
+        "l": {},
+        "t": "11:33*r Hebrew; Septuagint, Vulgate and Syriac because*i he*i has*i",
+        "a": "b"
+    },
+    {
+        "o": 9983,
+        "r": "niv:1 Kings:12:2",
+        "w": 21,
+        "l": {},
+        "t": "12:2*r Or he*i remained*i in*i",
+        "a": "a"
+    },
+    {
+        "o": 9999,
+        "r": "niv:1 Kings:12:18",
+        "w": 4,
+        "l": {},
+        "t": "12:18*r Some Septuagint manuscripts and Syriac (see also 4:6 and 5:14); Hebrew Adoram*i",
+        "a": "b"
+    },
+    {
+        "o": 10007,
+        "r": "niv:1 Kings:12:25",
+        "w": 21,
+        "l": {},
+        "t": "12:25*r Hebrew Penuel,*i a variant of Peniel*i",
+        "a": "c"
+    },
+    {
+        "o": 10012,
+        "r": "niv:1 Kings:12:30",
+        "w": 24,
+        "l": {},
+        "t": "12:30*r Probable reading of the original Hebrew text; Masoretic Text people*i went*i to*i the*i one*i as*i far*i as*i Dan*i",
+        "a": "d"
+    },
+    {
+        "o": 10063,
+        "r": "niv:1 Kings:14:10",
+        "w": 26,
+        "l": {},
+        "t": "14:10*r Or Israel—every*i ruler*i or*i leader*i",
+        "a": "a"
+    },
+    {
+        "o": 10067,
+        "r": "niv:1 Kings:14:14",
+        "w": 25,
+        "l": {},
+        "t": "14:14*r The meaning of the Hebrew for this sentence is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 10068,
+        "r": "niv:1 Kings:14:15",
+        "w": 48,
+        "l": {},
+        "t": "14:15*r That is, wooden symbols of the goddess Asherah; here and elsewhere in 1 Kings",
+        "a": "c"
+    },
+    {
+        "o": 10085,
+        "r": "niv:1 Kings:14:31",
+        "w": 26,
+        "l": {},
+        "t": "14:31*r Some Hebrew manuscripts and Septuagint (see also 2 Chron. 12:16); most Hebrew manuscripts Abijam*i",
+        "a": "d"
+    },
+    {
+        "o": 10088,
+        "r": "niv:1 Kings:15:1",
+        "w": 12,
+        "l": {},
+        "t": "15:1*r Some Hebrew manuscripts and Septuagint (see also 2 Chron. 12:16); most Hebrew manuscripts Abijam*i ; also in verses 7 and 8",
+        "a": "a"
+    },
+    {
+        "o": 10089,
+        "r": "niv:1 Kings:15:2",
+        "w": 14,
+        "l": {},
+        "t": "15:2*r A variant of Absalom*i ; also in verse 10",
+        "a": "b"
+    },
+    {
+        "o": 10093,
+        "r": "niv:1 Kings:15:6",
+        "w": 4,
+        "l": {},
+        "t": "15:6*r Some Hebrew manuscripts and Syriac Abijam*i (that is, Abijah); most Hebrew manuscripts Rehoboam*i",
+        "a": "c"
+    },
+    {
+        "o": 10152,
+        "r": "niv:1 Kings:16:24",
+        "w": 10,
+        "l": {},
+        "t": "16:24*r That is, about 150 pounds or about 68 kilograms",
+        "a": "a"
+    },
+    {
+        "o": 10166,
+        "r": "niv:1 Kings:17:1",
+        "w": 5,
+        "l": {},
+        "t": "17:1*r Or Tishbite,*i of*i the*i settlers*i",
+        "a": "a"
+    },
+    {
+        "o": 10226,
+        "r": "niv:1 Kings:18:32",
+        "w": 25,
+        "l": {},
+        "t": "18:32*r That is, probably about 24 pounds or about 11 kilograms",
+        "a": "a"
+    },
+    {
+        "o": 10245,
+        "r": "niv:1 Kings:19:3",
+        "w": 2,
+        "l": {},
+        "t": "19:3*r Or Elijah*i saw*i",
+        "a": "a"
+    },
+    {
+        "o": 10280,
+        "r": "niv:1 Kings:20:12",
+        "w": 13,
+        "l": {},
+        "t": "20:12*r Or in*i Sukkoth*i ; also in verse 16",
+        "a": "a"
+    },
+    {
+        "o": 10309,
+        "r": "niv:1 Kings:20:39",
+        "w": 50,
+        "l": {},
+        "t": "20:39*r That is, about 75 pounds or about 34 kilograms",
+        "a": "b"
+    },
+    {
+        "o": 10312,
+        "r": "niv:1 Kings:20:42",
+        "w": 21,
+        "l": {},
+        "t": "20:42*r The Hebrew term refers to the irrevocable giving over of things or persons to the Lord, often by totally destroying them.",
+        "a": "c"
+    },
+    {
+        "o": 10336,
+        "r": "niv:1 Kings:21:21",
+        "w": 27,
+        "l": {},
+        "t": "21:21*r Or Israel—every*i ruler*i or*i leader*i",
+        "a": "a"
+    },
+    {
+        "o": 10338,
+        "r": "niv:1 Kings:21:23",
+        "w": 14,
+        "l": {},
+        "t": "21:23*r Most Hebrew manuscripts; a few Hebrew manuscripts, Vulgate and Syriac (see also 2 Kings 9:26) the*i plot*i of*i ground*i at*i",
+        "a": "b"
+    },
+    {
+        "o": 10370,
+        "r": "niv:1 Kings:22:24",
+        "w": 18,
+        "l": {},
+        "t": "22:24*r Or Spirit*i of*i",
+        "a": "a"
+    },
+    {
+        "o": 10385,
+        "r": "niv:1 Kings:22:38",
+        "w": 12,
+        "l": {},
+        "t": "22:38*r Or Samaria*i and*i cleaned*i the*i weapons*i",
+        "a": "b"
+    },
+    {
+        "o": 10391,
+        "r": "niv:1 Kings:22:43",
+        "w": 44,
+        "l": {},
+        "t": "22:43*r In Hebrew texts this sentence (22:43b) is numbered 22:44, and 22:44-53 is numbered 22:45-54.",
+        "a": "c"
+    },
+    {
+        "o": 10396,
+        "r": "niv:1 Kings:22:48",
+        "w": 7,
+        "l": {},
+        "t": "22:48*r Hebrew of*i ships*i of*i Tarshish*i",
+        "a": "d"
+    }
+]

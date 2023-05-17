@@ -1,0 +1,34 @@
+[
+    {
+        "o": 15502,
+        "r": "nasb:Psalm:10:3",
+        "w": 8,
+        "l": {},
+        "t": "Or blesses the greedy man",
+        "a": "a"
+    },
+    {
+        "o": 15509,
+        "r": "nasb:Psalm:10:10",
+        "w": 8,
+        "l": {},
+        "t": "Or into his claws",
+        "a": "b"
+    },
+    {
+        "o": 15516,
+        "r": "nasb:Psalm:10:17",
+        "w": 8,
+        "l": {},
+        "t": "Or afflicted",
+        "a": "c"
+    },
+    {
+        "o": 15517,
+        "r": "nasb:Psalm:10:18",
+        "w": 0,
+        "l": {},
+        "t": "Lit judge",
+        "a": "d"
+    }
+]

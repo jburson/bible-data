@@ -1,0 +1,50 @@
+[
+    {
+        "o": 12272,
+        "r": "niv:2 Chronicles:2:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 2:1 is numbered 1:18, and 2:2-18 is numbered 2:1-17.",
+        "a": "a"
+    },
+    {
+        "o": 12275,
+        "r": "niv:2 Chronicles:2:3",
+        "w": 5,
+        "l": {},
+        "t": "2:3*r Hebrew Huram,*i a variant of Hiram*i also in verses 11 and 12",
+        "a": "b"
+    },
+    {
+        "o": 12280,
+        "r": "niv:2 Chronicles:2:8",
+        "w": 6,
+        "l": {},
+        "t": "2:8*r Probably a variant of almug*i",
+        "a": "c"
+    },
+    {
+        "o": 12282,
+        "r": "niv:2 Chronicles:2:10",
+        "w": 13,
+        "l": {},
+        "t": "2:10*r That is, probably about 3,600 tons or about 3,200 metric tons of wheat",
+        "a": "d"
+    },
+    {
+        "o": 12282,
+        "r": "niv:2 Chronicles:2:10",
+        "w": 19,
+        "l": {},
+        "t": "2:10*r That is, probably about 3,000 tons or about 2,700 metric tons of barley",
+        "a": "e"
+    },
+    {
+        "o": 12282,
+        "r": "niv:2 Chronicles:2:10",
+        "w": 24,
+        "l": {},
+        "t": "2:10*r That is, about 120,000 gallons or about 440,000 liters",
+        "a": "f"
+    }
+]

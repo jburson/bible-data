@@ -1,0 +1,50 @@
+[
+    {
+        "o": 15538,
+        "r": "niv:Psalm:22:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 22:1-31 is numbered 22:2-32.",
+        "a": "a"
+    },
+    {
+        "o": 15540,
+        "r": "niv:Psalm:22:2",
+        "w": 18,
+        "l": {},
+        "t": "22:2*r Or night,*i and*i am*i not*i silent*i",
+        "a": "b"
+    },
+    {
+        "o": 15541,
+        "r": "niv:Psalm:22:3",
+        "w": 13,
+        "l": {},
+        "t": "22:3*r Or Yet*i you*i are*i holy,*i /*i enthroned*i on*i the*i praises*i of*i Israel*i",
+        "a": "c"
+    },
+    {
+        "o": 15553,
+        "r": "niv:Psalm:22:15",
+        "w": 1,
+        "l": {},
+        "t": "22:15*r Probable reading of the original Hebrew text; Masoretic Text strength*i",
+        "a": "d"
+    },
+    {
+        "o": 15554,
+        "r": "niv:Psalm:22:16",
+        "w": 10,
+        "l": {},
+        "t": "22:16*r Dead Sea Scrolls and some manuscripts of the Masoretic Text, Septuagint and Syriac; most manuscripts of the Masoretic Text me,*i /*i like*i a*i lion*i",
+        "a": "e"
+    },
+    {
+        "o": 15563,
+        "r": "niv:Psalm:22:25",
+        "w": 16,
+        "l": {},
+        "t": "22:25*r Hebrew him*i",
+        "a": "f"
+    }
+]

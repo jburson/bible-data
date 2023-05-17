@@ -1,0 +1,434 @@
+[
+    {
+        "o": 4023,
+        "r": "esv:Numbers:3:2",
+        "w": 8,
+        "l": {},
+        "c": "Exodus 6:23*1821",
+        "a": "a"
+    },
+    {
+        "o": 4024,
+        "r": "esv:Numbers:3:3",
+        "w": 8,
+        "l": {},
+        "c": "Leviticus 8:1*3181",
+        "a": "b"
+    },
+    {
+        "o": 4024,
+        "r": "esv:Numbers:3:3",
+        "w": 11,
+        "l": {},
+        "c": "Exodus 28:41*2542",
+        "a": "c"
+    },
+    {
+        "o": 4025,
+        "r": "esv:Numbers:3:4",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 26:61*4955; Leviticus 10:1–2*3245; 1 Chronicles 24:2*12107",
+        "a": "d"
+    },
+    {
+        "o": 4028,
+        "r": "esv:Numbers:3:6",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 1:50*3979; Numbers 8:6*4290; Numbers 18:2*4636",
+        "a": "e"
+    },
+    {
+        "o": 4029,
+        "r": "esv:Numbers:3:7",
+        "w": 15,
+        "l": {},
+        "c": "Numbers 8:11*4295; Numbers 8:15*4299; Numbers 8:24*4309; Numbers 8:26*4311",
+        "a": "f"
+    },
+    {
+        "o": 4031,
+        "r": "esv:Numbers:3:9",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 8:19*4303; Numbers 18:6*4640",
+        "a": "g"
+    },
+    {
+        "o": 4031,
+        "r": "esv:Numbers:3:9",
+        "w": 12,
+        "l": {},
+        "c": "Numbers 8:16*4300",
+        "a": "h"
+    },
+    {
+        "o": 4032,
+        "r": "esv:Numbers:3:10",
+        "w": 8,
+        "l": {},
+        "c": "Numbers 18:7*4641; Romans 12:7*31590",
+        "a": "i"
+    },
+    {
+        "o": 4032,
+        "r": "esv:Numbers:3:10",
+        "w": 15,
+        "l": {},
+        "c": "Numbers 3:38*4060; Numbers 1:51*3980",
+        "a": "j"
+    },
+    {
+        "o": 4034,
+        "r": "esv:Numbers:3:12",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 3:41*4064; Numbers 8:16*4300; Numbers 18:6*4640",
+        "a": "k"
+    },
+    {
+        "o": 4035,
+        "r": "esv:Numbers:3:13",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 13:2*2036",
+        "a": "l"
+    },
+    {
+        "o": 4035,
+        "r": "esv:Numbers:3:13",
+        "w": 5,
+        "l": {},
+        "c": "Numbers 8:17*4301; Exodus 13:12*2046; Exodus 13:15*2049",
+        "a": "m"
+    },
+    {
+        "o": 4037,
+        "r": "esv:Numbers:3:15",
+        "w": 10,
+        "l": {},
+        "c": "Numbers 3:39*4062; Numbers 26:62*4956; Numbers 1:47*3976",
+        "a": "n"
+    },
+    {
+        "o": 4039,
+        "r": "esv:Numbers:3:17",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 26:57*4951; Genesis 46:11*1511; Exodus 6:16*1814; 1 Chronicles 6:1*11491; 1 Chronicles 6:16*11506; 1 Chronicles 23:6*12077",
+        "a": "o"
+    },
+    {
+        "o": 4040,
+        "r": "esv:Numbers:3:18",
+        "w": 12,
+        "l": {},
+        "c": "Exodus 6:17*1815; 1 Chronicles 6:17*11507; 1 Chronicles 23:7*12078",
+        "a": "p"
+    },
+    {
+        "o": 4041,
+        "r": "esv:Numbers:3:19",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 6:18*1816; 1 Chronicles 6:2*11492; 1 Chronicles 6:18*11508; 1 Chronicles 23:12*12083",
+        "a": "q"
+    },
+    {
+        "o": 4042,
+        "r": "esv:Numbers:3:20",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 6:19*1817; 1 Chronicles 6:19*11509; 1 Chronicles 23:21*12092",
+        "a": "r"
+    },
+    {
+        "o": 4044,
+        "r": "esv:Numbers:3:22",
+        "w": 16,
+        "l": {},
+        "t": "Hebrew their*i listing*i was*i",
+        "a": "s"
+    },
+    {
+        "o": 4045,
+        "r": "esv:Numbers:3:23",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 1:53*3982",
+        "a": "t"
+    },
+    {
+        "o": 4047,
+        "r": "esv:Numbers:3:25",
+        "w": 1,
+        "l": {},
+        "c": "Numbers 4:24–26*4100",
+        "a": "u"
+    },
+    {
+        "o": 4047,
+        "r": "esv:Numbers:3:25",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 25:9*2402",
+        "a": "v"
+    },
+    {
+        "o": 4047,
+        "r": "esv:Numbers:3:25",
+        "w": 16,
+        "l": {},
+        "c": "Exodus 26:7*2444; Exodus 36:14*2813",
+        "a": "w"
+    },
+    {
+        "o": 4047,
+        "r": "esv:Numbers:3:25",
+        "w": 19,
+        "l": {},
+        "c": "Exodus 26:14*2451",
+        "a": "x"
+    },
+    {
+        "o": 4047,
+        "r": "esv:Numbers:3:25",
+        "w": 21,
+        "l": {},
+        "c": "Exodus 26:36*2473",
+        "a": "y"
+    },
+    {
+        "o": 4048,
+        "r": "esv:Numbers:3:26",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 27:9*2486",
+        "a": "z"
+    },
+    {
+        "o": 4048,
+        "r": "esv:Numbers:3:26",
+        "w": 4,
+        "l": {},
+        "c": "Exodus 27:16*2493",
+        "a": "a"
+    },
+    {
+        "o": 4048,
+        "r": "esv:Numbers:3:26",
+        "w": 21,
+        "l": {},
+        "c": "Numbers 3:37*4059; Exodus 35:18*2780; Exodus 39:40*2949",
+        "a": "b"
+    },
+    {
+        "o": 4049,
+        "r": "esv:Numbers:3:27",
+        "w": 6,
+        "l": {},
+        "c": "1 Chronicles 26:23*12195",
+        "a": "c"
+    },
+    {
+        "o": 4052,
+        "r": "esv:Numbers:3:30",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 6:22*1820; Leviticus 10:4*3248",
+        "a": "d"
+    },
+    {
+        "o": 4053,
+        "r": "esv:Numbers:3:31",
+        "w": 4,
+        "l": {},
+        "c": "Exodus 25:10*2403",
+        "a": "e"
+    },
+    {
+        "o": 4053,
+        "r": "esv:Numbers:3:31",
+        "w": 6,
+        "l": {},
+        "c": "Exodus 25:23*2417",
+        "a": "f"
+    },
+    {
+        "o": 4053,
+        "r": "esv:Numbers:3:31",
+        "w": 8,
+        "l": {},
+        "c": "Exodus 25:31*2426",
+        "a": "g"
+    },
+    {
+        "o": 4053,
+        "r": "esv:Numbers:3:31",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 27:1*2477; Exodus 30:1*2595",
+        "a": "h"
+    },
+    {
+        "o": 4053,
+        "r": "esv:Numbers:3:31",
+        "w": 23,
+        "l": {},
+        "c": "Exodus 26:36*2473",
+        "a": "i"
+    },
+    {
+        "o": 4058,
+        "r": "esv:Numbers:3:36",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 4:31–32*4107",
+        "a": "j"
+    },
+    {
+        "o": 4058,
+        "r": "esv:Numbers:3:36",
+        "w": 11,
+        "l": {},
+        "c": "Exodus 26:15*2452",
+        "a": "k"
+    },
+    {
+        "o": 4058,
+        "r": "esv:Numbers:3:36",
+        "w": 15,
+        "l": {},
+        "c": "Exodus 26:26*2463",
+        "a": "l"
+    },
+    {
+        "o": 4058,
+        "r": "esv:Numbers:3:36",
+        "w": 17,
+        "l": {},
+        "c": "Exodus 26:32*2469; Exodus 26:37*2474",
+        "a": "m"
+    },
+    {
+        "o": 4059,
+        "r": "esv:Numbers:3:37",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 27:10*2487",
+        "a": "n"
+    },
+    {
+        "o": 4059,
+        "r": "esv:Numbers:3:37",
+        "w": 9,
+        "l": {},
+        "c": "Exodus 27:19*2497",
+        "a": "o"
+    },
+    {
+        "o": 4059,
+        "r": "esv:Numbers:3:37",
+        "w": 11,
+        "l": {},
+        "c": "Numbers 3:26*4048",
+        "a": "p"
+    },
+    {
+        "o": 4060,
+        "r": "esv:Numbers:3:38",
+        "w": 25,
+        "l": {},
+        "c": "Numbers 1:53*3982",
+        "a": "q"
+    },
+    {
+        "o": 4060,
+        "r": "esv:Numbers:3:38",
+        "w": 31,
+        "l": {},
+        "t": "Hebrew guard*i",
+        "a": "r"
+    },
+    {
+        "o": 4061,
+        "r": "esv:Numbers:3:39",
+        "w": 28,
+        "l": {},
+        "c": "Numbers 3:22*4044; Numbers 3:28*4050; Numbers 3:34*4056; Numbers 3:46–49*4069",
+        "a": "s"
+    },
+    {
+        "o": 4064,
+        "r": "esv:Numbers:3:41",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 3:12*4034; Numbers 3:45*4068",
+        "a": "t"
+    },
+    {
+        "o": 4068,
+        "r": "esv:Numbers:3:45",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 3:12*4034; Numbers 3:41*4064",
+        "a": "u"
+    },
+    {
+        "o": 4069,
+        "r": "esv:Numbers:3:46",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 18:15–16*4649; Exodus 13:13*2047",
+        "a": "v"
+    },
+    {
+        "o": 4070,
+        "r": "esv:Numbers:3:47",
+        "w": 2,
+        "l": {},
+        "c": "Numbers 18:16*4650; Leviticus 27:6*3898",
+        "a": "w"
+    },
+    {
+        "o": 4070,
+        "r": "esv:Numbers:3:47",
+        "w": 4,
+        "l": {},
+        "t": "A shekel*i was about 2/5 ounce or 11 grams",
+        "a": "x"
+    },
+    {
+        "o": 4070,
+        "r": "esv:Numbers:3:47",
+        "w": 12,
+        "l": {},
+        "c": "Exodus 30:13*2608",
+        "a": "y"
+    },
+    {
+        "o": 4070,
+        "r": "esv:Numbers:3:47",
+        "w": 22,
+        "l": {},
+        "t": "A gerah*i was about 1/50 ounce or 0.6 gram",
+        "a": "z"
+    },
+    {
+        "o": 4073,
+        "r": "esv:Numbers:3:50",
+        "w": 11,
+        "l": {},
+        "c": "Numbers 3:46–47*4069",
+        "a": "a"
+    },
+    {
+        "o": 4074,
+        "r": "esv:Numbers:3:51",
+        "w": 1,
+        "l": {},
+        "c": "Numbers 3:48*4071",
+        "a": "b"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "o": 1573,
+        "r": "niv:Genesis:48:3",
+        "w": 5,
+        "l": {},
+        "t": "48:3*r Hebrew El-Shaddai*i",
+        "a": "a"
+    },
+    {
+        "o": 1577,
+        "r": "niv:Genesis:48:7",
+        "w": 5,
+        "l": {},
+        "t": "48:7*r That is, Northwest Mesopotamia",
+        "a": "b"
+    },
+    {
+        "o": 1590,
+        "r": "niv:Genesis:48:20",
+        "w": 8,
+        "l": {},
+        "t": "48:20*r The Hebrew is singular.",
+        "a": "c"
+    },
+    {
+        "o": 1591,
+        "r": "niv:Genesis:48:21",
+        "w": 15,
+        "l": {},
+        "t": "48:21*r The Hebrew is plural.",
+        "a": "d"
+    },
+    {
+        "o": 1591,
+        "r": "niv:Genesis:48:21",
+        "w": 18,
+        "l": {},
+        "t": "48:21*r The Hebrew is plural.",
+        "a": "e"
+    },
+    {
+        "o": 1591,
+        "r": "niv:Genesis:48:21",
+        "w": 24,
+        "l": {},
+        "t": "48:21*r The Hebrew is plural.",
+        "a": "f"
+    },
+    {
+        "o": 1592,
+        "r": "niv:Genesis:48:22",
+        "w": 9,
+        "l": {},
+        "t": "48:22*r The Hebrew for ridge*i of*i land*i is identical with the place name Shechem.",
+        "a": "g"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "o": 11341,
+        "r": "niv:1 Chronicles:3:5",
+        "w": 9,
+        "l": {},
+        "t": "3:5*r Hebrew Shimea,*i a variant of Shammua*i",
+        "a": "a"
+    },
+    {
+        "o": 11341,
+        "r": "niv:1 Chronicles:3:5",
+        "w": 18,
+        "l": {},
+        "t": "3:5*r One Hebrew manuscript and Vulgate (see also Septuagint and 2 Samuel 11:3); most Hebrew manuscripts Bathshua*i",
+        "a": "b"
+    },
+    {
+        "o": 11342,
+        "r": "niv:1 Chronicles:3:6",
+        "w": 4,
+        "l": {},
+        "t": "3:6*r Two Hebrew manuscripts (see also 2 Samuel 5:15 and 1 Chron. 14:5); most Hebrew manuscripts Elishama*i",
+        "a": "c"
+    },
+    {
+        "o": 11348,
+        "r": "niv:1 Chronicles:3:11",
+        "w": 0,
+        "l": {},
+        "t": "3:11*r Hebrew Joram,*i a variant of Jehoram*i",
+        "a": "d"
+    },
+    {
+        "o": 11353,
+        "r": "niv:1 Chronicles:3:16",
+        "w": 4,
+        "l": {},
+        "t": "3:16*r Hebrew Jeconiah,*i a variant of Jehoiachin*i ; also in verse 17",
+        "a": "e"
+    }
+]

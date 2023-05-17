@@ -1,0 +1,26 @@
+[
+    {
+        "o": 23182,
+        "r": "niv:Ezekiel:26:1",
+        "w": 6,
+        "l": {},
+        "t": "26:1*r Probable reading of the original Hebrew text; Masoretic Text does not have month*i of*i the*i twelfth*i .",
+        "a": "a"
+    },
+    {
+        "o": 23188,
+        "r": "niv:Ezekiel:26:7",
+        "w": 18,
+        "l": {},
+        "t": "26:7*r Hebrew Nebuchadrezzar,*i of which Nebuchadnezzar*i is a variant; here and often in Ezekiel and Jeremiah",
+        "a": "b"
+    },
+    {
+        "o": 23201,
+        "r": "niv:Ezekiel:26:20",
+        "w": 49,
+        "l": {},
+        "t": "26:20*r Septuagint; Hebrew return,*i and*i I*i will*i give*i glory*i",
+        "a": "c"
+    }
+]

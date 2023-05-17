@@ -1,0 +1,226 @@
+[
+    {
+        "o": 20192,
+        "r": "esv:Isaiah:27:1",
+        "w": 11,
+        "l": {},
+        "c": "Jeremiah 47:6*22339",
+        "a": "a"
+    },
+    {
+        "o": 20192,
+        "r": "esv:Isaiah:27:1",
+        "w": 14,
+        "l": {},
+        "c": "Psalm 74:14*16673",
+        "a": "b"
+    },
+    {
+        "o": 20192,
+        "r": "esv:Isaiah:27:1",
+        "w": 18,
+        "l": {},
+        "c": "Psalm 74:14*16673",
+        "a": "c"
+    },
+    {
+        "o": 20192,
+        "r": "esv:Isaiah:27:1",
+        "w": 26,
+        "l": {},
+        "c": "Isaiah 51:9*20787; Ezekiel 29:3*23543",
+        "a": "d"
+    },
+    {
+        "o": 20193,
+        "r": "esv:Isaiah:27:2",
+        "w": 2,
+        "l": {},
+        "c": "Isaiah 5:7*19734",
+        "a": "e"
+    },
+    {
+        "o": 20193,
+        "r": "esv:Isaiah:27:2",
+        "w": 5,
+        "l": {},
+        "t": "Many Hebrew manuscripts A*i vineyard*i of*i wine*i",
+        "a": "f"
+    },
+    {
+        "o": 20193,
+        "r": "esv:Isaiah:27:2",
+        "w": 5,
+        "l": {},
+        "c": "Isaiah 26:1*20169",
+        "a": "g"
+    },
+    {
+        "o": 20195,
+        "r": "esv:Isaiah:27:4",
+        "w": 3,
+        "l": {},
+        "c": "Isaiah 10:17*19869",
+        "a": "h"
+    },
+    {
+        "o": 20197,
+        "r": "esv:Isaiah:27:6",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 37:31*20449; Hosea 14:5–6*24769",
+        "a": "i"
+    },
+    {
+        "o": 20197,
+        "r": "esv:Isaiah:27:6",
+        "w": 3,
+        "l": {},
+        "t": "Hebrew In*i those*i to*i come*i",
+        "a": "j"
+    },
+    {
+        "o": 20198,
+        "r": "esv:Isaiah:27:7",
+        "w": 0,
+        "l": {},
+        "c": "Hosea 6:1–2*24636",
+        "a": "k"
+    },
+    {
+        "o": 20198,
+        "r": "esv:Isaiah:27:7",
+        "w": 3,
+        "l": {},
+        "c": "Isaiah 37:36–38*20454",
+        "a": "l"
+    },
+    {
+        "o": 20198,
+        "r": "esv:Isaiah:27:7",
+        "w": 15,
+        "l": {},
+        "c": "Isaiah 37:18–19*20435",
+        "a": "m"
+    },
+    {
+        "o": 20199,
+        "r": "esv:Isaiah:27:8",
+        "w": 0,
+        "l": {},
+        "c": "Jeremiah 10:24*21390",
+        "a": "n"
+    },
+    {
+        "o": 20199,
+        "r": "esv:Isaiah:27:8",
+        "w": 2,
+        "l": {},
+        "t": "Or By*i driving*i her*i away*i ; the meaning of the Hebrew word is uncertain",
+        "a": "o"
+    },
+    {
+        "o": 20199,
+        "r": "esv:Isaiah:27:8",
+        "w": 8,
+        "l": {},
+        "c": "Jeremiah 18:17*21590",
+        "a": "p"
+    },
+    {
+        "o": 20199,
+        "r": "esv:Isaiah:27:8",
+        "w": 15,
+        "l": {},
+        "t": "Or wind*i",
+        "a": "q"
+    },
+    {
+        "o": 20200,
+        "r": "esv:Isaiah:27:9",
+        "w": 2,
+        "l": {},
+        "c": "Isaiah 22:14*20096",
+        "a": "r"
+    },
+    {
+        "o": 20200,
+        "r": "esv:Isaiah:27:9",
+        "w": 23,
+        "l": {},
+        "t": "Septuagint and*i this*i is*i the*i blessing*i when*i I*i take*i away*i his*i sin*i",
+        "a": "s"
+    },
+    {
+        "o": 20200,
+        "r": "esv:Isaiah:27:9",
+        "w": 23,
+        "l": {},
+        "c": "2 Kings 18:4*11017",
+        "a": "t"
+    },
+    {
+        "o": 20200,
+        "r": "esv:Isaiah:27:9",
+        "w": 38,
+        "l": {},
+        "c": "Deuteronomy 16:21*5847",
+        "a": "u"
+    },
+    {
+        "o": 20201,
+        "r": "esv:Isaiah:27:10",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 17:9*20011; Isaiah 32:14*20327; Isaiah 32:19*20332; Hosea 8:14*24679; Micah 5:11*25188",
+        "a": "v"
+    },
+    {
+        "o": 20202,
+        "r": "esv:Isaiah:27:11",
+        "w": 15,
+        "l": {},
+        "c": "Deuteronomy 32:28*6321; Isaiah 30:16–18*20281",
+        "a": "w"
+    },
+    {
+        "o": 20203,
+        "r": "esv:Isaiah:27:12",
+        "w": 2,
+        "l": {},
+        "c": "Genesis 15:18*415",
+        "a": "x"
+    },
+    {
+        "o": 20203,
+        "r": "esv:Isaiah:27:12",
+        "w": 6,
+        "l": {},
+        "t": "Hebrew from*i the*i River*i",
+        "a": "y"
+    },
+    {
+        "o": 20204,
+        "r": "esv:Isaiah:27:13",
+        "w": 3,
+        "l": {},
+        "c": "Leviticus 25:9*3792; Matthew 24:31*26763; Revelation 11:15*34609",
+        "a": "z"
+    },
+    {
+        "o": 20204,
+        "r": "esv:Isaiah:27:13",
+        "w": 9,
+        "l": {},
+        "c": "Isaiah 11:11*19900; Isaiah 11:16*19905; Micah 7:12*25226",
+        "a": "a"
+    },
+    {
+        "o": 20204,
+        "r": "esv:Isaiah:27:13",
+        "w": 30,
+        "l": {},
+        "c": "Isaiah 2:2*19667",
+        "a": "b"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "o": 12753,
+        "r": "niv:2 Chronicles:22:2",
+        "w": 2,
+        "l": {},
+        "t": "22:2*r Some Septuagint manuscripts and Syriac (see also 2 Kings 8:26); Hebrew forty-two*i",
+        "a": "a"
+    },
+    {
+        "o": 12756,
+        "r": "niv:2 Chronicles:22:5",
+        "w": 9,
+        "l": {},
+        "t": "22:5*r Hebrew Jehoram,*i a variant of Joram*i ; also in verses 6 and 7",
+        "a": "b"
+    },
+    {
+        "o": 12757,
+        "r": "niv:2 Chronicles:22:6",
+        "w": 16,
+        "l": {},
+        "t": "22:6*r Hebrew Ramah,*i a variant of Ramoth*i",
+        "a": "c"
+    },
+    {
+        "o": 12757,
+        "r": "niv:2 Chronicles:22:6",
+        "w": 26,
+        "l": {},
+        "t": "22:6*r Some Hebrew manuscripts, Septuagint, Vulgate and Syriac (see also 2 Kings 8:29); most Hebrew manuscripts Azariah*i",
+        "a": "d"
+    },
+    {
+        "o": 12763,
+        "r": "niv:2 Chronicles:22:11",
+        "w": 1,
+        "l": {},
+        "t": "22:11*r Hebrew Jehoshabeath,*i a variant of Jehosheba*i",
+        "a": "e"
+    },
+    {
+        "o": 12763,
+        "r": "niv:2 Chronicles:22:11",
+        "w": 37,
+        "l": {},
+        "t": "22:11*r Hebrew Jehoshabeath,*i a variant of Jehosheba*i",
+        "a": "f"
+    }
+]

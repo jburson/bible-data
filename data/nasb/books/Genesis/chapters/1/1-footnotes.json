@@ -1,0 +1,26 @@
+[
+    {
+        "o": 4,
+        "r": "nasb:Genesis:1:2",
+        "w": 2,
+        "l": {},
+        "t": "Or a waste and emptiness",
+        "a": "a"
+    },
+    {
+        "o": 4,
+        "r": "nasb:Genesis:1:2",
+        "w": 20,
+        "l": {},
+        "t": "Or hovering",
+        "a": "b"
+    },
+    {
+        "o": 9,
+        "r": "nasb:Genesis:1:7",
+        "w": 2,
+        "l": {},
+        "t": "Or firmament",
+        "a": "c"
+    }
+]

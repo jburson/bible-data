@@ -1,0 +1,18 @@
+[
+    {
+        "o": 16690,
+        "r": "niv:Psalm:82:2",
+        "w": 3,
+        "l": {},
+        "t": "82:2*r The Hebrew is plural.",
+        "a": "a"
+    },
+    {
+        "o": 16690,
+        "r": "niv:Psalm:82:2",
+        "w": 12,
+        "l": {},
+        "t": "82:2*r The Hebrew has Selah*i (a word of uncertain meaning) here.",
+        "a": "b"
+    }
+]

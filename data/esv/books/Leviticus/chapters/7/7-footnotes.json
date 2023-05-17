@@ -1,0 +1,338 @@
+[
+    {
+        "o": 3141,
+        "r": "esv:Leviticus:7:1",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 5–6:7*3087",
+        "a": "a"
+    },
+    {
+        "o": 3141,
+        "r": "esv:Leviticus:7:1",
+        "w": 5,
+        "l": {},
+        "c": "Leviticus 7:37*3177",
+        "a": "b"
+    },
+    {
+        "o": 3141,
+        "r": "esv:Leviticus:7:1",
+        "w": 7,
+        "l": {},
+        "c": "Leviticus 6:17*3126; Leviticus 6:25*3134",
+        "a": "c"
+    },
+    {
+        "o": 3142,
+        "r": "esv:Leviticus:7:2",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 6:25*3134",
+        "a": "d"
+    },
+    {
+        "o": 3143,
+        "r": "esv:Leviticus:7:3",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 3:3–4*3035; Leviticus 3:9–10*3041; Leviticus 3:14–16*3046; Leviticus 4:8–9*3059; Exodus 29:13*2559; Exodus 29:22*2568",
+        "a": "e"
+    },
+    {
+        "o": 3144,
+        "r": "esv:Leviticus:7:4",
+        "w": 23,
+        "l": {},
+        "c": "Leviticus 3:4*3036",
+        "a": "f"
+    },
+    {
+        "o": 3146,
+        "r": "esv:Leviticus:7:6",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 6:18*3127; Leviticus 6:29*3138",
+        "a": "g"
+    },
+    {
+        "o": 3146,
+        "r": "esv:Leviticus:7:6",
+        "w": 16,
+        "l": {},
+        "c": "Leviticus 7:1*3141",
+        "a": "h"
+    },
+    {
+        "o": 3147,
+        "r": "esv:Leviticus:7:7",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 6:25–26*3134; Leviticus 14:13*3399",
+        "a": "i"
+    },
+    {
+        "o": 3149,
+        "r": "esv:Leviticus:7:9",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 2:3*3017; Leviticus 2:10*3024; Numbers 18:9*4643; Ezekiel 44:29*24032",
+        "a": "j"
+    },
+    {
+        "o": 3149,
+        "r": "esv:Leviticus:7:9",
+        "w": 4,
+        "l": {},
+        "c": "Leviticus 2:7*3021",
+        "a": "k"
+    },
+    {
+        "o": 3149,
+        "r": "esv:Leviticus:7:9",
+        "w": 12,
+        "l": {},
+        "c": "Leviticus 2:5*3019; Leviticus 6:21*3130",
+        "a": "l"
+    },
+    {
+        "o": 3152,
+        "r": "esv:Leviticus:7:12",
+        "w": 14,
+        "l": {},
+        "c": "Leviticus 2:4*3018; Numbers 6:15*4177",
+        "a": "m"
+    },
+    {
+        "o": 3152,
+        "r": "esv:Leviticus:7:12",
+        "w": 29,
+        "l": {},
+        "c": "Leviticus 6:21*3130",
+        "a": "n"
+    },
+    {
+        "o": 3153,
+        "r": "esv:Leviticus:7:13",
+        "w": 0,
+        "l": {},
+        "c": "Amos 4:5*24917",
+        "a": "o"
+    },
+    {
+        "o": 3154,
+        "r": "esv:Leviticus:7:14",
+        "w": 12,
+        "l": {},
+        "c": "Exodus 29:27–28*2573",
+        "a": "p"
+    },
+    {
+        "o": 3154,
+        "r": "esv:Leviticus:7:14",
+        "w": 16,
+        "l": {},
+        "c": "Numbers 18:8*4642; Numbers 18:11*4645; Numbers 18:19*4653",
+        "a": "q"
+    },
+    {
+        "o": 3155,
+        "r": "esv:Leviticus:7:15",
+        "w": 9,
+        "l": {},
+        "c": "Leviticus 22:29–30*3695",
+        "a": "r"
+    },
+    {
+        "o": 3156,
+        "r": "esv:Leviticus:7:16",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 19:6–8*3574; Leviticus 22:21*3687",
+        "a": "s"
+    },
+    {
+        "o": 3158,
+        "r": "esv:Leviticus:7:18",
+        "w": 34,
+        "l": {},
+        "c": "Leviticus 19:7*3575",
+        "a": "t"
+    },
+    {
+        "o": 3160,
+        "r": "esv:Leviticus:7:20",
+        "w": 15,
+        "l": {},
+        "c": "Leviticus 15:3*3449; Leviticus 22:3*3668",
+        "a": "u"
+    },
+    {
+        "o": 3161,
+        "r": "esv:Leviticus:7:21",
+        "w": 7,
+        "l": {},
+        "c": "Leviticus 12:1*3316; Leviticus 13:1*3326; Leviticus 15:1*3447",
+        "a": "v"
+    },
+    {
+        "o": 3161,
+        "r": "esv:Leviticus:7:21",
+        "w": 11,
+        "l": {},
+        "c": "Leviticus 11:24–28*3290",
+        "a": "w"
+    },
+    {
+        "o": 3161,
+        "r": "esv:Leviticus:7:21",
+        "w": 15,
+        "l": {},
+        "c": "Leviticus 11:10–23*3276",
+        "a": "x"
+    },
+    {
+        "o": 3163,
+        "r": "esv:Leviticus:7:23",
+        "w": 6,
+        "l": {},
+        "c": "Leviticus 3:16–17*3048",
+        "a": "y"
+    },
+    {
+        "o": 3164,
+        "r": "esv:Leviticus:7:24",
+        "w": 4,
+        "l": {},
+        "c": "Leviticus 17:15*3533; Leviticus 22:8*3673; Exodus 22:31*2334; Deuteronomy 14:21*5787; Ezekiel 4:14*22839; Ezekiel 44:31*24034",
+        "a": "z"
+    },
+    {
+        "o": 3166,
+        "r": "esv:Leviticus:7:26",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 3:17*3049",
+        "a": "a"
+    },
+    {
+        "o": 3169,
+        "r": "esv:Leviticus:7:29",
+        "w": 6,
+        "l": {},
+        "c": "Leviticus 3:1*3033",
+        "a": "b"
+    },
+    {
+        "o": 3170,
+        "r": "esv:Leviticus:7:30",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 3:3–4*3035; Leviticus 3:9*3041; Leviticus 3:14*3046",
+        "a": "c"
+    },
+    {
+        "o": 3170,
+        "r": "esv:Leviticus:7:30",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 29:24*2570",
+        "a": "d"
+    },
+    {
+        "o": 3171,
+        "r": "esv:Leviticus:7:31",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 3:5*3037; Leviticus 3:11*3043; Leviticus 3:16*3048",
+        "a": "e"
+    },
+    {
+        "o": 3171,
+        "r": "esv:Leviticus:7:31",
+        "w": 9,
+        "l": {},
+        "c": "Leviticus 9:21*3239; Numbers 6:20*4182",
+        "a": "f"
+    },
+    {
+        "o": 3172,
+        "r": "esv:Leviticus:7:32",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 7:31*3171",
+        "a": "g"
+    },
+    {
+        "o": 3174,
+        "r": "esv:Leviticus:7:34",
+        "w": 4,
+        "l": {},
+        "c": "Leviticus 7:31*3171",
+        "a": "h"
+    },
+    {
+        "o": 3174,
+        "r": "esv:Leviticus:7:34",
+        "w": 10,
+        "l": {},
+        "c": "Leviticus 7:31*3171",
+        "a": "i"
+    },
+    {
+        "o": 3174,
+        "r": "esv:Leviticus:7:34",
+        "w": 28,
+        "l": {},
+        "c": "Exodus 29:28*2574; Numbers 18:18–19*4652",
+        "a": "j"
+    },
+    {
+        "o": 3176,
+        "r": "esv:Leviticus:7:36",
+        "w": 12,
+        "l": {},
+        "c": "Leviticus 8:12*3192; Leviticus 8:30*3210; Exodus 40:13–15*2967",
+        "a": "k"
+    },
+    {
+        "o": 3177,
+        "r": "esv:Leviticus:7:37",
+        "w": 3,
+        "l": {},
+        "c": "Leviticus 6:9*3118; Leviticus 6:14*3123; Leviticus 6:25*3134",
+        "a": "l"
+    },
+    {
+        "o": 3177,
+        "r": "esv:Leviticus:7:37",
+        "w": 15,
+        "l": {},
+        "c": "Leviticus 7:1*3141",
+        "a": "m"
+    },
+    {
+        "o": 3177,
+        "r": "esv:Leviticus:7:37",
+        "w": 19,
+        "l": {},
+        "c": "Leviticus 6:20*3129; Exodus 29:1*2547",
+        "a": "n"
+    },
+    {
+        "o": 3177,
+        "r": "esv:Leviticus:7:37",
+        "w": 24,
+        "l": {},
+        "c": "Leviticus 7:11*3151",
+        "a": "o"
+    },
+    {
+        "o": 3178,
+        "r": "esv:Leviticus:7:38",
+        "w": 17,
+        "l": {},
+        "c": "Leviticus 1:2*2997",
+        "a": "p"
+    }
+]

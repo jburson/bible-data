@@ -1,0 +1,42 @@
+[
+    {
+        "o": 16649,
+        "r": "niv:Psalm:80:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 80:1-19 is numbered 80:2-20.",
+        "a": "a"
+    },
+    {
+        "o": 16655,
+        "r": "niv:Psalm:80:6",
+        "w": 7,
+        "l": {},
+        "t": "80:6*r Probable reading of the original Hebrew text; Masoretic Text contention*i",
+        "a": "b"
+    },
+    {
+        "o": 16660,
+        "r": "niv:Psalm:80:11",
+        "w": 7,
+        "l": {},
+        "t": "80:11*r Probably the Mediterranean",
+        "a": "c"
+    },
+    {
+        "o": 16660,
+        "r": "niv:Psalm:80:11",
+        "w": 14,
+        "l": {},
+        "t": "80:11*r That is, the Euphrates",
+        "a": "d"
+    },
+    {
+        "o": 16664,
+        "r": "niv:Psalm:80:15",
+        "w": 8,
+        "l": {},
+        "t": "80:15*r Or branch*i",
+        "a": "e"
+    }
+]

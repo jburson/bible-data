@@ -1,0 +1,74 @@
+[
+    {
+        "o": 24030,
+        "r": "niv:Daniel:5:2",
+        "w": 20,
+        "l": {},
+        "t": "5:2*r Or ancestor*i ; or predecessor*i ; also in verses 11, 13 and 18",
+        "a": "a"
+    },
+    {
+        "o": 24035,
+        "r": "niv:Daniel:5:7",
+        "w": 5,
+        "l": {},
+        "t": "5:7*r Or Chaldeans*i ; also in verse 11",
+        "a": "b"
+    },
+    {
+        "o": 24038,
+        "r": "niv:Daniel:5:10",
+        "w": 1,
+        "l": {},
+        "t": "5:10*r Or queen*i mother*i",
+        "a": "c"
+    },
+    {
+        "o": 24050,
+        "r": "niv:Daniel:5:22",
+        "w": 4,
+        "l": {},
+        "t": "5:22*r Or descendant*i ; or successor*i",
+        "a": "d"
+    },
+    {
+        "o": 24054,
+        "r": "niv:Daniel:5:26",
+        "w": 6,
+        "l": {},
+        "t": "5:26*r Mene*i can mean numbered*i or mina*i (a unit of money).",
+        "a": "e"
+    },
+    {
+        "o": 24055,
+        "r": "niv:Daniel:5:27",
+        "w": 0,
+        "l": {},
+        "t": "5:27*r Tekel*i can mean weighed*i or shekel.*i",
+        "a": "f"
+    },
+    {
+        "o": 24056,
+        "r": "niv:Daniel:5:28",
+        "w": 0,
+        "l": {},
+        "t": "5:28*r Peres*i (the singular of Parsin) can mean divided*i or Persia*i or a*i half*i mina*i or a*i half*i shekel.*i",
+        "a": "g"
+    },
+    {
+        "o": 24058,
+        "r": "niv:Daniel:5:30",
+        "w": 7,
+        "l": {},
+        "t": "5:30*r Or Chaldeans*i",
+        "a": "h"
+    },
+    {
+        "o": 24059,
+        "r": "niv:Daniel:5:31",
+        "w": 12,
+        "l": {},
+        "t": "5:31*r In Aramaic texts this verse (5:31) is numbered 6:1.",
+        "a": "i"
+    }
+]

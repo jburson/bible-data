@@ -1,0 +1,42 @@
+[
+    {
+        "o": 25022,
+        "r": "niv:Habakkuk:2:1",
+        "w": 32,
+        "l": {},
+        "t": "2:1*r Or and*i what*i to*i answer*i when*i I*i am*i rebuked*i",
+        "a": "a"
+    },
+    {
+        "o": 25024,
+        "r": "niv:Habakkuk:2:2",
+        "w": 17,
+        "l": {},
+        "t": "2:2*r Or so*i that*i whoever*i reads*i it*i",
+        "a": "b"
+    },
+    {
+        "o": 25025,
+        "r": "niv:Habakkuk:2:3",
+        "w": 23,
+        "l": {},
+        "t": "2:3*r Or Though*i he*i linger,*i wait*i for*i him;*i /*i he*i",
+        "a": "c"
+    },
+    {
+        "o": 25026,
+        "r": "niv:Habakkuk:2:4",
+        "w": 19,
+        "l": {},
+        "t": "2:4*r Or faith*i",
+        "a": "d"
+    },
+    {
+        "o": 25038,
+        "r": "niv:Habakkuk:2:16",
+        "w": 20,
+        "l": {},
+        "t": "2:16*r Masoretic Text; Dead Sea Scrolls, Aquila, Vulgate and Syriac (see also Septuagint) and*i stagger*i",
+        "a": "e"
+    }
+]

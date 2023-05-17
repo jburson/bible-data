@@ -1,0 +1,26 @@
+[
+    {
+        "o": 27875,
+        "r": "niv:Luke:8:10",
+        "w": 37,
+        "l": {},
+        "t": "8:10*r Isaiah 6:9",
+        "a": "a"
+    },
+    {
+        "o": 27895,
+        "r": "niv:Luke:8:26",
+        "w": 7,
+        "l": {},
+        "t": "8:26*r Some manuscripts Gadarenes*i ; other manuscripts Gergesenes*i ; also in verse 37",
+        "a": "b"
+    },
+    {
+        "o": 27913,
+        "r": "niv:Luke:8:43",
+        "w": 13,
+        "l": {},
+        "t": "8:43*r Many manuscripts years,*i and*i she*i had*i spent*i all*i she*i had*i on*i doctors*i",
+        "a": "c"
+    }
+]

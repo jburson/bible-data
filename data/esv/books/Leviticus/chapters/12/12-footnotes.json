@@ -1,0 +1,66 @@
+[
+    {
+        "o": 3317,
+        "r": "esv:Leviticus:12:2",
+        "w": 16,
+        "l": {},
+        "c": "Luke 2:22*27918",
+        "a": "a"
+    },
+    {
+        "o": 3317,
+        "r": "esv:Leviticus:12:2",
+        "w": 22,
+        "l": {},
+        "c": "Leviticus 15:19*3465",
+        "a": "b"
+    },
+    {
+        "o": 3318,
+        "r": "esv:Leviticus:12:3",
+        "w": 2,
+        "l": {},
+        "c": "Genesis 17:12*450; Luke 1:59*27870; Luke 2:21*27917; John 7:22–23*29463",
+        "a": "c"
+    },
+    {
+        "o": 3321,
+        "r": "esv:Leviticus:12:6",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 12:2*3317",
+        "a": "d"
+    },
+    {
+        "o": 3323,
+        "r": "esv:Leviticus:12:8",
+        "w": 10,
+        "l": {},
+        "c": "Leviticus 1:14*3009; Leviticus 5:7*3094; Luke 2:24*27920",
+        "a": "e"
+    },
+    {
+        "o": 3323,
+        "r": "esv:Leviticus:12:8",
+        "w": 15,
+        "l": {},
+        "t": "Septuagint two*i young*i pigeons*i",
+        "a": "f"
+    },
+    {
+        "o": 3323,
+        "r": "esv:Leviticus:12:8",
+        "w": 15,
+        "l": {},
+        "c": "Leviticus 12:6*3321",
+        "a": "g"
+    },
+    {
+        "o": 3323,
+        "r": "esv:Leviticus:12:8",
+        "w": 27,
+        "l": {},
+        "c": "Leviticus 4:26*3077",
+        "a": "h"
+    }
+]

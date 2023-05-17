@@ -1,0 +1,26 @@
+[
+    {
+        "o": 16775,
+        "r": "niv:Psalm:88:0",
+        "w": 19,
+        "l": {},
+        "t": "Title: Probably a literary or musical term",
+        "a": "a"
+    },
+    {
+        "o": 16782,
+        "r": "niv:Psalm:88:7",
+        "w": 13,
+        "l": {},
+        "t": "88:7*r The Hebrew has Selah*i (a word of uncertain meaning) here and at the end of verse 10.",
+        "a": "b"
+    },
+    {
+        "o": 16786,
+        "r": "niv:Psalm:88:11",
+        "w": 10,
+        "l": {},
+        "t": "88:11*r Hebrew Abaddon*i",
+        "a": "c"
+    }
+]

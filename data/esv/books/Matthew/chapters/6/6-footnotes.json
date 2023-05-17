@@ -1,0 +1,490 @@
+[
+    {
+        "o": 25943,
+        "r": "esv:Matthew:6:1",
+        "w": 1,
+        "l": {},
+        "c": "1 John 2:29*34247",
+        "a": "a"
+    },
+    {
+        "o": 25943,
+        "r": "esv:Matthew:6:1",
+        "w": 9,
+        "l": {},
+        "c": "Matthew 6:16*25960; Matthew 23:5*26692",
+        "a": "b"
+    },
+    {
+        "o": 25944,
+        "r": "esv:Matthew:6:2",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 13:3*32057",
+        "a": "c"
+    },
+    {
+        "o": 25944,
+        "r": "esv:Matthew:6:2",
+        "w": 25,
+        "l": {},
+        "c": "John 5:44*29360",
+        "a": "d"
+    },
+    {
+        "o": 25944,
+        "r": "esv:Matthew:6:2",
+        "w": 36,
+        "l": {},
+        "c": "Luke 6:24*28118",
+        "a": "e"
+    },
+    {
+        "o": 25946,
+        "r": "esv:Matthew:6:4",
+        "w": 7,
+        "l": {},
+        "c": "Matthew 6:6*25949; Matthew 6:18*25963",
+        "a": "f"
+    },
+    {
+        "o": 25948,
+        "r": "esv:Matthew:6:5",
+        "w": 13,
+        "l": {},
+        "c": "Mark 11:25*27538; Luke 18:11*28735",
+        "a": "g"
+    },
+    {
+        "o": 25948,
+        "r": "esv:Matthew:6:5",
+        "w": 32,
+        "l": {},
+        "c": "Matthew 6:2*25944; Matthew 6:16*25960",
+        "a": "h"
+    },
+    {
+        "o": 25949,
+        "r": "esv:Matthew:6:6",
+        "w": 3,
+        "l": {},
+        "c": "2 Kings 4:33*10570; Isaiah 26:20*20188",
+        "a": "i"
+    },
+    {
+        "o": 25949,
+        "r": "esv:Matthew:6:6",
+        "w": 20,
+        "l": {},
+        "c": "Matthew 6:4*25947; Matthew 6:18*25963",
+        "a": "j"
+    },
+    {
+        "o": 25950,
+        "r": "esv:Matthew:6:7",
+        "w": 10,
+        "l": {},
+        "c": "Matthew 6:32*25978; Matthew 5:47*25939",
+        "a": "k"
+    },
+    {
+        "o": 25950,
+        "r": "esv:Matthew:6:7",
+        "w": 14,
+        "l": {},
+        "c": "1 Kings 18:26*10270",
+        "a": "l"
+    },
+    {
+        "o": 25950,
+        "r": "esv:Matthew:6:7",
+        "w": 21,
+        "l": {},
+        "c": "Proverbs 10:19*18535; Ecclesiastes 5:2*19301",
+        "a": "m"
+    },
+    {
+        "o": 25951,
+        "r": "esv:Matthew:6:8",
+        "w": 4,
+        "l": {},
+        "c": "Matthew 6:32*25978",
+        "a": "n"
+    },
+    {
+        "o": 25952,
+        "r": "esv:Matthew:6:9",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 6:9–13*25952; Luke 11:2–4*28397",
+        "a": "o"
+    },
+    {
+        "o": 25952,
+        "r": "esv:Matthew:6:9",
+        "w": 3,
+        "l": {},
+        "c": "Matthew 6:1*25943",
+        "a": "p"
+    },
+    {
+        "o": 25952,
+        "r": "esv:Matthew:6:9",
+        "w": 7,
+        "l": {},
+        "c": "Isaiah 29:23*20261; Luke 1:49*27859; 1 Peter 3:15*34083",
+        "a": "q"
+    },
+    {
+        "o": 25952,
+        "r": "esv:Matthew:6:9",
+        "w": 9,
+        "l": {},
+        "c": "John 17:6*29927",
+        "a": "r"
+    },
+    {
+        "o": 25952,
+        "r": "esv:Matthew:6:9",
+        "w": 11,
+        "l": {},
+        "t": "Or Let*i your*i name*i be*i kept*i holy*i , or Let*i your*i name*i be*i treated*i with*i reverence*i",
+        "a": "s"
+    },
+    {
+        "o": 25953,
+        "r": "esv:Matthew:6:10",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 3:2*25835; Matthew 4:17*25872",
+        "a": "t"
+    },
+    {
+        "o": 25953,
+        "r": "esv:Matthew:6:10",
+        "w": 2,
+        "l": {},
+        "c": "Matthew 26:42*26884; Luke 22:42*28976; Acts 21:14*30951; Matthew 12:50*26245; Hebrews 13:21*33879",
+        "a": "u"
+    },
+    {
+        "o": 25953,
+        "r": "esv:Matthew:6:10",
+        "w": 6,
+        "l": {},
+        "t": "Or Let*i your*i kingdom*i come,*i let*i your*i will*i be*i done*i",
+        "a": "v"
+    },
+    {
+        "o": 25953,
+        "r": "esv:Matthew:6:10",
+        "w": 6,
+        "l": {},
+        "c": "Psalm 103:20–21*17261; Daniel 4:35*24304",
+        "a": "w"
+    },
+    {
+        "o": 25954,
+        "r": "esv:Matthew:6:11",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 30:8*19143",
+        "a": "x"
+    },
+    {
+        "o": 25954,
+        "r": "esv:Matthew:6:11",
+        "w": 1,
+        "l": {},
+        "c": "Matthew 6:34*25980",
+        "a": "y"
+    },
+    {
+        "o": 25954,
+        "r": "esv:Matthew:6:11",
+        "w": 6,
+        "l": {},
+        "t": "Or our*i bread*i for*i tomorrow*i",
+        "a": "z"
+    },
+    {
+        "o": 25956,
+        "r": "esv:Matthew:6:13",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 26:41*26883; Mark 14:38*27687; Luke 22:40*28974; Luke 22:46*28981; 1 Corinthians 10:13*31960",
+        "a": "a"
+    },
+    {
+        "o": 25956,
+        "r": "esv:Matthew:6:13",
+        "w": 6,
+        "l": {},
+        "c": "John 17:15*29936; 2 Thessalonians 3:3*33216; 2 Timothy 4:18*33457",
+        "a": "b"
+    },
+    {
+        "o": 25956,
+        "r": "esv:Matthew:6:13",
+        "w": 9,
+        "l": {},
+        "c": "Matthew 13:19*26268",
+        "a": "c"
+    },
+    {
+        "o": 25956,
+        "r": "esv:Matthew:6:13",
+        "w": 10,
+        "l": {},
+        "t": "Or the*i evil*i one*i ; some manuscripts add For*i yours*i is*i the*i kingdom*i and*i the*i power*i and*i the*i glory,*i forever.*i Amen*i",
+        "a": "d"
+    },
+    {
+        "o": 25957,
+        "r": "esv:Matthew:6:14",
+        "w": 0,
+        "l": {},
+        "c": "Mark 11:25*27538; Luke 6:37*28133; Ephesians 4:32*32777; Colossians 3:13*33038",
+        "a": "e"
+    },
+    {
+        "o": 25958,
+        "r": "esv:Matthew:6:15",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 18:35*26507; James 2:13*33930",
+        "a": "f"
+    },
+    {
+        "o": 25960,
+        "r": "esv:Matthew:6:16",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 58:5*20912",
+        "a": "g"
+    },
+    {
+        "o": 25960,
+        "r": "esv:Matthew:6:16",
+        "w": 23,
+        "l": {},
+        "c": "Matthew 6:2*25944; Matthew 6:5*25948",
+        "a": "h"
+    },
+    {
+        "o": 25961,
+        "r": "esv:Matthew:6:17",
+        "w": 3,
+        "l": {},
+        "c": "Ruth 3:3*7850; 2 Samuel 12:20*9104",
+        "a": "i"
+    },
+    {
+        "o": 25962,
+        "r": "esv:Matthew:6:18",
+        "w": 16,
+        "l": {},
+        "c": "Matthew 6:4*25947; Matthew 6:6*25949",
+        "a": "j"
+    },
+    {
+        "o": 25964,
+        "r": "esv:Matthew:6:19",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 19:21*26532; Luke 12:21*28482; Luke 12:33–34*28494; Luke 18:22*28748; 1 Timothy 6:9–10*33352; 1 Timothy 6:17–19*33361; Hebrews 13:5*33861",
+        "a": "k"
+    },
+    {
+        "o": 25964,
+        "r": "esv:Matthew:6:19",
+        "w": 9,
+        "l": {},
+        "c": "James 5:2–3*33988",
+        "a": "l"
+    },
+    {
+        "o": 25964,
+        "r": "esv:Matthew:6:19",
+        "w": 12,
+        "l": {},
+        "t": "Or worm*i ; also verse 20",
+        "a": "m"
+    },
+    {
+        "o": 25964,
+        "r": "esv:Matthew:6:19",
+        "w": 16,
+        "l": {},
+        "c": "Matthew 24:43*26776",
+        "a": "n"
+    },
+    {
+        "o": 25965,
+        "r": "esv:Matthew:6:20",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 6:19*25964",
+        "a": "o"
+    },
+    {
+        "o": 25967,
+        "r": "esv:Matthew:6:22",
+        "w": 0,
+        "l": {},
+        "c": "Luke 11:34–35*28434",
+        "a": "p"
+    },
+    {
+        "o": 25968,
+        "r": "esv:Matthew:6:23",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 6:22*25967",
+        "a": "q"
+    },
+    {
+        "o": 25968,
+        "r": "esv:Matthew:6:23",
+        "w": 1,
+        "l": {},
+        "c": "Matthew 20:15*26558; Deuteronomy 15:9*5806; Proverbs 28:22*19099",
+        "a": "r"
+    },
+    {
+        "o": 25969,
+        "r": "esv:Matthew:6:24",
+        "w": 0,
+        "l": {},
+        "c": "Luke 16:13*28659; Romans 6:16*31402; James 4:4*33970",
+        "a": "s"
+    },
+    {
+        "o": 25969,
+        "r": "esv:Matthew:6:24",
+        "w": 33,
+        "l": {},
+        "c": "Luke 16:9*28654; Luke 16:11*28656; Luke 16:13*28659",
+        "a": "t"
+    },
+    {
+        "o": 25969,
+        "r": "esv:Matthew:6:24",
+        "w": 34,
+        "l": {},
+        "t": "Greek mammon*i , a Semitic word for money or possessions",
+        "a": "u"
+    },
+    {
+        "o": 25971,
+        "r": "esv:Matthew:6:25",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 6:25–33*25971; Luke 12:22–31*28483",
+        "a": "v"
+    },
+    {
+        "o": 25971,
+        "r": "esv:Matthew:6:25",
+        "w": 3,
+        "l": {},
+        "c": "Matthew 6:27–28*25973; Matthew 6:31*25977; Matthew 6:34*25980; Matthew 10:19*26127; Matthew 13:22*26271; 1 Corinthians 7:32*31893; Philippians 4:6*32944; 1 Peter 5:7*34121",
+        "a": "w"
+    },
+    {
+        "o": 25972,
+        "r": "esv:Matthew:6:26",
+        "w": 0,
+        "l": {},
+        "c": "Job 38:41*15217; Psalm 147:9*18189",
+        "a": "x"
+    },
+    {
+        "o": 25972,
+        "r": "esv:Matthew:6:26",
+        "w": 22,
+        "l": {},
+        "c": "Matthew 10:31*26140",
+        "a": "y"
+    },
+    {
+        "o": 25973,
+        "r": "esv:Matthew:6:27",
+        "w": 13,
+        "l": {},
+        "c": "Luke 2:52*27950",
+        "a": "z"
+    },
+    {
+        "o": 25973,
+        "r": "esv:Matthew:6:27",
+        "w": 16,
+        "l": {},
+        "t": "Or a*i single*i cubit*i to*i his*i stature*i ; a cubit*i was about 18 inches or 45 centimeters",
+        "a": "a"
+    },
+    {
+        "o": 25975,
+        "r": "esv:Matthew:6:29",
+        "w": 3,
+        "l": {},
+        "c": "1 Kings 10:4–7*9954",
+        "a": "b"
+    },
+    {
+        "o": 25976,
+        "r": "esv:Matthew:6:30",
+        "w": 27,
+        "l": {},
+        "c": "Matthew 8:26*26049; Matthew 14:31*26351; Matthew 16:8*26413; Matthew 17:20*26460",
+        "a": "c"
+    },
+    {
+        "o": 25978,
+        "r": "esv:Matthew:6:32",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 6:7*25950",
+        "a": "d"
+    },
+    {
+        "o": 25978,
+        "r": "esv:Matthew:6:32",
+        "w": 8,
+        "l": {},
+        "c": "Matthew 6:8*25951",
+        "a": "e"
+    },
+    {
+        "o": 25979,
+        "r": "esv:Matthew:6:33",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:6*25890; Matthew 5:20*25907",
+        "a": "f"
+    },
+    {
+        "o": 25979,
+        "r": "esv:Matthew:6:33",
+        "w": 2,
+        "l": {},
+        "c": "Matthew 6:10*25953",
+        "a": "g"
+    },
+    {
+        "o": 25979,
+        "r": "esv:Matthew:6:33",
+        "w": 9,
+        "l": {},
+        "c": "1 Kings 3:11–14*9676; Mark 10:29–30*27481; 1 Timothy 4:8*33305; 1 Peter 3:9*34077",
+        "a": "h"
+    },
+    {
+        "o": 25980,
+        "r": "esv:Matthew:6:34",
+        "w": 0,
+        "l": {},
+        "c": "James 4:13–14*33980",
+        "a": "i"
+    }
+]

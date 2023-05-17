@@ -1,0 +1,26 @@
+[
+    {
+        "o": 12812,
+        "r": "niv:2 Chronicles:24:23",
+        "w": 5,
+        "l": {},
+        "t": "24:23*r Probably in the spring",
+        "a": "a"
+    },
+    {
+        "o": 12815,
+        "r": "niv:2 Chronicles:24:26",
+        "w": 6,
+        "l": {},
+        "t": "24:26*r A variant of Jozabad*i",
+        "a": "b"
+    },
+    {
+        "o": 12815,
+        "r": "niv:2 Chronicles:24:26",
+        "w": 17,
+        "l": {},
+        "t": "24:26*r A variant of Shomer*i",
+        "a": "c"
+    }
+]

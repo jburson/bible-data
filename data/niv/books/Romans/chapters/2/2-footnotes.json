@@ -1,0 +1,26 @@
+[
+    {
+        "o": 30876,
+        "r": "niv:Romans:2:6",
+        "w": 10,
+        "l": {},
+        "t": "2:6*r Psalm 62:12; Prov. 24:12",
+        "a": "a"
+    },
+    {
+        "o": 30895,
+        "r": "niv:Romans:2:24",
+        "w": 13,
+        "l": {},
+        "t": "2:24*r Isaiah 52:5 (see Septuagint); Ezek. 36:20,22",
+        "a": "b"
+    },
+    {
+        "o": 30898,
+        "r": "niv:Romans:2:27",
+        "w": 20,
+        "l": {},
+        "t": "2:27*r Or who,*i by*i means*i of*i a*i",
+        "a": "c"
+    }
+]

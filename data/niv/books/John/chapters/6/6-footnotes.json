@@ -1,0 +1,42 @@
+[
+    {
+        "o": 28998,
+        "r": "niv:John:6:7",
+        "w": 11,
+        "l": {},
+        "t": "6:7*r Greek take*i two*i hundred*i denarii*i",
+        "a": "a"
+    },
+    {
+        "o": 29011,
+        "r": "niv:John:6:19",
+        "w": 8,
+        "l": {},
+        "t": "6:19*r Or about 5 or 6 kilometers",
+        "a": "b"
+    },
+    {
+        "o": 29024,
+        "r": "niv:John:6:31",
+        "w": 19,
+        "l": {},
+        "t": "6:31*r Exodus 16:4; Neh. 9:15; Psalm 78:24,25",
+        "a": "c"
+    },
+    {
+        "o": 29038,
+        "r": "niv:John:6:45",
+        "w": 12,
+        "l": {},
+        "t": "6:45*r Isaiah 54:13",
+        "a": "d"
+    },
+    {
+        "o": 29057,
+        "r": "niv:John:6:63",
+        "w": 20,
+        "l": {},
+        "t": "6:63*r Or are*i Spirit*i ; or are*i spirit*i",
+        "a": "e"
+    }
+]

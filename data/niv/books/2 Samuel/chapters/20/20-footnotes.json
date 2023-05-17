@@ -1,0 +1,34 @@
+[
+    {
+        "o": 9341,
+        "r": "niv:2 Samuel:20:6",
+        "w": 33,
+        "l": {},
+        "t": "20:6*r Or and*i do*i us*i serious*i injury*i",
+        "a": "a"
+    },
+    {
+        "o": 9349,
+        "r": "niv:2 Samuel:20:14",
+        "w": 19,
+        "l": {},
+        "t": "20:14*r See Septuagint and Vulgate; Hebrew Berites.*i",
+        "a": "b"
+    },
+    {
+        "o": 9360,
+        "r": "niv:2 Samuel:20:24",
+        "w": 0,
+        "l": {},
+        "t": "20:24*r Some Septuagint manuscripts (see also 1 Kings 4:6 and 5:14); Hebrew Adoram*i",
+        "a": "c"
+    },
+    {
+        "o": 9362,
+        "r": "niv:2 Samuel:20:26",
+        "w": 3,
+        "l": {},
+        "t": "20:26*r Hebrew; some Septuagint manuscripts and Syriac (see also 23:38) Ithrite*i",
+        "a": "d"
+    }
+]

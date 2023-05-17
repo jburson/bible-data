@@ -1,0 +1,50 @@
+[
+    {
+        "o": 15444,
+        "r": "niv:Psalm:18:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 18:1-50 is numbered 18:2-51.",
+        "a": "a"
+    },
+    {
+        "o": 15446,
+        "r": "niv:Psalm:18:2",
+        "w": 21,
+        "l": {},
+        "t": "18:2*r Or sovereign*i",
+        "a": "b"
+    },
+    {
+        "o": 15446,
+        "r": "niv:Psalm:18:2",
+        "w": 24,
+        "l": {},
+        "t": "18:2*r Horn*i here symbolizes strength.",
+        "a": "c"
+    },
+    {
+        "o": 15457,
+        "r": "niv:Psalm:18:13",
+        "w": 11,
+        "l": {},
+        "t": "18:13*r Some Hebrew manuscripts and Septuagint (see also 2 Samuel 22:14); most Hebrew manuscripts resounded,*i /*i amid*i hailstones*i and*i bolts*i of*i lightning*i",
+        "a": "d"
+    },
+    {
+        "o": 15473,
+        "r": "niv:Psalm:18:29",
+        "w": 8,
+        "l": {},
+        "t": "18:29*r Or can*i run*i through*i a*i barricade*i",
+        "a": "e"
+    },
+    {
+        "o": 15486,
+        "r": "niv:Psalm:18:42",
+        "w": 10,
+        "l": {},
+        "t": "18:42*r Many Hebrew manuscripts, Septuagint, Syriac and Targum (see also 2 Samuel 22:43); Masoretic Text I*i poured*i them*i out*i",
+        "a": "f"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "o": 4908,
+        "r": "niv:Numbers:26:17",
+        "w": 1,
+        "l": {},
+        "t": "26:17*r Samaritan Pentateuch and Syriac (see also Gen. 46:16); Masoretic Text Arod*i",
+        "a": "a"
+    },
+    {
+        "o": 4914,
+        "r": "niv:Numbers:26:23",
+        "w": 16,
+        "l": {},
+        "t": "26:23*r Samaritan Pentateuch, Septuagint, Vulgate and Syriac (see also 1 Chron. 7:1); Masoretic Text through*i Puvah,*i the*i Punite*i",
+        "a": "b"
+    },
+    {
+        "o": 4930,
+        "r": "niv:Numbers:26:39",
+        "w": 1,
+        "l": {},
+        "t": "26:39*r A few manuscripts of the Masoretic Text, Samaritan Pentateuch, Vulgate and Syriac (see also Septuagint); most manuscripts of the Masoretic Text Shephupham*i",
+        "a": "c"
+    },
+    {
+        "o": 4931,
+        "r": "niv:Numbers:26:40",
+        "w": 10,
+        "l": {},
+        "t": "26:40*r Samaritan Pentateuch and Vulgate (see also Septuagint); Masoretic Text does not have through*i Ard*i .",
+        "a": "d"
+    },
+    {
+        "o": 4950,
+        "r": "niv:Numbers:26:59",
+        "w": 16,
+        "l": {},
+        "t": "26:59*r Or Jochebed,*i a*i daughter*i of*i Levi,*i who*i was*i born*i to*i Levi*i",
+        "a": "e"
+    }
+]

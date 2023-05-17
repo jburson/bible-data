@@ -1,0 +1,506 @@
+[
+    {
+        "o": 2723,
+        "r": "esv:Exodus:34:1",
+        "w": 4,
+        "l": {},
+        "c": "Deuteronomy 10:1*5653",
+        "a": "a"
+    },
+    {
+        "o": 2723,
+        "r": "esv:Exodus:34:1",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 34:28*2752; Deuteronomy 10:2*5654; Deuteronomy 10:4*5656",
+        "a": "b"
+    },
+    {
+        "o": 2723,
+        "r": "esv:Exodus:34:1",
+        "w": 29,
+        "l": {},
+        "c": "Exodus 32:19*2677",
+        "a": "c"
+    },
+    {
+        "o": 2724,
+        "r": "esv:Exodus:34:2",
+        "w": 19,
+        "l": {},
+        "c": "Exodus 19:20*2228",
+        "a": "d"
+    },
+    {
+        "o": 2725,
+        "r": "esv:Exodus:34:3",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 19:12–13*2220; Exodus 19:21*2229",
+        "a": "e"
+    },
+    {
+        "o": 2727,
+        "r": "esv:Exodus:34:5",
+        "w": 1,
+        "l": {},
+        "c": "Numbers 11:25*4404; 1 Kings 8:10–11*9857",
+        "a": "f"
+    },
+    {
+        "o": 2727,
+        "r": "esv:Exodus:34:5",
+        "w": 11,
+        "l": {},
+        "c": "Exodus 33:19*2716",
+        "a": "g"
+    },
+    {
+        "o": 2728,
+        "r": "esv:Exodus:34:6",
+        "w": 6,
+        "l": {},
+        "c": "Numbers 14:18*4490; 2 Chronicles 30:9*13028; Nehemiah 9:17*13798; Psalm 86:15*16946; Psalm 103:8*17249; Psalm 111:4*17509; Psalm 112:4*17521; Psalm 116:5*17575; Psalm 145:8*18153; Joel 2:13*24812",
+        "a": "h"
+    },
+    {
+        "o": 2728,
+        "r": "esv:Exodus:34:6",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 22:27*2330",
+        "a": "i"
+    },
+    {
+        "o": 2728,
+        "r": "esv:Exodus:34:6",
+        "w": 22,
+        "l": {},
+        "c": "Psalm 57:10*16338; Psalm 108:4*17450",
+        "a": "j"
+    },
+    {
+        "o": 2729,
+        "r": "esv:Exodus:34:7",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 20:5–6*2240; Deuteronomy 5:10*5518; Jeremiah 32:18*21973; Daniel 9:4*24439",
+        "a": "k"
+    },
+    {
+        "o": 2729,
+        "r": "esv:Exodus:34:7",
+        "w": 4,
+        "l": {},
+        "t": "Or to*i the*i thousandth*i generation*i",
+        "a": "l"
+    },
+    {
+        "o": 2729,
+        "r": "esv:Exodus:34:7",
+        "w": 4,
+        "l": {},
+        "c": "Psalm 103:3*17244; Psalm 130:4*17927; Daniel 9:9*24444; 1 John 1:9*34211",
+        "a": "m"
+    },
+    {
+        "o": 2729,
+        "r": "esv:Exodus:34:7",
+        "w": 11,
+        "l": {},
+        "c": "Exodus 23:21*2358; Joshua 24:19*7101; Job 10:14*14429; Nahum 1:3*25240",
+        "a": "n"
+    },
+    {
+        "o": 2729,
+        "r": "esv:Exodus:34:7",
+        "w": 19,
+        "l": {},
+        "c": "Deuteronomy 5:9*5517",
+        "a": "o"
+    },
+    {
+        "o": 2730,
+        "r": "esv:Exodus:34:8",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 4:31*1770; Exodus 12:27*2004",
+        "a": "p"
+    },
+    {
+        "o": 2731,
+        "r": "esv:Exodus:34:9",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 33:15–16*2712",
+        "a": "q"
+    },
+    {
+        "o": 2731,
+        "r": "esv:Exodus:34:9",
+        "w": 24,
+        "l": {},
+        "c": "Exodus 32:9*2667",
+        "a": "r"
+    },
+    {
+        "o": 2731,
+        "r": "esv:Exodus:34:9",
+        "w": 40,
+        "l": {},
+        "c": "Deuteronomy 32:9*6302; Psalm 28:9*15782; Psalm 33:12*15866; Psalm 78:62*16798; Psalm 94:14*17114; Jeremiah 10:16*21382; Zechariah 2:12*25500",
+        "a": "s"
+    },
+    {
+        "o": 2733,
+        "r": "esv:Exodus:34:10",
+        "w": 3,
+        "l": {},
+        "c": "Exodus 34:27*2750; Deuteronomy 5:2*5510; Deuteronomy 29:1*6206",
+        "a": "t"
+    },
+    {
+        "o": 2733,
+        "r": "esv:Exodus:34:10",
+        "w": 12,
+        "l": {},
+        "c": "Deuteronomy 4:32–35*5487; Joshua 6:20*6524; Joshua 10:12–13*6641; 2 Samuel 7:23*8988; Psalm 77:14*16727; Psalm 78:12*16748",
+        "a": "u"
+    },
+    {
+        "o": 2733,
+        "r": "esv:Exodus:34:10",
+        "w": 49,
+        "l": {},
+        "c": "Deuteronomy 10:21*5674; Psalm 145:6*18151; Isaiah 64:3*21023",
+        "a": "v"
+    },
+    {
+        "o": 2734,
+        "r": "esv:Exodus:34:11",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 13:5*2039",
+        "a": "w"
+    },
+    {
+        "o": 2735,
+        "r": "esv:Exodus:34:12",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 23:32*2369; Deuteronomy 7:2*5572; Joshua 23:12–13*7075; Judges 2:2*7159",
+        "a": "x"
+    },
+    {
+        "o": 2735,
+        "r": "esv:Exodus:34:12",
+        "w": 20,
+        "l": {},
+        "c": "Exodus 23:33*2370",
+        "a": "y"
+    },
+    {
+        "o": 2736,
+        "r": "esv:Exodus:34:13",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 7:5*5575; Deuteronomy 12:3*5714; Judges 2:2*7159; Judges 6:25*7305; 2 Chronicles 34:3–4*13141",
+        "a": "z"
+    },
+    {
+        "o": 2736,
+        "r": "esv:Exodus:34:13",
+        "w": 6,
+        "l": {},
+        "c": "Exodus 23:24*2361; 2 Kings 18:4*11017; 2 Kings 23:14*11187; 2 Chronicles 31:1*13049",
+        "a": "a"
+    },
+    {
+        "o": 2736,
+        "r": "esv:Exodus:34:13",
+        "w": 13,
+        "l": {},
+        "c": "Deuteronomy 16:21*5847",
+        "a": "b"
+    },
+    {
+        "o": 2737,
+        "r": "esv:Exodus:34:14",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 20:3*2238; Exodus 20:5*2240",
+        "a": "c"
+    },
+    {
+        "o": 2738,
+        "r": "esv:Exodus:34:15",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 34:12*2735",
+        "a": "d"
+    },
+    {
+        "o": 2738,
+        "r": "esv:Exodus:34:15",
+        "w": 13,
+        "l": {},
+        "c": "Leviticus 17:7*3524; Leviticus 20:5*3614; Deuteronomy 31:16*6277; Judges 2:17*7177; Jeremiah 3:9*21159; Ezekiel 6:9*22872",
+        "a": "e"
+    },
+    {
+        "o": 2738,
+        "r": "esv:Exodus:34:15",
+        "w": 23,
+        "l": {},
+        "c": "Numbers 25:2*4875; Psalm 106:28*17377; 1 Corinthians 8:4*31907; 1 Corinthians 8:7*31910; 1 Corinthians 8:10*31913; 1 Corinthians 10:27*31975",
+        "a": "f"
+    },
+    {
+        "o": 2739,
+        "r": "esv:Exodus:34:16",
+        "w": 3,
+        "l": {},
+        "c": "Deuteronomy 7:3–4*5573; 1 Kings 11:2*9984; Ezra 9:2*13480; Nehemiah 13:25*13978",
+        "a": "g"
+    },
+    {
+        "o": 2739,
+        "r": "esv:Exodus:34:16",
+        "w": 11,
+        "l": {},
+        "c": "Exodus 34:15*2738",
+        "a": "h"
+    },
+    {
+        "o": 2740,
+        "r": "esv:Exodus:34:17",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 19:4*3572; Deuteronomy 27:15*6121; Exodus 32:4*2662; Exodus 32:8*2666",
+        "a": "i"
+    },
+    {
+        "o": 2741,
+        "r": "esv:Exodus:34:18",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 12:15*1992",
+        "a": "j"
+    },
+    {
+        "o": 2741,
+        "r": "esv:Exodus:34:18",
+        "w": 23,
+        "l": {},
+        "c": "Exodus 13:4*2038",
+        "a": "k"
+    },
+    {
+        "o": 2742,
+        "r": "esv:Exodus:34:19",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 13:2*2036",
+        "a": "l"
+    },
+    {
+        "o": 2742,
+        "r": "esv:Exodus:34:19",
+        "w": 9,
+        "l": {},
+        "t": "Septuagint, Theodotion, Vulgate, Targum; the meaning of the Hebrew is uncertain",
+        "a": "m"
+    },
+    {
+        "o": 2743,
+        "r": "esv:Exodus:34:20",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 13:13*2047; Numbers 18:15*4649",
+        "a": "n"
+    },
+    {
+        "o": 2743,
+        "r": "esv:Exodus:34:20",
+        "w": 32,
+        "l": {},
+        "c": "Exodus 23:15*2351; Deuteronomy 16:16*5840",
+        "a": "o"
+    },
+    {
+        "o": 2744,
+        "r": "esv:Exodus:34:21",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 20:9*2244",
+        "a": "p"
+    },
+    {
+        "o": 2745,
+        "r": "esv:Exodus:34:22",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 23:16*2352; Deuteronomy 16:10*5833; Deuteronomy 16:13*5837",
+        "a": "q"
+    },
+    {
+        "o": 2746,
+        "r": "esv:Exodus:34:23",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 23:14*2350; Exodus 23:17*2353; Deuteronomy 16:16*5840",
+        "a": "r"
+    },
+    {
+        "o": 2747,
+        "r": "esv:Exodus:34:24",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 33:2*2697; Deuteronomy 7:1*5571; Psalm 78:55*16791; Psalm 80:8*16835; Exodus 23:27–31*2364",
+        "a": "s"
+    },
+    {
+        "o": 2747,
+        "r": "esv:Exodus:34:24",
+        "w": 8,
+        "l": {},
+        "c": "Deuteronomy 12:20*5731; Deuteronomy 19:8*5907",
+        "a": "t"
+    },
+    {
+        "o": 2747,
+        "r": "esv:Exodus:34:24",
+        "w": 11,
+        "l": {},
+        "c": "Proverbs 16:7*18713",
+        "a": "u"
+    },
+    {
+        "o": 2748,
+        "r": "esv:Exodus:34:25",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 12:8*1985",
+        "a": "v"
+    },
+    {
+        "o": 2748,
+        "r": "esv:Exodus:34:25",
+        "w": 11,
+        "l": {},
+        "c": "Exodus 12:10*1987",
+        "a": "w"
+    },
+    {
+        "o": 2749,
+        "r": "esv:Exodus:34:26",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 23:19*2356",
+        "a": "x"
+    },
+    {
+        "o": 2749,
+        "r": "esv:Exodus:34:26",
+        "w": 18,
+        "l": {},
+        "c": "Deuteronomy 14:21*5787",
+        "a": "y"
+    },
+    {
+        "o": 2750,
+        "r": "esv:Exodus:34:27",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 34:10*2733",
+        "a": "z"
+    },
+    {
+        "o": 2751,
+        "r": "esv:Exodus:34:28",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 24:18*2390",
+        "a": "a"
+    },
+    {
+        "o": 2751,
+        "r": "esv:Exodus:34:28",
+        "w": 20,
+        "l": {},
+        "c": "Exodus 34:1*2723; Exodus 31:18*2656; Exodus 32:16*2674; Deuteronomy 4:13*5466; Deuteronomy 10:2*5654; Deuteronomy 10:4*5656",
+        "a": "b"
+    },
+    {
+        "o": 2751,
+        "r": "esv:Exodus:34:28",
+        "w": 32,
+        "l": {},
+        "t": "Hebrew the*i ten*i words*i",
+        "a": "c"
+    },
+    {
+        "o": 2753,
+        "r": "esv:Exodus:34:29",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 32:15*2673",
+        "a": "d"
+    },
+    {
+        "o": 2753,
+        "r": "esv:Exodus:34:29",
+        "w": 33,
+        "l": {},
+        "c": "2 Corinthians 3:7*32259; Matthew 17:2*26440",
+        "a": "e"
+    },
+    {
+        "o": 2753,
+        "r": "esv:Exodus:34:29",
+        "w": 41,
+        "l": {},
+        "t": "Hebrew him*i",
+        "a": "f"
+    },
+    {
+        "o": 2754,
+        "r": "esv:Exodus:34:30",
+        "w": 15,
+        "l": {},
+        "c": "Exodus 34:29*2753",
+        "a": "g"
+    },
+    {
+        "o": 2756,
+        "r": "esv:Exodus:34:32",
+        "w": 9,
+        "l": {},
+        "c": "Exodus 24:3*2375",
+        "a": "h"
+    },
+    {
+        "o": 2757,
+        "r": "esv:Exodus:34:33",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 3:13*32265",
+        "a": "i"
+    },
+    {
+        "o": 2758,
+        "r": "esv:Exodus:34:34",
+        "w": 1,
+        "l": {},
+        "c": "2 Corinthians 3:16*32268",
+        "a": "j"
+    },
+    {
+        "o": 2759,
+        "r": "esv:Exodus:34:35",
+        "w": 16,
+        "l": {},
+        "c": "Exodus 34:29*2753",
+        "a": "k"
+    }
+]

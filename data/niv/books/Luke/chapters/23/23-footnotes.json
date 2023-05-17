@@ -1,0 +1,42 @@
+[
+    {
+        "o": 28656,
+        "r": "niv:Luke:23:16",
+        "w": 8,
+        "l": {},
+        "t": "23:17*r Some manuscripts include here words similar to Matt. 27:15 and Mark 15:6.",
+        "a": "a"
+    },
+    {
+        "o": 28670,
+        "r": "niv:Luke:23:30",
+        "w": 15,
+        "l": {},
+        "t": "23:30*r Hosea 10:8",
+        "a": "b"
+    },
+    {
+        "o": 28674,
+        "r": "niv:Luke:23:34",
+        "w": 13,
+        "l": {},
+        "t": "23:34*r Some early manuscripts do not have this sentence.",
+        "a": "c"
+    },
+    {
+        "o": 28682,
+        "r": "niv:Luke:23:42",
+        "w": 11,
+        "l": {},
+        "t": "23:42*r Some manuscripts come*i with*i your*i kingly*i power*i",
+        "a": "d"
+    },
+    {
+        "o": 28687,
+        "r": "niv:Luke:23:46",
+        "w": 14,
+        "l": {},
+        "t": "23:46*r Psalm 31:5",
+        "a": "e"
+    }
+]

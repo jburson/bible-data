@@ -1,0 +1,26 @@
+[
+    {
+        "o": 1234,
+        "r": "nasb:Genesis:38:14",
+        "w": 10,
+        "l": {},
+        "t": "Or shawl",
+        "a": "a"
+    },
+    {
+        "o": 1249,
+        "r": "nasb:Genesis:38:29",
+        "w": 30,
+        "l": {},
+        "t": "I.e. a breach",
+        "a": "b"
+    },
+    {
+        "o": 1250,
+        "r": "nasb:Genesis:38:30",
+        "w": 16,
+        "l": {},
+        "t": "I.e. a dawning or brightness",
+        "a": "c"
+    }
+]

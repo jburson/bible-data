@@ -1,0 +1,26 @@
+[
+    {
+        "o": 13294,
+        "r": "niv:Ezra:5:4",
+        "w": 0,
+        "l": {},
+        "t": "5:4*r See Septuagint; Aramaic We.*i",
+        "a": "a"
+    },
+    {
+        "o": 13304,
+        "r": "niv:Ezra:5:14",
+        "w": 5,
+        "l": {},
+        "t": "5:14*r Or palace*i",
+        "a": "b"
+    },
+    {
+        "o": 13304,
+        "r": "niv:Ezra:5:14",
+        "w": 31,
+        "l": {},
+        "t": "5:14*r Or palace*i",
+        "a": "c"
+    }
+]

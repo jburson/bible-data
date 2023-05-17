@@ -1,0 +1,42 @@
+[
+    {
+        "o": 3938,
+        "r": "nasb:Numbers:1:2",
+        "w": 1,
+        "l": {},
+        "t": "Lit sum",
+        "a": "a"
+    },
+    {
+        "o": 3939,
+        "r": "nasb:Numbers:1:3",
+        "w": 19,
+        "l": {},
+        "t": "Lit muster, and so throughout the ch",
+        "a": "b"
+    },
+    {
+        "o": 3952,
+        "r": "nasb:Numbers:1:16",
+        "w": 19,
+        "l": {},
+        "t": "Lit thousands; or clans",
+        "a": "c"
+    },
+    {
+        "o": 3987,
+        "r": "nasb:Numbers:1:50",
+        "w": 7,
+        "l": {},
+        "t": "Lit dwelling place, and so throughout the ch",
+        "a": "d"
+    },
+    {
+        "o": 3988,
+        "r": "nasb:Numbers:1:51",
+        "w": 26,
+        "l": {},
+        "t": "Lit stranger",
+        "a": "e"
+    }
+]

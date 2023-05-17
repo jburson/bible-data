@@ -1,0 +1,74 @@
+[
+    {
+        "o": 27325,
+        "r": "niv:Mark:14:5",
+        "w": 10,
+        "l": {},
+        "t": "14:5*r Greek than*i three*i hundred*i denarii*i",
+        "a": "a"
+    },
+    {
+        "o": 27327,
+        "r": "niv:Mark:14:7",
+        "w": 7,
+        "l": {},
+        "t": "14:7*r See Deut. 15:11.",
+        "a": "b"
+    },
+    {
+        "o": 27345,
+        "r": "niv:Mark:14:24",
+        "w": 5,
+        "l": {},
+        "t": "14:24*r Some manuscripts the*i new*i",
+        "a": "c"
+    },
+    {
+        "o": 27349,
+        "r": "niv:Mark:14:27",
+        "w": 22,
+        "l": {},
+        "t": "14:27*r Zech. 13:7",
+        "a": "d"
+    },
+    {
+        "o": 27352,
+        "r": "niv:Mark:14:30",
+        "w": 11,
+        "l": {},
+        "t": "14:30*r Some early manuscripts do not have twice.*i",
+        "a": "e"
+    },
+    {
+        "o": 27359,
+        "r": "niv:Mark:14:36",
+        "w": 0,
+        "l": {},
+        "t": "14:36*r Aramaic for father*i",
+        "a": "f"
+    },
+    {
+        "o": 27394,
+        "r": "niv:Mark:14:68",
+        "w": 20,
+        "l": {},
+        "t": "14:68*r Some early manuscripts entryway*i and*i the*i rooster*i crowed*i",
+        "a": "g"
+    },
+    {
+        "o": 27398,
+        "r": "niv:Mark:14:72",
+        "w": 6,
+        "l": {},
+        "t": "14:72*r Some early manuscripts do not have the*i second*i time.*i",
+        "a": "h"
+    },
+    {
+        "o": 27398,
+        "r": "niv:Mark:14:72",
+        "w": 21,
+        "l": {},
+        "t": "14:72*r Some early manuscripts do not have twice.*i",
+        "a": "i"
+    }
+]

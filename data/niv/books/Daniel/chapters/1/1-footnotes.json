@@ -1,0 +1,26 @@
+[
+    {
+        "o": 23882,
+        "r": "niv:Daniel:1:2",
+        "w": 33,
+        "l": {},
+        "t": "1:2*r Hebrew Shinar*i",
+        "a": "a"
+    },
+    {
+        "o": 23884,
+        "r": "niv:Daniel:1:4",
+        "w": 38,
+        "l": {},
+        "t": "1:4*r Or Chaldeans*i",
+        "a": "b"
+    },
+    {
+        "o": 23890,
+        "r": "niv:Daniel:1:10",
+        "w": 16,
+        "l": {},
+        "t": "1:10*r The Hebrew for your*i and you*i in this verse is plural.",
+        "a": "c"
+    }
+]

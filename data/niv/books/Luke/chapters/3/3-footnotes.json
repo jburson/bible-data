@@ -1,0 +1,42 @@
+[
+    {
+        "o": 27624,
+        "r": "niv:Luke:3:6",
+        "w": 6,
+        "l": {},
+        "t": "3:6*r Isaiah 40:3-5",
+        "a": "a"
+    },
+    {
+        "o": 27634,
+        "r": "niv:Luke:3:16",
+        "w": 7,
+        "l": {},
+        "t": "3:16*r Or in*i",
+        "a": "b"
+    },
+    {
+        "o": 27634,
+        "r": "niv:Luke:3:16",
+        "w": 34,
+        "l": {},
+        "t": "3:16*r Or in*i",
+        "a": "c"
+    },
+    {
+        "o": 27651,
+        "r": "niv:Luke:3:32",
+        "w": 15,
+        "l": {},
+        "t": "3:32*r Some early manuscripts Sala*i",
+        "a": "d"
+    },
+    {
+        "o": 27652,
+        "r": "niv:Luke:3:33",
+        "w": 7,
+        "l": {},
+        "t": "3:33*r Some manuscripts Amminadab,*i the*i son*i of*i Admin,*i the*i son*i of*i Arni*i ; other manuscripts vary widely.",
+        "a": "e"
+    }
+]

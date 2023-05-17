@@ -1,0 +1,794 @@
+[
+    {
+        "o": 6135,
+        "r": "esv:Deuteronomy:28:1",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 15:26*2119; Exodus 23:22*2359; Leviticus 26:3*3846; Isaiah 55:2*20855",
+        "a": "a"
+    },
+    {
+        "o": 6135,
+        "r": "esv:Deuteronomy:28:1",
+        "w": 30,
+        "l": {},
+        "c": "Deuteronomy 26:19*6103",
+        "a": "b"
+    },
+    {
+        "o": 6136,
+        "r": "esv:Deuteronomy:28:2",
+        "w": 8,
+        "l": {},
+        "c": "Deuteronomy 28:15*6150; Zechariah 1:6*25470",
+        "a": "c"
+    },
+    {
+        "o": 6137,
+        "r": "esv:Deuteronomy:28:3",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 39:5*1253",
+        "a": "d"
+    },
+    {
+        "o": 6138,
+        "r": "esv:Deuteronomy:28:4",
+        "w": 2,
+        "l": {},
+        "c": "Deuteronomy 7:13*5583; Deuteronomy 30:9*6245; Genesis 49:25*1620; Exodus 23:26*2363",
+        "a": "e"
+    },
+    {
+        "o": 6139,
+        "r": "esv:Deuteronomy:28:5",
+        "w": 6,
+        "l": {},
+        "c": "Deuteronomy 28:17*6152; Exodus 8:3*1861; Exodus 12:34*2013",
+        "a": "f"
+    },
+    {
+        "o": 6140,
+        "r": "esv:Deuteronomy:28:6",
+        "w": 3,
+        "l": {},
+        "c": "Psalm 121:8*17845",
+        "a": "g"
+    },
+    {
+        "o": 6141,
+        "r": "esv:Deuteronomy:28:7",
+        "w": 1,
+        "l": {},
+        "c": "Exodus 23:22*2359; Exodus 23:27*2364; Leviticus 26:7–8*3850; Deuteronomy 28:25*6160; 2 Samuel 22:38–41*9471; Psalm 18:37–40*15599",
+        "a": "h"
+    },
+    {
+        "o": 6142,
+        "r": "esv:Deuteronomy:28:8",
+        "w": 1,
+        "l": {},
+        "c": "Leviticus 25:21*3804; Psalm 133:3*17964",
+        "a": "i"
+    },
+    {
+        "o": 6142,
+        "r": "esv:Deuteronomy:28:8",
+        "w": 11,
+        "l": {},
+        "c": "Deuteronomy 12:7*5718",
+        "a": "j"
+    },
+    {
+        "o": 6142,
+        "r": "esv:Deuteronomy:28:8",
+        "w": 16,
+        "l": {},
+        "c": "Deuteronomy 15:4*5801",
+        "a": "k"
+    },
+    {
+        "o": 6143,
+        "r": "esv:Deuteronomy:28:9",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 7:6*5576; Deuteronomy 26:18–19*6102; Deuteronomy 29:13*6218; Exodus 19:5–6*2213",
+        "a": "l"
+    },
+    {
+        "o": 6144,
+        "r": "esv:Deuteronomy:28:10",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 61:9*20980",
+        "a": "m"
+    },
+    {
+        "o": 6144,
+        "r": "esv:Deuteronomy:28:10",
+        "w": 11,
+        "l": {},
+        "c": "Numbers 6:27*4190",
+        "a": "n"
+    },
+    {
+        "o": 6144,
+        "r": "esv:Deuteronomy:28:10",
+        "w": 22,
+        "l": {},
+        "c": "Deuteronomy 2:25*5407; Deuteronomy 11:25*5702",
+        "a": "o"
+    },
+    {
+        "o": 6145,
+        "r": "esv:Deuteronomy:28:11",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 30:9*6245",
+        "a": "p"
+    },
+    {
+        "o": 6145,
+        "r": "esv:Deuteronomy:28:11",
+        "w": 9,
+        "l": {},
+        "c": "Deuteronomy 28:4*6138",
+        "a": "q"
+    },
+    {
+        "o": 6146,
+        "r": "esv:Deuteronomy:28:12",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 11:14*5691; Leviticus 26:4*3847",
+        "a": "r"
+    },
+    {
+        "o": 6146,
+        "r": "esv:Deuteronomy:28:12",
+        "w": 21,
+        "l": {},
+        "c": "Deuteronomy 14:29*5795",
+        "a": "s"
+    },
+    {
+        "o": 6146,
+        "r": "esv:Deuteronomy:28:12",
+        "w": 30,
+        "l": {},
+        "c": "Deuteronomy 15:6*5803; Deuteronomy 28:44*6179; Psalm 37:26*15976",
+        "a": "t"
+    },
+    {
+        "o": 6147,
+        "r": "esv:Deuteronomy:28:13",
+        "w": 5,
+        "l": {},
+        "c": "Isaiah 9:14–15*19843; Isaiah 19:15*20043",
+        "a": "u"
+    },
+    {
+        "o": 6148,
+        "r": "esv:Deuteronomy:28:14",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 5:32*5540",
+        "a": "v"
+    },
+    {
+        "o": 6150,
+        "r": "esv:Deuteronomy:28:15",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 26:14*3858; Lamentations 2:17*22630; Daniel 9:11*24446; Daniel 9:13*24448; Malachi 2:2*25729",
+        "a": "w"
+    },
+    {
+        "o": 6150,
+        "r": "esv:Deuteronomy:28:15",
+        "w": 37,
+        "l": {},
+        "c": "Deuteronomy 28:2*6136",
+        "a": "x"
+    },
+    {
+        "o": 6151,
+        "r": "esv:Deuteronomy:28:16",
+        "w": 3,
+        "l": {},
+        "c": "Deuteronomy 28:3–6*6137",
+        "a": "y"
+    },
+    {
+        "o": 6155,
+        "r": "esv:Deuteronomy:28:20",
+        "w": 1,
+        "l": {},
+        "c": "Malachi 2:2*25729",
+        "a": "z"
+    },
+    {
+        "o": 6155,
+        "r": "esv:Deuteronomy:28:20",
+        "w": 8,
+        "l": {},
+        "c": "Psalm 80:16*16843; Isaiah 30:17*20283; Isaiah 51:20*20798; Isaiah 66:15*21079",
+        "a": "a"
+    },
+    {
+        "o": 6155,
+        "r": "esv:Deuteronomy:28:20",
+        "w": 16,
+        "l": {},
+        "c": "Joshua 23:16*7079",
+        "a": "b"
+    },
+    {
+        "o": 6156,
+        "r": "esv:Deuteronomy:28:21",
+        "w": 3,
+        "l": {},
+        "c": "Leviticus 26:25*3869",
+        "a": "c"
+    },
+    {
+        "o": 6157,
+        "r": "esv:Deuteronomy:28:22",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 26:16*3860",
+        "a": "d"
+    },
+    {
+        "o": 6157,
+        "r": "esv:Deuteronomy:28:22",
+        "w": 17,
+        "l": {},
+        "t": "Or sword*i",
+        "a": "e"
+    },
+    {
+        "o": 6157,
+        "r": "esv:Deuteronomy:28:22",
+        "w": 19,
+        "l": {},
+        "c": "1 Kings 8:37*9886; 2 Chronicles 6:28*12432; Amos 4:9*24921; Haggai 2:17*25454",
+        "a": "f"
+    },
+    {
+        "o": 6158,
+        "r": "esv:Deuteronomy:28:23",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 26:19*3863",
+        "a": "g"
+    },
+    {
+        "o": 6160,
+        "r": "esv:Deuteronomy:28:25",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 32:30*6323; Leviticus 26:17*3861; Leviticus 26:37*3881; Isaiah 30:17*20283; Deuteronomy 28:7*6141",
+        "a": "h"
+    },
+    {
+        "o": 6160,
+        "r": "esv:Deuteronomy:28:25",
+        "w": 26,
+        "l": {},
+        "c": "Ezekiel 23:46*23391",
+        "a": "i"
+    },
+    {
+        "o": 6161,
+        "r": "esv:Deuteronomy:28:26",
+        "w": 0,
+        "l": {},
+        "c": "1 Samuel 17:44*8388; 1 Samuel 17:46*8390; Psalm 79:2*16813; Jeremiah 16:4*21522; Jeremiah 19:7*21605; Jeremiah 34:20*22051",
+        "a": "j"
+    },
+    {
+        "o": 6161,
+        "r": "esv:Deuteronomy:28:26",
+        "w": 20,
+        "l": {},
+        "c": "Jeremiah 7:33*21311",
+        "a": "k"
+    },
+    {
+        "o": 6162,
+        "r": "esv:Deuteronomy:28:27",
+        "w": 4,
+        "l": {},
+        "c": "Deuteronomy 28:35*6170",
+        "a": "l"
+    },
+    {
+        "o": 6162,
+        "r": "esv:Deuteronomy:28:27",
+        "w": 13,
+        "l": {},
+        "c": "Leviticus 21:20*3660; Leviticus 22:22*3688",
+        "a": "m"
+    },
+    {
+        "o": 6163,
+        "r": "esv:Deuteronomy:28:28",
+        "w": 5,
+        "l": {},
+        "c": "Deuteronomy 28:34*6169; Zechariah 12:4*25662",
+        "a": "n"
+    },
+    {
+        "o": 6164,
+        "r": "esv:Deuteronomy:28:29",
+        "w": 2,
+        "l": {},
+        "c": "Job 5:14*14284; Isaiah 59:10*20933",
+        "a": "o"
+    },
+    {
+        "o": 6164,
+        "r": "esv:Deuteronomy:28:29",
+        "w": 19,
+        "l": {},
+        "t": "Or shall*i not*i succeed*i in*i finding*i your*i ways*i",
+        "a": "p"
+    },
+    {
+        "o": 6165,
+        "r": "esv:Deuteronomy:28:30",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 20:5–7*5929; Jeremiah 8:10*21324",
+        "a": "q"
+    },
+    {
+        "o": 6165,
+        "r": "esv:Deuteronomy:28:30",
+        "w": 10,
+        "l": {},
+        "c": "Amos 5:11*24938; Zephaniah 1:13*25370",
+        "a": "r"
+    },
+    {
+        "o": 6165,
+        "r": "esv:Deuteronomy:28:30",
+        "w": 22,
+        "l": {},
+        "c": "Deuteronomy 20:6*5930; Leviticus 19:23–25*3593; Micah 6:15*25211",
+        "a": "s"
+    },
+    {
+        "o": 6167,
+        "r": "esv:Deuteronomy:28:32",
+        "w": 0,
+        "l": {},
+        "c": "2 Chronicles 29:9*12989; Joel 3:6*24841",
+        "a": "t"
+    },
+    {
+        "o": 6167,
+        "r": "esv:Deuteronomy:28:32",
+        "w": 24,
+        "l": {},
+        "c": "Nehemiah 5:5*13644",
+        "a": "u"
+    },
+    {
+        "o": 6169,
+        "r": "esv:Deuteronomy:28:34",
+        "w": 5,
+        "l": {},
+        "c": "Deuteronomy 28:67*6202",
+        "a": "v"
+    },
+    {
+        "o": 6170,
+        "r": "esv:Deuteronomy:28:35",
+        "w": 11,
+        "l": {},
+        "c": "Deuteronomy 28:27*6162",
+        "a": "w"
+    },
+    {
+        "o": 6171,
+        "r": "esv:Deuteronomy:28:36",
+        "w": 2,
+        "l": {},
+        "c": "2 Kings 17:4*10971; 2 Kings 17:6*10975; 2 Kings 24:12*11229; 2 Kings 24:14*11231; 2 Kings 25:7*11247; 2 Kings 25:11*11251; 2 Chronicles 33:11*13121; 2 Chronicles 36:6*13211; 2 Chronicles 36:20*13226",
+        "a": "x"
+    },
+    {
+        "o": 6171,
+        "r": "esv:Deuteronomy:28:36",
+        "w": 18,
+        "l": {},
+        "c": "Jeremiah 9:16*21354; Jeremiah 16:13*21532",
+        "a": "y"
+    },
+    {
+        "o": 6171,
+        "r": "esv:Deuteronomy:28:36",
+        "w": 24,
+        "l": {},
+        "c": "Deuteronomy 28:64*6199; Deuteronomy 4:28*5482",
+        "a": "z"
+    },
+    {
+        "o": 6172,
+        "r": "esv:Deuteronomy:28:37",
+        "w": 3,
+        "l": {},
+        "c": "1 Kings 9:7–8*9926; 2 Chronicles 7:20*12470; Jeremiah 24:9*21736; Jeremiah 25:9*21748; Ezekiel 14:8*23056",
+        "a": "a"
+    },
+    {
+        "o": 6173,
+        "r": "esv:Deuteronomy:28:38",
+        "w": 0,
+        "l": {},
+        "c": "Micah 6:15*25211; Haggai 1:6*25424",
+        "a": "b"
+    },
+    {
+        "o": 6173,
+        "r": "esv:Deuteronomy:28:38",
+        "w": 13,
+        "l": {},
+        "c": "Joel 1:4*24779; Joel 2:25*24825",
+        "a": "c"
+    },
+    {
+        "o": 6174,
+        "r": "esv:Deuteronomy:28:39",
+        "w": 0,
+        "l": {},
+        "c": "Zephaniah 1:13*25370",
+        "a": "d"
+    },
+    {
+        "o": 6175,
+        "r": "esv:Deuteronomy:28:40",
+        "w": 10,
+        "l": {},
+        "c": "Micah 6:15*25211",
+        "a": "e"
+    },
+    {
+        "o": 6176,
+        "r": "esv:Deuteronomy:28:41",
+        "w": 12,
+        "l": {},
+        "c": "Lamentations 1:5*22594",
+        "a": "f"
+    },
+    {
+        "o": 6177,
+        "r": "esv:Deuteronomy:28:42",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 28:38*6173",
+        "a": "g"
+    },
+    {
+        "o": 6177,
+        "r": "esv:Deuteronomy:28:42",
+        "w": 1,
+        "l": {},
+        "t": "Identity uncertain",
+        "a": "h"
+    },
+    {
+        "o": 6178,
+        "r": "esv:Deuteronomy:28:43",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 28:13*6147",
+        "a": "i"
+    },
+    {
+        "o": 6179,
+        "r": "esv:Deuteronomy:28:44",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 28:12*6146",
+        "a": "j"
+    },
+    {
+        "o": 6179,
+        "r": "esv:Deuteronomy:28:44",
+        "w": 11,
+        "l": {},
+        "c": "Deuteronomy 28:43*6178",
+        "a": "k"
+    },
+    {
+        "o": 6180,
+        "r": "esv:Deuteronomy:28:45",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 28:15*6150",
+        "a": "l"
+    },
+    {
+        "o": 6181,
+        "r": "esv:Deuteronomy:28:46",
+        "w": 2,
+        "l": {},
+        "c": "Isaiah 8:18*19822",
+        "a": "m"
+    },
+    {
+        "o": 6182,
+        "r": "esv:Deuteronomy:28:47",
+        "w": 0,
+        "l": {},
+        "c": "Nehemiah 9:35–37*13816",
+        "a": "n"
+    },
+    {
+        "o": 6183,
+        "r": "esv:Deuteronomy:28:48",
+        "w": 23,
+        "l": {},
+        "c": "Jeremiah 28:14*21845",
+        "a": "o"
+    },
+    {
+        "o": 6184,
+        "r": "esv:Deuteronomy:28:49",
+        "w": 0,
+        "l": {},
+        "c": "Jeremiah 5:15–17*21227; Jeremiah 6:22–23*21267; Isaiah 5:26–30*19753",
+        "a": "p"
+    },
+    {
+        "o": 6184,
+        "r": "esv:Deuteronomy:28:49",
+        "w": 16,
+        "l": {},
+        "c": "Jeremiah 48:40*22382; Jeremiah 49:22*22415; Lamentations 4:19*22724; Hosea 8:1*24666; Habakkuk 1:8*25299; Ezekiel 17:3*23153; Ezekiel 17:12*23162",
+        "a": "q"
+    },
+    {
+        "o": 6184,
+        "r": "esv:Deuteronomy:28:49",
+        "w": 23,
+        "l": {},
+        "c": "Isaiah 28:11*20217; Isaiah 33:19*20354; Jeremiah 5:15*21227",
+        "a": "r"
+    },
+    {
+        "o": 6185,
+        "r": "esv:Deuteronomy:28:50",
+        "w": 2,
+        "l": {},
+        "c": "2 Chronicles 36:17*13223; Isaiah 47:6*20700",
+        "a": "s"
+    },
+    {
+        "o": 6186,
+        "r": "esv:Deuteronomy:28:51",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 28:33*6168; Jeremiah 5:17*21229; Isaiah 62:8–9*20992",
+        "a": "t"
+    },
+    {
+        "o": 6187,
+        "r": "esv:Deuteronomy:28:52",
+        "w": 1,
+        "l": {},
+        "c": "2 Kings 17:5*10973; 2 Kings 25:1–2*11241; 2 Kings 25:4*11244",
+        "a": "u"
+    },
+    {
+        "o": 6188,
+        "r": "esv:Deuteronomy:28:53",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 28:57*6192; Leviticus 26:29*3873; Jeremiah 19:9*21607; Ezekiel 5:10*22854; 2 Kings 6:28–29*10644; Lamentations 2:20*22633; Lamentations 4:10*22715",
+        "a": "v"
+    },
+    {
+        "o": 6188,
+        "r": "esv:Deuteronomy:28:53",
+        "w": 23,
+        "l": {},
+        "c": "Deuteronomy 28:55*6190; Deuteronomy 28:57*6192",
+        "a": "w"
+    },
+    {
+        "o": 6189,
+        "r": "esv:Deuteronomy:28:54",
+        "w": 11,
+        "l": {},
+        "c": "Deuteronomy 15:9*5806",
+        "a": "x"
+    },
+    {
+        "o": 6189,
+        "r": "esv:Deuteronomy:28:54",
+        "w": 17,
+        "l": {},
+        "c": "Deuteronomy 13:6*5751",
+        "a": "y"
+    },
+    {
+        "o": 6189,
+        "r": "esv:Deuteronomy:28:54",
+        "w": 21,
+        "l": {},
+        "t": "Hebrew the*i wife*i of*i his*i bosom*i",
+        "a": "z"
+    },
+    {
+        "o": 6190,
+        "r": "esv:Deuteronomy:28:55",
+        "w": 26,
+        "l": {},
+        "c": "Deuteronomy 28:53*6188",
+        "a": "a"
+    },
+    {
+        "o": 6191,
+        "r": "esv:Deuteronomy:28:56",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 28:54*6189; Isaiah 47:1*20695",
+        "a": "b"
+    },
+    {
+        "o": 6191,
+        "r": "esv:Deuteronomy:28:56",
+        "w": 35,
+        "l": {},
+        "t": "Hebrew the*i husband*i of*i her*i bosom*i",
+        "a": "c"
+    },
+    {
+        "o": 6192,
+        "r": "esv:Deuteronomy:28:57",
+        "w": 22,
+        "l": {},
+        "c": "Deuteronomy 28:55*6190",
+        "a": "d"
+    },
+    {
+        "o": 6193,
+        "r": "esv:Deuteronomy:28:58",
+        "w": 27,
+        "l": {},
+        "c": "Exodus 6:3*1800",
+        "a": "e"
+    },
+    {
+        "o": 6195,
+        "r": "esv:Deuteronomy:28:60",
+        "w": 7,
+        "l": {},
+        "c": "Deuteronomy 7:15*5585",
+        "a": "f"
+    },
+    {
+        "o": 6197,
+        "r": "esv:Deuteronomy:28:62",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 4:27*5481; 2 Kings 24:14*11231; Nehemiah 7:4*13687; Jeremiah 42:2*22227",
+        "a": "g"
+    },
+    {
+        "o": 6197,
+        "r": "esv:Deuteronomy:28:62",
+        "w": 4,
+        "l": {},
+        "c": "Deuteronomy 10:22*5675",
+        "a": "h"
+    },
+    {
+        "o": 6198,
+        "r": "esv:Deuteronomy:28:63",
+        "w": 3,
+        "l": {},
+        "c": "Deuteronomy 30:9*6245; Jeremiah 32:41*21997; Zephaniah 3:17*25413",
+        "a": "i"
+    },
+    {
+        "o": 6198,
+        "r": "esv:Deuteronomy:28:63",
+        "w": 16,
+        "l": {},
+        "c": "Proverbs 1:26*18265; Isaiah 1:24*19656; Ezekiel 5:13*22857",
+        "a": "j"
+    },
+    {
+        "o": 6199,
+        "r": "esv:Deuteronomy:28:64",
+        "w": 2,
+        "l": {},
+        "c": "Leviticus 26:33*3877",
+        "a": "k"
+    },
+    {
+        "o": 6199,
+        "r": "esv:Deuteronomy:28:64",
+        "w": 18,
+        "l": {},
+        "c": "Deuteronomy 28:36*6171",
+        "a": "l"
+    },
+    {
+        "o": 6199,
+        "r": "esv:Deuteronomy:28:64",
+        "w": 24,
+        "l": {},
+        "c": "Deuteronomy 4:28*5482",
+        "a": "m"
+    },
+    {
+        "o": 6199,
+        "r": "esv:Deuteronomy:28:64",
+        "w": 28,
+        "l": {},
+        "c": "Deuteronomy 13:6*5751; Jeremiah 19:4*21602; Jeremiah 44:3*22267",
+        "a": "n"
+    },
+    {
+        "o": 6200,
+        "r": "esv:Deuteronomy:28:65",
+        "w": 0,
+        "l": {},
+        "c": "Amos 9:4*25013",
+        "a": "o"
+    },
+    {
+        "o": 6200,
+        "r": "esv:Deuteronomy:28:65",
+        "w": 22,
+        "l": {},
+        "c": "Leviticus 26:36*3880",
+        "a": "p"
+    },
+    {
+        "o": 6200,
+        "r": "esv:Deuteronomy:28:65",
+        "w": 35,
+        "l": {},
+        "c": "Leviticus 26:16*3860",
+        "a": "q"
+    },
+    {
+        "o": 6202,
+        "r": "esv:Deuteronomy:28:67",
+        "w": 0,
+        "l": {},
+        "c": "Job 7:3–4*14334",
+        "a": "r"
+    },
+    {
+        "o": 6202,
+        "r": "esv:Deuteronomy:28:67",
+        "w": 31,
+        "l": {},
+        "c": "Deuteronomy 28:34*6169",
+        "a": "s"
+    },
+    {
+        "o": 6203,
+        "r": "esv:Deuteronomy:28:68",
+        "w": 2,
+        "l": {},
+        "c": "Hosea 8:13*24678; Hosea 9:3*24684; Jeremiah 43:7*22256",
+        "a": "t"
+    },
+    {
+        "o": 6203,
+        "r": "esv:Deuteronomy:28:68",
+        "w": 16,
+        "l": {},
+        "c": "Deuteronomy 17:16*5867",
+        "a": "u"
+    }
+]

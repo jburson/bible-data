@@ -1,0 +1,26 @@
+[
+    {
+        "o": 19548,
+        "r": "nasb:Song of Solomon:3:1",
+        "w": 0,
+        "l": {},
+        "t": "BRIDE",
+        "a": "a"
+    },
+    {
+        "o": 19552,
+        "r": "nasb:Song of Solomon:3:5",
+        "w": 0,
+        "l": {},
+        "t": "BRIDEGROOM",
+        "a": "b"
+    },
+    {
+        "o": 19554,
+        "r": "nasb:Song of Solomon:3:6",
+        "w": 0,
+        "l": {},
+        "t": "CHORUS",
+        "a": "c"
+    }
+]

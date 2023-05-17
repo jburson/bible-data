@@ -1,0 +1,26 @@
+[
+    {
+        "o": 32618,
+        "r": "niv:Colossians:3:4",
+        "w": 4,
+        "l": {},
+        "t": "3:4*r Some manuscripts our*i",
+        "a": "a"
+    },
+    {
+        "o": 32620,
+        "r": "niv:Colossians:3:6",
+        "w": 8,
+        "l": {},
+        "t": "3:6*r Some early manuscripts coming*i on*i those*i who*i are*i disobedient*i",
+        "a": "b"
+    },
+    {
+        "o": 32636,
+        "r": "niv:Colossians:3:21",
+        "w": 0,
+        "l": {},
+        "t": "3:21*r Or Parents*i",
+        "a": "c"
+    }
+]

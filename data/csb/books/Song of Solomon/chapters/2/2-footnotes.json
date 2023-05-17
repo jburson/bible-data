@@ -1,0 +1,266 @@
+[
+    {
+        "o": 19623,
+        "r": "csb:Song of Solomon:2:1",
+        "w": 3,
+        "l": {},
+        "t": "2:1*r Traditionally rose",
+        "a": "a"
+    },
+    {
+        "o": 19623,
+        "r": "csb:Song of Solomon:2:1",
+        "w": 7,
+        "l": {},
+        "t": "2:1*r Or lotus",
+        "a": "b"
+    },
+    {
+        "o": 19623,
+        "r": "csb:Song of Solomon:2:1",
+        "w": 10,
+        "l": {},
+        "c": "Sg 5:13*19700; 7:2*19727; Hs 14:5*25084",
+        "a": "c"
+    },
+    {
+        "o": 19627,
+        "r": "csb:Song of Solomon:2:3",
+        "w": 2,
+        "l": {},
+        "t": "2:3*r Or apple",
+        "a": "d"
+    },
+    {
+        "o": 19628,
+        "r": "csb:Song of Solomon:2:4",
+        "w": 6,
+        "l": {},
+        "t": "2:4*r Lit the house of wine",
+        "a": "e"
+    },
+    {
+        "o": 19628,
+        "r": "csb:Song of Solomon:2:4",
+        "w": 6,
+        "l": {},
+        "c": "Sg 1:4*19604",
+        "a": "f"
+    },
+    {
+        "o": 19628,
+        "r": "csb:Song of Solomon:2:4",
+        "w": 13,
+        "l": {},
+        "t": "2:4*r Or and his banner over me is love",
+        "a": "g"
+    },
+    {
+        "o": 19628,
+        "r": "csb:Song of Solomon:2:4",
+        "w": 13,
+        "l": {},
+        "c": "Ps 20:5*15766",
+        "a": "h"
+    },
+    {
+        "o": 19629,
+        "r": "csb:Song of Solomon:2:5",
+        "w": 7,
+        "l": {},
+        "t": "2:5*r Or apples",
+        "a": "i"
+    },
+    {
+        "o": 19629,
+        "r": "csb:Song of Solomon:2:5",
+        "w": 11,
+        "l": {},
+        "c": "Sg 5:8*19694",
+        "a": "j"
+    },
+    {
+        "o": 19630,
+        "r": "csb:Song of Solomon:2:6",
+        "w": 13,
+        "l": {},
+        "c": "Sg 8:3*19744",
+        "a": "k"
+    },
+    {
+        "o": 19631,
+        "r": "csb:Song of Solomon:2:7",
+        "w": 27,
+        "l": {},
+        "t": "2:7*r Lit until it pleases",
+        "a": "l"
+    },
+    {
+        "o": 19631,
+        "r": "csb:Song of Solomon:2:7",
+        "w": 27,
+        "l": {},
+        "c": "Sg 3:5*19652; 5:8*19694; 8:4*19746",
+        "a": "m"
+    },
+    {
+        "o": 19632,
+        "r": "csb:Song of Solomon:2:8",
+        "w": 12,
+        "l": {},
+        "c": "Is 52:7*20950",
+        "a": "n"
+    },
+    {
+        "o": 19633,
+        "r": "csb:Song of Solomon:2:9",
+        "w": 9,
+        "l": {},
+        "c": "Sg 2:17*19645; 8:14*19762",
+        "a": "o"
+    },
+    {
+        "o": 19636,
+        "r": "csb:Song of Solomon:2:10",
+        "w": 0,
+        "l": {},
+        "c": "Sg 2:13*19639",
+        "a": "p"
+    },
+    {
+        "o": 19638,
+        "r": "csb:Song of Solomon:2:12",
+        "w": 9,
+        "l": {},
+        "t": "2:12*r Or pruning",
+        "a": "q"
+    },
+    {
+        "o": 19638,
+        "r": "csb:Song of Solomon:2:12",
+        "w": 20,
+        "l": {},
+        "c": "Jr 8:7*21472",
+        "a": "r"
+    },
+    {
+        "o": 19639,
+        "r": "csb:Song of Solomon:2:13",
+        "w": 5,
+        "l": {},
+        "c": "Mt 24:32*27091",
+        "a": "s"
+    },
+    {
+        "o": 19639,
+        "r": "csb:Song of Solomon:2:13",
+        "w": 12,
+        "l": {},
+        "c": "Sg 7:12*19739",
+        "a": "t"
+    },
+    {
+        "o": 19640,
+        "r": "csb:Song of Solomon:2:14",
+        "w": 1,
+        "l": {},
+        "c": "Sg 5:2*19687; 6:9*19716",
+        "a": "u"
+    },
+    {
+        "o": 19640,
+        "r": "csb:Song of Solomon:2:14",
+        "w": 7,
+        "l": {},
+        "c": "Jr 48:28*22567",
+        "a": "v"
+    },
+    {
+        "o": 19640,
+        "r": "csb:Song of Solomon:2:14",
+        "w": 18,
+        "l": {},
+        "t": "2:14*r Or form",
+        "a": "w"
+    },
+    {
+        "o": 19640,
+        "r": "csb:Song of Solomon:2:14",
+        "w": 23,
+        "l": {},
+        "c": "Sg 8:13*19761",
+        "a": "x"
+    },
+    {
+        "o": 19640,
+        "r": "csb:Song of Solomon:2:14",
+        "w": 33,
+        "l": {},
+        "c": "Sg 1:5*19605",
+        "a": "y"
+    },
+    {
+        "o": 19642,
+        "r": "csb:Song of Solomon:2:15",
+        "w": 0,
+        "l": {},
+        "t": "2:15*r The speaker could be the woman, the man, or both.",
+        "a": "z"
+    },
+    {
+        "o": 19642,
+        "r": "csb:Song of Solomon:2:15",
+        "w": 4,
+        "l": {},
+        "c": "Ezk 13:4*23319",
+        "a": "a"
+    },
+    {
+        "o": 19642,
+        "r": "csb:Song of Solomon:2:15",
+        "w": 17,
+        "l": {},
+        "c": "Sg 2:13*19639",
+        "a": "b"
+    },
+    {
+        "o": 19644,
+        "r": "csb:Song of Solomon:2:16",
+        "w": 7,
+        "l": {},
+        "c": "Sg 6:3*19710; 7:10*19737; 8:6*19750",
+        "a": "c"
+    },
+    {
+        "o": 19645,
+        "r": "csb:Song of Solomon:2:17",
+        "w": 3,
+        "l": {},
+        "t": "2:17*r Lit breathes",
+        "a": "d"
+    },
+    {
+        "o": 19645,
+        "r": "csb:Song of Solomon:2:17",
+        "w": 20,
+        "l": {},
+        "c": "Sg 2:9*19633",
+        "a": "e"
+    },
+    {
+        "o": 19645,
+        "r": "csb:Song of Solomon:2:17",
+        "w": 24,
+        "l": {},
+        "t": "2:17*r Or the Bether mountains, or the mountains of spices; Hb obscure",
+        "a": "f"
+    },
+    {
+        "o": 19645,
+        "r": "csb:Song of Solomon:2:17",
+        "w": 24,
+        "l": {},
+        "c": "Sg 4:5–6*19665; 8:14*19762",
+        "a": "g"
+    }
+]

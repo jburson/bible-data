@@ -1,0 +1,2194 @@
+[
+    {
+        "o": 17171,
+        "r": "kjv:Proverbs:1:3",
+        "w": 10,
+        "l": {},
+        "t": "equity: Heb. equities",
+        "a": "a"
+    },
+    {
+        "o": 17172,
+        "r": "kjv:Proverbs:1:4",
+        "w": 12,
+        "l": {},
+        "t": "discretion: or, advisement",
+        "a": "b"
+    },
+    {
+        "o": 17174,
+        "r": "kjv:Proverbs:1:6",
+        "w": 15,
+        "l": {},
+        "t": "the interpretation: or, an eloquent speech",
+        "a": "c"
+    },
+    {
+        "o": 17175,
+        "r": "kjv:Proverbs:1:7",
+        "w": 15,
+        "l": {},
+        "t": "the beginning: or, the principal part",
+        "a": "d"
+    },
+    {
+        "o": 17177,
+        "r": "kjv:Proverbs:1:9",
+        "w": 15,
+        "l": {},
+        "t": "an…: Heb. an adding",
+        "a": "e"
+    },
+    {
+        "o": 17185,
+        "r": "kjv:Proverbs:1:17",
+        "w": 12,
+        "l": {},
+        "t": "in the…: Heb. in the eyes of every thing that hath a wing",
+        "a": "f"
+    },
+    {
+        "o": 17188,
+        "r": "kjv:Proverbs:1:20",
+        "w": 9,
+        "l": {},
+        "t": "Wisdom: Heb. Wisdoms, that is, Excellent wisdom",
+        "a": "g"
+    },
+    {
+        "o": 17200,
+        "r": "kjv:Proverbs:1:32",
+        "w": 17,
+        "l": {},
+        "t": "turning…: or, ease of the simple",
+        "a": "h"
+    },
+    {
+        "o": 17205,
+        "r": "kjv:Proverbs:2:3",
+        "w": 12,
+        "l": {},
+        "t": "liftest…: Heb. givest thy voice",
+        "a": "a"
+    },
+    {
+        "o": 17224,
+        "r": "kjv:Proverbs:2:22",
+        "w": 18,
+        "l": {},
+        "t": "rooted: or, plucked up",
+        "a": "b"
+    },
+    {
+        "o": 17227,
+        "r": "kjv:Proverbs:3:2",
+        "w": 13,
+        "l": {},
+        "t": "long…: Heb. years of life",
+        "a": "a"
+    },
+    {
+        "o": 17229,
+        "r": "kjv:Proverbs:3:4",
+        "w": 14,
+        "l": {},
+        "t": "good…: or, good success",
+        "a": "b"
+    },
+    {
+        "o": 17233,
+        "r": "kjv:Proverbs:3:8",
+        "w": 11,
+        "l": {},
+        "t": "health: Heb. medicine",
+        "a": "c"
+    },
+    {
+        "o": 17233,
+        "r": "kjv:Proverbs:3:8",
+        "w": 11,
+        "l": {},
+        "t": "marrow: Heb. watering, or, moistening",
+        "a": "d"
+    },
+    {
+        "o": 17238,
+        "r": "kjv:Proverbs:3:13",
+        "w": 12,
+        "l": {},
+        "t": "that getteth…: Heb. that draweth out understanding",
+        "a": "e"
+    },
+    {
+        "o": 17244,
+        "r": "kjv:Proverbs:3:19",
+        "w": 14,
+        "l": {},
+        "t": "established: or, prepared",
+        "a": "f"
+    },
+    {
+        "o": 17252,
+        "r": "kjv:Proverbs:3:27",
+        "w": 21,
+        "l": {},
+        "t": "them…: Heb. the owners thereof",
+        "a": "g"
+    },
+    {
+        "o": 17254,
+        "r": "kjv:Proverbs:3:29",
+        "w": 11,
+        "l": {},
+        "t": "Devise…: or, Practise no evil",
+        "a": "h"
+    },
+    {
+        "o": 17256,
+        "r": "kjv:Proverbs:3:31",
+        "w": 10,
+        "l": {},
+        "t": "the oppressor: Heb. a man of violence",
+        "a": "i"
+    },
+    {
+        "o": 17260,
+        "r": "kjv:Proverbs:3:35",
+        "w": 12,
+        "l": {},
+        "t": "shall be…: Heb. exalteth the fools",
+        "a": "j"
+    },
+    {
+        "o": 17270,
+        "r": "kjv:Proverbs:4:9",
+        "w": 18,
+        "l": {},
+        "t": "a crown…: or, she shall compass thee with a crown of glory",
+        "a": "a"
+    },
+    {
+        "o": 17283,
+        "r": "kjv:Proverbs:4:22",
+        "w": 14,
+        "l": {},
+        "t": "health: Heb. medicine",
+        "a": "b"
+    },
+    {
+        "o": 17284,
+        "r": "kjv:Proverbs:4:23",
+        "w": 14,
+        "l": {},
+        "t": "with…: Heb. above all keeping",
+        "a": "c"
+    },
+    {
+        "o": 17285,
+        "r": "kjv:Proverbs:4:24",
+        "w": 13,
+        "l": {},
+        "t": "a froward…: Heb. frowardness of mouth and perverseness of lips",
+        "a": "d"
+    },
+    {
+        "o": 17287,
+        "r": "kjv:Proverbs:4:26",
+        "w": 12,
+        "l": {},
+        "t": "let…: or, all thy ways shall be ordered aright",
+        "a": "e"
+    },
+    {
+        "o": 17292,
+        "r": "kjv:Proverbs:5:3",
+        "w": 17,
+        "l": {},
+        "t": "mouth: Heb. palate",
+        "a": "a"
+    },
+    {
+        "o": 17299,
+        "r": "kjv:Proverbs:5:10",
+        "w": 16,
+        "l": {},
+        "t": "thy wealth: Heb. thy strength",
+        "a": "b"
+    },
+    {
+        "o": 17308,
+        "r": "kjv:Proverbs:5:19",
+        "w": 25,
+        "l": {},
+        "t": "satisfy…: Heb. water thee",
+        "a": "c"
+    },
+    {
+        "o": 17308,
+        "r": "kjv:Proverbs:5:19",
+        "w": 25,
+        "l": {},
+        "t": "be thou…: Heb. err thou always in her love",
+        "a": "d"
+    },
+    {
+        "o": 17311,
+        "r": "kjv:Proverbs:5:22",
+        "w": 18,
+        "l": {},
+        "t": "sins: Heb. sin",
+        "a": "e"
+    },
+    {
+        "o": 17316,
+        "r": "kjv:Proverbs:6:3",
+        "w": 25,
+        "l": {},
+        "t": "and make…: or, so shalt thou prevail with thy friend",
+        "a": "a"
+    },
+    {
+        "o": 17327,
+        "r": "kjv:Proverbs:6:14",
+        "w": 11,
+        "l": {},
+        "t": "soweth: Heb. casteth forth",
+        "a": "b"
+    },
+    {
+        "o": 17329,
+        "r": "kjv:Proverbs:6:16",
+        "w": 13,
+        "l": {},
+        "t": "unto…: Heb. of his soul",
+        "a": "c"
+    },
+    {
+        "o": 17330,
+        "r": "kjv:Proverbs:6:17",
+        "w": 11,
+        "l": {},
+        "t": "A proud…: Heb. Haughty eyes",
+        "a": "d"
+    },
+    {
+        "o": 17336,
+        "r": "kjv:Proverbs:6:23",
+        "w": 19,
+        "l": {},
+        "t": "lamp: or, candle",
+        "a": "e"
+    },
+    {
+        "o": 17337,
+        "r": "kjv:Proverbs:6:24",
+        "w": 16,
+        "l": {},
+        "t": "of the…: or, of the strange tongue",
+        "a": "f"
+    },
+    {
+        "o": 17339,
+        "r": "kjv:Proverbs:6:26",
+        "w": 24,
+        "l": {},
+        "t": "the adulteress: Heb. the woman of a man, or, a man's wife",
+        "a": "g"
+    },
+    {
+        "o": 17345,
+        "r": "kjv:Proverbs:6:32",
+        "w": 16,
+        "l": {},
+        "t": "understanding: Heb. heart",
+        "a": "h"
+    },
+    {
+        "o": 17348,
+        "r": "kjv:Proverbs:6:35",
+        "w": 15,
+        "l": {},
+        "t": "He will…: Heb. He will not accept the face of any ransom",
+        "a": "i"
+    },
+    {
+        "o": 17356,
+        "r": "kjv:Proverbs:7:7",
+        "w": 16,
+        "l": {},
+        "t": "the youths: Heb. the sons",
+        "a": "a"
+    },
+    {
+        "o": 17358,
+        "r": "kjv:Proverbs:7:9",
+        "w": 11,
+        "l": {},
+        "t": "in the evening: Heb. in the evening of days",
+        "a": "b"
+    },
+    {
+        "o": 17362,
+        "r": "kjv:Proverbs:7:13",
+        "w": 14,
+        "l": {},
+        "t": "with…: Heb. she strengthened her face and said",
+        "a": "c"
+    },
+    {
+        "o": 17363,
+        "r": "kjv:Proverbs:7:14",
+        "w": 12,
+        "l": {},
+        "t": "I have…: Heb. Peace offerings are upon me",
+        "a": "d"
+    },
+    {
+        "o": 17369,
+        "r": "kjv:Proverbs:7:20",
+        "w": 16,
+        "l": {},
+        "t": "with…: Heb. in his hand",
+        "a": "e"
+    },
+    {
+        "o": 17369,
+        "r": "kjv:Proverbs:7:20",
+        "w": 16,
+        "l": {},
+        "t": "the day…: or, the new moon",
+        "a": "f"
+    },
+    {
+        "o": 17371,
+        "r": "kjv:Proverbs:7:22",
+        "w": 21,
+        "l": {},
+        "t": "straightway: Heb. suddenly",
+        "a": "g"
+    },
+    {
+        "o": 17384,
+        "r": "kjv:Proverbs:8:7",
+        "w": 13,
+        "l": {},
+        "t": "an…: Heb. the abomination of my lips",
+        "a": "a"
+    },
+    {
+        "o": 17385,
+        "r": "kjv:Proverbs:8:8",
+        "w": 16,
+        "l": {},
+        "t": "froward: Heb. wreathed",
+        "a": "b"
+    },
+    {
+        "o": 17389,
+        "r": "kjv:Proverbs:8:12",
+        "w": 11,
+        "l": {},
+        "t": "prudence: or, subtilty",
+        "a": "c"
+    },
+    {
+        "o": 17397,
+        "r": "kjv:Proverbs:8:20",
+        "w": 14,
+        "l": {},
+        "t": "lead: or, walk",
+        "a": "d"
+    },
+    {
+        "o": 17403,
+        "r": "kjv:Proverbs:8:26",
+        "w": 21,
+        "l": {},
+        "t": "fields: or, open places",
+        "a": "e"
+    },
+    {
+        "o": 17403,
+        "r": "kjv:Proverbs:8:26",
+        "w": 21,
+        "l": {},
+        "t": "the highest…: or, the chief part",
+        "a": "f"
+    },
+    {
+        "o": 17404,
+        "r": "kjv:Proverbs:8:27",
+        "w": 18,
+        "l": {},
+        "t": "a compass: or, a circle",
+        "a": "g"
+    },
+    {
+        "o": 17412,
+        "r": "kjv:Proverbs:8:35",
+        "w": 12,
+        "l": {},
+        "t": "obtain: Heb. bring forth",
+        "a": "h"
+    },
+    {
+        "o": 17416,
+        "r": "kjv:Proverbs:9:2",
+        "w": 15,
+        "l": {},
+        "t": "her beasts: Heb. her killing",
+        "a": "a"
+    },
+    {
+        "o": 17431,
+        "r": "kjv:Proverbs:9:17",
+        "w": 10,
+        "l": {},
+        "t": "eaten…: Heb. of secrecies",
+        "a": "b"
+    },
+    {
+        "o": 17436,
+        "r": "kjv:Proverbs:10:3",
+        "w": 20,
+        "l": {},
+        "t": "the substance…: or, the wicked for their wickedness",
+        "a": "a"
+    },
+    {
+        "o": 17441,
+        "r": "kjv:Proverbs:10:8",
+        "w": 12,
+        "l": {},
+        "t": "a prating…: Heb. a fool of lips",
+        "a": "b"
+    },
+    {
+        "o": 17441,
+        "r": "kjv:Proverbs:10:8",
+        "w": 12,
+        "l": {},
+        "t": "fall: Heb. be beaten",
+        "a": "c"
+    },
+    {
+        "o": 17443,
+        "r": "kjv:Proverbs:10:10",
+        "w": 13,
+        "l": {},
+        "t": "fall: Heb. be beaten",
+        "a": "d"
+    },
+    {
+        "o": 17446,
+        "r": "kjv:Proverbs:10:13",
+        "w": 24,
+        "l": {},
+        "t": "of understanding: Heb. of heart",
+        "a": "e"
+    },
+    {
+        "o": 17450,
+        "r": "kjv:Proverbs:10:17",
+        "w": 15,
+        "l": {},
+        "t": "erreth: or, causeth to err",
+        "a": "f"
+    },
+    {
+        "o": 17454,
+        "r": "kjv:Proverbs:10:21",
+        "w": 13,
+        "l": {},
+        "t": "of wisdom: Heb. of heart",
+        "a": "g"
+    },
+    {
+        "o": 17460,
+        "r": "kjv:Proverbs:10:27",
+        "w": 15,
+        "l": {},
+        "t": "prolongeth: Heb. addeth",
+        "a": "h"
+    },
+    {
+        "o": 17465,
+        "r": "kjv:Proverbs:10:32",
+        "w": 16,
+        "l": {},
+        "t": "frowardness: Heb. frowardnesses",
+        "a": "i"
+    },
+    {
+        "o": 17467,
+        "r": "kjv:Proverbs:11:1",
+        "w": 14,
+        "l": {},
+        "t": "A false…: Heb. Balances of deceit",
+        "a": "a"
+    },
+    {
+        "o": 17467,
+        "r": "kjv:Proverbs:11:1",
+        "w": 14,
+        "l": {},
+        "t": "just…: Heb. perfect stone",
+        "a": "b"
+    },
+    {
+        "o": 17471,
+        "r": "kjv:Proverbs:11:5",
+        "w": 17,
+        "l": {},
+        "t": "direct: Heb. rectify",
+        "a": "c"
+    },
+    {
+        "o": 17478,
+        "r": "kjv:Proverbs:11:12",
+        "w": 16,
+        "l": {},
+        "t": "void…: Heb. destitute of heart",
+        "a": "d"
+    },
+    {
+        "o": 17479,
+        "r": "kjv:Proverbs:11:13",
+        "w": 14,
+        "l": {},
+        "t": "A talebearer: Heb. He that walketh, being a talebearer",
+        "a": "e"
+    },
+    {
+        "o": 17481,
+        "r": "kjv:Proverbs:11:15",
+        "w": 17,
+        "l": {},
+        "t": "smart: Heb. be sore broken",
+        "a": "f"
+    },
+    {
+        "o": 17481,
+        "r": "kjv:Proverbs:11:15",
+        "w": 17,
+        "l": {},
+        "t": "suretiship: Heb. those that strike hands",
+        "a": "g"
+    },
+    {
+        "o": 17488,
+        "r": "kjv:Proverbs:11:22",
+        "w": 17,
+        "l": {},
+        "t": "is without: Heb. departeth from",
+        "a": "h"
+    },
+    {
+        "o": 17491,
+        "r": "kjv:Proverbs:11:25",
+        "w": 15,
+        "l": {},
+        "t": "liberal…: Heb. soul of blessing",
+        "a": "i"
+    },
+    {
+        "o": 17496,
+        "r": "kjv:Proverbs:11:30",
+        "w": 16,
+        "l": {},
+        "t": "winneth: Heb. taketh",
+        "a": "j"
+    },
+    {
+        "o": 17506,
+        "r": "kjv:Proverbs:12:8",
+        "w": 19,
+        "l": {},
+        "t": "of a…: Heb. perverse of heart",
+        "a": "a"
+    },
+    {
+        "o": 17508,
+        "r": "kjv:Proverbs:12:10",
+        "w": 17,
+        "l": {},
+        "t": "tender…: or, bowels",
+        "a": "b"
+    },
+    {
+        "o": 17510,
+        "r": "kjv:Proverbs:12:12",
+        "w": 15,
+        "l": {},
+        "t": "the net: or, the fortress",
+        "a": "c"
+    },
+    {
+        "o": 17511,
+        "r": "kjv:Proverbs:12:13",
+        "w": 17,
+        "l": {},
+        "t": "The wicked…: Heb. The snare of the wicked is in the transgression of lips",
+        "a": "d"
+    },
+    {
+        "o": 17514,
+        "r": "kjv:Proverbs:12:16",
+        "w": 11,
+        "l": {},
+        "t": "presently: Heb. in that day",
+        "a": "e"
+    },
+    {
+        "o": 17522,
+        "r": "kjv:Proverbs:12:24",
+        "w": 14,
+        "l": {},
+        "t": "slothful: or, deceitful",
+        "a": "f"
+    },
+    {
+        "o": 17524,
+        "r": "kjv:Proverbs:12:26",
+        "w": 15,
+        "l": {},
+        "t": "excellent: or, abundant",
+        "a": "g"
+    },
+    {
+        "o": 17533,
+        "r": "kjv:Proverbs:13:6",
+        "w": 13,
+        "l": {},
+        "t": "the sinner: Heb. sin",
+        "a": "a"
+    },
+    {
+        "o": 17536,
+        "r": "kjv:Proverbs:13:9",
+        "w": 15,
+        "l": {},
+        "t": "lamp: or, candle",
+        "a": "b"
+    },
+    {
+        "o": 17538,
+        "r": "kjv:Proverbs:13:11",
+        "w": 14,
+        "l": {},
+        "t": "by labour: Heb. with the hand",
+        "a": "c"
+    },
+    {
+        "o": 17540,
+        "r": "kjv:Proverbs:13:13",
+        "w": 15,
+        "l": {},
+        "t": "shall be rewarded: or, shall be in peace",
+        "a": "d"
+    },
+    {
+        "o": 17543,
+        "r": "kjv:Proverbs:13:16",
+        "w": 12,
+        "l": {},
+        "t": "layeth…: Heb. spreadeth",
+        "a": "e"
+    },
+    {
+        "o": 17544,
+        "r": "kjv:Proverbs:13:17",
+        "w": 11,
+        "l": {},
+        "t": "a faithful…: Heb. an ambassador of faithfulness",
+        "a": "f"
+    },
+    {
+        "o": 17547,
+        "r": "kjv:Proverbs:13:20",
+        "w": 16,
+        "l": {},
+        "t": "destroyed: Heb. broken",
+        "a": "g"
+    },
+    {
+        "o": 17563,
+        "r": "kjv:Proverbs:14:10",
+        "w": 14,
+        "l": {},
+        "t": "his own…: Heb. the bitterness of his soul",
+        "a": "a"
+    },
+    {
+        "o": 17573,
+        "r": "kjv:Proverbs:14:20",
+        "w": 14,
+        "l": {},
+        "t": "the rich…: Heb. many are the lovers of the rich",
+        "a": "b"
+    },
+    {
+        "o": 17582,
+        "r": "kjv:Proverbs:14:29",
+        "w": 18,
+        "l": {},
+        "t": "hasty…: Heb. short of spirit",
+        "a": "c"
+    },
+    {
+        "o": 17587,
+        "r": "kjv:Proverbs:14:34",
+        "w": 11,
+        "l": {},
+        "t": "to any…: Heb. to nations",
+        "a": "d"
+    },
+    {
+        "o": 17591,
+        "r": "kjv:Proverbs:15:2",
+        "w": 15,
+        "l": {},
+        "t": "poureth: Heb. belcheth, or, bubbleth",
+        "a": "a"
+    },
+    {
+        "o": 17593,
+        "r": "kjv:Proverbs:15:4",
+        "w": 16,
+        "l": {},
+        "t": "A wholesome…: Heb. The healing of the tongue",
+        "a": "b"
+    },
+    {
+        "o": 17599,
+        "r": "kjv:Proverbs:15:10",
+        "w": 15,
+        "l": {},
+        "t": "Correction: or, Instruction",
+        "a": "c"
+    },
+    {
+        "o": 17608,
+        "r": "kjv:Proverbs:15:19",
+        "w": 20,
+        "l": {},
+        "t": "is made…: Heb. is raised up as a causey",
+        "a": "d"
+    },
+    {
+        "o": 17610,
+        "r": "kjv:Proverbs:15:21",
+        "w": 16,
+        "l": {},
+        "t": "destitute…: Heb. void of heart",
+        "a": "e"
+    },
+    {
+        "o": 17612,
+        "r": "kjv:Proverbs:15:23",
+        "w": 20,
+        "l": {},
+        "t": "due…: Heb. his season",
+        "a": "f"
+    },
+    {
+        "o": 17615,
+        "r": "kjv:Proverbs:15:26",
+        "w": 19,
+        "l": {},
+        "t": "pleasant…: Heb. words of pleasantness",
+        "a": "g"
+    },
+    {
+        "o": 17621,
+        "r": "kjv:Proverbs:15:32",
+        "w": 14,
+        "l": {},
+        "t": "instruction: or, correction",
+        "a": "h"
+    },
+    {
+        "o": 17621,
+        "r": "kjv:Proverbs:15:32",
+        "w": 14,
+        "l": {},
+        "t": "heareth: or, obeyeth",
+        "a": "i"
+    },
+    {
+        "o": 17621,
+        "r": "kjv:Proverbs:15:32",
+        "w": 14,
+        "l": {},
+        "t": "getteth…: Heb. possesseth an heart",
+        "a": "j"
+    },
+    {
+        "o": 17624,
+        "r": "kjv:Proverbs:16:1",
+        "w": 16,
+        "l": {},
+        "t": "preparations: or, disposings",
+        "a": "a"
+    },
+    {
+        "o": 17626,
+        "r": "kjv:Proverbs:16:3",
+        "w": 11,
+        "l": {},
+        "t": "Commit: Heb. Roll",
+        "a": "b"
+    },
+    {
+        "o": 17628,
+        "r": "kjv:Proverbs:16:5",
+        "w": 22,
+        "l": {},
+        "t": "unpunished: Heb. held innocent",
+        "a": "c"
+    },
+    {
+        "o": 17633,
+        "r": "kjv:Proverbs:16:10",
+        "w": 15,
+        "l": {},
+        "t": "A divine…: Heb. Divination",
+        "a": "d"
+    },
+    {
+        "o": 17634,
+        "r": "kjv:Proverbs:16:11",
+        "w": 16,
+        "l": {},
+        "t": "the weights: Heb. the stones",
+        "a": "e"
+    },
+    {
+        "o": 17643,
+        "r": "kjv:Proverbs:16:20",
+        "w": 17,
+        "l": {},
+        "t": "handleth…: or, understandeth a matter",
+        "a": "f"
+    },
+    {
+        "o": 17646,
+        "r": "kjv:Proverbs:16:23",
+        "w": 13,
+        "l": {},
+        "t": "teacheth: Heb. maketh wise",
+        "a": "g"
+    },
+    {
+        "o": 17649,
+        "r": "kjv:Proverbs:16:26",
+        "w": 12,
+        "l": {},
+        "t": "He…: Heb. The soul of him that",
+        "a": "h"
+    },
+    {
+        "o": 17649,
+        "r": "kjv:Proverbs:16:26",
+        "w": 12,
+        "l": {},
+        "t": "craveth…: Heb. boweth unto him",
+        "a": "i"
+    },
+    {
+        "o": 17650,
+        "r": "kjv:Proverbs:16:27",
+        "w": 15,
+        "l": {},
+        "t": "An…: Heb. A man of Belial",
+        "a": "j"
+    },
+    {
+        "o": 17651,
+        "r": "kjv:Proverbs:16:28",
+        "w": 10,
+        "l": {},
+        "t": "soweth: Heb. sendeth forth",
+        "a": "k"
+    },
+    {
+        "o": 17658,
+        "r": "kjv:Proverbs:17:1",
+        "w": 15,
+        "l": {},
+        "t": "sacrifices: or, good cheer",
+        "a": "a"
+    },
+    {
+        "o": 17662,
+        "r": "kjv:Proverbs:17:5",
+        "w": 17,
+        "l": {},
+        "t": "unpunished: Heb. held innocent",
+        "a": "b"
+    },
+    {
+        "o": 17664,
+        "r": "kjv:Proverbs:17:7",
+        "w": 12,
+        "l": {},
+        "t": "Excellent…: Heb. A lip of excellency",
+        "a": "c"
+    },
+    {
+        "o": 17664,
+        "r": "kjv:Proverbs:17:7",
+        "w": 12,
+        "l": {},
+        "t": "lying…: Heb. a lip of lying",
+        "a": "d"
+    },
+    {
+        "o": 17665,
+        "r": "kjv:Proverbs:17:8",
+        "w": 19,
+        "l": {},
+        "t": "a precious…: Heb. a stone of grace",
+        "a": "e"
+    },
+    {
+        "o": 17666,
+        "r": "kjv:Proverbs:17:9",
+        "w": 15,
+        "l": {},
+        "t": "seeketh: or, procureth",
+        "a": "f"
+    },
+    {
+        "o": 17667,
+        "r": "kjv:Proverbs:17:10",
+        "w": 14,
+        "l": {},
+        "t": "entereth…: or, aweth more a wise man, than to strike a fool an hundred times",
+        "a": "g"
+    },
+    {
+        "o": 17675,
+        "r": "kjv:Proverbs:17:18",
+        "w": 15,
+        "l": {},
+        "t": "understanding: Heb. heart",
+        "a": "h"
+    },
+    {
+        "o": 17677,
+        "r": "kjv:Proverbs:17:20",
+        "w": 18,
+        "l": {},
+        "t": "He that hath a froward…: Heb. The froward of heart",
+        "a": "i"
+    },
+    {
+        "o": 17679,
+        "r": "kjv:Proverbs:17:22",
+        "w": 14,
+        "l": {},
+        "t": "like: or, to",
+        "a": "j"
+    },
+    {
+        "o": 17684,
+        "r": "kjv:Proverbs:17:27",
+        "w": 16,
+        "l": {},
+        "t": "an…: or, a cool",
+        "a": "k"
+    },
+    {
+        "o": 17687,
+        "r": "kjv:Proverbs:18:1",
+        "w": 12,
+        "l": {},
+        "t": "Through…: or, He that separateth himself seeketh according to his desire, and intermeddleth in every business",
+        "a": "a"
+    },
+    {
+        "o": 17694,
+        "r": "kjv:Proverbs:18:8",
+        "w": 18,
+        "l": {},
+        "t": "talebearer: or, whisperer",
+        "a": "b"
+    },
+    {
+        "o": 17694,
+        "r": "kjv:Proverbs:18:8",
+        "w": 18,
+        "l": {},
+        "t": "as wounds: or, like as when men are wounded",
+        "a": "c"
+    },
+    {
+        "o": 17694,
+        "r": "kjv:Proverbs:18:8",
+        "w": 18,
+        "l": {},
+        "t": "innermost…: Heb. chambers",
+        "a": "d"
+    },
+    {
+        "o": 17696,
+        "r": "kjv:Proverbs:18:10",
+        "w": 16,
+        "l": {},
+        "t": "safe: Heb. set aloft",
+        "a": "e"
+    },
+    {
+        "o": 17699,
+        "r": "kjv:Proverbs:18:13",
+        "w": 15,
+        "l": {},
+        "t": "answereth…: Heb. returneth a word",
+        "a": "f"
+    },
+    {
+        "o": 17716,
+        "r": "kjv:Proverbs:19:5",
+        "w": 14,
+        "l": {},
+        "t": "unpunished: Heb. held innocent",
+        "a": "a"
+    },
+    {
+        "o": 17717,
+        "r": "kjv:Proverbs:19:6",
+        "w": 18,
+        "l": {},
+        "t": "him…: Heb. a man of gifts",
+        "a": "b"
+    },
+    {
+        "o": 17719,
+        "r": "kjv:Proverbs:19:8",
+        "w": 14,
+        "l": {},
+        "t": "wisdom: Heb. an heart",
+        "a": "c"
+    },
+    {
+        "o": 17722,
+        "r": "kjv:Proverbs:19:11",
+        "w": 17,
+        "l": {},
+        "t": "discretion: or, prudence",
+        "a": "d"
+    },
+    {
+        "o": 17728,
+        "r": "kjv:Proverbs:19:17",
+        "w": 21,
+        "l": {},
+        "t": "that which…: or, his deed",
+        "a": "e"
+    },
+    {
+        "o": 17729,
+        "r": "kjv:Proverbs:19:18",
+        "w": 15,
+        "l": {},
+        "t": "for…: or, to his destruction: or, to cause him to die",
+        "a": "f"
+    },
+    {
+        "o": 17730,
+        "r": "kjv:Proverbs:19:19",
+        "w": 18,
+        "l": {},
+        "t": "do: Heb. add",
+        "a": "g"
+    },
+    {
+        "o": 17736,
+        "r": "kjv:Proverbs:19:25",
+        "w": 18,
+        "l": {},
+        "t": "will beware: Heb. will be cunning",
+        "a": "h"
+    },
+    {
+        "o": 17739,
+        "r": "kjv:Proverbs:19:28",
+        "w": 12,
+        "l": {},
+        "t": "An…: Heb. A witness of Belial",
+        "a": "i"
+    },
+    {
+        "o": 17745,
+        "r": "kjv:Proverbs:20:4",
+        "w": 18,
+        "l": {},
+        "t": "cold: or, winter",
+        "a": "a"
+    },
+    {
+        "o": 17747,
+        "r": "kjv:Proverbs:20:6",
+        "w": 15,
+        "l": {},
+        "t": "goodness: or, bounty",
+        "a": "b"
+    },
+    {
+        "o": 17751,
+        "r": "kjv:Proverbs:20:10",
+        "w": 13,
+        "l": {},
+        "t": "Divers weights: Heb. A stone and a stone",
+        "a": "c"
+    },
+    {
+        "o": 17751,
+        "r": "kjv:Proverbs:20:10",
+        "w": 13,
+        "l": {},
+        "t": "divers measures: Heb. an ephah and an ephah",
+        "a": "d"
+    },
+    {
+        "o": 17758,
+        "r": "kjv:Proverbs:20:17",
+        "w": 16,
+        "l": {},
+        "t": "deceit: Heb. lying, or, falsehood",
+        "a": "e"
+    },
+    {
+        "o": 17760,
+        "r": "kjv:Proverbs:20:19",
+        "w": 18,
+        "l": {},
+        "t": "flattereth: or, enticeth",
+        "a": "f"
+    },
+    {
+        "o": 17761,
+        "r": "kjv:Proverbs:20:20",
+        "w": 15,
+        "l": {},
+        "t": "lamp: or, candle",
+        "a": "g"
+    },
+    {
+        "o": 17764,
+        "r": "kjv:Proverbs:20:23",
+        "w": 14,
+        "l": {},
+        "t": "a false…: Heb. balance of deceit",
+        "a": "h"
+    },
+    {
+        "o": 17768,
+        "r": "kjv:Proverbs:20:27",
+        "w": 17,
+        "l": {},
+        "t": "candle: or, lamp",
+        "a": "i"
+    },
+    {
+        "o": 17771,
+        "r": "kjv:Proverbs:20:30",
+        "w": 16,
+        "l": {},
+        "t": "cleanseth…: Heb. is a purging medicine against",
+        "a": "j"
+    },
+    {
+        "o": 17776,
+        "r": "kjv:Proverbs:21:4",
+        "w": 14,
+        "l": {},
+        "t": "An…: Heb. Haughtiness of eyes",
+        "a": "a"
+    },
+    {
+        "o": 17776,
+        "r": "kjv:Proverbs:21:4",
+        "w": 14,
+        "l": {},
+        "t": "the plowing: or, the light",
+        "a": "b"
+    },
+    {
+        "o": 17779,
+        "r": "kjv:Proverbs:21:7",
+        "w": 13,
+        "l": {},
+        "t": "destroy…: Heb. saw them, or, dwell with them",
+        "a": "c"
+    },
+    {
+        "o": 17781,
+        "r": "kjv:Proverbs:21:9",
+        "w": 19,
+        "l": {},
+        "t": "a brawling…: Heb. a woman of contentions",
+        "a": "d"
+    },
+    {
+        "o": 17781,
+        "r": "kjv:Proverbs:21:9",
+        "w": 19,
+        "l": {},
+        "t": "a wide…: Heb. an house of society",
+        "a": "e"
+    },
+    {
+        "o": 17782,
+        "r": "kjv:Proverbs:21:10",
+        "w": 14,
+        "l": {},
+        "t": "findeth…: Heb. is not favoured",
+        "a": "f"
+    },
+    {
+        "o": 17789,
+        "r": "kjv:Proverbs:21:17",
+        "w": 18,
+        "l": {},
+        "t": "pleasure: or, sport",
+        "a": "g"
+    },
+    {
+        "o": 17791,
+        "r": "kjv:Proverbs:21:19",
+        "w": 15,
+        "l": {},
+        "t": "in…: Heb. in the land of the desert",
+        "a": "h"
+    },
+    {
+        "o": 17796,
+        "r": "kjv:Proverbs:21:24",
+        "w": 11,
+        "l": {},
+        "t": "in proud…: Heb. in the wrath of pride",
+        "a": "i"
+    },
+    {
+        "o": 17799,
+        "r": "kjv:Proverbs:21:27",
+        "w": 17,
+        "l": {},
+        "t": "with…: Heb. in wickedness?",
+        "a": "j"
+    },
+    {
+        "o": 17800,
+        "r": "kjv:Proverbs:21:28",
+        "w": 11,
+        "l": {},
+        "t": "A…: Heb. A witness of lies",
+        "a": "k"
+    },
+    {
+        "o": 17801,
+        "r": "kjv:Proverbs:21:29",
+        "w": 14,
+        "l": {},
+        "t": "directeth: or, considereth",
+        "a": "l"
+    },
+    {
+        "o": 17803,
+        "r": "kjv:Proverbs:21:31",
+        "w": 14,
+        "l": {},
+        "t": "safety: or, victory",
+        "a": "m"
+    },
+    {
+        "o": 17805,
+        "r": "kjv:Proverbs:22:1",
+        "w": 18,
+        "l": {},
+        "t": "loving…: or, favour is better than, etc.",
+        "a": "a"
+    },
+    {
+        "o": 17808,
+        "r": "kjv:Proverbs:22:4",
+        "w": 13,
+        "l": {},
+        "t": "By…: or, The reward of humility, etc.",
+        "a": "b"
+    },
+    {
+        "o": 17810,
+        "r": "kjv:Proverbs:22:6",
+        "w": 20,
+        "l": {},
+        "t": "Train…: or, Catechise",
+        "a": "c"
+    },
+    {
+        "o": 17810,
+        "r": "kjv:Proverbs:22:6",
+        "w": 20,
+        "l": {},
+        "t": "in…: Heb. in his way",
+        "a": "d"
+    },
+    {
+        "o": 17811,
+        "r": "kjv:Proverbs:22:7",
+        "w": 13,
+        "l": {},
+        "t": "the lender: Heb. the man that lendeth",
+        "a": "e"
+    },
+    {
+        "o": 17812,
+        "r": "kjv:Proverbs:22:8",
+        "w": 14,
+        "l": {},
+        "t": "the rod…: or, with the rod of his anger he shall be consumed",
+        "a": "f"
+    },
+    {
+        "o": 17813,
+        "r": "kjv:Proverbs:22:9",
+        "w": 17,
+        "l": {},
+        "t": "He that…: Heb. Good of eye",
+        "a": "g"
+    },
+    {
+        "o": 17815,
+        "r": "kjv:Proverbs:22:11",
+        "w": 17,
+        "l": {},
+        "t": "for…: or, and hath grace in his lips",
+        "a": "h"
+    },
+    {
+        "o": 17816,
+        "r": "kjv:Proverbs:22:12",
+        "w": 14,
+        "l": {},
+        "t": "the words: or, the matters",
+        "a": "i"
+    },
+    {
+        "o": 17822,
+        "r": "kjv:Proverbs:22:18",
+        "w": 19,
+        "l": {},
+        "t": "within…: Heb. in thy belly",
+        "a": "j"
+    },
+    {
+        "o": 17823,
+        "r": "kjv:Proverbs:22:19",
+        "w": 18,
+        "l": {},
+        "t": "even…: or, trust thou also",
+        "a": "k"
+    },
+    {
+        "o": 17825,
+        "r": "kjv:Proverbs:22:21",
+        "w": 26,
+        "l": {},
+        "t": "to them…: or, to those that send thee?",
+        "a": "l"
+    },
+    {
+        "o": 17832,
+        "r": "kjv:Proverbs:22:28",
+        "w": 9,
+        "l": {},
+        "t": "landmark: or, bound",
+        "a": "m"
+    },
+    {
+        "o": 17833,
+        "r": "kjv:Proverbs:22:29",
+        "w": 19,
+        "l": {},
+        "t": "mean…: Heb. obscure men",
+        "a": "n"
+    },
+    {
+        "o": 17839,
+        "r": "kjv:Proverbs:23:5",
+        "w": 23,
+        "l": {},
+        "t": "set…: Heb. cause thine eyes to fly upon",
+        "a": "a"
+    },
+    {
+        "o": 17844,
+        "r": "kjv:Proverbs:23:10",
+        "w": 13,
+        "l": {},
+        "t": "landmark: or, bound",
+        "a": "b"
+    },
+    {
+        "o": 17849,
+        "r": "kjv:Proverbs:23:15",
+        "w": 12,
+        "l": {},
+        "t": "even…: or, even I will rejoice",
+        "a": "c"
+    },
+    {
+        "o": 17852,
+        "r": "kjv:Proverbs:23:18",
+        "w": 13,
+        "l": {},
+        "t": "end: or, reward",
+        "a": "d"
+    },
+    {
+        "o": 17854,
+        "r": "kjv:Proverbs:23:20",
+        "w": 8,
+        "l": {},
+        "t": "of flesh: Heb. of their flesh",
+        "a": "e"
+    },
+    {
+        "o": 17862,
+        "r": "kjv:Proverbs:23:28",
+        "w": 14,
+        "l": {},
+        "t": "as for…: or, as a robber",
+        "a": "f"
+    },
+    {
+        "o": 17866,
+        "r": "kjv:Proverbs:23:32",
+        "w": 12,
+        "l": {},
+        "t": "an…: or, a cockatrice",
+        "a": "g"
+    },
+    {
+        "o": 17868,
+        "r": "kjv:Proverbs:23:34",
+        "w": 25,
+        "l": {},
+        "t": "the midst…: Heb. the heart of the sea",
+        "a": "h"
+    },
+    {
+        "o": 17869,
+        "r": "kjv:Proverbs:23:35",
+        "w": 30,
+        "l": {},
+        "t": "I felt…: Heb. I knew it not",
+        "a": "i"
+    },
+    {
+        "o": 17875,
+        "r": "kjv:Proverbs:24:5",
+        "w": 11,
+        "l": {},
+        "t": "is strong: Heb. is in strength",
+        "a": "a"
+    },
+    {
+        "o": 17875,
+        "r": "kjv:Proverbs:24:5",
+        "w": 11,
+        "l": {},
+        "t": "increaseth…: Heb. strengtheneth might",
+        "a": "b"
+    },
+    {
+        "o": 17880,
+        "r": "kjv:Proverbs:24:10",
+        "w": 11,
+        "l": {},
+        "t": "small: Heb. narrow",
+        "a": "c"
+    },
+    {
+        "o": 17883,
+        "r": "kjv:Proverbs:24:13",
+        "w": 17,
+        "l": {},
+        "t": "to…: Heb. upon thy palate",
+        "a": "d"
+    },
+    {
+        "o": 17888,
+        "r": "kjv:Proverbs:24:18",
+        "w": 16,
+        "l": {},
+        "t": "it displease…: Heb. it be evil in his eyes",
+        "a": "e"
+    },
+    {
+        "o": 17889,
+        "r": "kjv:Proverbs:24:19",
+        "w": 13,
+        "l": {},
+        "t": "Fret…: or, Keep not company with the wicked",
+        "a": "f"
+    },
+    {
+        "o": 17890,
+        "r": "kjv:Proverbs:24:20",
+        "w": 18,
+        "l": {},
+        "t": "candle: or, lamp",
+        "a": "g"
+    },
+    {
+        "o": 17891,
+        "r": "kjv:Proverbs:24:21",
+        "w": 18,
+        "l": {},
+        "t": "them…: Heb. changers",
+        "a": "h"
+    },
+    {
+        "o": 17895,
+        "r": "kjv:Proverbs:24:25",
+        "w": 16,
+        "l": {},
+        "t": "a good…: Heb. a blessing of good",
+        "a": "i"
+    },
+    {
+        "o": 17896,
+        "r": "kjv:Proverbs:24:26",
+        "w": 10,
+        "l": {},
+        "t": "that…: Heb. that answereth right words",
+        "a": "j"
+    },
+    {
+        "o": 17902,
+        "r": "kjv:Proverbs:24:32",
+        "w": 13,
+        "l": {},
+        "t": "considered…: Heb. set my heart",
+        "a": "k"
+    },
+    {
+        "o": 17904,
+        "r": "kjv:Proverbs:24:34",
+        "w": 15,
+        "l": {},
+        "t": "an…: Heb. a man of shield",
+        "a": "l"
+    },
+    {
+        "o": 17908,
+        "r": "kjv:Proverbs:25:3",
+        "w": 15,
+        "l": {},
+        "t": "is…: Heb. there is no searching",
+        "a": "a"
+    },
+    {
+        "o": 17911,
+        "r": "kjv:Proverbs:25:6",
+        "w": 18,
+        "l": {},
+        "t": "Put…: Heb. Set not out thy glory",
+        "a": "b"
+    },
+    {
+        "o": 17914,
+        "r": "kjv:Proverbs:25:9",
+        "w": 13,
+        "l": {},
+        "t": "a secret…: or, the secret of",
+        "a": "c"
+    },
+    {
+        "o": 17916,
+        "r": "kjv:Proverbs:25:11",
+        "w": 12,
+        "l": {},
+        "t": "fitly…: Heb. spoken upon his wheels",
+        "a": "d"
+    },
+    {
+        "o": 17919,
+        "r": "kjv:Proverbs:25:14",
+        "w": 13,
+        "l": {},
+        "t": "of a…: Heb. in a gift of falsehood",
+        "a": "e"
+    },
+    {
+        "o": 17922,
+        "r": "kjv:Proverbs:25:17",
+        "w": 16,
+        "l": {},
+        "t": "Withdraw…: or, Let thy foot be seldom in",
+        "a": "f"
+    },
+    {
+        "o": 17922,
+        "r": "kjv:Proverbs:25:17",
+        "w": 16,
+        "l": {},
+        "t": "weary…: Heb. full of thee",
+        "a": "g"
+    },
+    {
+        "o": 17928,
+        "r": "kjv:Proverbs:25:23",
+        "w": 13,
+        "l": {},
+        "t": "driveth…: or, bringeth forth rain: so doth a backbiting tongue an angry countenance",
+        "a": "h"
+    },
+    {
+        "o": 17939,
+        "r": "kjv:Proverbs:26:5",
+        "w": 14,
+        "l": {},
+        "t": "conceit: Heb. eyes",
+        "a": "a"
+    },
+    {
+        "o": 17940,
+        "r": "kjv:Proverbs:26:6",
+        "w": 17,
+        "l": {},
+        "t": "damage: or, violence",
+        "a": "b"
+    },
+    {
+        "o": 17941,
+        "r": "kjv:Proverbs:26:7",
+        "w": 16,
+        "l": {},
+        "t": "are…: Heb. are lifted up",
+        "a": "c"
+    },
+    {
+        "o": 17942,
+        "r": "kjv:Proverbs:26:8",
+        "w": 17,
+        "l": {},
+        "t": "bindeth…: or, putteth a precious stone in an heap of stones",
+        "a": "d"
+    },
+    {
+        "o": 17944,
+        "r": "kjv:Proverbs:26:10",
+        "w": 13,
+        "l": {},
+        "t": "The great…: or, A great man grieveth all, and he hireth the fool, he hireth also transgressors",
+        "a": "e"
+    },
+    {
+        "o": 17945,
+        "r": "kjv:Proverbs:26:11",
+        "w": 13,
+        "l": {},
+        "t": "returneth to his folly: Heb. iterateth his folly",
+        "a": "f"
+    },
+    {
+        "o": 17949,
+        "r": "kjv:Proverbs:26:15",
+        "w": 17,
+        "l": {},
+        "t": "it grieveth…: or, he is weary",
+        "a": "g"
+    },
+    {
+        "o": 17951,
+        "r": "kjv:Proverbs:26:17",
+        "w": 21,
+        "l": {},
+        "t": "meddleth: or, is enraged",
+        "a": "h"
+    },
+    {
+        "o": 17952,
+        "r": "kjv:Proverbs:26:18",
+        "w": 9,
+        "l": {},
+        "t": "firebrands: Heb. flames, or, sparks",
+        "a": "i"
+    },
+    {
+        "o": 17954,
+        "r": "kjv:Proverbs:26:20",
+        "w": 17,
+        "l": {},
+        "t": "Where no…: Heb. Without wood",
+        "a": "j"
+    },
+    {
+        "o": 17954,
+        "r": "kjv:Proverbs:26:20",
+        "w": 17,
+        "l": {},
+        "t": "talebearer: or, whisperer",
+        "a": "k"
+    },
+    {
+        "o": 17954,
+        "r": "kjv:Proverbs:26:20",
+        "w": 17,
+        "l": {},
+        "t": "ceaseth: Heb. is silent",
+        "a": "l"
+    },
+    {
+        "o": 17956,
+        "r": "kjv:Proverbs:26:22",
+        "w": 18,
+        "l": {},
+        "t": "innermost…: Heb. chambers",
+        "a": "m"
+    },
+    {
+        "o": 17958,
+        "r": "kjv:Proverbs:26:24",
+        "w": 12,
+        "l": {},
+        "t": "dissembleth: or, is known",
+        "a": "n"
+    },
+    {
+        "o": 17959,
+        "r": "kjv:Proverbs:26:25",
+        "w": 14,
+        "l": {},
+        "t": "speaketh…: Heb. maketh his voice gracious",
+        "a": "o"
+    },
+    {
+        "o": 17960,
+        "r": "kjv:Proverbs:26:26",
+        "w": 14,
+        "l": {},
+        "t": "by…: or, in secret",
+        "a": "p"
+    },
+    {
+        "o": 17964,
+        "r": "kjv:Proverbs:27:1",
+        "w": 15,
+        "l": {},
+        "t": "to…: Heb. to morrow day",
+        "a": "a"
+    },
+    {
+        "o": 17966,
+        "r": "kjv:Proverbs:27:3",
+        "w": 16,
+        "l": {},
+        "t": "heavy: Heb. heaviness",
+        "a": "b"
+    },
+    {
+        "o": 17967,
+        "r": "kjv:Proverbs:27:4",
+        "w": 14,
+        "l": {},
+        "t": "Wrath…: Heb. Wrath is cruelty, and anger an overflowing",
+        "a": "c"
+    },
+    {
+        "o": 17967,
+        "r": "kjv:Proverbs:27:4",
+        "w": 14,
+        "l": {},
+        "t": "envy: or, jealousy?",
+        "a": "d"
+    },
+    {
+        "o": 17969,
+        "r": "kjv:Proverbs:27:6",
+        "w": 14,
+        "l": {},
+        "t": "deceitful: or, earnest, or, frequent",
+        "a": "e"
+    },
+    {
+        "o": 17970,
+        "r": "kjv:Proverbs:27:7",
+        "w": 15,
+        "l": {},
+        "t": "loatheth: Heb. treadeth under foot",
+        "a": "f"
+    },
+    {
+        "o": 17972,
+        "r": "kjv:Proverbs:27:9",
+        "w": 16,
+        "l": {},
+        "t": "by…: Heb. from the counsel of the soul",
+        "a": "g"
+    },
+    {
+        "o": 17983,
+        "r": "kjv:Proverbs:27:20",
+        "w": 13,
+        "l": {},
+        "t": "never: Heb. not",
+        "a": "h"
+    },
+    {
+        "o": 17986,
+        "r": "kjv:Proverbs:27:23",
+        "w": 15,
+        "l": {},
+        "t": "look…: Heb. set thy heart",
+        "a": "i"
+    },
+    {
+        "o": 17987,
+        "r": "kjv:Proverbs:27:24",
+        "w": 13,
+        "l": {},
+        "t": "riches: Heb. strength",
+        "a": "j"
+    },
+    {
+        "o": 17987,
+        "r": "kjv:Proverbs:27:24",
+        "w": 13,
+        "l": {},
+        "t": "to…: Heb. to generation and generation?",
+        "a": "k"
+    },
+    {
+        "o": 17990,
+        "r": "kjv:Proverbs:27:27",
+        "w": 22,
+        "l": {},
+        "t": "maintenance: Heb. life",
+        "a": "l"
+    },
+    {
+        "o": 17993,
+        "r": "kjv:Proverbs:28:2",
+        "w": 24,
+        "l": {},
+        "t": "by…: or, by men of understanding and wisdom shall they likewise be prolonged",
+        "a": "a"
+    },
+    {
+        "o": 17994,
+        "r": "kjv:Proverbs:28:3",
+        "w": 15,
+        "l": {},
+        "t": "which…: Heb. without food",
+        "a": "b"
+    },
+    {
+        "o": 17998,
+        "r": "kjv:Proverbs:28:7",
+        "w": 19,
+        "l": {},
+        "t": "is a companion…: or, feedeth gluttons",
+        "a": "c"
+    },
+    {
+        "o": 17999,
+        "r": "kjv:Proverbs:28:8",
+        "w": 20,
+        "l": {},
+        "t": "unjust…: Heb. by increase",
+        "a": "d"
+    },
+    {
+        "o": 18002,
+        "r": "kjv:Proverbs:28:11",
+        "w": 17,
+        "l": {},
+        "t": "own…: Heb. eyes",
+        "a": "e"
+    },
+    {
+        "o": 18003,
+        "r": "kjv:Proverbs:28:12",
+        "w": 17,
+        "l": {},
+        "t": "hidden: or, sought for",
+        "a": "f"
+    },
+    {
+        "o": 18011,
+        "r": "kjv:Proverbs:28:20",
+        "w": 18,
+        "l": {},
+        "t": "innocent: or, unpunished",
+        "a": "g"
+    },
+    {
+        "o": 18013,
+        "r": "kjv:Proverbs:28:22",
+        "w": 18,
+        "l": {},
+        "t": "hasteth…: or, hath and evil eye hasteth to be rich",
+        "a": "h"
+    },
+    {
+        "o": 18015,
+        "r": "kjv:Proverbs:28:24",
+        "w": 20,
+        "l": {},
+        "t": "a destroyer: Heb. a man destroying",
+        "a": "i"
+    },
+    {
+        "o": 18021,
+        "r": "kjv:Proverbs:29:1",
+        "w": 15,
+        "l": {},
+        "t": "He…: Heb. A man of reproofs",
+        "a": "a"
+    },
+    {
+        "o": 18022,
+        "r": "kjv:Proverbs:29:2",
+        "w": 17,
+        "l": {},
+        "t": "in…: or, increased",
+        "a": "b"
+    },
+    {
+        "o": 18024,
+        "r": "kjv:Proverbs:29:4",
+        "w": 13,
+        "l": {},
+        "t": "he…: Heb. a man of oblations",
+        "a": "c"
+    },
+    {
+        "o": 18028,
+        "r": "kjv:Proverbs:29:8",
+        "w": 13,
+        "l": {},
+        "t": "bring…: or, set a city on fire",
+        "a": "d"
+    },
+    {
+        "o": 18030,
+        "r": "kjv:Proverbs:29:10",
+        "w": 10,
+        "l": {},
+        "t": "The bloodthirsty: Heb. Men of blood",
+        "a": "e"
+    },
+    {
+        "o": 18033,
+        "r": "kjv:Proverbs:29:13",
+        "w": 13,
+        "l": {},
+        "t": "the deceitful…: or, the usurer",
+        "a": "f"
+    },
+    {
+        "o": 18038,
+        "r": "kjv:Proverbs:29:18",
+        "w": 16,
+        "l": {},
+        "t": "perish: or, is made naked",
+        "a": "g"
+    },
+    {
+        "o": 18040,
+        "r": "kjv:Proverbs:29:20",
+        "w": 19,
+        "l": {},
+        "t": "words: or, matters?",
+        "a": "h"
+    },
+    {
+        "o": 18045,
+        "r": "kjv:Proverbs:29:25",
+        "w": 17,
+        "l": {},
+        "t": "safe: Heb. set on high",
+        "a": "i"
+    },
+    {
+        "o": 18046,
+        "r": "kjv:Proverbs:29:26",
+        "w": 12,
+        "l": {},
+        "t": "the ruler's…: Heb. the face of a ruler",
+        "a": "j"
+    },
+    {
+        "o": 18051,
+        "r": "kjv:Proverbs:30:3",
+        "w": 10,
+        "l": {},
+        "t": "have: Heb. know",
+        "a": "a"
+    },
+    {
+        "o": 18053,
+        "r": "kjv:Proverbs:30:5",
+        "w": 17,
+        "l": {},
+        "t": "pure: Heb. purified",
+        "a": "b"
+    },
+    {
+        "o": 18055,
+        "r": "kjv:Proverbs:30:7",
+        "w": 13,
+        "l": {},
+        "t": "deny…: Heb. withhold not from me",
+        "a": "c"
+    },
+    {
+        "o": 18056,
+        "r": "kjv:Proverbs:30:8",
+        "w": 19,
+        "l": {},
+        "t": "convenient…: Heb. of my allowance",
+        "a": "d"
+    },
+    {
+        "o": 18057,
+        "r": "kjv:Proverbs:30:9",
+        "w": 28,
+        "l": {},
+        "t": "deny…: Heb. belie thee",
+        "a": "e"
+    },
+    {
+        "o": 18058,
+        "r": "kjv:Proverbs:30:10",
+        "w": 15,
+        "l": {},
+        "t": "Accuse…: Heb. Hurt not with thy tongue",
+        "a": "f"
+    },
+    {
+        "o": 18063,
+        "r": "kjv:Proverbs:30:15",
+        "w": 23,
+        "l": {},
+        "t": "It is…: Heb. Wealth",
+        "a": "g"
+    },
+    {
+        "o": 18065,
+        "r": "kjv:Proverbs:30:17",
+        "w": 28,
+        "l": {},
+        "t": "the valley: or, the brook",
+        "a": "h"
+    },
+    {
+        "o": 18067,
+        "r": "kjv:Proverbs:30:19",
+        "w": 35,
+        "l": {},
+        "t": "midst: Heb. heart",
+        "a": "i"
+    },
+    {
+        "o": 18072,
+        "r": "kjv:Proverbs:30:24",
+        "w": 14,
+        "l": {},
+        "t": "exceeding…: Heb. wise, made wise",
+        "a": "j"
+    },
+    {
+        "o": 18075,
+        "r": "kjv:Proverbs:30:27",
+        "w": 13,
+        "l": {},
+        "t": "by…: Heb. gathered together",
+        "a": "k"
+    },
+    {
+        "o": 18079,
+        "r": "kjv:Proverbs:30:31",
+        "w": 15,
+        "l": {},
+        "t": "greyhound: or, horse: Heb. girt in the loins",
+        "a": "l"
+    },
+    {
+        "o": 18087,
+        "r": "kjv:Proverbs:31:5",
+        "w": 15,
+        "l": {},
+        "t": "pervert: Heb. alter",
+        "a": "a"
+    },
+    {
+        "o": 18087,
+        "r": "kjv:Proverbs:31:5",
+        "w": 15,
+        "l": {},
+        "t": "of any…: Heb. of all the sons of affliction",
+        "a": "b"
+    },
+    {
+        "o": 18088,
+        "r": "kjv:Proverbs:31:6",
+        "w": 18,
+        "l": {},
+        "t": "of…: Heb. bitter of soul",
+        "a": "c"
+    },
+    {
+        "o": 18090,
+        "r": "kjv:Proverbs:31:8",
+        "w": 16,
+        "l": {},
+        "t": "such…: Heb. the sons of destruction",
+        "a": "d"
+    },
+    {
+        "o": 18098,
+        "r": "kjv:Proverbs:31:16",
+        "w": 16,
+        "l": {},
+        "t": "buyeth: Heb. taketh",
+        "a": "e"
+    },
+    {
+        "o": 18100,
+        "r": "kjv:Proverbs:31:18",
+        "w": 13,
+        "l": {},
+        "t": "She…: Heb. She tasteth",
+        "a": "f"
+    },
+    {
+        "o": 18102,
+        "r": "kjv:Proverbs:31:20",
+        "w": 16,
+        "l": {},
+        "t": "She…: Heb. She spreadeth",
+        "a": "g"
+    },
+    {
+        "o": 18103,
+        "r": "kjv:Proverbs:31:21",
+        "w": 17,
+        "l": {},
+        "t": "scarlet: or, double garments",
+        "a": "h"
+    },
+    {
+        "o": 18111,
+        "r": "kjv:Proverbs:31:29",
+        "w": 9,
+        "l": {},
+        "t": "have…: or, have gotten riches",
+        "a": "i"
+    }
+]

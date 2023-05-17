@@ -1,0 +1,50 @@
+[
+    {
+        "o": 31554,
+        "r": "niv:1 Corinthians:10:7",
+        "w": 27,
+        "l": {},
+        "t": "10:7*r Exodus 32:6",
+        "a": "a"
+    },
+    {
+        "o": 31556,
+        "r": "niv:1 Corinthians:10:9",
+        "w": 4,
+        "l": {},
+        "t": "10:9*r Some manuscripts test*i the*i Lord*i",
+        "a": "b"
+    },
+    {
+        "o": 31560,
+        "r": "niv:1 Corinthians:10:13",
+        "w": 1,
+        "l": {},
+        "t": "10:13*r The Greek for temptation*i and tempted*i can also mean testing*i and tested.*i",
+        "a": "c"
+    },
+    {
+        "o": 31560,
+        "r": "niv:1 Corinthians:10:13",
+        "w": 21,
+        "l": {},
+        "t": "10:13*r The Greek for temptation*i and tempted*i can also mean testing*i and tested.*i",
+        "a": "d"
+    },
+    {
+        "o": 31560,
+        "r": "niv:1 Corinthians:10:13",
+        "w": 31,
+        "l": {},
+        "t": "10:13*r The Greek for temptation*i and tempted*i can also mean testing*i and tested.*i",
+        "a": "e"
+    },
+    {
+        "o": 31575,
+        "r": "niv:1 Corinthians:10:26",
+        "w": 9,
+        "l": {},
+        "t": "10:26*r Psalm 24:1",
+        "a": "f"
+    }
+]

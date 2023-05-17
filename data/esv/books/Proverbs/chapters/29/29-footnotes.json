@@ -1,0 +1,346 @@
+[
+    {
+        "o": 19107,
+        "r": "esv:Proverbs:29:1",
+        "w": 0,
+        "l": {},
+        "c": "1 Samuel 2:25*7951; Proverbs 1:24–27*18263",
+        "a": "a"
+    },
+    {
+        "o": 19107,
+        "r": "esv:Proverbs:29:1",
+        "w": 11,
+        "l": {},
+        "c": "Isaiah 30:14*20279; Jeremiah 19:11*21609",
+        "a": "b"
+    },
+    {
+        "o": 19107,
+        "r": "esv:Proverbs:29:1",
+        "w": 12,
+        "l": {},
+        "c": "Proverbs 6:15*18405",
+        "a": "c"
+    },
+    {
+        "o": 19108,
+        "r": "esv:Proverbs:29:2",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 11:10*18559; Proverbs 28:12*19089; Proverbs 28:28*19105; Esther 8:15*14134",
+        "a": "d"
+    },
+    {
+        "o": 19108,
+        "r": "esv:Proverbs:29:2",
+        "w": 8,
+        "l": {},
+        "c": "Esther 3:15*14052",
+        "a": "e"
+    },
+    {
+        "o": 19109,
+        "r": "esv:Proverbs:29:3",
+        "w": 1,
+        "l": {},
+        "c": "Proverbs 10:1*18517; Proverbs 15:20*18692; Proverbs 27:11*19060; Proverbs 28:7*19084",
+        "a": "f"
+    },
+    {
+        "o": 19109,
+        "r": "esv:Proverbs:29:3",
+        "w": 8,
+        "l": {},
+        "c": "Proverbs 5:9–10*18374; Proverbs 6:26*18417",
+        "a": "g"
+    },
+    {
+        "o": 19109,
+        "r": "esv:Proverbs:29:3",
+        "w": 12,
+        "l": {},
+        "c": "Luke 15:13*28624; Luke 15:30*28641",
+        "a": "h"
+    },
+    {
+        "o": 19110,
+        "r": "esv:Proverbs:29:4",
+        "w": 3,
+        "l": {},
+        "c": "Proverbs 29:14*19120; 2 Chronicles 9:8*12502",
+        "a": "i"
+    },
+    {
+        "o": 19110,
+        "r": "esv:Proverbs:29:4",
+        "w": 12,
+        "l": {},
+        "t": "Or who*i taxes*i heavily*i",
+        "a": "j"
+    },
+    {
+        "o": 19111,
+        "r": "esv:Proverbs:29:5",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 28:23*19100",
+        "a": "k"
+    },
+    {
+        "o": 19111,
+        "r": "esv:Proverbs:29:5",
+        "w": 6,
+        "l": {},
+        "c": "Psalm 9:15*15454",
+        "a": "l"
+    },
+    {
+        "o": 19112,
+        "r": "esv:Proverbs:29:6",
+        "w": 3,
+        "l": {},
+        "c": "Ecclesiastes 9:12*19401",
+        "a": "m"
+    },
+    {
+        "o": 19112,
+        "r": "esv:Proverbs:29:6",
+        "w": 11,
+        "l": {},
+        "c": "Exodus 15:1*2093; Exodus 15:21*2114; Psalm 35:27*15931",
+        "a": "n"
+    },
+    {
+        "o": 19113,
+        "r": "esv:Proverbs:29:7",
+        "w": 2,
+        "l": {},
+        "c": "Job 29:16*14914; Psalm 41:1*16055",
+        "a": "o"
+    },
+    {
+        "o": 19113,
+        "r": "esv:Proverbs:29:7",
+        "w": 13,
+        "l": {},
+        "c": "Proverbs 28:27*19104",
+        "a": "p"
+    },
+    {
+        "o": 19114,
+        "r": "esv:Proverbs:29:8",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 11:11*18560",
+        "a": "q"
+    },
+    {
+        "o": 19115,
+        "r": "esv:Proverbs:29:9",
+        "w": 18,
+        "l": {},
+        "c": "Ecclesiastes 4:6*19287",
+        "a": "r"
+    },
+    {
+        "o": 19116,
+        "r": "esv:Proverbs:29:10",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 4:5*94; Genesis 4:8*97; 1 John 3:12*34261",
+        "a": "s"
+    },
+    {
+        "o": 19116,
+        "r": "esv:Proverbs:29:10",
+        "w": 13,
+        "l": {},
+        "t": "Or but*i the*i upright*i seek*i his*i soul*i",
+        "a": "t"
+    },
+    {
+        "o": 19119,
+        "r": "esv:Proverbs:29:13",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 22:2*18889",
+        "a": "u"
+    },
+    {
+        "o": 19119,
+        "r": "esv:Proverbs:29:13",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 13:3*15506; Job 25:3*14822",
+        "a": "v"
+    },
+    {
+        "o": 19120,
+        "r": "esv:Proverbs:29:14",
+        "w": 2,
+        "l": {},
+        "c": "Psalm 72:4*16608",
+        "a": "w"
+    },
+    {
+        "o": 19120,
+        "r": "esv:Proverbs:29:14",
+        "w": 9,
+        "l": {},
+        "c": "Proverbs 29:4*19110; Proverbs 16:12*18718",
+        "a": "x"
+    },
+    {
+        "o": 19121,
+        "r": "esv:Proverbs:29:15",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 29:17*19123",
+        "a": "y"
+    },
+    {
+        "o": 19121,
+        "r": "esv:Proverbs:29:15",
+        "w": 11,
+        "l": {},
+        "c": "Proverbs 10:1*18517; Proverbs 17:25*18765",
+        "a": "z"
+    },
+    {
+        "o": 19122,
+        "r": "esv:Proverbs:29:16",
+        "w": 6,
+        "l": {},
+        "c": "Psalm 37:34*15984; Psalm 37:36*15986; Psalm 58:10*16352; Psalm 91:8*17065; Psalm 92:11*17087",
+        "a": "a"
+    },
+    {
+        "o": 19123,
+        "r": "esv:Proverbs:29:17",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 13:24*18634",
+        "a": "b"
+    },
+    {
+        "o": 19124,
+        "r": "esv:Proverbs:29:18",
+        "w": 0,
+        "l": {},
+        "c": "1 Samuel 3:1*7966; 2 Chronicles 15:3*12639; Psalm 74:9*16668; Amos 8:11–12*25004",
+        "a": "c"
+    },
+    {
+        "o": 19124,
+        "r": "esv:Proverbs:29:18",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 32:25*2683",
+        "a": "d"
+    },
+    {
+        "o": 19124,
+        "r": "esv:Proverbs:29:18",
+        "w": 10,
+        "l": {},
+        "t": "Or the*i people*i are*i discouraged*i",
+        "a": "e"
+    },
+    {
+        "o": 19124,
+        "r": "esv:Proverbs:29:18",
+        "w": 15,
+        "l": {},
+        "c": "Luke 11:28*28427; John 13:17*29793; James 1:25*33912",
+        "a": "f"
+    },
+    {
+        "o": 19126,
+        "r": "esv:Proverbs:29:20",
+        "w": 10,
+        "l": {},
+        "c": "Proverbs 26:12*19032",
+        "a": "g"
+    },
+    {
+        "o": 19127,
+        "r": "esv:Proverbs:29:21",
+        "w": 13,
+        "l": {},
+        "t": "The meaning of the Hebrew word rendered his*i heir*i is uncertain",
+        "a": "h"
+    },
+    {
+        "o": 19128,
+        "r": "esv:Proverbs:29:22",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 15:18*18690",
+        "a": "i"
+    },
+    {
+        "o": 19129,
+        "r": "esv:Proverbs:29:23",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 17:19*18759; 2 Samuel 22:28*9461; Matthew 23:12*26699; James 4:6*33972; Proverbs 11:2*18551",
+        "a": "j"
+    },
+    {
+        "o": 19129,
+        "r": "esv:Proverbs:29:23",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 15:33*18705; Proverbs 18:12*18781",
+        "a": "k"
+    },
+    {
+        "o": 19130,
+        "r": "esv:Proverbs:29:24",
+        "w": 4,
+        "l": {},
+        "c": "Proverbs 8:36*18493",
+        "a": "l"
+    },
+    {
+        "o": 19130,
+        "r": "esv:Proverbs:29:24",
+        "w": 8,
+        "l": {},
+        "c": "Leviticus 5:1*3088",
+        "a": "m"
+    },
+    {
+        "o": 19131,
+        "r": "esv:Proverbs:29:25",
+        "w": 0,
+        "l": {},
+        "c": "Luke 12:4*28462; Genesis 12:12–13*340; Genesis 20:2*547; Genesis 20:11*556; Genesis 26:7*766; John 12:42–43*29765",
+        "a": "n"
+    },
+    {
+        "o": 19132,
+        "r": "esv:Proverbs:29:26",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 19:6*18800",
+        "a": "o"
+    },
+    {
+        "o": 19132,
+        "r": "esv:Proverbs:29:26",
+        "w": 15,
+        "l": {},
+        "c": "Isaiah 49:4*20740; 1 Corinthians 4:4–5*31802",
+        "a": "p"
+    },
+    {
+        "o": 19133,
+        "r": "esv:Proverbs:29:27",
+        "w": 0,
+        "l": {},
+        "c": "2 Corinthians 6:14*32331",
+        "a": "q"
+    }
+]

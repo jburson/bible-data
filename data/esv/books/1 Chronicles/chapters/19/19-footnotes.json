@@ -1,0 +1,114 @@
+[
+    {
+        "o": 11984,
+        "r": "esv:1 Chronicles:19:1",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 19*11983; 2 Samuel 10*9032",
+        "a": "a"
+    },
+    {
+        "o": 11989,
+        "r": "esv:1 Chronicles:19:6",
+        "w": 18,
+        "l": {},
+        "t": "A talent*i was about 75 pounds or 34 kilograms",
+        "a": "b"
+    },
+    {
+        "o": 11989,
+        "r": "esv:1 Chronicles:19:6",
+        "w": 25,
+        "l": {},
+        "c": "2 Samuel 10:6*9038",
+        "a": "c"
+    },
+    {
+        "o": 11989,
+        "r": "esv:1 Chronicles:19:6",
+        "w": 31,
+        "l": {},
+        "c": "1 Chronicles 18:5*11968; 1 Chronicles 18:9*11972",
+        "a": "d"
+    },
+    {
+        "o": 11990,
+        "r": "esv:1 Chronicles:19:7",
+        "w": 16,
+        "l": {},
+        "c": "Numbers 21:30*4761; Joshua 13:9*6738; Joshua 13:16*6745",
+        "a": "e"
+    },
+    {
+        "o": 11995,
+        "r": "esv:1 Chronicles:19:11",
+        "w": 10,
+        "l": {},
+        "c": "1 Chronicles 18:12*11975",
+        "a": "f"
+    },
+    {
+        "o": 11999,
+        "r": "esv:1 Chronicles:19:15",
+        "w": 12,
+        "l": {},
+        "c": "1 Chronicles 19:11*11995",
+        "a": "g"
+    },
+    {
+        "o": 12000,
+        "r": "esv:1 Chronicles:19:16",
+        "w": 24,
+        "l": {},
+        "t": "Hebrew the*i River*i",
+        "a": "h"
+    },
+    {
+        "o": 12000,
+        "r": "esv:1 Chronicles:19:16",
+        "w": 25,
+        "l": {},
+        "c": "2 Samuel 10:16*9048; 2 Samuel 10:18*9050",
+        "a": "i"
+    },
+    {
+        "o": 12000,
+        "r": "esv:1 Chronicles:19:16",
+        "w": 32,
+        "l": {},
+        "c": "2 Samuel 10:16*9048",
+        "a": "j"
+    },
+    {
+        "o": 12002,
+        "r": "esv:1 Chronicles:19:18",
+        "w": 14,
+        "l": {},
+        "c": "2 Samuel 10:18*9050",
+        "a": "k"
+    },
+    {
+        "o": 12002,
+        "r": "esv:1 Chronicles:19:18",
+        "w": 18,
+        "l": {},
+        "c": "2 Samuel 10:18*9050",
+        "a": "l"
+    },
+    {
+        "o": 12002,
+        "r": "esv:1 Chronicles:19:18",
+        "w": 25,
+        "l": {},
+        "c": "1 Chronicles 19:16*12000",
+        "a": "m"
+    },
+    {
+        "o": 12003,
+        "r": "esv:1 Chronicles:19:19",
+        "w": 4,
+        "l": {},
+        "c": "1 Chronicles 19:16*12000",
+        "a": "n"
+    }
+]

@@ -1,0 +1,426 @@
+[
+    {
+        "o": 955,
+        "r": "esv:Genesis:31:2",
+        "w": 2,
+        "l": {},
+        "c": "Genesis 4:5*94",
+        "a": "a"
+    },
+    {
+        "o": 956,
+        "r": "esv:Genesis:31:3",
+        "w": 5,
+        "l": {},
+        "c": "Genesis 31:13*966; Genesis 28:15*861; Genesis 32:9*1019",
+        "a": "b"
+    },
+    {
+        "o": 958,
+        "r": "esv:Genesis:31:5",
+        "w": 3,
+        "l": {},
+        "c": "Genesis 31:2*955",
+        "a": "c"
+    },
+    {
+        "o": 958,
+        "r": "esv:Genesis:31:5",
+        "w": 24,
+        "l": {},
+        "c": "Genesis 31:3*956",
+        "a": "d"
+    },
+    {
+        "o": 959,
+        "r": "esv:Genesis:31:6",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 31:38–40*991; Genesis 30:29*937",
+        "a": "e"
+    },
+    {
+        "o": 960,
+        "r": "esv:Genesis:31:7",
+        "w": 9,
+        "l": {},
+        "c": "Genesis 31:41*994; Numbers 14:22*4495; Nehemiah 4:12*13625; Job 19:3*14647; Zechariah 8:23*25602",
+        "a": "f"
+    },
+    {
+        "o": 961,
+        "r": "esv:Genesis:31:8",
+        "w": 2,
+        "l": {},
+        "c": "Genesis 30:32*940",
+        "a": "g"
+    },
+    {
+        "o": 962,
+        "r": "esv:Genesis:31:9",
+        "w": 2,
+        "l": {},
+        "c": "Genesis 31:1*954",
+        "a": "h"
+    },
+    {
+        "o": 965,
+        "r": "esv:Genesis:31:12",
+        "w": 22,
+        "l": {},
+        "c": "Exodus 3:7*1721",
+        "a": "i"
+    },
+    {
+        "o": 966,
+        "r": "esv:Genesis:31:13",
+        "w": 5,
+        "l": {},
+        "c": "Genesis 28:18–22*864",
+        "a": "j"
+    },
+    {
+        "o": 966,
+        "r": "esv:Genesis:31:13",
+        "w": 17,
+        "l": {},
+        "c": "Genesis 31:3*956; Genesis 32:9*1019",
+        "a": "k"
+    },
+    {
+        "o": 967,
+        "r": "esv:Genesis:31:14",
+        "w": 10,
+        "l": {},
+        "c": "2 Samuel 20:1*9381; 1 Kings 12:16*10045",
+        "a": "l"
+    },
+    {
+        "o": 968,
+        "r": "esv:Genesis:31:15",
+        "w": 8,
+        "l": {},
+        "c": "Genesis 30:26*934; Genesis 29:15–20*885; Genesis 29:27*897",
+        "a": "m"
+    },
+    {
+        "o": 971,
+        "r": "esv:Genesis:31:18",
+        "w": 22,
+        "l": {},
+        "c": "Genesis 25:20*741; Genesis 28:2*846; Genesis 28:6–7*851",
+        "a": "n"
+    },
+    {
+        "o": 972,
+        "r": "esv:Genesis:31:19",
+        "w": 11,
+        "l": {},
+        "c": "Genesis 31:30*983; Genesis 31:34*987; Judges 17:5*7643; 1 Samuel 15:23*8304; 1 Samuel 19:13*8451; Ezekiel 21:21*23299; Hosea 3:4*24594; Zechariah 10:2*25627",
+        "a": "o"
+    },
+    {
+        "o": 973,
+        "r": "esv:Genesis:31:20",
+        "w": 2,
+        "l": {},
+        "t": "Hebrew stole*i the*i heart*i of*i ; also verses 26, 27",
+        "a": "p"
+    },
+    {
+        "o": 974,
+        "r": "esv:Genesis:31:21",
+        "w": 11,
+        "l": {},
+        "c": "Exodus 23:31*2368; Psalm 72:8*16612",
+        "a": "q"
+    },
+    {
+        "o": 974,
+        "r": "esv:Genesis:31:21",
+        "w": 12,
+        "l": {},
+        "t": "Hebrew the*i River*i",
+        "a": "r"
+    },
+    {
+        "o": 974,
+        "r": "esv:Genesis:31:21",
+        "w": 13,
+        "l": {},
+        "c": "2 Kings 12:17*10831; Luke 9:51*28332",
+        "a": "s"
+    },
+    {
+        "o": 977,
+        "r": "esv:Genesis:31:24",
+        "w": 6,
+        "l": {},
+        "c": "Genesis 20:3*548",
+        "a": "t"
+    },
+    {
+        "o": 977,
+        "r": "esv:Genesis:31:24",
+        "w": 23,
+        "l": {},
+        "c": "Genesis 24:50*701; Numbers 24:13*4858; 2 Samuel 13:22*9142",
+        "a": "u"
+    },
+    {
+        "o": 979,
+        "r": "esv:Genesis:31:26",
+        "w": 11,
+        "l": {},
+        "c": "Genesis 31:20*973",
+        "a": "v"
+    },
+    {
+        "o": 980,
+        "r": "esv:Genesis:31:27",
+        "w": 4,
+        "l": {},
+        "c": "Genesis 31:26*979",
+        "a": "w"
+    },
+    {
+        "o": 981,
+        "r": "esv:Genesis:31:28",
+        "w": 6,
+        "l": {},
+        "c": "Genesis 31:55*1008; Ruth 1:9*7806; Ruth 1:14*7811; 1 Kings 19:20*10315; Acts 20:37*30934",
+        "a": "x"
+    },
+    {
+        "o": 982,
+        "r": "esv:Genesis:31:29",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 28:32*6167; Nehemiah 5:5*13644; Proverbs 3:27*18326; Micah 2:1*25132",
+        "a": "y"
+    },
+    {
+        "o": 982,
+        "r": "esv:Genesis:31:29",
+        "w": 10,
+        "l": {},
+        "c": "Genesis 31:42*995; Genesis 31:53*1006; Genesis 28:13*859",
+        "a": "z"
+    },
+    {
+        "o": 982,
+        "r": "esv:Genesis:31:29",
+        "w": 13,
+        "l": {},
+        "t": "The Hebrew for your*i is plural here",
+        "a": "a"
+    },
+    {
+        "o": 982,
+        "r": "esv:Genesis:31:29",
+        "w": 28,
+        "l": {},
+        "c": "Genesis 31:24*977",
+        "a": "b"
+    },
+    {
+        "o": 983,
+        "r": "esv:Genesis:31:30",
+        "w": 17,
+        "l": {},
+        "c": "Genesis 31:19*972; Judges 18:24*7677",
+        "a": "c"
+    },
+    {
+        "o": 985,
+        "r": "esv:Genesis:31:32",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 44:9*1443",
+        "a": "d"
+    },
+    {
+        "o": 988,
+        "r": "esv:Genesis:31:35",
+        "w": 14,
+        "l": {},
+        "c": "Leviticus 19:32*3602",
+        "a": "e"
+    },
+    {
+        "o": 990,
+        "r": "esv:Genesis:31:37",
+        "w": 23,
+        "l": {},
+        "c": "Genesis 31:54*1007",
+        "a": "f"
+    },
+    {
+        "o": 992,
+        "r": "esv:Genesis:31:39",
+        "w": 18,
+        "l": {},
+        "c": "Exodus 22:12*2314",
+        "a": "g"
+    },
+    {
+        "o": 994,
+        "r": "esv:Genesis:31:41",
+        "w": 8,
+        "l": {},
+        "c": "Genesis 29:27–28*897",
+        "a": "h"
+    },
+    {
+        "o": 994,
+        "r": "esv:Genesis:31:41",
+        "w": 24,
+        "l": {},
+        "c": "Genesis 31:7*960",
+        "a": "i"
+    },
+    {
+        "o": 995,
+        "r": "esv:Genesis:31:42",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 124:1–2*17868",
+        "a": "j"
+    },
+    {
+        "o": 995,
+        "r": "esv:Genesis:31:42",
+        "w": 11,
+        "l": {},
+        "c": "Genesis 31:53*1006",
+        "a": "k"
+    },
+    {
+        "o": 995,
+        "r": "esv:Genesis:31:42",
+        "w": 29,
+        "l": {},
+        "c": "Genesis 29:32*903",
+        "a": "l"
+    },
+    {
+        "o": 995,
+        "r": "esv:Genesis:31:42",
+        "w": 40,
+        "l": {},
+        "c": "Genesis 31:29*982",
+        "a": "m"
+    },
+    {
+        "o": 997,
+        "r": "esv:Genesis:31:44",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 26:28*787",
+        "a": "n"
+    },
+    {
+        "o": 997,
+        "r": "esv:Genesis:31:44",
+        "w": 9,
+        "l": {},
+        "c": "Joshua 24:27*7109",
+        "a": "o"
+    },
+    {
+        "o": 998,
+        "r": "esv:Genesis:31:45",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 28:18*864",
+        "a": "p"
+    },
+    {
+        "o": 1000,
+        "r": "esv:Genesis:31:47",
+        "w": 3,
+        "l": {},
+        "t": "Aramaic the*i heap*i of*i witness*i",
+        "a": "q"
+    },
+    {
+        "o": 1000,
+        "r": "esv:Genesis:31:47",
+        "w": 8,
+        "l": {},
+        "t": "Hebrew the*i heap*i of*i witness*i",
+        "a": "r"
+    },
+    {
+        "o": 1001,
+        "r": "esv:Genesis:31:48",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 31:44*997",
+        "a": "s"
+    },
+    {
+        "o": 1002,
+        "r": "esv:Genesis:31:49",
+        "w": 0,
+        "l": {},
+        "c": "Judges 11:29*7502; Judges 11:34*7507",
+        "a": "t"
+    },
+    {
+        "o": 1002,
+        "r": "esv:Genesis:31:49",
+        "w": 1,
+        "l": {},
+        "t": "Mizpah*i means watchpost*i",
+        "a": "u"
+    },
+    {
+        "o": 1003,
+        "r": "esv:Genesis:31:50",
+        "w": 19,
+        "l": {},
+        "c": "Judges 11:10*7482; 1 Samuel 12:5*8177; Jeremiah 42:5*22230; Micah 1:2*25115; Job 16:19*14598",
+        "a": "v"
+    },
+    {
+        "o": 1005,
+        "r": "esv:Genesis:31:52",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 31:43–44*996",
+        "a": "w"
+    },
+    {
+        "o": 1006,
+        "r": "esv:Genesis:31:53",
+        "w": 21,
+        "l": {},
+        "c": "Genesis 31:42*995",
+        "a": "x"
+    },
+    {
+        "o": 1007,
+        "r": "esv:Genesis:31:54",
+        "w": 10,
+        "l": {},
+        "c": "Genesis 31:37*990",
+        "a": "y"
+    },
+    {
+        "o": 1008,
+        "r": "esv:Genesis:31:55",
+        "w": 0,
+        "l": {},
+        "t": "Ch 32:1 in Hebrew",
+        "a": "z"
+    },
+    {
+        "o": 1008,
+        "r": "esv:Genesis:31:55",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 31:28*981; Genesis 31:43*996",
+        "a": "a"
+    }
+]

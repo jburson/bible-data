@@ -1,0 +1,42 @@
+[
+    {
+        "o": 10735,
+        "r": "niv:2 Kings:11:2",
+        "w": 6,
+        "l": {},
+        "t": "11:2*r Hebrew Joram,*i a variant of Jehoram*i",
+        "a": "a"
+    },
+    {
+        "o": 10741,
+        "r": "niv:2 Kings:11:8",
+        "w": 16,
+        "l": {},
+        "t": "11:8*r Or approaches*i the*i precincts*i",
+        "a": "b"
+    },
+    {
+        "o": 10748,
+        "r": "niv:2 Kings:11:15",
+        "w": 23,
+        "l": {},
+        "t": "11:15*r Or out*i from*i the*i precincts*i",
+        "a": "c"
+    },
+    {
+        "o": 10754,
+        "r": "niv:2 Kings:11:21",
+        "w": 0,
+        "l": {},
+        "t": "11:21*r Hebrew Jehoash,*i a variant of Joash*i",
+        "a": "d"
+    },
+    {
+        "o": 10754,
+        "r": "niv:2 Kings:11:21",
+        "w": 9,
+        "l": {},
+        "t": "11:21*r In Hebrew texts this verse (11:21) is numbered 12:1.",
+        "a": "e"
+    }
+]

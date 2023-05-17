@@ -1,0 +1,42 @@
+[
+    {
+        "o": 29546,
+        "r": "niv:John:17:6",
+        "w": 3,
+        "l": {},
+        "t": "17:6*r Greek your*i name*i",
+        "a": "a"
+    },
+    {
+        "o": 29551,
+        "r": "niv:John:17:11",
+        "w": 28,
+        "l": {},
+        "t": "17:11*r Or Father,*i keep*i them*i faithful*i to*i",
+        "a": "b"
+    },
+    {
+        "o": 29552,
+        "r": "niv:John:17:12",
+        "w": 12,
+        "l": {},
+        "t": "17:12*r Or kept*i them*i faithful*i to*i",
+        "a": "c"
+    },
+    {
+        "o": 29557,
+        "r": "niv:John:17:17",
+        "w": 2,
+        "l": {},
+        "t": "17:17*r Or them*i to*i live*i in*i accordance*i with*i",
+        "a": "d"
+    },
+    {
+        "o": 29567,
+        "r": "niv:John:17:26",
+        "w": 3,
+        "l": {},
+        "t": "17:26*r Greek your*i name*i",
+        "a": "e"
+    }
+]

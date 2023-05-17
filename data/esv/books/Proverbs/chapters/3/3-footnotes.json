@@ -1,0 +1,538 @@
+[
+    {
+        "o": 18299,
+        "r": "esv:Proverbs:3:1",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 1:8*18246",
+        "a": "a"
+    },
+    {
+        "o": 18299,
+        "r": "esv:Proverbs:3:1",
+        "w": 6,
+        "l": {},
+        "c": "Deuteronomy 8:1*5599; Deuteronomy 30:16*6253; Deuteronomy 30:20*6257",
+        "a": "b"
+    },
+    {
+        "o": 18300,
+        "r": "esv:Proverbs:3:2",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 3:16*18315; Proverbs 4:10*18346; Proverbs 9:11*18506; Proverbs 10:27*18543; Psalm 91:16*17073",
+        "a": "c"
+    },
+    {
+        "o": 18300,
+        "r": "esv:Proverbs:3:2",
+        "w": 8,
+        "l": {},
+        "c": "Proverbs 1:33*18272; Psalm 119:165*17812",
+        "a": "d"
+    },
+    {
+        "o": 18301,
+        "r": "esv:Proverbs:3:3",
+        "w": 1,
+        "l": {},
+        "c": "Psalm 85:10*16925",
+        "a": "e"
+    },
+    {
+        "o": 18301,
+        "r": "esv:Proverbs:3:3",
+        "w": 4,
+        "l": {},
+        "c": "Proverbs 20:28*18852; Isaiah 59:14*20938",
+        "a": "f"
+    },
+    {
+        "o": 18301,
+        "r": "esv:Proverbs:3:3",
+        "w": 7,
+        "l": {},
+        "c": "Proverbs 1:9*18247; Proverbs 6:21*18412; Proverbs 7:3*18431",
+        "a": "g"
+    },
+    {
+        "o": 18301,
+        "r": "esv:Proverbs:3:3",
+        "w": 12,
+        "l": {},
+        "c": "Proverbs 7:3*18431; Jeremiah 17:1*21543; 2 Corinthians 3:3*32255",
+        "a": "h"
+    },
+    {
+        "o": 18302,
+        "r": "esv:Proverbs:3:4",
+        "w": 2,
+        "l": {},
+        "c": "1 Samuel 2:26*7953; Luke 2:52*27950; Romans 14:18*31643",
+        "a": "i"
+    },
+    {
+        "o": 18302,
+        "r": "esv:Proverbs:3:4",
+        "w": 5,
+        "l": {},
+        "c": "Psalm 111:10*17515",
+        "a": "j"
+    },
+    {
+        "o": 18302,
+        "r": "esv:Proverbs:3:4",
+        "w": 7,
+        "l": {},
+        "t": "Or repute*i",
+        "a": "k"
+    },
+    {
+        "o": 18303,
+        "r": "esv:Proverbs:3:5",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 37:3*15953; Psalm 37:5*15955",
+        "a": "l"
+    },
+    {
+        "o": 18303,
+        "r": "esv:Proverbs:3:5",
+        "w": 8,
+        "l": {},
+        "c": "Jeremiah 9:23*21361",
+        "a": "m"
+    },
+    {
+        "o": 18304,
+        "r": "esv:Proverbs:3:6",
+        "w": 3,
+        "l": {},
+        "c": "1 Chronicles 28:9*12253",
+        "a": "n"
+    },
+    {
+        "o": 18304,
+        "r": "esv:Proverbs:3:6",
+        "w": 7,
+        "l": {},
+        "c": "Psalm 73:24*16652",
+        "a": "o"
+    },
+    {
+        "o": 18305,
+        "r": "esv:Proverbs:3:7",
+        "w": 0,
+        "l": {},
+        "c": "Romans 12:16*31600; Proverbs 12:15*18596",
+        "a": "p"
+    },
+    {
+        "o": 18305,
+        "r": "esv:Proverbs:3:7",
+        "w": 6,
+        "l": {},
+        "c": "Job 1:1*14179; Job 28:28*14896",
+        "a": "q"
+    },
+    {
+        "o": 18306,
+        "r": "esv:Proverbs:3:8",
+        "w": 2,
+        "l": {},
+        "c": "Proverbs 4:22*18358",
+        "a": "r"
+    },
+    {
+        "o": 18306,
+        "r": "esv:Proverbs:3:8",
+        "w": 6,
+        "l": {},
+        "t": "Hebrew navel*i",
+        "a": "s"
+    },
+    {
+        "o": 18306,
+        "r": "esv:Proverbs:3:8",
+        "w": 7,
+        "l": {},
+        "c": "Job 21:24*14730",
+        "a": "t"
+    },
+    {
+        "o": 18306,
+        "r": "esv:Proverbs:3:8",
+        "w": 8,
+        "l": {},
+        "t": "Or medicine*i",
+        "a": "u"
+    },
+    {
+        "o": 18307,
+        "r": "esv:Proverbs:3:9",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 23:19*2356; Exodus 34:26*2749; Deuteronomy 26:2*6086",
+        "a": "v"
+    },
+    {
+        "o": 18308,
+        "r": "esv:Proverbs:3:10",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 28:8*6142",
+        "a": "w"
+    },
+    {
+        "o": 18309,
+        "r": "esv:Proverbs:3:11",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 12:5–6*33829; Job 5:17*14287",
+        "a": "x"
+    },
+    {
+        "o": 18310,
+        "r": "esv:Proverbs:3:12",
+        "w": 8,
+        "l": {},
+        "c": "Deuteronomy 8:5*5603; 1 Corinthians 11:32*32016",
+        "a": "y"
+    },
+    {
+        "o": 18312,
+        "r": "esv:Proverbs:3:13",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 8:34–35*18491",
+        "a": "z"
+    },
+    {
+        "o": 18313,
+        "r": "esv:Proverbs:3:14",
+        "w": 0,
+        "l": {},
+        "c": "Job 28:15–19*14883",
+        "a": "a"
+    },
+    {
+        "o": 18313,
+        "r": "esv:Proverbs:3:14",
+        "w": 15,
+        "l": {},
+        "c": "Proverbs 8:10*18467; Proverbs 8:19*18476; Proverbs 16:16*18722; Psalm 19:10*15625",
+        "a": "b"
+    },
+    {
+        "o": 18314,
+        "r": "esv:Proverbs:3:15",
+        "w": 4,
+        "l": {},
+        "c": "Job 28:18*14886",
+        "a": "c"
+    },
+    {
+        "o": 18314,
+        "r": "esv:Proverbs:3:15",
+        "w": 6,
+        "l": {},
+        "c": "Proverbs 8:11*18468",
+        "a": "d"
+    },
+    {
+        "o": 18315,
+        "r": "esv:Proverbs:3:16",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 3:2*18300",
+        "a": "e"
+    },
+    {
+        "o": 18315,
+        "r": "esv:Proverbs:3:16",
+        "w": 11,
+        "l": {},
+        "c": "Proverbs 8:18*18475; Proverbs 22:4*18891",
+        "a": "f"
+    },
+    {
+        "o": 18316,
+        "r": "esv:Proverbs:3:17",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 11:29–30*26186",
+        "a": "g"
+    },
+    {
+        "o": 18317,
+        "r": "esv:Proverbs:3:18",
+        "w": 1,
+        "l": {},
+        "c": "Proverbs 11:30*18579; Proverbs 13:12*18622; Proverbs 15:4*18676; Genesis 2:9*45; Genesis 3:22*85; Revelation 2:7*34422; Revelation 22:2*34836",
+        "a": "h"
+    },
+    {
+        "o": 18317,
+        "r": "esv:Proverbs:3:18",
+        "w": 8,
+        "l": {},
+        "c": "Proverbs 4:13*18349",
+        "a": "i"
+    },
+    {
+        "o": 18318,
+        "r": "esv:Proverbs:3:19",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 8:27*18484; Psalm 104:5*17270; Psalm 104:24*17289; Psalm 136:5*18000",
+        "a": "j"
+    },
+    {
+        "o": 18318,
+        "r": "esv:Proverbs:3:19",
+        "w": 8,
+        "l": {},
+        "c": "Proverbs 8:27*18484; Psalm 104:5*17270; Psalm 104:24*17289; Psalm 136:5*18000",
+        "a": "k"
+    },
+    {
+        "o": 18319,
+        "r": "esv:Proverbs:3:20",
+        "w": 2,
+        "l": {},
+        "c": "Genesis 7:11*186; Job 38:8*15184",
+        "a": "l"
+    },
+    {
+        "o": 18319,
+        "r": "esv:Proverbs:3:20",
+        "w": 7,
+        "l": {},
+        "c": "Job 36:28*15143",
+        "a": "m"
+    },
+    {
+        "o": 18320,
+        "r": "esv:Proverbs:3:21",
+        "w": 1,
+        "l": {},
+        "c": "Proverbs 4:21*18357",
+        "a": "n"
+    },
+    {
+        "o": 18321,
+        "r": "esv:Proverbs:3:22",
+        "w": 3,
+        "l": {},
+        "c": "Proverbs 4:22*18358",
+        "a": "o"
+    },
+    {
+        "o": 18321,
+        "r": "esv:Proverbs:3:22",
+        "w": 8,
+        "l": {},
+        "c": "Proverbs 1:9*18247",
+        "a": "p"
+    },
+    {
+        "o": 18322,
+        "r": "esv:Proverbs:3:23",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 10:9*18525; Proverbs 28:18*19095; Psalm 91:11*17068",
+        "a": "q"
+    },
+    {
+        "o": 18322,
+        "r": "esv:Proverbs:3:23",
+        "w": 7,
+        "l": {},
+        "c": "Proverbs 4:12*18348; Psalm 91:12*17069",
+        "a": "r"
+    },
+    {
+        "o": 18323,
+        "r": "esv:Proverbs:3:24",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 6:22*18413; Psalm 3:5*15362; Psalm 4:8*15376; Job 11:19*14458",
+        "a": "s"
+    },
+    {
+        "o": 18323,
+        "r": "esv:Proverbs:3:24",
+        "w": 12,
+        "l": {},
+        "c": "Jeremiah 31:26*21937",
+        "a": "t"
+    },
+    {
+        "o": 18324,
+        "r": "esv:Proverbs:3:25",
+        "w": 0,
+        "l": {},
+        "c": "1 Peter 3:14*34082; Psalm 91:5*17062",
+        "a": "u"
+    },
+    {
+        "o": 18324,
+        "r": "esv:Proverbs:3:25",
+        "w": 8,
+        "l": {},
+        "c": "Job 5:21*14291",
+        "a": "v"
+    },
+    {
+        "o": 18324,
+        "r": "esv:Proverbs:3:25",
+        "w": 10,
+        "l": {},
+        "t": "Hebrew storm*i",
+        "a": "w"
+    },
+    {
+        "o": 18325,
+        "r": "esv:Proverbs:3:26",
+        "w": 8,
+        "l": {},
+        "c": "1 Samuel 2:9*7933",
+        "a": "x"
+    },
+    {
+        "o": 18326,
+        "r": "esv:Proverbs:3:27",
+        "w": 0,
+        "l": {},
+        "c": "Galatians 6:10*32658",
+        "a": "y"
+    },
+    {
+        "o": 18326,
+        "r": "esv:Proverbs:3:27",
+        "w": 10,
+        "l": {},
+        "t": "Hebrew Do*i not*i withhold*i good*i from*i its*i owners*i",
+        "a": "z"
+    },
+    {
+        "o": 18327,
+        "r": "esv:Proverbs:3:28",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 19:13*3582; Deuteronomy 24:15*6053",
+        "a": "a"
+    },
+    {
+        "o": 18328,
+        "r": "esv:Proverbs:3:29",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 6:14*18404; Proverbs 12:20*18601; Proverbs 14:22*18658",
+        "a": "b"
+    },
+    {
+        "o": 18328,
+        "r": "esv:Proverbs:3:29",
+        "w": 7,
+        "l": {},
+        "c": "Judges 18:7*7660; Judges 18:27*7680",
+        "a": "c"
+    },
+    {
+        "o": 18329,
+        "r": "esv:Proverbs:3:30",
+        "w": 0,
+        "l": {},
+        "c": "Romans 12:18*31602",
+        "a": "d"
+    },
+    {
+        "o": 18330,
+        "r": "esv:Proverbs:3:31",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 37:1*15951",
+        "a": "e"
+    },
+    {
+        "o": 18330,
+        "r": "esv:Proverbs:3:31",
+        "w": 2,
+        "l": {},
+        "c": "Psalm 18:48*15610; Psalm 140:1*18074",
+        "a": "f"
+    },
+    {
+        "o": 18331,
+        "r": "esv:Proverbs:3:32",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 2:15*18289",
+        "a": "g"
+    },
+    {
+        "o": 18331,
+        "r": "esv:Proverbs:3:32",
+        "w": 13,
+        "l": {},
+        "c": "Job 29:4*14902",
+        "a": "h"
+    },
+    {
+        "o": 18332,
+        "r": "esv:Proverbs:3:33",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 37:22*15972; Zechariah 5:4*25536; Malachi 2:2*25729; Leviticus 26:14–39*3858",
+        "a": "i"
+    },
+    {
+        "o": 18332,
+        "r": "esv:Proverbs:3:33",
+        "w": 11,
+        "l": {},
+        "c": "Job 8:6*14360",
+        "a": "j"
+    },
+    {
+        "o": 18333,
+        "r": "esv:Proverbs:3:34",
+        "w": 1,
+        "l": {},
+        "c": "Psalm 1:1*15335",
+        "a": "k"
+    },
+    {
+        "o": 18333,
+        "r": "esv:Proverbs:3:34",
+        "w": 3,
+        "l": {},
+        "c": "James 4:6*33972; 1 Peter 5:5*34119; Psalm 138:6*18041",
+        "a": "l"
+    },
+    {
+        "o": 18333,
+        "r": "esv:Proverbs:3:34",
+        "w": 5,
+        "l": {},
+        "c": "James 4:6*33972; 1 Peter 5:5*34119; Psalm 138:6*18041",
+        "a": "m"
+    },
+    {
+        "o": 18333,
+        "r": "esv:Proverbs:3:34",
+        "w": 12,
+        "l": {},
+        "t": "Or grace*i",
+        "a": "n"
+    },
+    {
+        "o": 18334,
+        "r": "esv:Proverbs:3:35",
+        "w": 7,
+        "l": {},
+        "t": "The meaning of the Hebrew word is uncertain",
+        "a": "o"
+    }
+]

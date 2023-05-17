@@ -1,0 +1,50 @@
+[
+    {
+        "o": 15319,
+        "r": "niv:Psalm:8:0",
+        "w": 7,
+        "l": {},
+        "t": "Title: Probably a musical term",
+        "a": "a"
+    },
+    {
+        "o": 15323,
+        "r": "niv:Psalm:8:4",
+        "w": 15,
+        "l": {},
+        "t": "8:4*r Or what*i is*i a*i human*i being*i that*i you*i are*i mindful*i of*i him,*i /*i a*i son*i of*i man*i that*i you*i care*i for*i him?*i",
+        "a": "b"
+    },
+    {
+        "o": 15324,
+        "r": "niv:Psalm:8:5",
+        "w": 3,
+        "l": {},
+        "t": "8:5*r Or him*i",
+        "a": "c"
+    },
+    {
+        "o": 15324,
+        "r": "niv:Psalm:8:5",
+        "w": 9,
+        "l": {},
+        "t": "8:5*r Or than*i God*i",
+        "a": "d"
+    },
+    {
+        "o": 15324,
+        "r": "niv:Psalm:8:5",
+        "w": 12,
+        "l": {},
+        "t": "8:5*r Or him*i",
+        "a": "e"
+    },
+    {
+        "o": 15325,
+        "r": "niv:Psalm:8:6",
+        "w": 14,
+        "l": {},
+        "t": "8:6*r Or made*i him*i ruler…;*i /*i …his*i",
+        "a": "f"
+    }
+]

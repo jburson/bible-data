@@ -1,0 +1,34 @@
+[
+    {
+        "o": 2809,
+        "r": "niv:Exodus:36:9",
+        "w": 12,
+        "l": {},
+        "t": "36:9*r That is, about 42 feet long and 6 feet wide or about 13 meters long and 1.8 meters wide",
+        "a": "a"
+    },
+    {
+        "o": 2815,
+        "r": "niv:Exodus:36:15",
+        "w": 12,
+        "l": {},
+        "t": "36:15*r That is, about 45 feet long and 6 feet wide or about 14 meters long and 1.8 meters wide",
+        "a": "b"
+    },
+    {
+        "o": 2819,
+        "r": "niv:Exodus:36:19",
+        "w": 22,
+        "l": {},
+        "t": "36:19*r Possibly the hides of large aquatic mammals (see 35:7)",
+        "a": "c"
+    },
+    {
+        "o": 2821,
+        "r": "niv:Exodus:36:21",
+        "w": 12,
+        "l": {},
+        "t": "36:21*r That is, about 15 feet long and 2 1/4 feet wide or about 4.5 meters long and 68 centimeters wide",
+        "a": "d"
+    }
+]

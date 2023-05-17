@@ -1,0 +1,298 @@
+[
+    {
+        "o": 19256,
+        "r": "esv:Ecclesiastes:3:1",
+        "w": 6,
+        "l": {},
+        "c": "Ecclesiastes 3:17*19274; Ecclesiastes 8:6*19372",
+        "a": "a"
+    },
+    {
+        "o": 19257,
+        "r": "esv:Ecclesiastes:3:2",
+        "w": 8,
+        "l": {},
+        "c": "Hebrews 9:27*33736",
+        "a": "b"
+    },
+    {
+        "o": 19259,
+        "r": "esv:Ecclesiastes:3:4",
+        "w": 2,
+        "l": {},
+        "c": "Romans 12:15*31599",
+        "a": "c"
+    },
+    {
+        "o": 19259,
+        "r": "esv:Ecclesiastes:3:4",
+        "w": 16,
+        "l": {},
+        "c": "2 Samuel 6:14*8952; Exodus 15:20*2112",
+        "a": "d"
+    },
+    {
+        "o": 19260,
+        "r": "esv:Ecclesiastes:3:5",
+        "w": 2,
+        "l": {},
+        "c": "2 Kings 3:25*10531",
+        "a": "e"
+    },
+    {
+        "o": 19260,
+        "r": "esv:Ecclesiastes:3:5",
+        "w": 9,
+        "l": {},
+        "c": "Isaiah 5:2*19728",
+        "a": "f"
+    },
+    {
+        "o": 19260,
+        "r": "esv:Ecclesiastes:3:5",
+        "w": 20,
+        "l": {},
+        "c": "Joel 2:16*24815",
+        "a": "g"
+    },
+    {
+        "o": 19261,
+        "r": "esv:Ecclesiastes:3:6",
+        "w": 7,
+        "l": {},
+        "c": "Matthew 10:39*26150",
+        "a": "h"
+    },
+    {
+        "o": 19261,
+        "r": "esv:Ecclesiastes:3:6",
+        "w": 16,
+        "l": {},
+        "c": "Proverbs 11:24*18573",
+        "a": "i"
+    },
+    {
+        "o": 19262,
+        "r": "esv:Ecclesiastes:3:7",
+        "w": 2,
+        "l": {},
+        "c": "Genesis 37:29*1207",
+        "a": "j"
+    },
+    {
+        "o": 19262,
+        "r": "esv:Ecclesiastes:3:7",
+        "w": 11,
+        "l": {},
+        "c": "Amos 5:13*24940",
+        "a": "k"
+    },
+    {
+        "o": 19263,
+        "r": "esv:Ecclesiastes:3:8",
+        "w": 7,
+        "l": {},
+        "c": "Luke 14:26*28597",
+        "a": "l"
+    },
+    {
+        "o": 19265,
+        "r": "esv:Ecclesiastes:3:9",
+        "w": 0,
+        "l": {},
+        "c": "Ecclesiastes 1:3*19207",
+        "a": "m"
+    },
+    {
+        "o": 19266,
+        "r": "esv:Ecclesiastes:3:10",
+        "w": 2,
+        "l": {},
+        "c": "Ecclesiastes 1:13*19218",
+        "a": "n"
+    },
+    {
+        "o": 19266,
+        "r": "esv:Ecclesiastes:3:10",
+        "w": 5,
+        "l": {},
+        "c": "Genesis 3:17–19*80",
+        "a": "o"
+    },
+    {
+        "o": 19267,
+        "r": "esv:Ecclesiastes:3:11",
+        "w": 1,
+        "l": {},
+        "c": "Genesis 1:31*33",
+        "a": "p"
+    },
+    {
+        "o": 19267,
+        "r": "esv:Ecclesiastes:3:11",
+        "w": 20,
+        "l": {},
+        "c": "Ecclesiastes 8:17*19385; Job 5:9*14279; Romans 11:33*31577",
+        "a": "q"
+    },
+    {
+        "o": 19268,
+        "r": "esv:Ecclesiastes:3:12",
+        "w": 4,
+        "l": {},
+        "c": "Ecclesiastes 3:22*19279",
+        "a": "r"
+    },
+    {
+        "o": 19268,
+        "r": "esv:Ecclesiastes:3:12",
+        "w": 14,
+        "l": {},
+        "c": "Psalm 34:14*15893; Psalm 37:3*15953",
+        "a": "s"
+    },
+    {
+        "o": 19269,
+        "r": "esv:Ecclesiastes:3:13",
+        "w": 0,
+        "l": {},
+        "c": "Ecclesiastes 2:24*19251",
+        "a": "t"
+    },
+    {
+        "o": 19269,
+        "r": "esv:Ecclesiastes:3:13",
+        "w": 15,
+        "l": {},
+        "c": "Ecclesiastes 2:24*19251; Ecclesiastes 5:19*19319",
+        "a": "u"
+    },
+    {
+        "o": 19270,
+        "r": "esv:Ecclesiastes:3:14",
+        "w": 7,
+        "l": {},
+        "c": "James 1:17*33903",
+        "a": "v"
+    },
+    {
+        "o": 19271,
+        "r": "esv:Ecclesiastes:3:15",
+        "w": 2,
+        "l": {},
+        "c": "Ecclesiastes 1:9*19213",
+        "a": "w"
+    },
+    {
+        "o": 19271,
+        "r": "esv:Ecclesiastes:3:15",
+        "w": 15,
+        "l": {},
+        "c": "Ecclesiastes 12:14*19457",
+        "a": "x"
+    },
+    {
+        "o": 19271,
+        "r": "esv:Ecclesiastes:3:15",
+        "w": 21,
+        "l": {},
+        "t": "Hebrew what*i has*i been*i pursued*i",
+        "a": "y"
+    },
+    {
+        "o": 19273,
+        "r": "esv:Ecclesiastes:3:16",
+        "w": 0,
+        "l": {},
+        "c": "Ecclesiastes 4:1*19282",
+        "a": "z"
+    },
+    {
+        "o": 19273,
+        "r": "esv:Ecclesiastes:3:16",
+        "w": 12,
+        "l": {},
+        "c": "Ecclesiastes 5:8*19308; Ecclesiastes 4:1*19282",
+        "a": "a"
+    },
+    {
+        "o": 19274,
+        "r": "esv:Ecclesiastes:3:17",
+        "w": 4,
+        "l": {},
+        "c": "Matthew 16:27*26435; 2 Corinthians 5:10*32304; Romans 2:6–11*31272; 2 Thessalonians 1:6–10*33185",
+        "a": "b"
+    },
+    {
+        "o": 19274,
+        "r": "esv:Ecclesiastes:3:17",
+        "w": 15,
+        "l": {},
+        "c": "Ecclesiastes 3:1*19256; Ecclesiastes 8:6*19372",
+        "a": "c"
+    },
+    {
+        "o": 19275,
+        "r": "esv:Ecclesiastes:3:18",
+        "w": 25,
+        "l": {},
+        "c": "Psalm 49:12*16196; Psalm 49:20*16204; Psalm 73:22*16650",
+        "a": "d"
+    },
+    {
+        "o": 19276,
+        "r": "esv:Ecclesiastes:3:19",
+        "w": 0,
+        "l": {},
+        "c": "Ecclesiastes 2:14*19240",
+        "a": "e"
+    },
+    {
+        "o": 19276,
+        "r": "esv:Ecclesiastes:3:19",
+        "w": 41,
+        "l": {},
+        "t": "The Hebrew term hebel*i can refer to a “vapor” or “mere breath” (see note on 1:2)",
+        "a": "f"
+    },
+    {
+        "o": 19277,
+        "r": "esv:Ecclesiastes:3:20",
+        "w": 7,
+        "l": {},
+        "c": "Ecclesiastes 12:7*19449; Genesis 3:19*82",
+        "a": "g"
+    },
+    {
+        "o": 19278,
+        "r": "esv:Ecclesiastes:3:21",
+        "w": 2,
+        "l": {},
+        "c": "Ecclesiastes 12:7*19449",
+        "a": "h"
+    },
+    {
+        "o": 19279,
+        "r": "esv:Ecclesiastes:3:22",
+        "w": 5,
+        "l": {},
+        "c": "Ecclesiastes 2:24*19251",
+        "a": "i"
+    },
+    {
+        "o": 19279,
+        "r": "esv:Ecclesiastes:3:22",
+        "w": 17,
+        "l": {},
+        "c": "Ecclesiastes 2:10*19235",
+        "a": "j"
+    },
+    {
+        "o": 19279,
+        "r": "esv:Ecclesiastes:3:22",
+        "w": 27,
+        "l": {},
+        "c": "Ecclesiastes 2:19*19246; Ecclesiastes 6:12*19333; Ecclesiastes 8:7*19373; Ecclesiastes 10:14*19422",
+        "a": "k"
+    }
+]

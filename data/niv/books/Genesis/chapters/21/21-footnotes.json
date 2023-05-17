@@ -1,0 +1,34 @@
+[
+    {
+        "o": 567,
+        "r": "niv:Genesis:21:3",
+        "w": 4,
+        "l": {},
+        "t": "21:3*r Isaac*i means he*i laughs.*i",
+        "a": "a"
+    },
+    {
+        "o": 577,
+        "r": "niv:Genesis:21:12",
+        "w": 30,
+        "l": {},
+        "t": "21:12*r Or seed*i",
+        "a": "b"
+    },
+    {
+        "o": 581,
+        "r": "niv:Genesis:21:16",
+        "w": 25,
+        "l": {},
+        "t": "21:16*r Hebrew; Septuagint the*i child*i",
+        "a": "c"
+    },
+    {
+        "o": 597,
+        "r": "niv:Genesis:21:31",
+        "w": 5,
+        "l": {},
+        "t": "21:31*r Beersheba*i can mean well*i of*i seven*i and well*i of*i the*i oath.*i",
+        "a": "d"
+    }
+]

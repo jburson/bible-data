@@ -1,0 +1,34 @@
+[
+    {
+        "o": 17043,
+        "r": "kjv:Psalm:142:1",
+        "w": 18,
+        "l": {},
+        "t": "Maschil…: or, A Psalm of David, giving instruction",
+        "a": "a"
+    },
+    {
+        "o": 17046,
+        "r": "kjv:Psalm:142:4",
+        "w": 25,
+        "l": {},
+        "t": "I looked…: or, Look on the right hand, and see",
+        "a": "b"
+    },
+    {
+        "o": 17046,
+        "r": "kjv:Psalm:142:4",
+        "w": 25,
+        "l": {},
+        "t": "failed…: Heb. perished from me",
+        "a": "c"
+    },
+    {
+        "o": 17046,
+        "r": "kjv:Psalm:142:4",
+        "w": 25,
+        "l": {},
+        "t": "cared…: Heb. sought after",
+        "a": "d"
+    }
+]

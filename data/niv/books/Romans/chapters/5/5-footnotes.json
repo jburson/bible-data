@@ -1,0 +1,26 @@
+[
+    {
+        "o": 30965,
+        "r": "niv:Romans:5:1",
+        "w": 8,
+        "l": {},
+        "t": "5:1*r Many manuscripts let*i us*i",
+        "a": "a"
+    },
+    {
+        "o": 30966,
+        "r": "niv:Romans:5:2",
+        "w": 17,
+        "l": {},
+        "t": "5:2*r Or let*i us*i",
+        "a": "b"
+    },
+    {
+        "o": 30967,
+        "r": "niv:Romans:5:3",
+        "w": 4,
+        "l": {},
+        "t": "5:3*r Or let*i us*i",
+        "a": "c"
+    }
+]

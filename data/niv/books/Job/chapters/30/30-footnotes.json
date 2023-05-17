@@ -1,0 +1,34 @@
+[
+    {
+        "o": 14835,
+        "r": "niv:Job:30:3",
+        "w": 6,
+        "l": {},
+        "t": "30:3*r Or gnawed*i",
+        "a": "a"
+    },
+    {
+        "o": 14836,
+        "r": "niv:Job:30:4",
+        "w": 9,
+        "l": {},
+        "t": "30:4*r Or fuel*i",
+        "a": "b"
+    },
+    {
+        "o": 14844,
+        "r": "niv:Job:30:12",
+        "w": 4,
+        "l": {},
+        "t": "30:12*r The meaning of the Hebrew for this word is uncertain.",
+        "a": "c"
+    },
+    {
+        "o": 14850,
+        "r": "niv:Job:30:18",
+        "w": 9,
+        "l": {},
+        "t": "30:18*r Hebrew; Septuagint power*i he*i grasps*i my*i clothing*i",
+        "a": "d"
+    }
+]

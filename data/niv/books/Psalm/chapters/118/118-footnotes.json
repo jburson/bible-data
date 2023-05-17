@@ -1,0 +1,26 @@
+[
+    {
+        "o": 17395,
+        "r": "niv:Psalm:118:14",
+        "w": 7,
+        "l": {},
+        "t": "118:14*r Or song*i",
+        "a": "a"
+    },
+    {
+        "o": 17407,
+        "r": "niv:Psalm:118:26",
+        "w": 19,
+        "l": {},
+        "t": "118:26*r The Hebrew is plural.",
+        "a": "b"
+    },
+    {
+        "o": 17408,
+        "r": "niv:Psalm:118:27",
+        "w": 22,
+        "l": {},
+        "t": "118:27*r Or Bind*i the*i festal*i sacrifice*i with*i ropes*i /*i and*i take*i it*i",
+        "a": "c"
+    }
+]

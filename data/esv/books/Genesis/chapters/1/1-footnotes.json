@@ -1,0 +1,242 @@
+[
+    {
+        "o": 3,
+        "r": "esv:Genesis:1:1",
+        "w": 1,
+        "l": {},
+        "c": "Job 38:4–7*15180; Psalm 33:6*15860; Psalm 136:5*18000; Isaiah 42:5*20564; Isaiah 45:18*20670; John 1:1–3*29132; Acts 14:15*30672; Acts 17:24*30806; Colossians 1:16–17*32983; Hebrews 1:10*33557; Hebrews 11:3*33784; Revelation 4:11*34485",
+        "a": "a"
+    },
+    {
+        "o": 4,
+        "r": "esv:Genesis:1:2",
+        "w": 2,
+        "l": {},
+        "c": "Jeremiah 4:23*21201",
+        "a": "b"
+    },
+    {
+        "o": 5,
+        "r": "esv:Genesis:1:3",
+        "w": 2,
+        "l": {},
+        "c": "2 Corinthians 4:6*32279",
+        "a": "c"
+    },
+    {
+        "o": 8,
+        "r": "esv:Genesis:1:6",
+        "w": 2,
+        "l": {},
+        "c": "Job 37:18*15168; Psalm 136:5*18000; Jeremiah 10:12*21378; Jeremiah 51:15*22499",
+        "a": "d"
+    },
+    {
+        "o": 8,
+        "r": "esv:Genesis:1:6",
+        "w": 7,
+        "l": {},
+        "t": "Or a*i canopy*i ; also verses 7, 8, 14, 15, 17, 20",
+        "a": "e"
+    },
+    {
+        "o": 9,
+        "r": "esv:Genesis:1:7",
+        "w": 2,
+        "l": {},
+        "t": "Or fashioned*i ; also verse 16",
+        "a": "f"
+    },
+    {
+        "o": 9,
+        "r": "esv:Genesis:1:7",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 8:27–29*18484",
+        "a": "g"
+    },
+    {
+        "o": 9,
+        "r": "esv:Genesis:1:7",
+        "w": 18,
+        "l": {},
+        "c": "Psalm 148:4*18206",
+        "a": "h"
+    },
+    {
+        "o": 10,
+        "r": "esv:Genesis:1:8",
+        "w": 5,
+        "l": {},
+        "t": "Or Sky*i ; also verses 9, 14, 15, 17, 20, 26, 28, 30; 2:1",
+        "a": "i"
+    },
+    {
+        "o": 11,
+        "r": "esv:Genesis:1:9",
+        "w": 2,
+        "l": {},
+        "c": "Job 38:8–11*15184; Psalm 33:7*15861; Psalm 136:6*18001; Jeremiah 5:22*21234; 2 Peter 3:5*34185",
+        "a": "j"
+    },
+    {
+        "o": 12,
+        "r": "esv:Genesis:1:10",
+        "w": 5,
+        "l": {},
+        "t": "Or Land*i ; also verses 11, 12, 22, 24, 25, 26, 28, 30; 2:1",
+        "a": "k"
+    },
+    {
+        "o": 13,
+        "r": "esv:Genesis:1:11",
+        "w": 2,
+        "l": {},
+        "c": "Psalm 104:14*17279",
+        "a": "l"
+    },
+    {
+        "o": 13,
+        "r": "esv:Genesis:1:11",
+        "w": 8,
+        "l": {},
+        "t": "Or small*i plants*i ; also verses 12, 29",
+        "a": "m"
+    },
+    {
+        "o": 16,
+        "r": "esv:Genesis:1:14",
+        "w": 24,
+        "l": {},
+        "c": "Jeremiah 10:2*21368; Ezekiel 32:7–8*23619; Joel 2:30–31*24831; Joel 3:15*24850; Matthew 24:29*26760; Luke 21:25*28910",
+        "a": "n"
+    },
+    {
+        "o": 16,
+        "r": "esv:Genesis:1:14",
+        "w": 27,
+        "l": {},
+        "c": "Psalm 104:19*17284",
+        "a": "o"
+    },
+    {
+        "o": 16,
+        "r": "esv:Genesis:1:14",
+        "w": 28,
+        "l": {},
+        "t": "Or appointed*i times*i",
+        "a": "p"
+    },
+    {
+        "o": 18,
+        "r": "esv:Genesis:1:16",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 4:19*5473; Psalm 136:7–9*18002",
+        "a": "q"
+    },
+    {
+        "o": 20,
+        "r": "esv:Genesis:1:18",
+        "w": 0,
+        "l": {},
+        "c": "Jeremiah 31:35*21947",
+        "a": "r"
+    },
+    {
+        "o": 22,
+        "r": "esv:Genesis:1:20",
+        "w": 14,
+        "l": {},
+        "t": "Or flying*i things*i ; see Leviticus 11:19–20",
+        "a": "s"
+    },
+    {
+        "o": 23,
+        "r": "esv:Genesis:1:21",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 104:25–26*17290",
+        "a": "t"
+    },
+    {
+        "o": 24,
+        "r": "esv:Genesis:1:22",
+        "w": 4,
+        "l": {},
+        "c": "Genesis 8:17*218; Genesis 9:1*226",
+        "a": "u"
+    },
+    {
+        "o": 28,
+        "r": "esv:Genesis:1:26",
+        "w": 2,
+        "l": {},
+        "c": "Genesis 3:22*85; Genesis 11:7*298; Isaiah 6:8*19768",
+        "a": "v"
+    },
+    {
+        "o": 28,
+        "r": "esv:Genesis:1:26",
+        "w": 6,
+        "l": {},
+        "t": "The Hebrew word for man*i ( adam*i ) is the generic term for mankind and becomes the proper name Adam*i",
+        "a": "w"
+    },
+    {
+        "o": 28,
+        "r": "esv:Genesis:1:26",
+        "w": 9,
+        "l": {},
+        "c": "Genesis 5:1*118; Genesis 9:6*231; 1 Corinthians 11:7*31990; Ephesians 4:24*32769; Colossians 3:10*33035; James 3:9*33954",
+        "a": "x"
+    },
+    {
+        "o": 28,
+        "r": "esv:Genesis:1:26",
+        "w": 13,
+        "l": {},
+        "c": "Genesis 9:2*227; Psalm 8:6–8*15433; James 3:7*33952",
+        "a": "y"
+    },
+    {
+        "o": 29,
+        "r": "esv:Genesis:1:27",
+        "w": 15,
+        "l": {},
+        "c": "Genesis 2:18*54; Genesis 2:21–23*57; Genesis 5:2*119; Malachi 2:15*25743; Matthew 19:4*26513; Mark 10:6*27456",
+        "a": "z"
+    },
+    {
+        "o": 30,
+        "r": "esv:Genesis:1:28",
+        "w": 8,
+        "l": {},
+        "c": "Genesis 9:1*226; Genesis 9:7*232",
+        "a": "a"
+    },
+    {
+        "o": 31,
+        "r": "esv:Genesis:1:29",
+        "w": 28,
+        "l": {},
+        "c": "Genesis 9:3*228; Psalm 104:14–15*17279; Psalm 145:15–16*18160",
+        "a": "b"
+    },
+    {
+        "o": 32,
+        "r": "esv:Genesis:1:30",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 147:9*18189",
+        "a": "c"
+    },
+    {
+        "o": 33,
+        "r": "esv:Genesis:1:31",
+        "w": 0,
+        "l": {},
+        "c": "Ecclesiastes 7:29*19364; 1 Timothy 4:4*33300",
+        "a": "d"
+    }
+]

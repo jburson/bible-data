@@ -1,0 +1,194 @@
+[
+    {
+        "o": 3181,
+        "r": "esv:Leviticus:8:1",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 29:1*2547",
+        "a": "a"
+    },
+    {
+        "o": 3182,
+        "r": "esv:Leviticus:8:2",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 28:2–4*2503",
+        "a": "b"
+    },
+    {
+        "o": 3182,
+        "r": "esv:Leviticus:8:2",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 30:23–25*2620",
+        "a": "c"
+    },
+    {
+        "o": 3185,
+        "r": "esv:Leviticus:8:5",
+        "w": 5,
+        "l": {},
+        "c": "Exodus 29:4*2550",
+        "a": "d"
+    },
+    {
+        "o": 3187,
+        "r": "esv:Leviticus:8:7",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 28:4*2505",
+        "a": "e"
+    },
+    {
+        "o": 3187,
+        "r": "esv:Leviticus:8:7",
+        "w": 43,
+        "l": {},
+        "t": "Hebrew with*i it*i",
+        "a": "f"
+    },
+    {
+        "o": 3188,
+        "r": "esv:Leviticus:8:8",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 28:30*2531",
+        "a": "g"
+    },
+    {
+        "o": 3189,
+        "r": "esv:Leviticus:8:9",
+        "w": 2,
+        "l": {},
+        "c": "Leviticus 8:7*3187",
+        "a": "h"
+    },
+    {
+        "o": 3189,
+        "r": "esv:Leviticus:8:9",
+        "w": 8,
+        "l": {},
+        "c": "Leviticus 21:12*3652; Exodus 28:36–37*2537",
+        "a": "i"
+    },
+    {
+        "o": 3190,
+        "r": "esv:Leviticus:8:10",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 30:26–29*2623",
+        "a": "j"
+    },
+    {
+        "o": 3192,
+        "r": "esv:Leviticus:8:12",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 21:10*3650; Leviticus 21:12*3652; Exodus 30:30*2627; Psalm 133:2*17963",
+        "a": "k"
+    },
+    {
+        "o": 3194,
+        "r": "esv:Leviticus:8:14",
+        "w": 2,
+        "l": {},
+        "c": "Ezekiel 43:19*23992",
+        "a": "l"
+    },
+    {
+        "o": 3194,
+        "r": "esv:Leviticus:8:14",
+        "w": 13,
+        "l": {},
+        "c": "Leviticus 4:4*3055",
+        "a": "m"
+    },
+    {
+        "o": 3195,
+        "r": "esv:Leviticus:8:15",
+        "w": 1,
+        "l": {},
+        "t": "Probably Aaron or his representative; possibly Moses; also verses 16–23",
+        "a": "n"
+    },
+    {
+        "o": 3195,
+        "r": "esv:Leviticus:8:15",
+        "w": 4,
+        "l": {},
+        "c": "Leviticus 4:7*3058; Ezekiel 43:20*23993; Ezekiel 43:26*23999; Hebrews 9:22*33731",
+        "a": "o"
+    },
+    {
+        "o": 3196,
+        "r": "esv:Leviticus:8:16",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 3:4*3036; Leviticus 4:8*3059",
+        "a": "p"
+    },
+    {
+        "o": 3197,
+        "r": "esv:Leviticus:8:17",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 4:11–12*3062",
+        "a": "q"
+    },
+    {
+        "o": 3198,
+        "r": "esv:Leviticus:8:18",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 8:2*3182",
+        "a": "r"
+    },
+    {
+        "o": 3200,
+        "r": "esv:Leviticus:8:20",
+        "w": 8,
+        "l": {},
+        "c": "Leviticus 1:8*3003",
+        "a": "s"
+    },
+    {
+        "o": 3202,
+        "r": "esv:Leviticus:8:22",
+        "w": 0,
+        "l": {},
+        "c": "Leviticus 8:2*3182",
+        "a": "t"
+    },
+    {
+        "o": 3203,
+        "r": "esv:Leviticus:8:23",
+        "w": 11,
+        "l": {},
+        "c": "Leviticus 14:14–17*3400",
+        "a": "u"
+    },
+    {
+        "o": 3210,
+        "r": "esv:Leviticus:8:30",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 30:30*2627; Numbers 3:3*4024",
+        "a": "v"
+    },
+    {
+        "o": 3213,
+        "r": "esv:Leviticus:8:33",
+        "w": 25,
+        "l": {},
+        "c": "Ezekiel 43:25–26*23998",
+        "a": "w"
+    },
+    {
+        "o": 3215,
+        "r": "esv:Leviticus:8:35",
+        "w": 21,
+        "l": {},
+        "c": "Numbers 3:7*4029; Numbers 9:19*4333; Deuteronomy 11:1*5678; 1 Kings 2:3*9618; Zechariah 3:7*25510",
+        "a": "x"
+    }
+]

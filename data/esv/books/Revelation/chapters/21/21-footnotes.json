@@ -1,0 +1,458 @@
+[
+    {
+        "o": 34805,
+        "r": "esv:Revelation:21:1",
+        "w": 2,
+        "l": {},
+        "c": "Isaiah 65:17*21052; Isaiah 66:22*21086; 2 Peter 3:13*34194",
+        "a": "a"
+    },
+    {
+        "o": 34805,
+        "r": "esv:Revelation:21:1",
+        "w": 10,
+        "l": {},
+        "c": "Revelation 20:11*34798",
+        "a": "b"
+    },
+    {
+        "o": 34806,
+        "r": "esv:Revelation:21:2",
+        "w": 2,
+        "l": {},
+        "c": "Revelation 11:2*34595; Revelation 22:19*34854; Isaiah 52:1*20804",
+        "a": "c"
+    },
+    {
+        "o": 34806,
+        "r": "esv:Revelation:21:2",
+        "w": 5,
+        "l": {},
+        "c": "Revelation 3:12*34461",
+        "a": "d"
+    },
+    {
+        "o": 34806,
+        "r": "esv:Revelation:21:2",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 11:10*33791",
+        "a": "e"
+    },
+    {
+        "o": 34806,
+        "r": "esv:Revelation:21:2",
+        "w": 14,
+        "l": {},
+        "c": "Revelation 19:7*34768; John 14:3*29822",
+        "a": "f"
+    },
+    {
+        "o": 34806,
+        "r": "esv:Revelation:21:2",
+        "w": 15,
+        "l": {},
+        "c": "Isaiah 61:10*20981",
+        "a": "g"
+    },
+    {
+        "o": 34807,
+        "r": "esv:Revelation:21:3",
+        "w": 10,
+        "l": {},
+        "c": "Leviticus 26:11–12*3854",
+        "a": "h"
+    },
+    {
+        "o": 34807,
+        "r": "esv:Revelation:21:3",
+        "w": 13,
+        "l": {},
+        "t": "Or tabernacle*i",
+        "a": "i"
+    },
+    {
+        "o": 34807,
+        "r": "esv:Revelation:21:3",
+        "w": 20,
+        "l": {},
+        "c": "Revelation 7:15*34538",
+        "a": "j"
+    },
+    {
+        "o": 34807,
+        "r": "esv:Revelation:21:3",
+        "w": 29,
+        "l": {},
+        "t": "Some manuscripts peoples*i",
+        "a": "k"
+    },
+    {
+        "o": 34807,
+        "r": "esv:Revelation:21:3",
+        "w": 39,
+        "l": {},
+        "t": "Some manuscripts omit as*i their*i God*i",
+        "a": "l"
+    },
+    {
+        "o": 34808,
+        "r": "esv:Revelation:21:4",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 7:17*34540",
+        "a": "m"
+    },
+    {
+        "o": 34808,
+        "r": "esv:Revelation:21:4",
+        "w": 9,
+        "l": {},
+        "c": "Revelation 20:14*34801; 1 Corinthians 15:26*32139",
+        "a": "n"
+    },
+    {
+        "o": 34808,
+        "r": "esv:Revelation:21:4",
+        "w": 14,
+        "l": {},
+        "c": "Isaiah 35:10*20390; Isaiah 51:11*20789; Isaiah 65:19*21054",
+        "a": "o"
+    },
+    {
+        "o": 34809,
+        "r": "esv:Revelation:21:5",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 4:2*34476; Revelation 4:9*34483; Revelation 5:1*34488; Revelation 20:11*34798",
+        "a": "p"
+    },
+    {
+        "o": 34809,
+        "r": "esv:Revelation:21:5",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 5:17*32311",
+        "a": "q"
+    },
+    {
+        "o": 34809,
+        "r": "esv:Revelation:21:5",
+        "w": 22,
+        "l": {},
+        "c": "Revelation 22:6*34841; Revelation 3:14*34464; Revelation 19:11*34773; 1 Timothy 1:15*33252",
+        "a": "r"
+    },
+    {
+        "o": 34810,
+        "r": "esv:Revelation:21:6",
+        "w": 4,
+        "l": {},
+        "c": "Revelation 10:6*34586",
+        "a": "s"
+    },
+    {
+        "o": 34810,
+        "r": "esv:Revelation:21:6",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 1:8*34400; Revelation 22:13*34848",
+        "a": "t"
+    },
+    {
+        "o": 34810,
+        "r": "esv:Revelation:21:6",
+        "w": 19,
+        "l": {},
+        "c": "Revelation 22:17*34852; John 4:10*29267; John 7:37*29481",
+        "a": "u"
+    },
+    {
+        "o": 34811,
+        "r": "esv:Revelation:21:7",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 2:7*34422",
+        "a": "v"
+    },
+    {
+        "o": 34811,
+        "r": "esv:Revelation:21:7",
+        "w": 8,
+        "l": {},
+        "c": "Revelation 21:3*34807",
+        "a": "w"
+    },
+    {
+        "o": 34811,
+        "r": "esv:Revelation:21:7",
+        "w": 14,
+        "l": {},
+        "c": "2 Corinthians 6:18*32335",
+        "a": "x"
+    },
+    {
+        "o": 34812,
+        "r": "esv:Revelation:21:8",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 22:15*34850; 1 Corinthians 6:9–10*31845; Galatians 5:19–21*32638; Ephesians 5:5*32784; 1 Timothy 1:9*33245; Hebrews 12:14*33838",
+        "a": "y"
+    },
+    {
+        "o": 34812,
+        "r": "esv:Revelation:21:8",
+        "w": 19,
+        "l": {},
+        "c": "Luke 12:46*28508",
+        "a": "z"
+    },
+    {
+        "o": 34812,
+        "r": "esv:Revelation:21:8",
+        "w": 24,
+        "l": {},
+        "c": "Revelation 19:20*34782",
+        "a": "a"
+    },
+    {
+        "o": 34812,
+        "r": "esv:Revelation:21:8",
+        "w": 34,
+        "l": {},
+        "c": "Revelation 2:11*34427; Revelation 20:6*34792; Revelation 20:14*34801",
+        "a": "b"
+    },
+    {
+        "o": 34814,
+        "r": "esv:Revelation:21:9",
+        "w": 1,
+        "l": {},
+        "c": "Revelation 17:1*34715",
+        "a": "c"
+    },
+    {
+        "o": 34814,
+        "r": "esv:Revelation:21:9",
+        "w": 13,
+        "l": {},
+        "c": "Revelation 15:1*34681",
+        "a": "d"
+    },
+    {
+        "o": 34814,
+        "r": "esv:Revelation:21:9",
+        "w": 27,
+        "l": {},
+        "c": "Revelation 21:2*34806",
+        "a": "e"
+    },
+    {
+        "o": 34815,
+        "r": "esv:Revelation:21:10",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 17:3*34717; Ezekiel 43:5*23977",
+        "a": "f"
+    },
+    {
+        "o": 34815,
+        "r": "esv:Revelation:21:10",
+        "w": 8,
+        "l": {},
+        "c": "Psalm 87:1*16952; Ezekiel 40:2*23866",
+        "a": "g"
+    },
+    {
+        "o": 34816,
+        "r": "esv:Revelation:21:11",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 21:23*34828; Revelation 22:5*34840; Psalm 84:11*16911; Ezekiel 43:2*23974; Ezekiel 43:4*23976",
+        "a": "h"
+    },
+    {
+        "o": 34816,
+        "r": "esv:Revelation:21:11",
+        "w": 4,
+        "l": {},
+        "c": "Matthew 5:14*25899; Philippians 2:15*32896",
+        "a": "i"
+    },
+    {
+        "o": 34816,
+        "r": "esv:Revelation:21:11",
+        "w": 6,
+        "l": {},
+        "c": "Revelation 4:3*34477; Revelation 4:6*34480",
+        "a": "j"
+    },
+    {
+        "o": 34817,
+        "r": "esv:Revelation:21:12",
+        "w": 5,
+        "l": {},
+        "c": "Ezekiel 48:31–34*24148",
+        "a": "k"
+    },
+    {
+        "o": 34819,
+        "r": "esv:Revelation:21:14",
+        "w": 7,
+        "l": {},
+        "c": "Hebrews 11:10*33791; 1 Corinthians 3:11*31784",
+        "a": "l"
+    },
+    {
+        "o": 34819,
+        "r": "esv:Revelation:21:14",
+        "w": 9,
+        "l": {},
+        "c": "Matthew 16:18*26424; Ephesians 2:20*32716",
+        "a": "m"
+    },
+    {
+        "o": 34820,
+        "r": "esv:Revelation:21:15",
+        "w": 6,
+        "l": {},
+        "c": "Revelation 11:1*34594",
+        "a": "n"
+    },
+    {
+        "o": 34821,
+        "r": "esv:Revelation:21:16",
+        "w": 20,
+        "l": {},
+        "t": "About 1,380 miles; a stadion*i was about 607 feet or 185 meters",
+        "a": "o"
+    },
+    {
+        "o": 34822,
+        "r": "esv:Revelation:21:17",
+        "w": 6,
+        "l": {},
+        "t": "A cubit*i was about 18 inches or 45 centimeters",
+        "a": "p"
+    },
+    {
+        "o": 34822,
+        "r": "esv:Revelation:21:17",
+        "w": 7,
+        "l": {},
+        "c": "Deuteronomy 3:11*5432; Revelation 13:18*34654",
+        "a": "q"
+    },
+    {
+        "o": 34822,
+        "r": "esv:Revelation:21:17",
+        "w": 12,
+        "l": {},
+        "c": "Revelation 21:9*34814",
+        "a": "r"
+    },
+    {
+        "o": 34823,
+        "r": "esv:Revelation:21:18",
+        "w": 4,
+        "l": {},
+        "c": "Revelation 21:11*34816",
+        "a": "s"
+    },
+    {
+        "o": 34823,
+        "r": "esv:Revelation:21:18",
+        "w": 12,
+        "l": {},
+        "c": "Revelation 21:11*34816",
+        "a": "t"
+    },
+    {
+        "o": 34824,
+        "r": "esv:Revelation:21:19",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 54:11–12*20845",
+        "a": "u"
+    },
+    {
+        "o": 34826,
+        "r": "esv:Revelation:21:21",
+        "w": 16,
+        "l": {},
+        "c": "Revelation 22:2*34836",
+        "a": "v"
+    },
+    {
+        "o": 34827,
+        "r": "esv:Revelation:21:22",
+        "w": 0,
+        "l": {},
+        "c": "John 4:23*29280",
+        "a": "w"
+    },
+    {
+        "o": 34828,
+        "r": "esv:Revelation:21:23",
+        "w": 2,
+        "l": {},
+        "c": "Revelation 22:5*34840; Isaiah 60:19–20*20966; Revelation 21:25*34830",
+        "a": "x"
+    },
+    {
+        "o": 34828,
+        "r": "esv:Revelation:21:23",
+        "w": 14,
+        "l": {},
+        "c": "Revelation 21:11*34816",
+        "a": "y"
+    },
+    {
+        "o": 34829,
+        "r": "esv:Revelation:21:24",
+        "w": 2,
+        "l": {},
+        "c": "Isaiah 60:3*20950; Revelation 22:2*34836",
+        "a": "z"
+    },
+    {
+        "o": 34829,
+        "r": "esv:Revelation:21:24",
+        "w": 12,
+        "l": {},
+        "c": "Revelation 21:26*34831; Isaiah 60:5*20952; Isaiah 60:16*20963",
+        "a": "a"
+    },
+    {
+        "o": 34830,
+        "r": "esv:Revelation:21:25",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 60:11*20958",
+        "a": "b"
+    },
+    {
+        "o": 34830,
+        "r": "esv:Revelation:21:25",
+        "w": 9,
+        "l": {},
+        "c": "Revelation 21:23*34828",
+        "a": "c"
+    },
+    {
+        "o": 34832,
+        "r": "esv:Revelation:21:27",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 22:14–15*34849; Isaiah 35:8*20388; Isaiah 52:1*20804; Ezekiel 44:9*24011; Joel 3:17*24853; Zechariah 14:21*25708",
+        "a": "d"
+    },
+    {
+        "o": 34832,
+        "r": "esv:Revelation:21:27",
+        "w": 24,
+        "l": {},
+        "c": "Revelation 3:5*34453",
+        "a": "e"
+    }
+]

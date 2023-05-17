@@ -1,0 +1,42 @@
+[
+    {
+        "o": 9671,
+        "r": "niv:1 Kings:4:22",
+        "w": 5,
+        "l": {},
+        "t": "4:22*r That is, probably about 5 1/2 tons or about 5 metric tons",
+        "a": "a"
+    },
+    {
+        "o": 9671,
+        "r": "niv:1 Kings:4:22",
+        "w": 12,
+        "l": {},
+        "t": "4:22*r That is, probably about 11 tons or about 10 metric tons",
+        "a": "b"
+    },
+    {
+        "o": 9675,
+        "r": "niv:1 Kings:4:26",
+        "w": 2,
+        "l": {},
+        "t": "4:26*r Some Septuagint manuscripts (see also 2 Chron. 9:25); Hebrew forty*i",
+        "a": "c"
+    },
+    {
+        "o": 9675,
+        "r": "niv:1 Kings:4:26",
+        "w": 11,
+        "l": {},
+        "t": "4:26*r Or charioteers*i",
+        "a": "d"
+    },
+    {
+        "o": 9684,
+        "r": "niv:1 Kings:4:34",
+        "w": 23,
+        "l": {},
+        "t": "4:34*r In Hebrew texts 4:21-34 is numbered 5:1-14.",
+        "a": "e"
+    }
+]

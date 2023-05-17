@@ -1,0 +1,34 @@
+[
+    {
+        "o": 19509,
+        "r": "niv:Isaiah:5:10",
+        "w": 7,
+        "l": {},
+        "t": "5:10*r That is, about 6 gallons or about 22 liters",
+        "a": "a"
+    },
+    {
+        "o": 19509,
+        "r": "niv:Isaiah:5:10",
+        "w": 11,
+        "l": {},
+        "t": "5:10*r That is, probably about 360 pounds or about 160 kilograms",
+        "a": "b"
+    },
+    {
+        "o": 19509,
+        "r": "niv:Isaiah:5:10",
+        "w": 18,
+        "l": {},
+        "t": "5:10*r That is, probably about 36 pounds or about 16 kilograms",
+        "a": "c"
+    },
+    {
+        "o": 19516,
+        "r": "niv:Isaiah:5:17",
+        "w": 11,
+        "l": {},
+        "t": "5:17*r Septuagint; Hebrew /*i strangers*i will*i eat*i",
+        "a": "d"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "o": 33827,
+        "r": "nasb:1 Peter:1:9",
+        "w": 9,
+        "l": {},
+        "t": "One early ms does not contain your",
+        "a": "a"
+    },
+    {
+        "o": 33840,
+        "r": "nasb:1 Peter:1:22",
+        "w": 22,
+        "l": {},
+        "t": "Two early mss read a clean heart",
+        "a": "b"
+    },
+    {
+        "o": 33858,
+        "r": "nasb:1 Peter:2:12",
+        "w": 35,
+        "l": {},
+        "t": "I.e. Christ’s coming again in judgment",
+        "a": "a"
+    },
+    {
+        "o": 33890,
+        "r": "nasb:1 Peter:3:15",
+        "w": 0,
+        "l": {},
+        "t": "I.e. set apart",
+        "a": "a"
+    },
+    {
+        "o": 33900,
+        "r": "nasb:1 Peter:4:1",
+        "w": 3,
+        "l": {},
+        "t": "I.e. suffered death",
+        "a": "a"
+    }
+]

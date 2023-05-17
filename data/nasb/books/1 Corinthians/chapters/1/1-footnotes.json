@@ -1,0 +1,26 @@
+[
+    {
+        "o": 31585,
+        "r": "nasb:1 Corinthians:1:4",
+        "w": 1,
+        "l": {},
+        "t": "Two early mss do not contain my",
+        "a": "a"
+    },
+    {
+        "o": 31595,
+        "r": "nasb:1 Corinthians:1:14",
+        "w": 0,
+        "l": {},
+        "t": "Two early mss read I give thanks that",
+        "a": "b"
+    },
+    {
+        "o": 31605,
+        "r": "nasb:1 Corinthians:1:23",
+        "w": 2,
+        "l": {},
+        "t": "I.e. Messiah",
+        "a": "c"
+    }
+]

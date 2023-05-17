@@ -1,0 +1,778 @@
+[
+    {
+        "o": 25884,
+        "r": "esv:Matthew:5:1",
+        "w": 2,
+        "l": {},
+        "c": "Matthew 15:29*26391",
+        "a": "a"
+    },
+    {
+        "o": 25884,
+        "r": "esv:Matthew:5:1",
+        "w": 11,
+        "l": {},
+        "c": "Luke 4:20*28015",
+        "a": "b"
+    },
+    {
+        "o": 25886,
+        "r": "esv:Matthew:5:2",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 78:2*16738",
+        "a": "c"
+    },
+    {
+        "o": 25887,
+        "r": "esv:Matthew:5:3",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:3–12*25887; Luke 6:20–23*28113",
+        "a": "d"
+    },
+    {
+        "o": 25887,
+        "r": "esv:Matthew:5:3",
+        "w": 1,
+        "l": {},
+        "c": "Isaiah 61:1*20972; Isaiah 66:2*21064",
+        "a": "e"
+    },
+    {
+        "o": 25887,
+        "r": "esv:Matthew:5:3",
+        "w": 6,
+        "l": {},
+        "c": "Luke 12:32*28493",
+        "a": "f"
+    },
+    {
+        "o": 25888,
+        "r": "esv:Matthew:5:4",
+        "w": 1,
+        "l": {},
+        "c": "Isaiah 61:2–3*20973; John 16:20*29905; 2 Corinthians 1:7*32212; 2 Corinthians 7:10*32347; Revelation 21:4*34808; James 4:9–10*33975",
+        "a": "g"
+    },
+    {
+        "o": 25889,
+        "r": "esv:Matthew:5:5",
+        "w": 2,
+        "l": {},
+        "c": "Psalm 37:11*15961",
+        "a": "h"
+    },
+    {
+        "o": 25889,
+        "r": "esv:Matthew:5:5",
+        "w": 5,
+        "l": {},
+        "c": "Psalm 37:11*15961",
+        "a": "i"
+    },
+    {
+        "o": 25890,
+        "r": "esv:Matthew:5:6",
+        "w": 5,
+        "l": {},
+        "c": "Psalm 42:2*16073; Isaiah 55:1–2*20854; John 7:37*29481",
+        "a": "j"
+    },
+    {
+        "o": 25890,
+        "r": "esv:Matthew:5:6",
+        "w": 6,
+        "l": {},
+        "c": "2 Timothy 2:22*33411; Matthew 6:33*25979",
+        "a": "k"
+    },
+    {
+        "o": 25891,
+        "r": "esv:Matthew:5:7",
+        "w": 1,
+        "l": {},
+        "c": "Matthew 18:33*26505; Matthew 25:34–36*26822; Proverbs 19:17*18811; Luke 6:36*28132; 2 Timothy 1:16*33384; Hebrews 6:10*33649",
+        "a": "l"
+    },
+    {
+        "o": 25892,
+        "r": "esv:Matthew:5:8",
+        "w": 1,
+        "l": {},
+        "c": "Psalm 24:4*15707; 2 Timothy 2:22*33411; 1 Peter 1:22*34034",
+        "a": "m"
+    },
+    {
+        "o": 25892,
+        "r": "esv:Matthew:5:8",
+        "w": 6,
+        "l": {},
+        "c": "Hebrews 12:14*33838; 1 John 3:2–3*34250; Revelation 22:4*34838; 1 Corinthians 13:12*32066",
+        "a": "n"
+    },
+    {
+        "o": 25893,
+        "r": "esv:Matthew:5:9",
+        "w": 1,
+        "l": {},
+        "c": "James 3:18*33964",
+        "a": "o"
+    },
+    {
+        "o": 25893,
+        "r": "esv:Matthew:5:9",
+        "w": 4,
+        "l": {},
+        "c": "1 John 3:1*34249",
+        "a": "p"
+    },
+    {
+        "o": 25893,
+        "r": "esv:Matthew:5:9",
+        "w": 8,
+        "l": {},
+        "c": "Romans 8:14*31454",
+        "a": "q"
+    },
+    {
+        "o": 25893,
+        "r": "esv:Matthew:5:9",
+        "w": 9,
+        "l": {},
+        "t": "Greek huioi*i ; see Preface",
+        "a": "r"
+    },
+    {
+        "o": 25894,
+        "r": "esv:Matthew:5:10",
+        "w": 0,
+        "l": {},
+        "c": "2 Timothy 2:12*33400; James 5:11*33998; 1 Peter 3:14*34082",
+        "a": "s"
+    },
+    {
+        "o": 25894,
+        "r": "esv:Matthew:5:10",
+        "w": 9,
+        "l": {},
+        "c": "Matthew 5:3*25887",
+        "a": "t"
+    },
+    {
+        "o": 25895,
+        "r": "esv:Matthew:5:11",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 11:26*33807; 1 Peter 4:14*34107",
+        "a": "u"
+    },
+    {
+        "o": 25895,
+        "r": "esv:Matthew:5:11",
+        "w": 18,
+        "l": {},
+        "c": "John 15:21*29875",
+        "a": "v"
+    },
+    {
+        "o": 25896,
+        "r": "esv:Matthew:5:12",
+        "w": 0,
+        "l": {},
+        "c": "Acts 5:41*30306; Romans 5:3*31364; 2 Corinthians 12:10*32467; Colossians 1:11*32977; Colossians 1:24*32992; Hebrews 10:34*33774; James 1:2*33888; 1 Peter 4:13*34106",
+        "a": "w"
+    },
+    {
+        "o": 25896,
+        "r": "esv:Matthew:5:12",
+        "w": 11,
+        "l": {},
+        "c": "Matthew 21:35*26622",
+        "a": "x"
+    },
+    {
+        "o": 25898,
+        "r": "esv:Matthew:5:13",
+        "w": 6,
+        "l": {},
+        "c": "Mark 9:50*27448; Luke 14:34*28606",
+        "a": "y"
+    },
+    {
+        "o": 25899,
+        "r": "esv:Matthew:5:14",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 5:8*32787; Philippians 2:15*32896; John 8:12*29514",
+        "a": "z"
+    },
+    {
+        "o": 25900,
+        "r": "esv:Matthew:5:15",
+        "w": 0,
+        "l": {},
+        "c": "Mark 4:21*27175; Luke 8:16*28223; Luke 11:33*28433",
+        "a": "a"
+    },
+    {
+        "o": 25901,
+        "r": "esv:Matthew:5:16",
+        "w": 10,
+        "l": {},
+        "c": "Philemon 6*33524; 1 Peter 2:12*34052",
+        "a": "b"
+    },
+    {
+        "o": 25901,
+        "r": "esv:Matthew:5:16",
+        "w": 11,
+        "l": {},
+        "t": "Or house.*i 16*i Let*i your*i light*i so*i shine*i before*i others*i that*i",
+        "a": "c"
+    },
+    {
+        "o": 25901,
+        "r": "esv:Matthew:5:16",
+        "w": 18,
+        "l": {},
+        "c": "John 15:8*29861; 2 Corinthians 9:13*32396; Philippians 1:11*32857; Matthew 9:8*26069",
+        "a": "d"
+    },
+    {
+        "o": 25903,
+        "r": "esv:Matthew:5:17",
+        "w": 0,
+        "l": {},
+        "c": "Romans 3:31*31331",
+        "a": "e"
+    },
+    {
+        "o": 25903,
+        "r": "esv:Matthew:5:17",
+        "w": 8,
+        "l": {},
+        "c": "Matthew 7:12*25996",
+        "a": "f"
+    },
+    {
+        "o": 25903,
+        "r": "esv:Matthew:5:17",
+        "w": 21,
+        "l": {},
+        "c": "Romans 10:4*31523; Romans 13:8*31616; Galatians 3:24*32576",
+        "a": "g"
+    },
+    {
+        "o": 25904,
+        "r": "esv:Matthew:5:18",
+        "w": 5,
+        "l": {},
+        "c": "Luke 16:17*28664; Matthew 24:35*26768",
+        "a": "h"
+    },
+    {
+        "o": 25905,
+        "r": "esv:Matthew:5:19",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 3:12–15*31785",
+        "a": "i"
+    },
+    {
+        "o": 25905,
+        "r": "esv:Matthew:5:19",
+        "w": 2,
+        "l": {},
+        "c": "Galatians 3:10*32561; James 2:10*33926",
+        "a": "j"
+    },
+    {
+        "o": 25905,
+        "r": "esv:Matthew:5:19",
+        "w": 20,
+        "l": {},
+        "c": "Matthew 11:11*26166; Matthew 18:1–4*26470",
+        "a": "k"
+    },
+    {
+        "o": 25905,
+        "r": "esv:Matthew:5:19",
+        "w": 36,
+        "l": {},
+        "c": "Matthew 11:11*26166; Matthew 18:1–4*26470",
+        "a": "l"
+    },
+    {
+        "o": 25906,
+        "r": "esv:Matthew:5:20",
+        "w": 7,
+        "l": {},
+        "c": "Romans 10:3*31521; Philippians 3:9*32923",
+        "a": "m"
+    },
+    {
+        "o": 25906,
+        "r": "esv:Matthew:5:20",
+        "w": 14,
+        "l": {},
+        "c": "John 3:5*29222",
+        "a": "n"
+    },
+    {
+        "o": 25908,
+        "r": "esv:Matthew:5:21",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:33*25923; Matthew 5:27*25915; Matthew 5:31*25920; Matthew 5:38*25929; Matthew 5:43*25935",
+        "a": "o"
+    },
+    {
+        "o": 25908,
+        "r": "esv:Matthew:5:21",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 20:13*2248; Deuteronomy 5:17*5525; Matthew 19:18*26529; Mark 10:19*27471; Luke 18:20*28746; Romans 13:9*31617; James 2:11*33927",
+        "a": "p"
+    },
+    {
+        "o": 25908,
+        "r": "esv:Matthew:5:21",
+        "w": 20,
+        "l": {},
+        "c": "Deuteronomy 16:18*5843",
+        "a": "q"
+    },
+    {
+        "o": 25909,
+        "r": "esv:Matthew:5:22",
+        "w": 5,
+        "l": {},
+        "c": "1 John 3:15*34264",
+        "a": "r"
+    },
+    {
+        "o": 25909,
+        "r": "esv:Matthew:5:22",
+        "w": 12,
+        "l": {},
+        "t": "Some manuscripts insert without*i cause*i",
+        "a": "s"
+    },
+    {
+        "o": 25909,
+        "r": "esv:Matthew:5:22",
+        "w": 15,
+        "l": {},
+        "c": "Matthew 5:21*25908",
+        "a": "t"
+    },
+    {
+        "o": 25909,
+        "r": "esv:Matthew:5:22",
+        "w": 19,
+        "l": {},
+        "t": "Greek says*i Raca*i to*i (a term of abuse)",
+        "a": "u"
+    },
+    {
+        "o": 25909,
+        "r": "esv:Matthew:5:22",
+        "w": 36,
+        "l": {},
+        "c": "Matthew 18:9*26480; Mark 9:43*27443; James 3:6*33951; Matthew 5:29*25917",
+        "a": "v"
+    },
+    {
+        "o": 25909,
+        "r": "esv:Matthew:5:22",
+        "w": 38,
+        "l": {},
+        "t": "Greek Gehenna*i ; also verses 29, 30",
+        "a": "w"
+    },
+    {
+        "o": 25910,
+        "r": "esv:Matthew:5:23",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 6:15*25959; Mark 11:25*27538",
+        "a": "x"
+    },
+    {
+        "o": 25910,
+        "r": "esv:Matthew:5:23",
+        "w": 1,
+        "l": {},
+        "c": "Matthew 8:4*26024; Matthew 23:18*26704",
+        "a": "y"
+    },
+    {
+        "o": 25912,
+        "r": "esv:Matthew:5:25",
+        "w": 0,
+        "l": {},
+        "c": "Luke 12:58–59*28523",
+        "a": "z"
+    },
+    {
+        "o": 25913,
+        "r": "esv:Matthew:5:26",
+        "w": 4,
+        "l": {},
+        "c": "Matthew 18:34–35*26506",
+        "a": "a"
+    },
+    {
+        "o": 25913,
+        "r": "esv:Matthew:5:26",
+        "w": 16,
+        "l": {},
+        "t": "Greek kodrantes*i , Roman copper coin (Latin quadrans*i ) worth about 1/64 of a denarius*i (which was a day’s wage for a laborer)",
+        "a": "b"
+    },
+    {
+        "o": 25915,
+        "r": "esv:Matthew:5:27",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:21*25908",
+        "a": "c"
+    },
+    {
+        "o": 25915,
+        "r": "esv:Matthew:5:27",
+        "w": 6,
+        "l": {},
+        "c": "Exodus 20:14*2249; Deuteronomy 5:18*5526",
+        "a": "d"
+    },
+    {
+        "o": 25916,
+        "r": "esv:Matthew:5:28",
+        "w": 5,
+        "l": {},
+        "c": "Job 31:1*14958; Proverbs 6:25*18416; 2 Samuel 11:2*9055",
+        "a": "e"
+    },
+    {
+        "o": 25917,
+        "r": "esv:Matthew:5:29",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 18:8–9*26478; Mark 9:43–48*27443",
+        "a": "f"
+    },
+    {
+        "o": 25917,
+        "r": "esv:Matthew:5:29",
+        "w": 3,
+        "l": {},
+        "c": "Matthew 13:41*26294; Luke 17:1*28682",
+        "a": "g"
+    },
+    {
+        "o": 25917,
+        "r": "esv:Matthew:5:29",
+        "w": 33,
+        "l": {},
+        "c": "Matthew 10:28*26137; Matthew 23:15*26701; Matthew 23:33*26719; Luke 12:5*28463; Matthew 5:22*25909",
+        "a": "h"
+    },
+    {
+        "o": 25918,
+        "r": "esv:Matthew:5:30",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:29*25917",
+        "a": "i"
+    },
+    {
+        "o": 25918,
+        "r": "esv:Matthew:5:30",
+        "w": 4,
+        "l": {},
+        "c": "Matthew 5:29*25917",
+        "a": "j"
+    },
+    {
+        "o": 25918,
+        "r": "esv:Matthew:5:30",
+        "w": 33,
+        "l": {},
+        "c": "Matthew 5:29*25917",
+        "a": "k"
+    },
+    {
+        "o": 25920,
+        "r": "esv:Matthew:5:31",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:27*25915",
+        "a": "l"
+    },
+    {
+        "o": 25920,
+        "r": "esv:Matthew:5:31",
+        "w": 3,
+        "l": {},
+        "c": "Matthew 19:7*26516; Jeremiah 3:1*21150; Deuteronomy 24:1*6038",
+        "a": "m"
+    },
+    {
+        "o": 25921,
+        "r": "esv:Matthew:5:32",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 19:9*26518; Mark 10:11–12*27461; Luke 16:18*28666; 1 Corinthians 7:10–11*31869",
+        "a": "n"
+    },
+    {
+        "o": 25921,
+        "r": "esv:Matthew:5:32",
+        "w": 22,
+        "l": {},
+        "c": "Romans 7:3*31414",
+        "a": "o"
+    },
+    {
+        "o": 25923,
+        "r": "esv:Matthew:5:33",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:27*25915",
+        "a": "p"
+    },
+    {
+        "o": 25923,
+        "r": "esv:Matthew:5:33",
+        "w": 11,
+        "l": {},
+        "c": "Leviticus 19:12*3581; 1 Timothy 1:10*33246",
+        "a": "q"
+    },
+    {
+        "o": 25923,
+        "r": "esv:Matthew:5:33",
+        "w": 17,
+        "l": {},
+        "c": "Numbers 30:2*5071; Deuteronomy 23:21*6031; Ecclesiastes 5:4*19303",
+        "a": "r"
+    },
+    {
+        "o": 25924,
+        "r": "esv:Matthew:5:34",
+        "w": 4,
+        "l": {},
+        "c": "James 5:12*34000",
+        "a": "s"
+    },
+    {
+        "o": 25924,
+        "r": "esv:Matthew:5:34",
+        "w": 15,
+        "l": {},
+        "c": "Matthew 23:22*26708; Isaiah 66:1*21063; Acts 7:49*30376; Revelation 4:2*34476",
+        "a": "t"
+    },
+    {
+        "o": 25925,
+        "r": "esv:Matthew:5:35",
+        "w": 14,
+        "l": {},
+        "c": "Psalm 48:2*16169",
+        "a": "u"
+    },
+    {
+        "o": 25927,
+        "r": "esv:Matthew:5:37",
+        "w": 8,
+        "l": {},
+        "c": "Proverbs 10:19*18535",
+        "a": "v"
+    },
+    {
+        "o": 25927,
+        "r": "esv:Matthew:5:37",
+        "w": 15,
+        "l": {},
+        "t": "Or the*i evil*i one*i",
+        "a": "w"
+    },
+    {
+        "o": 25929,
+        "r": "esv:Matthew:5:38",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:27*25915",
+        "a": "x"
+    },
+    {
+        "o": 25929,
+        "r": "esv:Matthew:5:38",
+        "w": 6,
+        "l": {},
+        "c": "Exodus 21:24*2288; Leviticus 24:20*3777; Deuteronomy 19:21*5922",
+        "a": "y"
+    },
+    {
+        "o": 25930,
+        "r": "esv:Matthew:5:39",
+        "w": 4,
+        "l": {},
+        "c": "1 Peter 2:23*34063",
+        "a": "z"
+    },
+    {
+        "o": 25930,
+        "r": "esv:Matthew:5:39",
+        "w": 13,
+        "l": {},
+        "c": "Matthew 5:39–42*25930; Luke 6:29–30*28124; Romans 12:17*31601",
+        "a": "a"
+    },
+    {
+        "o": 25930,
+        "r": "esv:Matthew:5:39",
+        "w": 15,
+        "l": {},
+        "c": "Matthew 26:67*26911; Isaiah 50:6*20771; Lamentations 3:30*22667",
+        "a": "b"
+    },
+    {
+        "o": 25931,
+        "r": "esv:Matthew:5:40",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:39*25930",
+        "a": "c"
+    },
+    {
+        "o": 25931,
+        "r": "esv:Matthew:5:40",
+        "w": 9,
+        "l": {},
+        "t": "Greek chiton*i , a long garment worn under the cloak next to the skin",
+        "a": "d"
+    },
+    {
+        "o": 25932,
+        "r": "esv:Matthew:5:41",
+        "w": 2,
+        "l": {},
+        "c": "Matthew 27:32*26960",
+        "a": "e"
+    },
+    {
+        "o": 25933,
+        "r": "esv:Matthew:5:42",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 37:21*15971; Proverbs 21:26*18881",
+        "a": "f"
+    },
+    {
+        "o": 25933,
+        "r": "esv:Matthew:5:42",
+        "w": 8,
+        "l": {},
+        "c": "Deuteronomy 15:8*5805; Psalm 37:26*15976; Psalm 112:5*17522; Luke 6:34–35*28129",
+        "a": "g"
+    },
+    {
+        "o": 25935,
+        "r": "esv:Matthew:5:43",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:21*25908",
+        "a": "h"
+    },
+    {
+        "o": 25935,
+        "r": "esv:Matthew:5:43",
+        "w": 6,
+        "l": {},
+        "c": "Leviticus 19:18*3588; Matthew 19:19*26530",
+        "a": "i"
+    },
+    {
+        "o": 25936,
+        "r": "esv:Matthew:5:44",
+        "w": 4,
+        "l": {},
+        "c": "Luke 6:27–28*28122; Romans 12:20*31604; Exodus 23:4*2339; Job 31:29–30*14986; Psalm 7:4*15411",
+        "a": "j"
+    },
+    {
+        "o": 25936,
+        "r": "esv:Matthew:5:44",
+        "w": 8,
+        "l": {},
+        "c": "Luke 23:34*29047; Acts 7:60*30388; 2 Timothy 4:16*33454; 1 Peter 3:9*34077",
+        "a": "k"
+    },
+    {
+        "o": 25937,
+        "r": "esv:Matthew:5:45",
+        "w": 0,
+        "l": {},
+        "c": "Luke 6:35*28130; Ephesians 5:1*32780; Philippians 2:15*32896",
+        "a": "l"
+    },
+    {
+        "o": 25937,
+        "r": "esv:Matthew:5:45",
+        "w": 26,
+        "l": {},
+        "c": "Acts 14:17*30674",
+        "a": "m"
+    },
+    {
+        "o": 25938,
+        "r": "esv:Matthew:5:46",
+        "w": 0,
+        "l": {},
+        "c": "Luke 6:32*28127",
+        "a": "n"
+    },
+    {
+        "o": 25939,
+        "r": "esv:Matthew:5:47",
+        "w": 6,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i . In New Testament usage, depending on the context, the plural Greek word adelphoi*i (translated “brothers”) may refer either to brothers*i or to brothers*i and*i sisters*i",
+        "a": "o"
+    },
+    {
+        "o": 25939,
+        "r": "esv:Matthew:5:47",
+        "w": 16,
+        "l": {},
+        "c": "Matthew 6:7*25950; Matthew 6:32*25978",
+        "a": "p"
+    },
+    {
+        "o": 25940,
+        "r": "esv:Matthew:5:48",
+        "w": 0,
+        "l": {},
+        "c": "Luke 6:36*28132",
+        "a": "q"
+    },
+    {
+        "o": 25940,
+        "r": "esv:Matthew:5:48",
+        "w": 3,
+        "l": {},
+        "c": "Matthew 19:21*26532; 1 Corinthians 2:6*31761; Philippians 3:15*32930; Colossians 1:28*32996; Colossians 4:12*33066; James 1:4*33890; James 3:2*33947; Genesis 17:1*439",
+        "a": "r"
+    },
+    {
+        "o": 25940,
+        "r": "esv:Matthew:5:48",
+        "w": 4,
+        "l": {},
+        "c": "Leviticus 19:2*3570; 1 Peter 1:15*34027",
+        "a": "s"
+    }
+]

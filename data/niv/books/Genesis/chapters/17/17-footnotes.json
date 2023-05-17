@@ -1,0 +1,34 @@
+[
+    {
+        "o": 439,
+        "r": "niv:Genesis:17:1",
+        "w": 16,
+        "l": {},
+        "t": "17:1*r Hebrew El-Shaddai*i",
+        "a": "a"
+    },
+    {
+        "o": 443,
+        "r": "niv:Genesis:17:5",
+        "w": 6,
+        "l": {},
+        "t": "17:5*r Abram*i means exalted*i father.*i",
+        "a": "b"
+    },
+    {
+        "o": 443,
+        "r": "niv:Genesis:17:5",
+        "w": 11,
+        "l": {},
+        "t": "17:5*r Abraham*i probably means father*i of*i many*i .*i",
+        "a": "c"
+    },
+    {
+        "o": 457,
+        "r": "niv:Genesis:17:19",
+        "w": 18,
+        "l": {},
+        "t": "17:19*r Isaac*i means he*i laughs.*i",
+        "a": "d"
+    }
+]

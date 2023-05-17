@@ -1,0 +1,410 @@
+[
+    {
+        "o": 25311,
+        "r": "esv:Habakkuk:2:1",
+        "w": 1,
+        "l": {},
+        "c": "Isaiah 21:8*20071",
+        "a": "a"
+    },
+    {
+        "o": 25311,
+        "r": "esv:Habakkuk:2:1",
+        "w": 14,
+        "l": {},
+        "c": "Jeremiah 6:17*21262; Ezekiel 33:2*23648",
+        "a": "b"
+    },
+    {
+        "o": 25311,
+        "r": "esv:Habakkuk:2:1",
+        "w": 18,
+        "l": {},
+        "c": "Psalm 85:8*16923",
+        "a": "c"
+    },
+    {
+        "o": 25313,
+        "r": "esv:Habakkuk:2:2",
+        "w": 4,
+        "l": {},
+        "c": "Isaiah 8:1*19804; Isaiah 30:8*20273; Revelation 1:19*34411",
+        "a": "d"
+    },
+    {
+        "o": 25314,
+        "r": "esv:Habakkuk:2:3",
+        "w": 1,
+        "l": {},
+        "c": "Daniel 10:14*24480; Ezekiel 7:5–7*22884",
+        "a": "e"
+    },
+    {
+        "o": 25314,
+        "r": "esv:Habakkuk:2:3",
+        "w": 20,
+        "l": {},
+        "c": "Zephaniah 3:8*25403; Isaiah 8:17*19821",
+        "a": "f"
+    },
+    {
+        "o": 25314,
+        "r": "esv:Habakkuk:2:3",
+        "w": 23,
+        "l": {},
+        "c": "Hebrews 10:37*33777; 2 Peter 3:9*34189",
+        "a": "g"
+    },
+    {
+        "o": 25315,
+        "r": "esv:Habakkuk:2:4",
+        "w": 12,
+        "l": {},
+        "c": "Romans 1:17*31249; Galatians 3:11*32562; Hebrews 10:38*33778; John 3:36*29255",
+        "a": "h"
+    },
+    {
+        "o": 25315,
+        "r": "esv:Habakkuk:2:4",
+        "w": 19,
+        "l": {},
+        "t": "Or faithfulness*i",
+        "a": "i"
+    },
+    {
+        "o": 25316,
+        "r": "esv:Habakkuk:2:5",
+        "w": 1,
+        "l": {},
+        "t": "Masoretic Text; Dead Sea Scroll wealth*i",
+        "a": "j"
+    },
+    {
+        "o": 25316,
+        "r": "esv:Habakkuk:2:5",
+        "w": 2,
+        "l": {},
+        "c": "Habakkuk 1:13*25305; Isaiah 21:2*20065",
+        "a": "k"
+    },
+    {
+        "o": 25316,
+        "r": "esv:Habakkuk:2:5",
+        "w": 12,
+        "l": {},
+        "t": "The meaning of the Hebrew of these two lines is uncertain",
+        "a": "l"
+    },
+    {
+        "o": 25316,
+        "r": "esv:Habakkuk:2:5",
+        "w": 21,
+        "l": {},
+        "c": "Proverbs 27:20*19069",
+        "a": "m"
+    },
+    {
+        "o": 25316,
+        "r": "esv:Habakkuk:2:5",
+        "w": 25,
+        "l": {},
+        "c": "Jeremiah 27:7*21814; Habakkuk 1:6*25297; Daniel 2:37–38*24217",
+        "a": "n"
+    },
+    {
+        "o": 25318,
+        "r": "esv:Habakkuk:2:6",
+        "w": 3,
+        "l": {},
+        "c": "Micah 2:4*25135; Numbers 23:7*4819",
+        "a": "o"
+    },
+    {
+        "o": 25318,
+        "r": "esv:Habakkuk:2:6",
+        "w": 17,
+        "l": {},
+        "c": "Habakkuk 2:19*25331; Isaiah 5:8*19735",
+        "a": "p"
+    },
+    {
+        "o": 25318,
+        "r": "esv:Habakkuk:2:6",
+        "w": 20,
+        "l": {},
+        "c": "Habakkuk 1:6*25297",
+        "a": "q"
+    },
+    {
+        "o": 25318,
+        "r": "esv:Habakkuk:2:6",
+        "w": 29,
+        "l": {},
+        "c": "Zechariah 1:12*25476",
+        "a": "r"
+    },
+    {
+        "o": 25318,
+        "r": "esv:Habakkuk:2:6",
+        "w": 32,
+        "l": {},
+        "c": "Ezekiel 18:7*23183",
+        "a": "s"
+    },
+    {
+        "o": 25319,
+        "r": "esv:Habakkuk:2:7",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 21:5–9*20068",
+        "a": "t"
+    },
+    {
+        "o": 25320,
+        "r": "esv:Habakkuk:2:8",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 33:1*20336",
+        "a": "u"
+    },
+    {
+        "o": 25320,
+        "r": "esv:Habakkuk:2:8",
+        "w": 14,
+        "l": {},
+        "c": "Habakkuk 2:17*25329",
+        "a": "v"
+    },
+    {
+        "o": 25320,
+        "r": "esv:Habakkuk:2:8",
+        "w": 20,
+        "l": {},
+        "c": "Isaiah 33:1*20336",
+        "a": "w"
+    },
+    {
+        "o": 25321,
+        "r": "esv:Habakkuk:2:9",
+        "w": 0,
+        "l": {},
+        "c": "Habakkuk 2:6*25318",
+        "a": "x"
+    },
+    {
+        "o": 25321,
+        "r": "esv:Habakkuk:2:9",
+        "w": 9,
+        "l": {},
+        "c": "Isaiah 14:13*19953",
+        "a": "y"
+    },
+    {
+        "o": 25321,
+        "r": "esv:Habakkuk:2:9",
+        "w": 10,
+        "l": {},
+        "c": "Jeremiah 49:16*22408; Numbers 24:21*4867",
+        "a": "z"
+    },
+    {
+        "o": 25322,
+        "r": "esv:Habakkuk:2:10",
+        "w": 6,
+        "l": {},
+        "c": "Habakkuk 1:17*25309",
+        "a": "a"
+    },
+    {
+        "o": 25323,
+        "r": "esv:Habakkuk:2:11",
+        "w": 0,
+        "l": {},
+        "c": "Luke 19:40*28816",
+        "a": "b"
+    },
+    {
+        "o": 25324,
+        "r": "esv:Habakkuk:2:12",
+        "w": 0,
+        "l": {},
+        "c": "Habakkuk 2:6*25318",
+        "a": "c"
+    },
+    {
+        "o": 25324,
+        "r": "esv:Habakkuk:2:12",
+        "w": 2,
+        "l": {},
+        "c": "Micah 3:10*25156",
+        "a": "d"
+    },
+    {
+        "o": 25325,
+        "r": "esv:Habakkuk:2:13",
+        "w": 9,
+        "l": {},
+        "c": "Jeremiah 51:58*22542",
+        "a": "e"
+    },
+    {
+        "o": 25326,
+        "r": "esv:Habakkuk:2:14",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 11:9*19898",
+        "a": "f"
+    },
+    {
+        "o": 25326,
+        "r": "esv:Habakkuk:2:14",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 72:19*16623",
+        "a": "g"
+    },
+    {
+        "o": 25327,
+        "r": "esv:Habakkuk:2:15",
+        "w": 0,
+        "l": {},
+        "c": "Habakkuk 2:6*25318",
+        "a": "h"
+    },
+    {
+        "o": 25327,
+        "r": "esv:Habakkuk:2:15",
+        "w": 2,
+        "l": {},
+        "c": "Habakkuk 2:5*25317; Jeremiah 51:7*22491",
+        "a": "i"
+    },
+    {
+        "o": 25327,
+        "r": "esv:Habakkuk:2:15",
+        "w": 20,
+        "l": {},
+        "c": "Lamentations 4:21*22726; Genesis 9:22*248",
+        "a": "j"
+    },
+    {
+        "o": 25328,
+        "r": "esv:Habakkuk:2:16",
+        "w": 4,
+        "l": {},
+        "c": "Nahum 3:5*25274",
+        "a": "k"
+    },
+    {
+        "o": 25328,
+        "r": "esv:Habakkuk:2:16",
+        "w": 9,
+        "l": {},
+        "c": "Jeremiah 25:15*21755; Jeremiah 25:26*21766",
+        "a": "l"
+    },
+    {
+        "o": 25328,
+        "r": "esv:Habakkuk:2:16",
+        "w": 15,
+        "l": {},
+        "c": "Jeremiah 25:15*21755; Jeremiah 25:26*21766",
+        "a": "m"
+    },
+    {
+        "o": 25328,
+        "r": "esv:Habakkuk:2:16",
+        "w": 28,
+        "l": {},
+        "c": "Nahum 3:6*25275",
+        "a": "n"
+    },
+    {
+        "o": 25329,
+        "r": "esv:Habakkuk:2:17",
+        "w": 0,
+        "l": {},
+        "c": "Habakkuk 2:8*25320",
+        "a": "o"
+    },
+    {
+        "o": 25329,
+        "r": "esv:Habakkuk:2:17",
+        "w": 1,
+        "l": {},
+        "c": "Isaiah 14:8*19948; Jeremiah 22:23*21675",
+        "a": "p"
+    },
+    {
+        "o": 25329,
+        "r": "esv:Habakkuk:2:17",
+        "w": 17,
+        "l": {},
+        "c": "Habakkuk 2:8*25320",
+        "a": "q"
+    },
+    {
+        "o": 25330,
+        "r": "esv:Habakkuk:2:18",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 44:10*20630",
+        "a": "r"
+    },
+    {
+        "o": 25330,
+        "r": "esv:Habakkuk:2:18",
+        "w": 13,
+        "l": {},
+        "c": "Jeremiah 10:8*21374; Jeremiah 10:14*21380; Zechariah 10:2*25627",
+        "a": "s"
+    },
+    {
+        "o": 25330,
+        "r": "esv:Habakkuk:2:18",
+        "w": 28,
+        "l": {},
+        "c": "Psalm 115:5*17555; 1 Corinthians 12:2*32022",
+        "a": "t"
+    },
+    {
+        "o": 25331,
+        "r": "esv:Habakkuk:2:19",
+        "w": 0,
+        "l": {},
+        "c": "Habakkuk 2:6*25318; Habakkuk 2:9*25321; Habakkuk 2:12*25324; Habakkuk 2:15*25327",
+        "a": "u"
+    },
+    {
+        "o": 25331,
+        "r": "esv:Habakkuk:2:19",
+        "w": 2,
+        "l": {},
+        "c": "1 Kings 18:26–27*10270",
+        "a": "v"
+    },
+    {
+        "o": 25331,
+        "r": "esv:Habakkuk:2:19",
+        "w": 26,
+        "l": {},
+        "c": "Psalm 135:17*17989; Jeremiah 10:14*21380",
+        "a": "w"
+    },
+    {
+        "o": 25332,
+        "r": "esv:Habakkuk:2:20",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 11:4*15486; Micah 1:2*25115",
+        "a": "x"
+    },
+    {
+        "o": 25332,
+        "r": "esv:Habakkuk:2:20",
+        "w": 7,
+        "l": {},
+        "c": "Zephaniah 1:7*25364; Zechariah 2:13*25501",
+        "a": "y"
+    }
+]

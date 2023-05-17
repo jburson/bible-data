@@ -1,0 +1,26 @@
+[
+    {
+        "o": 32782,
+        "r": "niv:2 Thessalonians:2:3",
+        "w": 22,
+        "l": {},
+        "t": "2:3*r Some manuscripts sin*i",
+        "a": "a"
+    },
+    {
+        "o": 32793,
+        "r": "niv:2 Thessalonians:2:13",
+        "w": 21,
+        "l": {},
+        "t": "2:13*r Some manuscripts because*i from*i the*i beginning*i God*i chose*i you*i",
+        "a": "b"
+    },
+    {
+        "o": 32795,
+        "r": "niv:2 Thessalonians:2:15",
+        "w": 12,
+        "l": {},
+        "t": "2:15*r Or traditions*i",
+        "a": "c"
+    }
+]

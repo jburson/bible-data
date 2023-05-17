@@ -1,0 +1,250 @@
+[
+    {
+        "o": 20362,
+        "r": "esv:Isaiah:34:1",
+        "w": 1,
+        "l": {},
+        "c": "Psalm 49:1*16185; Joel 3:1–2*24836",
+        "a": "a"
+    },
+    {
+        "o": 20363,
+        "r": "esv:Isaiah:34:2",
+        "w": 16,
+        "l": {},
+        "c": "Joshua 6:21*6525",
+        "a": "b"
+    },
+    {
+        "o": 20363,
+        "r": "esv:Isaiah:34:2",
+        "w": 20,
+        "l": {},
+        "t": "That is, set apart ( devoted ) as an offering to the Lord (for destruction); also verse 5",
+        "a": "c"
+    },
+    {
+        "o": 20364,
+        "r": "esv:Isaiah:34:3",
+        "w": 6,
+        "l": {},
+        "c": "Joel 2:20*24820",
+        "a": "d"
+    },
+    {
+        "o": 20364,
+        "r": "esv:Isaiah:34:3",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 39:4*23836",
+        "a": "e"
+    },
+    {
+        "o": 20365,
+        "r": "esv:Isaiah:34:4",
+        "w": 0,
+        "l": {},
+        "c": "Joel 2:31*24832; Joel 3:15*24850; Matthew 24:29*26760; Acts 2:20*30163; Revelation 6:13–14*34516; Psalm 102:26*17236; Hebrews 1:11*33558",
+        "a": "f"
+    },
+    {
+        "o": 20366,
+        "r": "esv:Isaiah:34:5",
+        "w": 15,
+        "l": {},
+        "c": "Isaiah 63:1–6*20999; Jeremiah 49:7–22*22399; Obadiah*25026; Malachi 1:2–4*25712",
+        "a": "g"
+    },
+    {
+        "o": 20366,
+        "r": "esv:Isaiah:34:5",
+        "w": 19,
+        "l": {},
+        "c": "Isaiah 34:2*20363",
+        "a": "h"
+    },
+    {
+        "o": 20367,
+        "r": "esv:Isaiah:34:6",
+        "w": 29,
+        "l": {},
+        "c": "Isaiah 63:1*20999",
+        "a": "i"
+    },
+    {
+        "o": 20368,
+        "r": "esv:Isaiah:34:7",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 23:22*4835",
+        "a": "j"
+    },
+    {
+        "o": 20368,
+        "r": "esv:Isaiah:34:7",
+        "w": 2,
+        "l": {},
+        "c": "Isaiah 47:1*20695",
+        "a": "k"
+    },
+    {
+        "o": 20368,
+        "r": "esv:Isaiah:34:7",
+        "w": 6,
+        "l": {},
+        "c": "Psalm 22:12*15672",
+        "a": "l"
+    },
+    {
+        "o": 20368,
+        "r": "esv:Isaiah:34:7",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 22:12*15672",
+        "a": "m"
+    },
+    {
+        "o": 20369,
+        "r": "esv:Isaiah:34:8",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 61:2*20973; Isaiah 63:4*21002; Psalm 137:7*18030",
+        "a": "n"
+    },
+    {
+        "o": 20370,
+        "r": "esv:Isaiah:34:9",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 29:23*6228",
+        "a": "o"
+    },
+    {
+        "o": 20370,
+        "r": "esv:Isaiah:34:9",
+        "w": 4,
+        "l": {},
+        "t": "Hebrew her*i streams*i",
+        "a": "p"
+    },
+    {
+        "o": 20371,
+        "r": "esv:Isaiah:34:10",
+        "w": 2,
+        "l": {},
+        "c": "Isaiah 66:24*21088",
+        "a": "q"
+    },
+    {
+        "o": 20371,
+        "r": "esv:Isaiah:34:10",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 14:11*34668; Revelation 18:18*34752; Revelation 19:3*34763",
+        "a": "r"
+    },
+    {
+        "o": 20371,
+        "r": "esv:Isaiah:34:10",
+        "w": 13,
+        "l": {},
+        "c": "Malachi 1:4*25714",
+        "a": "s"
+    },
+    {
+        "o": 20372,
+        "r": "esv:Isaiah:34:11",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 14:23*19964; Zephaniah 2:14*25391; Revelation 18:2*34736",
+        "a": "t"
+    },
+    {
+        "o": 20372,
+        "r": "esv:Isaiah:34:11",
+        "w": 5,
+        "l": {},
+        "t": "The identity of the animals rendered hawk*i and porcupine*i is uncertain",
+        "a": "u"
+    },
+    {
+        "o": 20372,
+        "r": "esv:Isaiah:34:11",
+        "w": 17,
+        "l": {},
+        "c": "2 Kings 21:13*11133; Lamentations 2:8*22621; Amos 7:7–9*24980",
+        "a": "v"
+    },
+    {
+        "o": 20372,
+        "r": "esv:Isaiah:34:11",
+        "w": 23,
+        "l": {},
+        "c": "Isaiah 24:10*20139",
+        "a": "w"
+    },
+    {
+        "o": 20372,
+        "r": "esv:Isaiah:34:11",
+        "w": 24,
+        "l": {},
+        "t": "Hebrew formlessness*i",
+        "a": "x"
+    },
+    {
+        "o": 20374,
+        "r": "esv:Isaiah:34:13",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 32:13*20326",
+        "a": "y"
+    },
+    {
+        "o": 20374,
+        "r": "esv:Isaiah:34:13",
+        "w": 17,
+        "l": {},
+        "c": "Isaiah 13:22*19937; Psalm 44:19*16111; Malachi 1:3*25713",
+        "a": "z"
+    },
+    {
+        "o": 20374,
+        "r": "esv:Isaiah:34:13",
+        "w": 22,
+        "l": {},
+        "t": "Or owls*i",
+        "a": "a"
+    },
+    {
+        "o": 20375,
+        "r": "esv:Isaiah:34:14",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 13:21*19936",
+        "a": "b"
+    },
+    {
+        "o": 20375,
+        "r": "esv:Isaiah:34:14",
+        "w": 19,
+        "l": {},
+        "t": "Identity uncertain",
+        "a": "c"
+    },
+    {
+        "o": 20376,
+        "r": "esv:Isaiah:34:15",
+        "w": 16,
+        "l": {},
+        "c": "Deuteronomy 14:13*5778",
+        "a": "d"
+    },
+    {
+        "o": 20378,
+        "r": "esv:Isaiah:34:17",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 78:55*16791",
+        "a": "e"
+    }
+]

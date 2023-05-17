@@ -1,0 +1,50 @@
+[
+    {
+        "o": 31290,
+        "r": "niv:Romans:16:1",
+        "w": 8,
+        "l": {},
+        "t": "16:1*r Or servant*i",
+        "a": "a"
+    },
+    {
+        "o": 31290,
+        "r": "niv:Romans:16:1",
+        "w": 8,
+        "l": {},
+        "t": "16:1*r The word deacon*i refers here to a Christian designated to serve with the overseers/elders of the church in a variety of ways; similarly in Phil. 1:1 and 1 Tim. 3:8,12.",
+        "a": "b"
+    },
+    {
+        "o": 31292,
+        "r": "niv:Romans:16:3",
+        "w": 1,
+        "l": {},
+        "t": "16:3*r Greek Prisca*i , a variant of Priscilla*i",
+        "a": "c"
+    },
+    {
+        "o": 31296,
+        "r": "niv:Romans:16:7",
+        "w": 17,
+        "l": {},
+        "t": "16:7*r Or are*i esteemed*i by*i",
+        "a": "d"
+    },
+    {
+        "o": 31312,
+        "r": "niv:Romans:16:23",
+        "w": 30,
+        "l": {},
+        "t": "16:24*r Some manuscripts include here May*i the*i grace*i of*i our*i Lord*i Jesus*i Christ*i be*i with*i all*i of*i you.*i Amen.*i",
+        "a": "e"
+    },
+    {
+        "o": 31314,
+        "r": "niv:Romans:16:26",
+        "w": 29,
+        "l": {},
+        "t": "16:26*r Or that*i is*i",
+        "a": "f"
+    }
+]

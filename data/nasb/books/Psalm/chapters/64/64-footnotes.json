@@ -1,0 +1,26 @@
+[
+    {
+        "o": 16470,
+        "r": "nasb:Psalm:64:1",
+        "w": 6,
+        "l": {},
+        "t": "Or concern",
+        "a": "a"
+    },
+    {
+        "o": 16475,
+        "r": "nasb:Psalm:64:6",
+        "w": 0,
+        "l": {},
+        "t": "Or search out",
+        "a": "b"
+    },
+    {
+        "o": 16475,
+        "r": "nasb:Psalm:64:6",
+        "w": 21,
+        "l": {},
+        "t": "Or unsearchable",
+        "a": "c"
+    }
+]

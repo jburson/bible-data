@@ -1,0 +1,42 @@
+[
+    {
+        "o": 15382,
+        "r": "nasb:Psalm:2:2",
+        "w": 19,
+        "l": {},
+        "t": "Or Messiah",
+        "a": "a"
+    },
+    {
+        "o": 15384,
+        "r": "nasb:Psalm:2:4",
+        "w": 1,
+        "l": {},
+        "t": "Or is enthroned",
+        "a": "b"
+    },
+    {
+        "o": 15389,
+        "r": "nasb:Psalm:2:9",
+        "w": 1,
+        "l": {},
+        "t": "Another reading is rule",
+        "a": "c"
+    },
+    {
+        "o": 15390,
+        "r": "nasb:Psalm:2:10",
+        "w": 8,
+        "l": {},
+        "t": "Or leaders",
+        "a": "d"
+    },
+    {
+        "o": 15392,
+        "r": "nasb:Psalm:2:12",
+        "w": 19,
+        "l": {},
+        "t": "Or quickly, suddenly, easily",
+        "a": "e"
+    }
+]

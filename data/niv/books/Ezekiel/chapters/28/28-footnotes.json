@@ -1,0 +1,26 @@
+[
+    {
+        "o": 23245,
+        "r": "niv:Ezekiel:28:3",
+        "w": 4,
+        "l": {},
+        "t": "28:3*r Or Danel*i , a man of renown in ancient literature",
+        "a": "a"
+    },
+    {
+        "o": 23255,
+        "r": "niv:Ezekiel:28:13",
+        "w": 25,
+        "l": {},
+        "t": "28:13*r The precise identification of some of these precious stones is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 23255,
+        "r": "niv:Ezekiel:28:13",
+        "w": 29,
+        "l": {},
+        "t": "28:13*r The meaning of the Hebrew for this phrase is uncertain.",
+        "a": "c"
+    }
+]

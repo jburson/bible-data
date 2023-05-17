@@ -1,0 +1,34 @@
+[
+    {
+        "o": 30461,
+        "r": "niv:Acts:19:2",
+        "w": 9,
+        "l": {},
+        "t": "19:2*r Or after*i",
+        "a": "a"
+    },
+    {
+        "o": 30465,
+        "r": "niv:Acts:19:6",
+        "w": 17,
+        "l": {},
+        "t": "19:6*r Or other*i languages*i",
+        "a": "b"
+    },
+    {
+        "o": 30478,
+        "r": "niv:Acts:19:19",
+        "w": 28,
+        "l": {},
+        "t": "19:19*r A drachma was a silver coin worth about a day’s wages.",
+        "a": "c"
+    },
+    {
+        "o": 30480,
+        "r": "niv:Acts:19:21",
+        "w": 6,
+        "l": {},
+        "t": "19:21*r Or decided*i in*i the*i Spirit*i",
+        "a": "d"
+    }
+]

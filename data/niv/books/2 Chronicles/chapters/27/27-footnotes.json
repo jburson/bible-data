@@ -1,0 +1,26 @@
+[
+    {
+        "o": 12878,
+        "r": "niv:2 Chronicles:27:5",
+        "w": 20,
+        "l": {},
+        "t": "27:5*r That is, about 3 3/4 tons or about 3.4 metric tons",
+        "a": "a"
+    },
+    {
+        "o": 12878,
+        "r": "niv:2 Chronicles:27:5",
+        "w": 25,
+        "l": {},
+        "t": "27:5*r That is, probably about 1,800 tons or about 1,600 metric tons of wheat",
+        "a": "b"
+    },
+    {
+        "o": 12878,
+        "r": "niv:2 Chronicles:27:5",
+        "w": 31,
+        "l": {},
+        "t": "27:5*r That is, probably about 1,500 tons or about 1,350 metric tons of barley",
+        "a": "c"
+    }
+]

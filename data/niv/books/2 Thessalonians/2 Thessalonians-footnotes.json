@@ -1,0 +1,58 @@
+[
+    {
+        "o": 32765,
+        "r": "niv:2 Thessalonians:1:1",
+        "w": 1,
+        "l": {},
+        "t": "1:1*r Greek Silvanus*i , a variant of Silas*i",
+        "a": "a"
+    },
+    {
+        "o": 32768,
+        "r": "niv:2 Thessalonians:1:3",
+        "w": 10,
+        "l": {},
+        "t": "1:3*r The Greek word for brothers*i and*i sisters*i (adelphoi) refers here to believers, both men and women, as part of God’s family; also in 2:1, 13, 15; 3:1, 6, 13.",
+        "a": "b"
+    },
+    {
+        "o": 32777,
+        "r": "niv:2 Thessalonians:1:12",
+        "w": 31,
+        "l": {},
+        "t": "1:12*r Or God*i and*i Lord,*i Jesus*i Christ*i",
+        "a": "c"
+    },
+    {
+        "o": 32782,
+        "r": "niv:2 Thessalonians:2:3",
+        "w": 22,
+        "l": {},
+        "t": "2:3*r Some manuscripts sin*i",
+        "a": "a"
+    },
+    {
+        "o": 32793,
+        "r": "niv:2 Thessalonians:2:13",
+        "w": 21,
+        "l": {},
+        "t": "2:13*r Some manuscripts because*i from*i the*i beginning*i God*i chose*i you*i",
+        "a": "b"
+    },
+    {
+        "o": 32795,
+        "r": "niv:2 Thessalonians:2:15",
+        "w": 12,
+        "l": {},
+        "t": "2:15*r Or traditions*i",
+        "a": "c"
+    },
+    {
+        "o": 32806,
+        "r": "niv:2 Thessalonians:3:6",
+        "w": 32,
+        "l": {},
+        "t": "3:6*r Or tradition*i",
+        "a": "a"
+    }
+]

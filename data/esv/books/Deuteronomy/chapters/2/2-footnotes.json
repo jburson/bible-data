@@ -1,0 +1,466 @@
+[
+    {
+        "o": 5382,
+        "r": "esv:Deuteronomy:2:1",
+        "w": 14,
+        "l": {},
+        "c": "Deuteronomy 1:40*5373; Numbers 14:25*4498",
+        "a": "a"
+    },
+    {
+        "o": 5384,
+        "r": "esv:Deuteronomy:2:3",
+        "w": 7,
+        "l": {},
+        "c": "Deuteronomy 1:6*5336",
+        "a": "b"
+    },
+    {
+        "o": 5385,
+        "r": "esv:Deuteronomy:2:4",
+        "w": 12,
+        "l": {},
+        "c": "Deuteronomy 23:7*6015; Amos 1:11*24870; Obadiah 10*25039; Obadiah 12*25041",
+        "a": "c"
+    },
+    {
+        "o": 5385,
+        "r": "esv:Deuteronomy:2:4",
+        "w": 18,
+        "l": {},
+        "c": "Genesis 32:3*1013",
+        "a": "d"
+    },
+    {
+        "o": 5385,
+        "r": "esv:Deuteronomy:2:4",
+        "w": 23,
+        "l": {},
+        "c": "Numbers 20:18–21*4713",
+        "a": "e"
+    },
+    {
+        "o": 5386,
+        "r": "esv:Deuteronomy:2:5",
+        "w": 29,
+        "l": {},
+        "c": "Deuteronomy 2:4*5385",
+        "a": "f"
+    },
+    {
+        "o": 5387,
+        "r": "esv:Deuteronomy:2:6",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 2:28*5410",
+        "a": "g"
+    },
+    {
+        "o": 5388,
+        "r": "esv:Deuteronomy:2:7",
+        "w": 14,
+        "l": {},
+        "c": "Job 23:10*14784",
+        "a": "h"
+    },
+    {
+        "o": 5388,
+        "r": "esv:Deuteronomy:2:7",
+        "w": 22,
+        "l": {},
+        "c": "Deuteronomy 8:2–4*5600",
+        "a": "i"
+    },
+    {
+        "o": 5389,
+        "r": "esv:Deuteronomy:2:8",
+        "w": 0,
+        "l": {},
+        "c": "Judges 11:18*7490",
+        "a": "j"
+    },
+    {
+        "o": 5389,
+        "r": "esv:Deuteronomy:2:8",
+        "w": 17,
+        "l": {},
+        "c": "Deuteronomy 1:1*5331",
+        "a": "k"
+    },
+    {
+        "o": 5389,
+        "r": "esv:Deuteronomy:2:8",
+        "w": 21,
+        "l": {},
+        "c": "1 Kings 9:26*9946; 2 Kings 14:22*10890; 2 Kings 16:6*10951; 2 Chronicles 26:2*12913",
+        "a": "l"
+    },
+    {
+        "o": 5389,
+        "r": "esv:Deuteronomy:2:8",
+        "w": 23,
+        "l": {},
+        "c": "Numbers 33:35*5222",
+        "a": "m"
+    },
+    {
+        "o": 5390,
+        "r": "esv:Deuteronomy:2:9",
+        "w": 5,
+        "l": {},
+        "c": "Deuteronomy 2:19*5400; Deuteronomy 2:29*5411",
+        "a": "n"
+    },
+    {
+        "o": 5390,
+        "r": "esv:Deuteronomy:2:9",
+        "w": 32,
+        "l": {},
+        "c": "Deuteronomy 2:18*5399; Numbers 21:15*4744; Isaiah 15:1*19977",
+        "a": "o"
+    },
+    {
+        "o": 5390,
+        "r": "esv:Deuteronomy:2:9",
+        "w": 34,
+        "l": {},
+        "c": "Deuteronomy 2:19*5400; Genesis 19:36–37*541",
+        "a": "p"
+    },
+    {
+        "o": 5391,
+        "r": "esv:Deuteronomy:2:10",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 14:5*375",
+        "a": "q"
+    },
+    {
+        "o": 5391,
+        "r": "esv:Deuteronomy:2:10",
+        "w": 4,
+        "l": {},
+        "c": "Deuteronomy 2:21*5402",
+        "a": "r"
+    },
+    {
+        "o": 5391,
+        "r": "esv:Deuteronomy:2:10",
+        "w": 11,
+        "l": {},
+        "c": "Numbers 13:22*4457",
+        "a": "s"
+    },
+    {
+        "o": 5392,
+        "r": "esv:Deuteronomy:2:11",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 14:5*375",
+        "a": "t"
+    },
+    {
+        "o": 5393,
+        "r": "esv:Deuteronomy:2:12",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 2:22*5403; Genesis 14:6*376; Genesis 36:20–30*1152",
+        "a": "u"
+    },
+    {
+        "o": 5393,
+        "r": "esv:Deuteronomy:2:12",
+        "w": 24,
+        "l": {},
+        "c": "Numbers 21:24*4754; Numbers 21:31*4762; Numbers 21:35*4766",
+        "a": "v"
+    },
+    {
+        "o": 5394,
+        "r": "esv:Deuteronomy:2:13",
+        "w": 5,
+        "l": {},
+        "c": "Numbers 21:12*4741",
+        "a": "w"
+    },
+    {
+        "o": 5394,
+        "r": "esv:Deuteronomy:2:13",
+        "w": 12,
+        "l": {},
+        "c": "Numbers 21:12*4741",
+        "a": "x"
+    },
+    {
+        "o": 5395,
+        "r": "esv:Deuteronomy:2:14",
+        "w": 5,
+        "l": {},
+        "c": "Deuteronomy 1:2*5332; Deuteronomy 1:19*5351",
+        "a": "y"
+    },
+    {
+        "o": 5395,
+        "r": "esv:Deuteronomy:2:14",
+        "w": 9,
+        "l": {},
+        "c": "Numbers 21:12*4741",
+        "a": "z"
+    },
+    {
+        "o": 5395,
+        "r": "esv:Deuteronomy:2:14",
+        "w": 15,
+        "l": {},
+        "c": "Numbers 14:33*4506; Numbers 14:35*4508; Numbers 26:64*4958; Psalm 78:33*16769; Psalm 95:11*17136; Psalm 106:26*17375; Ezekiel 20:15*23241; 1 Corinthians 10:5*31952; Hebrews 3:17*33602; Deuteronomy 1:35*5368",
+        "a": "a"
+    },
+    {
+        "o": 5400,
+        "r": "esv:Deuteronomy:2:19",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 2:9*5390",
+        "a": "b"
+    },
+    {
+        "o": 5400,
+        "r": "esv:Deuteronomy:2:19",
+        "w": 42,
+        "l": {},
+        "c": "Genesis 19:36*541; Genesis 19:38*543",
+        "a": "c"
+    },
+    {
+        "o": 5401,
+        "r": "esv:Deuteronomy:2:20",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 14:5*375",
+        "a": "d"
+    },
+    {
+        "o": 5402,
+        "r": "esv:Deuteronomy:2:21",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 2:10*5391",
+        "a": "e"
+    },
+    {
+        "o": 5402,
+        "r": "esv:Deuteronomy:2:21",
+        "w": 17,
+        "l": {},
+        "t": "Hebrew them*i",
+        "a": "f"
+    },
+    {
+        "o": 5403,
+        "r": "esv:Deuteronomy:2:22",
+        "w": 14,
+        "l": {},
+        "c": "Genesis 14:6*376; Genesis 36:20–30*1152",
+        "a": "g"
+    },
+    {
+        "o": 5404,
+        "r": "esv:Deuteronomy:2:23",
+        "w": 1,
+        "l": {},
+        "c": "Joshua 13:3–4*6731",
+        "a": "h"
+    },
+    {
+        "o": 5404,
+        "r": "esv:Deuteronomy:2:23",
+        "w": 10,
+        "l": {},
+        "c": "Genesis 10:19*276; Jeremiah 25:20*21760",
+        "a": "i"
+    },
+    {
+        "o": 5404,
+        "r": "esv:Deuteronomy:2:23",
+        "w": 11,
+        "l": {},
+        "c": "Genesis 10:14*271",
+        "a": "j"
+    },
+    {
+        "o": 5405,
+        "r": "esv:Deuteronomy:2:24",
+        "w": 7,
+        "l": {},
+        "c": "Numbers 21:13–14*4742; Judges 11:18*7490; Judges 11:21*7493",
+        "a": "k"
+    },
+    {
+        "o": 5405,
+        "r": "esv:Deuteronomy:2:24",
+        "w": 26,
+        "l": {},
+        "c": "Numbers 21:27–28*4757; Numbers 21:30*4761",
+        "a": "l"
+    },
+    {
+        "o": 5405,
+        "r": "esv:Deuteronomy:2:24",
+        "w": 35,
+        "l": {},
+        "c": "Deuteronomy 2:9*5390",
+        "a": "m"
+    },
+    {
+        "o": 5406,
+        "r": "esv:Deuteronomy:2:25",
+        "w": 6,
+        "l": {},
+        "c": "Deuteronomy 11:25*5702; Deuteronomy 28:10*6144; Exodus 15:14–16*2106; Joshua 2:9–11*6423",
+        "a": "n"
+    },
+    {
+        "o": 5408,
+        "r": "esv:Deuteronomy:2:26",
+        "w": 7,
+        "l": {},
+        "c": "Joshua 13:18*6747; 1 Chronicles 6:79*11569",
+        "a": "o"
+    },
+    {
+        "o": 5408,
+        "r": "esv:Deuteronomy:2:26",
+        "w": 13,
+        "l": {},
+        "c": "Deuteronomy 2:24*5405",
+        "a": "p"
+    },
+    {
+        "o": 5408,
+        "r": "esv:Deuteronomy:2:26",
+        "w": 14,
+        "l": {},
+        "c": "Deuteronomy 20:10*5934",
+        "a": "q"
+    },
+    {
+        "o": 5409,
+        "r": "esv:Deuteronomy:2:27",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 21:21–22*4751; Judges 11:19*7491",
+        "a": "r"
+    },
+    {
+        "o": 5410,
+        "r": "esv:Deuteronomy:2:28",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 2:6*5387; Numbers 20:19*4714",
+        "a": "s"
+    },
+    {
+        "o": 5411,
+        "r": "esv:Deuteronomy:2:29",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 2:5*5386; Deuteronomy 2:9*5390; Deuteronomy 23:3–4*6011; Numbers 20:18*4713; Judges 11:17–18*7489",
+        "a": "t"
+    },
+    {
+        "o": 5412,
+        "r": "esv:Deuteronomy:2:30",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 21:23*4753",
+        "a": "u"
+    },
+    {
+        "o": 5412,
+        "r": "esv:Deuteronomy:2:30",
+        "w": 4,
+        "l": {},
+        "c": "Deuteronomy 2:24*5405",
+        "a": "v"
+    },
+    {
+        "o": 5412,
+        "r": "esv:Deuteronomy:2:30",
+        "w": 17,
+        "l": {},
+        "c": "Exodus 4:21*1760",
+        "a": "w"
+    },
+    {
+        "o": 5414,
+        "r": "esv:Deuteronomy:2:32",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 21:23–30*4753",
+        "a": "x"
+    },
+    {
+        "o": 5415,
+        "r": "esv:Deuteronomy:2:33",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 7:2*5572",
+        "a": "y"
+    },
+    {
+        "o": 5415,
+        "r": "esv:Deuteronomy:2:33",
+        "w": 10,
+        "l": {},
+        "c": "Deuteronomy 29:7*6212",
+        "a": "z"
+    },
+    {
+        "o": 5416,
+        "r": "esv:Deuteronomy:2:34",
+        "w": 12,
+        "l": {},
+        "t": "That is, set apart ( devoted ) as an offering to the Lord (for destruction)",
+        "a": "a"
+    },
+    {
+        "o": 5416,
+        "r": "esv:Deuteronomy:2:34",
+        "w": 13,
+        "l": {},
+        "c": "Deuteronomy 3:6*5427",
+        "a": "b"
+    },
+    {
+        "o": 5418,
+        "r": "esv:Deuteronomy:2:36",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 3:12*5433; Deuteronomy 4:48*5505; Joshua 12:2*6703; Joshua 13:9*6738; Joshua 13:16*6745; 2 Kings 10:33*10784",
+        "a": "c"
+    },
+    {
+        "o": 5418,
+        "r": "esv:Deuteronomy:2:36",
+        "w": 14,
+        "l": {},
+        "c": "Joshua 13:9*6738; Joshua 13:16*6745; 2 Samuel 24:5*9533",
+        "a": "d"
+    },
+    {
+        "o": 5418,
+        "r": "esv:Deuteronomy:2:36",
+        "w": 34,
+        "l": {},
+        "c": "Psalm 44:3*16095",
+        "a": "e"
+    },
+    {
+        "o": 5419,
+        "r": "esv:Deuteronomy:2:37",
+        "w": 22,
+        "l": {},
+        "c": "Deuteronomy 3:16*5437; Genesis 32:22*1033; Numbers 21:24*4754; Joshua 12:2*6703; Judges 11:22*7494",
+        "a": "f"
+    }
+]

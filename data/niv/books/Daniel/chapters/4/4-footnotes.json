@@ -1,0 +1,42 @@
+[
+    {
+        "o": 24016,
+        "r": "niv:Daniel:4:0",
+        "w": 0,
+        "l": {},
+        "t": "4:0*r In Aramaic texts 4:1-3 is numbered 3:31-33, and 4:4-37 is numbered 4:1-34.",
+        "a": "a"
+    },
+    {
+        "o": 23994,
+        "r": "niv:Daniel:4:7",
+        "w": 4,
+        "l": {},
+        "t": "4:7*r Or Chaldeans*i",
+        "a": "b"
+    },
+    {
+        "o": 24000,
+        "r": "niv:Daniel:4:13",
+        "w": 20,
+        "l": {},
+        "t": "4:13*r Or watchman*i ; also in verses 17 and 23",
+        "a": "c"
+    },
+    {
+        "o": 24003,
+        "r": "niv:Daniel:4:16",
+        "w": 22,
+        "l": {},
+        "t": "4:16*r Or years*i ; also in verses 23, 25 and 32",
+        "a": "d"
+    },
+    {
+        "o": 24016,
+        "r": "niv:Daniel:4:0",
+        "w": 0,
+        "l": {},
+        "t": "4:0*r In Aramaic texts 4:1-3 is numbered 3:31-33, and 4:4-37 is numbered 4:1-34.",
+        "a": "e"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "o": 28002,
+        "r": "niv:Luke:10:1",
+        "w": 5,
+        "l": {},
+        "t": "10:1*r Some manuscripts seventy*i ; also in verse 17",
+        "a": "a"
+    },
+    {
+        "o": 28016,
+        "r": "niv:Luke:10:15",
+        "w": 16,
+        "l": {},
+        "t": "10:15*r That is, the realm of the dead",
+        "a": "b"
+    },
+    {
+        "o": 28029,
+        "r": "niv:Luke:10:27",
+        "w": 25,
+        "l": {},
+        "t": "10:27*r Deut. 6:5",
+        "a": "c"
+    },
+    {
+        "o": 28029,
+        "r": "niv:Luke:10:27",
+        "w": 31,
+        "l": {},
+        "t": "10:27*r Lev. 19:18",
+        "a": "d"
+    },
+    {
+        "o": 28037,
+        "r": "niv:Luke:10:35",
+        "w": 7,
+        "l": {},
+        "t": "10:35*r A denarius was the usual daily wage of a day laborer (see Matt. 20:2).",
+        "a": "e"
+    },
+    {
+        "o": 28045,
+        "r": "niv:Luke:10:42",
+        "w": 7,
+        "l": {},
+        "t": "10:42*r Some manuscripts but*i only*i one*i thing*i is*i needed*i",
+        "a": "f"
+    }
+]

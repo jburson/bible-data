@@ -1,0 +1,50 @@
+[
+    {
+        "o": 8321,
+        "r": "niv:1 Samuel:17:4",
+        "w": 21,
+        "l": {},
+        "t": "17:4*r That is, about 9 feet 9 inches or about 3 meters",
+        "a": "a"
+    },
+    {
+        "o": 8322,
+        "r": "niv:1 Samuel:17:5",
+        "w": 20,
+        "l": {},
+        "t": "17:5*r That is, about 125 pounds or about 58 kilograms",
+        "a": "b"
+    },
+    {
+        "o": 8324,
+        "r": "niv:1 Samuel:17:7",
+        "w": 15,
+        "l": {},
+        "t": "17:7*r That is, about 15 pounds or about 6.9 kilograms",
+        "a": "c"
+    },
+    {
+        "o": 8334,
+        "r": "niv:1 Samuel:17:17",
+        "w": 9,
+        "l": {},
+        "t": "17:17*r That is, probably about 36 pounds or about 16 kilograms",
+        "a": "d"
+    },
+    {
+        "o": 8335,
+        "r": "niv:1 Samuel:17:18",
+        "w": 20,
+        "l": {},
+        "t": "17:18*r Or some*i token*i ; or some*i pledge*i of*i spoils*i",
+        "a": "e"
+    },
+    {
+        "o": 8369,
+        "r": "niv:1 Samuel:17:52",
+        "w": 20,
+        "l": {},
+        "t": "17:52*r Some Septuagint manuscripts; Hebrew of*i a*i valley*i",
+        "a": "f"
+    }
+]

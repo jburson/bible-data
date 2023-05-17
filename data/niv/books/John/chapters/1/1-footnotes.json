@@ -1,0 +1,90 @@
+[
+    {
+        "o": 28763,
+        "r": "niv:John:1:5",
+        "w": 11,
+        "l": {},
+        "t": "1:5*r Or understood*i",
+        "a": "a"
+    },
+    {
+        "o": 28776,
+        "r": "niv:John:1:18",
+        "w": 16,
+        "l": {},
+        "t": "1:18*r Some manuscripts but*i the*i only*i Son,*i who*i",
+        "a": "b"
+    },
+    {
+        "o": 28778,
+        "r": "niv:John:1:19",
+        "w": 8,
+        "l": {},
+        "t": "1:19*r The Greek term traditionally translated the*i Jews*i (hoi Ioudaioi) refers here and elsewhere in John’s Gospel to those Jewish leaders who opposed Jesus; also in 5:10, 15,16; 7:1,11,13; 9:22; 18:14,28,36; 19:7,12,31,38; 20:19.",
+        "a": "c"
+    },
+    {
+        "o": 28782,
+        "r": "niv:John:1:23",
+        "w": 25,
+        "l": {},
+        "t": "1:23*r Isaiah 40:3",
+        "a": "d"
+    },
+    {
+        "o": 28785,
+        "r": "niv:John:1:26",
+        "w": 2,
+        "l": {},
+        "t": "1:26*r Or in*i ; also in verses 31 and 33 (twice)",
+        "a": "e"
+    },
+    {
+        "o": 28794,
+        "r": "niv:John:1:34",
+        "w": 11,
+        "l": {},
+        "t": "1:34*r See Isaiah 42:1; many manuscripts is*i the*i Son*i of*i God.*i",
+        "a": "f"
+    },
+    {
+        "o": 28803,
+        "r": "niv:John:1:42",
+        "w": 27,
+        "l": {},
+        "t": "1:42*r Cephas*i (Aramaic) and Peter*i (Greek) both mean rock.*i",
+        "a": "g"
+    },
+    {
+        "o": 28812,
+        "r": "niv:John:1:50",
+        "w": 3,
+        "l": {},
+        "t": "1:50*r Or Do*i you*i believe…?*i",
+        "a": "h"
+    },
+    {
+        "o": 28813,
+        "r": "niv:John:1:51",
+        "w": 7,
+        "l": {},
+        "t": "1:51*r The Greek is plural.",
+        "a": "i"
+    },
+    {
+        "o": 28813,
+        "r": "niv:John:1:51",
+        "w": 8,
+        "l": {},
+        "t": "1:51*r The Greek is plural.",
+        "a": "j"
+    },
+    {
+        "o": 28813,
+        "r": "niv:John:1:51",
+        "w": 21,
+        "l": {},
+        "t": "1:51*r Gen. 28:12",
+        "a": "k"
+    }
+]

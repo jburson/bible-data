@@ -1,0 +1,58 @@
+[
+    {
+        "o": 25567,
+        "r": "niv:Matthew:4:1",
+        "w": 12,
+        "l": {},
+        "t": "4:1*r The Greek for tempted*i can also mean tested.*i",
+        "a": "a"
+    },
+    {
+        "o": 25570,
+        "r": "niv:Matthew:4:4",
+        "w": 22,
+        "l": {},
+        "t": "4:4*r Deut. 8:3",
+        "a": "b"
+    },
+    {
+        "o": 25572,
+        "r": "niv:Matthew:4:6",
+        "w": 42,
+        "l": {},
+        "t": "4:6*r Psalm 91:11,12",
+        "a": "c"
+    },
+    {
+        "o": 25573,
+        "r": "niv:Matthew:4:7",
+        "w": 16,
+        "l": {},
+        "t": "4:7*r Deut. 6:16",
+        "a": "d"
+    },
+    {
+        "o": 25576,
+        "r": "niv:Matthew:4:10",
+        "w": 20,
+        "l": {},
+        "t": "4:10*r Deut. 6:13",
+        "a": "e"
+    },
+    {
+        "o": 25583,
+        "r": "niv:Matthew:4:16",
+        "w": 24,
+        "l": {},
+        "t": "4:16*r Isaiah 9:1,2",
+        "a": "f"
+    },
+    {
+        "o": 25594,
+        "r": "niv:Matthew:4:25",
+        "w": 5,
+        "l": {},
+        "t": "4:25*r That is, the Ten Cities",
+        "a": "g"
+    }
+]

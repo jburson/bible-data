@@ -1,0 +1,90 @@
+[
+    {
+        "o": 11836,
+        "r": "esv:1 Chronicles:14:1",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 14:1–16*11836; 2 Samuel 5:11–25*8920",
+        "a": "a"
+    },
+    {
+        "o": 11839,
+        "r": "esv:1 Chronicles:14:4",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 14:4–7*11839; 1 Chronicles 3:5–8*11393",
+        "a": "b"
+    },
+    {
+        "o": 11839,
+        "r": "esv:1 Chronicles:14:4",
+        "w": 11,
+        "l": {},
+        "c": "1 Chronicles 3:5*11393",
+        "a": "c"
+    },
+    {
+        "o": 11842,
+        "r": "esv:1 Chronicles:14:7",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 3:8*11396",
+        "a": "d"
+    },
+    {
+        "o": 11842,
+        "r": "esv:1 Chronicles:14:7",
+        "w": 2,
+        "l": {},
+        "c": "2 Samuel 5:16*8926",
+        "a": "e"
+    },
+    {
+        "o": 11845,
+        "r": "esv:1 Chronicles:14:9",
+        "w": 5,
+        "l": {},
+        "c": "1 Chronicles 14:13*11849",
+        "a": "f"
+    },
+    {
+        "o": 11845,
+        "r": "esv:1 Chronicles:14:9",
+        "w": 10,
+        "l": {},
+        "c": "1 Chronicles 11:15*11742",
+        "a": "g"
+    },
+    {
+        "o": 11847,
+        "r": "esv:1 Chronicles:14:11",
+        "w": 18,
+        "l": {},
+        "t": "Baal-perazim*i means Lord*i of*i breaking*i through*i",
+        "a": "h"
+    },
+    {
+        "o": 11849,
+        "r": "esv:1 Chronicles:14:13",
+        "w": 4,
+        "l": {},
+        "c": "1 Chronicles 14:9*11845",
+        "a": "i"
+    },
+    {
+        "o": 11850,
+        "r": "esv:1 Chronicles:14:14",
+        "w": 6,
+        "l": {},
+        "c": "1 Chronicles 14:16*11852",
+        "a": "j"
+    },
+    {
+        "o": 11853,
+        "r": "esv:1 Chronicles:14:17",
+        "w": 14,
+        "l": {},
+        "c": "Deuteronomy 2:25*5407",
+        "a": "k"
+    }
+]

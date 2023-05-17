@@ -1,0 +1,42 @@
+[
+    {
+        "o": 26540,
+        "r": "niv:Matthew:26:11",
+        "w": 7,
+        "l": {},
+        "t": "26:11*r See Deut. 15:11.",
+        "a": "a"
+    },
+    {
+        "o": 26559,
+        "r": "niv:Matthew:26:28",
+        "w": 5,
+        "l": {},
+        "t": "26:28*r Some manuscripts the*i new*i",
+        "a": "b"
+    },
+    {
+        "o": 26563,
+        "r": "niv:Matthew:26:31",
+        "w": 33,
+        "l": {},
+        "t": "26:31*r Zech. 13:7",
+        "a": "c"
+    },
+    {
+        "o": 26584,
+        "r": "niv:Matthew:26:50",
+        "w": 7,
+        "l": {},
+        "t": "26:50*r Or “Why*i have*i you*i come,*i friend?”*i",
+        "a": "d"
+    },
+    {
+        "o": 26599,
+        "r": "niv:Matthew:26:64",
+        "w": 38,
+        "l": {},
+        "t": "26:64*r See Psalm 110:1; Daniel 7:13.",
+        "a": "e"
+    }
+]

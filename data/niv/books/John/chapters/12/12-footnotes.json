@@ -1,0 +1,74 @@
+[
+    {
+        "o": 29344,
+        "r": "niv:John:12:3",
+        "w": 5,
+        "l": {},
+        "t": "12:3*r Or about 0.5 liter",
+        "a": "a"
+    },
+    {
+        "o": 29346,
+        "r": "niv:John:12:5",
+        "w": 17,
+        "l": {},
+        "t": "12:5*r Greek three*i hundred*i denarii*i",
+        "a": "b"
+    },
+    {
+        "o": 29349,
+        "r": "niv:John:12:8",
+        "w": 7,
+        "l": {},
+        "t": "12:8*r See Deut. 15:11.",
+        "a": "c"
+    },
+    {
+        "o": 29355,
+        "r": "niv:John:12:13",
+        "w": 11,
+        "l": {},
+        "t": "12:13*r A Hebrew expression meaning “Save!” which became an exclamation of praise",
+        "a": "d"
+    },
+    {
+        "o": 29355,
+        "r": "niv:John:12:13",
+        "w": 22,
+        "l": {},
+        "t": "12:13*r Psalm 118:25,26",
+        "a": "e"
+    },
+    {
+        "o": 29357,
+        "r": "niv:John:12:15",
+        "w": 15,
+        "l": {},
+        "t": "12:15*r Zech. 9:9",
+        "a": "f"
+    },
+    {
+        "o": 29375,
+        "r": "niv:John:12:32",
+        "w": 6,
+        "l": {},
+        "t": "12:32*r The Greek for lifted*i up*i also means exalted.*i",
+        "a": "g"
+    },
+    {
+        "o": 29382,
+        "r": "niv:John:12:38",
+        "w": 26,
+        "l": {},
+        "t": "12:38*r Isaiah 53:1",
+        "a": "h"
+    },
+    {
+        "o": 29384,
+        "r": "niv:John:12:40",
+        "w": 27,
+        "l": {},
+        "t": "12:40*r Isaiah 6:10",
+        "a": "i"
+    }
+]

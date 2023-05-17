@@ -1,0 +1,34 @@
+[
+    {
+        "o": 9983,
+        "r": "niv:1 Kings:12:2",
+        "w": 21,
+        "l": {},
+        "t": "12:2*r Or he*i remained*i in*i",
+        "a": "a"
+    },
+    {
+        "o": 9999,
+        "r": "niv:1 Kings:12:18",
+        "w": 4,
+        "l": {},
+        "t": "12:18*r Some Septuagint manuscripts and Syriac (see also 4:6 and 5:14); Hebrew Adoram*i",
+        "a": "b"
+    },
+    {
+        "o": 10007,
+        "r": "niv:1 Kings:12:25",
+        "w": 21,
+        "l": {},
+        "t": "12:25*r Hebrew Penuel,*i a variant of Peniel*i",
+        "a": "c"
+    },
+    {
+        "o": 10012,
+        "r": "niv:1 Kings:12:30",
+        "w": 24,
+        "l": {},
+        "t": "12:30*r Probable reading of the original Hebrew text; Masoretic Text people*i went*i to*i the*i one*i as*i far*i as*i Dan*i",
+        "a": "d"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "o": 16524,
+        "r": "niv:Psalm:76:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 76:1-12 is numbered 76:2-13.",
+        "a": "a"
+    },
+    {
+        "o": 16527,
+        "r": "niv:Psalm:76:3",
+        "w": 14,
+        "l": {},
+        "t": "76:3*r The Hebrew has Selah*i (a word of uncertain meaning) here and at the end of verse 9.",
+        "a": "b"
+    },
+    {
+        "o": 16534,
+        "r": "niv:Psalm:76:10",
+        "w": 15,
+        "l": {},
+        "t": "76:10*r Or Surely*i the*i wrath*i of*i mankind*i brings*i you*i praise,*i /*i and*i with*i the*i remainder*i of*i wrath*i you*i arm*i yourself*i",
+        "a": "c"
+    }
+]

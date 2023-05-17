@@ -1,0 +1,26 @@
+[
+    {
+        "o": 615,
+        "r": "niv:Genesis:22:13",
+        "w": 11,
+        "l": {},
+        "t": "22:13*r Many manuscripts of the Masoretic Text, Samaritan Pentateuch, Septuagint and Syriac; most manuscripts of the Masoretic Text a*i ram*i behind*i him*i",
+        "a": "a"
+    },
+    {
+        "o": 620,
+        "r": "niv:Genesis:22:18",
+        "w": 3,
+        "l": {},
+        "t": "22:18*r Or seed*i",
+        "a": "b"
+    },
+    {
+        "o": 620,
+        "r": "niv:Genesis:22:18",
+        "w": 10,
+        "l": {},
+        "t": "22:18*r Or and*i all*i nations*i on*i earth*i will*i use*i the*i name*i of*i your*i offspring*i in*i blessings*i (see 48:20)",
+        "a": "c"
+    }
+]

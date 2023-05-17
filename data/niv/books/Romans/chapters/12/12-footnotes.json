@@ -1,0 +1,42 @@
+[
+    {
+        "o": 31192,
+        "r": "niv:Romans:12:6",
+        "w": 23,
+        "l": {},
+        "t": "12:6*r Or the*i",
+        "a": "a"
+    },
+    {
+        "o": 31194,
+        "r": "niv:Romans:12:8",
+        "w": 19,
+        "l": {},
+        "t": "12:8*r Or to*i provide*i for*i others*i",
+        "a": "b"
+    },
+    {
+        "o": 31203,
+        "r": "niv:Romans:12:16",
+        "w": 19,
+        "l": {},
+        "t": "12:16*r Or willing*i to*i do*i menial*i work*i",
+        "a": "c"
+    },
+    {
+        "o": 31206,
+        "r": "niv:Romans:12:19",
+        "w": 24,
+        "l": {},
+        "t": "12:19*r Deut. 32:35",
+        "a": "d"
+    },
+    {
+        "o": 31207,
+        "r": "niv:Romans:12:20",
+        "w": 29,
+        "l": {},
+        "t": "12:20*r Prov. 25:21,22",
+        "a": "e"
+    }
+]

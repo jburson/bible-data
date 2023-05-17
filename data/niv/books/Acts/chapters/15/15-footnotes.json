@@ -1,0 +1,34 @@
+[
+    {
+        "o": 30315,
+        "r": "niv:Acts:15:14",
+        "w": 0,
+        "l": {},
+        "t": "15:14*r Greek Simeon*i , a variant of Simon*i ; that is, Peter",
+        "a": "a"
+    },
+    {
+        "o": 30318,
+        "r": "niv:Acts:15:17",
+        "w": 23,
+        "l": {},
+        "t": "15:17*r Amos 9:11,12 (see Septuagint)",
+        "a": "b"
+    },
+    {
+        "o": 30319,
+        "r": "niv:Acts:15:18",
+        "w": 4,
+        "l": {},
+        "t": "15:17,18*r Some manuscripts things’—*i /*i the*i Lord’s*i work*i is*i known*i to*i him*i from*i long*i ago*i",
+        "a": "c"
+    },
+    {
+        "o": 30335,
+        "r": "niv:Acts:15:33",
+        "w": 24,
+        "l": {},
+        "t": "15:34*r Some manuscripts include here But*i Silas*i decided*i to*i remain*i there.*i",
+        "a": "d"
+    }
+]

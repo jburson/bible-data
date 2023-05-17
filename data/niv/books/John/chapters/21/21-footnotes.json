@@ -1,0 +1,26 @@
+[
+    {
+        "o": 29701,
+        "r": "niv:John:21:1",
+        "w": 11,
+        "l": {},
+        "t": "21:1*r Greek Tiberias*i",
+        "a": "a"
+    },
+    {
+        "o": 29702,
+        "r": "niv:John:21:2",
+        "w": 6,
+        "l": {},
+        "t": "21:2*r Thomas*i (Aramaic) and Didymus*i (Greek) both mean twin.*i",
+        "a": "b"
+    },
+    {
+        "o": 29708,
+        "r": "niv:John:21:8",
+        "w": 23,
+        "l": {},
+        "t": "21:8*r Or about 90 meters",
+        "a": "c"
+    }
+]

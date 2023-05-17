@@ -1,0 +1,42 @@
+[
+    {
+        "o": 13267,
+        "r": "niv:Ezra:4:4",
+        "w": 20,
+        "l": {},
+        "t": "4:4*r Or and*i troubled*i them*i as*i they*i built*i",
+        "a": "a"
+    },
+    {
+        "o": 13270,
+        "r": "niv:Ezra:4:6",
+        "w": 7,
+        "l": {},
+        "t": "4:6*r Hebrew Ahasuerus*i",
+        "a": "b"
+    },
+    {
+        "o": 13271,
+        "r": "niv:Ezra:4:7",
+        "w": 34,
+        "l": {},
+        "t": "4:7*r Or written*i in*i Aramaic*i and*i translated*i",
+        "a": "c"
+    },
+    {
+        "o": 13271,
+        "r": "niv:Ezra:4:7",
+        "w": 34,
+        "l": {},
+        "t": "4:7*r The text of 4:8–6:18 is in Aramaic.",
+        "a": "d"
+    },
+    {
+        "o": 13277,
+        "r": "niv:Ezra:4:13",
+        "w": 31,
+        "l": {},
+        "t": "4:13*r The meaning of the Aramaic for this clause is uncertain.",
+        "a": "e"
+    }
+]

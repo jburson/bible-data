@@ -1,0 +1,474 @@
+[
+    {
+        "o": 18637,
+        "r": "esv:Proverbs:14:1",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 9:1*18496; Proverbs 24:3*18957",
+        "a": "a"
+    },
+    {
+        "o": 18637,
+        "r": "esv:Proverbs:14:1",
+        "w": 3,
+        "l": {},
+        "c": "Deuteronomy 25:9*6071; Ruth 4:11*7878",
+        "a": "b"
+    },
+    {
+        "o": 18637,
+        "r": "esv:Proverbs:14:1",
+        "w": 12,
+        "l": {},
+        "c": "Proverbs 11:11*18560",
+        "a": "c"
+    },
+    {
+        "o": 18638,
+        "r": "esv:Proverbs:14:2",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 19:1*18795; Proverbs 28:6*19083",
+        "a": "d"
+    },
+    {
+        "o": 18638,
+        "r": "esv:Proverbs:14:2",
+        "w": 10,
+        "l": {},
+        "c": "Proverbs 2:15*18289",
+        "a": "e"
+    },
+    {
+        "o": 18639,
+        "r": "esv:Proverbs:14:3",
+        "w": 6,
+        "l": {},
+        "c": "Jeremiah 18:18*21591",
+        "a": "f"
+    },
+    {
+        "o": 18639,
+        "r": "esv:Proverbs:14:3",
+        "w": 11,
+        "l": {},
+        "t": "Or In*i the*i mouth*i of*i a*i fool*i is*i a*i rod*i of*i pride*i",
+        "a": "g"
+    },
+    {
+        "o": 18639,
+        "r": "esv:Proverbs:14:3",
+        "w": 11,
+        "l": {},
+        "c": "Proverbs 12:6*18587",
+        "a": "h"
+    },
+    {
+        "o": 18641,
+        "r": "esv:Proverbs:14:5",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 23:1*2336",
+        "a": "i"
+    },
+    {
+        "o": 18641,
+        "r": "esv:Proverbs:14:5",
+        "w": 6,
+        "l": {},
+        "c": "Proverbs 6:19*18410",
+        "a": "j"
+    },
+    {
+        "o": 18642,
+        "r": "esv:Proverbs:14:6",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 24:7*18961",
+        "a": "k"
+    },
+    {
+        "o": 18642,
+        "r": "esv:Proverbs:14:6",
+        "w": 3,
+        "l": {},
+        "c": "Psalm 25:9*15725; 1 Peter 5:5*34119",
+        "a": "l"
+    },
+    {
+        "o": 18642,
+        "r": "esv:Proverbs:14:6",
+        "w": 6,
+        "l": {},
+        "c": "Proverbs 8:9*18466; Proverbs 15:14*18686; Proverbs 17:24*18764",
+        "a": "m"
+    },
+    {
+        "o": 18645,
+        "r": "esv:Proverbs:14:9",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 10:23*18539",
+        "a": "n"
+    },
+    {
+        "o": 18645,
+        "r": "esv:Proverbs:14:9",
+        "w": 10,
+        "l": {},
+        "t": "Hebrew but*i among*i the*i upright*i is*i acceptance*i",
+        "a": "o"
+    },
+    {
+        "o": 18646,
+        "r": "esv:Proverbs:14:10",
+        "w": 4,
+        "l": {},
+        "c": "1 Samuel 1:10*7903; Job 3:20*14240",
+        "a": "p"
+    },
+    {
+        "o": 18647,
+        "r": "esv:Proverbs:14:11",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 3:33*18332; Proverbs 15:25*18697; Job 8:15*14369; Job 21:28*14734",
+        "a": "q"
+    },
+    {
+        "o": 18648,
+        "r": "esv:Proverbs:14:12",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 16:25*18731; Proverbs 12:15*18596",
+        "a": "r"
+    },
+    {
+        "o": 18648,
+        "r": "esv:Proverbs:14:12",
+        "w": 10,
+        "l": {},
+        "c": "Proverbs 5:5*18370; Romans 6:21*31407; Proverbs 7:27*18455",
+        "a": "s"
+    },
+    {
+        "o": 18648,
+        "r": "esv:Proverbs:14:12",
+        "w": 17,
+        "l": {},
+        "t": "Hebrew ways*i of*i death*i",
+        "a": "t"
+    },
+    {
+        "o": 18649,
+        "r": "esv:Proverbs:14:13",
+        "w": 7,
+        "l": {},
+        "c": "Ecclesiastes 2:2*19227; Luke 6:25*28119",
+        "a": "u"
+    },
+    {
+        "o": 18649,
+        "r": "esv:Proverbs:14:13",
+        "w": 13,
+        "l": {},
+        "c": "Proverbs 10:1*18517",
+        "a": "v"
+    },
+    {
+        "o": 18650,
+        "r": "esv:Proverbs:14:14",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 1:31*18270; Matthew 6:2*25944; Matthew 6:5*25948",
+        "a": "w"
+    },
+    {
+        "o": 18650,
+        "r": "esv:Proverbs:14:14",
+        "w": 13,
+        "l": {},
+        "c": "Proverbs 12:14*18595; Isaiah 3:10*19700",
+        "a": "x"
+    },
+    {
+        "o": 18651,
+        "r": "esv:Proverbs:14:15",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 1:4*18241",
+        "a": "y"
+    },
+    {
+        "o": 18652,
+        "r": "esv:Proverbs:14:16",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 22:3*18890; Proverbs 27:12*19061",
+        "a": "z"
+    },
+    {
+        "o": 18652,
+        "r": "esv:Proverbs:14:16",
+        "w": 5,
+        "l": {},
+        "t": "Or fears*i [the Lord ]",
+        "a": "a"
+    },
+    {
+        "o": 18652,
+        "r": "esv:Proverbs:14:16",
+        "w": 6,
+        "l": {},
+        "c": "Proverbs 3:7*18305; Job 28:28*14896; Psalm 34:14*15893",
+        "a": "b"
+    },
+    {
+        "o": 18653,
+        "r": "esv:Proverbs:14:17",
+        "w": 2,
+        "l": {},
+        "c": "Proverbs 14:29*18665",
+        "a": "c"
+    },
+    {
+        "o": 18655,
+        "r": "esv:Proverbs:14:19",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 42:6*1364; 1 Samuel 2:36*7963",
+        "a": "d"
+    },
+    {
+        "o": 18656,
+        "r": "esv:Proverbs:14:20",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 19:7*18801",
+        "a": "e"
+    },
+    {
+        "o": 18656,
+        "r": "esv:Proverbs:14:20",
+        "w": 7,
+        "l": {},
+        "c": "Proverbs 19:4*18798",
+        "a": "f"
+    },
+    {
+        "o": 18657,
+        "r": "esv:Proverbs:14:21",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 11:12*18561",
+        "a": "g"
+    },
+    {
+        "o": 18657,
+        "r": "esv:Proverbs:14:21",
+        "w": 7,
+        "l": {},
+        "c": "Psalm 41:1*16055",
+        "a": "h"
+    },
+    {
+        "o": 18658,
+        "r": "esv:Proverbs:14:22",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 3:29*18328",
+        "a": "i"
+    },
+    {
+        "o": 18658,
+        "r": "esv:Proverbs:14:22",
+        "w": 12,
+        "l": {},
+        "t": "Or show*i",
+        "a": "j"
+    },
+    {
+        "o": 18658,
+        "r": "esv:Proverbs:14:22",
+        "w": 12,
+        "l": {},
+        "c": "Proverbs 3:3*18301",
+        "a": "k"
+    },
+    {
+        "o": 18659,
+        "r": "esv:Proverbs:14:23",
+        "w": 8,
+        "l": {},
+        "c": "Proverbs 11:24*18573; Proverbs 21:5*18860; Proverbs 22:16*18904",
+        "a": "l"
+    },
+    {
+        "o": 18661,
+        "r": "esv:Proverbs:14:25",
+        "w": 7,
+        "l": {},
+        "c": "Proverbs 14:5*18641",
+        "a": "m"
+    },
+    {
+        "o": 18662,
+        "r": "esv:Proverbs:14:26",
+        "w": 7,
+        "l": {},
+        "c": "Proverbs 1:33*18272",
+        "a": "n"
+    },
+    {
+        "o": 18662,
+        "r": "esv:Proverbs:14:26",
+        "w": 10,
+        "l": {},
+        "c": "Psalm 73:15*16643",
+        "a": "o"
+    },
+    {
+        "o": 18662,
+        "r": "esv:Proverbs:14:26",
+        "w": 14,
+        "l": {},
+        "c": "Psalm 14:6*15518",
+        "a": "p"
+    },
+    {
+        "o": 18663,
+        "r": "esv:Proverbs:14:27",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 10:11*18527",
+        "a": "q"
+    },
+    {
+        "o": 18663,
+        "r": "esv:Proverbs:14:27",
+        "w": 12,
+        "l": {},
+        "c": "Proverbs 13:14*18624",
+        "a": "r"
+    },
+    {
+        "o": 18664,
+        "r": "esv:Proverbs:14:28",
+        "w": 0,
+        "l": {},
+        "c": "1 Kings 4:20*9717",
+        "a": "s"
+    },
+    {
+        "o": 18665,
+        "r": "esv:Proverbs:14:29",
+        "w": 1,
+        "l": {},
+        "c": "Proverbs 16:32*18738; Proverbs 19:11*18805; Proverbs 14:17*18653; Ecclesiastes 7:9*19344; James 1:19*33906",
+        "a": "t"
+    },
+    {
+        "o": 18666,
+        "r": "esv:Proverbs:14:30",
+        "w": 1,
+        "l": {},
+        "t": "Or healing*i",
+        "a": "u"
+    },
+    {
+        "o": 18666,
+        "r": "esv:Proverbs:14:30",
+        "w": 3,
+        "l": {},
+        "c": "Proverbs 4:22*18358",
+        "a": "v"
+    },
+    {
+        "o": 18666,
+        "r": "esv:Proverbs:14:30",
+        "w": 8,
+        "l": {},
+        "c": "Psalm 112:10*17527",
+        "a": "w"
+    },
+    {
+        "o": 18666,
+        "r": "esv:Proverbs:14:30",
+        "w": 9,
+        "l": {},
+        "t": "Or jealousy*i",
+        "a": "x"
+    },
+    {
+        "o": 18666,
+        "r": "esv:Proverbs:14:30",
+        "w": 10,
+        "l": {},
+        "c": "Proverbs 12:4*18585",
+        "a": "y"
+    },
+    {
+        "o": 18667,
+        "r": "esv:Proverbs:14:31",
+        "w": 4,
+        "l": {},
+        "c": "Proverbs 17:5*18745; Matthew 25:40*26828; Matthew 25:45*26833",
+        "a": "z"
+    },
+    {
+        "o": 18667,
+        "r": "esv:Proverbs:14:31",
+        "w": 6,
+        "l": {},
+        "c": "Proverbs 22:2*18889; Job 35:10*15107",
+        "a": "a"
+    },
+    {
+        "o": 18667,
+        "r": "esv:Proverbs:14:31",
+        "w": 7,
+        "l": {},
+        "c": "Proverbs 28:8*19085",
+        "a": "b"
+    },
+    {
+        "o": 18668,
+        "r": "esv:Proverbs:14:32",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 24:16*18970",
+        "a": "c"
+    },
+    {
+        "o": 18668,
+        "r": "esv:Proverbs:14:32",
+        "w": 7,
+        "l": {},
+        "c": "Genesis 49:18*1613; Psalm 16:11*15541; Psalm 17:15*15559; Psalm 23:4*15698; 2 Corinthians 1:9*32214; 2 Corinthians 5:8*32301; 2 Timothy 4:18*33457; Numbers 23:10*4822; Job 19:25–27*14669",
+        "a": "d"
+    },
+    {
+        "o": 18669,
+        "r": "esv:Proverbs:14:33",
+        "w": 0,
+        "l": {},
+        "c": "Ecclesiastes 7:9*19344; Proverbs 12:16*18597; Proverbs 29:11*19117",
+        "a": "e"
+    },
+    {
+        "o": 18669,
+        "r": "esv:Proverbs:14:33",
+        "w": 20,
+        "l": {},
+        "t": "Or Wisdom*i rests*i quietly*i in*i the*i heart*i of*i a*i man*i of*i understanding,*i but*i makes*i itself*i known*i in*i the*i midst*i of*i fools*i",
+        "a": "f"
+    },
+    {
+        "o": 18671,
+        "r": "esv:Proverbs:14:35",
+        "w": 5,
+        "l": {},
+        "c": "Proverbs 16:13*18719; Proverbs 22:11*18898; Matthew 24:45–47*26778",
+        "a": "g"
+    }
+]

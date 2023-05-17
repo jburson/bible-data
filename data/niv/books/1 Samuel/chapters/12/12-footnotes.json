@@ -1,0 +1,26 @@
+[
+    {
+        "o": 8155,
+        "r": "niv:1 Samuel:12:11",
+        "w": 4,
+        "l": {},
+        "t": "12:11*r Also called Gideon*i",
+        "a": "a"
+    },
+    {
+        "o": 8155,
+        "r": "niv:1 Samuel:12:11",
+        "w": 5,
+        "l": {},
+        "t": "12:11*r Some Septuagint manuscripts and Syriac; Hebrew Bedan*i",
+        "a": "b"
+    },
+    {
+        "o": 8155,
+        "r": "niv:1 Samuel:12:11",
+        "w": 8,
+        "l": {},
+        "t": "12:11*r Hebrew; some Septuagint manuscripts and Syriac Samson*i",
+        "a": "c"
+    }
+]

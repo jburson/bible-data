@@ -1,0 +1,34 @@
+[
+    {
+        "o": 6898,
+        "r": "niv:Joshua:19:2",
+        "w": 4,
+        "l": {},
+        "t": "19:2*r Or Beersheba,*i Sheba*i ; 1 Chron. 4:28 does not have Sheba*i .*i",
+        "a": "a"
+    },
+    {
+        "o": 6927,
+        "r": "niv:Joshua:19:28",
+        "w": 3,
+        "l": {},
+        "t": "19:28*r Some Hebrew manuscripts (see also 21:30); most Hebrew manuscripts Ebron*i",
+        "a": "b"
+    },
+    {
+        "o": 6934,
+        "r": "niv:Joshua:19:34",
+        "w": 24,
+        "l": {},
+        "t": "19:34*r Septuagint; Hebrew west,*i and*i Judah,*i the*i Jordan,*i",
+        "a": "c"
+    },
+    {
+        "o": 6952,
+        "r": "niv:Joshua:19:50",
+        "w": 13,
+        "l": {},
+        "t": "19:50*r Also known as Timnath*i Heres*i (see Judges 2:9)",
+        "a": "d"
+    }
+]

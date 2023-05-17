@@ -1,0 +1,386 @@
+[
+    {
+        "o": 32021,
+        "r": "esv:1 Corinthians:12:1",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 14:1*32070",
+        "a": "a"
+    },
+    {
+        "o": 32021,
+        "r": "esv:1 Corinthians:12:1",
+        "w": 1,
+        "l": {},
+        "t": "The expression Now*i concerning*i introduces a reply to a question in the Corinthians’ letter; see 7:1",
+        "a": "b"
+    },
+    {
+        "o": 32021,
+        "r": "esv:1 Corinthians:12:1",
+        "w": 3,
+        "l": {},
+        "t": "Or spiritual*i persons*i",
+        "a": "c"
+    },
+    {
+        "o": 32021,
+        "r": "esv:1 Corinthians:12:1",
+        "w": 4,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i",
+        "a": "d"
+    },
+    {
+        "o": 32022,
+        "r": "esv:1 Corinthians:12:2",
+        "w": 2,
+        "l": {},
+        "c": "Ephesians 2:11–12*32707; 1 Peter 4:3*34095; 1 Corinthians 6:11*31848",
+        "a": "e"
+    },
+    {
+        "o": 32022,
+        "r": "esv:1 Corinthians:12:2",
+        "w": 6,
+        "l": {},
+        "c": "1 Thessalonians 1:9*33084",
+        "a": "f"
+    },
+    {
+        "o": 32022,
+        "r": "esv:1 Corinthians:12:2",
+        "w": 11,
+        "l": {},
+        "c": "Habakkuk 2:18–19*25330; Psalm 115:5*17555; Isaiah 46:7*20686; Jeremiah 10:5*21371",
+        "a": "g"
+    },
+    {
+        "o": 32023,
+        "r": "esv:1 Corinthians:12:3",
+        "w": 6,
+        "l": {},
+        "c": "1 John 4:2–3*34277",
+        "a": "h"
+    },
+    {
+        "o": 32023,
+        "r": "esv:1 Corinthians:12:3",
+        "w": 18,
+        "l": {},
+        "c": "Romans 9:3*31486",
+        "a": "i"
+    },
+    {
+        "o": 32023,
+        "r": "esv:1 Corinthians:12:3",
+        "w": 20,
+        "l": {},
+        "c": "John 15:26*29880; Matthew 16:17*26423; Romans 10:9*31528",
+        "a": "j"
+    },
+    {
+        "o": 32024,
+        "r": "esv:1 Corinthians:12:4",
+        "w": 0,
+        "l": {},
+        "c": "Hebrews 2:4*33568; Romans 12:6*31589",
+        "a": "k"
+    },
+    {
+        "o": 32024,
+        "r": "esv:1 Corinthians:12:4",
+        "w": 6,
+        "l": {},
+        "c": "Ephesians 4:4–6*32748",
+        "a": "l"
+    },
+    {
+        "o": 32025,
+        "r": "esv:1 Corinthians:12:5",
+        "w": 0,
+        "l": {},
+        "c": "Romans 12:7*31590; Ephesians 4:11*32755",
+        "a": "m"
+    },
+    {
+        "o": 32025,
+        "r": "esv:1 Corinthians:12:5",
+        "w": 6,
+        "l": {},
+        "c": "1 Corinthians 12:4*32024",
+        "a": "n"
+    },
+    {
+        "o": 32026,
+        "r": "esv:1 Corinthians:12:6",
+        "w": 8,
+        "l": {},
+        "c": "1 Corinthians 12:4*32024",
+        "a": "o"
+    },
+    {
+        "o": 32027,
+        "r": "esv:1 Corinthians:12:7",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 4:7*32751; 1 Corinthians 14:26*32096; Romans 12:3*31586",
+        "a": "p"
+    },
+    {
+        "o": 32028,
+        "r": "esv:1 Corinthians:12:8",
+        "w": 10,
+        "l": {},
+        "c": "1 Corinthians 2:6–7*31761",
+        "a": "q"
+    },
+    {
+        "o": 32028,
+        "r": "esv:1 Corinthians:12:8",
+        "w": 17,
+        "l": {},
+        "c": "1 Corinthians 1:5*31724",
+        "a": "r"
+    },
+    {
+        "o": 32029,
+        "r": "esv:1 Corinthians:12:9",
+        "w": 1,
+        "l": {},
+        "c": "1 Corinthians 13:2*32056; 2 Corinthians 4:13*32286",
+        "a": "s"
+    },
+    {
+        "o": 32029,
+        "r": "esv:1 Corinthians:12:9",
+        "w": 8,
+        "l": {},
+        "c": "1 Corinthians 12:28*32049; 1 Corinthians 12:30*32051",
+        "a": "t"
+    },
+    {
+        "o": 32030,
+        "r": "esv:1 Corinthians:12:10",
+        "w": 1,
+        "l": {},
+        "c": "1 Corinthians 12:28–29*32049; Galatians 3:5*32555",
+        "a": "u"
+    },
+    {
+        "o": 32030,
+        "r": "esv:1 Corinthians:12:10",
+        "w": 7,
+        "l": {},
+        "c": "1 Corinthians 13:2*32056; 1 Corinthians 13:8*32062; 1 Corinthians 14:1*32070",
+        "a": "v"
+    },
+    {
+        "o": 32030,
+        "r": "esv:1 Corinthians:12:10",
+        "w": 10,
+        "l": {},
+        "c": "1 Corinthians 14:29*32099; 1 John 4:1*34276",
+        "a": "w"
+    },
+    {
+        "o": 32030,
+        "r": "esv:1 Corinthians:12:10",
+        "w": 18,
+        "l": {},
+        "c": "Mark 16:17*27801",
+        "a": "x"
+    },
+    {
+        "o": 32030,
+        "r": "esv:1 Corinthians:12:10",
+        "w": 24,
+        "l": {},
+        "c": "1 Corinthians 12:30*32051; 1 Corinthians 14:26*32096",
+        "a": "y"
+    },
+    {
+        "o": 32031,
+        "r": "esv:1 Corinthians:12:11",
+        "w": 9,
+        "l": {},
+        "c": "2 Corinthians 10:13*32413",
+        "a": "z"
+    },
+    {
+        "o": 32031,
+        "r": "esv:1 Corinthians:12:11",
+        "w": 15,
+        "l": {},
+        "c": "Hebrews 2:4*33568",
+        "a": "a"
+    },
+    {
+        "o": 32033,
+        "r": "esv:1 Corinthians:12:12",
+        "w": 2,
+        "l": {},
+        "c": "1 Corinthians 10:17*31964",
+        "a": "b"
+    },
+    {
+        "o": 32033,
+        "r": "esv:1 Corinthians:12:12",
+        "w": 22,
+        "l": {},
+        "c": "1 Corinthians 12:27*32048",
+        "a": "c"
+    },
+    {
+        "o": 32034,
+        "r": "esv:1 Corinthians:12:13",
+        "w": 0,
+        "l": {},
+        "c": "Romans 6:5*31390; Ephesians 2:18*32714",
+        "a": "d"
+    },
+    {
+        "o": 32034,
+        "r": "esv:1 Corinthians:12:13",
+        "w": 10,
+        "l": {},
+        "c": "Galatians 3:28*32580; Colossians 3:11*33036; Ephesians 2:13–17*32709",
+        "a": "e"
+    },
+    {
+        "o": 32034,
+        "r": "esv:1 Corinthians:12:13",
+        "w": 14,
+        "l": {},
+        "t": "For the contextual rendering of the Greek word doulos*i , see Preface",
+        "a": "f"
+    },
+    {
+        "o": 32034,
+        "r": "esv:1 Corinthians:12:13",
+        "w": 17,
+        "l": {},
+        "c": "John 7:37–39*29481",
+        "a": "g"
+    },
+    {
+        "o": 32039,
+        "r": "esv:1 Corinthians:12:18",
+        "w": 3,
+        "l": {},
+        "c": "1 Corinthians 12:28*32049",
+        "a": "h"
+    },
+    {
+        "o": 32039,
+        "r": "esv:1 Corinthians:12:18",
+        "w": 14,
+        "l": {},
+        "c": "1 Corinthians 12:11*32032; 1 Corinthians 3:5*31778; Romans 12:3*31586",
+        "a": "i"
+    },
+    {
+        "o": 32041,
+        "r": "esv:1 Corinthians:12:20",
+        "w": 6,
+        "l": {},
+        "t": "Or members*i ; also verse 22",
+        "a": "j"
+    },
+    {
+        "o": 32047,
+        "r": "esv:1 Corinthians:12:26",
+        "w": 11,
+        "l": {},
+        "c": "Romans 12:15*31599",
+        "a": "k"
+    },
+    {
+        "o": 32048,
+        "r": "esv:1 Corinthians:12:27",
+        "w": 0,
+        "l": {},
+        "c": "Ephesians 1:23*32693; Ephesians 4:12*32756; Ephesians 5:30*32810; Colossians 1:24*32992",
+        "a": "l"
+    },
+    {
+        "o": 32048,
+        "r": "esv:1 Corinthians:12:27",
+        "w": 8,
+        "l": {},
+        "c": "Romans 12:5*31588",
+        "a": "m"
+    },
+    {
+        "o": 32049,
+        "r": "esv:1 Corinthians:12:28",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 12:18*32039",
+        "a": "n"
+    },
+    {
+        "o": 32049,
+        "r": "esv:1 Corinthians:12:28",
+        "w": 7,
+        "l": {},
+        "c": "Ephesians 4:11*32755",
+        "a": "o"
+    },
+    {
+        "o": 32049,
+        "r": "esv:1 Corinthians:12:28",
+        "w": 9,
+        "l": {},
+        "c": "Ephesians 2:20*32716; Ephesians 3:5*32725",
+        "a": "p"
+    },
+    {
+        "o": 32049,
+        "r": "esv:1 Corinthians:12:28",
+        "w": 13,
+        "l": {},
+        "c": "1 Corinthians 12:10*32030",
+        "a": "q"
+    },
+    {
+        "o": 32049,
+        "r": "esv:1 Corinthians:12:28",
+        "w": 15,
+        "l": {},
+        "c": "1 Corinthians 12:9*32029",
+        "a": "r"
+    },
+    {
+        "o": 32049,
+        "r": "esv:1 Corinthians:12:28",
+        "w": 18,
+        "l": {},
+        "c": "Acts 20:35*30932",
+        "a": "s"
+    },
+    {
+        "o": 32049,
+        "r": "esv:1 Corinthians:12:28",
+        "w": 19,
+        "l": {},
+        "c": "Romans 12:8*31592; 1 Timothy 5:17*33332; Hebrews 13:7*33863; Hebrews 13:17*33873; Hebrews 13:24*33882",
+        "a": "t"
+    },
+    {
+        "o": 32049,
+        "r": "esv:1 Corinthians:12:28",
+        "w": 21,
+        "l": {},
+        "c": "1 Corinthians 12:10*32030",
+        "a": "u"
+    },
+    {
+        "o": 32052,
+        "r": "esv:1 Corinthians:12:31",
+        "w": 0,
+        "l": {},
+        "c": "1 Corinthians 14:1*32070; 1 Corinthians 14:39*32109",
+        "a": "v"
+    }
+]

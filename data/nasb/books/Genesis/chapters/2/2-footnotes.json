@@ -1,0 +1,26 @@
+[
+    {
+        "o": 53,
+        "r": "nasb:Genesis:2:18",
+        "w": 20,
+        "l": {},
+        "t": "Lit corresponding to",
+        "a": "a"
+    },
+    {
+        "o": 55,
+        "r": "nasb:Genesis:2:20",
+        "w": 23,
+        "l": {},
+        "t": "Or man",
+        "a": "b"
+    },
+    {
+        "o": 57,
+        "r": "nasb:Genesis:2:22",
+        "w": 2,
+        "l": {},
+        "t": "Lit built",
+        "a": "c"
+    }
+]

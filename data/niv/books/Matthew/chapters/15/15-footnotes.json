@@ -1,0 +1,34 @@
+[
+    {
+        "o": 26062,
+        "r": "niv:Matthew:15:4",
+        "w": 7,
+        "l": {},
+        "t": "15:4*r Exodus 20:12; Deut. 5:16",
+        "a": "a"
+    },
+    {
+        "o": 26062,
+        "r": "niv:Matthew:15:4",
+        "w": 21,
+        "l": {},
+        "t": "15:4*r Exodus 21:17; Lev. 20:9",
+        "a": "b"
+    },
+    {
+        "o": 26067,
+        "r": "niv:Matthew:15:9",
+        "w": 10,
+        "l": {},
+        "t": "15:9*r Isaiah 29:13",
+        "a": "c"
+    },
+    {
+        "o": 26072,
+        "r": "niv:Matthew:15:14",
+        "w": 5,
+        "l": {},
+        "t": "15:14*r Some manuscripts blind*i guides*i of*i the*i blind*i",
+        "a": "d"
+    }
+]

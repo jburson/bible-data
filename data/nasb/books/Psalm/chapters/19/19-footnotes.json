@@ -1,0 +1,26 @@
+[
+    {
+        "o": 15657,
+        "r": "nasb:Psalm:19:4",
+        "w": 0,
+        "l": {},
+        "t": "Another reading is sound",
+        "a": "a"
+    },
+    {
+        "o": 15660,
+        "r": "nasb:Psalm:19:7",
+        "w": 5,
+        "l": {},
+        "t": "I.e. blameless",
+        "a": "b"
+    },
+    {
+        "o": 15666,
+        "r": "nasb:Psalm:19:13",
+        "w": 17,
+        "l": {},
+        "t": "Lit complete",
+        "a": "c"
+    }
+]

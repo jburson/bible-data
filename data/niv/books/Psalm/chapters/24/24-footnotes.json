@@ -1,0 +1,26 @@
+[
+    {
+        "o": 15583,
+        "r": "niv:Psalm:24:4",
+        "w": 22,
+        "l": {},
+        "t": "24:4*r Or swear*i falsely*i",
+        "a": "a"
+    },
+    {
+        "o": 15585,
+        "r": "niv:Psalm:24:6",
+        "w": 15,
+        "l": {},
+        "t": "24:6*r Two Hebrew manuscripts and Syriac (see also Septuagint); most Hebrew manuscripts face,*i Jacob*i",
+        "a": "b"
+    },
+    {
+        "o": 15585,
+        "r": "niv:Psalm:24:6",
+        "w": 15,
+        "l": {},
+        "t": "24:6*r The Hebrew has Selah*i (a word of uncertain meaning) here and at the end of verse 10.",
+        "a": "c"
+    }
+]

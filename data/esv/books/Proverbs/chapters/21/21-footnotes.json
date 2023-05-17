@@ -1,0 +1,378 @@
+[
+    {
+        "o": 18856,
+        "r": "esv:Proverbs:21:1",
+        "w": 14,
+        "l": {},
+        "c": "Ezra 6:22*13405",
+        "a": "a"
+    },
+    {
+        "o": 18857,
+        "r": "esv:Proverbs:21:2",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 16:2*18708; Proverbs 12:15*18596",
+        "a": "b"
+    },
+    {
+        "o": 18857,
+        "r": "esv:Proverbs:21:2",
+        "w": 13,
+        "l": {},
+        "c": "Proverbs 24:12*18966; Luke 16:15*28661; 1 Corinthians 4:4*31802; 1 Samuel 16:7*8325",
+        "a": "c"
+    },
+    {
+        "o": 18858,
+        "r": "esv:Proverbs:21:3",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 15:8*18680; 1 Samuel 15:22*8303",
+        "a": "d"
+    },
+    {
+        "o": 18859,
+        "r": "esv:Proverbs:21:4",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 6:17*18407; Psalm 101:5*17204",
+        "a": "e"
+    },
+    {
+        "o": 18859,
+        "r": "esv:Proverbs:21:4",
+        "w": 5,
+        "l": {},
+        "c": "1 Kings 11:36*10019",
+        "a": "f"
+    },
+    {
+        "o": 18859,
+        "r": "esv:Proverbs:21:4",
+        "w": 7,
+        "l": {},
+        "t": "Or the*i plowing*i",
+        "a": "g"
+    },
+    {
+        "o": 18860,
+        "r": "esv:Proverbs:21:5",
+        "w": 2,
+        "l": {},
+        "c": "Proverbs 10:4*18520",
+        "a": "h"
+    },
+    {
+        "o": 18860,
+        "r": "esv:Proverbs:21:5",
+        "w": 12,
+        "l": {},
+        "c": "Proverbs 19:2*18796",
+        "a": "i"
+    },
+    {
+        "o": 18860,
+        "r": "esv:Proverbs:21:5",
+        "w": 14,
+        "l": {},
+        "c": "Proverbs 11:24*18573; Proverbs 14:23*18659; Proverbs 22:16*18904",
+        "a": "j"
+    },
+    {
+        "o": 18861,
+        "r": "esv:Proverbs:21:6",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 20:21*18845; Proverbs 10:2*18518",
+        "a": "k"
+    },
+    {
+        "o": 18861,
+        "r": "esv:Proverbs:21:6",
+        "w": 9,
+        "l": {},
+        "c": "Proverbs 13:11*18621",
+        "a": "l"
+    },
+    {
+        "o": 18861,
+        "r": "esv:Proverbs:21:6",
+        "w": 10,
+        "l": {},
+        "c": "Job 13:25*14513",
+        "a": "m"
+    },
+    {
+        "o": 18861,
+        "r": "esv:Proverbs:21:6",
+        "w": 13,
+        "l": {},
+        "c": "Proverbs 8:36*18493",
+        "a": "n"
+    },
+    {
+        "o": 18861,
+        "r": "esv:Proverbs:21:6",
+        "w": 16,
+        "l": {},
+        "t": "Some Hebrew manuscripts, Septuagint, Latin; most Hebrew manuscripts vapor*i for*i those*i who*i seek*i death*i",
+        "a": "o"
+    },
+    {
+        "o": 18862,
+        "r": "esv:Proverbs:21:7",
+        "w": 5,
+        "l": {},
+        "c": "Jeremiah 30:23*21908",
+        "a": "p"
+    },
+    {
+        "o": 18863,
+        "r": "esv:Proverbs:21:8",
+        "w": 4,
+        "l": {},
+        "c": "Proverbs 2:15*18289",
+        "a": "q"
+    },
+    {
+        "o": 18864,
+        "r": "esv:Proverbs:21:9",
+        "w": 1,
+        "l": {},
+        "c": "Proverbs 25:24*19015; Proverbs 21:19*18874; Proverbs 19:13*18807; Proverbs 27:15*19064",
+        "a": "r"
+    },
+    {
+        "o": 18866,
+        "r": "esv:Proverbs:21:11",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 19:25*18819; Psalm 1:1*15335",
+        "a": "s"
+    },
+    {
+        "o": 18867,
+        "r": "esv:Proverbs:21:12",
+        "w": 2,
+        "l": {},
+        "c": "Psalm 37:35–36*15985",
+        "a": "t"
+    },
+    {
+        "o": 18868,
+        "r": "esv:Proverbs:21:13",
+        "w": 0,
+        "l": {},
+        "c": "James 2:13*33930; Matthew 18:30–34*26502",
+        "a": "u"
+    },
+    {
+        "o": 18869,
+        "r": "esv:Proverbs:21:14",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 17:8*18748; Proverbs 18:16*18785",
+        "a": "v"
+    },
+    {
+        "o": 18869,
+        "r": "esv:Proverbs:21:14",
+        "w": 9,
+        "l": {},
+        "t": "Hebrew a*i bribe*i in*i the*i bosom*i",
+        "a": "w"
+    },
+    {
+        "o": 18870,
+        "r": "esv:Proverbs:21:15",
+        "w": 10,
+        "l": {},
+        "c": "Proverbs 10:29*18545",
+        "a": "x"
+    },
+    {
+        "o": 18871,
+        "r": "esv:Proverbs:21:16",
+        "w": 8,
+        "l": {},
+        "c": "Psalm 49:14*16198",
+        "a": "y"
+    },
+    {
+        "o": 18873,
+        "r": "esv:Proverbs:21:18",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 11:8*18557",
+        "a": "z"
+    },
+    {
+        "o": 18873,
+        "r": "esv:Proverbs:21:18",
+        "w": 3,
+        "l": {},
+        "c": "Isaiah 43:3*20591",
+        "a": "a"
+    },
+    {
+        "o": 18874,
+        "r": "esv:Proverbs:21:19",
+        "w": 1,
+        "l": {},
+        "c": "Proverbs 21:9*18864",
+        "a": "b"
+    },
+    {
+        "o": 18875,
+        "r": "esv:Proverbs:21:20",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 112:3*17520",
+        "a": "c"
+    },
+    {
+        "o": 18875,
+        "r": "esv:Proverbs:21:20",
+        "w": 13,
+        "l": {},
+        "c": "Job 20:15*14690; Job 20:18*14693",
+        "a": "d"
+    },
+    {
+        "o": 18876,
+        "r": "esv:Proverbs:21:21",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 15:9*18681; Matthew 5:6*25890; Proverbs 3:3*18301",
+        "a": "e"
+    },
+    {
+        "o": 18876,
+        "r": "esv:Proverbs:21:21",
+        "w": 6,
+        "l": {},
+        "c": "Proverbs 3:16*18315; 1 Kings 3:11*9676; Matthew 6:33*25979; Proverbs 4:22*18358",
+        "a": "f"
+    },
+    {
+        "o": 18877,
+        "r": "esv:Proverbs:21:22",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 24:5*18959; Ecclesiastes 7:19*19354; 2 Samuel 5:6–9*8915; Ecclesiastes 9:14–18*19403",
+        "a": "g"
+    },
+    {
+        "o": 18878,
+        "r": "esv:Proverbs:21:23",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 13:3*18613",
+        "a": "h"
+    },
+    {
+        "o": 18878,
+        "r": "esv:Proverbs:21:23",
+        "w": 6,
+        "l": {},
+        "c": "Proverbs 22:5*18892",
+        "a": "i"
+    },
+    {
+        "o": 18878,
+        "r": "esv:Proverbs:21:23",
+        "w": 10,
+        "l": {},
+        "c": "Proverbs 12:13*18594",
+        "a": "j"
+    },
+    {
+        "o": 18879,
+        "r": "esv:Proverbs:21:24",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 1:22*18261; Psalm 1:1*15335",
+        "a": "k"
+    },
+    {
+        "o": 18880,
+        "r": "esv:Proverbs:21:25",
+        "w": 2,
+        "l": {},
+        "c": "Proverbs 13:4*18614",
+        "a": "l"
+    },
+    {
+        "o": 18881,
+        "r": "esv:Proverbs:21:26",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 37:26*15976",
+        "a": "m"
+    },
+    {
+        "o": 18882,
+        "r": "esv:Proverbs:21:27",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 66:3*21065; Proverbs 15:8*18680",
+        "a": "n"
+    },
+    {
+        "o": 18882,
+        "r": "esv:Proverbs:21:27",
+        "w": 10,
+        "l": {},
+        "c": "Proverbs 24:9*18963",
+        "a": "o"
+    },
+    {
+        "o": 18883,
+        "r": "esv:Proverbs:21:28",
+        "w": 0,
+        "l": {},
+        "c": "Proverbs 19:5*18799; Proverbs 19:9*18803",
+        "a": "p"
+    },
+    {
+        "o": 18884,
+        "r": "esv:Proverbs:21:29",
+        "w": 10,
+        "l": {},
+        "c": "Psalm 119:5*17632",
+        "a": "q"
+    },
+    {
+        "o": 18884,
+        "r": "esv:Proverbs:21:29",
+        "w": 13,
+        "l": {},
+        "t": "Or establishes*i",
+        "a": "r"
+    },
+    {
+        "o": 18885,
+        "r": "esv:Proverbs:21:30",
+        "w": 0,
+        "l": {},
+        "c": "Isaiah 8:9–10*19812; 1 Corinthians 3:19–20*31792; Proverbs 19:21*18815",
+        "a": "s"
+    },
+    {
+        "o": 18886,
+        "r": "esv:Proverbs:21:31",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 20:7*15639; Psalm 33:17*15871; Isaiah 31:1*20302",
+        "a": "t"
+    },
+    {
+        "o": 18886,
+        "r": "esv:Proverbs:21:31",
+        "w": 10,
+        "l": {},
+        "c": "Jeremiah 3:23*21173",
+        "a": "u"
+    }
+]

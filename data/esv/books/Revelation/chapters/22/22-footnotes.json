@@ -1,0 +1,442 @@
+[
+    {
+        "o": 34835,
+        "r": "esv:Revelation:22:1",
+        "w": 2,
+        "l": {},
+        "t": "Greek he*i",
+        "a": "a"
+    },
+    {
+        "o": 34835,
+        "r": "esv:Revelation:22:1",
+        "w": 4,
+        "l": {},
+        "c": "Ezekiel 47:1*24092; Zechariah 14:8*25695; Psalm 46:4*16145",
+        "a": "b"
+    },
+    {
+        "o": 34835,
+        "r": "esv:Revelation:22:1",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 21:6*34810",
+        "a": "c"
+    },
+    {
+        "o": 34836,
+        "r": "esv:Revelation:22:2",
+        "w": 3,
+        "l": {},
+        "c": "Revelation 21:21*34826",
+        "a": "d"
+    },
+    {
+        "o": 34836,
+        "r": "esv:Revelation:22:2",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 47:12*24104",
+        "a": "e"
+    },
+    {
+        "o": 34836,
+        "r": "esv:Revelation:22:2",
+        "w": 15,
+        "l": {},
+        "c": "Revelation 22:14*34849; Revelation 22:19*34854; Revelation 2:7*34422; Genesis 2:9*45",
+        "a": "f"
+    },
+    {
+        "o": 34836,
+        "r": "esv:Revelation:22:2",
+        "w": 19,
+        "l": {},
+        "t": "Or the*i Lamb.*i In*i the*i midst*i of*i the*i street*i of*i the*i city,*i and*i on*i either*i side*i of*i the*i river,*i was*i the*i tree*i of*i life*i",
+        "a": "g"
+    },
+    {
+        "o": 34836,
+        "r": "esv:Revelation:22:2",
+        "w": 36,
+        "l": {},
+        "c": "Revelation 21:24*34829",
+        "a": "h"
+    },
+    {
+        "o": 34837,
+        "r": "esv:Revelation:22:3",
+        "w": 0,
+        "l": {},
+        "c": "Zechariah 14:11*25698; Genesis 3:17*80",
+        "a": "i"
+    },
+    {
+        "o": 34837,
+        "r": "esv:Revelation:22:3",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 21:3*34807; Revelation 21:23*34828; Ezekiel 48:35*24152",
+        "a": "j"
+    },
+    {
+        "o": 34837,
+        "r": "esv:Revelation:22:3",
+        "w": 20,
+        "l": {},
+        "c": "Revelation 7:15*34538",
+        "a": "k"
+    },
+    {
+        "o": 34838,
+        "r": "esv:Revelation:22:4",
+        "w": 0,
+        "l": {},
+        "c": "Matthew 5:8*25892; 1 Corinthians 13:12*32066; 1 John 3:2*34250",
+        "a": "l"
+    },
+    {
+        "o": 34838,
+        "r": "esv:Revelation:22:4",
+        "w": 5,
+        "l": {},
+        "c": "Revelation 3:12*34461; Revelation 7:3*34525; Revelation 14:1*34657",
+        "a": "m"
+    },
+    {
+        "o": 34839,
+        "r": "esv:Revelation:22:5",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 21:25*34830",
+        "a": "n"
+    },
+    {
+        "o": 34839,
+        "r": "esv:Revelation:22:5",
+        "w": 12,
+        "l": {},
+        "c": "Revelation 21:23*34828",
+        "a": "o"
+    },
+    {
+        "o": 34839,
+        "r": "esv:Revelation:22:5",
+        "w": 15,
+        "l": {},
+        "c": "Psalm 36:9*15944; Revelation 21:11*34816",
+        "a": "p"
+    },
+    {
+        "o": 34839,
+        "r": "esv:Revelation:22:5",
+        "w": 23,
+        "l": {},
+        "c": "Daniel 7:18*24393; Daniel 7:27*24402; Romans 5:17*31379; 2 Timothy 2:12*33400; Revelation 20:4*34789",
+        "a": "q"
+    },
+    {
+        "o": 34841,
+        "r": "esv:Revelation:22:6",
+        "w": 4,
+        "l": {},
+        "c": "Revelation 21:5*34809",
+        "a": "r"
+    },
+    {
+        "o": 34841,
+        "r": "esv:Revelation:22:6",
+        "w": 16,
+        "l": {},
+        "c": "1 Corinthians 14:32*32102",
+        "a": "s"
+    },
+    {
+        "o": 34841,
+        "r": "esv:Revelation:22:6",
+        "w": 21,
+        "l": {},
+        "c": "Revelation 1:1*34391",
+        "a": "t"
+    },
+    {
+        "o": 34842,
+        "r": "esv:Revelation:22:7",
+        "w": 1,
+        "l": {},
+        "c": "Revelation 22:12*34847; Revelation 22:20*34855; Revelation 3:11*34460",
+        "a": "u"
+    },
+    {
+        "o": 34842,
+        "r": "esv:Revelation:22:7",
+        "w": 5,
+        "l": {},
+        "c": "Revelation 1:3*34394",
+        "a": "v"
+    },
+    {
+        "o": 34843,
+        "r": "esv:Revelation:22:8",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 1:1*34391; Revelation 1:4*34395; Revelation 1:9*34401",
+        "a": "w"
+    },
+    {
+        "o": 34843,
+        "r": "esv:Revelation:22:8",
+        "w": 17,
+        "l": {},
+        "c": "Revelation 19:10*34772",
+        "a": "x"
+    },
+    {
+        "o": 34844,
+        "r": "esv:Revelation:22:9",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 22:8*34843",
+        "a": "y"
+    },
+    {
+        "o": 34844,
+        "r": "esv:Revelation:22:9",
+        "w": 24,
+        "l": {},
+        "c": "Revelation 22:6*34841",
+        "a": "z"
+    },
+    {
+        "o": 34845,
+        "r": "esv:Revelation:22:10",
+        "w": 4,
+        "l": {},
+        "c": "Revelation 10:4*34584",
+        "a": "a"
+    },
+    {
+        "o": 34846,
+        "r": "esv:Revelation:22:11",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 3:27*22823; Daniel 12:10*24546; 2 Timothy 3:13*33431",
+        "a": "b"
+    },
+    {
+        "o": 34847,
+        "r": "esv:Revelation:22:12",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 22:7*34842; Revelation 22:20*34855",
+        "a": "c"
+    },
+    {
+        "o": 34847,
+        "r": "esv:Revelation:22:12",
+        "w": 4,
+        "l": {},
+        "c": "Isaiah 40:10*20504; Isaiah 62:11*20995",
+        "a": "d"
+    },
+    {
+        "o": 34847,
+        "r": "esv:Revelation:22:12",
+        "w": 9,
+        "l": {},
+        "c": "Matthew 16:27*26435",
+        "a": "e"
+    },
+    {
+        "o": 34848,
+        "r": "esv:Revelation:22:13",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 1:8*34400",
+        "a": "f"
+    },
+    {
+        "o": 34848,
+        "r": "esv:Revelation:22:13",
+        "w": 6,
+        "l": {},
+        "c": "Revelation 1:17*34409",
+        "a": "g"
+    },
+    {
+        "o": 34848,
+        "r": "esv:Revelation:22:13",
+        "w": 11,
+        "l": {},
+        "c": "Revelation 21:6*34810",
+        "a": "h"
+    },
+    {
+        "o": 34849,
+        "r": "esv:Revelation:22:14",
+        "w": 3,
+        "l": {},
+        "c": "Revelation 7:14*34537",
+        "a": "i"
+    },
+    {
+        "o": 34849,
+        "r": "esv:Revelation:22:14",
+        "w": 6,
+        "l": {},
+        "t": "Some manuscripts do*i his*i commandments*i",
+        "a": "j"
+    },
+    {
+        "o": 34849,
+        "r": "esv:Revelation:22:14",
+        "w": 14,
+        "l": {},
+        "c": "Revelation 22:2*34836; Revelation 22:19*34854",
+        "a": "k"
+    },
+    {
+        "o": 34849,
+        "r": "esv:Revelation:22:14",
+        "w": 20,
+        "l": {},
+        "c": "Psalm 118:20*17615; Revelation 21:27*34832",
+        "a": "l"
+    },
+    {
+        "o": 34850,
+        "r": "esv:Revelation:22:15",
+        "w": 0,
+        "l": {},
+        "c": "Galatians 5:19–21*32638; Matthew 8:12*26032",
+        "a": "m"
+    },
+    {
+        "o": 34850,
+        "r": "esv:Revelation:22:15",
+        "w": 1,
+        "l": {},
+        "c": "Philippians 3:2*32916",
+        "a": "n"
+    },
+    {
+        "o": 34850,
+        "r": "esv:Revelation:22:15",
+        "w": 3,
+        "l": {},
+        "c": "Revelation 21:8*34813",
+        "a": "o"
+    },
+    {
+        "o": 34851,
+        "r": "esv:Revelation:22:16",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 1:1*34391",
+        "a": "p"
+    },
+    {
+        "o": 34851,
+        "r": "esv:Revelation:22:16",
+        "w": 12,
+        "l": {},
+        "c": "Revelation 1:4*34395",
+        "a": "q"
+    },
+    {
+        "o": 34851,
+        "r": "esv:Revelation:22:16",
+        "w": 17,
+        "l": {},
+        "c": "Revelation 5:5*34492",
+        "a": "r"
+    },
+    {
+        "o": 34851,
+        "r": "esv:Revelation:22:16",
+        "w": 20,
+        "l": {},
+        "c": "Matthew 1:1*25778",
+        "a": "s"
+    },
+    {
+        "o": 34851,
+        "r": "esv:Revelation:22:16",
+        "w": 24,
+        "l": {},
+        "c": "Revelation 2:28*34445; Numbers 24:17*4863; Isaiah 60:3*20950; Matthew 2:2*25807",
+        "a": "t"
+    },
+    {
+        "o": 34852,
+        "r": "esv:Revelation:22:17",
+        "w": 2,
+        "l": {},
+        "c": "Revelation 21:2*34806; Revelation 21:9*34814",
+        "a": "u"
+    },
+    {
+        "o": 34852,
+        "r": "esv:Revelation:22:17",
+        "w": 15,
+        "l": {},
+        "c": "Revelation 21:6*34810; Isaiah 55:1*20854; John 7:37*29481",
+        "a": "v"
+    },
+    {
+        "o": 34852,
+        "r": "esv:Revelation:22:17",
+        "w": 29,
+        "l": {},
+        "c": "Revelation 21:6*34810",
+        "a": "w"
+    },
+    {
+        "o": 34853,
+        "r": "esv:Revelation:22:18",
+        "w": 12,
+        "l": {},
+        "c": "Deuteronomy 4:2*5455; Deuteronomy 12:32*5744; Proverbs 30:6*19141",
+        "a": "x"
+    },
+    {
+        "o": 34854,
+        "r": "esv:Revelation:22:19",
+        "w": 20,
+        "l": {},
+        "c": "Revelation 22:2*34836; Revelation 22:14*34849",
+        "a": "y"
+    },
+    {
+        "o": 34854,
+        "r": "esv:Revelation:22:19",
+        "w": 26,
+        "l": {},
+        "c": "Revelation 21:2*34806",
+        "a": "z"
+    },
+    {
+        "o": 34855,
+        "r": "esv:Revelation:22:20",
+        "w": 7,
+        "l": {},
+        "c": "Revelation 22:7*34842; Revelation 22:12*34847",
+        "a": "a"
+    },
+    {
+        "o": 34855,
+        "r": "esv:Revelation:22:20",
+        "w": 12,
+        "l": {},
+        "c": "2 Timothy 4:8*33446",
+        "a": "b"
+    },
+    {
+        "o": 34856,
+        "r": "esv:Revelation:22:21",
+        "w": 8,
+        "l": {},
+        "t": "Some manuscripts all*i the*i saints*i",
+        "a": "c"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "o": 8104,
+        "r": "csb:1 Samuel:5:1",
+        "w": 13,
+        "l": {},
+        "c": "1Sm 4:1*8079; 7:12*8152",
+        "a": "a"
+    },
+    {
+        "o": 8104,
+        "r": "csb:1 Samuel:5:1",
+        "w": 15,
+        "l": {},
+        "c": "Jos 13:3*6805",
+        "a": "b"
+    },
+    {
+        "o": 8105,
+        "r": "csb:1 Samuel:5:2",
+        "w": 6,
+        "l": {},
+        "t": "5:2*r A Philistine god of the sea, grain, or storm",
+        "a": "c"
+    },
+    {
+        "o": 8105,
+        "r": "csb:1 Samuel:5:2",
+        "w": 6,
+        "l": {},
+        "c": "Jdg 16:23–24*7722; 1Ch 10:8–10*11826",
+        "a": "d"
+    },
+    {
+        "o": 8105,
+        "r": "csb:1 Samuel:5:2",
+        "w": 13,
+        "l": {},
+        "t": "5:2*r Lit to Dagon",
+        "a": "e"
+    },
+    {
+        "o": 8106,
+        "r": "csb:1 Samuel:5:3",
+        "w": 26,
+        "l": {},
+        "c": "Is 46:1–9*20822",
+        "a": "f"
+    },
+    {
+        "o": 8107,
+        "r": "csb:1 Samuel:5:4",
+        "w": 45,
+        "l": {},
+        "t": "5:4*r LXX; Hb reads Only Dagon remained on it",
+        "a": "g"
+    },
+    {
+        "o": 8109,
+        "r": "csb:1 Samuel:5:6",
+        "w": 9,
+        "l": {},
+        "c": "Ex 9:3*1925; 1Sm 5:7,11*8110",
+        "a": "h"
+    },
+    {
+        "o": 8109,
+        "r": "csb:1 Samuel:5:6",
+        "w": 11,
+        "l": {},
+        "c": "1Sm 6:5*8122",
+        "a": "i"
+    },
+    {
+        "o": 8109,
+        "r": "csb:1 Samuel:5:6",
+        "w": 23,
+        "l": {},
+        "t": "5:6*r LXX adds He brought up mice against them, and they swarmed in their ships. Then mice went up into the land and there was a mortal panic in the city.",
+        "a": "j"
+    },
+    {
+        "o": 8109,
+        "r": "csb:1 Samuel:5:6",
+        "w": 23,
+        "l": {},
+        "t": "5:6*r Perhaps bubonic plague",
+        "a": "k"
+    },
+    {
+        "o": 8109,
+        "r": "csb:1 Samuel:5:6",
+        "w": 23,
+        "l": {},
+        "c": "Dt 28:27*6232; Ps 78:66*16932",
+        "a": "l"
+    },
+    {
+        "o": 8111,
+        "r": "csb:1 Samuel:5:8",
+        "w": 7,
+        "l": {},
+        "c": "1Sm 5:11*8114; 29:6–11*8817",
+        "a": "m"
+    },
+    {
+        "o": 8112,
+        "r": "csb:1 Samuel:5:9",
+        "w": 13,
+        "l": {},
+        "c": "1Sm 5:11*8114; 7:13*8153",
+        "a": "n"
+    },
+    {
+        "o": 8112,
+        "r": "csb:1 Samuel:5:9",
+        "w": 35,
+        "l": {},
+        "c": "1Sm 5:6*8109",
+        "a": "o"
+    },
+    {
+        "o": 8113,
+        "r": "csb:1 Samuel:5:10",
+        "w": 35,
+        "l": {},
+        "t": "5:10*r DSS, LXX read “Why have you moved... people?”",
+        "a": "p"
+    },
+    {
+        "o": 8114,
+        "r": "csb:1 Samuel:5:11",
+        "w": 7,
+        "l": {},
+        "c": "1Sm 5:8*8111",
+        "a": "q"
+    },
+    {
+        "o": 8114,
+        "r": "csb:1 Samuel:5:11",
+        "w": 30,
+        "l": {},
+        "t": "5:11*r DSS, LXX read “Why don’t you return it to... people?”",
+        "a": "r"
+    },
+    {
+        "o": 8114,
+        "r": "csb:1 Samuel:5:11",
+        "w": 43,
+        "l": {},
+        "c": "1Sm 5:6,9*8109",
+        "a": "s"
+    },
+    {
+        "o": 8115,
+        "r": "csb:1 Samuel:5:12",
+        "w": 18,
+        "l": {},
+        "c": "Ex 12:30*2036",
+        "a": "t"
+    }
+]

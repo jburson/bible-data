@@ -1,0 +1,74 @@
+[
+    {
+        "o": 17306,
+        "r": "nasb:Psalm:104:3",
+        "w": 0,
+        "l": {},
+        "t": "Lit The one who",
+        "a": "a"
+    },
+    {
+        "o": 17307,
+        "r": "nasb:Psalm:104:4",
+        "w": 1,
+        "l": {},
+        "t": "Or His angels, spirits",
+        "a": "b"
+    },
+    {
+        "o": 17307,
+        "r": "nasb:Psalm:104:4",
+        "w": 5,
+        "l": {},
+        "t": "Or His ministers flames of fire",
+        "a": "c"
+    },
+    {
+        "o": 17308,
+        "r": "nasb:Psalm:104:5",
+        "w": 11,
+        "l": {},
+        "t": "Or move out of place",
+        "a": "d"
+    },
+    {
+        "o": 17327,
+        "r": "nasb:Psalm:104:24",
+        "w": 19,
+        "l": {},
+        "t": "Or creatures",
+        "a": "e"
+    },
+    {
+        "o": 17329,
+        "r": "nasb:Psalm:104:26",
+        "w": 5,
+        "l": {},
+        "t": "Or a sea monster",
+        "a": "f"
+    },
+    {
+        "o": 17330,
+        "r": "nasb:Psalm:104:27",
+        "w": 10,
+        "l": {},
+        "t": "Lit its appointed time",
+        "a": "g"
+    },
+    {
+        "o": 17332,
+        "r": "nasb:Psalm:104:29",
+        "w": 10,
+        "l": {},
+        "t": "Or breath",
+        "a": "h"
+    },
+    {
+        "o": 17333,
+        "r": "nasb:Psalm:104:30",
+        "w": 3,
+        "l": {},
+        "t": "Or breath",
+        "a": "i"
+    }
+]

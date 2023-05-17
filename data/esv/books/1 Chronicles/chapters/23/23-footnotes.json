@@ -1,0 +1,386 @@
+[
+    {
+        "o": 12072,
+        "r": "esv:1 Chronicles:23:1",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 29:28*12299",
+        "a": "a"
+    },
+    {
+        "o": 12072,
+        "r": "esv:1 Chronicles:23:1",
+        "w": 7,
+        "l": {},
+        "c": "1 Chronicles 28:5*12248; 1 Chronicles 29:22*12292; 1 Chronicles 29:28*12299; 1 Kings 1:33–39*9593",
+        "a": "b"
+    },
+    {
+        "o": 12073,
+        "r": "esv:1 Chronicles:23:2",
+        "w": 0,
+        "l": {},
+        "t": "Hebrew He*i",
+        "a": "c"
+    },
+    {
+        "o": 12074,
+        "r": "esv:1 Chronicles:23:3",
+        "w": 1,
+        "l": {},
+        "c": "Numbers 4:3*4079; Numbers 4:47*4123",
+        "a": "d"
+    },
+    {
+        "o": 12074,
+        "r": "esv:1 Chronicles:23:3",
+        "w": 9,
+        "l": {},
+        "c": "1 Chronicles 23:24*12095; Numbers 1:2*3930",
+        "a": "e"
+    },
+    {
+        "o": 12074,
+        "r": "esv:1 Chronicles:23:3",
+        "w": 12,
+        "l": {},
+        "c": "Numbers 4:47–48*4123",
+        "a": "f"
+    },
+    {
+        "o": 12075,
+        "r": "esv:1 Chronicles:23:4",
+        "w": 5,
+        "l": {},
+        "t": "Hebrew lacks David*i said*i",
+        "a": "g"
+    },
+    {
+        "o": 12075,
+        "r": "esv:1 Chronicles:23:4",
+        "w": 5,
+        "l": {},
+        "c": "2 Chronicles 2:2*12326; 2 Chronicles 2:18*12342; 2 Chronicles 34:12*13151; Ezra 3:8–9*13326",
+        "a": "h"
+    },
+    {
+        "o": 12075,
+        "r": "esv:1 Chronicles:23:4",
+        "w": 20,
+        "l": {},
+        "c": "1 Chronicles 26:29*12201; Deuteronomy 16:18*5843; 2 Chronicles 19:8*12739",
+        "a": "i"
+    },
+    {
+        "o": 12076,
+        "r": "esv:1 Chronicles:23:5",
+        "w": 12,
+        "l": {},
+        "c": "2 Chronicles 29:25–26*13006; Nehemiah 12:36*13939; Amos 6:5*24962",
+        "a": "j"
+    },
+    {
+        "o": 12077,
+        "r": "esv:1 Chronicles:23:6",
+        "w": 0,
+        "l": {},
+        "c": "2 Chronicles 8:14*12488; 2 Chronicles 23:18*12842; 2 Chronicles 35:4*13179; Ezra 6:18*13401",
+        "a": "k"
+    },
+    {
+        "o": 12077,
+        "r": "esv:1 Chronicles:23:6",
+        "w": 5,
+        "l": {},
+        "c": "1 Chronicles 6:1*11491; 1 Chronicles 6:16*11506; Exodus 6:16*1814; Numbers 26:57*4951",
+        "a": "l"
+    },
+    {
+        "o": 12078,
+        "r": "esv:1 Chronicles:23:7",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 26:21*12193",
+        "a": "m"
+    },
+    {
+        "o": 12078,
+        "r": "esv:1 Chronicles:23:7",
+        "w": 3,
+        "l": {},
+        "t": "Vulgate (compare Septuagint, Syriac); Hebrew to*i the*i Gershonite*i",
+        "a": "n"
+    },
+    {
+        "o": 12079,
+        "r": "esv:1 Chronicles:23:8",
+        "w": 3,
+        "l": {},
+        "c": "1 Chronicles 15:18*11873; 1 Chronicles 29:8*12275; 1 Chronicles 26:21*12193",
+        "a": "o"
+    },
+    {
+        "o": 12083,
+        "r": "esv:1 Chronicles:23:12",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 6:18*11508; 1 Chronicles 26:23*12195; Exodus 6:18*1816; Numbers 3:19*4041",
+        "a": "p"
+    },
+    {
+        "o": 12084,
+        "r": "esv:1 Chronicles:23:13",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 6:20*1818",
+        "a": "q"
+    },
+    {
+        "o": 12084,
+        "r": "esv:1 Chronicles:23:13",
+        "w": 6,
+        "l": {},
+        "c": "Exodus 28:1*2502; Hebrews 5:4*33627",
+        "a": "r"
+    },
+    {
+        "o": 12084,
+        "r": "esv:1 Chronicles:23:13",
+        "w": 23,
+        "l": {},
+        "c": "Exodus 30:7*2601; Numbers 16:40*4607; 1 Samuel 2:28*7955",
+        "a": "s"
+    },
+    {
+        "o": 12084,
+        "r": "esv:1 Chronicles:23:13",
+        "w": 29,
+        "l": {},
+        "c": "Deuteronomy 21:5*5951",
+        "a": "t"
+    },
+    {
+        "o": 12084,
+        "r": "esv:1 Chronicles:23:13",
+        "w": 33,
+        "l": {},
+        "c": "Numbers 6:23*4186",
+        "a": "u"
+    },
+    {
+        "o": 12085,
+        "r": "esv:1 Chronicles:23:14",
+        "w": 5,
+        "l": {},
+        "c": "1 Chronicles 26:23–25*12195",
+        "a": "v"
+    },
+    {
+        "o": 12085,
+        "r": "esv:1 Chronicles:23:14",
+        "w": 12,
+        "l": {},
+        "c": "Deuteronomy 33:1*6349",
+        "a": "w"
+    },
+    {
+        "o": 12086,
+        "r": "esv:1 Chronicles:23:15",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 2:22*1709; Exodus 18:3–4*2182",
+        "a": "x"
+    },
+    {
+        "o": 12087,
+        "r": "esv:1 Chronicles:23:16",
+        "w": 3,
+        "l": {},
+        "c": "1 Chronicles 26:24*12196",
+        "a": "y"
+    },
+    {
+        "o": 12090,
+        "r": "esv:1 Chronicles:23:19",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 24:23*12128; 1 Chronicles 26:31*12203",
+        "a": "z"
+    },
+    {
+        "o": 12091,
+        "r": "esv:1 Chronicles:23:20",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 24:24–25*12129",
+        "a": "a"
+    },
+    {
+        "o": 12092,
+        "r": "esv:1 Chronicles:23:21",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 6:19*11509; 1 Chronicles 6:29*11519; 1 Chronicles 24:26*12131; Exodus 6:19*1817; Numbers 26:58*4952",
+        "a": "b"
+    },
+    {
+        "o": 12092,
+        "r": "esv:1 Chronicles:23:21",
+        "w": 12,
+        "l": {},
+        "c": "1 Chronicles 24:29*12134",
+        "a": "c"
+    },
+    {
+        "o": 12093,
+        "r": "esv:1 Chronicles:23:22",
+        "w": 1,
+        "l": {},
+        "c": "1 Chronicles 24:28*12133",
+        "a": "d"
+    },
+    {
+        "o": 12093,
+        "r": "esv:1 Chronicles:23:22",
+        "w": 8,
+        "l": {},
+        "c": "Numbers 36:6*5321; Numbers 36:8*5323",
+        "a": "e"
+    },
+    {
+        "o": 12094,
+        "r": "esv:1 Chronicles:23:23",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 24:30*12135",
+        "a": "f"
+    },
+    {
+        "o": 12095,
+        "r": "esv:1 Chronicles:23:24",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 10:17*4357; Numbers 10:21*4361",
+        "a": "g"
+    },
+    {
+        "o": 12095,
+        "r": "esv:1 Chronicles:23:24",
+        "w": 14,
+        "l": {},
+        "c": "1 Chronicles 23:3*12074",
+        "a": "h"
+    },
+    {
+        "o": 12095,
+        "r": "esv:1 Chronicles:23:24",
+        "w": 29,
+        "l": {},
+        "c": "2 Chronicles 31:17*13065; Ezra 3:8*13326; 1 Chronicles 23:3*12074; Numbers 4:3*4079; Numbers 8:24*4309",
+        "a": "i"
+    },
+    {
+        "o": 12096,
+        "r": "esv:1 Chronicles:23:25",
+        "w": 8,
+        "l": {},
+        "c": "1 Chronicles 22:18*12068",
+        "a": "j"
+    },
+    {
+        "o": 12097,
+        "r": "esv:1 Chronicles:23:26",
+        "w": 6,
+        "l": {},
+        "c": "Numbers 4:5–15*4081",
+        "a": "k"
+    },
+    {
+        "o": 12098,
+        "r": "esv:1 Chronicles:23:27",
+        "w": 13,
+        "l": {},
+        "c": "1 Chronicles 23:24*12095",
+        "a": "l"
+    },
+    {
+        "o": 12100,
+        "r": "esv:1 Chronicles:23:29",
+        "w": 7,
+        "l": {},
+        "c": "Leviticus 24:5–8*3760",
+        "a": "m"
+    },
+    {
+        "o": 12100,
+        "r": "esv:1 Chronicles:23:29",
+        "w": 9,
+        "l": {},
+        "c": "1 Chronicles 9:29*11691; Leviticus 6:20–21*3129",
+        "a": "n"
+    },
+    {
+        "o": 12100,
+        "r": "esv:1 Chronicles:23:29",
+        "w": 20,
+        "l": {},
+        "c": "1 Chronicles 9:31*11693",
+        "a": "o"
+    },
+    {
+        "o": 12100,
+        "r": "esv:1 Chronicles:23:29",
+        "w": 23,
+        "l": {},
+        "c": "Leviticus 6:21*3130; Leviticus 7:12*3152",
+        "a": "p"
+    },
+    {
+        "o": 12100,
+        "r": "esv:1 Chronicles:23:29",
+        "w": 29,
+        "l": {},
+        "c": "Leviticus 19:35*3605",
+        "a": "q"
+    },
+    {
+        "o": 12102,
+        "r": "esv:1 Chronicles:23:31",
+        "w": 8,
+        "l": {},
+        "c": "Isaiah 1:13*19644",
+        "a": "r"
+    },
+    {
+        "o": 12102,
+        "r": "esv:1 Chronicles:23:31",
+        "w": 10,
+        "l": {},
+        "c": "Numbers 28:11*5000",
+        "a": "s"
+    },
+    {
+        "o": 12102,
+        "r": "esv:1 Chronicles:23:31",
+        "w": 15,
+        "l": {},
+        "c": "Leviticus 23:2*3704; Leviticus 23:4*3707",
+        "a": "t"
+    },
+    {
+        "o": 12103,
+        "r": "esv:1 Chronicles:23:32",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 1:53*3982",
+        "a": "u"
+    },
+    {
+        "o": 12103,
+        "r": "esv:1 Chronicles:23:32",
+        "w": 24,
+        "l": {},
+        "c": "Numbers 3:6–9*4028",
+        "a": "v"
+    }
+]

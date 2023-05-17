@@ -1,0 +1,602 @@
+[
+    {
+        "o": 23279,
+        "r": "esv:Ezekiel:21:1",
+        "w": 0,
+        "l": {},
+        "t": "Ch 21:6 in Hebrew",
+        "a": "a"
+    },
+    {
+        "o": 23280,
+        "r": "esv:Ezekiel:21:2",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 2:1*22785",
+        "a": "b"
+    },
+    {
+        "o": 23280,
+        "r": "esv:Ezekiel:21:2",
+        "w": 2,
+        "l": {},
+        "c": "Ezekiel 20:46*23273",
+        "a": "c"
+    },
+    {
+        "o": 23280,
+        "r": "esv:Ezekiel:21:2",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 20:46*23273",
+        "a": "d"
+    },
+    {
+        "o": 23280,
+        "r": "esv:Ezekiel:21:2",
+        "w": 12,
+        "l": {},
+        "t": "Some Hebrew manuscripts, compare Septuagint, Syriac against*i their*i sanctuary*i",
+        "a": "e"
+    },
+    {
+        "o": 23281,
+        "r": "esv:Ezekiel:21:3",
+        "w": 10,
+        "l": {},
+        "c": "Ezekiel 13:8*23031",
+        "a": "f"
+    },
+    {
+        "o": 23281,
+        "r": "esv:Ezekiel:21:3",
+        "w": 18,
+        "l": {},
+        "c": "Ezekiel 21:19*23297; Ezekiel 21:30*23308; Deuteronomy 32:41*6334; Jeremiah 47:6*22339",
+        "a": "g"
+    },
+    {
+        "o": 23281,
+        "r": "esv:Ezekiel:21:3",
+        "w": 24,
+        "l": {},
+        "c": "Ezekiel 20:47*23274; Job 9:22*14400",
+        "a": "h"
+    },
+    {
+        "o": 23283,
+        "r": "esv:Ezekiel:21:5",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 20:48*23275",
+        "a": "i"
+    },
+    {
+        "o": 23283,
+        "r": "esv:Ezekiel:21:5",
+        "w": 12,
+        "l": {},
+        "c": "Ezekiel 21:3*23281",
+        "a": "j"
+    },
+    {
+        "o": 23283,
+        "r": "esv:Ezekiel:21:5",
+        "w": 17,
+        "l": {},
+        "c": "Ezekiel 21:30*23308",
+        "a": "k"
+    },
+    {
+        "o": 23284,
+        "r": "esv:Ezekiel:21:6",
+        "w": 5,
+        "l": {},
+        "c": "Ezekiel 6:11*22874; Ezekiel 12:18*23011",
+        "a": "l"
+    },
+    {
+        "o": 23284,
+        "r": "esv:Ezekiel:21:6",
+        "w": 12,
+        "l": {},
+        "c": "Ezekiel 12:3*22996",
+        "a": "m"
+    },
+    {
+        "o": 23285,
+        "r": "esv:Ezekiel:21:7",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 12:9*23002",
+        "a": "n"
+    },
+    {
+        "o": 23285,
+        "r": "esv:Ezekiel:21:7",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 7:5–6*22884",
+        "a": "o"
+    },
+    {
+        "o": 23285,
+        "r": "esv:Ezekiel:21:7",
+        "w": 20,
+        "l": {},
+        "c": "Joshua 2:11*6425",
+        "a": "p"
+    },
+    {
+        "o": 23285,
+        "r": "esv:Ezekiel:21:7",
+        "w": 25,
+        "l": {},
+        "c": "Ezekiel 7:17*22896",
+        "a": "q"
+    },
+    {
+        "o": 23285,
+        "r": "esv:Ezekiel:21:7",
+        "w": 35,
+        "l": {},
+        "c": "Ezekiel 7:17*22896",
+        "a": "r"
+    },
+    {
+        "o": 23285,
+        "r": "esv:Ezekiel:21:7",
+        "w": 42,
+        "l": {},
+        "c": "Ezekiel 39:8*23840",
+        "a": "s"
+    },
+    {
+        "o": 23285,
+        "r": "esv:Ezekiel:21:7",
+        "w": 45,
+        "l": {},
+        "c": "Ezekiel 7:5–6*22884",
+        "a": "t"
+    },
+    {
+        "o": 23287,
+        "r": "esv:Ezekiel:21:9",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 21:2*23280",
+        "a": "u"
+    },
+    {
+        "o": 23287,
+        "r": "esv:Ezekiel:21:9",
+        "w": 10,
+        "l": {},
+        "c": "Ezekiel 21:3*23281",
+        "a": "v"
+    },
+    {
+        "o": 23288,
+        "r": "esv:Ezekiel:21:10",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 21:15*23293; Ezekiel 21:28*23306",
+        "a": "w"
+    },
+    {
+        "o": 23288,
+        "r": "esv:Ezekiel:21:10",
+        "w": 2,
+        "l": {},
+        "c": "Ezekiel 21:15*23293; Ezekiel 21:28*23306",
+        "a": "x"
+    },
+    {
+        "o": 23288,
+        "r": "esv:Ezekiel:21:10",
+        "w": 8,
+        "l": {},
+        "c": "James 5:5*33991",
+        "a": "y"
+    },
+    {
+        "o": 23288,
+        "r": "esv:Ezekiel:21:10",
+        "w": 18,
+        "l": {},
+        "c": "Ezekiel 20:47*23274",
+        "a": "z"
+    },
+    {
+        "o": 23288,
+        "r": "esv:Ezekiel:21:10",
+        "w": 22,
+        "l": {},
+        "t": "Probable reading; Hebrew The*i rod*i of*i my*i son*i despises*i everything*i of*i wood*i",
+        "a": "a"
+    },
+    {
+        "o": 23289,
+        "r": "esv:Ezekiel:21:11",
+        "w": 20,
+        "l": {},
+        "c": "Ezekiel 21:19*23297",
+        "a": "b"
+    },
+    {
+        "o": 23290,
+        "r": "esv:Ezekiel:21:12",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 21:6*23284",
+        "a": "c"
+    },
+    {
+        "o": 23290,
+        "r": "esv:Ezekiel:21:12",
+        "w": 30,
+        "l": {},
+        "c": "Jeremiah 31:19*21930",
+        "a": "d"
+    },
+    {
+        "o": 23291,
+        "r": "esv:Ezekiel:21:13",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 21:10*23288",
+        "a": "e"
+    },
+    {
+        "o": 23291,
+        "r": "esv:Ezekiel:21:13",
+        "w": 15,
+        "l": {},
+        "t": "Or For*i it*i is*i a*i testing;*i and*i what*i if*i even*i the*i rod*i despises?*i It*i shall*i not*i be!*i",
+        "a": "f"
+    },
+    {
+        "o": 23292,
+        "r": "esv:Ezekiel:21:14",
+        "w": 2,
+        "l": {},
+        "c": "Ezekiel 2:1*22785",
+        "a": "g"
+    },
+    {
+        "o": 23292,
+        "r": "esv:Ezekiel:21:14",
+        "w": 6,
+        "l": {},
+        "c": "Ezekiel 22:13*23325; Numbers 24:10*4855",
+        "a": "h"
+    },
+    {
+        "o": 23292,
+        "r": "esv:Ezekiel:21:14",
+        "w": 16,
+        "l": {},
+        "c": "2 Kings 24:1*11216; 2 Kings 24:10*11227; 2 Kings 25:1*11241",
+        "a": "i"
+    },
+    {
+        "o": 23292,
+        "r": "esv:Ezekiel:21:14",
+        "w": 19,
+        "l": {},
+        "t": "Hebrew its*i third*i",
+        "a": "j"
+    },
+    {
+        "o": 23293,
+        "r": "esv:Ezekiel:21:15",
+        "w": 7,
+        "l": {},
+        "t": "Hebrew many*i stumbling*i blocks*i",
+        "a": "k"
+    },
+    {
+        "o": 23293,
+        "r": "esv:Ezekiel:21:15",
+        "w": 23,
+        "l": {},
+        "c": "Ezekiel 21:10*23288",
+        "a": "l"
+    },
+    {
+        "o": 23293,
+        "r": "esv:Ezekiel:21:15",
+        "w": 27,
+        "l": {},
+        "t": "The meaning of the Hebrew word rendered taken*i up*i is uncertain",
+        "a": "m"
+    },
+    {
+        "o": 23295,
+        "r": "esv:Ezekiel:21:17",
+        "w": 2,
+        "l": {},
+        "c": "Ezekiel 21:14*23292",
+        "a": "n"
+    },
+    {
+        "o": 23295,
+        "r": "esv:Ezekiel:21:17",
+        "w": 5,
+        "l": {},
+        "c": "Ezekiel 5:13*22857",
+        "a": "o"
+    },
+    {
+        "o": 23295,
+        "r": "esv:Ezekiel:21:17",
+        "w": 11,
+        "l": {},
+        "c": "Ezekiel 17:24*23174",
+        "a": "p"
+    },
+    {
+        "o": 23297,
+        "r": "esv:Ezekiel:21:19",
+        "w": 9,
+        "l": {},
+        "c": "Ezekiel 21:11*23289",
+        "a": "q"
+    },
+    {
+        "o": 23297,
+        "r": "esv:Ezekiel:21:19",
+        "w": 29,
+        "l": {},
+        "c": "Ezekiel 21:21*23299",
+        "a": "r"
+    },
+    {
+        "o": 23297,
+        "r": "esv:Ezekiel:21:19",
+        "w": 33,
+        "l": {},
+        "c": "Ezekiel 21:21*23299",
+        "a": "s"
+    },
+    {
+        "o": 23298,
+        "r": "esv:Ezekiel:21:20",
+        "w": 2,
+        "l": {},
+        "c": "Ezekiel 25:1–5*23427; Jeremiah 49:1–6*22392; Amos 1:13–15*24872",
+        "a": "t"
+    },
+    {
+        "o": 23299,
+        "r": "esv:Ezekiel:21:21",
+        "w": 5,
+        "l": {},
+        "c": "Ezekiel 21:19*23297",
+        "a": "u"
+    },
+    {
+        "o": 23299,
+        "r": "esv:Ezekiel:21:21",
+        "w": 27,
+        "l": {},
+        "c": "Genesis 31:19*972",
+        "a": "v"
+    },
+    {
+        "o": 23299,
+        "r": "esv:Ezekiel:21:21",
+        "w": 29,
+        "l": {},
+        "t": "Or household*i idols*i",
+        "a": "w"
+    },
+    {
+        "o": 23300,
+        "r": "esv:Ezekiel:21:22",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 4:2*22827; Ezekiel 26:9*23457",
+        "a": "x"
+    },
+    {
+        "o": 23300,
+        "r": "esv:Ezekiel:21:22",
+        "w": 32,
+        "l": {},
+        "c": "Ezekiel 4:2*22827",
+        "a": "y"
+    },
+    {
+        "o": 23301,
+        "r": "esv:Ezekiel:21:23",
+        "w": 9,
+        "l": {},
+        "c": "Ezekiel 17:13*23163",
+        "a": "z"
+    },
+    {
+        "o": 23301,
+        "r": "esv:Ezekiel:21:23",
+        "w": 21,
+        "l": {},
+        "c": "Ezekiel 17:20*23170",
+        "a": "a"
+    },
+    {
+        "o": 23302,
+        "r": "esv:Ezekiel:21:24",
+        "w": 35,
+        "l": {},
+        "c": "Ezekiel 17:20*23170",
+        "a": "b"
+    },
+    {
+        "o": 23303,
+        "r": "esv:Ezekiel:21:25",
+        "w": 3,
+        "l": {},
+        "t": "Or slain*i ; also verse 29",
+        "a": "c"
+    },
+    {
+        "o": 23303,
+        "r": "esv:Ezekiel:21:25",
+        "w": 3,
+        "l": {},
+        "c": "Ezekiel 17:19*23169; 2 Chronicles 36:13*13218; Jeremiah 52:2*22552",
+        "a": "d"
+    },
+    {
+        "o": 23303,
+        "r": "esv:Ezekiel:21:25",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 21:29*23307; Ezekiel 22:3–4*23315",
+        "a": "e"
+    },
+    {
+        "o": 23303,
+        "r": "esv:Ezekiel:21:25",
+        "w": 12,
+        "l": {},
+        "c": "Ezekiel 35:5*23723",
+        "a": "f"
+    },
+    {
+        "o": 23304,
+        "r": "esv:Ezekiel:21:26",
+        "w": 19,
+        "l": {},
+        "c": "Ezekiel 17:24*23174; Luke 1:52*27862",
+        "a": "g"
+    },
+    {
+        "o": 23305,
+        "r": "esv:Ezekiel:21:27",
+        "w": 7,
+        "l": {},
+        "c": "Ezekiel 21:13*23291",
+        "a": "h"
+    },
+    {
+        "o": 23305,
+        "r": "esv:Ezekiel:21:27",
+        "w": 12,
+        "l": {},
+        "c": "Genesis 49:10*1605; Zechariah 6:12–13*25558; John 1:49*29184; Revelation 17:14*34728",
+        "a": "i"
+    },
+    {
+        "o": 23306,
+        "r": "esv:Ezekiel:21:28",
+        "w": 1,
+        "l": {},
+        "c": "Ezekiel 2:1*22785",
+        "a": "j"
+    },
+    {
+        "o": 23306,
+        "r": "esv:Ezekiel:21:28",
+        "w": 12,
+        "l": {},
+        "c": "Ezekiel 21:20*23298",
+        "a": "k"
+    },
+    {
+        "o": 23306,
+        "r": "esv:Ezekiel:21:28",
+        "w": 20,
+        "l": {},
+        "c": "Ezekiel 21:9–10*23287",
+        "a": "l"
+    },
+    {
+        "o": 23306,
+        "r": "esv:Ezekiel:21:28",
+        "w": 24,
+        "l": {},
+        "c": "Ezekiel 21:5*23283",
+        "a": "m"
+    },
+    {
+        "o": 23306,
+        "r": "esv:Ezekiel:21:28",
+        "w": 29,
+        "l": {},
+        "c": "Ezekiel 21:9–10*23287",
+        "a": "n"
+    },
+    {
+        "o": 23307,
+        "r": "esv:Ezekiel:21:29",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 13:6*23029",
+        "a": "o"
+    },
+    {
+        "o": 23307,
+        "r": "esv:Ezekiel:21:29",
+        "w": 22,
+        "l": {},
+        "c": "Ezekiel 21:25*23303",
+        "a": "p"
+    },
+    {
+        "o": 23308,
+        "r": "esv:Ezekiel:21:30",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 21:28*23306",
+        "a": "q"
+    },
+    {
+        "o": 23308,
+        "r": "esv:Ezekiel:21:30",
+        "w": 17,
+        "l": {},
+        "c": "Ezekiel 16:38*23122",
+        "a": "r"
+    },
+    {
+        "o": 23309,
+        "r": "esv:Ezekiel:21:31",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 7:8*22887",
+        "a": "s"
+    },
+    {
+        "o": 23309,
+        "r": "esv:Ezekiel:21:31",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 22:20–21*23332",
+        "a": "t"
+    },
+    {
+        "o": 23309,
+        "r": "esv:Ezekiel:21:31",
+        "w": 28,
+        "l": {},
+        "c": "Psalm 49:10*16194",
+        "a": "u"
+    },
+    {
+        "o": 23310,
+        "r": "esv:Ezekiel:21:32",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 25:10*23437",
+        "a": "v"
+    },
+    {
+        "o": 23310,
+        "r": "esv:Ezekiel:21:32",
+        "w": 22,
+        "l": {},
+        "c": "Ezekiel 17:24*23174",
+        "a": "w"
+    }
+]

@@ -1,0 +1,546 @@
+[
+    {
+        "o": 6349,
+        "r": "esv:Deuteronomy:33:1",
+        "w": 6,
+        "l": {},
+        "c": "Joshua 14:6*6771; 1 Chronicles 23:14*12085; 2 Chronicles 30:16*13035; Ezra 3:2*13319",
+        "a": "a"
+    },
+    {
+        "o": 6350,
+        "r": "esv:Deuteronomy:33:2",
+        "w": 1,
+        "l": {},
+        "c": "Exodus 19:18*2226; Exodus 19:20*2228; Judges 5:4–5*7250; Psalm 68:7–8*16500; Habakkuk 3:3*25337",
+        "a": "b"
+    },
+    {
+        "o": 6350,
+        "r": "esv:Deuteronomy:33:2",
+        "w": 12,
+        "l": {},
+        "t": "Septuagint, Syriac, Vulgate; Hebrew them*i",
+        "a": "c"
+    },
+    {
+        "o": 6350,
+        "r": "esv:Deuteronomy:33:2",
+        "w": 20,
+        "l": {},
+        "c": "Psalm 68:17*16510; Daniel 7:10*24383; Acts 7:53*30381; Galatians 3:19*32571; Hebrews 2:2*33565; Jude 14*34375; Revelation 5:11*34498",
+        "a": "d"
+    },
+    {
+        "o": 6350,
+        "r": "esv:Deuteronomy:33:2",
+        "w": 30,
+        "l": {},
+        "t": "The meaning of the Hebrew word is uncertain",
+        "a": "e"
+    },
+    {
+        "o": 6351,
+        "r": "esv:Deuteronomy:33:3",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 7:7–8*5577; Deuteronomy 10:15*5668; Hosea 11:1*24717",
+        "a": "f"
+    },
+    {
+        "o": 6351,
+        "r": "esv:Deuteronomy:33:3",
+        "w": 4,
+        "l": {},
+        "t": "Septuagint; Hebrew peoples*i",
+        "a": "g"
+    },
+    {
+        "o": 6351,
+        "r": "esv:Deuteronomy:33:3",
+        "w": 4,
+        "l": {},
+        "c": "John 10:27–29*29637; Romans 8:35*31477; Romans 8:38–39*31480",
+        "a": "h"
+    },
+    {
+        "o": 6351,
+        "r": "esv:Deuteronomy:33:3",
+        "w": 11,
+        "l": {},
+        "t": "Hebrew your*i",
+        "a": "i"
+    },
+    {
+        "o": 6351,
+        "r": "esv:Deuteronomy:33:3",
+        "w": 12,
+        "l": {},
+        "c": "Luke 10:39*28390; Acts 22:3*30984",
+        "a": "j"
+    },
+    {
+        "o": 6351,
+        "r": "esv:Deuteronomy:33:3",
+        "w": 15,
+        "l": {},
+        "t": "The meaning of the Hebrew word is uncertain",
+        "a": "k"
+    },
+    {
+        "o": 6352,
+        "r": "esv:Deuteronomy:33:4",
+        "w": 0,
+        "l": {},
+        "c": "John 1:17*29148; John 7:19*29460",
+        "a": "l"
+    },
+    {
+        "o": 6353,
+        "r": "esv:Deuteronomy:33:5",
+        "w": 2,
+        "l": {},
+        "t": "Hebrew Thus*i he*i",
+        "a": "m"
+    },
+    {
+        "o": 6353,
+        "r": "esv:Deuteronomy:33:5",
+        "w": 2,
+        "l": {},
+        "c": "Numbers 23:21*4834; Judges 8:23*7376; Isaiah 33:22*20357",
+        "a": "n"
+    },
+    {
+        "o": 6353,
+        "r": "esv:Deuteronomy:33:5",
+        "w": 5,
+        "l": {},
+        "c": "Deuteronomy 32:15*6308",
+        "a": "o"
+    },
+    {
+        "o": 6354,
+        "r": "esv:Deuteronomy:33:6",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 49:3–4*1598",
+        "a": "p"
+    },
+    {
+        "o": 6355,
+        "r": "esv:Deuteronomy:33:7",
+        "w": 23,
+        "l": {},
+        "t": "Probable reading; Hebrew With*i his*i hands*i he*i contended*i",
+        "a": "q"
+    },
+    {
+        "o": 6356,
+        "r": "esv:Deuteronomy:33:8",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 49:5*1600",
+        "a": "r"
+    },
+    {
+        "o": 6356,
+        "r": "esv:Deuteronomy:33:8",
+        "w": 7,
+        "l": {},
+        "t": "Dead Sea Scroll, Septuagint; Masoretic Text lacks Give*i to*i Levi*i",
+        "a": "s"
+    },
+    {
+        "o": 6356,
+        "r": "esv:Deuteronomy:33:8",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 28:30*2531",
+        "a": "t"
+    },
+    {
+        "o": 6356,
+        "r": "esv:Deuteronomy:33:8",
+        "w": 16,
+        "l": {},
+        "c": "Exodus 17:7*2168; Numbers 20:13*4708",
+        "a": "u"
+    },
+    {
+        "o": 6357,
+        "r": "esv:Deuteronomy:33:9",
+        "w": 10,
+        "l": {},
+        "c": "Exodus 32:26–29*2684",
+        "a": "v"
+    },
+    {
+        "o": 6357,
+        "r": "esv:Deuteronomy:33:9",
+        "w": 19,
+        "l": {},
+        "c": "Malachi 2:4–6*25731",
+        "a": "w"
+    },
+    {
+        "o": 6358,
+        "r": "esv:Deuteronomy:33:10",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 17:9–11*5859; Ezekiel 44:23*24026; Leviticus 10:11*3255",
+        "a": "x"
+    },
+    {
+        "o": 6358,
+        "r": "esv:Deuteronomy:33:10",
+        "w": 9,
+        "l": {},
+        "c": "Exodus 30:7–8*2601; 1 Samuel 2:28*7955",
+        "a": "y"
+    },
+    {
+        "o": 6358,
+        "r": "esv:Deuteronomy:33:10",
+        "w": 16,
+        "l": {},
+        "c": "Psalm 51:19*16252; Ezekiel 43:27*24000",
+        "a": "z"
+    },
+    {
+        "o": 6359,
+        "r": "esv:Deuteronomy:33:11",
+        "w": 5,
+        "l": {},
+        "c": "Ezekiel 20:40–41*23267; Ezekiel 43:27*24000; Amos 5:22*24950",
+        "a": "a"
+    },
+    {
+        "o": 6360,
+        "r": "esv:Deuteronomy:33:12",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 49:27*1623",
+        "a": "b"
+    },
+    {
+        "o": 6360,
+        "r": "esv:Deuteronomy:33:12",
+        "w": 14,
+        "l": {},
+        "t": "Septuagint; Hebrew dwells*i in*i safety*i by*i him.*i He*i",
+        "a": "c"
+    },
+    {
+        "o": 6361,
+        "r": "esv:Deuteronomy:33:13",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 49:22*1617",
+        "a": "d"
+    },
+    {
+        "o": 6361,
+        "r": "esv:Deuteronomy:33:13",
+        "w": 4,
+        "l": {},
+        "c": "Genesis 49:25*1620",
+        "a": "e"
+    },
+    {
+        "o": 6361,
+        "r": "esv:Deuteronomy:33:13",
+        "w": 17,
+        "l": {},
+        "c": "Deuteronomy 33:28*6376; Genesis 27:28*824",
+        "a": "f"
+    },
+    {
+        "o": 6361,
+        "r": "esv:Deuteronomy:33:13",
+        "w": 18,
+        "l": {},
+        "t": "Two Hebrew manuscripts and Targum; Hebrew with*i the*i dew*i",
+        "a": "g"
+    },
+    {
+        "o": 6363,
+        "r": "esv:Deuteronomy:33:15",
+        "w": 11,
+        "l": {},
+        "c": "Genesis 49:26*1621; Habakkuk 3:6*25340; Psalm 90:2*17040",
+        "a": "h"
+    },
+    {
+        "o": 6364,
+        "r": "esv:Deuteronomy:33:16",
+        "w": 7,
+        "l": {},
+        "c": "Psalm 24:1*15704",
+        "a": "i"
+    },
+    {
+        "o": 6364,
+        "r": "esv:Deuteronomy:33:16",
+        "w": 13,
+        "l": {},
+        "c": "Exodus 3:2–4*1716; Acts 7:30*30357; Acts 7:35*30362",
+        "a": "j"
+    },
+    {
+        "o": 6365,
+        "r": "esv:Deuteronomy:33:17",
+        "w": 0,
+        "l": {},
+        "c": "1 Chronicles 5:1*11461",
+        "a": "k"
+    },
+    {
+        "o": 6365,
+        "r": "esv:Deuteronomy:33:17",
+        "w": 2,
+        "l": {},
+        "t": "Dead Sea Scroll, Septuagint, Samaritan; Masoretic Text His*i firstborn*i bull*i",
+        "a": "l"
+    },
+    {
+        "o": 6365,
+        "r": "esv:Deuteronomy:33:17",
+        "w": 13,
+        "l": {},
+        "c": "Numbers 23:22*4835",
+        "a": "m"
+    },
+    {
+        "o": 6365,
+        "r": "esv:Deuteronomy:33:17",
+        "w": 17,
+        "l": {},
+        "c": "1 Kings 22:11*10410; Psalm 44:5*16097; Daniel 8:4*24409",
+        "a": "n"
+    },
+    {
+        "o": 6365,
+        "r": "esv:Deuteronomy:33:17",
+        "w": 31,
+        "l": {},
+        "c": "Genesis 48:19*1590; Numbers 1:33*3961; Numbers 1:35*3963",
+        "a": "o"
+    },
+    {
+        "o": 6366,
+        "r": "esv:Deuteronomy:33:18",
+        "w": 4,
+        "l": {},
+        "c": "Genesis 49:13–15*1608",
+        "a": "p"
+    },
+    {
+        "o": 6367,
+        "r": "esv:Deuteronomy:33:19",
+        "w": 3,
+        "l": {},
+        "c": "Exodus 15:17*2109; Isaiah 2:3*19668",
+        "a": "q"
+    },
+    {
+        "o": 6367,
+        "r": "esv:Deuteronomy:33:19",
+        "w": 9,
+        "l": {},
+        "c": "Psalm 4:5*15373; Psalm 51:19*16252",
+        "a": "r"
+    },
+    {
+        "o": 6368,
+        "r": "esv:Deuteronomy:33:20",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 49:19*1614",
+        "a": "s"
+    },
+    {
+        "o": 6368,
+        "r": "esv:Deuteronomy:33:20",
+        "w": 12,
+        "l": {},
+        "c": "1 Chronicles 12:8*11784",
+        "a": "t"
+    },
+    {
+        "o": 6369,
+        "r": "esv:Deuteronomy:33:21",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 32:1–5*5144; Numbers 32:16–19*5159",
+        "a": "u"
+    },
+    {
+        "o": 6369,
+        "r": "esv:Deuteronomy:33:21",
+        "w": 16,
+        "l": {},
+        "c": "Numbers 32:31–32*5174; Joshua 1:12–15*6406; 1 Chronicles 5:18–22*11479",
+        "a": "v"
+    },
+    {
+        "o": 6370,
+        "r": "esv:Deuteronomy:33:22",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 49:16*1611",
+        "a": "w"
+    },
+    {
+        "o": 6370,
+        "r": "esv:Deuteronomy:33:22",
+        "w": 4,
+        "l": {},
+        "c": "Genesis 49:9*1604",
+        "a": "x"
+    },
+    {
+        "o": 6370,
+        "r": "esv:Deuteronomy:33:22",
+        "w": 9,
+        "l": {},
+        "c": "Joshua 19:47*6961; Judges 18:27*7680",
+        "a": "y"
+    },
+    {
+        "o": 6371,
+        "r": "esv:Deuteronomy:33:23",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 49:21*1616",
+        "a": "z"
+    },
+    {
+        "o": 6371,
+        "r": "esv:Deuteronomy:33:23",
+        "w": 17,
+        "l": {},
+        "c": "Joshua 19:32–39*6945",
+        "a": "a"
+    },
+    {
+        "o": 6371,
+        "r": "esv:Deuteronomy:33:23",
+        "w": 20,
+        "l": {},
+        "t": "Or west*i",
+        "a": "b"
+    },
+    {
+        "o": 6372,
+        "r": "esv:Deuteronomy:33:24",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 49:20*1615",
+        "a": "c"
+    },
+    {
+        "o": 6372,
+        "r": "esv:Deuteronomy:33:24",
+        "w": 21,
+        "l": {},
+        "c": "Job 29:6*14904",
+        "a": "d"
+    },
+    {
+        "o": 6374,
+        "r": "esv:Deuteronomy:33:26",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 15:11*2103",
+        "a": "e"
+    },
+    {
+        "o": 6374,
+        "r": "esv:Deuteronomy:33:26",
+        "w": 5,
+        "l": {},
+        "c": "Deuteronomy 32:15*6308",
+        "a": "f"
+    },
+    {
+        "o": 6374,
+        "r": "esv:Deuteronomy:33:26",
+        "w": 6,
+        "l": {},
+        "c": "Psalm 68:33–34*16526; Psalm 104:3*17268; Isaiah 19:1*20028; Habakkuk 3:8*25342",
+        "a": "g"
+    },
+    {
+        "o": 6375,
+        "r": "esv:Deuteronomy:33:27",
+        "w": 4,
+        "l": {},
+        "c": "Psalm 90:1*17039; Psalm 91:9*17066",
+        "a": "h"
+    },
+    {
+        "o": 6375,
+        "r": "esv:Deuteronomy:33:27",
+        "w": 6,
+        "l": {},
+        "t": "Or a*i dwelling*i place*i",
+        "a": "i"
+    },
+    {
+        "o": 6375,
+        "r": "esv:Deuteronomy:33:27",
+        "w": 12,
+        "l": {},
+        "t": "Revocalization of verse 27 yields He*i subdues*i the*i ancient*i gods,*i and*i shatters*i the*i forces*i of*i old*i",
+        "a": "j"
+    },
+    {
+        "o": 6376,
+        "r": "esv:Deuteronomy:33:28",
+        "w": 4,
+        "l": {},
+        "c": "Psalm 68:26*16519; Isaiah 48:1*20712",
+        "a": "k"
+    },
+    {
+        "o": 6376,
+        "r": "esv:Deuteronomy:33:28",
+        "w": 6,
+        "l": {},
+        "c": "Numbers 23:9*4821",
+        "a": "l"
+    },
+    {
+        "o": 6376,
+        "r": "esv:Deuteronomy:33:28",
+        "w": 7,
+        "l": {},
+        "t": "Hebrew the*i abode*i of*i Jacob*i was*i alone*i",
+        "a": "m"
+    },
+    {
+        "o": 6377,
+        "r": "esv:Deuteronomy:33:29",
+        "w": 4,
+        "l": {},
+        "c": "2 Samuel 7:23*8988",
+        "a": "n"
+    },
+    {
+        "o": 6377,
+        "r": "esv:Deuteronomy:33:29",
+        "w": 10,
+        "l": {},
+        "c": "Isaiah 45:17*20669",
+        "a": "o"
+    },
+    {
+        "o": 6377,
+        "r": "esv:Deuteronomy:33:29",
+        "w": 14,
+        "l": {},
+        "c": "Psalm 33:20*15874; Psalm 115:9–11*17559",
+        "a": "p"
+    }
+]

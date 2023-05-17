@@ -1,0 +1,42 @@
+[
+    {
+        "o": 24888,
+        "r": "niv:Micah:5:0",
+        "w": 0,
+        "l": {},
+        "t": "5:0*r In Hebrew texts 5:1 is numbered 4:14, and 5:2-15 is numbered 5:1-14.",
+        "a": "a"
+    },
+    {
+        "o": 24890,
+        "r": "niv:Micah:5:2",
+        "w": 10,
+        "l": {},
+        "t": "5:2*r Or rulers*i",
+        "a": "b"
+    },
+    {
+        "o": 24894,
+        "r": "niv:Micah:5:6",
+        "w": 2,
+        "l": {},
+        "t": "5:6*r Or crush*i",
+        "a": "c"
+    },
+    {
+        "o": 24894,
+        "r": "niv:Micah:5:6",
+        "w": 16,
+        "l": {},
+        "t": "5:6*r Or Nimrod*i in*i its*i gates*i",
+        "a": "d"
+    },
+    {
+        "o": 24902,
+        "r": "niv:Micah:5:14",
+        "w": 8,
+        "l": {},
+        "t": "5:14*r That is, wooden symbols of the goddess Asherah",
+        "a": "e"
+    }
+]

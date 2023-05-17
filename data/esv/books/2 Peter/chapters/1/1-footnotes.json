@@ -1,0 +1,378 @@
+[
+    {
+        "o": 34132,
+        "r": "esv:2 Peter:1:1",
+        "w": 0,
+        "l": {},
+        "t": "Some manuscripts Simon*i",
+        "a": "a"
+    },
+    {
+        "o": 34132,
+        "r": "esv:2 Peter:1:1",
+        "w": 3,
+        "l": {},
+        "t": "For the contextual rendering of the Greek word doulos*i , see Preface",
+        "a": "b"
+    },
+    {
+        "o": 34132,
+        "r": "esv:2 Peter:1:1",
+        "w": 13,
+        "l": {},
+        "c": "Romans 1:12*31242; 2 Corinthians 4:13*32286; Titus 1:4*33468",
+        "a": "c"
+    },
+    {
+        "o": 34132,
+        "r": "esv:2 Peter:1:1",
+        "w": 20,
+        "l": {},
+        "c": "Romans 3:21–26*31321",
+        "a": "d"
+    },
+    {
+        "o": 34132,
+        "r": "esv:2 Peter:1:1",
+        "w": 25,
+        "l": {},
+        "c": "Titus 2:13*33495",
+        "a": "e"
+    },
+    {
+        "o": 34133,
+        "r": "esv:2 Peter:1:2",
+        "w": 0,
+        "l": {},
+        "c": "1 Peter 1:2*34013; Jude 2*34363",
+        "a": "f"
+    },
+    {
+        "o": 34133,
+        "r": "esv:2 Peter:1:2",
+        "w": 7,
+        "l": {},
+        "c": "2 Peter 1:3*34135; 2 Peter 1:8*34140; 2 Peter 2:20*34176; John 17:3*29924; Philippians 3:8*32922",
+        "a": "g"
+    },
+    {
+        "o": 34135,
+        "r": "esv:2 Peter:1:3",
+        "w": 19,
+        "l": {},
+        "c": "1 Thessalonians 2:12*33099; 2 Thessalonians 2:14*33208; 2 Timothy 1:9*33377; 1 Peter 5:10*34124",
+        "a": "h"
+    },
+    {
+        "o": 34135,
+        "r": "esv:2 Peter:1:3",
+        "w": 23,
+        "l": {},
+        "t": "Or by*i",
+        "a": "i"
+    },
+    {
+        "o": 34135,
+        "r": "esv:2 Peter:1:3",
+        "w": 28,
+        "l": {},
+        "t": "Or virtue*i",
+        "a": "j"
+    },
+    {
+        "o": 34136,
+        "r": "esv:2 Peter:1:4",
+        "w": 19,
+        "l": {},
+        "c": "Ephesians 4:24*32769; Hebrews 12:10*33834; 1 John 3:2*34250",
+        "a": "k"
+    },
+    {
+        "o": 34136,
+        "r": "esv:2 Peter:1:4",
+        "w": 24,
+        "l": {},
+        "c": "2 Peter 2:18*34174; 2 Peter 2:20*34176",
+        "a": "l"
+    },
+    {
+        "o": 34137,
+        "r": "esv:2 Peter:1:5",
+        "w": 10,
+        "l": {},
+        "c": "Philippians 4:8*32946",
+        "a": "m"
+    },
+    {
+        "o": 34137,
+        "r": "esv:2 Peter:1:5",
+        "w": 12,
+        "l": {},
+        "t": "Or excellence*i ; twice in this verse",
+        "a": "n"
+    },
+    {
+        "o": 34137,
+        "r": "esv:2 Peter:1:5",
+        "w": 14,
+        "l": {},
+        "c": "1 Peter 3:7*34075",
+        "a": "o"
+    },
+    {
+        "o": 34138,
+        "r": "esv:2 Peter:1:6",
+        "w": 5,
+        "l": {},
+        "c": "Hebrews 10:36*33776; James 1:3*33889",
+        "a": "p"
+    },
+    {
+        "o": 34139,
+        "r": "esv:2 Peter:1:7",
+        "w": 1,
+        "l": {},
+        "c": "Hebrews 13:1*33857",
+        "a": "q"
+    },
+    {
+        "o": 34139,
+        "r": "esv:2 Peter:1:7",
+        "w": 7,
+        "l": {},
+        "c": "1 Corinthians 13:1*32055; 1 John 4:16*34292",
+        "a": "r"
+    },
+    {
+        "o": 34140,
+        "r": "esv:2 Peter:1:8",
+        "w": 3,
+        "l": {},
+        "t": "Greek these*i things*i ; also verses 9, 10, 12",
+        "a": "s"
+    },
+    {
+        "o": 34140,
+        "r": "esv:2 Peter:1:8",
+        "w": 15,
+        "l": {},
+        "c": "John 15:2*29855; Titus 3:14*33514",
+        "a": "t"
+    },
+    {
+        "o": 34141,
+        "r": "esv:2 Peter:1:9",
+        "w": 9,
+        "l": {},
+        "c": "Job 5:14*14284; Job 12:25*14486; Isaiah 59:10*20933; Zephaniah 1:17*25374; 1 John 2:9–11*34224",
+        "a": "u"
+    },
+    {
+        "o": 34141,
+        "r": "esv:2 Peter:1:9",
+        "w": 16,
+        "l": {},
+        "c": "Ephesians 5:26*32806; Titus 2:14*33496; Hebrews 9:14*33723; 1 John 1:7*34209; Revelation 7:14*34537",
+        "a": "v"
+    },
+    {
+        "o": 34142,
+        "r": "esv:2 Peter:1:10",
+        "w": 1,
+        "l": {},
+        "t": "Or brothers*i and*i sisters*i . In New Testament usage, depending on the context, the plural Greek word adelphoi*i (translated “brothers”) may refer either to brothers*i or to brothers*i and*i sisters*i",
+        "a": "w"
+    },
+    {
+        "o": 34142,
+        "r": "esv:2 Peter:1:10",
+        "w": 11,
+        "l": {},
+        "c": "1 Thessalonians 1:4*33079",
+        "a": "x"
+    },
+    {
+        "o": 34142,
+        "r": "esv:2 Peter:1:10",
+        "w": 18,
+        "l": {},
+        "c": "2 Peter 3:17*34198; 1 John 2:10*34225",
+        "a": "y"
+    },
+    {
+        "o": 34143,
+        "r": "esv:2 Peter:1:11",
+        "w": 10,
+        "l": {},
+        "c": "Colossians 1:13*32979; Acts 14:22*30680",
+        "a": "z"
+    },
+    {
+        "o": 34144,
+        "r": "esv:2 Peter:1:12",
+        "w": 2,
+        "l": {},
+        "c": "Jude 5*34366; Romans 15:14–15*31666; Philippians 3:1*32915; 1 John 2:21*34238",
+        "a": "a"
+    },
+    {
+        "o": 34144,
+        "r": "esv:2 Peter:1:12",
+        "w": 17,
+        "l": {},
+        "c": "2 John 2*34326",
+        "a": "b"
+    },
+    {
+        "o": 34145,
+        "r": "esv:2 Peter:1:13",
+        "w": 10,
+        "l": {},
+        "c": "2 Corinthians 5:1*32294; 2 Corinthians 5:4*32297",
+        "a": "c"
+    },
+    {
+        "o": 34145,
+        "r": "esv:2 Peter:1:13",
+        "w": 11,
+        "l": {},
+        "t": "Greek tent*i ; also verse 14",
+        "a": "d"
+    },
+    {
+        "o": 34145,
+        "r": "esv:2 Peter:1:13",
+        "w": 11,
+        "l": {},
+        "c": "2 Peter 3:1*34181",
+        "a": "e"
+    },
+    {
+        "o": 34146,
+        "r": "esv:2 Peter:1:14",
+        "w": 0,
+        "l": {},
+        "c": "Deuteronomy 4:21–22*5475; Deuteronomy 31:14*6275; 2 Timothy 4:6*33443",
+        "a": "f"
+    },
+    {
+        "o": 34146,
+        "r": "esv:2 Peter:1:14",
+        "w": 12,
+        "l": {},
+        "c": "John 21:18–19*30102",
+        "a": "g"
+    },
+    {
+        "o": 34149,
+        "r": "esv:2 Peter:1:16",
+        "w": 4,
+        "l": {},
+        "c": "1 Corinthians 1:17*31738",
+        "a": "h"
+    },
+    {
+        "o": 34149,
+        "r": "esv:2 Peter:1:16",
+        "w": 6,
+        "l": {},
+        "c": "1 Timothy 1:4*33240",
+        "a": "i"
+    },
+    {
+        "o": 34149,
+        "r": "esv:2 Peter:1:16",
+        "w": 13,
+        "l": {},
+        "c": "1 Corinthians 2:4*31758",
+        "a": "j"
+    },
+    {
+        "o": 34149,
+        "r": "esv:2 Peter:1:16",
+        "w": 16,
+        "l": {},
+        "c": "1 Thessalonians 2:19*33107",
+        "a": "k"
+    },
+    {
+        "o": 34149,
+        "r": "esv:2 Peter:1:16",
+        "w": 23,
+        "l": {},
+        "c": "Matthew 17:1–2*26439; Matthew 17:6*26444; Mark 9:2*27397; Luke 9:28–29*28303; John 1:14*29145",
+        "a": "l"
+    },
+    {
+        "o": 34150,
+        "r": "esv:2 Peter:1:17",
+        "w": 21,
+        "l": {},
+        "c": "Matthew 17:5*26443; Mark 9:7*27402; Luke 9:35*28310; Matthew 3:17*25851",
+        "a": "m"
+    },
+    {
+        "o": 34150,
+        "r": "esv:2 Peter:1:17",
+        "w": 26,
+        "l": {},
+        "t": "Or my*i Son,*i my*i (or the*i ) Beloved*i",
+        "a": "n"
+    },
+    {
+        "o": 34151,
+        "r": "esv:2 Peter:1:18",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 3:5*1719; Joshua 5:15*6502",
+        "a": "o"
+    },
+    {
+        "o": 34152,
+        "r": "esv:2 Peter:1:19",
+        "w": 0,
+        "l": {},
+        "c": "1 Peter 1:10*34021",
+        "a": "p"
+    },
+    {
+        "o": 34152,
+        "r": "esv:2 Peter:1:19",
+        "w": 17,
+        "l": {},
+        "c": "Psalm 119:105*17745; John 5:35*29351",
+        "a": "q"
+    },
+    {
+        "o": 34152,
+        "r": "esv:2 Peter:1:19",
+        "w": 27,
+        "l": {},
+        "c": "Revelation 2:28*34445; Revelation 22:16*34851; Malachi 4:2*25771",
+        "a": "r"
+    },
+    {
+        "o": 34152,
+        "r": "esv:2 Peter:1:19",
+        "w": 29,
+        "l": {},
+        "c": "2 Corinthians 4:6*32279",
+        "a": "s"
+    },
+    {
+        "o": 34154,
+        "r": "esv:2 Peter:1:21",
+        "w": 0,
+        "l": {},
+        "c": "2 Timothy 3:16*33434",
+        "a": "t"
+    },
+    {
+        "o": 34154,
+        "r": "esv:2 Peter:1:21",
+        "w": 15,
+        "l": {},
+        "c": "1 Peter 1:11*34022; 2 Samuel 23:2*9488; Luke 1:70*27882; Acts 1:16*30130; Acts 3:18*30212",
+        "a": "u"
+    }
+]

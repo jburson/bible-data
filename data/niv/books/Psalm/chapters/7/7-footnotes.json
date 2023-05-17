@@ -1,0 +1,34 @@
+[
+    {
+        "o": 15300,
+        "r": "niv:Psalm:7:0",
+        "w": 1,
+        "l": {},
+        "t": "Title: Probably a literary or musical term",
+        "a": "a"
+    },
+    {
+        "o": 15305,
+        "r": "niv:Psalm:7:5",
+        "w": 22,
+        "l": {},
+        "t": "7:5*r The Hebrew has Selah*i (a word of uncertain meaning) here.",
+        "a": "b"
+    },
+    {
+        "o": 15310,
+        "r": "niv:Psalm:7:10",
+        "w": 1,
+        "l": {},
+        "t": "7:10*r Or sovereign*i",
+        "a": "c"
+    },
+    {
+        "o": 15312,
+        "r": "niv:Psalm:7:12",
+        "w": 5,
+        "l": {},
+        "t": "7:12*r Or If*i anyone*i does*i not*i repent,*i /*i God*i",
+        "a": "d"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "o": 16241,
+        "r": "niv:Psalm:62:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 62:1-12 is numbered 62:2-13.",
+        "a": "a"
+    },
+    {
+        "o": 16245,
+        "r": "niv:Psalm:62:4",
+        "w": 25,
+        "l": {},
+        "t": "62:4*r The Hebrew has Selah*i (a word of uncertain meaning) here and at the end of verse 8.",
+        "a": "b"
+    },
+    {
+        "o": 16248,
+        "r": "niv:Psalm:62:7",
+        "w": 7,
+        "l": {},
+        "t": "62:7*r Or /*i God*i Most*i High*i is*i my*i salvation*i and*i my*i honor*i",
+        "a": "c"
+    }
+]

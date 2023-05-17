@@ -1,0 +1,42 @@
+[
+    {
+        "o": 15813,
+        "r": "niv:Psalm:37:0",
+        "w": 0,
+        "l": {},
+        "t": "This psalm is an acrostic poem, the stanzas of which begin with the successive letters of the Hebrew alphabet.",
+        "a": "a"
+    },
+    {
+        "o": 15839,
+        "r": "niv:Psalm:37:26",
+        "w": 12,
+        "l": {},
+        "t": "37:26*r Or freely;*i /*i the*i names*i of*i their*i children*i will*i be*i used*i in*i blessings*i (see Gen. 48:20); or freely;*i /*i others*i will*i see*i that*i their*i children*i are*i blessed*i",
+        "a": "b"
+    },
+    {
+        "o": 15841,
+        "r": "niv:Psalm:37:28",
+        "w": 17,
+        "l": {},
+        "t": "37:28*r See Septuagint; Hebrew They*i will*i be*i protected*i forever*i",
+        "a": "c"
+    },
+    {
+        "o": 15850,
+        "r": "niv:Psalm:37:37",
+        "w": 12,
+        "l": {},
+        "t": "37:37*r Or upright;*i /*i those*i who*i seek*i peace*i will*i have*i posterity*i",
+        "a": "d"
+    },
+    {
+        "o": 15851,
+        "r": "niv:Psalm:37:38",
+        "w": 10,
+        "l": {},
+        "t": "37:38*r Or posterity*i",
+        "a": "e"
+    }
+]

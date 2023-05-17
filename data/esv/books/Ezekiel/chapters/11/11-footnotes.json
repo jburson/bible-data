@@ -1,0 +1,418 @@
+[
+    {
+        "o": 22966,
+        "r": "esv:Ezekiel:11:1",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 11:24*22990; Ezekiel 3:12*22807",
+        "a": "a"
+    },
+    {
+        "o": 22966,
+        "r": "esv:Ezekiel:11:1",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 10:19*22960",
+        "a": "b"
+    },
+    {
+        "o": 22966,
+        "r": "esv:Ezekiel:11:1",
+        "w": 30,
+        "l": {},
+        "c": "Ezekiel 8:16*22924",
+        "a": "c"
+    },
+    {
+        "o": 22966,
+        "r": "esv:Ezekiel:11:1",
+        "w": 38,
+        "l": {},
+        "c": "Jeremiah 28:1*21832",
+        "a": "d"
+    },
+    {
+        "o": 22966,
+        "r": "esv:Ezekiel:11:1",
+        "w": 43,
+        "l": {},
+        "c": "Ezekiel 11:13*22979",
+        "a": "e"
+    },
+    {
+        "o": 22967,
+        "r": "esv:Ezekiel:11:2",
+        "w": 4,
+        "l": {},
+        "c": "Ezekiel 2:1*22785",
+        "a": "f"
+    },
+    {
+        "o": 22968,
+        "r": "esv:Ezekiel:11:3",
+        "w": 0,
+        "l": {},
+        "c": "Jeremiah 29:28*21879",
+        "a": "g"
+    },
+    {
+        "o": 22968,
+        "r": "esv:Ezekiel:11:3",
+        "w": 1,
+        "l": {},
+        "c": "Ezekiel 12:22*23015; Ezekiel 12:27*23020",
+        "a": "h"
+    },
+    {
+        "o": 22968,
+        "r": "esv:Ezekiel:11:3",
+        "w": 6,
+        "l": {},
+        "t": "Or Is*i not*i the*i time*i near . . .*i ?*i",
+        "a": "i"
+    },
+    {
+        "o": 22968,
+        "r": "esv:Ezekiel:11:3",
+        "w": 9,
+        "l": {},
+        "c": "Ezekiel 24:3*23399; Ezekiel 24:6*23402",
+        "a": "j"
+    },
+    {
+        "o": 22970,
+        "r": "esv:Ezekiel:11:5",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 2:2*22786",
+        "a": "k"
+    },
+    {
+        "o": 22970,
+        "r": "esv:Ezekiel:11:5",
+        "w": 25,
+        "l": {},
+        "c": "Ezekiel 20:32*23259; Ezekiel 38:10*23818; Isaiah 29:15*20253",
+        "a": "l"
+    },
+    {
+        "o": 22971,
+        "r": "esv:Ezekiel:11:6",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 7:23*22902",
+        "a": "m"
+    },
+    {
+        "o": 22972,
+        "r": "esv:Ezekiel:11:7",
+        "w": 5,
+        "l": {},
+        "c": "Ezekiel 24:7*23403",
+        "a": "n"
+    },
+    {
+        "o": 22972,
+        "r": "esv:Ezekiel:11:7",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 11:3*22968",
+        "a": "o"
+    },
+    {
+        "o": 22972,
+        "r": "esv:Ezekiel:11:7",
+        "w": 21,
+        "l": {},
+        "c": "Ezekiel 11:3*22968",
+        "a": "p"
+    },
+    {
+        "o": 22973,
+        "r": "esv:Ezekiel:11:8",
+        "w": 0,
+        "l": {},
+        "c": "Jeremiah 42:16*22241",
+        "a": "q"
+    },
+    {
+        "o": 22974,
+        "r": "esv:Ezekiel:11:9",
+        "w": 11,
+        "l": {},
+        "c": "Ezekiel 7:21*22900",
+        "a": "r"
+    },
+    {
+        "o": 22974,
+        "r": "esv:Ezekiel:11:9",
+        "w": 19,
+        "l": {},
+        "c": "Ezekiel 5:8*22852",
+        "a": "s"
+    },
+    {
+        "o": 22975,
+        "r": "esv:Ezekiel:11:10",
+        "w": 0,
+        "l": {},
+        "c": "Jeremiah 39:6*22172; 2 Kings 25:18–21*11258",
+        "a": "t"
+    },
+    {
+        "o": 22975,
+        "r": "esv:Ezekiel:11:10",
+        "w": 14,
+        "l": {},
+        "c": "Ezekiel 6:7*22870",
+        "a": "u"
+    },
+    {
+        "o": 22976,
+        "r": "esv:Ezekiel:11:11",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 11:3*22968; Ezekiel 11:7*22972",
+        "a": "v"
+    },
+    {
+        "o": 22977,
+        "r": "esv:Ezekiel:11:12",
+        "w": 20,
+        "l": {},
+        "c": "Ezekiel 8:10*22918; Ezekiel 8:14*22922; Ezekiel 8:16*22924",
+        "a": "w"
+    },
+    {
+        "o": 22978,
+        "r": "esv:Ezekiel:11:13",
+        "w": 8,
+        "l": {},
+        "c": "Acts 5:5*30268",
+        "a": "x"
+    },
+    {
+        "o": 22978,
+        "r": "esv:Ezekiel:11:13",
+        "w": 9,
+        "l": {},
+        "c": "Ezekiel 11:1*22966",
+        "a": "y"
+    },
+    {
+        "o": 22978,
+        "r": "esv:Ezekiel:11:13",
+        "w": 15,
+        "l": {},
+        "c": "Ezekiel 9:8*22936",
+        "a": "z"
+    },
+    {
+        "o": 22978,
+        "r": "esv:Ezekiel:11:13",
+        "w": 31,
+        "l": {},
+        "c": "Ezekiel 9:8*22936",
+        "a": "a"
+    },
+    {
+        "o": 22978,
+        "r": "esv:Ezekiel:11:13",
+        "w": 34,
+        "l": {},
+        "c": "Ezekiel 20:17*23243",
+        "a": "b"
+    },
+    {
+        "o": 22981,
+        "r": "esv:Ezekiel:11:15",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 2:1*22785",
+        "a": "c"
+    },
+    {
+        "o": 22981,
+        "r": "esv:Ezekiel:11:15",
+        "w": 9,
+        "l": {},
+        "t": "Hebrew the*i men*i of*i your*i redemption*i",
+        "a": "d"
+    },
+    {
+        "o": 22981,
+        "r": "esv:Ezekiel:11:15",
+        "w": 27,
+        "l": {},
+        "c": "1 Samuel 26:19*8675",
+        "a": "e"
+    },
+    {
+        "o": 22982,
+        "r": "esv:Ezekiel:11:16",
+        "w": 24,
+        "l": {},
+        "c": "Ezekiel 37:26*23804; Ezekiel 37:28*23806; Isaiah 8:14*19818; Revelation 21:22*34827",
+        "a": "f"
+    },
+    {
+        "o": 22982,
+        "r": "esv:Ezekiel:11:16",
+        "w": 34,
+        "l": {},
+        "t": "Or in*i small*i measure*i",
+        "a": "g"
+    },
+    {
+        "o": 22983,
+        "r": "esv:Ezekiel:11:17",
+        "w": 6,
+        "l": {},
+        "c": "Ezekiel 20:41*23268; Ezekiel 28:25*23537; Ezekiel 34:13*23697; Ezekiel 36:24*23761; Ezekiel 37:21*23799; Ezekiel 38:8*23816; Ezekiel 39:27*23860; Isaiah 11:12*19901",
+        "a": "h"
+    },
+    {
+        "o": 22983,
+        "r": "esv:Ezekiel:11:17",
+        "w": 25,
+        "l": {},
+        "c": "Ezekiel 20:41*23268; Ezekiel 28:25*23537; Ezekiel 34:13*23697; Ezekiel 36:24*23761; Ezekiel 37:21*23799; Ezekiel 38:8*23816; Ezekiel 39:27*23860; Isaiah 11:12*19901",
+        "a": "i"
+    },
+    {
+        "o": 22984,
+        "r": "esv:Ezekiel:11:18",
+        "w": 4,
+        "l": {},
+        "c": "Ezekiel 37:23*23801",
+        "a": "j"
+    },
+    {
+        "o": 22984,
+        "r": "esv:Ezekiel:11:18",
+        "w": 11,
+        "l": {},
+        "c": "Ezekiel 5:11*22855",
+        "a": "k"
+    },
+    {
+        "o": 22985,
+        "r": "esv:Ezekiel:11:19",
+        "w": 0,
+        "l": {},
+        "c": "Jeremiah 32:39*21995; Acts 4:32*30256",
+        "a": "l"
+    },
+    {
+        "o": 22985,
+        "r": "esv:Ezekiel:11:19",
+        "w": 7,
+        "l": {},
+        "c": "Ezekiel 36:26*23763; Ezekiel 18:31*23207; Psalm 51:10*16243; Jeremiah 31:33*21945",
+        "a": "m"
+    },
+    {
+        "o": 22985,
+        "r": "esv:Ezekiel:11:19",
+        "w": 15,
+        "l": {},
+        "c": "Zechariah 7:12*25575",
+        "a": "n"
+    },
+    {
+        "o": 22985,
+        "r": "esv:Ezekiel:11:19",
+        "w": 25,
+        "l": {},
+        "c": "2 Corinthians 3:3*32255",
+        "a": "o"
+    },
+    {
+        "o": 22986,
+        "r": "esv:Ezekiel:11:20",
+        "w": 0,
+        "l": {},
+        "c": "Psalm 105:45*17347",
+        "a": "p"
+    },
+    {
+        "o": 22986,
+        "r": "esv:Ezekiel:11:20",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 14:11*23060; Ezekiel 36:28*23765; Leviticus 26:12*3855; Jeremiah 30:22*21907; Jeremiah 31:33*21945",
+        "a": "q"
+    },
+    {
+        "o": 22987,
+        "r": "esv:Ezekiel:11:21",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 9:4–6*22932",
+        "a": "r"
+    },
+    {
+        "o": 22987,
+        "r": "esv:Ezekiel:11:21",
+        "w": 13,
+        "l": {},
+        "c": "Ezekiel 7:4*22883",
+        "a": "s"
+    },
+    {
+        "o": 22987,
+        "r": "esv:Ezekiel:11:21",
+        "w": 15,
+        "l": {},
+        "t": "Hebrew To*i the*i heart*i of*i their*i detestable*i things*i and*i their*i abominations*i their*i heart*i goes;*i I*i will*i",
+        "a": "t"
+    },
+    {
+        "o": 22988,
+        "r": "esv:Ezekiel:11:22",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 10:19*22960",
+        "a": "u"
+    },
+    {
+        "o": 22988,
+        "r": "esv:Ezekiel:11:22",
+        "w": 11,
+        "l": {},
+        "c": "Ezekiel 10:19*22960",
+        "a": "v"
+    },
+    {
+        "o": 22989,
+        "r": "esv:Ezekiel:11:23",
+        "w": 14,
+        "l": {},
+        "c": "Zechariah 14:4*25691; Ezekiel 43:2*23974",
+        "a": "w"
+    },
+    {
+        "o": 22990,
+        "r": "esv:Ezekiel:11:24",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 11:1*22966; Ezekiel 3:12*22807",
+        "a": "x"
+    },
+    {
+        "o": 22990,
+        "r": "esv:Ezekiel:11:24",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 1:1*22754",
+        "a": "y"
+    },
+    {
+        "o": 22990,
+        "r": "esv:Ezekiel:11:24",
+        "w": 16,
+        "l": {},
+        "c": "Ezekiel 1:3*22757",
+        "a": "z"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "o": 2509,
+        "r": "kjv:Exodus:31:7",
+        "w": 24,
+        "l": {},
+        "t": "furniture: Heb. vessels",
+        "a": "a"
+    },
+    {
+        "o": 2510,
+        "r": "kjv:Exodus:31:8",
+        "w": 18,
+        "l": {},
+        "t": "furniture: Heb. vessels",
+        "a": "b"
+    },
+    {
+        "o": 2511,
+        "r": "kjv:Exodus:31:9",
+        "w": 15,
+        "l": {},
+        "t": "furniture: Heb. vessels",
+        "a": "c"
+    },
+    {
+        "o": 2517,
+        "r": "kjv:Exodus:31:15",
+        "w": 33,
+        "l": {},
+        "t": "holy: Heb. holiness",
+        "a": "d"
+    }
+]

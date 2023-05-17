@@ -1,0 +1,274 @@
+[
+    {
+        "o": 8287,
+        "r": "csb:1 Samuel:13:1",
+        "w": 3,
+        "l": {},
+        "t": "13:1*r Some LXX mss; MT reads was one year",
+        "a": "a"
+    },
+    {
+        "o": 8287,
+        "r": "csb:1 Samuel:13:1",
+        "w": 13,
+        "l": {},
+        "t": "13:1*r Text emended; MT reads two years",
+        "a": "b"
+    },
+    {
+        "o": 8287,
+        "r": "csb:1 Samuel:13:1",
+        "w": 15,
+        "l": {},
+        "t": "13:1*r Some LXX mss omit v. 1",
+        "a": "c"
+    },
+    {
+        "o": 8288,
+        "r": "csb:1 Samuel:13:2",
+        "w": 15,
+        "l": {},
+        "c": "1Sm 14:31*8345",
+        "a": "d"
+    },
+    {
+        "o": 8288,
+        "r": "csb:1 Samuel:13:2",
+        "w": 28,
+        "l": {},
+        "c": "1Sm 10:26*8238",
+        "a": "e"
+    },
+    {
+        "o": 8289,
+        "r": "csb:1 Samuel:13:3",
+        "w": 4,
+        "l": {},
+        "t": "13:3*r Or governor, also in v. 4",
+        "a": "f"
+    },
+    {
+        "o": 8289,
+        "r": "csb:1 Samuel:13:3",
+        "w": 4,
+        "l": {},
+        "c": "1Sm 10:5*8216",
+        "a": "g"
+    },
+    {
+        "o": 8289,
+        "r": "csb:1 Samuel:13:3",
+        "w": 6,
+        "l": {},
+        "t": "13:3*r LXX; MT reads Geba",
+        "a": "h"
+    },
+    {
+        "o": 8289,
+        "r": "csb:1 Samuel:13:3",
+        "w": 21,
+        "l": {},
+        "c": "Jdg 3:27*7304; 6:34*7407",
+        "a": "i"
+    },
+    {
+        "o": 8289,
+        "r": "csb:1 Samuel:13:3",
+        "w": 26,
+        "l": {},
+        "t": "13:3*r LXX reads “The slaves have revolted”",
+        "a": "j"
+    },
+    {
+        "o": 8289,
+        "r": "csb:1 Samuel:13:3",
+        "w": 26,
+        "l": {},
+        "c": "Nm 10:9*4397; Jdg 3:27*7304; 6:34*7407",
+        "a": "k"
+    },
+    {
+        "o": 8291,
+        "r": "csb:1 Samuel:13:5",
+        "w": 9,
+        "l": {},
+        "t": "13:5*r One LXX ms, Syr; MT reads 30,000",
+        "a": "l"
+    },
+    {
+        "o": 8291,
+        "r": "csb:1 Samuel:13:5",
+        "w": 23,
+        "l": {},
+        "c": "Jos 11:4*6753",
+        "a": "m"
+    },
+    {
+        "o": 8291,
+        "r": "csb:1 Samuel:13:5",
+        "w": 33,
+        "l": {},
+        "t": "13:5*r LXX reads Michmash, opposite Beth-horon to the south",
+        "a": "n"
+    },
+    {
+        "o": 8291,
+        "r": "csb:1 Samuel:13:5",
+        "w": 33,
+        "l": {},
+        "c": "1Sm 14:23*8337",
+        "a": "o"
+    },
+    {
+        "o": 8292,
+        "r": "csb:1 Samuel:13:6",
+        "w": 30,
+        "l": {},
+        "c": "Jdg 6:2*7372",
+        "a": "p"
+    },
+    {
+        "o": 8294,
+        "r": "csb:1 Samuel:13:8",
+        "w": 11,
+        "l": {},
+        "c": "1Sm 10:8*8219",
+        "a": "q"
+    },
+    {
+        "o": 8299,
+        "r": "csb:1 Samuel:13:13",
+        "w": 7,
+        "l": {},
+        "c": "2Ch 16:9*12779",
+        "a": "r"
+    },
+    {
+        "o": 8299,
+        "r": "csb:1 Samuel:13:13",
+        "w": 19,
+        "l": {},
+        "c": "1Sm 15:22,28*8391",
+        "a": "s"
+    },
+    {
+        "o": 8299,
+        "r": "csb:1 Samuel:13:13",
+        "w": 35,
+        "l": {},
+        "c": "1Sm 1:22*8007",
+        "a": "t"
+    },
+    {
+        "o": 8300,
+        "r": "csb:1 Samuel:13:14",
+        "w": 6,
+        "l": {},
+        "c": "1Sm 15:28*8397",
+        "a": "u"
+    },
+    {
+        "o": 8300,
+        "r": "csb:1 Samuel:13:14",
+        "w": 16,
+        "l": {},
+        "t": "13:14*r Lit man according to his heart",
+        "a": "v"
+    },
+    {
+        "o": 8300,
+        "r": "csb:1 Samuel:13:14",
+        "w": 16,
+        "l": {},
+        "c": "1Sm 16:7*8413; Ac 13:22*30988",
+        "a": "w"
+    },
+    {
+        "o": 8301,
+        "r": "csb:1 Samuel:13:15",
+        "w": 2,
+        "l": {},
+        "t": "13:15*r LXX reads Samuel left Gilgal and went on his way, and the rest of the people followed Saul to join the people in his army. They went",
+        "a": "x"
+    },
+    {
+        "o": 8302,
+        "r": "csb:1 Samuel:13:16",
+        "w": 14,
+        "l": {},
+        "c": "1Sm 13:2–3*8288",
+        "a": "y"
+    },
+    {
+        "o": 8303,
+        "r": "csb:1 Samuel:13:17",
+        "w": 1,
+        "l": {},
+        "c": "1Sm 14:15*8327",
+        "a": "z"
+    },
+    {
+        "o": 8303,
+        "r": "csb:1 Samuel:13:17",
+        "w": 16,
+        "l": {},
+        "c": "Jos 18:23*6985",
+        "a": "a"
+    },
+    {
+        "o": 8304,
+        "r": "csb:1 Samuel:13:18",
+        "w": 6,
+        "l": {},
+        "c": "Jos 18:13–14*6974",
+        "a": "b"
+    },
+    {
+        "o": 8304,
+        "r": "csb:1 Samuel:13:18",
+        "w": 23,
+        "l": {},
+        "c": "Neh 11:34*14043",
+        "a": "c"
+    },
+    {
+        "o": 8305,
+        "r": "csb:1 Samuel:13:19",
+        "w": 10,
+        "l": {},
+        "c": "Jdg 5:8*7345; 2Kg 24:14*11332",
+        "a": "d"
+    },
+    {
+        "o": 8306,
+        "r": "csb:1 Samuel:13:20",
+        "w": 15,
+        "l": {},
+        "t": "13:20*r LXX; MT reads plowshares",
+        "a": "e"
+    },
+    {
+        "o": 8307,
+        "r": "csb:1 Samuel:13:21",
+        "w": 6,
+        "l": {},
+        "t": "13:21*r Lit of a pim; about one-fourth ounce of silver",
+        "a": "f"
+    },
+    {
+        "o": 8308,
+        "r": "csb:1 Samuel:13:22",
+        "w": 25,
+        "l": {},
+        "c": "Jdg 5:8*7345",
+        "a": "g"
+    },
+    {
+        "o": 8310,
+        "r": "csb:1 Samuel:13:23",
+        "w": 3,
+        "l": {},
+        "c": "1Sm 14:1*8312; 2Sm 23:14*9575",
+        "a": "h"
+    }
+]

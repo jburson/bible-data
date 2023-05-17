@@ -1,0 +1,26 @@
+[
+    {
+        "o": 3532,
+        "r": "niv:Leviticus:17:3",
+        "w": 5,
+        "l": {},
+        "t": "17:3*r The Hebrew word can refer to either male or female.",
+        "a": "a"
+    },
+    {
+        "o": 3536,
+        "r": "niv:Leviticus:17:7",
+        "w": 12,
+        "l": {},
+        "t": "17:7*r Or the*i demons*i",
+        "a": "b"
+    },
+    {
+        "o": 3540,
+        "r": "niv:Leviticus:17:11",
+        "w": 34,
+        "l": {},
+        "t": "17:11*r Or atonement*i by*i the*i life*i in*i the*i blood*i",
+        "a": "c"
+    }
+]

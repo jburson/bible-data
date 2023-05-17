@@ -1,0 +1,26 @@
+[
+    {
+        "o": 16461,
+        "r": "niv:Psalm:73:4",
+        "w": 9,
+        "l": {},
+        "t": "73:4*r With a different word division of the Hebrew; Masoretic Text struggles*i at*i their*i death;*i /*i their*i bodies*i are*i healthy*i",
+        "a": "a"
+    },
+    {
+        "o": 16464,
+        "r": "niv:Psalm:73:7",
+        "w": 5,
+        "l": {},
+        "t": "73:7*r Syriac (see also Septuagint); Hebrew Their*i eyes*i bulge*i with*i fat*i",
+        "a": "b"
+    },
+    {
+        "o": 16467,
+        "r": "niv:Psalm:73:10",
+        "w": 11,
+        "l": {},
+        "t": "73:10*r The meaning of the Hebrew for this verse is uncertain.",
+        "a": "c"
+    }
+]

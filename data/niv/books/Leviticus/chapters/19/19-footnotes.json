@@ -1,0 +1,42 @@
+[
+    {
+        "o": 3599,
+        "r": "niv:Leviticus:19:20",
+        "w": 28,
+        "l": {},
+        "t": "19:20*r Or be*i an*i inquiry*i",
+        "a": "a"
+    },
+    {
+        "o": 3602,
+        "r": "niv:Leviticus:19:23",
+        "w": 16,
+        "l": {},
+        "t": "19:23*r Hebrew uncircumcised*i",
+        "a": "b"
+    },
+    {
+        "o": 3602,
+        "r": "niv:Leviticus:19:23",
+        "w": 25,
+        "l": {},
+        "t": "19:23*r Hebrew uncircumcised*i",
+        "a": "c"
+    },
+    {
+        "o": 3615,
+        "r": "niv:Leviticus:19:36",
+        "w": 8,
+        "l": {},
+        "t": "19:36*r An ephah was a dry measure having the capacity of about 3/5 of a bushel or about 22 liters.",
+        "a": "d"
+    },
+    {
+        "o": 3615,
+        "r": "niv:Leviticus:19:36",
+        "w": 12,
+        "l": {},
+        "t": "19:36*r A hin was a liquid measure having the capacity of about 1 gallon or about 3.8 liters.",
+        "a": "e"
+    }
+]

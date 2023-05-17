@@ -1,0 +1,26 @@
+[
+    {
+        "o": 13200,
+        "r": "niv:Ezra:2:25",
+        "w": 2,
+        "l": {},
+        "t": "2:25*r See Septuagint (see also Neh. 7:29); Hebrew Kiriath*i Arim.*i",
+        "a": "a"
+    },
+    {
+        "o": 13244,
+        "r": "niv:Ezra:2:69",
+        "w": 13,
+        "l": {},
+        "t": "2:69*r That is, about 1,100 pounds or about 500 kilograms",
+        "a": "b"
+    },
+    {
+        "o": 13244,
+        "r": "niv:Ezra:2:69",
+        "w": 17,
+        "l": {},
+        "t": "2:69*r That is, about 3 tons or about 2.8 metric tons",
+        "a": "c"
+    }
+]

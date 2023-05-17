@@ -1,0 +1,26 @@
+[
+    {
+        "o": 16009,
+        "r": "niv:Psalm:47:0",
+        "w": 0,
+        "l": {},
+        "t": "In Hebrew texts 47:1-9 is numbered 47:2-10.",
+        "a": "a"
+    },
+    {
+        "o": 16013,
+        "r": "niv:Psalm:47:4",
+        "w": 12,
+        "l": {},
+        "t": "47:4*r The Hebrew has Selah*i (a word of uncertain meaning) here.",
+        "a": "b"
+    },
+    {
+        "o": 16018,
+        "r": "niv:Psalm:47:9",
+        "w": 16,
+        "l": {},
+        "t": "47:9*r Or shields*i",
+        "a": "c"
+    }
+]

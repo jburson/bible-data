@@ -1,0 +1,42 @@
+[
+    {
+        "o": 31916,
+        "r": "niv:2 Corinthians:6:2",
+        "w": 20,
+        "l": {},
+        "t": "6:2*r Isaiah 49:8",
+        "a": "a"
+    },
+    {
+        "o": 31931,
+        "r": "niv:2 Corinthians:6:15",
+        "w": 7,
+        "l": {},
+        "t": "6:15*r Greek Beliar*i , a variant of Belial*i",
+        "a": "b"
+    },
+    {
+        "o": 31932,
+        "r": "niv:2 Corinthians:6:16",
+        "w": 44,
+        "l": {},
+        "t": "6:16*r Lev. 26:12; Jer. 32:38; Ezek. 37:27",
+        "a": "c"
+    },
+    {
+        "o": 31933,
+        "r": "niv:2 Corinthians:6:17",
+        "w": 19,
+        "l": {},
+        "t": "6:17*r Isaiah 52:11; Ezek. 20:34,41",
+        "a": "d"
+    },
+    {
+        "o": 31934,
+        "r": "niv:2 Corinthians:6:18",
+        "w": 19,
+        "l": {},
+        "t": "6:18*r 2 Samuel 7:14; 7:8",
+        "a": "e"
+    }
+]

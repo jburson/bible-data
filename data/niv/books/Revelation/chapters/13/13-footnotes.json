@@ -1,0 +1,42 @@
+[
+    {
+        "o": 34203,
+        "r": "niv:Revelation:13:1",
+        "w": 1,
+        "l": {},
+        "t": "13:1*r Some manuscripts And*i I*i",
+        "a": "a"
+    },
+    {
+        "o": 34210,
+        "r": "niv:Revelation:13:8",
+        "w": 31,
+        "l": {},
+        "t": "13:8*r Or written*i from*i the*i creation*i of*i the*i world*i in*i the*i book*i of*i life*i belonging*i to*i the*i Lamb*i who*i was*i slain*i",
+        "a": "b"
+    },
+    {
+        "o": 34212,
+        "r": "niv:Revelation:13:10",
+        "w": 17,
+        "l": {},
+        "t": "13:10*r Some manuscripts anyone*i kills*i",
+        "a": "c"
+    },
+    {
+        "o": 34212,
+        "r": "niv:Revelation:13:10",
+        "w": 27,
+        "l": {},
+        "t": "13:10*r Jer. 15:2",
+        "a": "d"
+    },
+    {
+        "o": 34221,
+        "r": "niv:Revelation:13:18",
+        "w": 23,
+        "l": {},
+        "t": "13:18*r Or is*i humanity’s*i number*i",
+        "a": "e"
+    }
+]

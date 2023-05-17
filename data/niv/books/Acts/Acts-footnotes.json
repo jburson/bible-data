@@ -1,0 +1,610 @@
+[
+    {
+        "o": 29733,
+        "r": "niv:Acts:1:5",
+        "w": 3,
+        "l": {},
+        "t": "1:5*r Or in*i",
+        "a": "a"
+    },
+    {
+        "o": 29733,
+        "r": "niv:Acts:1:5",
+        "w": 14,
+        "l": {},
+        "t": "1:5*r Or in*i",
+        "a": "b"
+    },
+    {
+        "o": 29741,
+        "r": "niv:Acts:1:12",
+        "w": 17,
+        "l": {},
+        "t": "1:12*r That is, about 5/8 mile or about 1 kilometer",
+        "a": "c"
+    },
+    {
+        "o": 29745,
+        "r": "niv:Acts:1:16",
+        "w": 4,
+        "l": {},
+        "t": "1:16*r The Greek word for brothers*i and*i sisters*i (adelphoi) refers here to believers, both men and women, as part of God’s family; also in 6:3; 11:29; 12:17; 16:40; 18:18, 27; 21:7, 17; 28:14, 15.",
+        "a": "d"
+    },
+    {
+        "o": 29749,
+        "r": "niv:Acts:1:20",
+        "w": 24,
+        "l": {},
+        "t": "1:20*r Psalm 69:25",
+        "a": "e"
+    },
+    {
+        "o": 29749,
+        "r": "niv:Acts:1:20",
+        "w": 32,
+        "l": {},
+        "t": "1:20*r Psalm 109:8",
+        "a": "f"
+    },
+    {
+        "o": 29761,
+        "r": "niv:Acts:2:4",
+        "w": 15,
+        "l": {},
+        "t": "2:4*r Or languages*i ; also in verse 11",
+        "a": "a"
+    },
+    {
+        "o": 29766,
+        "r": "niv:Acts:2:9",
+        "w": 12,
+        "l": {},
+        "t": "2:9*r That is, the Roman province by that name",
+        "a": "b"
+    },
+    {
+        "o": 29779,
+        "r": "niv:Acts:2:21",
+        "w": 12,
+        "l": {},
+        "t": "2:21*r Joel 2:28-32",
+        "a": "c"
+    },
+    {
+        "o": 29781,
+        "r": "niv:Acts:2:23",
+        "w": 20,
+        "l": {},
+        "t": "2:23*r Or of*i those*i not*i having*i the*i law*i (that is, Gentiles)",
+        "a": "d"
+    },
+    {
+        "o": 29786,
+        "r": "niv:Acts:2:28",
+        "w": 18,
+        "l": {},
+        "t": "2:28*r Psalm 16:8-11 (see Septuagint)",
+        "a": "e"
+    },
+    {
+        "o": 29793,
+        "r": "niv:Acts:2:35",
+        "w": 9,
+        "l": {},
+        "t": "2:35*r Psalm 110:1",
+        "a": "f"
+    },
+    {
+        "o": 29832,
+        "r": "niv:Acts:3:23",
+        "w": 14,
+        "l": {},
+        "t": "3:23*r Deut. 18:15,18,19",
+        "a": "a"
+    },
+    {
+        "o": 29834,
+        "r": "niv:Acts:3:25",
+        "w": 29,
+        "l": {},
+        "t": "3:25*r Gen. 22:18; 26:4",
+        "a": "b"
+    },
+    {
+        "o": 29848,
+        "r": "niv:Acts:4:11",
+        "w": 11,
+        "l": {},
+        "t": "4:11*r Psalm 118:22",
+        "a": "a"
+    },
+    {
+        "o": 29864,
+        "r": "niv:Acts:4:26",
+        "w": 19,
+        "l": {},
+        "t": "4:26*r That is, Messiah or Christ",
+        "a": "b"
+    },
+    {
+        "o": 29864,
+        "r": "niv:Acts:4:26",
+        "w": 19,
+        "l": {},
+        "t": "4:26*r Psalm 2:1,2",
+        "a": "c"
+    },
+    {
+        "o": 29925,
+        "r": "niv:Acts:6:1",
+        "w": 12,
+        "l": {},
+        "t": "6:1*r That is, Jews who had adopted the Greek language and culture",
+        "a": "a"
+    },
+    {
+        "o": 29945,
+        "r": "niv:Acts:7:3",
+        "w": 16,
+        "l": {},
+        "t": "7:3*r Gen. 12:1",
+        "a": "a"
+    },
+    {
+        "o": 29949,
+        "r": "niv:Acts:7:7",
+        "w": 26,
+        "l": {},
+        "t": "7:7*r Gen. 15:13,14",
+        "a": "b"
+    },
+    {
+        "o": 29960,
+        "r": "niv:Acts:7:18",
+        "w": 13,
+        "l": {},
+        "t": "7:18*r Exodus 1:8",
+        "a": "c"
+    },
+    {
+        "o": 29962,
+        "r": "niv:Acts:7:20",
+        "w": 11,
+        "l": {},
+        "t": "7:20*r Or was*i fair*i in*i the*i sight*i of*i God*i",
+        "a": "d"
+    },
+    {
+        "o": 29970,
+        "r": "niv:Acts:7:28",
+        "w": 11,
+        "l": {},
+        "t": "7:28*r Exodus 2:14",
+        "a": "e"
+    },
+    {
+        "o": 29974,
+        "r": "niv:Acts:7:32",
+        "w": 13,
+        "l": {},
+        "t": "7:32*r Exodus 3:6",
+        "a": "f"
+    },
+    {
+        "o": 29976,
+        "r": "niv:Acts:7:34",
+        "w": 32,
+        "l": {},
+        "t": "7:34*r Exodus 3:5,7,8,10",
+        "a": "g"
+    },
+    {
+        "o": 29979,
+        "r": "niv:Acts:7:37",
+        "w": 21,
+        "l": {},
+        "t": "7:37*r Deut. 18:15",
+        "a": "h"
+    },
+    {
+        "o": 29982,
+        "r": "niv:Acts:7:40",
+        "w": 28,
+        "l": {},
+        "t": "7:40*r Exodus 32:1",
+        "a": "i"
+    },
+    {
+        "o": 29985,
+        "r": "niv:Acts:7:43",
+        "w": 27,
+        "l": {},
+        "t": "7:43*r Amos 5:25-27 (see Septuagint)",
+        "a": "j"
+    },
+    {
+        "o": 29988,
+        "r": "niv:Acts:7:46",
+        "w": 17,
+        "l": {},
+        "t": "7:46*r Some early manuscripts the*i house*i of*i Jacob*i",
+        "a": "k"
+    },
+    {
+        "o": 29992,
+        "r": "niv:Acts:7:50",
+        "w": 7,
+        "l": {},
+        "t": "7:50*r Isaiah 66:1,2",
+        "a": "l"
+    },
+    {
+        "o": 30036,
+        "r": "niv:Acts:8:27",
+        "w": 11,
+        "l": {},
+        "t": "8:27*r That is, from the southern Nile region",
+        "a": "a"
+    },
+    {
+        "o": 30042,
+        "r": "niv:Acts:8:33",
+        "w": 21,
+        "l": {},
+        "t": "8:33*r Isaiah 53:7,8 (see Septuagint)",
+        "a": "b"
+    },
+    {
+        "o": 30045,
+        "r": "niv:Acts:8:36",
+        "w": 28,
+        "l": {},
+        "t": "8:37*r Some manuscripts include here Philip*i said,*i “If*i you*i believe*i with*i all*i your*i heart,*i you*i may.”*i The*i eunuch*i answered,*i “I*i believe*i that*i Jesus*i Christ*i is*i the*i Son*i of*i God.”*i",
+        "a": "c"
+    },
+    {
+        "o": 30081,
+        "r": "niv:Acts:9:29",
+        "w": 7,
+        "l": {},
+        "t": "9:29*r That is, Jews who had adopted the Greek language and culture",
+        "a": "a"
+    },
+    {
+        "o": 30118,
+        "r": "niv:Acts:10:19",
+        "w": 14,
+        "l": {},
+        "t": "10:19*r One early manuscript two*i ; other manuscripts do not have the number.",
+        "a": "a"
+    },
+    {
+        "o": 30147,
+        "r": "niv:Acts:10:46",
+        "w": 6,
+        "l": {},
+        "t": "10:46*r Or other*i languages*i",
+        "a": "b"
+    },
+    {
+        "o": 30167,
+        "r": "niv:Acts:11:16",
+        "w": 10,
+        "l": {},
+        "t": "11:16*r Or in*i",
+        "a": "a"
+    },
+    {
+        "o": 30167,
+        "r": "niv:Acts:11:16",
+        "w": 17,
+        "l": {},
+        "t": "11:16*r Or in*i",
+        "a": "b"
+    },
+    {
+        "o": 30212,
+        "r": "niv:Acts:12:25",
+        "w": 10,
+        "l": {},
+        "t": "12:25*r Some manuscripts to*i",
+        "a": "a"
+    },
+    {
+        "o": 30233,
+        "r": "niv:Acts:13:18",
+        "w": 7,
+        "l": {},
+        "t": "13:18*r Some manuscripts he*i cared*i for*i them*i",
+        "a": "a"
+    },
+    {
+        "o": 30248,
+        "r": "niv:Acts:13:33",
+        "w": 28,
+        "l": {},
+        "t": "13:33*r Psalm 2:7",
+        "a": "b"
+    },
+    {
+        "o": 30249,
+        "r": "niv:Acts:13:34",
+        "w": 30,
+        "l": {},
+        "t": "13:34*r Isaiah 55:3",
+        "a": "c"
+    },
+    {
+        "o": 30250,
+        "r": "niv:Acts:13:35",
+        "w": 14,
+        "l": {},
+        "t": "13:35*r Psalm 16:10 (see Septuagint)",
+        "a": "d"
+    },
+    {
+        "o": 30256,
+        "r": "niv:Acts:13:41",
+        "w": 25,
+        "l": {},
+        "t": "13:41*r Hab. 1:5",
+        "a": "e"
+    },
+    {
+        "o": 30262,
+        "r": "niv:Acts:13:47",
+        "w": 12,
+        "l": {},
+        "t": "13:47*r The Greek is singular.",
+        "a": "f"
+    },
+    {
+        "o": 30262,
+        "r": "niv:Acts:13:47",
+        "w": 19,
+        "l": {},
+        "t": "13:47*r The Greek is singular.",
+        "a": "g"
+    },
+    {
+        "o": 30262,
+        "r": "niv:Acts:13:47",
+        "w": 28,
+        "l": {},
+        "t": "13:47*r Isaiah 49:6",
+        "a": "h"
+    },
+    {
+        "o": 30294,
+        "r": "niv:Acts:14:23",
+        "w": 4,
+        "l": {},
+        "t": "14:23*r Or Barnabas*i ordained*i elders*i ; or Barnabas*i had*i elders*i elected*i",
+        "a": "a"
+    },
+    {
+        "o": 30315,
+        "r": "niv:Acts:15:14",
+        "w": 0,
+        "l": {},
+        "t": "15:14*r Greek Simeon*i , a variant of Simon*i ; that is, Peter",
+        "a": "a"
+    },
+    {
+        "o": 30318,
+        "r": "niv:Acts:15:17",
+        "w": 23,
+        "l": {},
+        "t": "15:17*r Amos 9:11,12 (see Septuagint)",
+        "a": "b"
+    },
+    {
+        "o": 30319,
+        "r": "niv:Acts:15:18",
+        "w": 4,
+        "l": {},
+        "t": "15:17,18*r Some manuscripts things’—*i /*i the*i Lord’s*i work*i is*i known*i to*i him*i from*i long*i ago*i",
+        "a": "c"
+    },
+    {
+        "o": 30335,
+        "r": "niv:Acts:15:33",
+        "w": 24,
+        "l": {},
+        "t": "15:34*r Some manuscripts include here But*i Silas*i decided*i to*i remain*i there.*i",
+        "a": "d"
+    },
+    {
+        "o": 30359,
+        "r": "niv:Acts:16:12",
+        "w": 15,
+        "l": {},
+        "t": "16:12*r The text and meaning of the Greek for the*i leading*i city*i of*i that*i district*i are uncertain.",
+        "a": "a"
+    },
+    {
+        "o": 30395,
+        "r": "niv:Acts:17:5",
+        "w": 44,
+        "l": {},
+        "t": "17:5*r Or the*i assembly*i of*i the*i people*i",
+        "a": "a"
+    },
+    {
+        "o": 30420,
+        "r": "niv:Acts:17:28",
+        "w": 10,
+        "l": {},
+        "t": "17:28*r From the Cretan philosopher Epimenides",
+        "a": "b"
+    },
+    {
+        "o": 30420,
+        "r": "niv:Acts:17:28",
+        "w": 22,
+        "l": {},
+        "t": "17:28*r From the Cilician Stoic philosopher Aratus",
+        "a": "c"
+    },
+    {
+        "o": 30454,
+        "r": "niv:Acts:18:25",
+        "w": 15,
+        "l": {},
+        "t": "18:25*r Or with*i fervor*i in*i the*i Spirit*i",
+        "a": "a"
+    },
+    {
+        "o": 30461,
+        "r": "niv:Acts:19:2",
+        "w": 9,
+        "l": {},
+        "t": "19:2*r Or after*i",
+        "a": "a"
+    },
+    {
+        "o": 30465,
+        "r": "niv:Acts:19:6",
+        "w": 17,
+        "l": {},
+        "t": "19:6*r Or other*i languages*i",
+        "a": "b"
+    },
+    {
+        "o": 30478,
+        "r": "niv:Acts:19:19",
+        "w": 28,
+        "l": {},
+        "t": "19:19*r A drachma was a silver coin worth about a day’s wages.",
+        "a": "c"
+    },
+    {
+        "o": 30480,
+        "r": "niv:Acts:19:21",
+        "w": 6,
+        "l": {},
+        "t": "19:21*r Or decided*i in*i the*i Spirit*i",
+        "a": "d"
+    },
+    {
+        "o": 30533,
+        "r": "niv:Acts:20:28",
+        "w": 23,
+        "l": {},
+        "t": "20:28*r Many manuscripts of*i the*i Lord*i",
+        "a": "a"
+    },
+    {
+        "o": 30533,
+        "r": "niv:Acts:20:28",
+        "w": 30,
+        "l": {},
+        "t": "20:28*r Or with*i the*i blood*i of*i his*i own*i Son.*i",
+        "a": "b"
+    },
+    {
+        "o": 30588,
+        "r": "niv:Acts:21:40",
+        "w": 25,
+        "l": {},
+        "t": "21:40*r Or possibly Hebrew*i ; also in 22:2",
+        "a": "a"
+    },
+    {
+        "o": 30609,
+        "r": "niv:Acts:22:20",
+        "w": 6,
+        "l": {},
+        "t": "22:20*r Or witness*i",
+        "a": "a"
+    },
+    {
+        "o": 30627,
+        "r": "niv:Acts:23:5",
+        "w": 26,
+        "l": {},
+        "t": "23:5*r Exodus 22:28",
+        "a": "a"
+    },
+    {
+        "o": 30647,
+        "r": "niv:Acts:23:23",
+        "w": 23,
+        "l": {},
+        "t": "23:23*r The meaning of the Greek for this word is uncertain.",
+        "a": "b"
+    },
+    {
+        "o": 30667,
+        "r": "niv:Acts:24:6",
+        "w": 10,
+        "l": {},
+        "t": "24:6-7*r Some manuscripts include here him,*i and*i we*i would*i have*i judged*i him*i in*i accordance*i with*i our*i law.*i But*i the*i commander*i Lysias*i came*i and*i took*i him*i from*i us*i with*i much*i violence,*i ordering*i his*i accusers*i to*i come*i before*i you.*i",
+        "a": "a"
+    },
+    {
+        "o": 30733,
+        "r": "niv:Acts:26:14",
+        "w": 15,
+        "l": {},
+        "t": "26:14*r Or Hebrew*i",
+        "a": "a"
+    },
+    {
+        "o": 30762,
+        "r": "niv:Acts:27:9",
+        "w": 20,
+        "l": {},
+        "t": "27:9*r That is, Yom Kippur",
+        "a": "a"
+    },
+    {
+        "o": 30771,
+        "r": "niv:Acts:27:17",
+        "w": 35,
+        "l": {},
+        "t": "27:17*r Or the*i sails*i",
+        "a": "b"
+    },
+    {
+        "o": 30782,
+        "r": "niv:Acts:27:27",
+        "w": 11,
+        "l": {},
+        "t": "27:27*r In ancient times the name referred to an area extending well south of Italy.",
+        "a": "c"
+    },
+    {
+        "o": 30783,
+        "r": "niv:Acts:27:28",
+        "w": 13,
+        "l": {},
+        "t": "27:28*r Or about 37 meters",
+        "a": "d"
+    },
+    {
+        "o": 30783,
+        "r": "niv:Acts:27:28",
+        "w": 28,
+        "l": {},
+        "t": "27:28*r Or about 27 meters",
+        "a": "e"
+    },
+    {
+        "o": 30830,
+        "r": "niv:Acts:28:27",
+        "w": 40,
+        "l": {},
+        "t": "28:27*r Isaiah 6:9,10 (see Septuagint)",
+        "a": "a"
+    },
+    {
+        "o": 30831,
+        "r": "niv:Acts:28:28",
+        "w": 18,
+        "l": {},
+        "t": "28:29*r Some manuscripts include here After*i he*i said*i this,*i the*i Jews*i left,*i arguing*i vigorously*i among*i themselves.*i",
+        "a": "b"
+    }
+]

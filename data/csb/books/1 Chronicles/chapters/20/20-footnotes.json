@@ -1,0 +1,122 @@
+[
+    {
+        "o": 12110,
+        "r": "csb:1 Chronicles:20:1",
+        "w": 2,
+        "l": {},
+        "t": "20:1*r Lit At the time of the return of the year",
+        "a": "a"
+    },
+    {
+        "o": 12110,
+        "r": "csb:1 Chronicles:20:1",
+        "w": 8,
+        "l": {},
+        "c": "2Sm 12:26–31*9191",
+        "a": "b"
+    },
+    {
+        "o": 12110,
+        "r": "csb:1 Chronicles:20:1",
+        "w": 29,
+        "l": {},
+        "c": "2Sm 11:1*9132",
+        "a": "c"
+    },
+    {
+        "o": 12111,
+        "r": "csb:1 Chronicles:20:2",
+        "w": 10,
+        "l": {},
+        "t": "20:2*r LXX, Vg read of Milcom",
+        "a": "d"
+    },
+    {
+        "o": 12111,
+        "r": "csb:1 Chronicles:20:2",
+        "w": 10,
+        "l": {},
+        "t": "20:2*r = Molech; 1Kg 11:5,7",
+        "a": "e"
+    },
+    {
+        "o": 12111,
+        "r": "csb:1 Chronicles:20:2",
+        "w": 10,
+        "l": {},
+        "c": "1Kg 11:5,7*10072",
+        "a": "f"
+    },
+    {
+        "o": 12111,
+        "r": "csb:1 Chronicles:20:2",
+        "w": 25,
+        "l": {},
+        "t": "20:2*r Lit a talent",
+        "a": "g"
+    },
+    {
+        "o": 12112,
+        "r": "csb:1 Chronicles:20:3",
+        "w": 15,
+        "l": {},
+        "t": "20:3*r Text emended; MT reads and sawed them with the saw; 2Sm 12:31",
+        "a": "h"
+    },
+    {
+        "o": 12112,
+        "r": "csb:1 Chronicles:20:3",
+        "w": 19,
+        "l": {},
+        "t": "20:3*r Text emended; MT reads saws; 2Sm 12:31",
+        "a": "i"
+    },
+    {
+        "o": 12112,
+        "r": "csb:1 Chronicles:20:3",
+        "w": 19,
+        "l": {},
+        "c": "2Sm 12:31*9196",
+        "a": "j"
+    },
+    {
+        "o": 12114,
+        "r": "csb:1 Chronicles:20:4",
+        "w": 1,
+        "l": {},
+        "c": "2Sm 21:18–22*9501",
+        "a": "k"
+    },
+    {
+        "o": 12114,
+        "r": "csb:1 Chronicles:20:4",
+        "w": 23,
+        "l": {},
+        "t": "20:4*r Or the Rephaites",
+        "a": "l"
+    },
+    {
+        "o": 12114,
+        "r": "csb:1 Chronicles:20:4",
+        "w": 23,
+        "l": {},
+        "c": "Gn 14:5*379; Dt 2:11*5442",
+        "a": "m"
+    },
+    {
+        "o": 12115,
+        "r": "csb:1 Chronicles:20:5",
+        "w": 31,
+        "l": {},
+        "c": "1Sm 17:7*8439; 1Ch 11:23*11859",
+        "a": "n"
+    },
+    {
+        "o": 12116,
+        "r": "csb:1 Chronicles:20:6",
+        "w": 35,
+        "l": {},
+        "t": "20:6*r Or Raphah, also in v. 8",
+        "a": "o"
+    }
+]

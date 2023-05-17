@@ -1,0 +1,394 @@
+[
+    {
+        "o": 9794,
+        "r": "esv:1 Kings:7:1",
+        "w": 1,
+        "l": {},
+        "c": "1 Kings 3:1*9666; 1 Kings 9:10*9930; 2 Chronicles 8:1*12475",
+        "a": "a"
+    },
+    {
+        "o": 9795,
+        "r": "esv:1 Kings:7:2",
+        "w": 1,
+        "l": {},
+        "c": "1 Kings 10:17*9968; 1 Kings 10:21*9972",
+        "a": "b"
+    },
+    {
+        "o": 9795,
+        "r": "esv:1 Kings:7:2",
+        "w": 14,
+        "l": {},
+        "t": "A cubit*i was about 18 inches or 45 centimeters",
+        "a": "c"
+    },
+    {
+        "o": 9795,
+        "r": "esv:1 Kings:7:2",
+        "w": 30,
+        "l": {},
+        "t": "Septuagint three*i",
+        "a": "d"
+    },
+    {
+        "o": 9798,
+        "r": "esv:1 Kings:7:5",
+        "w": 4,
+        "l": {},
+        "t": "Septuagint; Hebrew posts*i",
+        "a": "e"
+    },
+    {
+        "o": 9799,
+        "r": "esv:1 Kings:7:6",
+        "w": 2,
+        "l": {},
+        "c": "1 Kings 7:12*9806",
+        "a": "f"
+    },
+    {
+        "o": 9799,
+        "r": "esv:1 Kings:7:6",
+        "w": 25,
+        "l": {},
+        "c": "Ezekiel 41:25–26*23947",
+        "a": "g"
+    },
+    {
+        "o": 9800,
+        "r": "esv:1 Kings:7:7",
+        "w": 18,
+        "l": {},
+        "c": "1 Kings 6:15–16*9768",
+        "a": "h"
+    },
+    {
+        "o": 9800,
+        "r": "esv:1 Kings:7:7",
+        "w": 27,
+        "l": {},
+        "t": "Syriac, Vulgate; Hebrew floor*i",
+        "a": "i"
+    },
+    {
+        "o": 9801,
+        "r": "esv:1 Kings:7:8",
+        "w": 30,
+        "l": {},
+        "c": "1 Kings 3:1*9666; 2 Chronicles 8:11*12485",
+        "a": "j"
+    },
+    {
+        "o": 9805,
+        "r": "esv:1 Kings:7:12",
+        "w": 0,
+        "l": {},
+        "c": "1 Kings 6:36*9789",
+        "a": "k"
+    },
+    {
+        "o": 9805,
+        "r": "esv:1 Kings:7:12",
+        "w": 28,
+        "l": {},
+        "c": "1 Kings 7:6*9799",
+        "a": "l"
+    },
+    {
+        "o": 9807,
+        "r": "esv:1 Kings:7:13",
+        "w": 5,
+        "l": {},
+        "c": "2 Chronicles 2:14*12338",
+        "a": "m"
+    },
+    {
+        "o": 9808,
+        "r": "esv:1 Kings:7:14",
+        "w": 24,
+        "l": {},
+        "c": "Exodus 31:3–5*2640; Exodus 35:31*2794",
+        "a": "n"
+    },
+    {
+        "o": 9809,
+        "r": "esv:1 Kings:7:15",
+        "w": 0,
+        "l": {},
+        "c": "1 Kings 7:15–21*9809; 2 Chronicles 3:15–17*12359",
+        "a": "o"
+    },
+    {
+        "o": 9809,
+        "r": "esv:1 Kings:7:15",
+        "w": 1,
+        "l": {},
+        "c": "2 Kings 25:17*11257; 1 Chronicles 18:8*11971; 2 Chronicles 4:12*12375; Jeremiah 52:21–23*22572",
+        "a": "p"
+    },
+    {
+        "o": 9809,
+        "r": "esv:1 Kings:7:15",
+        "w": 5,
+        "l": {},
+        "c": "1 Kings 7:41*9835",
+        "a": "q"
+    },
+    {
+        "o": 9809,
+        "r": "esv:1 Kings:7:15",
+        "w": 37,
+        "l": {},
+        "t": "Targum, Syriac (compare Septuagint and Jeremiah 52:21); Hebrew and*i a*i line*i of*i twelve*i cubits*i measured*i the*i circumference*i of*i the*i second*i pillar*i",
+        "a": "r"
+    },
+    {
+        "o": 9810,
+        "r": "esv:1 Kings:7:16",
+        "w": 25,
+        "l": {},
+        "c": "1 Kings 7:15*9809",
+        "a": "s"
+    },
+    {
+        "o": 9811,
+        "r": "esv:1 Kings:7:17",
+        "w": 21,
+        "l": {},
+        "t": "Septuagint; Hebrew seven*i ; twice in this verse",
+        "a": "t"
+    },
+    {
+        "o": 9812,
+        "r": "esv:1 Kings:7:18",
+        "w": 3,
+        "l": {},
+        "t": "Two manuscripts (compare Septuagint); Hebrew pillars*i",
+        "a": "u"
+    },
+    {
+        "o": 9814,
+        "r": "esv:1 Kings:7:20",
+        "w": 19,
+        "l": {},
+        "c": "1 Kings 7:42*9836; 2 Chronicles 3:16*12360; 2 Chronicles 4:13*12376; Jeremiah 52:23*22575",
+        "a": "v"
+    },
+    {
+        "o": 9815,
+        "r": "esv:1 Kings:7:21",
+        "w": 0,
+        "l": {},
+        "c": "2 Chronicles 3:17*12361",
+        "a": "w"
+    },
+    {
+        "o": 9817,
+        "r": "esv:1 Kings:7:23",
+        "w": 0,
+        "l": {},
+        "c": "1 Kings 7:23–26*9817; 2 Chronicles 4:2–5*12365",
+        "a": "x"
+    },
+    {
+        "o": 9817,
+        "r": "esv:1 Kings:7:23",
+        "w": 2,
+        "l": {},
+        "c": "2 Kings 16:17*10962; 2 Kings 25:13*11253; 1 Chronicles 18:8*11971; Jeremiah 52:17*22568; Exodus 30:18*2614",
+        "a": "y"
+    },
+    {
+        "o": 9818,
+        "r": "esv:1 Kings:7:24",
+        "w": 3,
+        "l": {},
+        "c": "1 Kings 6:18*9771",
+        "a": "z"
+    },
+    {
+        "o": 9819,
+        "r": "esv:1 Kings:7:25",
+        "w": 2,
+        "l": {},
+        "c": "Jeremiah 52:20*22571",
+        "a": "a"
+    },
+    {
+        "o": 9820,
+        "r": "esv:1 Kings:7:26",
+        "w": 4,
+        "l": {},
+        "t": "A handbreadth*i was about 3 inches or 7.5 centimeters",
+        "a": "b"
+    },
+    {
+        "o": 9820,
+        "r": "esv:1 Kings:7:26",
+        "w": 26,
+        "l": {},
+        "t": "A bath*i was about 6 gallons or 22 liters",
+        "a": "c"
+    },
+    {
+        "o": 9821,
+        "r": "esv:1 Kings:7:27",
+        "w": 3,
+        "l": {},
+        "c": "2 Kings 25:13*11253; 2 Chronicles 4:14*12377; Jeremiah 52:17*22568",
+        "a": "d"
+    },
+    {
+        "o": 9831,
+        "r": "esv:1 Kings:7:37",
+        "w": 4,
+        "l": {},
+        "c": "1 Kings 7:27*9821",
+        "a": "e"
+    },
+    {
+        "o": 9832,
+        "r": "esv:1 Kings:7:38",
+        "w": 2,
+        "l": {},
+        "c": "2 Chronicles 4:6*12369; Exodus 30:18*2614",
+        "a": "f"
+    },
+    {
+        "o": 9834,
+        "r": "esv:1 Kings:7:40",
+        "w": 0,
+        "l": {},
+        "c": "1 Kings 7:40–51*9834; 2 Chronicles 4:11–5:1*12374",
+        "a": "g"
+    },
+    {
+        "o": 9834,
+        "r": "esv:1 Kings:7:40",
+        "w": 2,
+        "l": {},
+        "c": "Exodus 27:3*2479; Exodus 38:3*2876",
+        "a": "h"
+    },
+    {
+        "o": 9835,
+        "r": "esv:1 Kings:7:41",
+        "w": 19,
+        "l": {},
+        "c": "1 Kings 7:17–18*9811",
+        "a": "i"
+    },
+    {
+        "o": 9836,
+        "r": "esv:1 Kings:7:42",
+        "w": 1,
+        "l": {},
+        "c": "1 Kings 7:20*9814",
+        "a": "j"
+    },
+    {
+        "o": 9838,
+        "r": "esv:1 Kings:7:44",
+        "w": 0,
+        "l": {},
+        "c": "1 Kings 7:23*9817; 1 Kings 7:25*9819",
+        "a": "k"
+    },
+    {
+        "o": 9839,
+        "r": "esv:1 Kings:7:45",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 27:3*2479; Exodus 38:3*2876",
+        "a": "l"
+    },
+    {
+        "o": 9840,
+        "r": "esv:1 Kings:7:46",
+        "w": 14,
+        "l": {},
+        "c": "Joshua 13:27*6756",
+        "a": "m"
+    },
+    {
+        "o": 9840,
+        "r": "esv:1 Kings:7:46",
+        "w": 16,
+        "l": {},
+        "c": "Joshua 3:16*6456",
+        "a": "n"
+    },
+    {
+        "o": 9841,
+        "r": "esv:1 Kings:7:47",
+        "w": 13,
+        "l": {},
+        "c": "1 Chronicles 22:3*12052; 1 Chronicles 22:14*12064",
+        "a": "o"
+    },
+    {
+        "o": 9842,
+        "r": "esv:1 Kings:7:48",
+        "w": 13,
+        "l": {},
+        "c": "Exodus 37:25–29*2867",
+        "a": "p"
+    },
+    {
+        "o": 9842,
+        "r": "esv:1 Kings:7:48",
+        "w": 16,
+        "l": {},
+        "c": "2 Chronicles 4:8*12371; Exodus 37:10–16*2850",
+        "a": "q"
+    },
+    {
+        "o": 9842,
+        "r": "esv:1 Kings:7:48",
+        "w": 20,
+        "l": {},
+        "c": "Exodus 25:30*2425; Leviticus 24:5–8*3760",
+        "a": "r"
+    },
+    {
+        "o": 9843,
+        "r": "esv:1 Kings:7:49",
+        "w": 0,
+        "l": {},
+        "c": "2 Chronicles 4:7*12370",
+        "a": "s"
+    },
+    {
+        "o": 9843,
+        "r": "esv:1 Kings:7:49",
+        "w": 18,
+        "l": {},
+        "c": "Exodus 25:31–38*2426",
+        "a": "t"
+    },
+    {
+        "o": 9844,
+        "r": "esv:1 Kings:7:50",
+        "w": 7,
+        "l": {},
+        "c": "Exodus 27:3*2479",
+        "a": "u"
+    },
+    {
+        "o": 9844,
+        "r": "esv:1 Kings:7:50",
+        "w": 27,
+        "l": {},
+        "c": "1 Kings 6:16*9769",
+        "a": "v"
+    },
+    {
+        "o": 9845,
+        "r": "esv:1 Kings:7:51",
+        "w": 19,
+        "l": {},
+        "c": "2 Samuel 8:11*9007",
+        "a": "w"
+    }
+]

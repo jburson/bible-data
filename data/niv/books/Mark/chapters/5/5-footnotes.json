@@ -1,0 +1,26 @@
+[
+    {
+        "o": 26886,
+        "r": "niv:Mark:5:1",
+        "w": 10,
+        "l": {},
+        "t": "5:1*r Some manuscripts Gadarenes*i ; other manuscripts Gergesenes*i",
+        "a": "a"
+    },
+    {
+        "o": 26905,
+        "r": "niv:Mark:5:20",
+        "w": 11,
+        "l": {},
+        "t": "5:20*r That is, the Ten Cities",
+        "a": "b"
+    },
+    {
+        "o": 26922,
+        "r": "niv:Mark:5:36",
+        "w": 0,
+        "l": {},
+        "t": "5:36*r Or Ignoring*i",
+        "a": "c"
+    }
+]

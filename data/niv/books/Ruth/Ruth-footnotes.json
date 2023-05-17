@@ -1,0 +1,114 @@
+[
+    {
+        "o": 7772,
+        "r": "niv:Ruth:1:1",
+        "w": 6,
+        "l": {},
+        "t": "1:1*r Traditionally judged*i",
+        "a": "a"
+    },
+    {
+        "o": 7792,
+        "r": "niv:Ruth:1:20",
+        "w": 3,
+        "l": {},
+        "t": "1:20*r Naomi*i means pleasant.*i",
+        "a": "b"
+    },
+    {
+        "o": 7792,
+        "r": "niv:Ruth:1:20",
+        "w": 9,
+        "l": {},
+        "t": "1:20*r Mara*i means bitter*i .*i",
+        "a": "c"
+    },
+    {
+        "o": 7792,
+        "r": "niv:Ruth:1:20",
+        "w": 12,
+        "l": {},
+        "t": "1:20*r Hebrew Shaddai*i ; also in verse 21",
+        "a": "d"
+    },
+    {
+        "o": 7793,
+        "r": "niv:Ruth:1:21",
+        "w": 19,
+        "l": {},
+        "t": "1:21*r Or has*i testified*i against*i",
+        "a": "e"
+    },
+    {
+        "o": 7813,
+        "r": "niv:Ruth:2:17",
+        "w": 22,
+        "l": {},
+        "t": "2:17*r That is, probably about 30 pounds or about 13 kilograms",
+        "a": "a"
+    },
+    {
+        "o": 7816,
+        "r": "niv:Ruth:2:20",
+        "w": 35,
+        "l": {},
+        "t": "2:20*r The Hebrew word for guardian-redeemer*i is a legal term for one who has the obligation to redeem a relative in serious difficulty (see Lev. 25:25-55).",
+        "a": "b"
+    },
+    {
+        "o": 7822,
+        "r": "niv:Ruth:3:1",
+        "w": 14,
+        "l": {},
+        "t": "3:1*r Hebrew find*i rest*i (see 1:9).",
+        "a": "a"
+    },
+    {
+        "o": 7830,
+        "r": "niv:Ruth:3:9",
+        "w": 24,
+        "l": {},
+        "t": "3:9*r The Hebrew word for guardian-redeemer*i is a legal term for one who has the obligation to redeem a relative in serious difficulty (see Lev. 25:25-55); also in verses 12 and 13.",
+        "a": "b"
+    },
+    {
+        "o": 7836,
+        "r": "niv:Ruth:3:15",
+        "w": 33,
+        "l": {},
+        "t": "3:15*r Most Hebrew manuscripts; many Hebrew manuscripts, Vulgate and Syriac she*i",
+        "a": "c"
+    },
+    {
+        "o": 7842,
+        "r": "niv:Ruth:4:1",
+        "w": 15,
+        "l": {},
+        "t": "4:1*r The Hebrew word for guardian-redeemer*i is a legal term for one who has the obligation to redeem a relative in serious difficulty (see Lev. 25:25-55); also in verses 3, 6, 8 and 14.",
+        "a": "a"
+    },
+    {
+        "o": 7845,
+        "r": "niv:Ruth:4:4",
+        "w": 42,
+        "l": {},
+        "t": "4:4*r Many Hebrew manuscripts, Septuagint, Vulgate and Syriac; most Hebrew manuscripts he*i",
+        "a": "b"
+    },
+    {
+        "o": 7846,
+        "r": "niv:Ruth:4:5",
+        "w": 18,
+        "l": {},
+        "t": "4:5*r Vulgate and Syriac; Hebrew (see also Septuagint) Naomi*i and*i from*i Ruth*i the*i Moabite,*i you*i acquire*i the*i",
+        "a": "c"
+    },
+    {
+        "o": 7863,
+        "r": "niv:Ruth:4:20",
+        "w": 9,
+        "l": {},
+        "t": "4:20*r A few Hebrew manuscripts, some Septuagint manuscripts and Vulgate (see also verse 21 and Septuagint of 1 Chron. 2:11); most Hebrew manuscripts Salma*i",
+        "a": "d"
+    }
+]

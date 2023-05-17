@@ -1,0 +1,250 @@
+[
+    {
+        "o": 19612,
+        "r": "esv:Song of Solomon:8:2",
+        "w": 4,
+        "l": {},
+        "c": "Song of Solomon 3:4*19513",
+        "a": "a"
+    },
+    {
+        "o": 19612,
+        "r": "esv:Song of Solomon:8:2",
+        "w": 22,
+        "l": {},
+        "c": "Proverbs 9:2*18497; Proverbs 9:5*18500",
+        "a": "b"
+    },
+    {
+        "o": 19613,
+        "r": "esv:Song of Solomon:8:3",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 2:6–7*19495",
+        "a": "c"
+    },
+    {
+        "o": 19614,
+        "r": "esv:Song of Solomon:8:4",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 2:7*19497",
+        "a": "d"
+    },
+    {
+        "o": 19614,
+        "r": "esv:Song of Solomon:8:4",
+        "w": 3,
+        "l": {},
+        "c": "Song of Solomon 1:5*19468",
+        "a": "e"
+    },
+    {
+        "o": 19614,
+        "r": "esv:Song of Solomon:8:4",
+        "w": 6,
+        "l": {},
+        "c": "Song of Solomon 2:7*19497",
+        "a": "f"
+    },
+    {
+        "o": 19615,
+        "r": "esv:Song of Solomon:8:5",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 3:6*19516",
+        "a": "g"
+    },
+    {
+        "o": 19616,
+        "r": "esv:Song of Solomon:8:6",
+        "w": 8,
+        "l": {},
+        "c": "Isaiah 49:16*20753; Jeremiah 22:24*21676; Haggai 2:23*25461",
+        "a": "h"
+    },
+    {
+        "o": 19616,
+        "r": "esv:Song of Solomon:8:6",
+        "w": 14,
+        "l": {},
+        "c": "Romans 8:35*31477",
+        "a": "i"
+    },
+    {
+        "o": 19616,
+        "r": "esv:Song of Solomon:8:6",
+        "w": 19,
+        "l": {},
+        "c": "Exodus 34:14*2737; Deuteronomy 4:24*5478",
+        "a": "j"
+    },
+    {
+        "o": 19616,
+        "r": "esv:Song of Solomon:8:6",
+        "w": 20,
+        "l": {},
+        "t": "Or ardor*i",
+        "a": "k"
+    },
+    {
+        "o": 19616,
+        "r": "esv:Song of Solomon:8:6",
+        "w": 25,
+        "l": {},
+        "t": "Hebrew as*i Sheol*i",
+        "a": "l"
+    },
+    {
+        "o": 19616,
+        "r": "esv:Song of Solomon:8:6",
+        "w": 33,
+        "l": {},
+        "c": "Job 1:16*14196",
+        "a": "m"
+    },
+    {
+        "o": 19617,
+        "r": "esv:Song of Solomon:8:7",
+        "w": 20,
+        "l": {},
+        "c": "Proverbs 6:35*18426",
+        "a": "n"
+    },
+    {
+        "o": 19617,
+        "r": "esv:Song of Solomon:8:7",
+        "w": 22,
+        "l": {},
+        "t": "Or it*i",
+        "a": "o"
+    },
+    {
+        "o": 19620,
+        "r": "esv:Song of Solomon:8:8",
+        "w": 6,
+        "l": {},
+        "c": "Ezekiel 16:7*23091",
+        "a": "p"
+    },
+    {
+        "o": 19621,
+        "r": "esv:Song of Solomon:8:9",
+        "w": 24,
+        "l": {},
+        "c": "1 Kings 6:15*9768",
+        "a": "q"
+    },
+    {
+        "o": 19623,
+        "r": "esv:Song of Solomon:8:10",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 4:12–13*19536",
+        "a": "r"
+    },
+    {
+        "o": 19623,
+        "r": "esv:Song of Solomon:8:10",
+        "w": 5,
+        "l": {},
+        "c": "Song of Solomon 4:5*19529; Song of Solomon 7:3*19595",
+        "a": "s"
+    },
+    {
+        "o": 19623,
+        "r": "esv:Song of Solomon:8:10",
+        "w": 19,
+        "l": {},
+        "t": "Or brings*i out*i",
+        "a": "t"
+    },
+    {
+        "o": 19624,
+        "r": "esv:Song of Solomon:8:11",
+        "w": 1,
+        "l": {},
+        "c": "Ecclesiastes 2:4*19229",
+        "a": "u"
+    },
+    {
+        "o": 19624,
+        "r": "esv:Song of Solomon:8:11",
+        "w": 6,
+        "l": {},
+        "c": "Matthew 21:33*26620",
+        "a": "v"
+    },
+    {
+        "o": 19624,
+        "r": "esv:Song of Solomon:8:11",
+        "w": 11,
+        "l": {},
+        "c": "Song of Solomon 1:6*19469",
+        "a": "w"
+    },
+    {
+        "o": 19624,
+        "r": "esv:Song of Solomon:8:11",
+        "w": 20,
+        "l": {},
+        "c": "Isaiah 7:23*19799",
+        "a": "x"
+    },
+    {
+        "o": 19625,
+        "r": "esv:Song of Solomon:8:12",
+        "w": 15,
+        "l": {},
+        "c": "Proverbs 27:18*19067",
+        "a": "y"
+    },
+    {
+        "o": 19627,
+        "r": "esv:Song of Solomon:8:13",
+        "w": 0,
+        "l": {},
+        "c": "Song of Solomon 5:1*19550",
+        "a": "z"
+    },
+    {
+        "o": 19627,
+        "r": "esv:Song of Solomon:8:13",
+        "w": 7,
+        "l": {},
+        "c": "Song of Solomon 1:7*19472",
+        "a": "a"
+    },
+    {
+        "o": 19627,
+        "r": "esv:Song of Solomon:8:13",
+        "w": 12,
+        "l": {},
+        "c": "Song of Solomon 2:14*19504",
+        "a": "b"
+    },
+    {
+        "o": 19629,
+        "r": "esv:Song of Solomon:8:14",
+        "w": 0,
+        "l": {},
+        "c": "Revelation 22:17*34852; Revelation 22:20*34855",
+        "a": "c"
+    },
+    {
+        "o": 19629,
+        "r": "esv:Song of Solomon:8:14",
+        "w": 5,
+        "l": {},
+        "c": "Song of Solomon 2:9*19499",
+        "a": "d"
+    },
+    {
+        "o": 19629,
+        "r": "esv:Song of Solomon:8:14",
+        "w": 13,
+        "l": {},
+        "c": "Song of Solomon 4:6*19530",
+        "a": "e"
+    }
+]

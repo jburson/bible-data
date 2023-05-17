@@ -1,0 +1,26 @@
+[
+    {
+        "o": 22327,
+        "r": "niv:Lamentations:1:0",
+        "w": 0,
+        "l": {},
+        "t": "This chapter is an acrostic poem, the verses of which begin with the successive letters of the Hebrew alphabet.",
+        "a": "a"
+    },
+    {
+        "o": 22340,
+        "r": "niv:Lamentations:1:14",
+        "w": 7,
+        "l": {},
+        "t": "1:14*r Most Hebrew manuscripts; many Hebrew manuscripts and Septuagint He*i kept*i watch*i over*i my*i sins*i",
+        "a": "b"
+    },
+    {
+        "o": 22341,
+        "r": "niv:Lamentations:1:15",
+        "w": 17,
+        "l": {},
+        "t": "1:15*r Or has*i set*i a*i time*i for*i me*i /*i when*i he*i will*i",
+        "a": "c"
+    }
+]

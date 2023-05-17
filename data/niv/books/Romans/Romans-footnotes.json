@@ -1,0 +1,818 @@
+[
+    {
+        "o": 30837,
+        "r": "niv:Romans:1:3",
+        "w": 8,
+        "l": {},
+        "t": "1:3*r Or who*i according*i to*i the*i flesh*i",
+        "a": "a"
+    },
+    {
+        "o": 30838,
+        "r": "niv:Romans:1:4",
+        "w": 14,
+        "l": {},
+        "t": "1:4*r Or was*i declared*i with*i power*i to*i be*i the*i Son*i of*i God*i",
+        "a": "b"
+    },
+    {
+        "o": 30839,
+        "r": "niv:Romans:1:5",
+        "w": 17,
+        "l": {},
+        "t": "1:5*r Or that*i is*i",
+        "a": "c"
+    },
+    {
+        "o": 30848,
+        "r": "niv:Romans:1:13",
+        "w": 10,
+        "l": {},
+        "t": "1:13*r The Greek word for brothers*i and*i sisters*i (adelphoi) refers here to believers, both men and women, as part of God’s family; also in 7:1, 4; 8:12, 29; 10:1; 11:25; 12:1; 15:14, 30; 16:14, 17.",
+        "a": "d"
+    },
+    {
+        "o": 30852,
+        "r": "niv:Romans:1:17",
+        "w": 18,
+        "l": {},
+        "t": "1:17*r Or is*i from*i faith*i to*i faith*i",
+        "a": "e"
+    },
+    {
+        "o": 30852,
+        "r": "niv:Romans:1:17",
+        "w": 29,
+        "l": {},
+        "t": "1:17*r Hab. 2:4",
+        "a": "f"
+    },
+    {
+        "o": 30876,
+        "r": "niv:Romans:2:6",
+        "w": 10,
+        "l": {},
+        "t": "2:6*r Psalm 62:12; Prov. 24:12",
+        "a": "a"
+    },
+    {
+        "o": 30895,
+        "r": "niv:Romans:2:24",
+        "w": 13,
+        "l": {},
+        "t": "2:24*r Isaiah 52:5 (see Septuagint); Ezek. 36:20,22",
+        "a": "b"
+    },
+    {
+        "o": 30898,
+        "r": "niv:Romans:2:27",
+        "w": 20,
+        "l": {},
+        "t": "2:27*r Or who,*i by*i means*i of*i a*i",
+        "a": "c"
+    },
+    {
+        "o": 30906,
+        "r": "niv:Romans:3:4",
+        "w": 31,
+        "l": {},
+        "t": "3:4*r Psalm 51:4",
+        "a": "a"
+    },
+    {
+        "o": 30915,
+        "r": "niv:Romans:3:12",
+        "w": 18,
+        "l": {},
+        "t": "3:12*r Psalms 14:1-3; 53:1-3; Eccles. 7:20",
+        "a": "b"
+    },
+    {
+        "o": 30916,
+        "r": "niv:Romans:3:13",
+        "w": 8,
+        "l": {},
+        "t": "3:13*r Psalm 5:9",
+        "a": "c"
+    },
+    {
+        "o": 30916,
+        "r": "niv:Romans:3:13",
+        "w": 16,
+        "l": {},
+        "t": "3:13*r Psalm 140:3",
+        "a": "d"
+    },
+    {
+        "o": 30917,
+        "r": "niv:Romans:3:14",
+        "w": 7,
+        "l": {},
+        "t": "3:14*r Psalm 10:7 (see Septuagint)",
+        "a": "e"
+    },
+    {
+        "o": 30920,
+        "r": "niv:Romans:3:17",
+        "w": 8,
+        "l": {},
+        "t": "3:17*r Isaiah 59:7,8",
+        "a": "f"
+    },
+    {
+        "o": 30921,
+        "r": "niv:Romans:3:18",
+        "w": 8,
+        "l": {},
+        "t": "3:18*r Psalm 36:1",
+        "a": "g"
+    },
+    {
+        "o": 30926,
+        "r": "niv:Romans:3:22",
+        "w": 6,
+        "l": {},
+        "t": "3:22*r Or through*i the*i faithfulness*i of*i",
+        "a": "h"
+    },
+    {
+        "o": 30929,
+        "r": "niv:Romans:3:25",
+        "w": 7,
+        "l": {},
+        "t": "3:25*r The Greek for sacrifice*i of*i atonement*i refers to the atonement cover on the ark of the covenant (see Lev. 16:15,16).",
+        "a": "i"
+    },
+    {
+        "o": 30940,
+        "r": "niv:Romans:4:3",
+        "w": 14,
+        "l": {},
+        "t": "4:3*r Gen. 15:6; also in verse 22",
+        "a": "a"
+    },
+    {
+        "o": 30945,
+        "r": "niv:Romans:4:8",
+        "w": 12,
+        "l": {},
+        "t": "4:8*r Psalm 32:1,2",
+        "a": "b"
+    },
+    {
+        "o": 30954,
+        "r": "niv:Romans:4:17",
+        "w": 12,
+        "l": {},
+        "t": "4:17*r Gen. 17:5",
+        "a": "c"
+    },
+    {
+        "o": 30955,
+        "r": "niv:Romans:4:18",
+        "w": 27,
+        "l": {},
+        "t": "4:18*r Gen. 15:5",
+        "a": "d"
+    },
+    {
+        "o": 30965,
+        "r": "niv:Romans:5:1",
+        "w": 8,
+        "l": {},
+        "t": "5:1*r Many manuscripts let*i us*i",
+        "a": "a"
+    },
+    {
+        "o": 30966,
+        "r": "niv:Romans:5:2",
+        "w": 17,
+        "l": {},
+        "t": "5:2*r Or let*i us*i",
+        "a": "b"
+    },
+    {
+        "o": 30967,
+        "r": "niv:Romans:5:3",
+        "w": 4,
+        "l": {},
+        "t": "5:3*r Or let*i us*i",
+        "a": "c"
+    },
+    {
+        "o": 30994,
+        "r": "niv:Romans:6:6",
+        "w": 22,
+        "l": {},
+        "t": "6:6*r Or be*i rendered*i powerless*i",
+        "a": "a"
+    },
+    {
+        "o": 31012,
+        "r": "niv:Romans:6:23",
+        "w": 15,
+        "l": {},
+        "t": "6:23*r Or through*i",
+        "a": "b"
+    },
+    {
+        "o": 31019,
+        "r": "niv:Romans:7:5",
+        "w": 9,
+        "l": {},
+        "t": "7:5*r In contexts like this, the Greek word for flesh*i (sarx) refers to the sinful state of human beings, often presented as a power in opposition to the Spirit.",
+        "a": "a"
+    },
+    {
+        "o": 31022,
+        "r": "niv:Romans:7:7",
+        "w": 46,
+        "l": {},
+        "t": "7:7*r Exodus 20:17; Deut. 5:21",
+        "a": "b"
+    },
+    {
+        "o": 31033,
+        "r": "niv:Romans:7:18",
+        "w": 16,
+        "l": {},
+        "t": "7:18*r Or my*i flesh*i",
+        "a": "c"
+    },
+    {
+        "o": 31040,
+        "r": "niv:Romans:7:25",
+        "w": 29,
+        "l": {},
+        "t": "7:25*r Or in*i the*i flesh*i",
+        "a": "d"
+    },
+    {
+        "o": 31044,
+        "r": "niv:Romans:8:2",
+        "w": 14,
+        "l": {},
+        "t": "8:2*r The Greek is singular; some manuscripts me*i",
+        "a": "a"
+    },
+    {
+        "o": 31045,
+        "r": "niv:Romans:8:3",
+        "w": 14,
+        "l": {},
+        "t": "8:3*r In contexts like this, the Greek word for flesh*i (sarx) refers to the sinful state of human beings, often presented as a power in opposition to the Spirit; also in verses 4-13.",
+        "a": "b"
+    },
+    {
+        "o": 31045,
+        "r": "niv:Romans:8:3",
+        "w": 32,
+        "l": {},
+        "t": "8:3*r Or flesh,*i for*i sin*i",
+        "a": "c"
+    },
+    {
+        "o": 31052,
+        "r": "niv:Romans:8:10",
+        "w": 21,
+        "l": {},
+        "t": "8:10*r Or you,*i your*i body*i is*i dead*i because*i of*i sin,*i yet*i your*i spirit*i is*i alive*i",
+        "a": "d"
+    },
+    {
+        "o": 31053,
+        "r": "niv:Romans:8:11",
+        "w": 32,
+        "l": {},
+        "t": "8:11*r Some manuscripts bodies*i through*i",
+        "a": "e"
+    },
+    {
+        "o": 31057,
+        "r": "niv:Romans:8:15",
+        "w": 26,
+        "l": {},
+        "t": "8:15*r The Greek word for adoption*i to*i sonship*i is a term referring to the full legal standing of an adopted male heir in Roman culture; also in verse 23.",
+        "a": "f"
+    },
+    {
+        "o": 31057,
+        "r": "niv:Romans:8:15",
+        "w": 32,
+        "l": {},
+        "t": "8:15*r Aramaic for father*i",
+        "a": "g"
+    },
+    {
+        "o": 31064,
+        "r": "niv:Romans:8:21",
+        "w": 0,
+        "l": {},
+        "t": "8:20,21*r Or subjected*i it*i in*i hope.*i For*i",
+        "a": "h"
+    },
+    {
+        "o": 31071,
+        "r": "niv:Romans:8:28",
+        "w": 17,
+        "l": {},
+        "t": "8:28*r Or that*i all*i things*i work*i together*i for*i good*i to*i those*i who*i love*i God,*i who*i ; or that*i in*i all*i things*i God*i works*i together*i with*i those*i who*i love*i him*i to*i bring*i about*i what*i is*i good—with*i those*i who*i",
+        "a": "i"
+    },
+    {
+        "o": 31080,
+        "r": "niv:Romans:8:36",
+        "w": 20,
+        "l": {},
+        "t": "8:36*r Psalm 44:22",
+        "a": "j"
+    },
+    {
+        "o": 31082,
+        "r": "niv:Romans:8:38",
+        "w": 12,
+        "l": {},
+        "t": "8:38*r Or nor*i heavenly*i rulers*i",
+        "a": "k"
+    },
+    {
+        "o": 31090,
+        "r": "niv:Romans:9:5",
+        "w": 21,
+        "l": {},
+        "t": "9:5*r Or Messiah,*i who*i is*i over*i all.*i God*i be*i forever*i praised!*i Or Messiah.*i God*i who*i is*i over*i all*i be*i forever*i praised!*i",
+        "a": "a"
+    },
+    {
+        "o": 31093,
+        "r": "niv:Romans:9:7",
+        "w": 23,
+        "l": {},
+        "t": "9:7*r Gen. 21:12",
+        "a": "b"
+    },
+    {
+        "o": 31095,
+        "r": "niv:Romans:9:9",
+        "w": 20,
+        "l": {},
+        "t": "9:9*r Gen. 18:10,14",
+        "a": "c"
+    },
+    {
+        "o": 31098,
+        "r": "niv:Romans:9:12",
+        "w": 15,
+        "l": {},
+        "t": "9:12*r Gen. 25:23",
+        "a": "d"
+    },
+    {
+        "o": 31099,
+        "r": "niv:Romans:9:13",
+        "w": 11,
+        "l": {},
+        "t": "9:13*r Mal. 1:2,3",
+        "a": "e"
+    },
+    {
+        "o": 31101,
+        "r": "niv:Romans:9:15",
+        "w": 23,
+        "l": {},
+        "t": "9:15*r Exodus 33:19",
+        "a": "f"
+    },
+    {
+        "o": 31103,
+        "r": "niv:Romans:9:17",
+        "w": 31,
+        "l": {},
+        "t": "9:17*r Exodus 9:16",
+        "a": "g"
+    },
+    {
+        "o": 31106,
+        "r": "niv:Romans:9:20",
+        "w": 29,
+        "l": {},
+        "t": "9:20*r Isaiah 29:16; 45:9",
+        "a": "h"
+    },
+    {
+        "o": 31111,
+        "r": "niv:Romans:9:25",
+        "w": 29,
+        "l": {},
+        "t": "9:25*r Hosea 2:23",
+        "a": "i"
+    },
+    {
+        "o": 31112,
+        "r": "niv:Romans:9:26",
+        "w": 25,
+        "l": {},
+        "t": "9:26*r Hosea 1:10",
+        "a": "j"
+    },
+    {
+        "o": 31114,
+        "r": "niv:Romans:9:28",
+        "w": 13,
+        "l": {},
+        "t": "9:28*r Isaiah 10:22,23 (see Septuagint)",
+        "a": "k"
+    },
+    {
+        "o": 31115,
+        "r": "niv:Romans:9:29",
+        "w": 26,
+        "l": {},
+        "t": "9:29*r Isaiah 1:9",
+        "a": "l"
+    },
+    {
+        "o": 31120,
+        "r": "niv:Romans:9:33",
+        "w": 35,
+        "l": {},
+        "t": "9:33*r Isaiah 8:14; 28:16",
+        "a": "m"
+    },
+    {
+        "o": 31126,
+        "r": "niv:Romans:10:5",
+        "w": 20,
+        "l": {},
+        "t": "10:5*r Lev. 18:5",
+        "a": "a"
+    },
+    {
+        "o": 31127,
+        "r": "niv:Romans:10:6",
+        "w": 18,
+        "l": {},
+        "t": "10:6*r Deut. 30:12",
+        "a": "b"
+    },
+    {
+        "o": 31128,
+        "r": "niv:Romans:10:7",
+        "w": 6,
+        "l": {},
+        "t": "10:7*r Deut. 30:13",
+        "a": "c"
+    },
+    {
+        "o": 31129,
+        "r": "niv:Romans:10:8",
+        "w": 18,
+        "l": {},
+        "t": "10:8*r Deut. 30:14",
+        "a": "d"
+    },
+    {
+        "o": 31132,
+        "r": "niv:Romans:10:11",
+        "w": 13,
+        "l": {},
+        "t": "10:11*r Isaiah 28:16 (see Septuagint)",
+        "a": "e"
+    },
+    {
+        "o": 31134,
+        "r": "niv:Romans:10:13",
+        "w": 12,
+        "l": {},
+        "t": "10:13*r Joel 2:32",
+        "a": "f"
+    },
+    {
+        "o": 31136,
+        "r": "niv:Romans:10:15",
+        "w": 23,
+        "l": {},
+        "t": "10:15*r Isaiah 52:7",
+        "a": "g"
+    },
+    {
+        "o": 31137,
+        "r": "niv:Romans:10:16",
+        "w": 17,
+        "l": {},
+        "t": "10:16*r Isaiah 53:1",
+        "a": "h"
+    },
+    {
+        "o": 31139,
+        "r": "niv:Romans:10:18",
+        "w": 27,
+        "l": {},
+        "t": "10:18*r Psalm 19:4",
+        "a": "i"
+    },
+    {
+        "o": 31140,
+        "r": "niv:Romans:10:19",
+        "w": 33,
+        "l": {},
+        "t": "10:19*r Deut. 32:21",
+        "a": "j"
+    },
+    {
+        "o": 31141,
+        "r": "niv:Romans:10:20",
+        "w": 24,
+        "l": {},
+        "t": "10:20*r Isaiah 65:1",
+        "a": "k"
+    },
+    {
+        "o": 31142,
+        "r": "niv:Romans:10:21",
+        "w": 19,
+        "l": {},
+        "t": "10:21*r Isaiah 65:2",
+        "a": "l"
+    },
+    {
+        "o": 31147,
+        "r": "niv:Romans:11:3",
+        "w": 23,
+        "l": {},
+        "t": "11:3*r 1 Kings 19:10,14",
+        "a": "a"
+    },
+    {
+        "o": 31148,
+        "r": "niv:Romans:11:4",
+        "w": 21,
+        "l": {},
+        "t": "11:4*r 1 Kings 19:18",
+        "a": "b"
+    },
+    {
+        "o": 31152,
+        "r": "niv:Romans:11:8",
+        "w": 25,
+        "l": {},
+        "t": "11:8*r Deut. 29:4; Isaiah 29:10",
+        "a": "c"
+    },
+    {
+        "o": 31154,
+        "r": "niv:Romans:11:10",
+        "w": 14,
+        "l": {},
+        "t": "11:10*r Psalm 69:22,23",
+        "a": "d"
+    },
+    {
+        "o": 31172,
+        "r": "niv:Romans:11:26",
+        "w": 3,
+        "l": {},
+        "t": "11:26*r Or and*i so*i",
+        "a": "e"
+    },
+    {
+        "o": 31173,
+        "r": "niv:Romans:11:27",
+        "w": 2,
+        "l": {},
+        "t": "11:27*r Or will*i be*i",
+        "a": "f"
+    },
+    {
+        "o": 31173,
+        "r": "niv:Romans:11:27",
+        "w": 12,
+        "l": {},
+        "t": "11:27*r Isaiah 59:20,21; 27:9 (see Septuagint); Jer. 31:33,34",
+        "a": "g"
+    },
+    {
+        "o": 31177,
+        "r": "niv:Romans:11:31",
+        "w": 13,
+        "l": {},
+        "t": "11:31*r Some manuscripts do not have now.*i",
+        "a": "h"
+    },
+    {
+        "o": 31180,
+        "r": "niv:Romans:11:33",
+        "w": 9,
+        "l": {},
+        "t": "11:33*r Or riches*i and*i the*i wisdom*i and*i the*i",
+        "a": "i"
+    },
+    {
+        "o": 31181,
+        "r": "niv:Romans:11:34",
+        "w": 13,
+        "l": {},
+        "t": "11:34*r Isaiah 40:13",
+        "a": "j"
+    },
+    {
+        "o": 31182,
+        "r": "niv:Romans:11:35",
+        "w": 10,
+        "l": {},
+        "t": "11:35*r Job 41:11",
+        "a": "k"
+    },
+    {
+        "o": 31192,
+        "r": "niv:Romans:12:6",
+        "w": 23,
+        "l": {},
+        "t": "12:6*r Or the*i",
+        "a": "a"
+    },
+    {
+        "o": 31194,
+        "r": "niv:Romans:12:8",
+        "w": 19,
+        "l": {},
+        "t": "12:8*r Or to*i provide*i for*i others*i",
+        "a": "b"
+    },
+    {
+        "o": 31203,
+        "r": "niv:Romans:12:16",
+        "w": 19,
+        "l": {},
+        "t": "12:16*r Or willing*i to*i do*i menial*i work*i",
+        "a": "c"
+    },
+    {
+        "o": 31206,
+        "r": "niv:Romans:12:19",
+        "w": 24,
+        "l": {},
+        "t": "12:19*r Deut. 32:35",
+        "a": "d"
+    },
+    {
+        "o": 31207,
+        "r": "niv:Romans:12:20",
+        "w": 29,
+        "l": {},
+        "t": "12:20*r Prov. 25:21,22",
+        "a": "e"
+    },
+    {
+        "o": 31220,
+        "r": "niv:Romans:13:9",
+        "w": 18,
+        "l": {},
+        "t": "13:9*r Exodus 20:13-15,17; Deut. 5:17-19,21",
+        "a": "a"
+    },
+    {
+        "o": 31220,
+        "r": "niv:Romans:13:9",
+        "w": 37,
+        "l": {},
+        "t": "13:9*r Lev. 19:18",
+        "a": "b"
+    },
+    {
+        "o": 31226,
+        "r": "niv:Romans:13:14",
+        "w": 20,
+        "l": {},
+        "t": "13:14*r In contexts like this, the Greek word for flesh*i (sarx) refers to the sinful state of human beings, often presented as a power in opposition to the Spirit.",
+        "a": "c"
+    },
+    {
+        "o": 31238,
+        "r": "niv:Romans:14:10",
+        "w": 9,
+        "l": {},
+        "t": "14:10*r The Greek word for brother*i or*i sister*i (adelphos) refers here to a believer, whether man or woman, as part of God’s family; also in verses 13, 15 and 21.",
+        "a": "a"
+    },
+    {
+        "o": 31239,
+        "r": "niv:Romans:14:11",
+        "w": 21,
+        "l": {},
+        "t": "14:11*r Isaiah 45:23",
+        "a": "b"
+    },
+    {
+        "o": 31251,
+        "r": "niv:Romans:14:23",
+        "w": 25,
+        "l": {},
+        "t": "14:23*r Some manuscripts place 16:25-27 here; others after 15:33.",
+        "a": "c"
+    },
+    {
+        "o": 31255,
+        "r": "niv:Romans:15:3",
+        "w": 22,
+        "l": {},
+        "t": "15:3*r Psalm 69:9",
+        "a": "a"
+    },
+    {
+        "o": 31260,
+        "r": "niv:Romans:15:8",
+        "w": 12,
+        "l": {},
+        "t": "15:8*r Greek circumcision*i",
+        "a": "b"
+    },
+    {
+        "o": 31261,
+        "r": "niv:Romans:15:9",
+        "w": 30,
+        "l": {},
+        "t": "15:9*r 2 Samuel 22:50; Psalm 18:49",
+        "a": "c"
+    },
+    {
+        "o": 31262,
+        "r": "niv:Romans:15:10",
+        "w": 8,
+        "l": {},
+        "t": "15:10*r Deut. 32:43",
+        "a": "d"
+    },
+    {
+        "o": 31263,
+        "r": "niv:Romans:15:11",
+        "w": 13,
+        "l": {},
+        "t": "15:11*r Psalm 117:1",
+        "a": "e"
+    },
+    {
+        "o": 31264,
+        "r": "niv:Romans:15:12",
+        "w": 25,
+        "l": {},
+        "t": "15:12*r Isaiah 11:10 (see Septuagint)",
+        "a": "f"
+    },
+    {
+        "o": 31274,
+        "r": "niv:Romans:15:21",
+        "w": 21,
+        "l": {},
+        "t": "15:21*r Isaiah 52:15 (see Septuagint)",
+        "a": "g"
+    },
+    {
+        "o": 31290,
+        "r": "niv:Romans:16:1",
+        "w": 8,
+        "l": {},
+        "t": "16:1*r Or servant*i",
+        "a": "a"
+    },
+    {
+        "o": 31290,
+        "r": "niv:Romans:16:1",
+        "w": 8,
+        "l": {},
+        "t": "16:1*r The word deacon*i refers here to a Christian designated to serve with the overseers/elders of the church in a variety of ways; similarly in Phil. 1:1 and 1 Tim. 3:8,12.",
+        "a": "b"
+    },
+    {
+        "o": 31292,
+        "r": "niv:Romans:16:3",
+        "w": 1,
+        "l": {},
+        "t": "16:3*r Greek Prisca*i , a variant of Priscilla*i",
+        "a": "c"
+    },
+    {
+        "o": 31296,
+        "r": "niv:Romans:16:7",
+        "w": 17,
+        "l": {},
+        "t": "16:7*r Or are*i esteemed*i by*i",
+        "a": "d"
+    },
+    {
+        "o": 31312,
+        "r": "niv:Romans:16:23",
+        "w": 30,
+        "l": {},
+        "t": "16:24*r Some manuscripts include here May*i the*i grace*i of*i our*i Lord*i Jesus*i Christ*i be*i with*i all*i of*i you.*i Amen.*i",
+        "a": "e"
+    },
+    {
+        "o": 31314,
+        "r": "niv:Romans:16:26",
+        "w": 29,
+        "l": {},
+        "t": "16:26*r Or that*i is*i",
+        "a": "f"
+    }
+]

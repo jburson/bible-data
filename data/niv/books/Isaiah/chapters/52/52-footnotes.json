@@ -1,0 +1,34 @@
+[
+    {
+        "o": 20568,
+        "r": "niv:Isaiah:52:5",
+        "w": 24,
+        "l": {},
+        "t": "52:5*r Dead Sea Scrolls and Vulgate; Masoretic Text wail*i",
+        "a": "a"
+    },
+    {
+        "o": 20577,
+        "r": "niv:Isaiah:52:13",
+        "w": 5,
+        "l": {},
+        "t": "52:13*r Or will*i prosper*i",
+        "a": "b"
+    },
+    {
+        "o": 20578,
+        "r": "niv:Isaiah:52:14",
+        "w": 9,
+        "l": {},
+        "t": "52:14*r Hebrew you*i",
+        "a": "c"
+    },
+    {
+        "o": 20579,
+        "r": "niv:Isaiah:52:15",
+        "w": 5,
+        "l": {},
+        "t": "52:15*r Or so*i will*i many*i nations*i be*i amazed*i at*i him*i (see also Septuagint)",
+        "a": "d"
+    }
+]

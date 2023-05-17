@@ -1,0 +1,42 @@
+[
+    {
+        "o": 33658,
+        "r": "niv:1 Peter:3:12",
+        "w": 29,
+        "l": {},
+        "t": "3:12*r Psalm 34:12-16",
+        "a": "a"
+    },
+    {
+        "o": 33660,
+        "r": "niv:1 Peter:3:14",
+        "w": 17,
+        "l": {},
+        "t": "3:14*r Or fear*i what*i they*i fear*i",
+        "a": "b"
+    },
+    {
+        "o": 33660,
+        "r": "niv:1 Peter:3:14",
+        "w": 21,
+        "l": {},
+        "t": "3:14*r Isaiah 8:12",
+        "a": "c"
+    },
+    {
+        "o": 33665,
+        "r": "niv:1 Peter:3:19",
+        "w": 3,
+        "l": {},
+        "t": "3:18,19*r Or but*i made*i alive*i in*i the*i spirit,*i in*i which*i also*i",
+        "a": "d"
+    },
+    {
+        "o": 33667,
+        "r": "niv:1 Peter:3:21",
+        "w": 25,
+        "l": {},
+        "t": "3:21*r Or but*i an*i appeal*i to*i God*i for*i a*i clear*i conscience*i",
+        "a": "e"
+    }
+]

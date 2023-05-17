@@ -1,0 +1,370 @@
+[
+    {
+        "o": 22826,
+        "r": "esv:Ezekiel:4:1",
+        "w": 1,
+        "l": {},
+        "c": "Ezekiel 2:1*22785",
+        "a": "a"
+    },
+    {
+        "o": 22826,
+        "r": "esv:Ezekiel:4:1",
+        "w": 4,
+        "l": {},
+        "c": "Ezekiel 4:3*22828; Jeremiah 13:1–2*21439",
+        "a": "b"
+    },
+    {
+        "o": 22827,
+        "r": "esv:Ezekiel:4:2",
+        "w": 0,
+        "l": {},
+        "c": "2 Kings 25:1*11241",
+        "a": "c"
+    },
+    {
+        "o": 22827,
+        "r": "esv:Ezekiel:4:2",
+        "w": 4,
+        "l": {},
+        "c": "Ezekiel 17:17*23167; Ezekiel 21:22*23300; Ezekiel 26:8*23456",
+        "a": "d"
+    },
+    {
+        "o": 22827,
+        "r": "esv:Ezekiel:4:2",
+        "w": 11,
+        "l": {},
+        "c": "Luke 19:43*28819",
+        "a": "e"
+    },
+    {
+        "o": 22827,
+        "r": "esv:Ezekiel:4:2",
+        "w": 23,
+        "l": {},
+        "c": "Ezekiel 21:22*23300; Ezekiel 26:9*23457",
+        "a": "f"
+    },
+    {
+        "o": 22828,
+        "r": "esv:Ezekiel:4:3",
+        "w": 17,
+        "l": {},
+        "c": "Ezekiel 21:2*23280",
+        "a": "g"
+    },
+    {
+        "o": 22828,
+        "r": "esv:Ezekiel:4:3",
+        "w": 23,
+        "l": {},
+        "c": "Isaiah 29:3*20241",
+        "a": "h"
+    },
+    {
+        "o": 22828,
+        "r": "esv:Ezekiel:4:3",
+        "w": 40,
+        "l": {},
+        "c": "Ezekiel 12:6*22999; Ezekiel 12:11*23004; Ezekiel 24:24*23421; Ezekiel 24:27*23424; Isaiah 8:18*19822; Isaiah 20:3*20058",
+        "a": "i"
+    },
+    {
+        "o": 22829,
+        "r": "esv:Ezekiel:4:4",
+        "w": 9,
+        "l": {},
+        "t": "Or iniquity*i ; also verses 5, 6, 17",
+        "a": "j"
+    },
+    {
+        "o": 22829,
+        "r": "esv:Ezekiel:4:4",
+        "w": 27,
+        "l": {},
+        "c": "Ezekiel 44:10*24012; Ezekiel 44:12*24014; Leviticus 16:22*3503; Isaiah 53:11–12*20831",
+        "a": "k"
+    },
+    {
+        "o": 22830,
+        "r": "esv:Ezekiel:4:5",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 4:9*22834",
+        "a": "l"
+    },
+    {
+        "o": 22830,
+        "r": "esv:Ezekiel:4:5",
+        "w": 10,
+        "l": {},
+        "c": "Numbers 14:34*4507",
+        "a": "m"
+    },
+    {
+        "o": 22830,
+        "r": "esv:Ezekiel:4:5",
+        "w": 20,
+        "l": {},
+        "c": "Ezekiel 4:4*22829",
+        "a": "n"
+    },
+    {
+        "o": 22830,
+        "r": "esv:Ezekiel:4:5",
+        "w": 25,
+        "l": {},
+        "c": "Ezekiel 23:4*23349; Ezekiel 23:9–10*23354",
+        "a": "o"
+    },
+    {
+        "o": 22831,
+        "r": "esv:Ezekiel:4:6",
+        "w": 18,
+        "l": {},
+        "c": "Ezekiel 44:10*24012; Ezekiel 44:12*24014; Leviticus 16:22*3503; Isaiah 53:11–12*20831",
+        "a": "p"
+    },
+    {
+        "o": 22831,
+        "r": "esv:Ezekiel:4:6",
+        "w": 19,
+        "l": {},
+        "c": "Ezekiel 23:11–12*23356",
+        "a": "q"
+    },
+    {
+        "o": 22831,
+        "r": "esv:Ezekiel:4:6",
+        "w": 26,
+        "l": {},
+        "c": "Numbers 14:34*4507",
+        "a": "r"
+    },
+    {
+        "o": 22832,
+        "r": "esv:Ezekiel:4:7",
+        "w": 0,
+        "l": {},
+        "c": "Ezekiel 21:2*23280",
+        "a": "s"
+    },
+    {
+        "o": 22832,
+        "r": "esv:Ezekiel:4:7",
+        "w": 10,
+        "l": {},
+        "c": "Isaiah 52:10*20813",
+        "a": "t"
+    },
+    {
+        "o": 22833,
+        "r": "esv:Ezekiel:4:8",
+        "w": 1,
+        "l": {},
+        "c": "Ezekiel 3:25*22821",
+        "a": "u"
+    },
+    {
+        "o": 22833,
+        "r": "esv:Ezekiel:4:8",
+        "w": 22,
+        "l": {},
+        "c": "Ezekiel 4:9*22834; Ezekiel 5:2*22846; 2 Kings 25:1–3*11241; Jeremiah 39:1–2*22167; Jeremiah 52:4–6*22554",
+        "a": "v"
+    },
+    {
+        "o": 22834,
+        "r": "esv:Ezekiel:4:9",
+        "w": 11,
+        "l": {},
+        "t": "A type of wheat",
+        "a": "w"
+    },
+    {
+        "o": 22834,
+        "r": "esv:Ezekiel:4:9",
+        "w": 21,
+        "l": {},
+        "c": "1 Kings 22:27*10427",
+        "a": "x"
+    },
+    {
+        "o": 22834,
+        "r": "esv:Ezekiel:4:9",
+        "w": 24,
+        "l": {},
+        "c": "Ezekiel 4:8*22833",
+        "a": "y"
+    },
+    {
+        "o": 22834,
+        "r": "esv:Ezekiel:4:9",
+        "w": 35,
+        "l": {},
+        "c": "Ezekiel 4:5*22830",
+        "a": "z"
+    },
+    {
+        "o": 22835,
+        "r": "esv:Ezekiel:4:10",
+        "w": 7,
+        "l": {},
+        "c": "Ezekiel 12:19*23012; Jeremiah 37:21*22132",
+        "a": "a"
+    },
+    {
+        "o": 22835,
+        "r": "esv:Ezekiel:4:10",
+        "w": 9,
+        "l": {},
+        "c": "Ezekiel 45:12*24049",
+        "a": "b"
+    },
+    {
+        "o": 22835,
+        "r": "esv:Ezekiel:4:10",
+        "w": 11,
+        "l": {},
+        "t": "A shekel*i was about 2/5 ounce or 11 grams",
+        "a": "c"
+    },
+    {
+        "o": 22835,
+        "r": "esv:Ezekiel:4:10",
+        "w": 17,
+        "l": {},
+        "t": "Or at*i a*i set*i time*i daily*i ; also verse 11",
+        "a": "d"
+    },
+    {
+        "o": 22836,
+        "r": "esv:Ezekiel:4:11",
+        "w": 4,
+        "l": {},
+        "c": "Ezekiel 4:10*22835",
+        "a": "e"
+    },
+    {
+        "o": 22836,
+        "r": "esv:Ezekiel:4:11",
+        "w": 12,
+        "l": {},
+        "t": "A hin*i was about 4 quarts or 3.5 liters",
+        "a": "f"
+    },
+    {
+        "o": 22837,
+        "r": "esv:Ezekiel:4:12",
+        "w": 10,
+        "l": {},
+        "c": "Ezekiel 12:3*22996",
+        "a": "g"
+    },
+    {
+        "o": 22838,
+        "r": "esv:Ezekiel:4:13",
+        "w": 10,
+        "l": {},
+        "c": "Hosea 9:3*24684; Daniel 1:8*24163",
+        "a": "h"
+    },
+    {
+        "o": 22839,
+        "r": "esv:Ezekiel:4:14",
+        "w": 2,
+        "l": {},
+        "c": "Ezekiel 9:8*22936; Ezekiel 11:13*22979; Ezekiel 20:49*23276",
+        "a": "i"
+    },
+    {
+        "o": 22839,
+        "r": "esv:Ezekiel:4:14",
+        "w": 11,
+        "l": {},
+        "t": "Hebrew my*i soul*i (or throat*i ) has*i never*i been*i made*i unclean*i",
+        "a": "j"
+    },
+    {
+        "o": 22839,
+        "r": "esv:Ezekiel:4:14",
+        "w": 11,
+        "l": {},
+        "c": "Acts 10:14*30500",
+        "a": "k"
+    },
+    {
+        "o": 22839,
+        "r": "esv:Ezekiel:4:14",
+        "w": 21,
+        "l": {},
+        "c": "Ezekiel 44:31*24034; Leviticus 7:24*3164",
+        "a": "l"
+    },
+    {
+        "o": 22839,
+        "r": "esv:Ezekiel:4:14",
+        "w": 32,
+        "l": {},
+        "c": "Isaiah 65:4*21038; Leviticus 7:18*3158",
+        "a": "m"
+    },
+    {
+        "o": 22841,
+        "r": "esv:Ezekiel:4:16",
+        "w": 4,
+        "l": {},
+        "c": "Ezekiel 2:1*22785",
+        "a": "n"
+    },
+    {
+        "o": 22841,
+        "r": "esv:Ezekiel:4:16",
+        "w": 8,
+        "l": {},
+        "c": "Ezekiel 5:16*22860; Ezekiel 14:13*23062; Leviticus 26:26*3870",
+        "a": "o"
+    },
+    {
+        "o": 22841,
+        "r": "esv:Ezekiel:4:16",
+        "w": 13,
+        "l": {},
+        "t": "Hebrew staff*i",
+        "a": "p"
+    },
+    {
+        "o": 22841,
+        "r": "esv:Ezekiel:4:16",
+        "w": 21,
+        "l": {},
+        "c": "Ezekiel 4:10*22835",
+        "a": "q"
+    },
+    {
+        "o": 22841,
+        "r": "esv:Ezekiel:4:16",
+        "w": 31,
+        "l": {},
+        "c": "Ezekiel 4:10*22835",
+        "a": "r"
+    },
+    {
+        "o": 22842,
+        "r": "esv:Ezekiel:4:17",
+        "w": 11,
+        "l": {},
+        "c": "Ezekiel 3:15*22811",
+        "a": "s"
+    },
+    {
+        "o": 22842,
+        "r": "esv:Ezekiel:4:17",
+        "w": 18,
+        "l": {},
+        "c": "Ezekiel 24:23*23420; Ezekiel 33:10*23657; Leviticus 26:39*3883",
+        "a": "t"
+    }
+]

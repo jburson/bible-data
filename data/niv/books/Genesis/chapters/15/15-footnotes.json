@@ -1,0 +1,42 @@
+[
+    {
+        "o": 398,
+        "r": "niv:Genesis:15:1",
+        "w": 21,
+        "l": {},
+        "t": "15:1*r Or sovereign*i",
+        "a": "a"
+    },
+    {
+        "o": 398,
+        "r": "niv:Genesis:15:1",
+        "w": 25,
+        "l": {},
+        "t": "15:1*r Or shield;*i /*i your*i reward*i will*i be*i very*i great*i",
+        "a": "b"
+    },
+    {
+        "o": 399,
+        "r": "niv:Genesis:15:2",
+        "w": 19,
+        "l": {},
+        "t": "15:2*r The meaning of the Hebrew for this phrase is uncertain.",
+        "a": "c"
+    },
+    {
+        "o": 402,
+        "r": "niv:Genesis:15:5",
+        "w": 28,
+        "l": {},
+        "t": "15:5*r Or seed*i",
+        "a": "d"
+    },
+    {
+        "o": 415,
+        "r": "niv:Genesis:15:18",
+        "w": 21,
+        "l": {},
+        "t": "15:18*r Or river*i",
+        "a": "e"
+    }
+]

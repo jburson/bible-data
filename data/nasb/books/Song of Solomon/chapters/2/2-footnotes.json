@@ -1,0 +1,42 @@
+[
+    {
+        "o": 19529,
+        "r": "nasb:Song of Solomon:2:1",
+        "w": 0,
+        "l": {},
+        "t": "BRIDE",
+        "a": "a"
+    },
+    {
+        "o": 19530,
+        "r": "nasb:Song of Solomon:2:2",
+        "w": 0,
+        "l": {},
+        "t": "BRIDEGROOM",
+        "a": "b"
+    },
+    {
+        "o": 19531,
+        "r": "nasb:Song of Solomon:2:3",
+        "w": 0,
+        "l": {},
+        "t": "BRIDE",
+        "a": "c"
+    },
+    {
+        "o": 19535,
+        "r": "nasb:Song of Solomon:2:7",
+        "w": 0,
+        "l": {},
+        "t": "BRIDEGROOM",
+        "a": "d"
+    },
+    {
+        "o": 19536,
+        "r": "nasb:Song of Solomon:2:8",
+        "w": 0,
+        "l": {},
+        "t": "BRIDE",
+        "a": "e"
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "o": 4693,
+        "r": "esv:Numbers:20:1",
+        "w": 8,
+        "l": {},
+        "c": "Numbers 13:21*4456",
+        "a": "a"
+    },
+    {
+        "o": 4693,
+        "r": "esv:Numbers:20:1",
+        "w": 24,
+        "l": {},
+        "c": "Numbers 12:1*4418; Numbers 26:59*4953; Exodus 15:20*2112",
+        "a": "b"
+    },
+    {
+        "o": 4695,
+        "r": "esv:Numbers:20:2",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 17:1*2161",
+        "a": "c"
+    },
+    {
+        "o": 4695,
+        "r": "esv:Numbers:20:2",
+        "w": 7,
+        "l": {},
+        "c": "Numbers 16:19*4586; Numbers 16:42*4609",
+        "a": "d"
+    },
+    {
+        "o": 4696,
+        "r": "esv:Numbers:20:3",
+        "w": 2,
+        "l": {},
+        "c": "Numbers 14:2*4473; Exodus 17:2*2162",
+        "a": "e"
+    },
+    {
+        "o": 4696,
+        "r": "esv:Numbers:20:3",
+        "w": 12,
+        "l": {},
+        "c": "Numbers 11:1*4379; Numbers 11:33*4413; Numbers 14:37*4510; Numbers 16:32–33*4599; Numbers 16:35*4602; Numbers 16:49*4616",
+        "a": "f"
+    },
+    {
+        "o": 4698,
+        "r": "esv:Numbers:20:5",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 17:3*2163",
+        "a": "g"
+    },
+    {
+        "o": 4699,
+        "r": "esv:Numbers:20:6",
+        "w": 19,
+        "l": {},
+        "c": "Numbers 14:5*4476; Numbers 16:4*4571; Numbers 16:22*4589; Numbers 16:45*4612",
+        "a": "h"
+    },
+    {
+        "o": 4699,
+        "r": "esv:Numbers:20:6",
+        "w": 23,
+        "l": {},
+        "c": "Leviticus 9:23*3241",
+        "a": "i"
+    },
+    {
+        "o": 4701,
+        "r": "esv:Numbers:20:8",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 17:5*2165",
+        "a": "j"
+    },
+    {
+        "o": 4701,
+        "r": "esv:Numbers:20:8",
+        "w": 23,
+        "l": {},
+        "c": "Exodus 17:6*2166",
+        "a": "k"
+    },
+    {
+        "o": 4702,
+        "r": "esv:Numbers:20:9",
+        "w": 4,
+        "l": {},
+        "c": "Numbers 17:10*4629",
+        "a": "l"
+    },
+    {
+        "o": 4704,
+        "r": "esv:Numbers:20:10",
+        "w": 15,
+        "l": {},
+        "c": "Psalm 106:32–33*17381",
+        "a": "m"
+    },
+    {
+        "o": 4705,
+        "r": "esv:Numbers:20:11",
+        "w": 13,
+        "l": {},
+        "c": "Numbers 20:8*4701",
+        "a": "n"
+    },
+    {
+        "o": 4706,
+        "r": "esv:Numbers:20:12",
+        "w": 8,
+        "l": {},
+        "c": "Numbers 27:14*4976; Deuteronomy 1:37*5370; Deuteronomy 3:26*5448; Deuteronomy 32:51*6345",
+        "a": "o"
+    },
+    {
+        "o": 4706,
+        "r": "esv:Numbers:20:12",
+        "w": 14,
+        "l": {},
+        "c": "Ezekiel 20:41*23268; Ezekiel 36:23*23760; Ezekiel 38:16*23824",
+        "a": "p"
+    },
+    {
+        "o": 4707,
+        "r": "esv:Numbers:20:13",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 27:14*4976; Exodus 17:7*2168; Deuteronomy 32:51*6345; Deuteronomy 33:8*6356; Psalm 81:7*16856; Psalm 95:8*17133; Psalm 106:32*17381",
+        "a": "q"
+    },
+    {
+        "o": 4707,
+        "r": "esv:Numbers:20:13",
+        "w": 5,
+        "l": {},
+        "t": "Meribah*i means quarreling*i",
+        "a": "r"
+    },
+    {
+        "o": 4709,
+        "r": "esv:Numbers:20:14",
+        "w": 0,
+        "l": {},
+        "c": "Judges 11:16–17*7488",
+        "a": "s"
+    },
+    {
+        "o": 4709,
+        "r": "esv:Numbers:20:14",
+        "w": 5,
+        "l": {},
+        "c": "Genesis 36:31–39*1163",
+        "a": "t"
+    },
+    {
+        "o": 4709,
+        "r": "esv:Numbers:20:14",
+        "w": 11,
+        "l": {},
+        "c": "Deuteronomy 2:4*5385; Deuteronomy 2:8*5389; Deuteronomy 23:7*6015; Obadiah 10*25039; Obadiah 12*25041",
+        "a": "u"
+    },
+    {
+        "o": 4710,
+        "r": "esv:Numbers:20:15",
+        "w": 0,
+        "l": {},
+        "c": "Genesis 46:6*1506; Acts 7:15*30342",
+        "a": "v"
+    },
+    {
+        "o": 4710,
+        "r": "esv:Numbers:20:15",
+        "w": 6,
+        "l": {},
+        "c": "Exodus 12:40*2019",
+        "a": "w"
+    },
+    {
+        "o": 4710,
+        "r": "esv:Numbers:20:15",
+        "w": 14,
+        "l": {},
+        "c": "Exodus 1:11*1672; Deuteronomy 26:6*6090",
+        "a": "x"
+    },
+    {
+        "o": 4711,
+        "r": "esv:Numbers:20:16",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 2:23*1710; Exodus 3:7*1721",
+        "a": "y"
+    },
+    {
+        "o": 4711,
+        "r": "esv:Numbers:20:16",
+        "w": 11,
+        "l": {},
+        "c": "Exodus 3:2*1716; Exodus 14:19*2078; Exodus 23:20*2357; Exodus 33:2*2697",
+        "a": "z"
+    },
+    {
+        "o": 4712,
+        "r": "esv:Numbers:20:17",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 21:22*4752; Deuteronomy 2:27*5409",
+        "a": "a"
+    },
+    {
+        "o": 4712,
+        "r": "esv:Numbers:20:17",
+        "w": 14,
+        "l": {},
+        "c": "Numbers 20:19*4714",
+        "a": "b"
+    },
+    {
+        "o": 4714,
+        "r": "esv:Numbers:20:19",
+        "w": 14,
+        "l": {},
+        "c": "Numbers 20:17*4712",
+        "a": "c"
+    },
+    {
+        "o": 4714,
+        "r": "esv:Numbers:20:19",
+        "w": 25,
+        "l": {},
+        "c": "Deuteronomy 2:6*5387; Deuteronomy 2:28*5410",
+        "a": "d"
+    },
+    {
+        "o": 4715,
+        "r": "esv:Numbers:20:20",
+        "w": 2,
+        "l": {},
+        "c": "Judges 11:17*7489; Amos 1:11*24870",
+        "a": "e"
+    },
+    {
+        "o": 4716,
+        "r": "esv:Numbers:20:21",
+        "w": 1,
+        "l": {},
+        "c": "Deuteronomy 2:29*5411",
+        "a": "f"
+    },
+    {
+        "o": 4716,
+        "r": "esv:Numbers:20:21",
+        "w": 11,
+        "l": {},
+        "c": "Numbers 21:4*4732; Deuteronomy 2:8*5389; Judges 11:18*7490",
+        "a": "g"
+    },
+    {
+        "o": 4718,
+        "r": "esv:Numbers:20:22",
+        "w": 3,
+        "l": {},
+        "c": "Numbers 33:37*5224",
+        "a": "h"
+    },
+    {
+        "o": 4718,
+        "r": "esv:Numbers:20:22",
+        "w": 14,
+        "l": {},
+        "c": "Numbers 21:4*4732; Numbers 33:37*5224",
+        "a": "i"
+    },
+    {
+        "o": 4720,
+        "r": "esv:Numbers:20:24",
+        "w": 0,
+        "l": {},
+        "c": "Numbers 27:13*4975; Deuteronomy 32:50*6344; Numbers 31:2*5089; Genesis 25:8*728",
+        "a": "j"
+    },
+    {
+        "o": 4720,
+        "r": "esv:Numbers:20:24",
+        "w": 23,
+        "l": {},
+        "c": "Numbers 20:12*4706",
+        "a": "k"
+    },
+    {
+        "o": 4722,
+        "r": "esv:Numbers:20:26",
+        "w": 14,
+        "l": {},
+        "c": "Numbers 20:24*4720",
+        "a": "l"
+    },
+    {
+        "o": 4724,
+        "r": "esv:Numbers:20:28",
+        "w": 0,
+        "l": {},
+        "c": "Exodus 29:29–30*2575",
+        "a": "m"
+    },
+    {
+        "o": 4724,
+        "r": "esv:Numbers:20:28",
+        "w": 17,
+        "l": {},
+        "c": "Numbers 33:38*5225; Deuteronomy 32:50*6344; Deuteronomy 10:6*5658",
+        "a": "n"
+    },
+    {
+        "o": 4725,
+        "r": "esv:Numbers:20:29",
+        "w": 9,
+        "l": {},
+        "c": "Deuteronomy 34:8*6387",
+        "a": "o"
+    }
+]

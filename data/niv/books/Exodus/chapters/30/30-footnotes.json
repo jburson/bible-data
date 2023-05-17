@@ -1,0 +1,50 @@
+[
+    {
+        "o": 2597,
+        "r": "niv:Exodus:30:2",
+        "w": 15,
+        "l": {},
+        "t": "30:2*r That is, about 1 1/2 feet long and wide and 3 feet high or about 45 centimeters long and wide and 90 centimeters high",
+        "a": "a"
+    },
+    {
+        "o": 2605,
+        "r": "niv:Exodus:30:10",
+        "w": 23,
+        "l": {},
+        "t": "30:10*r Or purification*i offering*i",
+        "a": "b"
+    },
+    {
+        "o": 2609,
+        "r": "niv:Exodus:30:13",
+        "w": 14,
+        "l": {},
+        "t": "30:13*r That is, about 1/5 ounce or about 5.8 grams; also in verse 15",
+        "a": "c"
+    },
+    {
+        "o": 2621,
+        "r": "niv:Exodus:30:23",
+        "w": 6,
+        "l": {},
+        "t": "30:23*r That is, about 12 1/2 pounds or about 5.8 kilograms; also in verse 24",
+        "a": "d"
+    },
+    {
+        "o": 2621,
+        "r": "niv:Exodus:30:23",
+        "w": 21,
+        "l": {},
+        "t": "30:23*r That is, about 6 1/4 pounds or about 2.9 kilograms",
+        "a": "e"
+    },
+    {
+        "o": 2622,
+        "r": "niv:Exodus:30:24",
+        "w": 10,
+        "l": {},
+        "t": "30:24*r That is, probably about 1 gallon or about 3.8 liters",
+        "a": "f"
+    }
+]
