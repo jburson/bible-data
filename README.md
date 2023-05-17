@@ -45,7 +45,7 @@ Well-formatted data for building innovative Bible apps. Use with permission of t
     - For example, a footnote text might be `2:2*r Or anointed one`.
       - The first word is a cross-reference that can be linked be `2:2` within the current book.
   - `w`: (number) The word index within the verse (starting at 0).
-  - `c`: (string) Cross-references, separated by 'l'.
+  - `c`: (string) Cross-references.
     - Each cross-reference is separated by `;`.
     - If a cross-reference contains a `*`, then the following number indicates the order number of the link corresponding to `VERSION.json`.  
   - `a`: (string) A title that can be used to render the footnote (`a`, `b`, `c`, etc).
