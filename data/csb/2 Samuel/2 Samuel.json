@@ -1,0 +1,3860 @@
+[
+    {
+        "o": 8871,
+        "r": "csb:2 Samuel:1:0",
+        "t": "2 Samuel 1",
+        "h": 1
+    },
+    {
+        "o": 8872,
+        "r": "csb:2 Samuel:1:0",
+        "t": "Responses to Saul’s Death",
+        "h": 2
+    },
+    {
+        "o": 8873,
+        "r": "csb:2 Samuel:1:1",
+        "t": "After*p the death of Saul, David returned from defeating the Amalekites and stayed at Ziklag two days."
+    },
+    {
+        "o": 8874,
+        "r": "csb:2 Samuel:1:2",
+        "t": "On the third day a man with torn clothes and dust on his head came from Saul’s camp. When he came to David, he fell to the ground and paid homage."
+    },
+    {
+        "o": 8875,
+        "r": "csb:2 Samuel:1:3",
+        "t": "David asked him, “Where have you come from?” He*p replied to him, “I’ve escaped from the Israelite camp.”"
+    },
+    {
+        "o": 8876,
+        "r": "csb:2 Samuel:1:4",
+        "t": "“What*p was the outcome? Tell me,” David asked him. “The*p troops fled from the battle,” he answered. “Many of the troops have fallen and are dead. Also, Saul and his son Jonathan are dead.”"
+    },
+    {
+        "o": 8877,
+        "r": "csb:2 Samuel:1:5",
+        "t": "David*p asked the young man who had brought him the report, “How do you know Saul and his son Jonathan are dead?”"
+    },
+    {
+        "o": 8878,
+        "r": "csb:2 Samuel:1:6",
+        "t": "“I*p happened to be on Mount Gilboa,” he replied, “and there was Saul, leaning on his spear. At that very moment the chariots and the cavalry were closing in on him."
+    },
+    {
+        "o": 8879,
+        "r": "csb:2 Samuel:1:7",
+        "t": "When he turned around and saw me, he called out to me, so I answered: I’m at your service."
+    },
+    {
+        "o": 8880,
+        "r": "csb:2 Samuel:1:8",
+        "t": "He asked me, ‘Who are you? ’ I told him: I’m an Amalekite."
+    },
+    {
+        "o": 8881,
+        "r": "csb:2 Samuel:1:9",
+        "t": "Then he begged me, ‘Stand over me and kill me, for I’m mortally wounded, but my life still lingers.’"
+    },
+    {
+        "o": 8882,
+        "r": "csb:2 Samuel:1:10",
+        "t": "So I stood over him and killed him because I knew that after he had fallen he couldn’t survive. I took the crown that was on his head and the armband that was on his arm, and I’ve brought them here to my lord.”"
+    },
+    {
+        "o": 8883,
+        "r": "csb:2 Samuel:1:11",
+        "t": "Then*p David took hold of his clothes and tore them, and all the men with him did the same."
+    },
+    {
+        "o": 8884,
+        "r": "csb:2 Samuel:1:12",
+        "t": "They mourned, wept, and fasted until the evening for those who died by the sword — for Saul, his son Jonathan, the Lord’s*s people, and the house of Israel."
+    },
+    {
+        "o": 8885,
+        "r": "csb:2 Samuel:1:13",
+        "t": "David*p inquired of the young man who had brought him the report, “Where are you from?” “I’m*p the son of a resident alien,” he said. “I’m an Amalekite.”"
+    },
+    {
+        "o": 8886,
+        "r": "csb:2 Samuel:1:14",
+        "t": "David*p questioned him, “How is it that you were not afraid to lift your hand to destroy the Lord’s*s anointed?”"
+    },
+    {
+        "o": 8887,
+        "r": "csb:2 Samuel:1:15",
+        "t": "Then David summoned one of his servants and said, “Come here and kill him!” The servant struck him, and he died."
+    },
+    {
+        "o": 8888,
+        "r": "csb:2 Samuel:1:16",
+        "t": "For David had said to the Amalekite, “Your blood is on your own head because your own mouth testified against you by saying, ‘I killed the Lord’s*s anointed.’”"
+    },
+    {
+        "o": 8889,
+        "r": "csb:2 Samuel:1:17",
+        "t": "David*p sang the following lament for Saul and his son Jonathan,"
+    },
+    {
+        "o": 8890,
+        "r": "csb:2 Samuel:1:18",
+        "t": "and he ordered that the Judahites be taught The Song of the Bow. It is written in the Book of Jashar:"
+    },
+    {
+        "o": 8891,
+        "r": "csb:2 Samuel:1:19",
+        "t": "The*pn splendor of Israel lies slain on your heights. How*ln the mighty have fallen!"
+    },
+    {
+        "o": 8892,
+        "r": "csb:2 Samuel:1:20",
+        "t": "Do*ln not tell it in Gath, don’t*ln announce it in the marketplaces of Ashkelon, or*ln the daughters of the Philistines will rejoice, and*ln the daughters of the uncircumcised will celebrate."
+    },
+    {
+        "o": 8893,
+        "r": "csb:2 Samuel:1:21",
+        "t": "Mountains*ln of Gilboa, let*ln no dew or rain be on you, or*ln fields of offerings, for*ln there the shield of the mighty was defiled— the*ln shield of Saul, no longer anointed with oil."
+    },
+    {
+        "o": 8894,
+        "r": "csb:2 Samuel:1:22",
+        "t": "Jonathan’s*ln bow never retreated, Saul’s*ln sword never returned unstained, from*ln the blood of the slain, from*ln the flesh of the mighty."
+    },
+    {
+        "o": 8895,
+        "r": "csb:2 Samuel:1:23",
+        "t": "Saul*ln and Jonathan, loved*ln and delightful, they*ln were not parted in life or in death. They*ln were swifter than eagles, stronger than lions."
+    },
+    {
+        "o": 8896,
+        "r": "csb:2 Samuel:1:24",
+        "t": "Daughters*ln of Israel, weep for Saul, who*ln clothed you in scarlet, with luxurious things, who*ln decked your garments with gold ornaments."
+    },
+    {
+        "o": 8897,
+        "r": "csb:2 Samuel:1:25",
+        "t": "How*ln the mighty have fallen in the thick of battle! Jonathan*ln lies slain on your heights."
+    },
+    {
+        "o": 8898,
+        "r": "csb:2 Samuel:1:26",
+        "t": "I*ln grieve for you, Jonathan, my brother. You*ln were such a friend to me. Your*ln love for me was more wondrous than*ln the love of women."
+    },
+    {
+        "o": 8899,
+        "r": "csb:2 Samuel:1:27",
+        "t": "How*ln the mighty have fallen and*ln the weapons of war have perished!"
+    },
+    {
+        "o": 8900,
+        "r": "csb:2 Samuel:2:0",
+        "t": "2 Samuel 2",
+        "h": 1
+    },
+    {
+        "o": 8901,
+        "r": "csb:2 Samuel:2:0",
+        "t": "David, King of Judah",
+        "h": 2
+    },
+    {
+        "o": 8902,
+        "r": "csb:2 Samuel:2:1",
+        "t": "Some*p time later, David inquired of the Lord:*s “Should I go to one of the towns of Judah?” The*p Lord*s answered him, “Go.” Then*p David asked, “Where should I go?” “To*p Hebron,” the Lord*s replied."
+    },
+    {
+        "o": 8903,
+        "r": "csb:2 Samuel:2:2",
+        "t": "So*p David went there with his two wives, Ahinoam the Jezreelite and Abigail, the widow of Nabal the Carmelite."
+    },
+    {
+        "o": 8904,
+        "r": "csb:2 Samuel:2:3",
+        "t": "In addition, David brought the men who were with him, each one with his family, and they settled in the towns near Hebron."
+    },
+    {
+        "o": 8905,
+        "r": "csb:2 Samuel:2:4",
+        "t": "Then the men of Judah came, and there they anointed David king over the house of Judah. They told David, “It was the men of Jabesh-gilead who buried Saul.”"
+    },
+    {
+        "o": 8906,
+        "r": "csb:2 Samuel:2:5",
+        "t": "David*p sent messengers to the men of Jabesh-gilead and said to them, “The Lord*s bless you because you have shown this kindness to Saul your lord when you buried him."
+    },
+    {
+        "o": 8907,
+        "r": "csb:2 Samuel:2:6",
+        "t": "Now, may the Lord*s show kindness and faithfulness to you, and I will also show the same goodness to you because you have done this deed."
+    },
+    {
+        "o": 8908,
+        "r": "csb:2 Samuel:2:7",
+        "t": "Therefore, be strong and valiant, for though Saul your lord is dead, the house of Judah has anointed me king over them.”"
+    },
+    {
+        "o": 8909,
+        "r": "csb:2 Samuel:2:8",
+        "t": "Abner*p son of Ner, commander of Saul’s army, took Saul’s son Ish-bosheth and moved him to Mahanaim."
+    },
+    {
+        "o": 8910,
+        "r": "csb:2 Samuel:2:9",
+        "t": "He made him king over Gilead, Asher, Jezreel, Ephraim, Benjamin — over all Israel."
+    },
+    {
+        "o": 8911,
+        "r": "csb:2 Samuel:2:10",
+        "t": "Saul’s son Ish-bosheth was forty years old when he became king over Israel; he reigned for two years. The house of Judah, however, followed David."
+    },
+    {
+        "o": 8912,
+        "r": "csb:2 Samuel:2:11",
+        "t": "The length of time that David was king in Hebron over the house of Judah was seven years and six months."
+    },
+    {
+        "o": 8913,
+        "r": "csb:2 Samuel:2:12",
+        "t": "Abner*p son of Ner and soldiers of Ish-bosheth son of Saul marched out from Mahanaim to Gibeon."
+    },
+    {
+        "o": 8914,
+        "r": "csb:2 Samuel:2:13",
+        "t": "So Joab son of Zeruiah and David’s soldiers marched out and met them by the pool of Gibeon. The two groups took up positions on opposite sides of the pool."
+    },
+    {
+        "o": 8915,
+        "r": "csb:2 Samuel:2:14",
+        "t": "Then*p Abner said to Joab, “Let’s have the young men get up and compete in front of us.” “Let*p them get up,” Joab replied."
+    },
+    {
+        "o": 8916,
+        "r": "csb:2 Samuel:2:15",
+        "t": "So*p they got up and were counted off — twelve for Benjamin and Ish-bosheth son of Saul, and twelve from David’s soldiers."
+    },
+    {
+        "o": 8917,
+        "r": "csb:2 Samuel:2:16",
+        "t": "Then each man grabbed his opponent by the head and thrust his sword into his opponent’s side so that they all died together. So this place, which is in Gibeon, is named Field of Blades."
+    },
+    {
+        "o": 8918,
+        "r": "csb:2 Samuel:2:17",
+        "t": "The*p battle that day was extremely fierce, and Abner and the men of Israel were defeated by David’s soldiers."
+    },
+    {
+        "o": 8919,
+        "r": "csb:2 Samuel:2:18",
+        "t": "The three sons of Zeruiah were there: Joab, Abishai, and Asahel. Asahel was a fast runner, like one of the wild gazelles."
+    },
+    {
+        "o": 8920,
+        "r": "csb:2 Samuel:2:19",
+        "t": "He chased Abner and did not turn to the right or the left in his pursuit of him."
+    },
+    {
+        "o": 8921,
+        "r": "csb:2 Samuel:2:20",
+        "t": "Abner glanced back and said, “Is that you, Asahel?” “Yes*p it is,” Asahel replied."
+    },
+    {
+        "o": 8922,
+        "r": "csb:2 Samuel:2:21",
+        "t": "Abner*p said to him, “Turn to your right or left, seize one of the young soldiers, and take whatever you can get from him.” But Asahel would not stop chasing him."
+    },
+    {
+        "o": 8923,
+        "r": "csb:2 Samuel:2:22",
+        "t": "Once again, Abner warned Asahel, “Stop chasing me. Why should I strike you to the ground? How could I ever look your brother Joab in the face?”"
+    },
+    {
+        "o": 8924,
+        "r": "csb:2 Samuel:2:23",
+        "t": "But*p Asahel refused to turn away, so Abner hit him in the stomach with the butt of his spear. The spear went through his body, and he fell and died right there. As they all came to the place where Asahel had fallen and died, they stopped,"
+    },
+    {
+        "o": 8925,
+        "r": "csb:2 Samuel:2:24",
+        "t": "but Joab and Abishai pursued Abner. By sunset, they had gone as far as the hill of Ammah, which is opposite Giah on the way to the wilderness of Gibeon."
+    },
+    {
+        "o": 8926,
+        "r": "csb:2 Samuel:2:25",
+        "t": "The*p Benjaminites rallied to Abner; they formed a unit and took their stand on top of a hill."
+    },
+    {
+        "o": 8927,
+        "r": "csb:2 Samuel:2:26",
+        "t": "Then Abner called out to Joab, “Must the sword devour forever? Don’t you realize this will only end in bitterness? How long before you tell the troops to stop pursuing their brothers?”"
+    },
+    {
+        "o": 8928,
+        "r": "csb:2 Samuel:2:27",
+        "t": "“As*p God lives,” Joab replied, “if you had not spoken up, the troops wouldn’t have stopped pursuing their brothers until morning.”"
+    },
+    {
+        "o": 8929,
+        "r": "csb:2 Samuel:2:28",
+        "t": "Then Joab blew the ram’s horn, and all the troops stopped; they no longer pursued Israel or continued to fight."
+    },
+    {
+        "o": 8930,
+        "r": "csb:2 Samuel:2:29",
+        "t": "So Abner and his men marched through the Arabah all that night. They crossed the Jordan, marched all morning, and arrived at Mahanaim."
+    },
+    {
+        "o": 8931,
+        "r": "csb:2 Samuel:2:30",
+        "t": "When*p Joab had turned back from pursuing Abner, he gathered all the troops. In addition to Asahel, nineteen of David’s soldiers were missing,"
+    },
+    {
+        "o": 8932,
+        "r": "csb:2 Samuel:2:31",
+        "t": "but they had killed 360 of the Benjaminites and Abner’s men."
+    },
+    {
+        "o": 8933,
+        "r": "csb:2 Samuel:2:32",
+        "t": "Afterward, they carried Asahel to his father’s tomb in Bethlehem and buried him. Then Joab and his men marched all night and reached Hebron at dawn."
+    },
+    {
+        "o": 8934,
+        "r": "csb:2 Samuel:3:0",
+        "t": "2 Samuel 3",
+        "h": 1
+    },
+    {
+        "o": 8935,
+        "r": "csb:2 Samuel:3:0",
+        "t": "Civil War",
+        "h": 2
+    },
+    {
+        "o": 8936,
+        "r": "csb:2 Samuel:3:1",
+        "t": "During*p the long war between the house of Saul and the house of David, David was growing stronger and the house of Saul was becoming weaker."
+    },
+    {
+        "o": 8937,
+        "r": "csb:2 Samuel:3:2",
+        "t": "Sons*p were born to David in Hebron: His*ln firstborn was Amnon, by*ln Ahinoam the Jezreelite;"
+    },
+    {
+        "o": 8938,
+        "r": "csb:2 Samuel:3:3",
+        "t": "his*ln second was Chileab, by*ln Abigail, the widow of Nabal the Carmelite; the*ln third was Absalom, son*ln of Maacah the daughter of King Talmai of Geshur;"
+    },
+    {
+        "o": 8939,
+        "r": "csb:2 Samuel:3:4",
+        "t": "the*ln fourth was Adonijah, son*ln of Haggith; the*ln fifth was Shephatiah, son*ln of Abital;"
+    },
+    {
+        "o": 8940,
+        "r": "csb:2 Samuel:3:5",
+        "t": "the*ln sixth was Ithream, by*ln David’s wife Eglah. These*p were born to David in Hebron."
+    },
+    {
+        "o": 8941,
+        "r": "csb:2 Samuel:3:6",
+        "t": "During*p the war between the house of Saul and the house of David, Abner kept acquiring more power in the house of Saul."
+    },
+    {
+        "o": 8942,
+        "r": "csb:2 Samuel:3:7",
+        "t": "Now Saul had a concubine whose name was Rizpah daughter of Aiah, and Ish-bosheth questioned Abner, “Why did you sleep with my father’s concubine?”"
+    },
+    {
+        "o": 8943,
+        "r": "csb:2 Samuel:3:8",
+        "t": "Abner*p was very angry about Ish-bosheth’s accusation. “Am I a dog’s head who belongs to Judah?” he asked. “All this time I’ve been loyal to the family of your father Saul, to his brothers, and to his friends and haven’t betrayed you to David, but now you accuse me of wrongdoing with this woman!"
+    },
+    {
+        "o": 8944,
+        "r": "csb:2 Samuel:3:9",
+        "t": "May God punish Abner and do so severely if I don’t do for David what the Lord*s swore to him:"
+    },
+    {
+        "o": 8945,
+        "r": "csb:2 Samuel:3:10",
+        "t": "to transfer the kingdom from the house of Saul and establish the throne of David over Israel and Judah from Dan to Beer-sheba.”"
+    },
+    {
+        "o": 8946,
+        "r": "csb:2 Samuel:3:11",
+        "t": "Ish-bosheth did not dare respond to Abner because he was afraid of him."
+    },
+    {
+        "o": 8947,
+        "r": "csb:2 Samuel:3:12",
+        "t": "Abner*p sent messengers as his representatives to say to David, “Whose land is it? Make your covenant with me, and you can be certain I am on your side to turn all Israel over to you.”"
+    },
+    {
+        "o": 8948,
+        "r": "csb:2 Samuel:3:13",
+        "t": "David*p replied, “Good, I will make a covenant with you. However, there’s one thing I require of you: You will not see my face unless you first bring Saul’s daughter Michal when you come to see me.”"
+    },
+    {
+        "o": 8949,
+        "r": "csb:2 Samuel:3:14",
+        "t": "Then*p David sent messengers to say to Ish-bosheth son of Saul, “Give me back my wife Michal. I was engaged to her for the price of a hundred Philistine foreskins.”"
+    },
+    {
+        "o": 8950,
+        "r": "csb:2 Samuel:3:15",
+        "t": "So*p Ish-bosheth sent someone to take her away from her husband, Paltiel son of Laish."
+    },
+    {
+        "o": 8951,
+        "r": "csb:2 Samuel:3:16",
+        "t": "Her husband followed her, weeping all the way to Bahurim. Abner said to him, “Go back.” So he went back."
+    },
+    {
+        "o": 8952,
+        "r": "csb:2 Samuel:3:16",
+        "t": "The Assassination of Abner",
+        "h": 2
+    },
+    {
+        "o": 8953,
+        "r": "csb:2 Samuel:3:17",
+        "t": "Abner*p conferred with the elders of Israel: “In the past you wanted David to be king over you."
+    },
+    {
+        "o": 8954,
+        "r": "csb:2 Samuel:3:18",
+        "t": "Now take action, because the Lord*s has spoken concerning David: ‘Through my servant David I will save my people Israel from the power of the Philistines and the power of all Israel’s enemies.’”"
+    },
+    {
+        "o": 8955,
+        "r": "csb:2 Samuel:3:19",
+        "t": "Abner*p also informed the Benjaminites and went to Hebron to inform David about all that was agreed on by Israel and the whole house of Benjamin."
+    },
+    {
+        "o": 8956,
+        "r": "csb:2 Samuel:3:20",
+        "t": "When Abner and twenty men came to David at Hebron, David held a banquet for him and his men."
+    },
+    {
+        "o": 8957,
+        "r": "csb:2 Samuel:3:21",
+        "t": "Abner*p said to David, “Let me now go and I will gather all Israel to my lord the king. They will make a covenant with you, and you will reign over all you desire.” So David dismissed Abner, and he went in peace."
+    },
+    {
+        "o": 8958,
+        "r": "csb:2 Samuel:3:22",
+        "t": "Just*p then David’s soldiers and Joab returned from a raid and brought a large amount of plundered goods with them. Abner was not with David in Hebron because David had dismissed him, and he had gone in peace."
+    },
+    {
+        "o": 8959,
+        "r": "csb:2 Samuel:3:23",
+        "t": "When Joab and his whole army arrived, Joab was informed, “Abner son of Ner came to see the king, the king dismissed him, and he went in peace.”"
+    },
+    {
+        "o": 8960,
+        "r": "csb:2 Samuel:3:24",
+        "t": "Joab*p went to the king and said, “What have you done? Look here, Abner came to you. Why did you dismiss him? Now he’s getting away."
+    },
+    {
+        "o": 8961,
+        "r": "csb:2 Samuel:3:25",
+        "t": "You know that Abner son of Ner came to deceive you and to find out about your military activities and everything you’re doing.”"
+    },
+    {
+        "o": 8962,
+        "r": "csb:2 Samuel:3:26",
+        "t": "Then Joab left David and sent messengers after Abner. They brought him back from the well of Sirah, but David was unaware of it."
+    },
+    {
+        "o": 8963,
+        "r": "csb:2 Samuel:3:27",
+        "t": "When Abner returned to Hebron, Joab pulled him aside to the middle of the city gate, as if to speak to him privately, and there Joab stabbed him in the stomach. So Abner died in revenge for the death of Asahel, Joab’s brother."
+    },
+    {
+        "o": 8964,
+        "r": "csb:2 Samuel:3:28",
+        "t": "David*p heard about it later and said, “I and my kingdom are forever innocent before the Lord*s concerning the blood of Abner son of Ner."
+    },
+    {
+        "o": 8965,
+        "r": "csb:2 Samuel:3:29",
+        "t": "May it hang over Joab’s head and his father’s whole family, and may the house of Joab never be without someone who has a discharge or a skin disease, or a man who can only work a spindle, or someone who falls by the sword or starves.”"
+    },
+    {
+        "o": 8966,
+        "r": "csb:2 Samuel:3:30",
+        "t": "Joab and his brother Abishai killed Abner because he had put their brother Asahel to death in the battle at Gibeon."
+    },
+    {
+        "o": 8967,
+        "r": "csb:2 Samuel:3:31",
+        "t": "David*p then ordered Joab and all the people who were with him, “Tear your clothes, put on sackcloth, and mourn over Abner.” And King David walked behind the coffin."
+    },
+    {
+        "o": 8968,
+        "r": "csb:2 Samuel:3:32",
+        "t": "When*p they buried Abner in Hebron, the king wept aloud at Abner’s tomb. All the people wept,"
+    },
+    {
+        "o": 8969,
+        "r": "csb:2 Samuel:3:33",
+        "t": "and the king sang a lament for Abner: Should*pn Abner die as a fool dies?"
+    },
+    {
+        "o": 8970,
+        "r": "csb:2 Samuel:3:34",
+        "t": "Your*ln hands were not bound, your*ln feet not placed in bronze shackles. You*ln fell like one who falls victim to criminals. And*p all the people wept over him even more."
+    },
+    {
+        "o": 8971,
+        "r": "csb:2 Samuel:3:35",
+        "t": "Then*p they came to urge David to eat food while it was still day, but David took an oath: “May God punish me and do so severely if I taste bread or anything else before sunset!”"
+    },
+    {
+        "o": 8972,
+        "r": "csb:2 Samuel:3:36",
+        "t": "All the people took note of this, and it pleased them. In fact, everything the king did pleased them."
+    },
+    {
+        "o": 8973,
+        "r": "csb:2 Samuel:3:37",
+        "t": "On that day all the troops and all Israel were convinced that the king had no part in the killing of Abner son of Ner."
+    },
+    {
+        "o": 8974,
+        "r": "csb:2 Samuel:3:38",
+        "t": "Then*p the king said to his soldiers, “You must know that a great leader has fallen in Israel today."
+    },
+    {
+        "o": 8975,
+        "r": "csb:2 Samuel:3:39",
+        "t": "As for me, even though I am the anointed king, I have little power today. These men, the sons of Zeruiah, are too fierce for me. May the Lord*s repay the evildoer according to his evil!”"
+    },
+    {
+        "o": 8976,
+        "r": "csb:2 Samuel:4:0",
+        "t": "2 Samuel 4",
+        "h": 1
+    },
+    {
+        "o": 8977,
+        "r": "csb:2 Samuel:4:0",
+        "t": "The Assassination of Ish-bosheth",
+        "h": 2
+    },
+    {
+        "o": 8978,
+        "r": "csb:2 Samuel:4:1",
+        "t": "When*p Saul’s son Ish-bosheth heard that Abner had died in Hebron, he gave up, and all Israel was dismayed."
+    },
+    {
+        "o": 8979,
+        "r": "csb:2 Samuel:4:2",
+        "t": "Saul’s son had two men who were leaders of raiding parties: one named Baanah and the other Rechab, sons of Rimmon the Beerothite of the Benjaminites. Beeroth is also considered part of Benjamin,"
+    },
+    {
+        "o": 8980,
+        "r": "csb:2 Samuel:4:3",
+        "t": "and the Beerothites fled to Gittaim and still reside there as aliens today."
+    },
+    {
+        "o": 8981,
+        "r": "csb:2 Samuel:4:4",
+        "t": "Saul’s*p son Jonathan had a son whose feet were crippled. He was five years old when the report about Saul and Jonathan came from Jezreel. His nanny picked him up and fled, but as she was hurrying to flee, he fell and became lame. His name was Mephibosheth."
+    },
+    {
+        "o": 8982,
+        "r": "csb:2 Samuel:4:5",
+        "t": "Rechab*p and Baanah, the sons of Rimmon the Beerothite, set out and arrived at Ish-bosheth’s house during the heat of the day while the king was taking his midday nap."
+    },
+    {
+        "o": 8983,
+        "r": "csb:2 Samuel:4:6",
+        "t": "They entered the interior of the house as if to get wheat and stabbed him in the stomach. Then Rechab and his brother Baanah escaped."
+    },
+    {
+        "o": 8984,
+        "r": "csb:2 Samuel:4:7",
+        "t": "They had entered the house while Ish-bosheth was lying on his bed in his bedroom and stabbed and killed him. They removed his head, took it, and traveled by way of the Arabah all night."
+    },
+    {
+        "o": 8985,
+        "r": "csb:2 Samuel:4:8",
+        "t": "They brought Ish-bosheth’s head to David at Hebron and said to the king, “Here’s the head of Ish-bosheth son of Saul, your enemy who intended to take your life. Today the Lord*s has granted vengeance to my lord the king against Saul and his offspring.”"
+    },
+    {
+        "o": 8986,
+        "r": "csb:2 Samuel:4:9",
+        "t": "But*p David answered Rechab and his brother Baanah, sons of Rimmon the Beerothite, “As the Lord*s lives, the one who has redeemed my life from every distress,"
+    },
+    {
+        "o": 8987,
+        "r": "csb:2 Samuel:4:10",
+        "t": "when the person told me, ‘Look, Saul is dead,’ he thought he was a bearer of good news, but I seized him and put him to death at Ziklag. That was my reward to him for his news!"
+    },
+    {
+        "o": 8988,
+        "r": "csb:2 Samuel:4:11",
+        "t": "How much more when wicked men kill a righteous man in his own house on his own bed! So now, should I not require his blood from you and purge you from the earth?”"
+    },
+    {
+        "o": 8989,
+        "r": "csb:2 Samuel:4:12",
+        "t": "So*p David gave orders to the young men, and they killed Rechab and Baanah. They cut off their hands and feet and hung their bodies by the pool in Hebron, but they took Ish-bosheth’s head and buried it in Abner’s tomb in Hebron."
+    },
+    {
+        "o": 8990,
+        "r": "csb:2 Samuel:5:0",
+        "t": "2 Samuel 5",
+        "h": 1
+    },
+    {
+        "o": 8991,
+        "r": "csb:2 Samuel:5:0",
+        "t": "David, King of Israel",
+        "h": 2
+    },
+    {
+        "o": 8992,
+        "r": "csb:2 Samuel:5:1",
+        "t": "All*p the tribes of Israel came to David at Hebron and said, “Here we are, your own flesh and blood."
+    },
+    {
+        "o": 8993,
+        "r": "csb:2 Samuel:5:2",
+        "t": "Even while Saul was king over us, you were the one who led us out to battle and brought us back. The Lord*s also said to you, ‘You will shepherd my people Israel, and you will be ruler over Israel.’”"
+    },
+    {
+        "o": 8994,
+        "r": "csb:2 Samuel:5:3",
+        "t": "So*p all the elders of Israel came to the king at Hebron. King David made a covenant with them at Hebron in the Lord’s*s presence, and they anointed David king over Israel."
+    },
+    {
+        "o": 8995,
+        "r": "csb:2 Samuel:5:4",
+        "t": "David*p was thirty years old when he began his reign; he reigned forty years."
+    },
+    {
+        "o": 8996,
+        "r": "csb:2 Samuel:5:5",
+        "t": "In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah."
+    },
+    {
+        "o": 8997,
+        "r": "csb:2 Samuel:5:6",
+        "t": "The*p king and his men marched to Jerusalem against the Jebusites who inhabited the land. The Jebusites had said to David, “You will never get in here. Even the blind and lame can repel you” thinking, “David can’t get in here.”"
+    },
+    {
+        "o": 8998,
+        "r": "csb:2 Samuel:5:7",
+        "t": "Yet*p David did capture the stronghold of Zion, that is, the city of David."
+    },
+    {
+        "o": 8999,
+        "r": "csb:2 Samuel:5:8",
+        "t": "He said that day, “Whoever attacks the Jebusites must go through the water shaft to reach the lame and the blind who are despised by David.” For this reason it is said, “The blind and the lame will never enter the house.”"
+    },
+    {
+        "o": 9000,
+        "r": "csb:2 Samuel:5:9",
+        "t": "David*p took up residence in the stronghold, which he named the city of David. He built it up all the way around from the supporting terraces inward."
+    },
+    {
+        "o": 9001,
+        "r": "csb:2 Samuel:5:10",
+        "t": "David became more and more powerful, and the Lord*s God of Armies was with him."
+    },
+    {
+        "o": 9002,
+        "r": "csb:2 Samuel:5:11",
+        "t": "King Hiram of Tyre sent envoys to David; he also sent cedar logs, carpenters, and stonemasons, and they built a palace for David."
+    },
+    {
+        "o": 9003,
+        "r": "csb:2 Samuel:5:12",
+        "t": "Then David knew that the Lord*s had established him as king over Israel and had exalted his kingdom for the sake of his people Israel."
+    },
+    {
+        "o": 9004,
+        "r": "csb:2 Samuel:5:13",
+        "t": "After*p he arrived from Hebron, David took more concubines and wives from Jerusalem, and more sons and daughters were born to him."
+    },
+    {
+        "o": 9005,
+        "r": "csb:2 Samuel:5:14",
+        "t": "These are the names of those born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,"
+    },
+    {
+        "o": 9006,
+        "r": "csb:2 Samuel:5:15",
+        "t": "Ibhar, Elishua, Nepheg, Japhia,"
+    },
+    {
+        "o": 9007,
+        "r": "csb:2 Samuel:5:16",
+        "t": "Elishama, Eliada, and Eliphelet."
+    },
+    {
+        "o": 9008,
+        "r": "csb:2 Samuel:5:17",
+        "t": "When*p the Philistines heard that David had been anointed king over Israel, they all went in search of David, but he heard about it and went down to the stronghold."
+    },
+    {
+        "o": 9009,
+        "r": "csb:2 Samuel:5:18",
+        "t": "So the Philistines came and spread out in Rephaim Valley."
+    },
+    {
+        "o": 9010,
+        "r": "csb:2 Samuel:5:19",
+        "t": "Then*p David inquired of the Lord:*s “Should I attack the Philistines? Will you hand them over to me?” The*p Lord*s replied to David, “Attack, for I will certainly hand the Philistines over to you.”"
+    },
+    {
+        "o": 9011,
+        "r": "csb:2 Samuel:5:20",
+        "t": "So*p David went to Baal-perazim and defeated them there and said, “Like a bursting flood, the Lord*s has burst out against my enemies before me.” Therefore, he named that place The Lord Bursts Out."
+    },
+    {
+        "o": 9012,
+        "r": "csb:2 Samuel:5:21",
+        "t": "The Philistines abandoned their idols there, and David and his men carried them off."
+    },
+    {
+        "o": 9013,
+        "r": "csb:2 Samuel:5:22",
+        "t": "The*p Philistines came up again and spread out in Rephaim Valley."
+    },
+    {
+        "o": 9014,
+        "r": "csb:2 Samuel:5:23",
+        "t": "So David inquired of the Lord,*s and he answered, “Do not attack directly, but circle around behind them and come at them opposite the balsam trees."
+    },
+    {
+        "o": 9015,
+        "r": "csb:2 Samuel:5:24",
+        "t": "When you hear the sound of marching in the tops of the balsam trees, act decisively, for then the Lord*s will have gone out ahead of you to strike down the army of the Philistines.”"
+    },
+    {
+        "o": 9016,
+        "r": "csb:2 Samuel:5:25",
+        "t": "So David did exactly as the Lord*s commanded him, and he struck down the Philistines all the way from Geba to Gezer."
+    },
+    {
+        "o": 9017,
+        "r": "csb:2 Samuel:6:0",
+        "t": "2 Samuel 6",
+        "h": 1
+    },
+    {
+        "o": 9018,
+        "r": "csb:2 Samuel:6:0",
+        "t": "David Moves the Ark",
+        "h": 2
+    },
+    {
+        "o": 9019,
+        "r": "csb:2 Samuel:6:1",
+        "t": "David*p again assembled all the fit young men in Israel: thirty thousand."
+    },
+    {
+        "o": 9020,
+        "r": "csb:2 Samuel:6:2",
+        "t": "He and all his troops set out to bring the ark of God from Baale-judah. The ark bears the Name, the name of the Lord*s of Armies who is enthroned between the cherubim."
+    },
+    {
+        "o": 9021,
+        "r": "csb:2 Samuel:6:3",
+        "t": "They set the ark of God on a new cart and transported it from Abinadab’s house, which was on the hill. Uzzah and Ahio, sons of Abinadab, were guiding the cart"
+    },
+    {
+        "o": 9022,
+        "r": "csb:2 Samuel:6:4",
+        "t": "and brought it with the ark of God from Abinadab’s house on the hill. Ahio walked in front of the ark."
+    },
+    {
+        "o": 9023,
+        "r": "csb:2 Samuel:6:5",
+        "t": "David and the whole house of Israel were dancing before the Lord*s with all kinds of fir wood instruments, lyres, harps, tambourines, sistrums, and cymbals."
+    },
+    {
+        "o": 9024,
+        "r": "csb:2 Samuel:6:6",
+        "t": "When*p they came to Nacon’s threshing floor, Uzzah reached out to the ark of God and took hold of it because the oxen had stumbled."
+    },
+    {
+        "o": 9025,
+        "r": "csb:2 Samuel:6:7",
+        "t": "Then the Lord’s*s anger burned against Uzzah, and God struck him dead on the spot for his irreverence, and he died there next to the ark of God."
+    },
+    {
+        "o": 9026,
+        "r": "csb:2 Samuel:6:8",
+        "t": "David was angry because of the Lord’s*s outburst against Uzzah, so he named that place Outburst Against Uzzah, as it is today."
+    },
+    {
+        "o": 9027,
+        "r": "csb:2 Samuel:6:9",
+        "t": "David feared the Lord*s that day and said, “How can the ark of the Lord*s ever come to me?”"
+    },
+    {
+        "o": 9028,
+        "r": "csb:2 Samuel:6:10",
+        "t": "So he was not willing to bring the ark of the Lord*s to the city of David; instead, he diverted it to the house of Obed-edom of Gath."
+    },
+    {
+        "o": 9029,
+        "r": "csb:2 Samuel:6:11",
+        "t": "The ark of the Lord*s remained in his house three months, and the Lord*s blessed Obed-edom and his whole family."
+    },
+    {
+        "o": 9030,
+        "r": "csb:2 Samuel:6:12",
+        "t": "It*p was reported to King David, “The Lord*s has blessed Obed-edom’s family and all that belongs to him because of the ark of God.” So David went and had the ark of God brought up from Obed-edom’s house to the city of David with rejoicing."
+    },
+    {
+        "o": 9031,
+        "r": "csb:2 Samuel:6:13",
+        "t": "When those carrying the ark of the Lord*s advanced six steps, he sacrificed an ox and a fattened calf."
+    },
+    {
+        "o": 9032,
+        "r": "csb:2 Samuel:6:14",
+        "t": "David was dancing with all his might before the Lord*s wearing a linen ephod."
+    },
+    {
+        "o": 9033,
+        "r": "csb:2 Samuel:6:15",
+        "t": "He and the whole house of Israel were bringing up the ark of the Lord*s with shouts and the sound of the ram’s horn."
+    },
+    {
+        "o": 9034,
+        "r": "csb:2 Samuel:6:16",
+        "t": "As the ark of the Lord*s was entering the city of David, Saul’s daughter Michal looked down from the window and saw King David leaping and dancing before the Lord,*s and she despised him in her heart."
+    },
+    {
+        "o": 9035,
+        "r": "csb:2 Samuel:6:17",
+        "t": "They*p brought the ark of the Lord*s and set it in its place inside the tent David had pitched for it. Then David offered burnt offerings and fellowship offerings in the Lord’s*s presence."
+    },
+    {
+        "o": 9036,
+        "r": "csb:2 Samuel:6:18",
+        "t": "When David had finished offering the burnt offering and the fellowship offerings, he blessed the people in the name of the Lord*s of Armies."
+    },
+    {
+        "o": 9037,
+        "r": "csb:2 Samuel:6:19",
+        "t": "Then he distributed a loaf of bread, a date cake, and a raisin cake to each one in the entire Israelite community, both men and women. Then all the people went home."
+    },
+    {
+        "o": 9038,
+        "r": "csb:2 Samuel:6:20",
+        "t": "When*p David returned home to bless his household, Saul’s daughter Michal came out to meet him. “How the king of Israel honored himself today!” she said. “He exposed himself today in the sight of the slave girls of his subjects like a vulgar person would expose himself.”"
+    },
+    {
+        "o": 9039,
+        "r": "csb:2 Samuel:6:21",
+        "t": "David*p replied to Michal, “It was before the Lord*s who chose me over your father and his whole family to appoint me ruler over the Lord’s*s people Israel. I will dance before the Lord,*s"
+    },
+    {
+        "o": 9040,
+        "r": "csb:2 Samuel:6:22",
+        "t": "and I will dishonor myself and humble myself even more. However, by the slave girls you spoke about, I will be honored.”"
+    },
+    {
+        "o": 9041,
+        "r": "csb:2 Samuel:6:23",
+        "t": "And Saul’s daughter Michal had no child to the day of her death."
+    },
+    {
+        "o": 9042,
+        "r": "csb:2 Samuel:7:0",
+        "t": "2 Samuel 7",
+        "h": 1
+    },
+    {
+        "o": 9043,
+        "r": "csb:2 Samuel:7:0",
+        "t": "The Lord’s Covenant with David",
+        "h": 2
+    },
+    {
+        "o": 9044,
+        "r": "csb:2 Samuel:7:1",
+        "t": "When*p the king had settled into his palace and the Lord*s had given him rest on every side from all his enemies,"
+    },
+    {
+        "o": 9045,
+        "r": "csb:2 Samuel:7:2",
+        "t": "the king said to the prophet Nathan, “Look, I am living in a cedar house while the ark of God sits inside tent curtains.”"
+    },
+    {
+        "o": 9046,
+        "r": "csb:2 Samuel:7:3",
+        "t": "So*p Nathan told the king, “Go and do all that is on your mind, for the Lord*s is with you.”"
+    },
+    {
+        "o": 9047,
+        "r": "csb:2 Samuel:7:4",
+        "t": "But*p that night the word of the Lord*s came to Nathan:"
+    },
+    {
+        "o": 9048,
+        "r": "csb:2 Samuel:7:5",
+        "t": "“Go to my servant David and say, ‘This is what the Lord*s says: Are you to build me a house to dwell in?"
+    },
+    {
+        "o": 9049,
+        "r": "csb:2 Samuel:7:6",
+        "t": "From the time I brought the Israelites out of Egypt until today I have not dwelt in a house; instead, I have been moving around with a tent as my dwelling."
+    },
+    {
+        "o": 9050,
+        "r": "csb:2 Samuel:7:7",
+        "t": "In all my journeys with all the Israelites, have I ever spoken a word to one of the tribal leaders of Israel, whom I commanded to shepherd my people Israel, asking: Why haven’t you built me a house of cedar?’"
+    },
+    {
+        "o": 9051,
+        "r": "csb:2 Samuel:7:8",
+        "t": "“So*p now this is what you are to say to my servant David: ‘This is what the Lord*s of Armies says: I took you from the pasture, from tending the flock, to be ruler over my people Israel."
+    },
+    {
+        "o": 9052,
+        "r": "csb:2 Samuel:7:9",
+        "t": "I have been with you wherever you have gone, and I have destroyed all your enemies before you. I will make a great name for you like that of the greatest on the earth."
+    },
+    {
+        "o": 9053,
+        "r": "csb:2 Samuel:7:10",
+        "t": "I will designate a place for my people Israel and plant them, so that they may live there and not be disturbed again. Evildoers will not continue to oppress them as they have done"
+    },
+    {
+        "o": 9054,
+        "r": "csb:2 Samuel:7:11",
+        "t": "ever since the day I ordered judges to be over my people Israel. I will give you rest from all your enemies. “‘The*p Lord*s declares to you: The Lord*s himself will make a house for you."
+    },
+    {
+        "o": 9055,
+        "r": "csb:2 Samuel:7:12",
+        "t": "When your time comes and you rest with your ancestors, I will raise up after you your descendant, who will come from your body, and I will establish his kingdom."
+    },
+    {
+        "o": 9056,
+        "r": "csb:2 Samuel:7:13",
+        "t": "He is the one who will build a house for my name, and I will establish the throne of his kingdom forever."
+    },
+    {
+        "o": 9057,
+        "r": "csb:2 Samuel:7:14",
+        "t": "I will be his father, and he will be my son. When he does wrong, I will discipline him with a rod of men and blows from mortals."
+    },
+    {
+        "o": 9058,
+        "r": "csb:2 Samuel:7:15",
+        "t": "But my faithful love will never leave him as it did when I removed it from Saul, whom I removed from before you."
+    },
+    {
+        "o": 9059,
+        "r": "csb:2 Samuel:7:16",
+        "t": "Your house and kingdom will endure before me forever, and your throne will be established forever.’”"
+    },
+    {
+        "o": 9060,
+        "r": "csb:2 Samuel:7:17",
+        "t": "Nathan*p reported all these words and this entire vision to David."
+    },
+    {
+        "o": 9061,
+        "r": "csb:2 Samuel:7:17",
+        "t": "David’s Prayer of Thanksgiving",
+        "h": 2
+    },
+    {
+        "o": 9062,
+        "r": "csb:2 Samuel:7:18",
+        "t": "Then*p King David went in, sat in the Lord’s*s presence, and said, Who*p am I, Lord God,*s and what is my house that you have brought me this far?"
+    },
+    {
+        "o": 9063,
+        "r": "csb:2 Samuel:7:19",
+        "t": "What you have done so far was a little thing to you, Lord God,*s for you have also spoken about your servant’s house in the distant future. And this is a revelation for mankind, Lord God.*s"
+    },
+    {
+        "o": 9064,
+        "r": "csb:2 Samuel:7:20",
+        "t": "What more can David say to you? You know your servant, Lord God.*s"
+    },
+    {
+        "o": 9065,
+        "r": "csb:2 Samuel:7:21",
+        "t": "Because of your word and according to your will, you have revealed all these great things to your servant."
+    },
+    {
+        "o": 9066,
+        "r": "csb:2 Samuel:7:22",
+        "t": "This*p is why you are great, Lord God.*s There is no one like you, and there is no God besides you, as all we have heard confirms."
+    },
+    {
+        "o": 9067,
+        "r": "csb:2 Samuel:7:23",
+        "t": "And who is like your people Israel? God came to one nation on earth in order to redeem a people for himself, to make a name for himself, and to perform for them great and awesome acts, driving out nations and their gods before your people you redeemed for yourself from Egypt."
+    },
+    {
+        "o": 9068,
+        "r": "csb:2 Samuel:7:24",
+        "t": "You established your people Israel to be your own people forever, and you, Lord,*s have become their God."
+    },
+    {
+        "o": 9069,
+        "r": "csb:2 Samuel:7:25",
+        "t": "Now,*p Lord*s God, fulfill the promise forever that you have made to your servant and his house. Do as you have promised,"
+    },
+    {
+        "o": 9070,
+        "r": "csb:2 Samuel:7:26",
+        "t": "so that your name will be exalted forever, when it is said, “The Lord*s of Armies is God over Israel.” The house of your servant David will be established before you"
+    },
+    {
+        "o": 9071,
+        "r": "csb:2 Samuel:7:27",
+        "t": "since you, Lord*s of Armies, God of Israel, have revealed this to your servant when you said, “I will build a house for you.” Therefore, your servant has found the courage to pray this prayer to you."
+    },
+    {
+        "o": 9072,
+        "r": "csb:2 Samuel:7:28",
+        "t": "Lord God,*s you are God; your words are true, and you have promised this good thing to your servant."
+    },
+    {
+        "o": 9073,
+        "r": "csb:2 Samuel:7:29",
+        "t": "Now, please bless your servant’s house so that it will continue before you forever. For you, Lord God,*s have spoken, and with your blessing your servant’s house will be blessed forever."
+    },
+    {
+        "o": 9074,
+        "r": "csb:2 Samuel:8:0",
+        "t": "2 Samuel 8",
+        "h": 1
+    },
+    {
+        "o": 9075,
+        "r": "csb:2 Samuel:8:0",
+        "t": "David’s Victories",
+        "h": 2
+    },
+    {
+        "o": 9076,
+        "r": "csb:2 Samuel:8:1",
+        "t": "After*p this, David defeated the Philistines, subdued them, and took Metheg-ammah from Philistine control."
+    },
+    {
+        "o": 9077,
+        "r": "csb:2 Samuel:8:2",
+        "t": "He also defeated the Moabites, and after making them lie down on the ground, he measured them off with a cord. He measured every two cord lengths of those to be put to death and one full length of those to be kept alive. So the Moabites became David’s subjects and brought tribute."
+    },
+    {
+        "o": 9078,
+        "r": "csb:2 Samuel:8:3",
+        "t": "David*p also defeated Hadadezer son of Rehob, king of Zobah, when he went to restore his control at the Euphrates River."
+    },
+    {
+        "o": 9079,
+        "r": "csb:2 Samuel:8:4",
+        "t": "David captured seventeen hundred horsemen and twenty thousand foot soldiers from him, and he hamstrung all the horses and kept a hundred chariots."
+    },
+    {
+        "o": 9080,
+        "r": "csb:2 Samuel:8:5",
+        "t": "When*p the Arameans of Damascus came to assist King Hadadezer of Zobah, David struck down twenty-two thousand Aramean men."
+    },
+    {
+        "o": 9081,
+        "r": "csb:2 Samuel:8:6",
+        "t": "Then he placed garrisons in Aram of Damascus, and the Arameans became David’s subjects and brought tribute. The Lord*s made David victorious wherever he went."
+    },
+    {
+        "o": 9082,
+        "r": "csb:2 Samuel:8:7",
+        "t": "David*p took the gold shields of Hadadezer’s officers and brought them to Jerusalem."
+    },
+    {
+        "o": 9083,
+        "r": "csb:2 Samuel:8:8",
+        "t": "King David also took huge quantities of bronze from Betah and Berothai, Hadadezer’s cities."
+    },
+    {
+        "o": 9084,
+        "r": "csb:2 Samuel:8:9",
+        "t": "When*p King Toi of Hamath heard that David had defeated the entire army of Hadadezer,"
+    },
+    {
+        "o": 9085,
+        "r": "csb:2 Samuel:8:10",
+        "t": "he sent his son Joram to King David to greet him and to congratulate him because David had fought against Hadadezer and defeated him, for Toi and Hadadezer had fought many wars. Joram had items of silver, gold, and bronze with him."
+    },
+    {
+        "o": 9086,
+        "r": "csb:2 Samuel:8:11",
+        "t": "King David also dedicated these to the Lord,*s along with the silver and gold he had dedicated from all the nations he had subdued—"
+    },
+    {
+        "o": 9087,
+        "r": "csb:2 Samuel:8:12",
+        "t": "from Edom, Moab, the Ammonites, the Philistines, the Amalekites, and the spoil of Hadadezer son of Rehob, king of Zobah."
+    },
+    {
+        "o": 9088,
+        "r": "csb:2 Samuel:8:13",
+        "t": "David*p made a reputation for himself when he returned from striking down eighteen thousand Edomites in Salt Valley."
+    },
+    {
+        "o": 9089,
+        "r": "csb:2 Samuel:8:14",
+        "t": "He placed garrisons throughout Edom, and all the Edomites were subject to David. The Lord*s made David victorious wherever he went."
+    },
+    {
+        "o": 9090,
+        "r": "csb:2 Samuel:8:15",
+        "t": "So*p David reigned over all Israel, administering justice and righteousness for all his people."
+    },
+    {
+        "o": 9091,
+        "r": "csb:2 Samuel:8:16",
+        "t": "Joab*ln son of Zeruiah was over the army; Jehoshaphat*ln son of Ahilud was court historian;"
+    },
+    {
+        "o": 9092,
+        "r": "csb:2 Samuel:8:17",
+        "t": "Zadok*ln son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah*ln was court secretary;"
+    },
+    {
+        "o": 9093,
+        "r": "csb:2 Samuel:8:18",
+        "t": "Benaiah*ln son of Jehoiada was over the Cherethites and the Pelethites; and*ln David’s sons were chief officials."
+    },
+    {
+        "o": 9094,
+        "r": "csb:2 Samuel:9:0",
+        "t": "2 Samuel 9",
+        "h": 1
+    },
+    {
+        "o": 9095,
+        "r": "csb:2 Samuel:9:0",
+        "t": "David’s Kindness to Mephibosheth",
+        "h": 2
+    },
+    {
+        "o": 9096,
+        "r": "csb:2 Samuel:9:1",
+        "t": "David*p asked, “Is there anyone remaining from the family of Saul I can show kindness to for Jonathan’s sake?”"
+    },
+    {
+        "o": 9097,
+        "r": "csb:2 Samuel:9:2",
+        "t": "There was a servant of Saul’s family named Ziba. They summoned him to David, and the king said to him, “Are you Ziba?” “I*p am your servant,” he replied."
+    },
+    {
+        "o": 9098,
+        "r": "csb:2 Samuel:9:3",
+        "t": "So*p the king asked, “Is there anyone left of Saul’s family that I can show the kindness of God to?” Ziba*p said to the king, “There is still Jonathan’s son who was injured in both feet.”"
+    },
+    {
+        "o": 9099,
+        "r": "csb:2 Samuel:9:4",
+        "t": "The*p king asked him, “Where is he?” Ziba*p answered the king, “You’ll find him in Lo-debar at the house of Machir son of Ammiel.”"
+    },
+    {
+        "o": 9100,
+        "r": "csb:2 Samuel:9:5",
+        "t": "So King David had him brought from the house of Machir son of Ammiel in Lo-debar."
+    },
+    {
+        "o": 9101,
+        "r": "csb:2 Samuel:9:6",
+        "t": "Mephibosheth*p son of Jonathan son of Saul came to David, fell facedown, and paid homage. David said, “Mephibosheth!” “I*p am your servant,” he replied."
+    },
+    {
+        "o": 9102,
+        "r": "csb:2 Samuel:9:7",
+        "t": "“Don’t*p be afraid,” David said to him, “since I intend to show you kindness for the sake of your father Jonathan. I will restore to you all your grandfather Saul’s fields, and you will always eat meals at my table.”"
+    },
+    {
+        "o": 9103,
+        "r": "csb:2 Samuel:9:8",
+        "t": "Mephibosheth*p paid homage and said, “What is your servant that you take an interest in a dead dog like me?”"
+    },
+    {
+        "o": 9104,
+        "r": "csb:2 Samuel:9:9",
+        "t": "Then*p the king summoned Saul’s attendant Ziba and said to him, “I have given to your master’s grandson all that belonged to Saul and his family."
+    },
+    {
+        "o": 9105,
+        "r": "csb:2 Samuel:9:10",
+        "t": "You, your sons, and your servants are to work the ground for him, and you are to bring in the crops so your master’s grandson will have food to eat. But Mephibosheth, your master’s grandson, is always to eat at my table.” Now Ziba had fifteen sons and twenty servants."
+    },
+    {
+        "o": 9106,
+        "r": "csb:2 Samuel:9:11",
+        "t": "Ziba*p said to the king, “Your servant will do all my lord the king commands.” So*p Mephibosheth ate at David’s table just like one of the king’s sons."
+    },
+    {
+        "o": 9107,
+        "r": "csb:2 Samuel:9:12",
+        "t": "Mephibosheth had a young son whose name was Mica. All those living in Ziba’s house were Mephibosheth’s servants."
+    },
+    {
+        "o": 9108,
+        "r": "csb:2 Samuel:9:13",
+        "t": "However, Mephibosheth lived in Jerusalem because he always ate at the king’s table. His feet had been injured."
+    },
+    {
+        "o": 9109,
+        "r": "csb:2 Samuel:10:0",
+        "t": "2 Samuel 10",
+        "h": 1
+    },
+    {
+        "o": 9110,
+        "r": "csb:2 Samuel:10:0",
+        "t": "War with the Ammonites",
+        "h": 2
+    },
+    {
+        "o": 9111,
+        "r": "csb:2 Samuel:10:1",
+        "t": "Some*p time later, the king of the Ammonites died, and his son Hanun became king in his place."
+    },
+    {
+        "o": 9112,
+        "r": "csb:2 Samuel:10:2",
+        "t": "Then David said, “I’ll show kindness to Hanun son of Nahash, just as his father showed kindness to me.” So*p David sent his emissaries to console Hanun concerning his father. However, when they arrived in the land of the Ammonites,"
+    },
+    {
+        "o": 9113,
+        "r": "csb:2 Samuel:10:3",
+        "t": "the Ammonite leaders said to Hanun their lord, “Just because David has sent men with condolences for you, do you really believe he’s showing respect for your father? Instead, hasn’t David sent his emissaries in order to scout out the city, spy on it, and demolish it?”"
+    },
+    {
+        "o": 9114,
+        "r": "csb:2 Samuel:10:4",
+        "t": "So Hanun took David’s emissaries, shaved off half their beards, cut their clothes in half at the hips, and sent them away."
+    },
+    {
+        "o": 9115,
+        "r": "csb:2 Samuel:10:5",
+        "t": "When*p this was reported to David, he sent someone to meet them, since they were deeply humiliated. The king said, “Stay in Jericho until your beards grow back; then return.”"
+    },
+    {
+        "o": 9116,
+        "r": "csb:2 Samuel:10:6",
+        "t": "When*p the Ammonites realized they had become repulsive to David, they hired twenty thousand foot soldiers from the Arameans of Beth-rehob and Zobah, one thousand men from the king of Maacah, and twelve thousand men from Tob."
+    },
+    {
+        "o": 9117,
+        "r": "csb:2 Samuel:10:7",
+        "t": "David*p heard about it and sent Joab and all the elite troops."
+    },
+    {
+        "o": 9118,
+        "r": "csb:2 Samuel:10:8",
+        "t": "The Ammonites marched out and lined up in battle formation at the entrance to the city gate while the Arameans of Zobah and Rehob and the men of Tob and Maacah were in the field by themselves."
+    },
+    {
+        "o": 9119,
+        "r": "csb:2 Samuel:10:9",
+        "t": "When Joab saw that there was a battle line in front of him and another behind him, he chose some of Israel’s finest young men and lined up in formation to engage the Arameans."
+    },
+    {
+        "o": 9120,
+        "r": "csb:2 Samuel:10:10",
+        "t": "He placed the rest of the forces under the command of his brother Abishai. They lined up in formation to engage the Ammonites."
+    },
+    {
+        "o": 9121,
+        "r": "csb:2 Samuel:10:11",
+        "t": "“If*p the Arameans are too strong for me,” Joab said, “then you will be my help. However, if the Ammonites are too strong for you, I’ll come to help you."
+    },
+    {
+        "o": 9122,
+        "r": "csb:2 Samuel:10:12",
+        "t": "Be strong! Let’s prove ourselves strong for our people and for the cities of our God. May the Lord’s*s will be done.”"
+    },
+    {
+        "o": 9123,
+        "r": "csb:2 Samuel:10:13",
+        "t": "Joab*p and his troops advanced to fight against the Arameans, and they fled before him."
+    },
+    {
+        "o": 9124,
+        "r": "csb:2 Samuel:10:14",
+        "t": "When the Ammonites saw that the Arameans had fled, they too fled before Abishai and entered the city. So Joab withdrew from the attack against the Ammonites and went to Jerusalem."
+    },
+    {
+        "o": 9125,
+        "r": "csb:2 Samuel:10:15",
+        "t": "When*p the Arameans saw that they had been defeated by Israel, they regrouped."
+    },
+    {
+        "o": 9126,
+        "r": "csb:2 Samuel:10:16",
+        "t": "Hadadezer sent messengers to bring the Arameans who were beyond the Euphrates River, and they came to Helam with Shobach, commander of Hadadezer’s army, leading them."
+    },
+    {
+        "o": 9127,
+        "r": "csb:2 Samuel:10:17",
+        "t": "When*p this was reported to David, he gathered all Israel, crossed the Jordan, and went to Helam. Then the Arameans lined up to engage David in battle and fought against him."
+    },
+    {
+        "o": 9128,
+        "r": "csb:2 Samuel:10:18",
+        "t": "But the Arameans fled before Israel, and David killed seven hundred of their charioteers and forty thousand foot soldiers. He also struck down Shobach commander of their army, who died there."
+    },
+    {
+        "o": 9129,
+        "r": "csb:2 Samuel:10:19",
+        "t": "When all the kings who were Hadadezer’s subjects saw that they had been defeated by Israel, they made peace with Israel and became their subjects. After this, the Arameans were afraid to ever help the Ammonites again."
+    },
+    {
+        "o": 9130,
+        "r": "csb:2 Samuel:11:0",
+        "t": "2 Samuel 11",
+        "h": 1
+    },
+    {
+        "o": 9131,
+        "r": "csb:2 Samuel:11:0",
+        "t": "David’s Adultery with Bathsheba",
+        "h": 2
+    },
+    {
+        "o": 9132,
+        "r": "csb:2 Samuel:11:1",
+        "t": "In*p the spring when kings march out to war, David sent Joab with his officers and all Israel. They destroyed the Ammonites and besieged Rabbah, but David remained in Jerusalem."
+    },
+    {
+        "o": 9133,
+        "r": "csb:2 Samuel:11:2",
+        "t": "One*p evening David got up from his bed and strolled around on the roof of the palace. From the roof he saw a woman bathing — a very beautiful woman."
+    },
+    {
+        "o": 9134,
+        "r": "csb:2 Samuel:11:3",
+        "t": "So David sent someone to inquire about her, and he said, “Isn’t this Bathsheba, daughter of Eliam and wife of Uriah the Hethite?”"
+    },
+    {
+        "o": 9135,
+        "r": "csb:2 Samuel:11:4",
+        "t": "David*p sent messengers to get her, and when she came to him, he slept with her. Now she had just been purifying herself from her uncleanness. Afterward, she returned home."
+    },
+    {
+        "o": 9136,
+        "r": "csb:2 Samuel:11:5",
+        "t": "The woman conceived and sent word to inform David, “I am pregnant.”"
+    },
+    {
+        "o": 9137,
+        "r": "csb:2 Samuel:11:6",
+        "t": "David*p sent orders to Joab: “Send me Uriah the Hethite.” So Joab sent Uriah to David."
+    },
+    {
+        "o": 9138,
+        "r": "csb:2 Samuel:11:7",
+        "t": "When Uriah came to him, David asked how Joab and the troops were doing and how the war was going."
+    },
+    {
+        "o": 9139,
+        "r": "csb:2 Samuel:11:8",
+        "t": "Then he said to Uriah, “Go down to your house and wash your feet.” So Uriah left the palace, and a gift from the king followed him."
+    },
+    {
+        "o": 9140,
+        "r": "csb:2 Samuel:11:9",
+        "t": "But Uriah slept at the door of the palace with all his master’s servants; he did not go down to his house."
+    },
+    {
+        "o": 9141,
+        "r": "csb:2 Samuel:11:10",
+        "t": "When*p it was reported to David, “Uriah didn’t go home,” David questioned Uriah, “Haven’t you just come from a journey? Why didn’t you go home?”"
+    },
+    {
+        "o": 9142,
+        "r": "csb:2 Samuel:11:11",
+        "t": "Uriah*p answered David, “The ark, Israel, and Judah are dwelling in tents, and my master Joab and his soldiers are camping in the open field. How can I enter my house to eat and drink and sleep with my wife? As surely as you live and by your life, I will not do this!”"
+    },
+    {
+        "o": 9143,
+        "r": "csb:2 Samuel:11:12",
+        "t": "“Stay*p here today also,” David said to Uriah, “and tomorrow I will send you back.” So Uriah stayed in Jerusalem that day and the next."
+    },
+    {
+        "o": 9144,
+        "r": "csb:2 Samuel:11:13",
+        "t": "Then David invited Uriah to eat and drink with him, and David got him drunk. He went out in the evening to lie down on his cot with his master’s servants, but he did not go home."
+    },
+    {
+        "o": 9145,
+        "r": "csb:2 Samuel:11:13",
+        "t": "Uriah’s Death Arranged",
+        "h": 2
+    },
+    {
+        "o": 9146,
+        "r": "csb:2 Samuel:11:14",
+        "t": "The*p next morning David wrote a letter to Joab and sent it with Uriah."
+    },
+    {
+        "o": 9147,
+        "r": "csb:2 Samuel:11:15",
+        "t": "In the letter he wrote: Put*p Uriah at the front of the fiercest fighting, then withdraw from him so that he is struck down and dies."
+    },
+    {
+        "o": 9148,
+        "r": "csb:2 Samuel:11:16",
+        "t": "When*p Joab was besieging the city, he put Uriah in the place where he knew the best enemy soldiers were."
+    },
+    {
+        "o": 9149,
+        "r": "csb:2 Samuel:11:17",
+        "t": "Then the men of the city came out and attacked Joab, and some of the men from David’s soldiers fell in battle; Uriah the Hethite also died."
+    },
+    {
+        "o": 9150,
+        "r": "csb:2 Samuel:11:18",
+        "t": "Joab*p sent someone to report to David all the details of the battle."
+    },
+    {
+        "o": 9151,
+        "r": "csb:2 Samuel:11:19",
+        "t": "He commanded the messenger, “When you’ve finished telling the king all the details of the battle —"
+    },
+    {
+        "o": 9152,
+        "r": "csb:2 Samuel:11:20",
+        "t": "if the king’s anger gets stirred up and he asks you, ‘Why did you get so close to the city to fight? Didn’t you realize they would shoot from the top of the wall?"
+    },
+    {
+        "o": 9153,
+        "r": "csb:2 Samuel:11:21",
+        "t": "At Thebez, who struck Abimelech son of Jerubbesheth? Didn’t a woman drop an upper millstone on him from the top of the wall so that he died? Why did you get so close to the wall? ’ — then say, ‘Your servant Uriah the Hethite is dead also.’”"
+    },
+    {
+        "o": 9154,
+        "r": "csb:2 Samuel:11:22",
+        "t": "Then the messenger left. When*p he arrived, he reported to David all that Joab had sent him to tell."
+    },
+    {
+        "o": 9155,
+        "r": "csb:2 Samuel:11:23",
+        "t": "The messenger reported to David, “The men gained the advantage over us and came out against us in the field, but we counterattacked right up to the entrance of the city gate."
+    },
+    {
+        "o": 9156,
+        "r": "csb:2 Samuel:11:24",
+        "t": "However, the archers shot down on your servants from the top of the wall, and some of the king’s servants died. Your servant Uriah the Hethite is also dead.”"
+    },
+    {
+        "o": 9157,
+        "r": "csb:2 Samuel:11:25",
+        "t": "David*p told the messenger, “Say this to Joab: ‘Don’t let this matter upset you because the sword devours all alike. Intensify your fight against the city and demolish it.’ Encourage him.”"
+    },
+    {
+        "o": 9158,
+        "r": "csb:2 Samuel:11:26",
+        "t": "When*p Uriah’s wife heard that her husband, Uriah, had died, she mourned for him."
+    },
+    {
+        "o": 9159,
+        "r": "csb:2 Samuel:11:27",
+        "t": "When the time of mourning ended, David had her brought to his house. She became his wife and bore him a son. However, the Lord*s considered what David had done to be evil."
+    },
+    {
+        "o": 9160,
+        "r": "csb:2 Samuel:12:0",
+        "t": "2 Samuel 12",
+        "h": 1
+    },
+    {
+        "o": 9161,
+        "r": "csb:2 Samuel:12:0",
+        "t": "Nathan’s Parable and David’s Repentance",
+        "h": 2
+    },
+    {
+        "o": 9162,
+        "r": "csb:2 Samuel:12:1",
+        "t": "So*p the Lord*s sent Nathan to David. When he arrived, he said to him: There*p were two men in a certain city, one rich and the other poor."
+    },
+    {
+        "o": 9163,
+        "r": "csb:2 Samuel:12:2",
+        "t": "The rich man had very large flocks and herds,"
+    },
+    {
+        "o": 9164,
+        "r": "csb:2 Samuel:12:3",
+        "t": "but the poor man had nothing except one small ewe lamb that he had bought. He raised her, and she grew up with him and with his children. From his meager food she would eat, from his cup she would drink, and in his arms she would sleep. She was like a daughter to him."
+    },
+    {
+        "o": 9165,
+        "r": "csb:2 Samuel:12:4",
+        "t": "Now a traveler came to the rich man, but the rich man could not bring himself to take one of his own sheep or cattle to prepare for the traveler who had come to him. Instead, he took the poor man’s lamb and prepared it for his guest."
+    },
+    {
+        "o": 9166,
+        "r": "csb:2 Samuel:12:5",
+        "t": "David*p was infuriated with the man and said to Nathan, “As the Lord*s lives, the man who did this deserves to die!"
+    },
+    {
+        "o": 9167,
+        "r": "csb:2 Samuel:12:6",
+        "t": "Because he has done this thing and shown no pity, he must pay four lambs for that lamb.”"
+    },
+    {
+        "o": 9168,
+        "r": "csb:2 Samuel:12:7",
+        "t": "Nathan*p replied to David, “You are the man! This is what the Lord*s God of Israel says: ‘I anointed you king over Israel, and I rescued you from Saul."
+    },
+    {
+        "o": 9169,
+        "r": "csb:2 Samuel:12:8",
+        "t": "I gave your master’s house to you and your master’s wives into your arms, and I gave you the house of Israel and Judah, and if that was not enough, I would have given you even more."
+    },
+    {
+        "o": 9170,
+        "r": "csb:2 Samuel:12:9",
+        "t": "Why then have you despised the Lord’s*s command by doing what I consider evil? You struck down Uriah the Hethite with the sword and took his wife as your own wife — you murdered him with the Ammonite’s sword."
+    },
+    {
+        "o": 9171,
+        "r": "csb:2 Samuel:12:10",
+        "t": "Now therefore, the sword will never leave your house because you despised me and took the wife of Uriah the Hethite to be your own wife.’"
+    },
+    {
+        "o": 9172,
+        "r": "csb:2 Samuel:12:11",
+        "t": "“This*p is what the Lord*s says, ‘I am going to bring disaster on you from your own family: I will take your wives and give them to another before your very eyes, and he will sleep with them in broad daylight."
+    },
+    {
+        "o": 9173,
+        "r": "csb:2 Samuel:12:12",
+        "t": "You acted in secret, but I will do this before all Israel and in broad daylight.’”"
+    },
+    {
+        "o": 9174,
+        "r": "csb:2 Samuel:12:13",
+        "t": "David*p responded to Nathan, “I have sinned against the Lord.”*s Then*p Nathan replied to David, “And the Lord*s has taken away your sin; you will not die."
+    },
+    {
+        "o": 9175,
+        "r": "csb:2 Samuel:12:14",
+        "t": "However, because you treated the Lord*s with such contempt in this matter, the son born to you will die.”"
+    },
+    {
+        "o": 9176,
+        "r": "csb:2 Samuel:12:15",
+        "t": "Then Nathan went home."
+    },
+    {
+        "o": 9177,
+        "r": "csb:2 Samuel:12:15",
+        "t": "The Death of Bathsheba’s Son",
+        "h": 2
+    },
+    {
+        "o": 9178,
+        "r": "csb:2 Samuel:12:15",
+        "t": "The*p Lord*s struck the baby that Uriah’s wife had borne to David, and he became deathly ill."
+    },
+    {
+        "o": 9179,
+        "r": "csb:2 Samuel:12:16",
+        "t": "David pleaded with God for the boy. He fasted, went home, and spent the night lying on the ground."
+    },
+    {
+        "o": 9180,
+        "r": "csb:2 Samuel:12:17",
+        "t": "The elders of his house stood beside him to get him up from the ground, but he was unwilling and would not eat anything with them."
+    },
+    {
+        "o": 9181,
+        "r": "csb:2 Samuel:12:18",
+        "t": "On*p the seventh day the baby died. But David’s servants were afraid to tell him the baby was dead. They said, “Look, while the baby was alive, we spoke to him, and he wouldn’t listen to us. So how can we tell him the baby is dead? He may do something desperate.”"
+    },
+    {
+        "o": 9182,
+        "r": "csb:2 Samuel:12:19",
+        "t": "When*p David saw that his servants were whispering to each other, he guessed that the baby was dead. So he asked his servants, “Is the baby dead?” “He*p is dead,” they replied."
+    },
+    {
+        "o": 9183,
+        "r": "csb:2 Samuel:12:20",
+        "t": "Then*p David got up from the ground. He washed, anointed himself, changed his clothes, went to the Lord’s*s house, and worshiped. Then he went home and requested something to eat. So they served him food, and he ate."
+    },
+    {
+        "o": 9184,
+        "r": "csb:2 Samuel:12:21",
+        "t": "His*p servants asked him, “Why have you done this? While the baby was alive, you fasted and wept, but when he died, you got up and ate food.”"
+    },
+    {
+        "o": 9185,
+        "r": "csb:2 Samuel:12:22",
+        "t": "He*p answered, “While the baby was alive, I fasted and wept because I thought, ‘Who knows? The Lord*s may be gracious to me and let him live.’"
+    },
+    {
+        "o": 9186,
+        "r": "csb:2 Samuel:12:23",
+        "t": "But now that he is dead, why should I fast? Can I bring him back again? I’ll go to him, but he will never return to me.”"
+    },
+    {
+        "o": 9187,
+        "r": "csb:2 Samuel:12:23",
+        "t": "The Birth of Solomon",
+        "h": 2
+    },
+    {
+        "o": 9188,
+        "r": "csb:2 Samuel:12:24",
+        "t": "Then*p David comforted his wife Bathsheba; he went to her and slept with her. She gave birth to a son and named him Solomon. The Lord*s loved him,"
+    },
+    {
+        "o": 9189,
+        "r": "csb:2 Samuel:12:25",
+        "t": "and he sent a message through the prophet Nathan, who named him Jedidiah, because of the Lord.*s"
+    },
+    {
+        "o": 9190,
+        "r": "csb:2 Samuel:12:25",
+        "t": "Capture of the City of Rabbah",
+        "h": 2
+    },
+    {
+        "o": 9191,
+        "r": "csb:2 Samuel:12:26",
+        "t": "Joab*p fought against Rabbah of the Ammonites and captured the royal fortress."
+    },
+    {
+        "o": 9192,
+        "r": "csb:2 Samuel:12:27",
+        "t": "Then Joab sent messengers to David to say, “I have fought against Rabbah and have also captured its water supply."
+    },
+    {
+        "o": 9193,
+        "r": "csb:2 Samuel:12:28",
+        "t": "Now therefore, assemble the rest of the troops, lay siege to the city, and capture it. Otherwise I will be the one to capture the city, and it will be named after me.”"
+    },
+    {
+        "o": 9194,
+        "r": "csb:2 Samuel:12:29",
+        "t": "So David assembled all the troops and went to Rabbah; he fought against it and captured it."
+    },
+    {
+        "o": 9195,
+        "r": "csb:2 Samuel:12:30",
+        "t": "He took the crown from the head of their king, and it was placed on David’s head. The crown weighed seventy-five pounds of gold, and it had a precious stone in it. In addition, David took away a large quantity of plunder from the city."
+    },
+    {
+        "o": 9196,
+        "r": "csb:2 Samuel:12:31",
+        "t": "He removed the people who were in the city and put them to work with saws, iron picks, and iron axes, and to labor at brickmaking. He did the same to all the Ammonite cities. Then he and all his troops returned to Jerusalem."
+    },
+    {
+        "o": 9197,
+        "r": "csb:2 Samuel:13:0",
+        "t": "2 Samuel 13",
+        "h": 1
+    },
+    {
+        "o": 9198,
+        "r": "csb:2 Samuel:13:0",
+        "t": "Amnon Rapes Tamar",
+        "h": 2
+    },
+    {
+        "o": 9199,
+        "r": "csb:2 Samuel:13:1",
+        "t": "Some*p time passed. David’s son Absalom had a beautiful sister named Tamar, and David’s son Amnon was infatuated with her."
+    },
+    {
+        "o": 9200,
+        "r": "csb:2 Samuel:13:2",
+        "t": "Amnon was frustrated to the point of making himself sick over his sister Tamar because she was a virgin, but it seemed impossible to do anything to her."
+    },
+    {
+        "o": 9201,
+        "r": "csb:2 Samuel:13:3",
+        "t": "Amnon had a friend named Jonadab, a son of David’s brother Shimeah. Jonadab was a very shrewd man,"
+    },
+    {
+        "o": 9202,
+        "r": "csb:2 Samuel:13:4",
+        "t": "and he asked Amnon, “Why are you, the king’s son, so miserable every morning? Won’t you tell me?” Amnon*p replied, “I’m in love with Tamar, my brother Absalom’s sister.”"
+    },
+    {
+        "o": 9203,
+        "r": "csb:2 Samuel:13:5",
+        "t": "Jonadab*p said to him, “Lie down on your bed and pretend you’re sick. When your father comes to see you, say to him, ‘Please let my sister Tamar come and give me something to eat. Let her prepare a meal in my presence so I can watch and eat from her hand.’”"
+    },
+    {
+        "o": 9204,
+        "r": "csb:2 Samuel:13:6",
+        "t": "So*p Amnon lay down and pretended to be sick. When the king came to see him, Amnon said to him, “Please let my sister Tamar come and make a couple of cakes in my presence so I can eat from her hand.”"
+    },
+    {
+        "o": 9205,
+        "r": "csb:2 Samuel:13:7",
+        "t": "David*p sent word to Tamar at the palace: “Please go to your brother Amnon’s house and prepare a meal for him.”"
+    },
+    {
+        "o": 9206,
+        "r": "csb:2 Samuel:13:8",
+        "t": "Then*p Tamar went to his house while Amnon was lying down. She took dough, kneaded it, made cakes in his presence, and baked them."
+    },
+    {
+        "o": 9207,
+        "r": "csb:2 Samuel:13:9",
+        "t": "She brought the pan and set it down in front of him, but he refused to eat. Amnon said, “Everyone leave me!” And everyone left him."
+    },
+    {
+        "o": 9208,
+        "r": "csb:2 Samuel:13:10",
+        "t": "“Bring the meal to the bedroom,” Amnon told Tamar, “so I can eat from your hand.” Tamar took the cakes she had made and went to her brother Amnon’s bedroom."
+    },
+    {
+        "o": 9209,
+        "r": "csb:2 Samuel:13:11",
+        "t": "When she brought them to him to eat, he grabbed her and said, “Come sleep with me, my sister!”"
+    },
+    {
+        "o": 9210,
+        "r": "csb:2 Samuel:13:12",
+        "t": "“Don’t,*p my brother!” she cried. “Don’t disgrace me, for such a thing should never be done in Israel. Don’t commit this outrage!"
+    },
+    {
+        "o": 9211,
+        "r": "csb:2 Samuel:13:13",
+        "t": "Where could I ever go with my humiliation? And you — you would be like one of the outrageous fools in Israel! Please, speak to the king, for he won’t keep me from you.”"
+    },
+    {
+        "o": 9212,
+        "r": "csb:2 Samuel:13:14",
+        "t": "But he refused to listen to her, and because he was stronger than she was, he disgraced her by raping her."
+    },
+    {
+        "o": 9213,
+        "r": "csb:2 Samuel:13:15",
+        "t": "So*p Amnon hated Tamar with such intensity that the hatred he hated her with was greater than the love he had loved her with. “Get out of here!” he said."
+    },
+    {
+        "o": 9214,
+        "r": "csb:2 Samuel:13:16",
+        "t": "“No,”*p she cried, “sending me away is much worse than the great wrong you’ve already done to me!” But*p he refused to listen to her."
+    },
+    {
+        "o": 9215,
+        "r": "csb:2 Samuel:13:17",
+        "t": "Instead, he called to the servant who waited on him, “Get this away from me, throw her out, and bolt the door behind her!”"
+    },
+    {
+        "o": 9216,
+        "r": "csb:2 Samuel:13:18",
+        "t": "Amnon’s servant threw her out and bolted the door behind her. Now Tamar was wearing a long-sleeved robe, because this is what the king’s virgin daughters wore."
+    },
+    {
+        "o": 9217,
+        "r": "csb:2 Samuel:13:19",
+        "t": "Tamar put ashes on her head and tore the long-sleeved robe she was wearing. She put her hand on her head and went away crying out."
+    },
+    {
+        "o": 9218,
+        "r": "csb:2 Samuel:13:20",
+        "t": "Her*p brother Absalom said to her, “Has your brother Amnon been with you? Be quiet for now, my sister. He is your brother. Don’t take this thing to heart.” So Tamar lived as a desolate woman in the house of her brother Absalom."
+    },
+    {
+        "o": 9219,
+        "r": "csb:2 Samuel:13:20",
+        "t": "Absalom Murders Amnon",
+        "h": 2
+    },
+    {
+        "o": 9220,
+        "r": "csb:2 Samuel:13:21",
+        "t": "When*p King David heard about all these things, he was furious."
+    },
+    {
+        "o": 9221,
+        "r": "csb:2 Samuel:13:22",
+        "t": "Absalom didn’t say anything to Amnon, either good or bad, because he hated Amnon since he disgraced his sister Tamar."
+    },
+    {
+        "o": 9222,
+        "r": "csb:2 Samuel:13:23",
+        "t": "Two*p years later, Absalom’s sheepshearers were at Baal-hazor near Ephraim, and Absalom invited all the king’s sons."
+    },
+    {
+        "o": 9223,
+        "r": "csb:2 Samuel:13:24",
+        "t": "Then he went to the king and said, “Your servant has just hired sheepshearers. Will the king and his servants please come with your servant?”"
+    },
+    {
+        "o": 9224,
+        "r": "csb:2 Samuel:13:25",
+        "t": "The*p king replied to Absalom, “No, my son, we should not all go, or we would be a burden to you.” Although Absalom urged him, he wasn’t willing to go, though he did bless him."
+    },
+    {
+        "o": 9225,
+        "r": "csb:2 Samuel:13:26",
+        "t": "“If*p not,” Absalom said, “please let my brother Amnon go with us.” The*p king asked him, “Why should he go with you?”"
+    },
+    {
+        "o": 9226,
+        "r": "csb:2 Samuel:13:27",
+        "t": "But Absalom urged him, so he sent Amnon and all the king’s sons."
+    },
+    {
+        "o": 9227,
+        "r": "csb:2 Samuel:13:28",
+        "t": "Now*p Absalom commanded his young men, “Watch Amnon until he is in a good mood from the wine. When I order you to strike Amnon, then kill him. Don’t be afraid. Am I not the one who has commanded you? Be strong and valiant!”"
+    },
+    {
+        "o": 9228,
+        "r": "csb:2 Samuel:13:29",
+        "t": "So Absalom’s young men did to Amnon just as Absalom had commanded. Then all the rest of the king’s sons got up, and each fled on his mule."
+    },
+    {
+        "o": 9229,
+        "r": "csb:2 Samuel:13:30",
+        "t": "While*p they were on the way, a report reached David: “Absalom struck down all the king’s sons; not even one of them survived!”"
+    },
+    {
+        "o": 9230,
+        "r": "csb:2 Samuel:13:31",
+        "t": "In response the king stood up, tore his clothes, and lay down on the ground, and all his servants stood by with their clothes torn."
+    },
+    {
+        "o": 9231,
+        "r": "csb:2 Samuel:13:32",
+        "t": "But*p Jonadab, son of David’s brother Shimeah, spoke up: “My lord must not think they have killed all the young men, the king’s sons, because only Amnon is dead. In fact, Absalom has planned this ever since the day Amnon disgraced his sister Tamar."
+    },
+    {
+        "o": 9232,
+        "r": "csb:2 Samuel:13:33",
+        "t": "So now, my lord the king, don’t take seriously the report that says all the king’s sons are dead. Only Amnon is dead.”"
+    },
+    {
+        "o": 9233,
+        "r": "csb:2 Samuel:13:34",
+        "t": "Meanwhile,*p Absalom had fled. When the young man who was standing watch looked up, there were many people coming from the road west of him from the side of the mountain."
+    },
+    {
+        "o": 9234,
+        "r": "csb:2 Samuel:13:35",
+        "t": "Jonadab said to the king, “Look, the king’s sons have come! It’s exactly like your servant said.”"
+    },
+    {
+        "o": 9235,
+        "r": "csb:2 Samuel:13:36",
+        "t": "Just as he finished speaking, the king’s sons entered and wept loudly. Then the king and all his servants also wept very bitterly."
+    },
+    {
+        "o": 9236,
+        "r": "csb:2 Samuel:13:37",
+        "t": "But Absalom fled and went to Talmai son of Ammihud, king of Geshur. And David mourned for his son every day."
+    },
+    {
+        "o": 9237,
+        "r": "csb:2 Samuel:13:38",
+        "t": "After*p Absalom had fled to Geshur and had been there three years,"
+    },
+    {
+        "o": 9238,
+        "r": "csb:2 Samuel:13:39",
+        "t": "King David longed to go to Absalom, for David had finished grieving over Amnon’s death."
+    },
+    {
+        "o": 9239,
+        "r": "csb:2 Samuel:14:0",
+        "t": "2 Samuel 14",
+        "h": 1
+    },
+    {
+        "o": 9240,
+        "r": "csb:2 Samuel:14:0",
+        "t": "Absalom Restored to David",
+        "h": 2
+    },
+    {
+        "o": 9241,
+        "r": "csb:2 Samuel:14:1",
+        "t": "Joab*p son of Zeruiah realized that the king’s mind was on Absalom."
+    },
+    {
+        "o": 9242,
+        "r": "csb:2 Samuel:14:2",
+        "t": "So Joab sent someone to Tekoa to bring a wise woman from there. He told her, “Pretend to be in mourning: dress in mourning clothes and don’t put on any oil. Act like a woman who has been mourning for the dead for a long time."
+    },
+    {
+        "o": 9243,
+        "r": "csb:2 Samuel:14:3",
+        "t": "Go to the king and speak these words to him.” Then Joab told her exactly what to say."
+    },
+    {
+        "o": 9244,
+        "r": "csb:2 Samuel:14:4",
+        "t": "When*p the woman from Tekoa came to the king, she fell facedown to the ground, paid homage, and said, “Help me, Your Majesty!”"
+    },
+    {
+        "o": 9245,
+        "r": "csb:2 Samuel:14:5",
+        "t": "“What’s*p the matter?” the king asked her. “Sadly,*p I am a widow; my husband died,” she said."
+    },
+    {
+        "o": 9246,
+        "r": "csb:2 Samuel:14:6",
+        "t": "“Your servant had two sons. They were fighting in the field with no one to separate them, and one struck the other and killed him."
+    },
+    {
+        "o": 9247,
+        "r": "csb:2 Samuel:14:7",
+        "t": "Now the whole clan has risen up against your servant and said, ‘Hand over the one who killed his brother so we may put him to death for the life of the brother he murdered. We will eliminate the heir! ’ They would extinguish my one remaining ember by not preserving my husband’s name or posterity on earth.”"
+    },
+    {
+        "o": 9248,
+        "r": "csb:2 Samuel:14:8",
+        "t": "The*p king told the woman, “Go home. I will issue a command on your behalf.”"
+    },
+    {
+        "o": 9249,
+        "r": "csb:2 Samuel:14:9",
+        "t": "Then*p the woman of Tekoa said to the king, “My lord the king, may any blame be on me and my father’s family, and may the king and his throne be innocent.”"
+    },
+    {
+        "o": 9250,
+        "r": "csb:2 Samuel:14:10",
+        "t": "“Whoever*p speaks to you,” the king said, “bring him to me. He will not trouble you again!”"
+    },
+    {
+        "o": 9251,
+        "r": "csb:2 Samuel:14:11",
+        "t": "She*p replied, “Please, may the king invoke the Lord*s your God, so that the avenger of blood will not increase the loss, and they will not eliminate my son!” “As*p the Lord*s lives,” he vowed, “not a hair of your son will fall to the ground.”"
+    },
+    {
+        "o": 9252,
+        "r": "csb:2 Samuel:14:12",
+        "t": "Then*p the woman said, “Please, may your servant speak a word to my lord the king?” “Speak,”*p he replied."
+    },
+    {
+        "o": 9253,
+        "r": "csb:2 Samuel:14:13",
+        "t": "The*p woman asked, “Why have you devised something similar against the people of God? When the king spoke as he did about this matter, he has pronounced his own guilt. The king has not brought back his own banished one."
+    },
+    {
+        "o": 9254,
+        "r": "csb:2 Samuel:14:14",
+        "t": "We will certainly die and be like water poured out on the ground, which can’t be recovered. But God would not take away a life; he would devise plans so that the one banished from him does not remain banished."
+    },
+    {
+        "o": 9255,
+        "r": "csb:2 Samuel:14:15",
+        "t": "“Now*p therefore, I’ve come to present this matter to my lord the king because the people have made me afraid. Your servant thought: I must speak to the king. Perhaps the king will grant his servant’s request."
+    },
+    {
+        "o": 9256,
+        "r": "csb:2 Samuel:14:16",
+        "t": "The king will surely listen in order to keep his servant from the grasp of this man who would eliminate both me and my son from God’s inheritance."
+    },
+    {
+        "o": 9257,
+        "r": "csb:2 Samuel:14:17",
+        "t": "Your servant thought: May the word of my lord the king bring relief, for my lord the king is able to discern the good and the bad like the angel of God. May the Lord*s your God be with you.”"
+    },
+    {
+        "o": 9258,
+        "r": "csb:2 Samuel:14:18",
+        "t": "Then*p the king answered the woman, “I’m going to ask you something; don’t conceal it from me!” “Let*p my lord the king speak,” the woman replied."
+    },
+    {
+        "o": 9259,
+        "r": "csb:2 Samuel:14:19",
+        "t": "The*p king asked, “Did Joab put you up to all this?” The*p woman answered. “As you live, my lord the king, no one can turn to the right or left from all my lord the king says. Yes, your servant Joab is the one who gave orders to me; he told your servant exactly what to say."
+    },
+    {
+        "o": 9260,
+        "r": "csb:2 Samuel:14:20",
+        "t": "Joab your servant has done this to address the issue indirectly, but my lord has wisdom like the wisdom of the angel of God, knowing everything on earth.”"
+    },
+    {
+        "o": 9261,
+        "r": "csb:2 Samuel:14:21",
+        "t": "Then*p the king said to Joab, “I hereby grant this request. Go, bring back the young man Absalom.”"
+    },
+    {
+        "o": 9262,
+        "r": "csb:2 Samuel:14:22",
+        "t": "Joab*p fell with his face to the ground in homage and blessed the king. “Today,” Joab said, “your servant knows I have found favor with you, my lord the king, because the king has granted the request of your servant.”"
+    },
+    {
+        "o": 9263,
+        "r": "csb:2 Samuel:14:23",
+        "t": "So*p Joab got up, went to Geshur, and brought Absalom to Jerusalem."
+    },
+    {
+        "o": 9264,
+        "r": "csb:2 Samuel:14:24",
+        "t": "However, the king added, “He may return to his house, but he may not see my face.” So Absalom returned to his house, but he did not see the king."
+    },
+    {
+        "o": 9265,
+        "r": "csb:2 Samuel:14:25",
+        "t": "No*p man in all Israel was as handsome and highly praised as Absalom. From the sole of his foot to the top of his head, he did not have a single flaw."
+    },
+    {
+        "o": 9266,
+        "r": "csb:2 Samuel:14:26",
+        "t": "When he shaved his head — he shaved it at the end of every year because his hair got so heavy for him that he had to shave it off — he would weigh the hair from his head and it would be five pounds according to the royal standard."
+    },
+    {
+        "o": 9267,
+        "r": "csb:2 Samuel:14:27",
+        "t": "Three*p sons were born to Absalom, and a daughter named Tamar, who was a beautiful woman."
+    },
+    {
+        "o": 9268,
+        "r": "csb:2 Samuel:14:28",
+        "t": "Absalom resided in Jerusalem two years but never saw the king."
+    },
+    {
+        "o": 9269,
+        "r": "csb:2 Samuel:14:29",
+        "t": "Then Absalom sent for Joab in order to send him to the king, but Joab was unwilling to come to him. So he sent again, a second time, but he still would not come."
+    },
+    {
+        "o": 9270,
+        "r": "csb:2 Samuel:14:30",
+        "t": "Then Absalom said to his servants, “See, Joab has a field right next to mine, and he has barley there. Go and set fire to it!” So Absalom’s servants set the field on fire."
+    },
+    {
+        "o": 9271,
+        "r": "csb:2 Samuel:14:31",
+        "t": "Then*p Joab came to Absalom’s house and demanded, “Why did your servants set my field on fire?”"
+    },
+    {
+        "o": 9272,
+        "r": "csb:2 Samuel:14:32",
+        "t": "“Look,”*p Absalom explained to Joab, “I sent for you and said, ‘Come here. I want to send you to the king to ask: Why have I come back from Geshur? I’d be better off if I were still there.’ So now, let me see the king. If I am guilty, let him kill me.”"
+    },
+    {
+        "o": 9273,
+        "r": "csb:2 Samuel:14:33",
+        "t": "Joab*p went to the king and told him. So David summoned Absalom, who came to the king and paid homage with his face to the ground before him. Then the king kissed Absalom."
+    },
+    {
+        "o": 9274,
+        "r": "csb:2 Samuel:15:0",
+        "t": "2 Samuel 15",
+        "h": 1
+    },
+    {
+        "o": 9275,
+        "r": "csb:2 Samuel:15:0",
+        "t": "Absalom’s Revolt",
+        "h": 2
+    },
+    {
+        "o": 9276,
+        "r": "csb:2 Samuel:15:1",
+        "t": "After*p this, Absalom got himself a chariot, horses, and fifty men to run before him."
+    },
+    {
+        "o": 9277,
+        "r": "csb:2 Samuel:15:2",
+        "t": "He would get up early and stand beside the road leading to the city gate. Whenever anyone had a grievance to bring before the king for settlement, Absalom called out to him and asked, “What city are you from?” If he replied, “Your servant is from one of the tribes of Israel,”"
+    },
+    {
+        "o": 9278,
+        "r": "csb:2 Samuel:15:3",
+        "t": "Absalom said to him, “Look, your claims are good and right, but the king does not have anyone to listen to you.”"
+    },
+    {
+        "o": 9279,
+        "r": "csb:2 Samuel:15:4",
+        "t": "He added, “If only someone would appoint me judge in the land. Then anyone who had a grievance or dispute could come to me, and I would make sure he received justice.”"
+    },
+    {
+        "o": 9280,
+        "r": "csb:2 Samuel:15:5",
+        "t": "When a person approached to pay homage to him, Absalom reached out his hand, took hold of him, and kissed him."
+    },
+    {
+        "o": 9281,
+        "r": "csb:2 Samuel:15:6",
+        "t": "Absalom did this to all the Israelites who came to the king for a settlement. So Absalom stole the hearts of the men of Israel."
+    },
+    {
+        "o": 9282,
+        "r": "csb:2 Samuel:15:7",
+        "t": "When*p four years had passed, Absalom said to the king, “Please let me go to Hebron to fulfill a vow I made to the Lord.*s"
+    },
+    {
+        "o": 9283,
+        "r": "csb:2 Samuel:15:8",
+        "t": "For your servant made a vow when I lived in Geshur of Aram, saying, ‘If the Lord*s really brings me back to Jerusalem, I will worship the Lord*s in Hebron.’”"
+    },
+    {
+        "o": 9284,
+        "r": "csb:2 Samuel:15:9",
+        "t": "“Go*p in peace,” the king said to him. So he went to Hebron."
+    },
+    {
+        "o": 9285,
+        "r": "csb:2 Samuel:15:10",
+        "t": "Then*p Absalom sent agents throughout the tribes of Israel with this message: “When you hear the sound of the ram’s horn, you are to say, ‘Absalom has become king in Hebron!’”"
+    },
+    {
+        "o": 9286,
+        "r": "csb:2 Samuel:15:11",
+        "t": "Two*p hundred men from Jerusalem went with Absalom. They had been invited and were going innocently, for they did not know the whole situation."
+    },
+    {
+        "o": 9287,
+        "r": "csb:2 Samuel:15:12",
+        "t": "While he was offering the sacrifices, Absalom sent for David’s adviser Ahithophel the Gilonite, from his city of Giloh. So the conspiracy grew strong, and the people supporting Absalom continued to increase."
+    },
+    {
+        "o": 9288,
+        "r": "csb:2 Samuel:15:13",
+        "t": "Then*p an informer came to David and reported, “The hearts of the men of Israel are with Absalom.”"
+    },
+    {
+        "o": 9289,
+        "r": "csb:2 Samuel:15:14",
+        "t": "David*p said to all the servants with him in Jerusalem, “Get up. We have to flee, or we will not escape from Absalom! Leave quickly, or he will overtake us quickly, heap disaster on us, and strike the city with the edge of the sword.”"
+    },
+    {
+        "o": 9290,
+        "r": "csb:2 Samuel:15:15",
+        "t": "The*p king’s servants said to the king, “Whatever my lord the king decides, we are your servants.”"
+    },
+    {
+        "o": 9291,
+        "r": "csb:2 Samuel:15:16",
+        "t": "Then the king set out, and his entire household followed him. But he left behind ten concubines to take care of the palace."
+    },
+    {
+        "o": 9292,
+        "r": "csb:2 Samuel:15:17",
+        "t": "So the king set out, and all the people followed him. They stopped at the last house"
+    },
+    {
+        "o": 9293,
+        "r": "csb:2 Samuel:15:18",
+        "t": "while all his servants marched past him. Then all the Cherethites, the Pelethites, and the people of Gath — six hundred men who came with him from there — marched past the king."
+    },
+    {
+        "o": 9294,
+        "r": "csb:2 Samuel:15:19",
+        "t": "The*p king said to Ittai of Gath, “Why are you also going with us? Go back and stay with the new king since you’re both a foreigner and an exile from your homeland."
+    },
+    {
+        "o": 9295,
+        "r": "csb:2 Samuel:15:20",
+        "t": "Besides, you only arrived yesterday; should I make you wander around with us today while I go wherever I can? Go back and take your brothers with you. May the Lord*s show you kindness and faithfulness.”"
+    },
+    {
+        "o": 9296,
+        "r": "csb:2 Samuel:15:21",
+        "t": "But*p in response, Ittai vowed to the king, “As the Lord*s lives and as my lord the king lives, wherever my lord the king is, whether it means life or death, your servant will be there!”"
+    },
+    {
+        "o": 9297,
+        "r": "csb:2 Samuel:15:22",
+        "t": "“March*p on,” David replied to Ittai. So Ittai of Gath marched past with all his men and the dependents who were with him."
+    },
+    {
+        "o": 9298,
+        "r": "csb:2 Samuel:15:23",
+        "t": "Everyone in the countryside was weeping loudly while all the people were marching out of the city. As the king was crossing the Kidron Valley, all the people were marching past on the road that leads to the wilderness."
+    },
+    {
+        "o": 9299,
+        "r": "csb:2 Samuel:15:24",
+        "t": "Zadok*p was also there, and all the Levites with him were carrying the ark of the covenant of God. They set the ark of God down, and Abiathar offered sacrifices until the people had finished marching past."
+    },
+    {
+        "o": 9300,
+        "r": "csb:2 Samuel:15:25",
+        "t": "Then the king instructed Zadok, “Return the ark of God to the city. If I find favor with the Lord,*s he will bring me back and allow me to see both it and its dwelling place."
+    },
+    {
+        "o": 9301,
+        "r": "csb:2 Samuel:15:26",
+        "t": "However, if he should say, ‘I do not delight in you,’ then here I am — he can do with me whatever pleases him.”"
+    },
+    {
+        "o": 9302,
+        "r": "csb:2 Samuel:15:27",
+        "t": "The*p king also said to the priest Zadok, “Look, return to the city in peace and your two sons with you: your son Ahimaaz and Abiathar’s son Jonathan."
+    },
+    {
+        "o": 9303,
+        "r": "csb:2 Samuel:15:28",
+        "t": "Remember, I’ll wait at the fords of the wilderness until word comes from you to inform me.”"
+    },
+    {
+        "o": 9304,
+        "r": "csb:2 Samuel:15:29",
+        "t": "So Zadok and Abiathar returned the ark of God to Jerusalem and stayed there."
+    },
+    {
+        "o": 9305,
+        "r": "csb:2 Samuel:15:30",
+        "t": "David*p was climbing the slope of the Mount of Olives, weeping as he ascended. His head was covered, and he was walking barefoot. All of the people with him covered their heads and went up, weeping as they ascended."
+    },
+    {
+        "o": 9306,
+        "r": "csb:2 Samuel:15:31",
+        "t": "Then*p someone reported to David, “Ahithophel is among the conspirators with Absalom.” “Lord,”*sp David pleaded, “please turn the counsel of Ahithophel into foolishness!”"
+    },
+    {
+        "o": 9307,
+        "r": "csb:2 Samuel:15:32",
+        "t": "When*p David came to the summit where he used to worship God, Hushai the Archite was there to meet him with his robe torn and dust on his head."
+    },
+    {
+        "o": 9308,
+        "r": "csb:2 Samuel:15:33",
+        "t": "David said to him, “If you go away with me, you’ll be a burden to me,"
+    },
+    {
+        "o": 9309,
+        "r": "csb:2 Samuel:15:34",
+        "t": "but if you return to the city and tell Absalom, ‘I will be your servant, Your Majesty! Previously, I was your father’s servant, but now I will be your servant,’ then you can counteract Ahithophel’s counsel for me."
+    },
+    {
+        "o": 9310,
+        "r": "csb:2 Samuel:15:35",
+        "t": "Won’t the priests Zadok and Abiathar be there with you? Report everything you hear from the palace to the priests Zadok and Abiathar."
+    },
+    {
+        "o": 9311,
+        "r": "csb:2 Samuel:15:36",
+        "t": "Take note: their two sons are there with them—Zadok’s son Ahimaaz and Abiathar’s son Jonathan. Send them to tell me everything you hear.”"
+    },
+    {
+        "o": 9312,
+        "r": "csb:2 Samuel:15:37",
+        "t": "So Hushai, David’s personal adviser, entered Jerusalem just as Absalom was entering the city."
+    },
+    {
+        "o": 9313,
+        "r": "csb:2 Samuel:16:0",
+        "t": "2 Samuel 16",
+        "h": 1
+    },
+    {
+        "o": 9314,
+        "r": "csb:2 Samuel:16:0",
+        "t": "Ziba Helps David",
+        "h": 2
+    },
+    {
+        "o": 9315,
+        "r": "csb:2 Samuel:16:1",
+        "t": "When*p David had gone a little beyond the summit, Ziba, Mephibosheth’s servant, was right there to meet him. He had a pair of saddled donkeys loaded with two hundred loaves of bread, one hundred clusters of raisins, one hundred bunches of summer fruit, and a clay jar of wine."
+    },
+    {
+        "o": 9316,
+        "r": "csb:2 Samuel:16:2",
+        "t": "The king said to Ziba, “Why do you have these?” Ziba*p answered, “The donkeys are for the king’s household to ride, the bread and summer fruit are for the young men to eat, and the wine is for those to drink who become exhausted in the wilderness.”"
+    },
+    {
+        "o": 9317,
+        "r": "csb:2 Samuel:16:3",
+        "t": "“Where*p is your master’s grandson?” the king asked. “Why,*p he’s staying in Jerusalem,” Ziba replied to the king, “for he said, ‘Today, the house of Israel will restore my grandfather’s kingdom to me.’”"
+    },
+    {
+        "o": 9318,
+        "r": "csb:2 Samuel:16:4",
+        "t": "The*p king said to Ziba, “All that belongs to Mephibosheth is now yours!” “I*p bow before you,” Ziba said. “May I find favor with you, my lord the king!”"
+    },
+    {
+        "o": 9319,
+        "r": "csb:2 Samuel:16:4",
+        "t": "Shimei Curses David",
+        "h": 2
+    },
+    {
+        "o": 9320,
+        "r": "csb:2 Samuel:16:5",
+        "t": "When*p King David got to Bahurim, a man belonging to the family of the house of Saul was just coming out. His name was Shimei son of Gera, and he was yelling curses as he approached."
+    },
+    {
+        "o": 9321,
+        "r": "csb:2 Samuel:16:6",
+        "t": "He threw stones at David and at all the royal servants, the people and the warriors on David’s right and left."
+    },
+    {
+        "o": 9322,
+        "r": "csb:2 Samuel:16:7",
+        "t": "Shimei said as he cursed, “Get out, get out, you man of bloodshed, you wicked man!"
+    },
+    {
+        "o": 9323,
+        "r": "csb:2 Samuel:16:8",
+        "t": "The Lord*s has paid you back for all the blood of the house of Saul in whose place you became king, and the Lord*s has handed the kingdom over to your son Absalom. Look, you are in trouble because you’re a man of bloodshed!”"
+    },
+    {
+        "o": 9324,
+        "r": "csb:2 Samuel:16:9",
+        "t": "Then*p Abishai son of Zeruiah said to the king, “Why should this dead dog curse my lord the king? Let me go over and remove his head!”"
+    },
+    {
+        "o": 9325,
+        "r": "csb:2 Samuel:16:10",
+        "t": "The*p king replied, “Sons of Zeruiah, do we agree on anything? He curses me this way because the Lord*s told him, ‘Curse David! ’ Therefore, who can say, ‘Why did you do that? ’”"
+    },
+    {
+        "o": 9326,
+        "r": "csb:2 Samuel:16:11",
+        "t": "Then David said to Abishai and all his servants, “Look, my own son, my own flesh and blood, intends to take my life — how much more now this Benjaminite! Leave him alone and let him curse me; the Lord*s has told him to."
+    },
+    {
+        "o": 9327,
+        "r": "csb:2 Samuel:16:12",
+        "t": "Perhaps the Lord*s will see my affliction and restore goodness to me instead of Shimei’s curses today.”"
+    },
+    {
+        "o": 9328,
+        "r": "csb:2 Samuel:16:13",
+        "t": "So David and his men proceeded along the road as Shimei was going along the ridge of the hill opposite him. As Shimei went, he cursed David, threw stones at him, and kicked up dust."
+    },
+    {
+        "o": 9329,
+        "r": "csb:2 Samuel:16:14",
+        "t": "Finally, the king and all the people with him arrived exhausted, so they rested there."
+    },
+    {
+        "o": 9330,
+        "r": "csb:2 Samuel:16:14",
+        "t": "Absalom’s Advisers",
+        "h": 2
+    },
+    {
+        "o": 9331,
+        "r": "csb:2 Samuel:16:15",
+        "t": "Now*p Absalom and all the Israelites came to Jerusalem. Ahithophel was also with him."
+    },
+    {
+        "o": 9332,
+        "r": "csb:2 Samuel:16:16",
+        "t": "When David’s friend Hushai the Archite came to Absalom, Hushai said to Absalom, “Long live the king! Long live the king!”"
+    },
+    {
+        "o": 9333,
+        "r": "csb:2 Samuel:16:17",
+        "t": "“Is*p this your loyalty to your friend?” Absalom asked Hushai. “Why didn’t you go with your friend?”"
+    },
+    {
+        "o": 9334,
+        "r": "csb:2 Samuel:16:18",
+        "t": "“Not*p at all,” Hushai answered Absalom. “I am on the side of the one that the Lord,*s this people, and all the men of Israel have chosen. I will stay with him."
+    },
+    {
+        "o": 9335,
+        "r": "csb:2 Samuel:16:19",
+        "t": "Furthermore, whom will I serve if not his son? As I served in your father’s presence, I will also serve in yours.”"
+    },
+    {
+        "o": 9336,
+        "r": "csb:2 Samuel:16:20",
+        "t": "Then*p Absalom said to Ahithophel, “Give me your advice. What should we do?”"
+    },
+    {
+        "o": 9337,
+        "r": "csb:2 Samuel:16:21",
+        "t": "Ahithophel*p replied to Absalom, “Sleep with your father’s concubines whom he left to take care of the palace. When all Israel hears that you have become repulsive to your father, everyone with you will be encouraged.”"
+    },
+    {
+        "o": 9338,
+        "r": "csb:2 Samuel:16:22",
+        "t": "So they pitched a tent for Absalom on the roof, and he slept with his father’s concubines in the sight of all Israel."
+    },
+    {
+        "o": 9339,
+        "r": "csb:2 Samuel:16:23",
+        "t": "Now*p the advice Ahithophel gave in those days was like someone asking about a word from God — such was the regard that both David and Absalom had for Ahithophel’s advice."
+    },
+    {
+        "o": 9340,
+        "r": "csb:2 Samuel:17:0",
+        "t": "2 Samuel 17",
+        "h": 1
+    },
+    {
+        "o": 9341,
+        "r": "csb:2 Samuel:17:1",
+        "t": "Ahithophel*p said to Absalom, “Let me choose twelve thousand men, and I will set out in pursuit of David tonight."
+    },
+    {
+        "o": 9342,
+        "r": "csb:2 Samuel:17:2",
+        "t": "I will attack him while he is weary and discouraged, throw him into a panic, and all the people with him will scatter. I will strike down only the king"
+    },
+    {
+        "o": 9343,
+        "r": "csb:2 Samuel:17:3",
+        "t": "and bring all the people back to you. When everyone returns except the man you’re looking for, all the people will be at peace.”"
+    },
+    {
+        "o": 9344,
+        "r": "csb:2 Samuel:17:4",
+        "t": "This proposal seemed right to Absalom and all the elders of Israel."
+    },
+    {
+        "o": 9345,
+        "r": "csb:2 Samuel:17:5",
+        "t": "Then*p Absalom said, “Summon Hushai the Archite also. Let’s hear what he has to say as well.”"
+    },
+    {
+        "o": 9346,
+        "r": "csb:2 Samuel:17:6",
+        "t": "So*p Hushai came to Absalom, and Absalom told him, “Ahithophel offered this proposal. Should we carry out his proposal? If not, what do you say?”"
+    },
+    {
+        "o": 9347,
+        "r": "csb:2 Samuel:17:7",
+        "t": "Hushai*p replied to Absalom, “The advice Ahithophel has given this time is not good.”"
+    },
+    {
+        "o": 9348,
+        "r": "csb:2 Samuel:17:8",
+        "t": "Hushai continued, “You know your father and his men. They are warriors and are desperate like a wild bear robbed of her cubs. Your father is an experienced soldier who won’t spend the night with the people."
+    },
+    {
+        "o": 9349,
+        "r": "csb:2 Samuel:17:9",
+        "t": "He’s probably already hiding in one of the caves or some other place. If some of our troops fall first, someone is sure to hear and say, ‘There’s been a slaughter among the people who follow Absalom.’"
+    },
+    {
+        "o": 9350,
+        "r": "csb:2 Samuel:17:10",
+        "t": "Then, even a brave man with the heart of a lion will lose heart because all Israel knows that your father and the valiant men with him are warriors."
+    },
+    {
+        "o": 9351,
+        "r": "csb:2 Samuel:17:11",
+        "t": "Instead, I advise that all Israel from Dan to Beer-sheba — as numerous as the sand by the sea — be gathered to you and that you personally go into battle."
+    },
+    {
+        "o": 9352,
+        "r": "csb:2 Samuel:17:12",
+        "t": "Then we will attack David wherever we find him, and we will descend on him like dew on the ground. Not even one will be left—neither he nor any of the men with him."
+    },
+    {
+        "o": 9353,
+        "r": "csb:2 Samuel:17:13",
+        "t": "If he retreats to some city, all Israel will bring ropes to that city, and we will drag its stones into the valley until not even a pebble can be found there.”"
+    },
+    {
+        "o": 9354,
+        "r": "csb:2 Samuel:17:14",
+        "t": "Since the Lord*s had decreed that Ahithophel’s good advice be undermined in order to bring about Absalom’s ruin, Absalom and all the men of Israel said, “The advice of Hushai the Archite is better than Ahithophel’s advice.”"
+    },
+    {
+        "o": 9355,
+        "r": "csb:2 Samuel:17:14",
+        "t": "David Informed of Absalom’s Plans",
+        "h": 2
+    },
+    {
+        "o": 9356,
+        "r": "csb:2 Samuel:17:15",
+        "t": "Hushai*p then told the priests Zadok and Abiathar, “This is what Ahithophel advised Absalom and the elders of Israel, and this is what I advised."
+    },
+    {
+        "o": 9357,
+        "r": "csb:2 Samuel:17:16",
+        "t": "Now send someone quickly and tell David, ‘Don’t spend the night at the wilderness ford, but be sure to cross over the Jordan, or the king and all the people with him will be devoured.’”"
+    },
+    {
+        "o": 9358,
+        "r": "csb:2 Samuel:17:17",
+        "t": "Jonathan*p and Ahimaaz were staying at En-rogel, where a servant girl would come and pass along information to them. They in turn would go and inform King David, because they dared not be seen entering the city."
+    },
+    {
+        "o": 9359,
+        "r": "csb:2 Samuel:17:18",
+        "t": "However, a young man did see them and informed Absalom. So the two left quickly and came to the house of a man in Bahurim. He had a well in his courtyard, and they climbed down into it."
+    },
+    {
+        "o": 9360,
+        "r": "csb:2 Samuel:17:19",
+        "t": "Then his wife took the cover, placed it over the mouth of the well, and scattered grain on it so nobody would know anything."
+    },
+    {
+        "o": 9361,
+        "r": "csb:2 Samuel:17:20",
+        "t": "Absalom’s*p servants came to the woman at the house and asked, “Where are Ahimaaz and Jonathan?” “They*p passed by toward the water,” the woman replied to them. The men searched but did not find them, so they returned to Jerusalem."
+    },
+    {
+        "o": 9362,
+        "r": "csb:2 Samuel:17:21",
+        "t": "After*p they had gone, Ahimaaz and Jonathan climbed out of the well and went and informed King David. They told him, “Get up and immediately ford the river, for Ahithophel has given this advice against you.”"
+    },
+    {
+        "o": 9363,
+        "r": "csb:2 Samuel:17:22",
+        "t": "So David and all the people with him got up and crossed the Jordan. By daybreak, there was no one who had not crossed the Jordan."
+    },
+    {
+        "o": 9364,
+        "r": "csb:2 Samuel:17:23",
+        "t": "When*p Ahithophel realized that his advice had not been followed, he saddled his donkey and set out for his house in his hometown. He set his house in order and hanged himself. So he died and was buried in his father’s tomb."
+    },
+    {
+        "o": 9365,
+        "r": "csb:2 Samuel:17:24",
+        "t": "David*p had arrived at Mahanaim by the time Absalom crossed the Jordan with all the men of Israel."
+    },
+    {
+        "o": 9366,
+        "r": "csb:2 Samuel:17:25",
+        "t": "Now Absalom had appointed Amasa over the army in Joab’s place. Amasa was the son of a man named Ithra the Israelite; Ithra had married Abigail daughter of Nahash. Abigail was a sister to Zeruiah, Joab’s mother."
+    },
+    {
+        "o": 9367,
+        "r": "csb:2 Samuel:17:26",
+        "t": "And Israel and Absalom camped in the land of Gilead."
+    },
+    {
+        "o": 9368,
+        "r": "csb:2 Samuel:17:27",
+        "t": "When David came to Mahanaim, Shobi son of Nahash from Rabbah of the Ammonites, Machir son of Ammiel from Lo-debar, and Barzillai the Gileadite from Rogelim"
+    },
+    {
+        "o": 9369,
+        "r": "csb:2 Samuel:17:28",
+        "t": "brought beds, basins, and pottery items. They also brought wheat, barley, flour, roasted grain, beans, lentils,"
+    },
+    {
+        "o": 9370,
+        "r": "csb:2 Samuel:17:29",
+        "t": "honey, curds, sheep, goats, and cheese from the herd for David and the people with him to eat. They had reasoned, “The people must be hungry, exhausted, and thirsty in the wilderness.”"
+    },
+    {
+        "o": 9371,
+        "r": "csb:2 Samuel:18:0",
+        "t": "2 Samuel 18",
+        "h": 1
+    },
+    {
+        "o": 9372,
+        "r": "csb:2 Samuel:18:0",
+        "t": "Absalom’s Defeat",
+        "h": 2
+    },
+    {
+        "o": 9373,
+        "r": "csb:2 Samuel:18:1",
+        "t": "David*p reviewed his troops and appointed commanders of thousands and of hundreds over them."
+    },
+    {
+        "o": 9374,
+        "r": "csb:2 Samuel:18:2",
+        "t": "He then sent out the troops, a third under Joab, a third under Joab’s brother Abishai son of Zeruiah, and a third under Ittai of Gath. The king said to the troops, “I must also march out with you.”"
+    },
+    {
+        "o": 9375,
+        "r": "csb:2 Samuel:18:3",
+        "t": "“You*p must not go!” the people pleaded. “If we have to flee, they will not pay any attention to us. Even if half of us die, they will not pay any attention to us because you are worth ten thousand of us. Therefore, it is better if you support us from the city.”"
+    },
+    {
+        "o": 9376,
+        "r": "csb:2 Samuel:18:4",
+        "t": "“I*p will do whatever you think is best,” the king replied to them. So he stood beside the city gate while all the troops marched out by hundreds and thousands."
+    },
+    {
+        "o": 9377,
+        "r": "csb:2 Samuel:18:5",
+        "t": "The king commanded Joab, Abishai, and Ittai, “Treat the young man Absalom gently for my sake.” All the people heard the king’s orders to all the commanders about Absalom."
+    },
+    {
+        "o": 9378,
+        "r": "csb:2 Samuel:18:6",
+        "t": "Then*p David’s forces marched into the field to engage Israel in battle, which took place in the forest of Ephraim."
+    },
+    {
+        "o": 9379,
+        "r": "csb:2 Samuel:18:7",
+        "t": "Israel’s army was defeated by David’s soldiers, and the slaughter there was vast that day — twenty thousand dead."
+    },
+    {
+        "o": 9380,
+        "r": "csb:2 Samuel:18:8",
+        "t": "The battle spread over the entire area, and that day the forest claimed more people than the sword."
+    },
+    {
+        "o": 9381,
+        "r": "csb:2 Samuel:18:8",
+        "t": "Absalom’s Death",
+        "h": 2
+    },
+    {
+        "o": 9382,
+        "r": "csb:2 Samuel:18:9",
+        "t": "Absalom*p was riding on his mule when he happened to meet David’s soldiers. When the mule went under the tangled branches of a large oak tree, Absalom’s head was caught fast in the tree. The mule under him kept going, so he was suspended in midair."
+    },
+    {
+        "o": 9383,
+        "r": "csb:2 Samuel:18:10",
+        "t": "One of the men saw him and informed Joab. He said, “I just saw Absalom hanging in an oak tree!”"
+    },
+    {
+        "o": 9384,
+        "r": "csb:2 Samuel:18:11",
+        "t": "“You*p just saw him!” Joab exclaimed. “Why didn’t you strike him to the ground right there? I would have given you ten silver pieces and a belt!”"
+    },
+    {
+        "o": 9385,
+        "r": "csb:2 Samuel:18:12",
+        "t": "The*p man replied to Joab, “Even if I had the weight of a thousand pieces of silver in my hand, I would not raise my hand against the king’s son. For we heard the king command you, Abishai, and Ittai, ‘Protect the young man Absalom for me.’"
+    },
+    {
+        "o": 9386,
+        "r": "csb:2 Samuel:18:13",
+        "t": "If I had jeopardized my own life — and nothing is hidden from the king — you would have abandoned me.”"
+    },
+    {
+        "o": 9387,
+        "r": "csb:2 Samuel:18:14",
+        "t": "Joab*p said, “I’m not going to waste time with you!” He then took three spears in his hand and thrust them into Absalom’s chest. While Absalom was still alive in the oak tree,"
+    },
+    {
+        "o": 9388,
+        "r": "csb:2 Samuel:18:15",
+        "t": "ten young men who were Joab’s armor-bearers surrounded Absalom, struck him, and killed him."
+    },
+    {
+        "o": 9389,
+        "r": "csb:2 Samuel:18:16",
+        "t": "Joab blew the ram’s horn, and the troops broke off their pursuit of Israel because Joab restrained them."
+    },
+    {
+        "o": 9390,
+        "r": "csb:2 Samuel:18:17",
+        "t": "They took Absalom, threw him into a large pit in the forest, and raised up a huge mound of stones over him. And all Israel fled, each to his tent."
+    },
+    {
+        "o": 9391,
+        "r": "csb:2 Samuel:18:18",
+        "t": "When*p he was alive, Absalom had taken a pillar and raised it up for himself in the King’s Valley, since he thought, “I have no son to preserve the memory of my name.” So he named the pillar after himself. It is still called Absalom’s Monument today."
+    },
+    {
+        "o": 9392,
+        "r": "csb:2 Samuel:18:19",
+        "t": "Ahimaaz*p son of Zadok said, “Please let me run and tell the king the good news that the Lord*s has vindicated him by freeing him from his enemies.”"
+    },
+    {
+        "o": 9393,
+        "r": "csb:2 Samuel:18:20",
+        "t": "Joab*p replied to him, “You are not the man to take good news today. You may do it another day, but today you aren’t taking good news, because the king’s son is dead.”"
+    },
+    {
+        "o": 9394,
+        "r": "csb:2 Samuel:18:21",
+        "t": "Joab then said to a Cushite, “Go tell the king what you have seen.” The Cushite bowed to Joab and took off running."
+    },
+    {
+        "o": 9395,
+        "r": "csb:2 Samuel:18:22",
+        "t": "However,*p Ahimaaz son of Zadok persisted and said to Joab, “No matter what, please let me also run behind the Cushite!” Joab*p replied, “My son, why do you want to run since you won’t get a reward?”"
+    },
+    {
+        "o": 9396,
+        "r": "csb:2 Samuel:18:23",
+        "t": "“No*p matter what, I want to run!” “Then*p run!” Joab said to him. So Ahimaaz ran by way of the plain and outran the Cushite."
+    },
+    {
+        "o": 9397,
+        "r": "csb:2 Samuel:18:24",
+        "t": "David*p was sitting between the city gates when the watchman went up to the roof of the city gate and over to the wall. The watchman looked out and saw a man running alone."
+    },
+    {
+        "o": 9398,
+        "r": "csb:2 Samuel:18:25",
+        "t": "He called out and told the king. The*p king said, “If he’s alone, he bears good news.” As*p the first runner came closer,"
+    },
+    {
+        "o": 9399,
+        "r": "csb:2 Samuel:18:26",
+        "t": "the watchman saw another man running. He called out to the gatekeeper, “Look! Another man is running alone!” “This*p one is also bringing good news,” said the king."
+    },
+    {
+        "o": 9400,
+        "r": "csb:2 Samuel:18:27",
+        "t": "The*p watchman said, “The way the first man runs looks to me like the way Ahimaaz son of Zadok runs.” “This*p is a good man; he comes with good news,” the king commented."
+    },
+    {
+        "o": 9401,
+        "r": "csb:2 Samuel:18:28",
+        "t": "Ahimaaz*p called out to the king, “All is well,” and paid homage to the king with his face to the ground. He continued, “Blessed be the Lord*s your God! He delivered up the men who rebelled against my lord the king.”"
+    },
+    {
+        "o": 9402,
+        "r": "csb:2 Samuel:18:29",
+        "t": "The*p king asked, “Is the young man Absalom all right?” Ahimaaz*p replied, “When Joab sent the king’s servant and your servant, I saw a big disturbance, but I don’t know what it was.”"
+    },
+    {
+        "o": 9403,
+        "r": "csb:2 Samuel:18:30",
+        "t": "The*p king said, “Move aside and stand here.” So he stood to one side."
+    },
+    {
+        "o": 9404,
+        "r": "csb:2 Samuel:18:31",
+        "t": "Just*p then the Cushite came and said, “May my lord the king hear the good news: The Lord*s has vindicated you today by freeing you from all who rise against you!”"
+    },
+    {
+        "o": 9405,
+        "r": "csb:2 Samuel:18:32",
+        "t": "The*p king asked the Cushite, “Is the young man Absalom all right?” The*p Cushite replied, “I wish that the enemies of my lord the king, along with all who rise up against you with evil intent, would become like that young man.”"
+    },
+    {
+        "o": 9406,
+        "r": "csb:2 Samuel:18:33",
+        "t": "The*p king was deeply moved and went up to the chamber above the city gate and wept. As he walked, he cried, “My son Absalom! My son, my son Absalom! If only I had died instead of you, Absalom, my son, my son!”"
+    },
+    {
+        "o": 9407,
+        "r": "csb:2 Samuel:19:0",
+        "t": "2 Samuel 19",
+        "h": 1
+    },
+    {
+        "o": 9408,
+        "r": "csb:2 Samuel:19:0",
+        "t": "David’s Kingdom Restored",
+        "h": 2
+    },
+    {
+        "o": 9409,
+        "r": "csb:2 Samuel:19:1",
+        "t": "It*p was reported to Joab, “The king is weeping. He’s mourning over Absalom.”"
+    },
+    {
+        "o": 9410,
+        "r": "csb:2 Samuel:19:2",
+        "t": "That day’s victory was turned into mourning for all the troops because on that day the troops heard, “The king is grieving over his son.”"
+    },
+    {
+        "o": 9411,
+        "r": "csb:2 Samuel:19:3",
+        "t": "So they returned to the city quietly that day like troops come in when they are humiliated after fleeing in battle."
+    },
+    {
+        "o": 9412,
+        "r": "csb:2 Samuel:19:4",
+        "t": "But the king covered his face and cried loudly, “My son Absalom! Absalom, my son, my son!”"
+    },
+    {
+        "o": 9413,
+        "r": "csb:2 Samuel:19:5",
+        "t": "Then*p Joab went into the house to the king and said, “Today you have shamed all your soldiers — those who saved your life as well as your sons, your wives, and your concubines —"
+    },
+    {
+        "o": 9414,
+        "r": "csb:2 Samuel:19:6",
+        "t": "by loving your enemies and hating those who love you! Today you have made it clear that the commanders and soldiers mean nothing to you. In fact, today I know that if Absalom were alive and all of us were dead, it would be fine with you!"
+    },
+    {
+        "o": 9415,
+        "r": "csb:2 Samuel:19:7",
+        "t": "“Now*p get up! Go out and encourage your soldiers, for I swear by the Lord*s that if you don’t go out, not a man will remain with you tonight. This will be worse for you than all the trouble that has come to you from your youth until now!”"
+    },
+    {
+        "o": 9416,
+        "r": "csb:2 Samuel:19:8",
+        "t": "So*p the king got up and sat in the city gate, and all the people were told, “Look, the king is sitting in the city gate.” Then they all came into the king’s presence. Meanwhile,*p each Israelite had fled to his tent."
+    },
+    {
+        "o": 9417,
+        "r": "csb:2 Samuel:19:9",
+        "t": "People throughout all the tribes of Israel were arguing among themselves, saying, “The king rescued us from the grasp of our enemies, and he saved us from the grasp of the Philistines, but now he has fled from the land because of Absalom."
+    },
+    {
+        "o": 9418,
+        "r": "csb:2 Samuel:19:10",
+        "t": "But Absalom, the man we anointed over us, has died in battle. So why do you say nothing about restoring the king?”"
+    },
+    {
+        "o": 9419,
+        "r": "csb:2 Samuel:19:11",
+        "t": "King*p David sent word to the priests Zadok and Abiathar: “Say to the elders of Judah, ‘Why should you be the last to restore the king to his palace? The talk of all Israel has reached the king at his house."
+    },
+    {
+        "o": 9420,
+        "r": "csb:2 Samuel:19:12",
+        "t": "You are my brothers, my flesh and blood. So why should you be the last to restore the king?’"
+    },
+    {
+        "o": 9421,
+        "r": "csb:2 Samuel:19:13",
+        "t": "And tell Amasa, ‘Aren’t you my flesh and blood? May God punish me and do so severely if you don’t become commander of my army from now on instead of Joab! ’”"
+    },
+    {
+        "o": 9422,
+        "r": "csb:2 Samuel:19:14",
+        "t": "So*p he won over all the men of Judah, and they unanimously sent word to the king: “Come back, you and all your servants.”"
+    },
+    {
+        "o": 9423,
+        "r": "csb:2 Samuel:19:15",
+        "t": "Then the king returned. When he arrived at the Jordan, Judah came to Gilgal to meet the king and escort him across the Jordan."
+    },
+    {
+        "o": 9424,
+        "r": "csb:2 Samuel:19:16",
+        "t": "Shimei*p son of Gera, the Benjaminite from Bahurim, hurried down with the men of Judah to meet King David."
+    },
+    {
+        "o": 9425,
+        "r": "csb:2 Samuel:19:17",
+        "t": "There were a thousand men from Benjamin with him. Ziba, an attendant from the house of Saul, with his fifteen sons and twenty servants also rushed down to the Jordan ahead of the king."
+    },
+    {
+        "o": 9426,
+        "r": "csb:2 Samuel:19:18",
+        "t": "They forded the Jordan to bring the king’s household across and do whatever the king desired. When*p Shimei son of Gera crossed the Jordan, he fell facedown before the king"
+    },
+    {
+        "o": 9427,
+        "r": "csb:2 Samuel:19:19",
+        "t": "and said to him, “My lord, don’t hold me guilty, and don’t remember your servant’s wrongdoing on the day my lord the king left Jerusalem. May the king not take it to heart."
+    },
+    {
+        "o": 9428,
+        "r": "csb:2 Samuel:19:20",
+        "t": "For your servant knows that I have sinned. But look! Today I am the first one of the entire house of Joseph to come down to meet my lord the king.”"
+    },
+    {
+        "o": 9429,
+        "r": "csb:2 Samuel:19:21",
+        "t": "Abishai*p son of Zeruiah asked, “Shouldn’t Shimei be put to death for this, because he cursed the Lord’s*s anointed?”"
+    },
+    {
+        "o": 9430,
+        "r": "csb:2 Samuel:19:22",
+        "t": "David*p answered, “Sons of Zeruiah, do we agree on anything? Have you become my adversary today? Should any man be killed in Israel today? Am I not aware that today I’m king over Israel?”"
+    },
+    {
+        "o": 9431,
+        "r": "csb:2 Samuel:19:23",
+        "t": "So the king said to Shimei, “You will not die.” Then the king gave him his oath."
+    },
+    {
+        "o": 9432,
+        "r": "csb:2 Samuel:19:24",
+        "t": "Mephibosheth,*p Saul’s grandson, also went down to meet the king. He had not taken care of his feet, trimmed his mustache, or washed his clothes from the day the king left until the day he returned safely."
+    },
+    {
+        "o": 9433,
+        "r": "csb:2 Samuel:19:25",
+        "t": "When he came from Jerusalem to meet the king, the king asked him, “Mephibosheth, why didn’t you come with me?”"
+    },
+    {
+        "o": 9434,
+        "r": "csb:2 Samuel:19:26",
+        "t": "“My*p lord the king,” he replied, “my servant Ziba betrayed me. Actually your servant said, ‘I’ll saddle the donkey for myself so that I may ride it and go with the king’ — for your servant is lame."
+    },
+    {
+        "o": 9435,
+        "r": "csb:2 Samuel:19:27",
+        "t": "Ziba slandered your servant to my lord the king. But my lord the king is like the angel of God, so do whatever you think best."
+    },
+    {
+        "o": 9436,
+        "r": "csb:2 Samuel:19:28",
+        "t": "For my grandfather’s entire family deserves death from my lord the king, but you set your servant among those who eat at your table. So what further right do I have to keep on making appeals to the king?”"
+    },
+    {
+        "o": 9437,
+        "r": "csb:2 Samuel:19:29",
+        "t": "The*p king said to him, “Why keep on speaking about these matters of yours? I hereby declare: you and Ziba are to divide the land.”"
+    },
+    {
+        "o": 9438,
+        "r": "csb:2 Samuel:19:30",
+        "t": "Mephibosheth*p said to the king, “Instead, since my lord the king has come to his palace safely, let Ziba take it all!”"
+    },
+    {
+        "o": 9439,
+        "r": "csb:2 Samuel:19:31",
+        "t": "Barzillai*p the Gileadite had come down from Rogelim and accompanied the king to the Jordan River to see him off at the Jordan."
+    },
+    {
+        "o": 9440,
+        "r": "csb:2 Samuel:19:32",
+        "t": "Barzillai was a very old man — eighty years old — and since he was a very wealthy man, he had provided for the needs of the king while he stayed in Mahanaim."
+    },
+    {
+        "o": 9441,
+        "r": "csb:2 Samuel:19:33",
+        "t": "The*p king said to Barzillai, “Cross over with me, and I’ll provide for you at my side in Jerusalem.”"
+    },
+    {
+        "o": 9442,
+        "r": "csb:2 Samuel:19:34",
+        "t": "Barzillai*p replied to the king, “How many years of my life are left that I should go up to Jerusalem with the king?"
+    },
+    {
+        "o": 9443,
+        "r": "csb:2 Samuel:19:35",
+        "t": "I’m now eighty years old. Can I discern what is pleasant and what is not? Can your servant taste what he eats or drinks? Can I still hear the voice of male and female singers? Why should your servant be an added burden to my lord the king?"
+    },
+    {
+        "o": 9444,
+        "r": "csb:2 Samuel:19:36",
+        "t": "Since your servant is only going with the king a little way across the Jordan, why should the king repay me with such a reward?"
+    },
+    {
+        "o": 9445,
+        "r": "csb:2 Samuel:19:37",
+        "t": "Please let your servant return so that I may die in my own city near the tomb of my father and mother. But here is your servant Chimham; let him cross over with my lord the king. Do for him what seems good to you.”"
+    },
+    {
+        "o": 9446,
+        "r": "csb:2 Samuel:19:38",
+        "t": "The*p king replied, “Chimham will cross over with me, and I will do for him what seems good to you, and whatever you desire from me I will do for you.”"
+    },
+    {
+        "o": 9447,
+        "r": "csb:2 Samuel:19:39",
+        "t": "So all the people crossed the Jordan, and then the king crossed. The king kissed Barzillai and blessed him, and Barzillai returned to his home."
+    },
+    {
+        "o": 9448,
+        "r": "csb:2 Samuel:19:40",
+        "t": "The*p king went on to Gilgal, and Chimham went with him. All the troops of Judah and half of Israel’s escorted the king."
+    },
+    {
+        "o": 9449,
+        "r": "csb:2 Samuel:19:41",
+        "t": "Suddenly, all the men of Israel came to the king. They asked him, “Why did our brothers, the men of Judah, take you away secretly and transport the king and his household across the Jordan, along with all of David’s men?”"
+    },
+    {
+        "o": 9450,
+        "r": "csb:2 Samuel:19:42",
+        "t": "All*p the men of Judah responded to the men of Israel, “Because the king is our relative. Why does this make you angry? Have we ever eaten anything of the king’s or been honored at all?”"
+    },
+    {
+        "o": 9451,
+        "r": "csb:2 Samuel:19:43",
+        "t": "The*p men of Israel answered the men of Judah, “We have ten shares in the king, so we have a greater claim to David than you. Why then do you despise us? Weren’t we the first to speak of restoring our king?” But the words of the men of Judah were harsher than those of the men of Israel."
+    },
+    {
+        "o": 9452,
+        "r": "csb:2 Samuel:20:0",
+        "t": "2 Samuel 20",
+        "h": 1
+    },
+    {
+        "o": 9453,
+        "r": "csb:2 Samuel:20:0",
+        "t": "Sheba’s Revolt",
+        "h": 2
+    },
+    {
+        "o": 9454,
+        "r": "csb:2 Samuel:20:1",
+        "t": "Now*p a wicked man, a Benjaminite named Sheba son of Bichri, happened to be there. He blew the ram’s horn and shouted: We*pn have no portion in David, no*ln inheritance in Jesse’s son. Each*ln man to his tent, Israel!"
+    },
+    {
+        "o": 9455,
+        "r": "csb:2 Samuel:20:2",
+        "t": "So*p all the men of Israel deserted David and followed Sheba son of Bichri, but the men of Judah from the Jordan all the way to Jerusalem remained loyal to their king."
+    },
+    {
+        "o": 9456,
+        "r": "csb:2 Samuel:20:3",
+        "t": "When*p David came to his palace in Jerusalem, he took the ten concubines he had left to take care of the palace and placed them under guard. He provided for them, but he was not intimate with them. They were confined until the day of their death, living as widows."
+    },
+    {
+        "o": 9457,
+        "r": "csb:2 Samuel:20:4",
+        "t": "The*p king said to Amasa, “Summon the men of Judah to me within three days and be here yourself.”"
+    },
+    {
+        "o": 9458,
+        "r": "csb:2 Samuel:20:5",
+        "t": "Amasa went to summon Judah, but he took longer than the time allotted him."
+    },
+    {
+        "o": 9459,
+        "r": "csb:2 Samuel:20:6",
+        "t": "So David said to Abishai, “Sheba son of Bichri will do more harm to us than Absalom. Take your lord’s soldiers and pursue him, or he will find fortified cities and elude us.”"
+    },
+    {
+        "o": 9460,
+        "r": "csb:2 Samuel:20:7",
+        "t": "So*p Joab’s men, the Cherethites, the Pelethites, and all the warriors marched out under Abishai’s command; they left Jerusalem to pursue Sheba son of Bichri."
+    },
+    {
+        "o": 9461,
+        "r": "csb:2 Samuel:20:8",
+        "t": "They were at the great stone in Gibeon when Amasa joined them. Joab was wearing his uniform and over it was a belt around his waist with a sword in its sheath. As he approached, the sword fell out."
+    },
+    {
+        "o": 9462,
+        "r": "csb:2 Samuel:20:9",
+        "t": "Joab asked Amasa, “Are you well, my brother?” Then with his right hand Joab grabbed Amasa by the beard to kiss him."
+    },
+    {
+        "o": 9463,
+        "r": "csb:2 Samuel:20:10",
+        "t": "Amasa was not on guard against the sword in Joab’s hand, and Joab stabbed him in the stomach with it and spilled his intestines out on the ground. Joab did not stab him again, and Amasa died. Joab*p and his brother Abishai pursued Sheba son of Bichri."
+    },
+    {
+        "o": 9464,
+        "r": "csb:2 Samuel:20:11",
+        "t": "One of Joab’s young men had stood over Amasa saying, “Whoever favors Joab and whoever is for David, follow Joab!”"
+    },
+    {
+        "o": 9465,
+        "r": "csb:2 Samuel:20:12",
+        "t": "Now Amasa had been writhing in his blood in the middle of the highway, and the man had seen that all the troops stopped. So he moved Amasa from the highway to the field and threw a garment over him because he realized that all those who encountered Amasa were stopping."
+    },
+    {
+        "o": 9466,
+        "r": "csb:2 Samuel:20:13",
+        "t": "When he was removed from the highway, all the men passed by and followed Joab to pursue Sheba son of Bichri."
+    },
+    {
+        "o": 9467,
+        "r": "csb:2 Samuel:20:14",
+        "t": "Sheba*p passed through all the tribes of Israel to Abel of Beth-maacah. All the Berites came together and followed him."
+    },
+    {
+        "o": 9468,
+        "r": "csb:2 Samuel:20:15",
+        "t": "Joab’s troops came and besieged Sheba in Abel of Beth-maacah. They built a siege ramp against the outer wall of the city. While all the troops with Joab were battering the wall to make it collapse,"
+    },
+    {
+        "o": 9469,
+        "r": "csb:2 Samuel:20:16",
+        "t": "a wise woman called out from the city, “Listen! Listen! Please tell Joab to come here and let me speak with him.”"
+    },
+    {
+        "o": 9470,
+        "r": "csb:2 Samuel:20:17",
+        "t": "When*p he had come near her, the woman asked, “Are you Joab?” “I*p am,” he replied. “Listen*p to the words of your servant,” she said to him. He*p answered, “I’m listening.”"
+    },
+    {
+        "o": 9471,
+        "r": "csb:2 Samuel:20:18",
+        "t": "She*p said, “In the past they used to say, ‘Seek counsel in Abel,’ and that’s how they settled disputes."
+    },
+    {
+        "o": 9472,
+        "r": "csb:2 Samuel:20:19",
+        "t": "I am one of the peaceful and faithful in Israel, but you’re trying to destroy a city that is like a mother in Israel. Why would you devour the Lord’s*s inheritance?”"
+    },
+    {
+        "o": 9473,
+        "r": "csb:2 Samuel:20:20",
+        "t": "Joab*p protested: “Never! I would never devour or demolish!"
+    },
+    {
+        "o": 9474,
+        "r": "csb:2 Samuel:20:21",
+        "t": "That is not the case. There is a man named Sheba son of Bichri, from the hill country of Ephraim, who has rebelled against King David. Deliver this one man, and I will withdraw from the city.” The*p woman replied to Joab, “Watch! His head will be thrown over the wall to you.”"
+    },
+    {
+        "o": 9475,
+        "r": "csb:2 Samuel:20:22",
+        "t": "The woman went to all the people with her wise counsel, and they cut off the head of Sheba son of Bichri and threw it to Joab. So he blew the ram’s horn, and they dispersed from the city, each to his own tent. Joab returned to the king in Jerusalem."
+    },
+    {
+        "o": 9476,
+        "r": "csb:2 Samuel:20:23",
+        "t": "Joab*ln commanded the whole army of Israel; Benaiah*ln son of Jehoiada was over the Cherethites and Pelethites;"
+    },
+    {
+        "o": 9477,
+        "r": "csb:2 Samuel:20:24",
+        "t": "Adoram*ln was over forced labor; Jehoshaphat*ln son of Ahilud was court historian;"
+    },
+    {
+        "o": 9478,
+        "r": "csb:2 Samuel:20:25",
+        "t": "Sheva*ln was court secretary; Zadok*ln and Abiathar were priests;"
+    },
+    {
+        "o": 9479,
+        "r": "csb:2 Samuel:20:26",
+        "t": "and*ln in addition, Ira the Jairite was David’s priest."
+    },
+    {
+        "o": 9480,
+        "r": "csb:2 Samuel:21:0",
+        "t": "2 Samuel 21",
+        "h": 1
+    },
+    {
+        "o": 9481,
+        "r": "csb:2 Samuel:21:0",
+        "t": "Justice for the Gibeonites",
+        "h": 2
+    },
+    {
+        "o": 9482,
+        "r": "csb:2 Samuel:21:1",
+        "t": "During*p David’s reign there was a famine for three successive years, so David inquired of the Lord.*s The Lord*s answered, “It is due to Saul and to his bloody family, because he killed the Gibeonites.”"
+    },
+    {
+        "o": 9483,
+        "r": "csb:2 Samuel:21:2",
+        "t": "The*p Gibeonites were not Israelites but rather a remnant of the Amorites. The Israelites had taken an oath concerning them, but Saul had tried to kill them in his zeal for the Israelites and Judah. So David summoned the Gibeonites and spoke to them."
+    },
+    {
+        "o": 9484,
+        "r": "csb:2 Samuel:21:3",
+        "t": "He asked the Gibeonites, “What should I do for you? How can I make atonement so that you will bring a blessing on the Lord’s*s inheritance?”"
+    },
+    {
+        "o": 9485,
+        "r": "csb:2 Samuel:21:4",
+        "t": "The*p Gibeonites said to him, “We are not asking for silver and gold from Saul or his family, and we cannot put anyone to death in Israel.” “Whatever*p you say, I will do for you,” he said."
+    },
+    {
+        "o": 9486,
+        "r": "csb:2 Samuel:21:5",
+        "t": "They*p replied to the king, “As for the man who annihilated us and plotted to destroy us so we would not exist within the whole territory of Israel,"
+    },
+    {
+        "o": 9487,
+        "r": "csb:2 Samuel:21:6",
+        "t": "let seven of his male descendants be handed over to us so we may hang them in the presence of the Lord*s at Gibeah of Saul, the Lord’s*s chosen.” The*p king answered, “I will hand them over.”"
+    },
+    {
+        "o": 9488,
+        "r": "csb:2 Samuel:21:7",
+        "t": "David*p spared Mephibosheth, the son of Saul’s son Jonathan, because of the oath of the Lord*s that was between David and Jonathan, Saul’s son."
+    },
+    {
+        "o": 9489,
+        "r": "csb:2 Samuel:21:8",
+        "t": "But the king took Armoni and Mephibosheth, who were the two sons whom Rizpah daughter of Aiah had borne to Saul, and the five sons whom Merab daughter of Saul had borne to Adriel son of Barzillai the Meholathite"
+    },
+    {
+        "o": 9490,
+        "r": "csb:2 Samuel:21:9",
+        "t": "and handed them over to the Gibeonites. They hanged them on the hill in the presence of the Lord;*s the seven of them died together. They were executed in the first days of the harvest at the beginning of the barley harvest."
+    },
+    {
+        "o": 9491,
+        "r": "csb:2 Samuel:21:9",
+        "t": "The Burial of Saul’s Family",
+        "h": 2
+    },
+    {
+        "o": 9492,
+        "r": "csb:2 Samuel:21:10",
+        "t": "Rizpah,*p Aiah’s daughter, took sackcloth and spread it out for herself on the rock from the beginning of the harvest until the rain poured down from heaven on the bodies. She kept the birds of the sky from them by day and the wild animals by night."
+    },
+    {
+        "o": 9493,
+        "r": "csb:2 Samuel:21:11",
+        "t": "When*p it was reported to David what Saul’s concubine Rizpah daughter of Aiah had done,"
+    },
+    {
+        "o": 9494,
+        "r": "csb:2 Samuel:21:12",
+        "t": "he went and got the bones of Saul and his son Jonathan from the citizens of Jabesh-gilead. They had stolen them from the public square of Beth-shan where the Philistines had hung the bodies the day the Philistines killed Saul at Gilboa."
+    },
+    {
+        "o": 9495,
+        "r": "csb:2 Samuel:21:13",
+        "t": "David had the bones brought from there. They gathered up the bones of Saul’s family who had been hanged"
+    },
+    {
+        "o": 9496,
+        "r": "csb:2 Samuel:21:14",
+        "t": "and buried the bones of Saul and his son Jonathan at Zela in the land of Benjamin in the tomb of Saul’s father Kish. They did everything the king commanded. After this, God was receptive to prayer for the land."
+    },
+    {
+        "o": 9497,
+        "r": "csb:2 Samuel:21:14",
+        "t": "The Philistine Giants",
+        "h": 2
+    },
+    {
+        "o": 9498,
+        "r": "csb:2 Samuel:21:15",
+        "t": "The*p Philistines again waged war against Israel. David went down with his soldiers, and they fought the Philistines, but David became exhausted."
+    },
+    {
+        "o": 9499,
+        "r": "csb:2 Samuel:21:16",
+        "t": "Then Ishbi-benob, one of the descendants of the giant, whose bronze spear weighed about eight pounds and who wore new armor, intended to kill David."
+    },
+    {
+        "o": 9500,
+        "r": "csb:2 Samuel:21:17",
+        "t": "But Abishai son of Zeruiah came to his aid, struck the Philistine, and killed him. Then David’s men swore to him, “You must never again go out with us to battle. You must not extinguish the lamp of Israel.”"
+    },
+    {
+        "o": 9501,
+        "r": "csb:2 Samuel:21:18",
+        "t": "After*p this, there was another battle with the Philistines at Gob. At that time Sibbecai the Hushathite killed Saph, who was one of the descendants of the giant."
+    },
+    {
+        "o": 9502,
+        "r": "csb:2 Samuel:21:19",
+        "t": "Once*p again there was a battle with the Philistines at Gob, and Elhanan son of Jaare-oregim the Bethlehemite killed Goliath of Gath. The shaft of his spear was like a weaver’s beam."
+    },
+    {
+        "o": 9503,
+        "r": "csb:2 Samuel:21:20",
+        "t": "At*p Gath there was still another battle. A huge man was there with six fingers on each hand and six toes on each foot — twenty-four in all. He, too, was descended from the giant."
+    },
+    {
+        "o": 9504,
+        "r": "csb:2 Samuel:21:21",
+        "t": "When he taunted Israel, Jonathan, son of David’s brother Shimei, killed him."
+    },
+    {
+        "o": 9505,
+        "r": "csb:2 Samuel:21:22",
+        "t": "These*p four were descended from the giant in Gath and were killed by David and his soldiers."
+    },
+    {
+        "o": 9506,
+        "r": "csb:2 Samuel:22:0",
+        "t": "2 Samuel 22",
+        "h": 1
+    },
+    {
+        "o": 9507,
+        "r": "csb:2 Samuel:22:0",
+        "t": "David’s Song of Thanksgiving",
+        "h": 2
+    },
+    {
+        "o": 9508,
+        "r": "csb:2 Samuel:22:1",
+        "t": "David*p spoke the words of this song to the Lord*s on the day the Lord*s rescued him from the grasp of all his enemies and from the grasp of Saul."
+    },
+    {
+        "o": 9509,
+        "r": "csb:2 Samuel:22:2",
+        "t": "He said: The*pn Lord*s is my rock, my fortress, and my deliverer,"
+    },
+    {
+        "o": 9510,
+        "r": "csb:2 Samuel:22:3",
+        "t": "my*ln God, my rock where I seek refuge. My*ln shield, the horn of my salvation, my stronghold, my refuge, and*ln my Savior, you save me from violence."
+    },
+    {
+        "o": 9511,
+        "r": "csb:2 Samuel:22:4",
+        "t": "I*ln called to the Lord,*s who is worthy of praise, and*ln I was saved from my enemies."
+    },
+    {
+        "o": 9512,
+        "r": "csb:2 Samuel:22:5",
+        "t": "For*ln the waves of death engulfed me; the*ln torrents of destruction terrified me."
+    },
+    {
+        "o": 9513,
+        "r": "csb:2 Samuel:22:6",
+        "t": "The*ln ropes of Sheol entangled me; the*ln snares of death confronted me."
+    },
+    {
+        "o": 9514,
+        "r": "csb:2 Samuel:22:7",
+        "t": "I*pn called to the Lord*s in my distress; I*ln called to my God. From*ln his temple he heard my voice, and*ln my cry for help reached his ears."
+    },
+    {
+        "o": 9515,
+        "r": "csb:2 Samuel:22:8",
+        "t": "Then*ln the earth shook and quaked; the*ln foundations of the heavens trembled; they*ln shook because he burned with anger."
+    },
+    {
+        "o": 9516,
+        "r": "csb:2 Samuel:22:9",
+        "t": "Smoke*ln rose from his nostrils, and*ln consuming fire came from his mouth; coals*ln were set ablaze by it."
+    },
+    {
+        "o": 9517,
+        "r": "csb:2 Samuel:22:10",
+        "t": "He*ln bent the heavens and came down, total*ln darkness beneath his feet."
+    },
+    {
+        "o": 9518,
+        "r": "csb:2 Samuel:22:11",
+        "t": "He*ln rode on a cherub and flew, soaring*ln on the wings of the wind."
+    },
+    {
+        "o": 9519,
+        "r": "csb:2 Samuel:22:12",
+        "t": "He*ln made darkness a canopy around him, a*ln gathering of water and thick clouds."
+    },
+    {
+        "o": 9520,
+        "r": "csb:2 Samuel:22:13",
+        "t": "From*ln the radiance of his presence, blazing*ln coals were ignited."
+    },
+    {
+        "o": 9521,
+        "r": "csb:2 Samuel:22:14",
+        "t": "The*ln Lord*s thundered from heaven; the*ln Most High made his voice heard."
+    },
+    {
+        "o": 9522,
+        "r": "csb:2 Samuel:22:15",
+        "t": "He*ln shot arrows and scattered them; he*ln hurled lightning bolts and routed them."
+    },
+    {
+        "o": 9523,
+        "r": "csb:2 Samuel:22:16",
+        "t": "The*ln depths of the sea became visible, the*ln foundations of the world were exposed at*ln the rebuke of the Lord,*s at*ln the blast of the breath of his nostrils."
+    },
+    {
+        "o": 9524,
+        "r": "csb:2 Samuel:22:17",
+        "t": "He*pn reached down from on high and*ln took hold of me; he*ln pulled me out of deep water."
+    },
+    {
+        "o": 9525,
+        "r": "csb:2 Samuel:22:18",
+        "t": "He*ln rescued me from my powerful enemy and*ln from those who hated me, for*ln they were too strong for me."
+    },
+    {
+        "o": 9526,
+        "r": "csb:2 Samuel:22:19",
+        "t": "They*ln confronted me in the day of my calamity, but*ln the Lord*s was my support."
+    },
+    {
+        "o": 9527,
+        "r": "csb:2 Samuel:22:20",
+        "t": "He*ln brought me out to a spacious place; he*ln rescued me because he delighted in me."
+    },
+    {
+        "o": 9528,
+        "r": "csb:2 Samuel:22:21",
+        "t": "The*pn Lord*s rewarded me according*ln to my righteousness; he*ln repaid me according*ln to the cleanness of my hands."
+    },
+    {
+        "o": 9529,
+        "r": "csb:2 Samuel:22:22",
+        "t": "For*ln I have kept the ways of the Lord*s and*ln have not turned from my God to wickedness."
+    },
+    {
+        "o": 9530,
+        "r": "csb:2 Samuel:22:23",
+        "t": "Indeed,*ln I let all his ordinances guide me and*ln have not disregarded his statutes."
+    },
+    {
+        "o": 9531,
+        "r": "csb:2 Samuel:22:24",
+        "t": "I*ln was blameless before him and*ln kept myself from my iniquity."
+    },
+    {
+        "o": 9532,
+        "r": "csb:2 Samuel:22:25",
+        "t": "So*ln the Lord*s repaid me according*ln to my righteousness, according*ln to my cleanness in his sight."
+    },
+    {
+        "o": 9533,
+        "r": "csb:2 Samuel:22:26",
+        "t": "With*pn the faithful you*ln prove yourself faithful, with*ln the blameless you*ln prove yourself blameless,"
+    },
+    {
+        "o": 9534,
+        "r": "csb:2 Samuel:22:27",
+        "t": "with*ln the pure you*ln prove yourself pure, but*ln with the crooked you*ln prove yourself shrewd."
+    },
+    {
+        "o": 9535,
+        "r": "csb:2 Samuel:22:28",
+        "t": "You*ln rescue an oppressed people, but*ln your eyes are set against the proud — you*ln humble them."
+    },
+    {
+        "o": 9536,
+        "r": "csb:2 Samuel:22:29",
+        "t": "Lord,*sln you are my lamp; the*ln Lord*s illuminates my darkness."
+    },
+    {
+        "o": 9537,
+        "r": "csb:2 Samuel:22:30",
+        "t": "With*ln you I can attack a barricade, and*ln with my God I can leap over a wall."
+    },
+    {
+        "o": 9538,
+        "r": "csb:2 Samuel:22:31",
+        "t": "God — his*ln way is perfect; the*ln word of the Lord*s is pure. He*ln is a shield to all who take refuge in him."
+    },
+    {
+        "o": 9539,
+        "r": "csb:2 Samuel:22:32",
+        "t": "For*pn who is God besides the Lord?*s And*ln who is a rock? Only our God."
+    },
+    {
+        "o": 9540,
+        "r": "csb:2 Samuel:22:33",
+        "t": "God*ln is my strong refuge; he*ln makes my way perfect."
+    },
+    {
+        "o": 9541,
+        "r": "csb:2 Samuel:22:34",
+        "t": "He*ln makes my feet like the feet of a deer and*ln sets me securely on the heights."
+    },
+    {
+        "o": 9542,
+        "r": "csb:2 Samuel:22:35",
+        "t": "He*ln trains my hands for war; my*ln arms can bend a bow of bronze."
+    },
+    {
+        "o": 9543,
+        "r": "csb:2 Samuel:22:36",
+        "t": "You*ln have given me the shield of your salvation; your*ln help exalts me."
+    },
+    {
+        "o": 9544,
+        "r": "csb:2 Samuel:22:37",
+        "t": "You*ln make a spacious place beneath me for my steps, and*ln my ankles do not give way."
+    },
+    {
+        "o": 9545,
+        "r": "csb:2 Samuel:22:38",
+        "t": "I*ln pursue my enemies and destroy them; I*ln do not turn back until they are wiped out."
+    },
+    {
+        "o": 9546,
+        "r": "csb:2 Samuel:22:39",
+        "t": "I*ln wipe them out and crush them, and*ln they do not rise; they*ln fall beneath my feet."
+    },
+    {
+        "o": 9547,
+        "r": "csb:2 Samuel:22:40",
+        "t": "You*ln have clothed me with strength for battle; you*ln subdue my adversaries beneath me."
+    },
+    {
+        "o": 9548,
+        "r": "csb:2 Samuel:22:41",
+        "t": "You*ln have made my enemies retreat before me; I*ln annihilate those who hate me."
+    },
+    {
+        "o": 9549,
+        "r": "csb:2 Samuel:22:42",
+        "t": "They*ln look, but there is no one to save them — they*ln look to the Lord,*s but he does not answer them."
+    },
+    {
+        "o": 9550,
+        "r": "csb:2 Samuel:22:43",
+        "t": "I*ln pulverize them like dust of the earth; I*ln crush them and trample them like mud in the streets."
+    },
+    {
+        "o": 9551,
+        "r": "csb:2 Samuel:22:44",
+        "t": "You*pn have freed me from the feuds among my people; you*ln have preserved me as head of nations; a*ln people I had not known serve me."
+    },
+    {
+        "o": 9552,
+        "r": "csb:2 Samuel:22:45",
+        "t": "Foreigners*ln submit to me cringing; as*ln soon as they hear, they obey me."
+    },
+    {
+        "o": 9553,
+        "r": "csb:2 Samuel:22:46",
+        "t": "Foreigners*ln lose heart and*ln come trembling from their fortifications."
+    },
+    {
+        "o": 9554,
+        "r": "csb:2 Samuel:22:47",
+        "t": "The*pn Lord*s lives — blessed be my rock! God,*ln the rock of my salvation, is exalted."
+    },
+    {
+        "o": 9555,
+        "r": "csb:2 Samuel:22:48",
+        "t": "God — he*ln grants me vengeance and*ln casts down peoples under me."
+    },
+    {
+        "o": 9556,
+        "r": "csb:2 Samuel:22:49",
+        "t": "He*ln frees me from my enemies. You*ln exalt me above my adversaries; you*ln rescue me from violent men."
+    },
+    {
+        "o": 9557,
+        "r": "csb:2 Samuel:22:50",
+        "t": "Therefore*pn I will give thanks to you among the nations, Lord;*s I*ln will sing praises about your name."
+    },
+    {
+        "o": 9558,
+        "r": "csb:2 Samuel:22:51",
+        "t": "He*ln is a tower of salvation for his king; he*ln shows loyalty to his anointed, to*ln David and his descendants forever."
+    },
+    {
+        "o": 9559,
+        "r": "csb:2 Samuel:23:0",
+        "t": "2 Samuel 23",
+        "h": 1
+    },
+    {
+        "o": 9560,
+        "r": "csb:2 Samuel:23:0",
+        "t": "David’s Last Words",
+        "h": 2
+    },
+    {
+        "o": 9561,
+        "r": "csb:2 Samuel:23:1",
+        "t": "These*p are the last words of David: The*pn declaration of David son of Jesse, the*ln declaration of the man raised on high, the*ln one anointed by the God of Jacob. This*ln is the most delightful of Israel’s songs."
+    },
+    {
+        "o": 9562,
+        "r": "csb:2 Samuel:23:2",
+        "t": "The*ln Spirit of the Lord*s spoke through me, his*ln word was on my tongue."
+    },
+    {
+        "o": 9563,
+        "r": "csb:2 Samuel:23:3",
+        "t": "The*ln God of Israel spoke; the*ln Rock of Israel said to me, “The*ln one who rules the people with justice, who*ln rules in the fear of God,"
+    },
+    {
+        "o": 9564,
+        "r": "csb:2 Samuel:23:4",
+        "t": "is*ln like the morning light when the sun rises on*ln a cloudless morning, the*ln glisten of rain on sprouting grass.”"
+    },
+    {
+        "o": 9565,
+        "r": "csb:2 Samuel:23:5",
+        "t": "Is*pn it not true my house is with God? For*ln he has established a permanent covenant with me, ordered*ln and secured in every detail. Will*ln he not bring about my*ln whole salvation and my every desire?"
+    },
+    {
+        "o": 9566,
+        "r": "csb:2 Samuel:23:6",
+        "t": "But*ln all the wicked are like thorns raked aside; they*ln can never be picked up by hand."
+    },
+    {
+        "o": 9567,
+        "r": "csb:2 Samuel:23:7",
+        "t": "The*ln man who touches them must*ln be armed with iron and the shaft of a spear. They*ln will be completely burned up on the spot."
+    },
+    {
+        "o": 9568,
+        "r": "csb:2 Samuel:23:7",
+        "t": "Exploits of David’s Warriors",
+        "h": 2
+    },
+    {
+        "o": 9569,
+        "r": "csb:2 Samuel:23:8",
+        "t": "These*p are the names of David’s warriors: Josheb-basshebeth*p the Tahchemonite was chief of the officers. He wielded his spear against eight hundred men that he killed at one time."
+    },
+    {
+        "o": 9570,
+        "r": "csb:2 Samuel:23:9",
+        "t": "After*p him, Eleazar son of Dodo son of an Ahohite was among the three warriors with David when they defied the Philistines. The men of Israel retreated in the place they had gathered for battle,"
+    },
+    {
+        "o": 9571,
+        "r": "csb:2 Samuel:23:10",
+        "t": "but Eleazar stood his ground and attacked the Philistines until his hand was tired and stuck to his sword. The Lord*s brought about a great victory that day. Then the troops came back to him, but only to plunder the dead."
+    },
+    {
+        "o": 9572,
+        "r": "csb:2 Samuel:23:11",
+        "t": "After*p him was Shammah son of Agee the Hararite. The Philistines had assembled in formation where there was a field full of lentils. The troops fled from the Philistines,"
+    },
+    {
+        "o": 9573,
+        "r": "csb:2 Samuel:23:12",
+        "t": "but Shammah took his stand in the middle of the field, defended it, and struck down the Philistines. So the Lord*s brought about a great victory."
+    },
+    {
+        "o": 9574,
+        "r": "csb:2 Samuel:23:13",
+        "t": "Three*p of the thirty leading warriors went down at harvest time and came to David at the cave of Adullam, while a company of Philistines was camping in Rephaim Valley."
+    },
+    {
+        "o": 9575,
+        "r": "csb:2 Samuel:23:14",
+        "t": "At that time David was in the stronghold, and a Philistine garrison was at Bethlehem."
+    },
+    {
+        "o": 9576,
+        "r": "csb:2 Samuel:23:15",
+        "t": "David was extremely thirsty and said, “If only someone would bring me water to drink from the well at the city gate of Bethlehem!”"
+    },
+    {
+        "o": 9577,
+        "r": "csb:2 Samuel:23:16",
+        "t": "So three of the warriors broke through the Philistine camp and drew water from the well at the gate of Bethlehem. They brought it back to David, but he refused to drink it. Instead, he poured it out to the Lord.*s"
+    },
+    {
+        "o": 9578,
+        "r": "csb:2 Samuel:23:17",
+        "t": "David said, “Lord,*s I would never do such a thing! Is this not the blood of men who risked their lives?” So he refused to drink it. Such were the exploits of the three warriors."
+    },
+    {
+        "o": 9579,
+        "r": "csb:2 Samuel:23:18",
+        "t": "Abishai,*p Joab’s brother and son of Zeruiah, was leader of the Three. He wielded his spear against three hundred men and killed them, gaining a reputation among the Three."
+    },
+    {
+        "o": 9580,
+        "r": "csb:2 Samuel:23:19",
+        "t": "Was he not more honored than the Three? He became their commander even though he did not become one of the Three."
+    },
+    {
+        "o": 9581,
+        "r": "csb:2 Samuel:23:20",
+        "t": "Benaiah*p son of Jehoiada was the son of a brave man from Kabzeel, a man of many exploits. Benaiah killed two sons of Ariel of Moab, and he went down into a pit on a snowy day and killed a lion."
+    },
+    {
+        "o": 9582,
+        "r": "csb:2 Samuel:23:21",
+        "t": "He also killed an Egyptian, an impressive man. Even though the Egyptian had a spear in his hand, Benaiah went down to him with a staff, snatched the spear out of the Egyptian’s hand, and then killed him with his own spear."
+    },
+    {
+        "o": 9583,
+        "r": "csb:2 Samuel:23:22",
+        "t": "These were the exploits of Benaiah son of Jehoiada, who had a reputation among the three warriors."
+    },
+    {
+        "o": 9584,
+        "r": "csb:2 Samuel:23:23",
+        "t": "He was the most honored of the Thirty, but he did not become one of the Three. David put him in charge of his bodyguard."
+    },
+    {
+        "o": 9585,
+        "r": "csb:2 Samuel:23:24",
+        "t": "Among*p the Thirty were Joab’s*ln brother Asahel, Elhanan*ln son of Dodo of Bethlehem,"
+    },
+    {
+        "o": 9586,
+        "r": "csb:2 Samuel:23:25",
+        "t": "Shammah*ln the Harodite, Elika*ln the Harodite,"
+    },
+    {
+        "o": 9587,
+        "r": "csb:2 Samuel:23:26",
+        "t": "Helez*ln the Paltite, Ira*ln son of Ikkesh the Tekoite,"
+    },
+    {
+        "o": 9588,
+        "r": "csb:2 Samuel:23:27",
+        "t": "Abiezer*ln the Anathothite, Mebunnai*ln the Hushathite,"
+    },
+    {
+        "o": 9589,
+        "r": "csb:2 Samuel:23:28",
+        "t": "Zalmon*ln the Ahohite, Maharai*ln the Netophathite,"
+    },
+    {
+        "o": 9590,
+        "r": "csb:2 Samuel:23:29",
+        "t": "Heleb*ln son of Baanah the Netophathite, Ittai*ln son of Ribai from Gibeah of the Benjaminites,"
+    },
+    {
+        "o": 9591,
+        "r": "csb:2 Samuel:23:30",
+        "t": "Benaiah*ln the Pirathonite, Hiddai*ln from the wadis of Gaash,"
+    },
+    {
+        "o": 9592,
+        "r": "csb:2 Samuel:23:31",
+        "t": "Abi-albon*ln the Arbathite, Azmaveth*ln the Barhumite,"
+    },
+    {
+        "o": 9593,
+        "r": "csb:2 Samuel:23:32",
+        "t": "Eliahba*ln the Shaalbonite, the*ln sons of Jashen, Jonathan*ln son of"
+    },
+    {
+        "o": 9594,
+        "r": "csb:2 Samuel:23:33",
+        "t": "Shammah the Hararite, Ahiam*ln son of Sharar the Hararite,"
+    },
+    {
+        "o": 9595,
+        "r": "csb:2 Samuel:23:34",
+        "t": "Eliphelet*ln son of Ahasbai son of the Maacathite, Eliam*ln son of Ahithophel the Gilonite,"
+    },
+    {
+        "o": 9596,
+        "r": "csb:2 Samuel:23:35",
+        "t": "Hezro*ln the Carmelite, Paarai*ln the Arbite,"
+    },
+    {
+        "o": 9597,
+        "r": "csb:2 Samuel:23:36",
+        "t": "Igal*ln son of Nathan from Zobah, Bani*ln the Gadite,"
+    },
+    {
+        "o": 9598,
+        "r": "csb:2 Samuel:23:37",
+        "t": "Zelek*ln the Ammonite, Naharai*ln the Beerothite, the armor-bearer for Joab son of Zeruiah,"
+    },
+    {
+        "o": 9599,
+        "r": "csb:2 Samuel:23:38",
+        "t": "Ira*ln the Ithrite, Gareb*ln the Ithrite,"
+    },
+    {
+        "o": 9600,
+        "r": "csb:2 Samuel:23:39",
+        "t": "and*ln Uriah the Hethite. There*p were thirty-seven in all."
+    },
+    {
+        "o": 9601,
+        "r": "csb:2 Samuel:24:0",
+        "t": "2 Samuel 24",
+        "h": 1
+    },
+    {
+        "o": 9602,
+        "r": "csb:2 Samuel:24:0",
+        "t": "David’s Military Census",
+        "h": 2
+    },
+    {
+        "o": 9603,
+        "r": "csb:2 Samuel:24:1",
+        "t": "The*p Lord’s*s anger burned against Israel again, and he stirred up David against them to say, “Go, count the people of Israel and Judah.”"
+    },
+    {
+        "o": 9604,
+        "r": "csb:2 Samuel:24:2",
+        "t": "So*p the king said to Joab, the commander of his army, “Go through all the tribes of Israel from Dan to Beer-sheba and register the troops so I can know their number.”"
+    },
+    {
+        "o": 9605,
+        "r": "csb:2 Samuel:24:3",
+        "t": "Joab*p replied to the king, “May the Lord*s your God multiply the troops a hundred times more than they are — while my lord the king looks on! But why does my lord the king want to do this?”"
+    },
+    {
+        "o": 9606,
+        "r": "csb:2 Samuel:24:4",
+        "t": "Yet*p the king’s order prevailed over Joab and the commanders of the army. So Joab and the commanders of the army left the king’s presence to register the troops of Israel."
+    },
+    {
+        "o": 9607,
+        "r": "csb:2 Samuel:24:5",
+        "t": "They*p crossed the Jordan and camped in Aroer, south of the town in the middle of the valley, and then proceeded toward Gad and Jazer."
+    },
+    {
+        "o": 9608,
+        "r": "csb:2 Samuel:24:6",
+        "t": "They went to Gilead and to the land of the Hittites and continued on to Dan-jaan and around to Sidon."
+    },
+    {
+        "o": 9609,
+        "r": "csb:2 Samuel:24:7",
+        "t": "They went to the fortress of Tyre and all the cities of the Hivites and Canaanites. Afterward, they went to the Negev of Judah at Beer-sheba."
+    },
+    {
+        "o": 9610,
+        "r": "csb:2 Samuel:24:8",
+        "t": "When*p they had gone through the whole land, they returned to Jerusalem at the end of nine months and twenty days."
+    },
+    {
+        "o": 9611,
+        "r": "csb:2 Samuel:24:9",
+        "t": "Joab gave the king the total of the registration of the troops. There were eight hundred thousand valiant armed men from Israel and five hundred thousand men from Judah."
+    },
+    {
+        "o": 9612,
+        "r": "csb:2 Samuel:24:10",
+        "t": "David’s*p conscience troubled him after he had taken a census of the troops. He said to the Lord,*s “I have sinned greatly in what I’ve done. Now, Lord,*s because I’ve been very foolish, please take away your servant’s guilt.”"
+    },
+    {
+        "o": 9613,
+        "r": "csb:2 Samuel:24:10",
+        "t": "David’s Punishment",
+        "h": 2
+    },
+    {
+        "o": 9614,
+        "r": "csb:2 Samuel:24:11",
+        "t": "When*p David got up in the morning, the word of the Lord*s had come to the prophet Gad, David’s seer:"
+    },
+    {
+        "o": 9615,
+        "r": "csb:2 Samuel:24:12",
+        "t": "“Go and say to David, ‘This is what the Lord*s says: I am offering you three choices. Choose one of them, and I will do it to you.’”"
+    },
+    {
+        "o": 9616,
+        "r": "csb:2 Samuel:24:13",
+        "t": "So*p Gad went to David, told him the choices, and asked him, “Do you want three years of famine to come on your land, to flee from your foes three months while they pursue you, or to have a plague in your land three days? Now, consider carefully what answer I should take back to the one who sent me.”"
+    },
+    {
+        "o": 9617,
+        "r": "csb:2 Samuel:24:14",
+        "t": "David*p answered Gad, “I have great anxiety. Please, let us fall into the Lord’s*s hands because his mercies are great, but don’t let me fall into human hands.”"
+    },
+    {
+        "o": 9618,
+        "r": "csb:2 Samuel:24:15",
+        "t": "So*p the Lord*s sent a plague on Israel from that morning until the appointed time, and from Dan to Beer-sheba seventy thousand men died."
+    },
+    {
+        "o": 9619,
+        "r": "csb:2 Samuel:24:16",
+        "t": "Then the angel extended his hand toward Jerusalem to destroy it, but the Lord*s relented concerning the destruction and said to the angel who was destroying the people, “Enough, withdraw your hand now!” The angel of the Lord*s was then at the threshing floor of Araunah the Jebusite."
+    },
+    {
+        "o": 9620,
+        "r": "csb:2 Samuel:24:17",
+        "t": "When*p David saw the angel striking the people, he said to the Lord,*s “Look, I am the one who has sinned; I am the one who has done wrong. But these sheep, what have they done? Please, let your hand be against me and my father’s family.”"
+    },
+    {
+        "o": 9621,
+        "r": "csb:2 Samuel:24:17",
+        "t": "David’s Altar",
+        "h": 2
+    },
+    {
+        "o": 9622,
+        "r": "csb:2 Samuel:24:18",
+        "t": "Gad*p came to David that day and said to him, “Go up and set up an altar to the Lord*s on the threshing floor of Araunah the Jebusite.”"
+    },
+    {
+        "o": 9623,
+        "r": "csb:2 Samuel:24:19",
+        "t": "David went up in obedience to Gad’s command, just as the Lord*s had commanded."
+    },
+    {
+        "o": 9624,
+        "r": "csb:2 Samuel:24:20",
+        "t": "Araunah looked down and saw the king and his servants coming toward him, so he went out and paid homage to the king with his face to the ground."
+    },
+    {
+        "o": 9625,
+        "r": "csb:2 Samuel:24:21",
+        "t": "Araunah*p said, “Why has my lord the king come to his servant?” David*p replied, “To buy the threshing floor from you in order to build an altar to the Lord,*s so the plague on the people may be halted.”"
+    },
+    {
+        "o": 9626,
+        "r": "csb:2 Samuel:24:22",
+        "t": "Araunah*p said to David, “My lord the king may take whatever he wants and offer it. Here are the oxen for a burnt offering and the threshing sledges and ox yokes for the wood."
+    },
+    {
+        "o": 9627,
+        "r": "csb:2 Samuel:24:23",
+        "t": "Your Majesty, Araunah gives everything here to the king.” Then he said to the king, “May the Lord*s your God accept you.”"
+    },
+    {
+        "o": 9628,
+        "r": "csb:2 Samuel:24:24",
+        "t": "The*p king answered Araunah, “No, I insist on buying it from you for a price, for I will not offer to the Lord*s my God burnt offerings that cost me nothing.” David bought the threshing floor and the oxen for twenty ounces of silver."
+    },
+    {
+        "o": 9629,
+        "r": "csb:2 Samuel:24:25",
+        "t": "He built an altar to the Lord*s there and offered burnt offerings and fellowship offerings. Then the Lord*s was receptive to prayer for the land, and the plague on Israel ended."
+    }
+]

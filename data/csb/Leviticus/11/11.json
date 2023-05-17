@@ -1,0 +1,279 @@
+[
+    {
+        "o": 3320,
+        "r": "csb:Leviticus:11:0",
+        "t": "Leviticus 11",
+        "h": 1
+    },
+    {
+        "o": 3321,
+        "r": "csb:Leviticus:11:0",
+        "t": "Clean and Unclean Land Animals",
+        "h": 2
+    },
+    {
+        "o": 3322,
+        "r": "csb:Leviticus:11:1",
+        "t": "The*p Lord*s spoke to Moses and Aaron:"
+    },
+    {
+        "o": 3323,
+        "r": "csb:Leviticus:11:2",
+        "t": "“Tell the Israelites: You may eat all these kinds of land animals."
+    },
+    {
+        "o": 3324,
+        "r": "csb:Leviticus:11:3",
+        "t": "You may eat any animal with divided hooves and that chews the cud."
+    },
+    {
+        "o": 3325,
+        "r": "csb:Leviticus:11:4",
+        "t": "But among the ones that chew the cud or have divided hooves you are not to eat these: camels,*ln though they chew the cud, do*ln not have divided hooves — they are unclean for you;"
+    },
+    {
+        "o": 3326,
+        "r": "csb:Leviticus:11:5",
+        "t": "hyraxes,*ln though they chew the cud, do*ln not have hooves — they are unclean for you;"
+    },
+    {
+        "o": 3327,
+        "r": "csb:Leviticus:11:6",
+        "t": "hares,*ln though they chew the cud, do*ln not have hooves — they are unclean for you;"
+    },
+    {
+        "o": 3328,
+        "r": "csb:Leviticus:11:7",
+        "t": "pigs,*ln though they have divided hooves, do*ln not chew the cud — they are unclean for you."
+    },
+    {
+        "o": 3329,
+        "r": "csb:Leviticus:11:8",
+        "t": "Do*p not eat any of their meat or touch their carcasses — they are unclean for you."
+    },
+    {
+        "o": 3330,
+        "r": "csb:Leviticus:11:8",
+        "t": "Clean and Unclean Aquatic Animals",
+        "h": 2
+    },
+    {
+        "o": 3331,
+        "r": "csb:Leviticus:11:9",
+        "t": "“This*p is what you may eat from all that is in the water: You may eat everything in the water that has fins and scales, whether in the seas or streams."
+    },
+    {
+        "o": 3332,
+        "r": "csb:Leviticus:11:10",
+        "t": "But these are to be abhorrent to you: everything in the seas or streams that does not have fins and scales among all the swarming things and other living creatures in the water."
+    },
+    {
+        "o": 3333,
+        "r": "csb:Leviticus:11:11",
+        "t": "They are to remain abhorrent to you; you must not eat any of their meat, and you must abhor their carcasses."
+    },
+    {
+        "o": 3334,
+        "r": "csb:Leviticus:11:12",
+        "t": "Everything in the water that does not have fins and scales will be abhorrent to you."
+    },
+    {
+        "o": 3335,
+        "r": "csb:Leviticus:11:12",
+        "t": "Unclean Birds",
+        "h": 2
+    },
+    {
+        "o": 3336,
+        "r": "csb:Leviticus:11:13",
+        "t": "“You*p are to abhor these birds. They must not be eaten because they are abhorrent: eagles,*ln bearded vultures, Egyptian*ln vultures,"
+    },
+    {
+        "o": 3337,
+        "r": "csb:Leviticus:11:14",
+        "t": "kites, any*ln kind of falcon,"
+    },
+    {
+        "o": 3338,
+        "r": "csb:Leviticus:11:15",
+        "t": "every*ln kind of raven,"
+    },
+    {
+        "o": 3339,
+        "r": "csb:Leviticus:11:16",
+        "t": "ostriches, short-eared*ln owls, gulls, any*ln kind of hawk,"
+    },
+    {
+        "o": 3340,
+        "r": "csb:Leviticus:11:17",
+        "t": "little*ln owls, cormorants, long-eared*ln owls,"
+    },
+    {
+        "o": 3341,
+        "r": "csb:Leviticus:11:18",
+        "t": "barn*ln owls, eagle owls, ospreys,*ln"
+    },
+    {
+        "o": 3342,
+        "r": "csb:Leviticus:11:19",
+        "t": "storks, any*ln kind of heron, hoopoes,*ln and bats."
+    },
+    {
+        "o": 3343,
+        "r": "csb:Leviticus:11:19",
+        "t": "Clean and Unclean Flying Insects",
+        "h": 2
+    },
+    {
+        "o": 3344,
+        "r": "csb:Leviticus:11:20",
+        "t": "“All*p winged insects that walk on all fours are to be abhorrent to you."
+    },
+    {
+        "o": 3345,
+        "r": "csb:Leviticus:11:21",
+        "t": "But you may eat these kinds of all the winged insects that walk on all fours: those that have jointed legs above their feet for hopping on the ground."
+    },
+    {
+        "o": 3346,
+        "r": "csb:Leviticus:11:22",
+        "t": "You may eat these: any*ln kind of locust, katydid, cricket, and grasshopper."
+    },
+    {
+        "o": 3347,
+        "r": "csb:Leviticus:11:23",
+        "t": "All*p other winged insects that have four feet are to be abhorrent to you."
+    },
+    {
+        "o": 3348,
+        "r": "csb:Leviticus:11:23",
+        "t": "Purification after Touching Dead Animals",
+        "h": 2
+    },
+    {
+        "o": 3349,
+        "r": "csb:Leviticus:11:24",
+        "t": "“These*p will make you unclean. Whoever touches their carcasses will be unclean until evening,"
+    },
+    {
+        "o": 3350,
+        "r": "csb:Leviticus:11:25",
+        "t": "and whoever carries any of their carcasses is to wash his clothes and will be unclean until evening."
+    },
+    {
+        "o": 3351,
+        "r": "csb:Leviticus:11:26",
+        "t": "All animals that have hooves but do not have a divided hoof and do not chew the cud are unclean for you. Whoever touches them becomes unclean."
+    },
+    {
+        "o": 3352,
+        "r": "csb:Leviticus:11:27",
+        "t": "All the four-footed animals that walk on their paws are unclean for you. Whoever touches their carcasses will be unclean until evening,"
+    },
+    {
+        "o": 3353,
+        "r": "csb:Leviticus:11:28",
+        "t": "and anyone who carries their carcasses is to wash his clothes and will be unclean until evening. They are unclean for you."
+    },
+    {
+        "o": 3354,
+        "r": "csb:Leviticus:11:29",
+        "t": "“These*p creatures that swarm on the ground are unclean for you: weasels,*ln mice, any*ln kind of large lizard,"
+    },
+    {
+        "o": 3355,
+        "r": "csb:Leviticus:11:30",
+        "t": "geckos,*ln monitor lizards, common*ln lizards, skinks, and*ln chameleons."
+    },
+    {
+        "o": 3356,
+        "r": "csb:Leviticus:11:31",
+        "t": "These*p are unclean for you among all the swarming creatures. Whoever touches them when they are dead will be unclean until evening."
+    },
+    {
+        "o": 3357,
+        "r": "csb:Leviticus:11:32",
+        "t": "When any one of them dies and falls on anything it becomes unclean — any item of wood, clothing, leather, sackcloth, or any implement used for work. It is to be rinsed with water and will remain unclean until evening; then it will be clean."
+    },
+    {
+        "o": 3358,
+        "r": "csb:Leviticus:11:33",
+        "t": "If any of them falls into any clay pot, everything in it will become unclean; you are to break it."
+    },
+    {
+        "o": 3359,
+        "r": "csb:Leviticus:11:34",
+        "t": "Any edible food coming into contact with that unclean water will become unclean, and any drinkable liquid in any container will become unclean."
+    },
+    {
+        "o": 3360,
+        "r": "csb:Leviticus:11:35",
+        "t": "Anything one of their carcasses falls on will become unclean. If it is an oven or stove, it is to be smashed; it is unclean and will remain unclean for you."
+    },
+    {
+        "o": 3361,
+        "r": "csb:Leviticus:11:36",
+        "t": "A spring or cistern containing water will remain clean, but someone who touches a carcass in it will become unclean."
+    },
+    {
+        "o": 3362,
+        "r": "csb:Leviticus:11:37",
+        "t": "If one of their carcasses falls on any seed that is to be sown, it is clean;"
+    },
+    {
+        "o": 3363,
+        "r": "csb:Leviticus:11:38",
+        "t": "but if water has been put on the seed and one of their carcasses falls on it, it is unclean for you."
+    },
+    {
+        "o": 3364,
+        "r": "csb:Leviticus:11:39",
+        "t": "“If*p one of the animals that you use for food dies, anyone who touches its carcass will be unclean until evening."
+    },
+    {
+        "o": 3365,
+        "r": "csb:Leviticus:11:40",
+        "t": "Anyone who eats some of its carcass is to wash his clothes and will be unclean until evening. Anyone who carries its carcass must wash his clothes and will be unclean until evening."
+    },
+    {
+        "o": 3366,
+        "r": "csb:Leviticus:11:40",
+        "t": "Unclean Swarming Creatures",
+        "h": 2
+    },
+    {
+        "o": 3367,
+        "r": "csb:Leviticus:11:41",
+        "t": "“All*p the creatures that swarm on the earth are abhorrent; they must not be eaten."
+    },
+    {
+        "o": 3368,
+        "r": "csb:Leviticus:11:42",
+        "t": "Do not eat any of the creatures that swarm on the earth, anything that moves on its belly or walks on all fours or on many feet, for they are abhorrent."
+    },
+    {
+        "o": 3369,
+        "r": "csb:Leviticus:11:43",
+        "t": "Do not become contaminated by any creature that swarms; do not become unclean or defiled by them."
+    },
+    {
+        "o": 3370,
+        "r": "csb:Leviticus:11:44",
+        "t": "For I am the Lord*s your God, so you must consecrate yourselves and be holy because I am holy. Do not defile yourselves by any swarming creature that crawls on the ground."
+    },
+    {
+        "o": 3371,
+        "r": "csb:Leviticus:11:45",
+        "t": "For I am the Lord,*s who brought you up from the land of Egypt to be your God, so you must be holy because I am holy."
+    },
+    {
+        "o": 3372,
+        "r": "csb:Leviticus:11:46",
+        "t": "“This*p is the law concerning animals, birds, all living creatures that move in the water, and all creatures that swarm on the ground,"
+    },
+    {
+        "o": 3373,
+        "r": "csb:Leviticus:11:47",
+        "t": "in order to distinguish between the unclean and the clean, between the animals that may be eaten and those that may not be eaten.”"
+    }
+]

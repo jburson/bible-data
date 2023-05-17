@@ -1,0 +1,169 @@
+[
+    {
+        "o": 1,
+        "r": "csb:Genesis:1:0",
+        "t": "Genesis 1",
+        "h": 1
+    },
+    {
+        "o": 2,
+        "r": "csb:Genesis:1:0",
+        "t": "The Creation",
+        "h": 2
+    },
+    {
+        "o": 3,
+        "r": "csb:Genesis:1:1",
+        "t": "In*p the beginning God created the heavens and the earth."
+    },
+    {
+        "o": 4,
+        "r": "csb:Genesis:1:2",
+        "t": "Now*p the earth was formless and empty, darkness covered the surface of the watery depths, and the Spirit of God was hovering over the surface of the waters."
+    },
+    {
+        "o": 5,
+        "r": "csb:Genesis:1:3",
+        "t": "Then God said, “Let there be light,” and there was light."
+    },
+    {
+        "o": 6,
+        "r": "csb:Genesis:1:4",
+        "t": "God saw that the light was good, and God separated the light from the darkness."
+    },
+    {
+        "o": 7,
+        "r": "csb:Genesis:1:5",
+        "t": "God called the light “day,” and the darkness he called “night.” There was an evening, and there was a morning: one day."
+    },
+    {
+        "o": 8,
+        "r": "csb:Genesis:1:6",
+        "t": "Then*p God said, “Let there be an expanse between the waters, separating water from water.”"
+    },
+    {
+        "o": 9,
+        "r": "csb:Genesis:1:7",
+        "t": "So God made the expanse and separated the water under the expanse from the water above the expanse. And it was so."
+    },
+    {
+        "o": 10,
+        "r": "csb:Genesis:1:8",
+        "t": "God called the expanse “sky.” Evening came and then morning: the second day."
+    },
+    {
+        "o": 11,
+        "r": "csb:Genesis:1:9",
+        "t": "Then*p God said, “Let the water under the sky be gathered into one place, and let the dry land appear.” And it was so."
+    },
+    {
+        "o": 12,
+        "r": "csb:Genesis:1:10",
+        "t": "God called the dry land “earth,” and the gathering of the water he called “seas.” And God saw that it was good."
+    },
+    {
+        "o": 13,
+        "r": "csb:Genesis:1:11",
+        "t": "Then God said, “Let the earth produce vegetation: seed-bearing plants and fruit trees on the earth bearing fruit with seed in it according to their kinds.” And it was so."
+    },
+    {
+        "o": 14,
+        "r": "csb:Genesis:1:12",
+        "t": "The earth produced vegetation: seed-bearing plants according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good."
+    },
+    {
+        "o": 15,
+        "r": "csb:Genesis:1:13",
+        "t": "Evening came and then morning: the third day."
+    },
+    {
+        "o": 16,
+        "r": "csb:Genesis:1:14",
+        "t": "Then*p God said, “Let there be lights in the expanse of the sky to separate the day from the night. They will serve as signs for seasons and for days and years."
+    },
+    {
+        "o": 17,
+        "r": "csb:Genesis:1:15",
+        "t": "They will be lights in the expanse of the sky to provide light on the earth.” And it was so."
+    },
+    {
+        "o": 18,
+        "r": "csb:Genesis:1:16",
+        "t": "God made the two great lights — the greater light to rule over the day and the lesser light to rule over the night — as well as the stars."
+    },
+    {
+        "o": 19,
+        "r": "csb:Genesis:1:17",
+        "t": "God placed them in the expanse of the sky to provide light on the earth,"
+    },
+    {
+        "o": 20,
+        "r": "csb:Genesis:1:18",
+        "t": "to rule the day and the night, and to separate light from darkness. And God saw that it was good."
+    },
+    {
+        "o": 21,
+        "r": "csb:Genesis:1:19",
+        "t": "Evening came and then morning: the fourth day."
+    },
+    {
+        "o": 22,
+        "r": "csb:Genesis:1:20",
+        "t": "Then*p God said, “Let the water swarm with living creatures, and let birds fly above the earth across the expanse of the sky.”"
+    },
+    {
+        "o": 23,
+        "r": "csb:Genesis:1:21",
+        "t": "So God created the large sea-creatures and every living creature that moves and swarms in the water, according to their kinds. He also created every winged creature according to its kind. And God saw that it was good."
+    },
+    {
+        "o": 24,
+        "r": "csb:Genesis:1:22",
+        "t": "God blessed them: “Be fruitful, multiply, and fill the waters of the seas, and let the birds multiply on the earth.”"
+    },
+    {
+        "o": 25,
+        "r": "csb:Genesis:1:23",
+        "t": "Evening came and then morning: the fifth day."
+    },
+    {
+        "o": 26,
+        "r": "csb:Genesis:1:24",
+        "t": "Then*p God said, “Let the earth produce living creatures according to their kinds: livestock, creatures that crawl, and the wildlife of the earth according to their kinds.” And it was so."
+    },
+    {
+        "o": 27,
+        "r": "csb:Genesis:1:25",
+        "t": "So God made the wildlife of the earth according to their kinds, the livestock according to their kinds, and all the creatures that crawl on the ground according to their kinds. And God saw that it was good."
+    },
+    {
+        "o": 28,
+        "r": "csb:Genesis:1:26",
+        "t": "Then*p God said, “Let us make man in our image, according to our likeness. They will rule the fish of the sea, the birds of the sky, the livestock, the whole earth, and the creatures that crawl on the earth.”"
+    },
+    {
+        "o": 29,
+        "r": "csb:Genesis:1:27",
+        "t": "So*pn God created man in*ln his own image; he*ln created him in the image of God; he*ln created them male and female."
+    },
+    {
+        "o": 30,
+        "r": "csb:Genesis:1:28",
+        "t": "God*p blessed them, and God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Rule the fish of the sea, the birds of the sky, and every creature that crawls on the earth.”"
+    },
+    {
+        "o": 31,
+        "r": "csb:Genesis:1:29",
+        "t": "God also said, “Look, I have given you every seed-bearing plant on the surface of the entire earth and every tree whose fruit contains seed. This will be food for you,"
+    },
+    {
+        "o": 32,
+        "r": "csb:Genesis:1:30",
+        "t": "for all the wildlife of the earth, for every bird of the sky, and for every creature that crawls on the earth — everything having the breath of life in it — I have given every green plant for food.” And it was so."
+    },
+    {
+        "o": 33,
+        "r": "csb:Genesis:1:31",
+        "t": "God saw all that he had made, and it was very good indeed. Evening came and then morning: the sixth day."
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "o": 3974,
+        "r": "csb:Numbers:1:0",
+        "t": "Numbers 1",
+        "h": 1
+    },
+    {
+        "o": 3975,
+        "r": "csb:Numbers:1:0",
+        "t": "The Census of Israel",
+        "h": 2
+    },
+    {
+        "o": 3976,
+        "r": "csb:Numbers:1:1",
+        "t": "The*p Lord*s spoke to Moses in the tent of meeting in the Wilderness of Sinai, on the first day of the second month of the second year after Israel’s departure from the land of Egypt:"
+    },
+    {
+        "o": 3977,
+        "r": "csb:Numbers:1:2",
+        "t": "“Take a census of the entire Israelite community by their clans and their ancestral families, counting the names of every male one by one."
+    },
+    {
+        "o": 3978,
+        "r": "csb:Numbers:1:3",
+        "t": "You and Aaron are to register those who are twenty years old or more by their military divisions — everyone who can serve in Israel’s army."
+    },
+    {
+        "o": 3979,
+        "r": "csb:Numbers:1:4",
+        "t": "A man from each tribe is to be with you, each one the head of his ancestral family."
+    },
+    {
+        "o": 3980,
+        "r": "csb:Numbers:1:5",
+        "t": "These are the names of the men who are to assist you: Elizur*ln son of Shedeur from Reuben;"
+    },
+    {
+        "o": 3981,
+        "r": "csb:Numbers:1:6",
+        "t": "Shelumiel*ln son of Zurishaddai from Simeon;"
+    },
+    {
+        "o": 3982,
+        "r": "csb:Numbers:1:7",
+        "t": "Nahshon*ln son of Amminadab from Judah;"
+    },
+    {
+        "o": 3983,
+        "r": "csb:Numbers:1:8",
+        "t": "Nethanel*ln son of Zuar from Issachar;"
+    },
+    {
+        "o": 3984,
+        "r": "csb:Numbers:1:9",
+        "t": "Eliab*ln son of Helon from Zebulun;"
+    },
+    {
+        "o": 3985,
+        "r": "csb:Numbers:1:10",
+        "t": "from*ln the sons of Joseph: Elishama*ln son of Ammihud from Ephraim, Gamaliel*ln son of Pedahzur from Manasseh;"
+    },
+    {
+        "o": 3986,
+        "r": "csb:Numbers:1:11",
+        "t": "Abidan*ln son of Gideoni from Benjamin;"
+    },
+    {
+        "o": 3987,
+        "r": "csb:Numbers:1:12",
+        "t": "Ahiezer*ln son of Ammishaddai from Dan;"
+    },
+    {
+        "o": 3988,
+        "r": "csb:Numbers:1:13",
+        "t": "Pagiel*ln son of Ochran from Asher;"
+    },
+    {
+        "o": 3989,
+        "r": "csb:Numbers:1:14",
+        "t": "Eliasaph*ln son of Deuel from Gad;"
+    },
+    {
+        "o": 3990,
+        "r": "csb:Numbers:1:15",
+        "t": "Ahira*ln son of Enan from Naphtali."
+    },
+    {
+        "o": 3991,
+        "r": "csb:Numbers:1:16",
+        "t": "These*p are the men called from the community; they are leaders of their ancestral tribes, the heads of Israel’s clans.”"
+    },
+    {
+        "o": 3992,
+        "r": "csb:Numbers:1:17",
+        "t": "So*p Moses and Aaron took these men who had been designated by name,"
+    },
+    {
+        "o": 3993,
+        "r": "csb:Numbers:1:18",
+        "t": "and they assembled the whole community on the first day of the second month. They recorded their ancestry by their clans and their ancestral families, counting one by one the names of those twenty years old or more,"
+    },
+    {
+        "o": 3994,
+        "r": "csb:Numbers:1:19",
+        "t": "just as the Lord*s commanded Moses. He registered them in the Wilderness of Sinai:"
+    },
+    {
+        "o": 3995,
+        "r": "csb:Numbers:1:20",
+        "t": "The*p descendants of Reuben, the firstborn of Israel: according to their family records by their clans and their ancestral families, counting one by one the names of every male twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 3996,
+        "r": "csb:Numbers:1:21",
+        "t": "those registered for the tribe of Reuben numbered 46,500."
+    },
+    {
+        "o": 3997,
+        "r": "csb:Numbers:1:22",
+        "t": "The*p descendants of Simeon: according to their family records by their clans and their ancestral families, those registered counting one by one the names of every male twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 3998,
+        "r": "csb:Numbers:1:23",
+        "t": "those registered for the tribe of Simeon numbered 59,300."
+    },
+    {
+        "o": 3999,
+        "r": "csb:Numbers:1:24",
+        "t": "The*p descendants of Gad: according to their family records by their clans and their ancestral families, counting the names of those twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 4000,
+        "r": "csb:Numbers:1:25",
+        "t": "those registered for the tribe of Gad numbered 45,650."
+    },
+    {
+        "o": 4001,
+        "r": "csb:Numbers:1:26",
+        "t": "The*p descendants of Judah: according to their family records by their clans and their ancestral families, counting the names of those twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 4002,
+        "r": "csb:Numbers:1:27",
+        "t": "those registered for the tribe of Judah numbered 74,600."
+    },
+    {
+        "o": 4003,
+        "r": "csb:Numbers:1:28",
+        "t": "The*p descendants of Issachar: according to their family records by their clans and their ancestral families, counting the names of those twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 4004,
+        "r": "csb:Numbers:1:29",
+        "t": "those registered for the tribe of Issachar numbered 54,400."
+    },
+    {
+        "o": 4005,
+        "r": "csb:Numbers:1:30",
+        "t": "The*p descendants of Zebulun: according to their family records by their clans and their ancestral families, counting the names of those twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 4006,
+        "r": "csb:Numbers:1:31",
+        "t": "those registered for the tribe of Zebulun numbered 57,400."
+    },
+    {
+        "o": 4007,
+        "r": "csb:Numbers:1:32",
+        "t": "The*p descendants of Joseph: The*p descendants of Ephraim: according to their family records by their clans and their ancestral families, counting the names of those twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 4008,
+        "r": "csb:Numbers:1:33",
+        "t": "those registered for the tribe of Ephraim numbered 40,500."
+    },
+    {
+        "o": 4009,
+        "r": "csb:Numbers:1:34",
+        "t": "The*p descendants of Manasseh: according to their family records by their clans and their ancestral families, counting the names of those twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 4010,
+        "r": "csb:Numbers:1:35",
+        "t": "those registered for the tribe of Manasseh numbered 32,200."
+    },
+    {
+        "o": 4011,
+        "r": "csb:Numbers:1:36",
+        "t": "The*p descendants of Benjamin: according to their family records by their clans and their ancestral families, counting the names of those twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 4012,
+        "r": "csb:Numbers:1:37",
+        "t": "those registered for the tribe of Benjamin numbered 35,400."
+    },
+    {
+        "o": 4013,
+        "r": "csb:Numbers:1:38",
+        "t": "The*p descendants of Dan: according to their family records by their clans and their ancestral families, counting the names of those twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 4014,
+        "r": "csb:Numbers:1:39",
+        "t": "those registered for the tribe of Dan numbered 62,700."
+    },
+    {
+        "o": 4015,
+        "r": "csb:Numbers:1:40",
+        "t": "The*p descendants of Asher: according to their family records by their clans and their ancestral families, counting the names of those twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 4016,
+        "r": "csb:Numbers:1:41",
+        "t": "those registered for the tribe of Asher numbered 41,500."
+    },
+    {
+        "o": 4017,
+        "r": "csb:Numbers:1:42",
+        "t": "The*p descendants of Naphtali: according to their family records by their clans and their ancestral families, counting the names of those twenty years old or more, everyone who could serve in the army,"
+    },
+    {
+        "o": 4018,
+        "r": "csb:Numbers:1:43",
+        "t": "those registered for the tribe of Naphtali numbered 53,400."
+    },
+    {
+        "o": 4019,
+        "r": "csb:Numbers:1:44",
+        "t": "These*p are the men Moses and Aaron registered, with the assistance of the twelve leaders of Israel; each represented his ancestral family."
+    },
+    {
+        "o": 4020,
+        "r": "csb:Numbers:1:45",
+        "t": "So all the Israelites twenty years old or more, everyone who could serve in Israel’s army, were registered by their ancestral families."
+    },
+    {
+        "o": 4021,
+        "r": "csb:Numbers:1:46",
+        "t": "All those registered numbered 603,550."
+    },
+    {
+        "o": 4022,
+        "r": "csb:Numbers:1:46",
+        "t": "Duties of the Levites",
+        "h": 2
+    },
+    {
+        "o": 4023,
+        "r": "csb:Numbers:1:47",
+        "t": "But*p the Levites were not registered with them by their ancestral tribe."
+    },
+    {
+        "o": 4024,
+        "r": "csb:Numbers:1:48",
+        "t": "For the Lord*s had told Moses,"
+    },
+    {
+        "o": 4025,
+        "r": "csb:Numbers:1:49",
+        "t": "“Do not register or take a census of the tribe of Levi with the other Israelites."
+    },
+    {
+        "o": 4026,
+        "r": "csb:Numbers:1:50",
+        "t": "Appoint the Levites over the tabernacle of the testimony, all its furnishings, and everything in it. They are to transport the tabernacle and all its articles, take care of it, and camp around it."
+    },
+    {
+        "o": 4027,
+        "r": "csb:Numbers:1:51",
+        "t": "Whenever the tabernacle is to move, the Levites are to take it down, and whenever it is to stop at a campsite, the Levites are to set it up. Any unauthorized person who comes near it is to be put to death."
+    },
+    {
+        "o": 4028,
+        "r": "csb:Numbers:1:52",
+        "t": "“The*p Israelites are to camp by their military divisions, each man with his encampment and under his banner."
+    },
+    {
+        "o": 4029,
+        "r": "csb:Numbers:1:53",
+        "t": "The Levites are to camp around the tabernacle of the testimony and watch over it, so that no wrath will fall on the Israelite community.”"
+    },
+    {
+        "o": 4030,
+        "r": "csb:Numbers:1:54",
+        "t": "The Israelites did everything just as the Lord*s had commanded Moses."
+    }
+]

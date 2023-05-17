@@ -1,0 +1,308 @@
+[
+    {
+        "o": 29587,
+        "r": "csb:John:4:0",
+        "t": "John 4",
+        "h": 1
+    },
+    {
+        "o": 29588,
+        "r": "csb:John:4:0",
+        "t": "Jesus and the Samaritan Woman",
+        "h": 2
+    },
+    {
+        "o": 29589,
+        "r": "csb:John:4:1",
+        "t": "When*p Jesus learned that the Pharisees had heard he was making and baptizing more disciples than John"
+    },
+    {
+        "o": 29590,
+        "r": "csb:John:4:2",
+        "t": "(though Jesus himself was not baptizing, but his disciples were),"
+    },
+    {
+        "o": 29591,
+        "r": "csb:John:4:3",
+        "t": "he left Judea and went again to Galilee."
+    },
+    {
+        "o": 29592,
+        "r": "csb:John:4:4",
+        "t": "He had to travel through Samaria;"
+    },
+    {
+        "o": 29593,
+        "r": "csb:John:4:5",
+        "t": "so he came to a town of Samaria called Sychar near the property that Jacob had given his son Joseph."
+    },
+    {
+        "o": 29594,
+        "r": "csb:John:4:6",
+        "t": "Jacob’s well was there, and Jesus, worn out from his journey, sat down at the well. It was about noon."
+    },
+    {
+        "o": 29595,
+        "r": "csb:John:4:7",
+        "t": "A*p woman of Samaria came to draw water. “Give*rp me*r a*r drink,”*r Jesus said to her,"
+    },
+    {
+        "o": 29596,
+        "r": "csb:John:4:8",
+        "t": "because his disciples had gone into town to buy food."
+    },
+    {
+        "o": 29597,
+        "r": "csb:John:4:9",
+        "t": "“How*p is it that you, a Jew, ask for a drink from me, a Samaritan woman?” she asked him. For Jews do not associate with Samaritans."
+    },
+    {
+        "o": 29598,
+        "r": "csb:John:4:10",
+        "t": "Jesus*p answered, “If*r you*r knew*r the*r gift*r of*r God,*r and*r who*r is*r saying*r to*r you,*r ‘Give*r me*r a*r drink,’*r you*r would*r ask*r him,*r and*r he*r would*r give*r you*r living*r water.”*r"
+    },
+    {
+        "o": 29599,
+        "r": "csb:John:4:11",
+        "t": "“Sir,”*p said the woman, “you don’t even have a bucket, and the well is deep. So where do you get this ‘living water’?"
+    },
+    {
+        "o": 29600,
+        "r": "csb:John:4:12",
+        "t": "You aren’t greater than our father Jacob, are you? He gave us the well and drank from it himself, as did his sons and livestock.”"
+    },
+    {
+        "o": 29601,
+        "r": "csb:John:4:13",
+        "t": "Jesus*p said, “Everyone*r who*r drinks*r from*r this*r water*r will*r get*r thirsty*r again.*r"
+    },
+    {
+        "o": 29602,
+        "r": "csb:John:4:14",
+        "t": "But*r whoever*r drinks*r from*r the*r water*r that*r I*r will*r give*r him*r will*r never*r get*r thirsty*r again.*r In*r fact,*r the*r water*r I*r will*r give*r him*r will*r become*r a*r well*r of*r water*r springing*r up*r in*r him*r for*r eternal*r life.”*r"
+    },
+    {
+        "o": 29603,
+        "r": "csb:John:4:15",
+        "t": "“Sir,”*p the woman said to him, “give me this water so that I won’t get thirsty and come here to draw water.”"
+    },
+    {
+        "o": 29604,
+        "r": "csb:John:4:16",
+        "t": "“Go*rp call*r your*r husband,”*r he told her, “and*r come*r back*r here.”*r"
+    },
+    {
+        "o": 29605,
+        "r": "csb:John:4:17",
+        "t": "“I*p don’t have a husband,” she answered. “You*rp have*r correctly*r said,*r ‘I*r don’t*r have*r a*r husband,’”*r Jesus said."
+    },
+    {
+        "o": 29606,
+        "r": "csb:John:4:18",
+        "t": "“For*r you’ve*r had*r five*r husbands,*r and*r the*r man*r you*r now*r have*r is*r not*r your*r husband.*r What*r you*r have*r said*r is*r true.”*r"
+    },
+    {
+        "o": 29607,
+        "r": "csb:John:4:19",
+        "t": "“Sir,”*p the woman replied, “I see that you are a prophet."
+    },
+    {
+        "o": 29608,
+        "r": "csb:John:4:20",
+        "t": "Our ancestors worshiped on this mountain, but you Jews say that the place to worship is in Jerusalem.”"
+    },
+    {
+        "o": 29609,
+        "r": "csb:John:4:21",
+        "t": "Jesus*p told her, “Believe*r me,*r woman,*r an*r hour*r is*r coming*r when*r you*r will*r worship*r the*r Father*r neither*r on*r this*r mountain*r nor*r in*r Jerusalem.*r"
+    },
+    {
+        "o": 29610,
+        "r": "csb:John:4:22",
+        "t": "You*r Samaritans*r worship*r what*r you*r do*r not*r know.*r We*r worship*r what*r we*r do*r know,*r because*r salvation*r is*r from*r the*r Jews.*r"
+    },
+    {
+        "o": 29611,
+        "r": "csb:John:4:23",
+        "t": "But*r an*r hour*r is*r coming,*r and*r is*r now*r here,*r when*r the*r true*r worshipers*r will*r worship*r the*r Father*r in*r Spirit*r and*r in*r truth.*r Yes,*r the*r Father*r wants*r such*r people*r to*r worship*r him.*r"
+    },
+    {
+        "o": 29612,
+        "r": "csb:John:4:24",
+        "t": "God*r is*r spirit,*r and*r those*r who*r worship*r him*r must*r worship*r in*r Spirit*r and*r in*r truth.”*r"
+    },
+    {
+        "o": 29613,
+        "r": "csb:John:4:25",
+        "t": "The*p woman said to him, “I know that the Messiah is coming” (who is called Christ). “When he comes, he will explain everything to us.”"
+    },
+    {
+        "o": 29614,
+        "r": "csb:John:4:26",
+        "t": "Jesus*p told her, “I,*r the*r one*r speaking*r to*r you,*r am*r he.”*r"
+    },
+    {
+        "o": 29615,
+        "r": "csb:John:4:26",
+        "t": "The Ripened Harvest",
+        "h": 2
+    },
+    {
+        "o": 29616,
+        "r": "csb:John:4:27",
+        "t": "Just*p then his disciples arrived, and they were amazed that he was talking with a woman. Yet no one said, “What do you want?” or “Why are you talking with her?”"
+    },
+    {
+        "o": 29617,
+        "r": "csb:John:4:28",
+        "t": "Then*p the woman left her water jar, went into town, and told the people,"
+    },
+    {
+        "o": 29618,
+        "r": "csb:John:4:29",
+        "t": "“Come, see a man who told me everything I ever did. Could this be the Messiah?”"
+    },
+    {
+        "o": 29619,
+        "r": "csb:John:4:30",
+        "t": "They left the town and made their way to him."
+    },
+    {
+        "o": 29620,
+        "r": "csb:John:4:31",
+        "t": "In*p the meantime the disciples kept urging him, “Rabbi, eat something.”"
+    },
+    {
+        "o": 29621,
+        "r": "csb:John:4:32",
+        "t": "But*p he said, “I*r have*r food*r to*r eat*r that*r you*r don’t*r know*r about.”*r"
+    },
+    {
+        "o": 29622,
+        "r": "csb:John:4:33",
+        "t": "The*p disciples said to one another, “Could someone have brought him something to eat?”"
+    },
+    {
+        "o": 29623,
+        "r": "csb:John:4:34",
+        "t": "“My*rp food*r is*r to*r do*r the*r will*r of*r him*r who*r sent*r me*r and*r to*r finish*r his*r work,”*r Jesus told them."
+    },
+    {
+        "o": 29624,
+        "r": "csb:John:4:35",
+        "t": "“Don’t*r you*r say,*r ‘There*r are*r still*r four*r more*r months,*r and*r then*r comes*r the*r harvest’?*r Listen*r to*r what*r I’m*r telling*r you:*r Open*r your*r eyes*r and*r look*r at*r the*r fields,*r because*r they*r are*r ready*r for*r harvest.*r"
+    },
+    {
+        "o": 29625,
+        "r": "csb:John:4:36",
+        "t": "The*r reaper*r is*r already*r receiving*r pay*r and*r gathering*r fruit*r for*r eternal*r life,*r so*r that*r the*r sower*r and*r reaper*r can*r rejoice*r together.*r"
+    },
+    {
+        "o": 29626,
+        "r": "csb:John:4:37",
+        "t": "For*r in*r this*r case*r the*r saying*r is*r true:*r ‘One*r sows*r and*r another*r reaps.’*r"
+    },
+    {
+        "o": 29627,
+        "r": "csb:John:4:38",
+        "t": "I*r sent*r you*r to*r reap*r what*r you*r didn’t*r labor*r for;*r others*r have*r labored,*r and*r you*r have*r benefited*r from*r their*r labor.”*r"
+    },
+    {
+        "o": 29628,
+        "r": "csb:John:4:38",
+        "t": "The Savior of the World",
+        "h": 2
+    },
+    {
+        "o": 29629,
+        "r": "csb:John:4:39",
+        "t": "Now*p many Samaritans from that town believed in him because of what the woman said when she testified, “He told me everything I ever did.”"
+    },
+    {
+        "o": 29630,
+        "r": "csb:John:4:40",
+        "t": "So when the Samaritans came to him, they asked him to stay with them, and he stayed there two days."
+    },
+    {
+        "o": 29631,
+        "r": "csb:John:4:41",
+        "t": "Many more believed because of what he said."
+    },
+    {
+        "o": 29632,
+        "r": "csb:John:4:42",
+        "t": "And they told the woman, “We no longer believe because of what you said, since we have heard for ourselves and know that this really is the Savior of the world.”"
+    },
+    {
+        "o": 29633,
+        "r": "csb:John:4:42",
+        "t": "A Galilean Welcome",
+        "h": 2
+    },
+    {
+        "o": 29634,
+        "r": "csb:John:4:43",
+        "t": "After*p two days he left there for Galilee."
+    },
+    {
+        "o": 29635,
+        "r": "csb:John:4:44",
+        "t": "(Jesus himself had testified that a prophet has no honor in his own country.)"
+    },
+    {
+        "o": 29636,
+        "r": "csb:John:4:45",
+        "t": "When they entered Galilee, the Galileans welcomed him because they had seen everything he did in Jerusalem during the festival. For they also had gone to the festival."
+    },
+    {
+        "o": 29637,
+        "r": "csb:John:4:45",
+        "t": "The Second Sign: Healing an Official’s Son",
+        "h": 2
+    },
+    {
+        "o": 29638,
+        "r": "csb:John:4:46",
+        "t": "He*p went again to Cana of Galilee, where he had turned the water into wine. There was a certain royal official whose son was ill at Capernaum."
+    },
+    {
+        "o": 29639,
+        "r": "csb:John:4:47",
+        "t": "When this man heard that Jesus had come from Judea into Galilee, he went to him and pleaded with him to come down and heal his son, since he was about to die."
+    },
+    {
+        "o": 29640,
+        "r": "csb:John:4:48",
+        "t": "Jesus*p told him, “Unless*r you*r people*r see*r signs*r and*r wonders,*r you*r will*r not*r believe.”*r"
+    },
+    {
+        "o": 29641,
+        "r": "csb:John:4:49",
+        "t": "“Sir,”*p the official said to him, “come down before my boy dies.”"
+    },
+    {
+        "o": 29642,
+        "r": "csb:John:4:50",
+        "t": "“Go,”*rp Jesus told him, “your*r son*r will*r live.”*r The man believed what Jesus said to him and departed."
+    },
+    {
+        "o": 29643,
+        "r": "csb:John:4:51",
+        "t": "While*p he was still going down, his servants met him saying that his boy was alive."
+    },
+    {
+        "o": 29644,
+        "r": "csb:John:4:52",
+        "t": "He asked them at what time he got better. “Yesterday at one in the afternoon the fever left him,” they answered."
+    },
+    {
+        "o": 29645,
+        "r": "csb:John:4:53",
+        "t": "The father realized this was the very hour at which Jesus had told him, “Your*r son*r will*r live.”*r So he himself believed, along with his whole household."
+    },
+    {
+        "o": 29646,
+        "r": "csb:John:4:54",
+        "t": "Now*p this was also the second sign Jesus performed after he came from Judea to Galilee."
+    }
+]

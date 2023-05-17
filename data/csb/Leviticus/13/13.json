@@ -1,0 +1,315 @@
+[
+    {
+        "o": 3384,
+        "r": "csb:Leviticus:13:0",
+        "t": "Leviticus 13",
+        "h": 1
+    },
+    {
+        "o": 3385,
+        "r": "csb:Leviticus:13:0",
+        "t": "Skin Diseases",
+        "h": 2
+    },
+    {
+        "o": 3386,
+        "r": "csb:Leviticus:13:1",
+        "t": "The*p Lord*s spoke to Moses and Aaron:"
+    },
+    {
+        "o": 3387,
+        "r": "csb:Leviticus:13:2",
+        "t": "“When a person has a swelling, scab, or spot on the skin of his body, and it may be a serious disease on the skin of his body, he is to be brought to the priest Aaron or to one of his sons, the priests."
+    },
+    {
+        "o": 3388,
+        "r": "csb:Leviticus:13:3",
+        "t": "The priest will examine the sore on the skin of his body. If the hair in the sore has turned white and the sore appears to be deeper than the skin of his body, it is in fact a serious skin disease. After the priest examines him, he must pronounce him unclean."
+    },
+    {
+        "o": 3389,
+        "r": "csb:Leviticus:13:4",
+        "t": "But if the spot on the skin of his body is white and does not appear to be deeper than the skin, and the hair in it has not turned white, the priest will quarantine the stricken person for seven days."
+    },
+    {
+        "o": 3390,
+        "r": "csb:Leviticus:13:5",
+        "t": "The priest will then reexamine him on the seventh day. If he sees that the sore remains unchanged and has not spread on the skin, the priest will quarantine him for another seven days."
+    },
+    {
+        "o": 3391,
+        "r": "csb:Leviticus:13:6",
+        "t": "The priest will examine him again on the seventh day. If the sore has faded and has not spread on the skin, the priest is to pronounce him clean; it is a scab. The person is to wash his clothes and will become clean."
+    },
+    {
+        "o": 3392,
+        "r": "csb:Leviticus:13:7",
+        "t": "But if the scab spreads further on his skin after he has presented himself to the priest for his cleansing, he is to present himself again to the priest."
+    },
+    {
+        "o": 3393,
+        "r": "csb:Leviticus:13:8",
+        "t": "The priest will examine him, and if the scab has spread on the skin, then the priest must pronounce him unclean; he has a serious skin disease."
+    },
+    {
+        "o": 3394,
+        "r": "csb:Leviticus:13:9",
+        "t": "“When*p a case of serious skin disease may have developed on a person, he is to be brought to the priest."
+    },
+    {
+        "o": 3395,
+        "r": "csb:Leviticus:13:10",
+        "t": "The priest will examine him. If there is a white swelling on the skin that has turned the hair white, and there is a patch of raw flesh in the swelling,"
+    },
+    {
+        "o": 3396,
+        "r": "csb:Leviticus:13:11",
+        "t": "it is a chronic serious disease on the skin of his body, and the priest must pronounce him unclean. He need not quarantine him, for he is unclean."
+    },
+    {
+        "o": 3397,
+        "r": "csb:Leviticus:13:12",
+        "t": "But if the skin disease breaks out all over the skin so that it covers all the skin of the stricken person from his head to his feet so far as the priest can see,"
+    },
+    {
+        "o": 3398,
+        "r": "csb:Leviticus:13:13",
+        "t": "the priest will look, and if the skin disease has covered his entire body, he is to pronounce the stricken person clean. Since he has turned totally white, he is clean."
+    },
+    {
+        "o": 3399,
+        "r": "csb:Leviticus:13:14",
+        "t": "But whenever raw flesh appears on him, he will be unclean."
+    },
+    {
+        "o": 3400,
+        "r": "csb:Leviticus:13:15",
+        "t": "When the priest examines the raw flesh, he must pronounce him unclean. Raw flesh is unclean; this is a serious skin disease."
+    },
+    {
+        "o": 3401,
+        "r": "csb:Leviticus:13:16",
+        "t": "But if the raw flesh changes and turns white, he is to go to the priest."
+    },
+    {
+        "o": 3402,
+        "r": "csb:Leviticus:13:17",
+        "t": "The priest will examine him, and if the sore has turned white, the priest must pronounce the stricken person clean; he is clean."
+    },
+    {
+        "o": 3403,
+        "r": "csb:Leviticus:13:18",
+        "t": "“When*p a boil appears on the skin of someone’s body and it heals,"
+    },
+    {
+        "o": 3404,
+        "r": "csb:Leviticus:13:19",
+        "t": "and a white swelling or a reddish-white spot develops where the boil was, the person is to present himself to the priest."
+    },
+    {
+        "o": 3405,
+        "r": "csb:Leviticus:13:20",
+        "t": "The priest will make an examination, and if the spot seems to be beneath the skin and the hair in it has turned white, the priest must pronounce him unclean; it is a case of serious skin disease that has broken out in the boil."
+    },
+    {
+        "o": 3406,
+        "r": "csb:Leviticus:13:21",
+        "t": "But when the priest examines it, if there is no white hair in it, and it is not beneath the skin but is faded, the priest will quarantine him seven days."
+    },
+    {
+        "o": 3407,
+        "r": "csb:Leviticus:13:22",
+        "t": "If it spreads further on the skin, the priest must pronounce him unclean; it is in fact a disease."
+    },
+    {
+        "o": 3408,
+        "r": "csb:Leviticus:13:23",
+        "t": "But if the spot remains where it is and does not spread, it is only the scar from the boil. The priest is to pronounce him clean."
+    },
+    {
+        "o": 3409,
+        "r": "csb:Leviticus:13:24",
+        "t": "“When*p there is a burn on the skin of one’s body produced by fire, and the patch made raw by the burn becomes reddish-white or white,"
+    },
+    {
+        "o": 3410,
+        "r": "csb:Leviticus:13:25",
+        "t": "the priest is to examine it. If the hair in the spot has turned white and the spot appears to be deeper than the skin, it is a serious skin disease that has broken out in the burn. The priest must pronounce him unclean; it is a serious skin disease."
+    },
+    {
+        "o": 3411,
+        "r": "csb:Leviticus:13:26",
+        "t": "But when the priest examines it, if there is no white hair in the spot and it is not beneath the skin but is faded, the priest will quarantine him seven days."
+    },
+    {
+        "o": 3412,
+        "r": "csb:Leviticus:13:27",
+        "t": "The priest will reexamine him on the seventh day. If it has spread further on the skin, the priest must pronounce him unclean; it is in fact a case of serious skin disease."
+    },
+    {
+        "o": 3413,
+        "r": "csb:Leviticus:13:28",
+        "t": "But if the spot has remained where it was and has not spread on the skin but is faded, it is the swelling from the burn. The priest is to pronounce him clean, for it is only the scar from the burn."
+    },
+    {
+        "o": 3414,
+        "r": "csb:Leviticus:13:29",
+        "t": "“When*p a man or woman has a condition on the head or chin,"
+    },
+    {
+        "o": 3415,
+        "r": "csb:Leviticus:13:30",
+        "t": "the priest is to examine the condition. If it appears to be deeper than the skin, and the hair in it is yellow and sparse, the priest must pronounce the person unclean. It is a scaly outbreak, a serious skin disease of the head or chin."
+    },
+    {
+        "o": 3416,
+        "r": "csb:Leviticus:13:31",
+        "t": "When the priest examines the scaly condition, if it does not appear to be deeper than the skin, and there is no black hair in it, the priest will quarantine the person with the scaly condition for seven days."
+    },
+    {
+        "o": 3417,
+        "r": "csb:Leviticus:13:32",
+        "t": "The priest will reexamine the condition on the seventh day. If the scaly outbreak has not spread and there is no yellow hair in it and it does not appear to be deeper than the skin,"
+    },
+    {
+        "o": 3418,
+        "r": "csb:Leviticus:13:33",
+        "t": "the person is to shave himself but not shave the scaly area. Then the priest will quarantine the person who has the scaly outbreak for another seven days."
+    },
+    {
+        "o": 3419,
+        "r": "csb:Leviticus:13:34",
+        "t": "The priest will examine the scaly outbreak on the seventh day, and if it has not spread on the skin and does not appear to be deeper than the skin, the priest is to pronounce the person clean. He is to wash his clothes, and he will be clean."
+    },
+    {
+        "o": 3420,
+        "r": "csb:Leviticus:13:35",
+        "t": "But if the scaly outbreak spreads further on the skin after his cleansing,"
+    },
+    {
+        "o": 3421,
+        "r": "csb:Leviticus:13:36",
+        "t": "the priest is to examine the person. If the scaly outbreak has spread on the skin, the priest does not need to look for yellow hair; the person is unclean."
+    },
+    {
+        "o": 3422,
+        "r": "csb:Leviticus:13:37",
+        "t": "But if as far as he can see, the scaly outbreak remains unchanged and black hair has grown in it, then it has healed; he is clean. The priest is to pronounce the person clean."
+    },
+    {
+        "o": 3423,
+        "r": "csb:Leviticus:13:38",
+        "t": "“When*p a man or a woman has white spots on the skin of the body,"
+    },
+    {
+        "o": 3424,
+        "r": "csb:Leviticus:13:39",
+        "t": "the priest is to make an examination. If the spots on the skin of the body are dull white, it is only a rash that has broken out on the skin; the person is clean."
+    },
+    {
+        "o": 3425,
+        "r": "csb:Leviticus:13:40",
+        "t": "“If*p a man loses the hair of his head, he is bald, but he is clean."
+    },
+    {
+        "o": 3426,
+        "r": "csb:Leviticus:13:41",
+        "t": "Or if he loses the hair at his hairline, he is bald on his forehead, but he is clean."
+    },
+    {
+        "o": 3427,
+        "r": "csb:Leviticus:13:42",
+        "t": "But if there is a reddish-white condition on the bald head or forehead, it is a serious skin disease breaking out on his head or forehead."
+    },
+    {
+        "o": 3428,
+        "r": "csb:Leviticus:13:43",
+        "t": "The priest is to examine him, and if the swelling of the condition on his bald head or forehead is reddish-white, like the appearance of a serious skin disease on his body,"
+    },
+    {
+        "o": 3429,
+        "r": "csb:Leviticus:13:44",
+        "t": "the man is afflicted with a serious skin disease; he is unclean. The priest must pronounce him unclean; the infection is on his head."
+    },
+    {
+        "o": 3430,
+        "r": "csb:Leviticus:13:45",
+        "t": "“The*p person who has a case of serious skin disease is to have his clothes torn and his hair hanging loose, and he must cover his mouth and cry out, ‘Unclean, unclean!’"
+    },
+    {
+        "o": 3431,
+        "r": "csb:Leviticus:13:46",
+        "t": "He will remain unclean as long as he has the disease; he is unclean. He must live alone in a place outside the camp."
+    },
+    {
+        "o": 3432,
+        "r": "csb:Leviticus:13:46",
+        "t": "Contaminated Fabrics",
+        "h": 2
+    },
+    {
+        "o": 3433,
+        "r": "csb:Leviticus:13:47",
+        "t": "“If*p a fabric is contaminated with mildew — in wool or linen fabric,"
+    },
+    {
+        "o": 3434,
+        "r": "csb:Leviticus:13:48",
+        "t": "in the warp or weft of linen or wool, or in leather or anything made of leather —"
+    },
+    {
+        "o": 3435,
+        "r": "csb:Leviticus:13:49",
+        "t": "and if the contamination is green or red in the fabric, the leather, the warp, the weft, or any leather article, it is a mildew contamination and is to be shown to the priest."
+    },
+    {
+        "o": 3436,
+        "r": "csb:Leviticus:13:50",
+        "t": "The priest is to examine the contamination and quarantine the contaminated fabric for seven days."
+    },
+    {
+        "o": 3437,
+        "r": "csb:Leviticus:13:51",
+        "t": "The priest is to reexamine the contamination on the seventh day. If it has spread in the fabric, the warp, the weft, or the leather, regardless of how it is used, the contamination is harmful mildew; it is unclean."
+    },
+    {
+        "o": 3438,
+        "r": "csb:Leviticus:13:52",
+        "t": "He is to burn the fabric, the warp or weft in wool or linen, or any leather article, which is contaminated. Since it is harmful mildew it must be burned."
+    },
+    {
+        "o": 3439,
+        "r": "csb:Leviticus:13:53",
+        "t": "“When*p the priest examines it, if the contamination has not spread in the fabric, the warp or weft, or any leather article,"
+    },
+    {
+        "o": 3440,
+        "r": "csb:Leviticus:13:54",
+        "t": "the priest is to order whatever is contaminated to be washed and quarantined for another seven days."
+    },
+    {
+        "o": 3441,
+        "r": "csb:Leviticus:13:55",
+        "t": "After it has been washed, the priest is to reexamine the contamination. If the appearance of the contaminated article has not changed, it is unclean. Even though the contamination has not spread, you must burn the fabric. It is a fungus on the front or back of the fabric."
+    },
+    {
+        "o": 3442,
+        "r": "csb:Leviticus:13:56",
+        "t": "“If*p the priest examines it, and the contamination has faded after it has been washed, he is to cut the contaminated section out of the fabric, the leather, or the warp or weft."
+    },
+    {
+        "o": 3443,
+        "r": "csb:Leviticus:13:57",
+        "t": "But if it reappears in the fabric, the warp or weft, or any leather article, it has broken out again. You must burn whatever is contaminated."
+    },
+    {
+        "o": 3444,
+        "r": "csb:Leviticus:13:58",
+        "t": "But if the contamination disappears from the fabric, the warp or weft, or any leather article, which have been washed, it is to be washed again, and it will be clean."
+    },
+    {
+        "o": 3445,
+        "r": "csb:Leviticus:13:59",
+        "t": "“This*p is the law concerning a mildew contamination in wool or linen fabric, warp or weft, or any leather article, in order to pronounce it clean or unclean.”"
+    }
+]

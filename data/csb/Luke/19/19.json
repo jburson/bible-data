@@ -1,0 +1,278 @@
+[
+    {
+        "o": 29105,
+        "r": "csb:Luke:19:0",
+        "t": "Luke 19",
+        "h": 1
+    },
+    {
+        "o": 29106,
+        "r": "csb:Luke:19:0",
+        "t": "Jesus Visits Zacchaeus",
+        "h": 2
+    },
+    {
+        "o": 29107,
+        "r": "csb:Luke:19:1",
+        "t": "He*p entered Jericho and was passing through."
+    },
+    {
+        "o": 29108,
+        "r": "csb:Luke:19:2",
+        "t": "There was a man named Zacchaeus who was a chief tax collector, and he was rich."
+    },
+    {
+        "o": 29109,
+        "r": "csb:Luke:19:3",
+        "t": "He was trying to see who Jesus was, but he was not able because of the crowd, since he was a short man."
+    },
+    {
+        "o": 29110,
+        "r": "csb:Luke:19:4",
+        "t": "So running ahead, he climbed up a sycamore tree to see Jesus, since he was about to pass that way."
+    },
+    {
+        "o": 29111,
+        "r": "csb:Luke:19:5",
+        "t": "When Jesus came to the place, he looked up and said to him, “Zacchaeus,*r hurry*r and*r come*r down*r because*r today*r it*r is*r necessary*r for*r me*r to*r stay*r at*r your*r house.”*r"
+    },
+    {
+        "o": 29112,
+        "r": "csb:Luke:19:6",
+        "t": "So*p he quickly came down and welcomed him joyfully."
+    },
+    {
+        "o": 29113,
+        "r": "csb:Luke:19:7",
+        "t": "All who saw it began to complain, “He’s gone to stay with a sinful man.”"
+    },
+    {
+        "o": 29114,
+        "r": "csb:Luke:19:8",
+        "t": "But*p Zacchaeus stood there and said to the Lord, “Look, I’ll give half of my possessions to the poor, Lord. And if I have extorted anything from anyone, I’ll pay back four times as much.”"
+    },
+    {
+        "o": 29115,
+        "r": "csb:Luke:19:9",
+        "t": "“Today*rp salvation*r has*r come*r to*r this*r house,”*r Jesus told him, “because*r he*r too*r is*r a*r son*r of*r Abraham.*r"
+    },
+    {
+        "o": 29116,
+        "r": "csb:Luke:19:10",
+        "t": "For*r the*r Son*r of*r Man*r has*r come*r to*r seek*r and*r to*r save*r the*r lost.”*r"
+    },
+    {
+        "o": 29117,
+        "r": "csb:Luke:19:10",
+        "t": "The Parable of the Ten Minas",
+        "h": 2
+    },
+    {
+        "o": 29118,
+        "r": "csb:Luke:19:11",
+        "t": "As*p they were listening to this, he went on to tell a parable because he was near Jerusalem, and they thought the kingdom of God was going to appear right away."
+    },
+    {
+        "o": 29119,
+        "r": "csb:Luke:19:12",
+        "t": "Therefore*p he said, “A*r nobleman*r traveled*r to*r a*r far*r country*r to*r receive*r for*r himself*r authority*r to*r be*r king*r and*r then*r to*r return.*r"
+    },
+    {
+        "o": 29120,
+        "r": "csb:Luke:19:13",
+        "t": "He*r called*r ten*r of*r his*r servants,*r gave*r them*r ten*r minas,*r and*r told*r them,*r ‘Engage*r in*r business*r until*r I*r come*r back.’*r"
+    },
+    {
+        "o": 29121,
+        "r": "csb:Luke:19:14",
+        "t": "“But*rp his*r subjects*r hated*r him*r and*r sent*r a*r delegation*r after*r him,*r saying,*r ‘We*r don’t*r want*r this*r man*r to*r rule*r over*r us.’*r"
+    },
+    {
+        "o": 29122,
+        "r": "csb:Luke:19:15",
+        "t": "“At*rp his*r return,*r having*r received*r the*r authority*r to*r be*r king,*r he*r summoned*r those*r servants*r he*r had*r given*r the*r money*r to,*r so*r that*r he*r could*r find*r out*r how*r much*r they*r had*r made*r in*r business.*r"
+    },
+    {
+        "o": 29123,
+        "r": "csb:Luke:19:16",
+        "t": "The*r first*r came*r forward*r and*r said,*r ‘Master,*r your*r mina*r has*r earned*r ten*r more*r minas.’*r"
+    },
+    {
+        "o": 29124,
+        "r": "csb:Luke:19:17",
+        "t": "“‘Well*rp done,*r good*r servant! ’*r he*r told*r him.*r ‘Because*r you*r have*r been*r faithful*r in*r a*r very*r small*r matter,*r have*r authority*r over*r ten*r towns.’*r"
+    },
+    {
+        "o": 29125,
+        "r": "csb:Luke:19:18",
+        "t": "“The*rp second*r came*r and*r said,*r ‘Master,*r your*r mina*r has*r made*r five*r minas.’*r"
+    },
+    {
+        "o": 29126,
+        "r": "csb:Luke:19:19",
+        "t": "“So*rp he*r said*r to*r him,*r ‘You*r will*r be*r over*r five*r towns.’*r"
+    },
+    {
+        "o": 29127,
+        "r": "csb:Luke:19:20",
+        "t": "“And*rp another*r came*r and*r said,*r ‘Master,*r here*r is*r your*r mina.*r I*r have*r kept*r it*r safe*r in*r a*r cloth*r"
+    },
+    {
+        "o": 29128,
+        "r": "csb:Luke:19:21",
+        "t": "because*r I*r was*r afraid*r of*r you*r since*r you’re*r a*r harsh*r man:*r you*r collect*r what*r you*r didn’t*r deposit*r and*r reap*r what*r you*r didn’t*r sow.’*r"
+    },
+    {
+        "o": 29129,
+        "r": "csb:Luke:19:22",
+        "t": "“He*rp told*r him,*r ‘I*r will*r condemn*r you*r by*r what*r you*r have*r said,*r you*r evil*r servant!*r If*r you*r knew*r I*r was*r a*r harsh*r man,*r collecting*r what*r I*r didn’t*r deposit*r and*r reaping*r what*r I*r didn’t*r sow,*r"
+    },
+    {
+        "o": 29130,
+        "r": "csb:Luke:19:23",
+        "t": "why,*r then,*r didn’t*r you*r put*r my*r money*r in*r the*r bank?*r And*r when*r I*r returned,*r I*r would*r have*r collected*r it*r with*r interest.’*r"
+    },
+    {
+        "o": 29131,
+        "r": "csb:Luke:19:24",
+        "t": "So*r he*r said*r to*r those*r standing*r there,*r ‘Take*r the*r mina*r away*r from*r him*r and*r give*r it*r to*r the*r one*r who*r has*r ten*r minas.’*r"
+    },
+    {
+        "o": 29132,
+        "r": "csb:Luke:19:25",
+        "t": "“But*rp they*r said*r to*r him,*r ‘Master,*r he*r has*r ten*r minas.’*r"
+    },
+    {
+        "o": 29133,
+        "r": "csb:Luke:19:26",
+        "t": "“‘I*rp tell*r you,*r that*r to*r everyone*r who*r has,*r more*r will*r be*r given;*r and*r from*r the*r one*r who*r does*r not*r have,*r even*r what*r he*r does*r have*r will*r be*r taken*r away.*r"
+    },
+    {
+        "o": 29134,
+        "r": "csb:Luke:19:27",
+        "t": "But*r bring*r here*r these*r enemies*r of*r mine,*r who*r did*r not*r want*r me*r to*r rule*r over*r them,*r and*r slaughter*r them*r in*r my*r presence.’”*r"
+    },
+    {
+        "o": 29135,
+        "r": "csb:Luke:19:27",
+        "t": "The Triumphal Entry",
+        "h": 2
+    },
+    {
+        "o": 29136,
+        "r": "csb:Luke:19:28",
+        "t": "When*p he had said these things, he went on ahead, going up to Jerusalem."
+    },
+    {
+        "o": 29137,
+        "r": "csb:Luke:19:29",
+        "t": "As he approached Bethphage and Bethany, at the place called the Mount of Olives, he sent two of the disciples"
+    },
+    {
+        "o": 29138,
+        "r": "csb:Luke:19:30",
+        "t": "and said, “Go*r into*r the*r village*r ahead*r of*r you.*r As*r you*r enter*r it,*r you*r will*r find*r a*r colt*r tied*r there,*r on*r which*r no*r one*r has*r ever*r sat.*r Untie*r it*r and*r bring*r it.*r"
+    },
+    {
+        "o": 29139,
+        "r": "csb:Luke:19:31",
+        "t": "If*r anyone*r asks*r you,*r ‘Why*r are*r you*r untying*r it? ’*r say*r this:*r ‘The*r Lord*r needs*r it.’”*r"
+    },
+    {
+        "o": 29140,
+        "r": "csb:Luke:19:32",
+        "t": "So*p those who were sent left and found it just as he had told them."
+    },
+    {
+        "o": 29141,
+        "r": "csb:Luke:19:33",
+        "t": "As they were untying the colt, its owners said to them, “Why are you untying the colt?”"
+    },
+    {
+        "o": 29142,
+        "r": "csb:Luke:19:34",
+        "t": "“The*p Lord needs it,” they said."
+    },
+    {
+        "o": 29143,
+        "r": "csb:Luke:19:35",
+        "t": "Then they brought it to Jesus, and after throwing their clothes on the colt, they helped Jesus get on it."
+    },
+    {
+        "o": 29144,
+        "r": "csb:Luke:19:36",
+        "t": "As he was going along, they were spreading their clothes on the road."
+    },
+    {
+        "o": 29145,
+        "r": "csb:Luke:19:37",
+        "t": "Now he came near the path down the Mount of Olives, and the whole crowd of the disciples began to praise God joyfully with a loud voice for all the miracles they had seen:"
+    },
+    {
+        "o": 29146,
+        "r": "csb:Luke:19:38",
+        "t": "Blessed*ipn is*i the*i King*i who*i comes*i in*iln the*i name*i of*i the*i Lord.*i Peace*ln in heaven and*ln glory in the highest heaven!"
+    },
+    {
+        "o": 29147,
+        "r": "csb:Luke:19:39",
+        "t": "Some*p of the Pharisees from the crowd told him, “Teacher, rebuke your disciples.”"
+    },
+    {
+        "o": 29148,
+        "r": "csb:Luke:19:40",
+        "t": "He*p answered, “I*r tell*r you,*r if*r they*r were*r to*r keep*r silent,*r the*r stones*r would*r cry*r out.”*r"
+    },
+    {
+        "o": 29149,
+        "r": "csb:Luke:19:40",
+        "t": "Jesus’s Love for Jerusalem",
+        "h": 2
+    },
+    {
+        "o": 29150,
+        "r": "csb:Luke:19:41",
+        "t": "As*p he approached and saw the city, he wept for it,"
+    },
+    {
+        "o": 29151,
+        "r": "csb:Luke:19:42",
+        "t": "saying, “If*r you*r knew*r this*r day*r what*r would*r bring*r peace — but*r now*r it*r is*r hidden*r from*r your*r eyes.*r"
+    },
+    {
+        "o": 29152,
+        "r": "csb:Luke:19:43",
+        "t": "For*r the*r days*r will*r come*r on*r you*r when*r your*r enemies*r will*r build*r a*r barricade*r around*r you,*r surround*r you,*r and*r hem*r you*r in*r on*r every*r side.*r"
+    },
+    {
+        "o": 29153,
+        "r": "csb:Luke:19:44",
+        "t": "They*r will*r crush*r you*r and*r your*r children*r among*r you*r to*r the*r ground,*r and*r they*r will*r not*r leave*r one*r stone*r on*r another*r in*r your*r midst,*r because*r you*r did*r not*r recognize*r the*r time*r when*r God*r visited*r you.”*r"
+    },
+    {
+        "o": 29154,
+        "r": "csb:Luke:19:44",
+        "t": "Cleansing the Temple",
+        "h": 2
+    },
+    {
+        "o": 29155,
+        "r": "csb:Luke:19:45",
+        "t": "He*p went into the temple and began to throw out those who were selling,"
+    },
+    {
+        "o": 29156,
+        "r": "csb:Luke:19:46",
+        "t": "and he said, “It*r is*r written,*r my*ir house*ir will*ir be*ir a*ir house*ir of*ir prayer,*ir but*r you*r have*r made*r it*r a*ir den*ir of*ir thieves!”*ir"
+    },
+    {
+        "o": 29157,
+        "r": "csb:Luke:19:47",
+        "t": "Every*p day he was teaching in the temple. The chief priests, the scribes, and the leaders of the people were looking for a way to kill him,"
+    },
+    {
+        "o": 29158,
+        "r": "csb:Luke:19:48",
+        "t": "but they could not find a way to do it, because all the people were captivated by what they heard."
+    }
+]
