@@ -1,0 +1,174 @@
+[
+    {
+        "o": 115,
+        "r": "nasb:Genesis:5:0",
+        "t": "Genesis 5",
+        "h": 1
+    },
+    {
+        "o": 116,
+        "r": "nasb:Genesis:5:0",
+        "t": "Descendants of Adam",
+        "h": 2
+    },
+    {
+        "o": 117,
+        "r": "nasb:Genesis:5:1",
+        "t": "This*p is the book of the generations of Adam. In the day when God created man, He made him in the likeness of God."
+    },
+    {
+        "o": 118,
+        "r": "nasb:Genesis:5:2",
+        "t": "He created them male and female, and He blessed them and named them Man in the day when they were created."
+    },
+    {
+        "o": 119,
+        "r": "nasb:Genesis:5:3",
+        "t": "When*p Adam had lived one hundred and thirty years, he became the father of a*i son*i in his own likeness, according to his image, and named him Seth."
+    },
+    {
+        "o": 120,
+        "r": "nasb:Genesis:5:4",
+        "t": "Then the days of Adam after he became the father of Seth were eight hundred years, and he had other*i sons and daughters."
+    },
+    {
+        "o": 121,
+        "r": "nasb:Genesis:5:5",
+        "t": "So all the days that Adam lived were nine hundred and thirty years, and he died."
+    },
+    {
+        "o": 122,
+        "r": "nasb:Genesis:5:6",
+        "t": "Seth*p lived one hundred and five years, and became the father of Enosh."
+    },
+    {
+        "o": 123,
+        "r": "nasb:Genesis:5:7",
+        "t": "Then Seth lived eight hundred and seven years after he became the father of Enosh, and he had other*i sons and daughters."
+    },
+    {
+        "o": 124,
+        "r": "nasb:Genesis:5:8",
+        "t": "So all the days of Seth were nine hundred and twelve years, and he died."
+    },
+    {
+        "o": 125,
+        "r": "nasb:Genesis:5:9",
+        "t": "Enosh*p lived ninety years, and became the father of Kenan."
+    },
+    {
+        "o": 126,
+        "r": "nasb:Genesis:5:10",
+        "t": "Then Enosh lived eight hundred and fifteen years after he became the father of Kenan, and he had other*i sons and daughters."
+    },
+    {
+        "o": 127,
+        "r": "nasb:Genesis:5:11",
+        "t": "So all the days of Enosh were nine hundred and five years, and he died."
+    },
+    {
+        "o": 128,
+        "r": "nasb:Genesis:5:12",
+        "t": "Kenan*p lived seventy years, and became the father of Mahalalel."
+    },
+    {
+        "o": 129,
+        "r": "nasb:Genesis:5:13",
+        "t": "Then Kenan lived eight hundred and forty years after he became the father of Mahalalel, and he had other*i sons and daughters."
+    },
+    {
+        "o": 130,
+        "r": "nasb:Genesis:5:14",
+        "t": "So all the days of Kenan were nine hundred and ten years, and he died."
+    },
+    {
+        "o": 131,
+        "r": "nasb:Genesis:5:15",
+        "t": "Mahalalel*p lived sixty-five years, and became the father of Jared."
+    },
+    {
+        "o": 132,
+        "r": "nasb:Genesis:5:16",
+        "t": "Then Mahalalel lived eight hundred and thirty years after he became the father of Jared, and he had other*i sons and daughters."
+    },
+    {
+        "o": 133,
+        "r": "nasb:Genesis:5:17",
+        "t": "So all the days of Mahalalel were eight hundred and ninety-five years, and he died."
+    },
+    {
+        "o": 134,
+        "r": "nasb:Genesis:5:18",
+        "t": "Jared*p lived one hundred and sixty-two years, and became the father of Enoch."
+    },
+    {
+        "o": 135,
+        "r": "nasb:Genesis:5:19",
+        "t": "Then Jared lived eight hundred years after he became the father of Enoch, and he had other*i sons and daughters."
+    },
+    {
+        "o": 136,
+        "r": "nasb:Genesis:5:20",
+        "t": "So all the days of Jared were nine hundred and sixty-two years, and he died."
+    },
+    {
+        "o": 137,
+        "r": "nasb:Genesis:5:21",
+        "t": "Enoch*p lived sixty-five years, and became the father of Methuselah."
+    },
+    {
+        "o": 138,
+        "r": "nasb:Genesis:5:22",
+        "t": "Then Enoch walked with God three hundred years after he became the father of Methuselah, and he had other*i sons and daughters."
+    },
+    {
+        "o": 139,
+        "r": "nasb:Genesis:5:23",
+        "t": "So all the days of Enoch were three hundred and sixty-five years."
+    },
+    {
+        "o": 140,
+        "r": "nasb:Genesis:5:24",
+        "t": "Enoch walked with God; and he was not, for God took him."
+    },
+    {
+        "o": 141,
+        "r": "nasb:Genesis:5:25",
+        "t": "Methuselah*p lived one hundred and eighty-seven years, and became the father of Lamech."
+    },
+    {
+        "o": 142,
+        "r": "nasb:Genesis:5:26",
+        "t": "Then Methuselah lived seven hundred and eighty-two years after he became the father of Lamech, and he had other*i sons and daughters."
+    },
+    {
+        "o": 143,
+        "r": "nasb:Genesis:5:27",
+        "t": "So all the days of Methuselah were nine hundred and sixty-nine years, and he died."
+    },
+    {
+        "o": 144,
+        "r": "nasb:Genesis:5:28",
+        "t": "Lamech*p lived one hundred and eighty-two years, and became the father of a son."
+    },
+    {
+        "o": 145,
+        "r": "nasb:Genesis:5:29",
+        "t": "Now he called his name Noah, saying, “This one will give us rest from our work and from the toil of our hands arising*i from the ground which the Lord*s has cursed.”"
+    },
+    {
+        "o": 146,
+        "r": "nasb:Genesis:5:30",
+        "t": "Then Lamech lived five hundred and ninety-five years after he became the father of Noah, and he had other*i sons and daughters."
+    },
+    {
+        "o": 147,
+        "r": "nasb:Genesis:5:31",
+        "t": "So all the days of Lamech were seven hundred and seventy-seven years, and he died."
+    },
+    {
+        "o": 148,
+        "r": "nasb:Genesis:5:32",
+        "t": "Noah*p was five hundred years old, and Noah became the father of Shem, Ham, and Japheth."
+    }
+]

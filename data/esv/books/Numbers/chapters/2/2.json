@@ -1,0 +1,184 @@
+[
+    {
+        "o": 3984,
+        "r": "esv:Numbers:2:0",
+        "t": "Numbers 2",
+        "h": 1
+    },
+    {
+        "o": 3985,
+        "r": "esv:Numbers:2:0",
+        "t": "Arrangement of the Camp",
+        "h": 2
+    },
+    {
+        "o": 3986,
+        "r": "esv:Numbers:2:1",
+        "t": "The*p Lord*s spoke to Moses and Aaron, saying,"
+    },
+    {
+        "o": 3987,
+        "r": "esv:Numbers:2:2",
+        "t": "“The people of Israel shall camp each by his own standard, with the banners of their fathers’ houses. They shall camp facing the tent of meeting on every side."
+    },
+    {
+        "o": 3988,
+        "r": "esv:Numbers:2:3",
+        "t": "Those to camp on the east side toward the sunrise shall be of the standard of the camp of Judah by their companies, the chief of the people of Judah being Nahshon the son of Amminadab,"
+    },
+    {
+        "o": 3989,
+        "r": "esv:Numbers:2:4",
+        "t": "his company as listed being 74,600."
+    },
+    {
+        "o": 3990,
+        "r": "esv:Numbers:2:5",
+        "t": "Those to camp next to him shall be the tribe of Issachar, the chief of the people of Issachar being Nethanel the son of Zuar,"
+    },
+    {
+        "o": 3991,
+        "r": "esv:Numbers:2:6",
+        "t": "his company as listed being 54,400."
+    },
+    {
+        "o": 3992,
+        "r": "esv:Numbers:2:7",
+        "t": "Then the tribe of Zebulun, the chief of the people of Zebulun being Eliab the son of Helon,"
+    },
+    {
+        "o": 3993,
+        "r": "esv:Numbers:2:8",
+        "t": "his company as listed being 57,400."
+    },
+    {
+        "o": 3994,
+        "r": "esv:Numbers:2:9",
+        "t": "All those listed of the camp of Judah, by their companies, were 186,400. They shall set out first on the march."
+    },
+    {
+        "o": 3995,
+        "r": "esv:Numbers:2:10",
+        "t": "“On*p the south side shall be the standard of the camp of Reuben by their companies, the chief of the people of Reuben being Elizur the son of Shedeur,"
+    },
+    {
+        "o": 3996,
+        "r": "esv:Numbers:2:11",
+        "t": "his company as listed being 46,500."
+    },
+    {
+        "o": 3997,
+        "r": "esv:Numbers:2:12",
+        "t": "And those to camp next to him shall be the tribe of Simeon, the chief of the people of Simeon being Shelumiel the son of Zurishaddai,"
+    },
+    {
+        "o": 3998,
+        "r": "esv:Numbers:2:13",
+        "t": "his company as listed being 59,300."
+    },
+    {
+        "o": 3999,
+        "r": "esv:Numbers:2:14",
+        "t": "Then the tribe of Gad, the chief of the people of Gad being Eliasaph the son of Reuel,"
+    },
+    {
+        "o": 4000,
+        "r": "esv:Numbers:2:15",
+        "t": "his company as listed being 45,650."
+    },
+    {
+        "o": 4001,
+        "r": "esv:Numbers:2:16",
+        "t": "All those listed of the camp of Reuben, by their companies, were 151,450. They shall set out second."
+    },
+    {
+        "o": 4002,
+        "r": "esv:Numbers:2:17",
+        "t": "“Then*p the tent of meeting shall set out, with the camp of the Levites in the midst of the camps; as they camp, so shall they set out, each in position, standard by standard."
+    },
+    {
+        "o": 4003,
+        "r": "esv:Numbers:2:18",
+        "t": "“On*p the west side shall be the standard of the camp of Ephraim by their companies, the chief of the people of Ephraim being Elishama the son of Ammihud,"
+    },
+    {
+        "o": 4004,
+        "r": "esv:Numbers:2:19",
+        "t": "his company as listed being 40,500."
+    },
+    {
+        "o": 4005,
+        "r": "esv:Numbers:2:20",
+        "t": "And next to him shall be the tribe of Manasseh, the chief of the people of Manasseh being Gamaliel the son of Pedahzur,"
+    },
+    {
+        "o": 4006,
+        "r": "esv:Numbers:2:21",
+        "t": "his company as listed being 32,200."
+    },
+    {
+        "o": 4007,
+        "r": "esv:Numbers:2:22",
+        "t": "Then the tribe of Benjamin, the chief of the people of Benjamin being Abidan the son of Gideoni,"
+    },
+    {
+        "o": 4008,
+        "r": "esv:Numbers:2:23",
+        "t": "his company as listed being 35,400."
+    },
+    {
+        "o": 4009,
+        "r": "esv:Numbers:2:24",
+        "t": "All those listed of the camp of Ephraim, by their companies, were 108,100. They shall set out third on the march."
+    },
+    {
+        "o": 4010,
+        "r": "esv:Numbers:2:25",
+        "t": "“On*p the north side shall be the standard of the camp of Dan by their companies, the chief of the people of Dan being Ahiezer the son of Ammishaddai,"
+    },
+    {
+        "o": 4011,
+        "r": "esv:Numbers:2:26",
+        "t": "his company as listed being 62,700."
+    },
+    {
+        "o": 4012,
+        "r": "esv:Numbers:2:27",
+        "t": "And those to camp next to him shall be the tribe of Asher, the chief of the people of Asher being Pagiel the son of Ochran,"
+    },
+    {
+        "o": 4013,
+        "r": "esv:Numbers:2:28",
+        "t": "his company as listed being 41,500."
+    },
+    {
+        "o": 4014,
+        "r": "esv:Numbers:2:29",
+        "t": "Then the tribe of Naphtali, the chief of the people of Naphtali being Ahira the son of Enan,"
+    },
+    {
+        "o": 4015,
+        "r": "esv:Numbers:2:30",
+        "t": "his company as listed being 53,400."
+    },
+    {
+        "o": 4016,
+        "r": "esv:Numbers:2:31",
+        "t": "All those listed of the camp of Dan were 157,600. They shall set out last, standard by standard.”"
+    },
+    {
+        "o": 4017,
+        "r": "esv:Numbers:2:32",
+        "t": "These*p are the people of Israel as listed by their fathers’ houses. All those listed in the camps by their companies were 603,550."
+    },
+    {
+        "o": 4018,
+        "r": "esv:Numbers:2:33",
+        "t": "But the Levites were not listed among the people of Israel, as the Lord*s commanded Moses."
+    },
+    {
+        "o": 4019,
+        "r": "esv:Numbers:2:34",
+        "t": "Thus*p did the people of Israel. According to all that the Lord*s commanded Moses, so they camped by their standards, and so they set out, each one in his clan, according to his fathers’ house."
+    }
+]

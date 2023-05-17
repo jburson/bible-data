@@ -1,0 +1,4537 @@
+[
+    {
+        "o": 9511,
+        "r": "niv:1 Kings:1:0",
+        "t": "1 Kings 1",
+        "h": 1
+    },
+    {
+        "o": 9512,
+        "r": "niv:1 Kings:1:0",
+        "t": "Adonijah Sets Himself Up as King",
+        "h": 2
+    },
+    {
+        "o": 9513,
+        "r": "niv:1 Kings:1:1",
+        "t": "When*p King David was very old, he could not keep warm even when they put covers over him."
+    },
+    {
+        "o": 9514,
+        "r": "niv:1 Kings:1:2",
+        "t": "So his attendants said to him, “Let us look for a young virgin to serve the king and take care of him. She can lie beside him so that our lord the king may keep warm.”"
+    },
+    {
+        "o": 9515,
+        "r": "niv:1 Kings:1:3",
+        "t": "Then*p they searched throughout Israel for a beautiful young woman and found Abishag, a Shunammite, and brought her to the king."
+    },
+    {
+        "o": 9516,
+        "r": "niv:1 Kings:1:4",
+        "t": "The woman was very beautiful; she took care of the king and waited on him, but the king had no sexual relations with her."
+    },
+    {
+        "o": 9517,
+        "r": "niv:1 Kings:1:5",
+        "t": "Now*p Adonijah, whose mother was Haggith, put himself forward and said, “I will be king.” So he got chariots and horses ready, with fifty men to run ahead of him."
+    },
+    {
+        "o": 9518,
+        "r": "niv:1 Kings:1:6",
+        "t": "(His father had never rebuked him by asking, “Why do you behave as you do?” He was also very handsome and was born next after Absalom.)"
+    },
+    {
+        "o": 9519,
+        "r": "niv:1 Kings:1:7",
+        "t": "Adonijah*p conferred with Joab son of Zeruiah and with Abiathar the priest, and they gave him their support."
+    },
+    {
+        "o": 9520,
+        "r": "niv:1 Kings:1:8",
+        "t": "But Zadok the priest, Benaiah son of Jehoiada, Nathan the prophet, Shimei and Rei and David’s special guard did not join Adonijah."
+    },
+    {
+        "o": 9521,
+        "r": "niv:1 Kings:1:9",
+        "t": "Adonijah*p then sacrificed sheep, cattle and fattened calves at the Stone of Zoheleth near En Rogel. He invited all his brothers, the king’s sons, and all the royal officials of Judah,"
+    },
+    {
+        "o": 9522,
+        "r": "niv:1 Kings:1:10",
+        "t": "but he did not invite Nathan the prophet or Benaiah or the special guard or his brother Solomon."
+    },
+    {
+        "o": 9523,
+        "r": "niv:1 Kings:1:11",
+        "t": "Then*p Nathan asked Bathsheba, Solomon’s mother, “Have you not heard that Adonijah, the son of Haggith, has become king, and our lord David knows nothing about it?"
+    },
+    {
+        "o": 9524,
+        "r": "niv:1 Kings:1:12",
+        "t": "Now then, let me advise you how you can save your own life and the life of your son Solomon."
+    },
+    {
+        "o": 9525,
+        "r": "niv:1 Kings:1:13",
+        "t": "Go in to King David and say to him, ‘My lord the king, did you not swear to me your servant: “Surely Solomon your son shall be king after me, and he will sit on my throne”? Why then has Adonijah become king?’"
+    },
+    {
+        "o": 9526,
+        "r": "niv:1 Kings:1:14",
+        "t": "While you are still there talking to the king, I will come in and add my word to what you have said.”"
+    },
+    {
+        "o": 9527,
+        "r": "niv:1 Kings:1:15",
+        "t": "So*p Bathsheba went to see the aged king in his room, where Abishag the Shunammite was attending him."
+    },
+    {
+        "o": 9528,
+        "r": "niv:1 Kings:1:16",
+        "t": "Bathsheba bowed down, prostrating herself before the king. “What*p is it you want?” the king asked."
+    },
+    {
+        "o": 9529,
+        "r": "niv:1 Kings:1:17",
+        "t": "She*p said to him, “My lord, you yourself swore to me your servant by the Lord*s your God: ‘Solomon your son shall be king after me, and he will sit on my throne.’"
+    },
+    {
+        "o": 9530,
+        "r": "niv:1 Kings:1:18",
+        "t": "But now Adonijah has become king, and you, my lord the king, do not know about it."
+    },
+    {
+        "o": 9531,
+        "r": "niv:1 Kings:1:19",
+        "t": "He has sacrificed great numbers of cattle, fattened calves, and sheep, and has invited all the king’s sons, Abiathar the priest and Joab the commander of the army, but he has not invited Solomon your servant."
+    },
+    {
+        "o": 9532,
+        "r": "niv:1 Kings:1:20",
+        "t": "My lord the king, the eyes of all Israel are on you, to learn from you who will sit on the throne of my lord the king after him."
+    },
+    {
+        "o": 9533,
+        "r": "niv:1 Kings:1:21",
+        "t": "Otherwise, as soon as my lord the king is laid to rest with his ancestors, I and my son Solomon will be treated as criminals.”"
+    },
+    {
+        "o": 9534,
+        "r": "niv:1 Kings:1:22",
+        "t": "While*p she was still speaking with the king, Nathan the prophet arrived."
+    },
+    {
+        "o": 9535,
+        "r": "niv:1 Kings:1:23",
+        "t": "And the king was told, “Nathan the prophet is here.” So he went before the king and bowed with his face to the ground."
+    },
+    {
+        "o": 9536,
+        "r": "niv:1 Kings:1:24",
+        "t": "Nathan*p said, “Have you, my lord the king, declared that Adonijah shall be king after you, and that he will sit on your throne?"
+    },
+    {
+        "o": 9537,
+        "r": "niv:1 Kings:1:25",
+        "t": "Today he has gone down and sacrificed great numbers of cattle, fattened calves, and sheep. He has invited all the king’s sons, the commanders of the army and Abiathar the priest. Right now they are eating and drinking with him and saying, ‘Long live King Adonijah!’"
+    },
+    {
+        "o": 9538,
+        "r": "niv:1 Kings:1:26",
+        "t": "But me your servant, and Zadok the priest, and Benaiah son of Jehoiada, and your servant Solomon he did not invite."
+    },
+    {
+        "o": 9539,
+        "r": "niv:1 Kings:1:27",
+        "t": "Is this something my lord the king has done without letting his servants know who should sit on the throne of my lord the king after him?”"
+    },
+    {
+        "o": 9540,
+        "r": "niv:1 Kings:1:27",
+        "t": "David Makes Solomon King",
+        "h": 2
+    },
+    {
+        "o": 9541,
+        "r": "niv:1 Kings:1:28",
+        "t": "Then*p King David said, “Call in Bathsheba.” So she came into the king’s presence and stood before him."
+    },
+    {
+        "o": 9542,
+        "r": "niv:1 Kings:1:29",
+        "t": "The*p king then took an oath: “As surely as the Lord*s lives, who has delivered me out of every trouble,"
+    },
+    {
+        "o": 9543,
+        "r": "niv:1 Kings:1:30",
+        "t": "I will surely carry out this very day what I swore to you by the Lord,*s the God of Israel: Solomon your son shall be king after me, and he will sit on my throne in my place.”"
+    },
+    {
+        "o": 9544,
+        "r": "niv:1 Kings:1:31",
+        "t": "Then*p Bathsheba bowed down with her face to the ground, prostrating herself before the king, and said, “May my lord King David live forever!”"
+    },
+    {
+        "o": 9545,
+        "r": "niv:1 Kings:1:32",
+        "t": "King*p David said, “Call in Zadok the priest, Nathan the prophet and Benaiah son of Jehoiada.” When they came before the king,"
+    },
+    {
+        "o": 9546,
+        "r": "niv:1 Kings:1:33",
+        "t": "he said to them: “Take your lord’s servants with you and have Solomon my son mount my own mule and take him down to Gihon."
+    },
+    {
+        "o": 9547,
+        "r": "niv:1 Kings:1:34",
+        "t": "There have Zadok the priest and Nathan the prophet anoint him king over Israel. Blow the trumpet and shout, ‘Long live King Solomon!’"
+    },
+    {
+        "o": 9548,
+        "r": "niv:1 Kings:1:35",
+        "t": "Then you are to go up with him, and he is to come and sit on my throne and reign in my place. I have appointed him ruler over Israel and Judah.”"
+    },
+    {
+        "o": 9549,
+        "r": "niv:1 Kings:1:36",
+        "t": "Benaiah*p son of Jehoiada answered the king, “Amen! May the Lord,*s the God of my lord the king, so declare it."
+    },
+    {
+        "o": 9550,
+        "r": "niv:1 Kings:1:37",
+        "t": "As the Lord*s was with my lord the king, so may he be with Solomon to make his throne even greater than the throne of my lord King David!”"
+    },
+    {
+        "o": 9551,
+        "r": "niv:1 Kings:1:38",
+        "t": "So*p Zadok the priest, Nathan the prophet, Benaiah son of Jehoiada, the Kerethites and the Pelethites went down and had Solomon mount King David’s mule, and they escorted him to Gihon."
+    },
+    {
+        "o": 9552,
+        "r": "niv:1 Kings:1:39",
+        "t": "Zadok the priest took the horn of oil from the sacred tent and anointed Solomon. Then they sounded the trumpet and all the people shouted, “Long live King Solomon!”"
+    },
+    {
+        "o": 9553,
+        "r": "niv:1 Kings:1:40",
+        "t": "And all the people went up after him, playing pipes and rejoicing greatly, so that the ground shook with the sound."
+    },
+    {
+        "o": 9554,
+        "r": "niv:1 Kings:1:41",
+        "t": "Adonijah*p and all the guests who were with him heard it as they were finishing their feast. On hearing the sound of the trumpet, Joab asked, “What’s the meaning of all the noise in the city?”"
+    },
+    {
+        "o": 9555,
+        "r": "niv:1 Kings:1:42",
+        "t": "Even*p as he was speaking, Jonathan son of Abiathar the priest arrived. Adonijah said, “Come in. A worthy man like you must be bringing good news.”"
+    },
+    {
+        "o": 9556,
+        "r": "niv:1 Kings:1:43",
+        "t": "“Not*p at all!” Jonathan answered. “Our lord King David has made Solomon king."
+    },
+    {
+        "o": 9557,
+        "r": "niv:1 Kings:1:44",
+        "t": "The king has sent with him Zadok the priest, Nathan the prophet, Benaiah son of Jehoiada, the Kerethites and the Pelethites, and they have put him on the king’s mule,"
+    },
+    {
+        "o": 9558,
+        "r": "niv:1 Kings:1:45",
+        "t": "and Zadok the priest and Nathan the prophet have anointed him king at Gihon. From there they have gone up cheering, and the city resounds with it. That’s the noise you hear."
+    },
+    {
+        "o": 9559,
+        "r": "niv:1 Kings:1:46",
+        "t": "Moreover, Solomon has taken his seat on the royal throne."
+    },
+    {
+        "o": 9560,
+        "r": "niv:1 Kings:1:47",
+        "t": "Also, the royal officials have come to congratulate our lord King David, saying, ‘May your God make Solomon’s name more famous than yours and his throne greater than yours!’ And the king bowed in worship on his bed"
+    },
+    {
+        "o": 9561,
+        "r": "niv:1 Kings:1:48",
+        "t": "and said, ‘Praise be to the Lord,*s the God of Israel, who has allowed my eyes to see a successor on my throne today.’ ”"
+    },
+    {
+        "o": 9562,
+        "r": "niv:1 Kings:1:49",
+        "t": "At*p this, all Adonijah’s guests rose in alarm and dispersed."
+    },
+    {
+        "o": 9563,
+        "r": "niv:1 Kings:1:50",
+        "t": "But Adonijah, in fear of Solomon, went and took hold of the horns of the altar."
+    },
+    {
+        "o": 9564,
+        "r": "niv:1 Kings:1:51",
+        "t": "Then Solomon was told, “Adonijah is afraid of King Solomon and is clinging to the horns of the altar. He says, ‘Let King Solomon swear to me today that he will not put his servant to death with the sword.’ ”"
+    },
+    {
+        "o": 9565,
+        "r": "niv:1 Kings:1:52",
+        "t": "Solomon*p replied, “If he shows himself to be worthy, not a hair of his head will fall to the ground; but if evil is found in him, he will die.”"
+    },
+    {
+        "o": 9566,
+        "r": "niv:1 Kings:1:53",
+        "t": "Then King Solomon sent men, and they brought him down from the altar. And Adonijah came and bowed down to King Solomon, and Solomon said, “Go to your home.”"
+    },
+    {
+        "o": 9567,
+        "r": "niv:1 Kings:2:0",
+        "t": "1 Kings 2",
+        "h": 1
+    },
+    {
+        "o": 9568,
+        "r": "niv:1 Kings:2:0",
+        "t": "David’s Charge to Solomon",
+        "h": 2
+    },
+    {
+        "o": 9569,
+        "r": "niv:1 Kings:2:1",
+        "t": "When*p the time drew near for David to die, he gave a charge to Solomon his son."
+    },
+    {
+        "o": 9570,
+        "r": "niv:1 Kings:2:2",
+        "t": "“I*p am about to go the way of all the earth,” he said. “So be strong, act like a man,"
+    },
+    {
+        "o": 9571,
+        "r": "niv:1 Kings:2:3",
+        "t": "and observe what the Lord*s your God requires: Walk in obedience to him, and keep his decrees and commands, his laws and regulations, as written in the Law of Moses. Do this so that you may prosper in all you do and wherever you go"
+    },
+    {
+        "o": 9572,
+        "r": "niv:1 Kings:2:4",
+        "t": "and that the Lord*s may keep his promise to me: ‘If your descendants watch how they live, and if they walk faithfully before me with all their heart and soul, you will never fail to have a successor on the throne of Israel.’"
+    },
+    {
+        "o": 9573,
+        "r": "niv:1 Kings:2:5",
+        "t": "“Now*p you yourself know what Joab son of Zeruiah did to me—what he did to the two commanders of Israel’s armies, Abner son of Ner and Amasa son of Jether. He killed them, shedding their blood in peacetime as if in battle, and with that blood he stained the belt around his waist and the sandals on his feet."
+    },
+    {
+        "o": 9574,
+        "r": "niv:1 Kings:2:6",
+        "t": "Deal with him according to your wisdom, but do not let his gray head go down to the grave in peace."
+    },
+    {
+        "o": 9575,
+        "r": "niv:1 Kings:2:7",
+        "t": "“But*p show kindness to the sons of Barzillai of Gilead and let them be among those who eat at your table. They stood by me when I fled from your brother Absalom."
+    },
+    {
+        "o": 9576,
+        "r": "niv:1 Kings:2:8",
+        "t": "“And*p remember, you have with you Shimei son of Gera, the Benjamite from Bahurim, who called down bitter curses on me the day I went to Mahanaim. When he came down to meet me at the Jordan, I swore to him by the Lord:*s ‘I will not put you to death by the sword.’"
+    },
+    {
+        "o": 9577,
+        "r": "niv:1 Kings:2:9",
+        "t": "But now, do not consider him innocent. You are a man of wisdom; you will know what to do to him. Bring his gray head down to the grave in blood.”"
+    },
+    {
+        "o": 9578,
+        "r": "niv:1 Kings:2:10",
+        "t": "Then*p David rested with his ancestors and was buried in the City of David."
+    },
+    {
+        "o": 9579,
+        "r": "niv:1 Kings:2:11",
+        "t": "He had reigned forty years over Israel—seven years in Hebron and thirty-three in Jerusalem."
+    },
+    {
+        "o": 9580,
+        "r": "niv:1 Kings:2:12",
+        "t": "So Solomon sat on the throne of his father David, and his rule was firmly established."
+    },
+    {
+        "o": 9581,
+        "r": "niv:1 Kings:2:12",
+        "t": "Solomon’s Throne Established",
+        "h": 2
+    },
+    {
+        "o": 9582,
+        "r": "niv:1 Kings:2:13",
+        "t": "Now*p Adonijah, the son of Haggith, went to Bathsheba, Solomon’s mother. Bathsheba asked him, “Do you come peacefully?” He*p answered, “Yes, peacefully.”"
+    },
+    {
+        "o": 9583,
+        "r": "niv:1 Kings:2:14",
+        "t": "Then he added, “I have something to say to you.” “You*p may say it,” she replied."
+    },
+    {
+        "o": 9584,
+        "r": "niv:1 Kings:2:15",
+        "t": "“As*p you know,” he said, “the kingdom was mine. All Israel looked to me as their king. But things changed, and the kingdom has gone to my brother; for it has come to him from the Lord.*s"
+    },
+    {
+        "o": 9585,
+        "r": "niv:1 Kings:2:16",
+        "t": "Now I have one request to make of you. Do not refuse me.” “You*p may make it,” she said."
+    },
+    {
+        "o": 9586,
+        "r": "niv:1 Kings:2:17",
+        "t": "So*p he continued, “Please ask King Solomon—he will not refuse you—to give me Abishag the Shunammite as my wife.”"
+    },
+    {
+        "o": 9587,
+        "r": "niv:1 Kings:2:18",
+        "t": "“Very*p well,” Bathsheba replied, “I will speak to the king for you.”"
+    },
+    {
+        "o": 9588,
+        "r": "niv:1 Kings:2:19",
+        "t": "When*p Bathsheba went to King Solomon to speak to him for Adonijah, the king stood up to meet her, bowed down to her and sat down on his throne. He had a throne brought for the king’s mother, and she sat down at his right hand."
+    },
+    {
+        "o": 9589,
+        "r": "niv:1 Kings:2:20",
+        "t": "“I*p have one small request to make of you,” she said. “Do not refuse me.” The*p king replied, “Make it, my mother; I will not refuse you.”"
+    },
+    {
+        "o": 9590,
+        "r": "niv:1 Kings:2:21",
+        "t": "So*p she said, “Let Abishag the Shunammite be given in marriage to your brother Adonijah.”"
+    },
+    {
+        "o": 9591,
+        "r": "niv:1 Kings:2:22",
+        "t": "King*p Solomon answered his mother, “Why do you request Abishag the Shunammite for Adonijah? You might as well request the kingdom for him—after all, he is my older brother—yes, for him and for Abiathar the priest and Joab son of Zeruiah!”"
+    },
+    {
+        "o": 9592,
+        "r": "niv:1 Kings:2:23",
+        "t": "Then*p King Solomon swore by the Lord:*s “May God deal with me, be it ever so severely, if Adonijah does not pay with his life for this request!"
+    },
+    {
+        "o": 9593,
+        "r": "niv:1 Kings:2:24",
+        "t": "And now, as surely as the Lord*s lives—he who has established me securely on the throne of my father David and has founded a dynasty for me as he promised—Adonijah shall be put to death today!”"
+    },
+    {
+        "o": 9594,
+        "r": "niv:1 Kings:2:25",
+        "t": "So King Solomon gave orders to Benaiah son of Jehoiada, and he struck down Adonijah and he died."
+    },
+    {
+        "o": 9595,
+        "r": "niv:1 Kings:2:26",
+        "t": "To*p Abiathar the priest the king said, “Go back to your fields in Anathoth. You deserve to die, but I will not put you to death now, because you carried the ark of the Sovereign Lord*s before my father David and shared all my father’s hardships.”"
+    },
+    {
+        "o": 9596,
+        "r": "niv:1 Kings:2:27",
+        "t": "So Solomon removed Abiathar from the priesthood of the Lord,*s fulfilling the word the Lord*s had spoken at Shiloh about the house of Eli."
+    },
+    {
+        "o": 9597,
+        "r": "niv:1 Kings:2:28",
+        "t": "When*p the news reached Joab, who had conspired with Adonijah though not with Absalom, he fled to the tent of the Lord*s and took hold of the horns of the altar."
+    },
+    {
+        "o": 9598,
+        "r": "niv:1 Kings:2:29",
+        "t": "King Solomon was told that Joab had fled to the tent of the Lord*s and was beside the altar. Then Solomon ordered Benaiah son of Jehoiada, “Go, strike him down!”"
+    },
+    {
+        "o": 9599,
+        "r": "niv:1 Kings:2:30",
+        "t": "So*p Benaiah entered the tent of the Lord*s and said to Joab, “The king says, ‘Come out!’ ” But*p he answered, “No, I will die here.” Benaiah*p reported to the king, “This is how Joab answered me.”"
+    },
+    {
+        "o": 9600,
+        "r": "niv:1 Kings:2:31",
+        "t": "Then*p the king commanded Benaiah, “Do as he says. Strike him down and bury him, and so clear me and my whole family of the guilt of the innocent blood that Joab shed."
+    },
+    {
+        "o": 9601,
+        "r": "niv:1 Kings:2:32",
+        "t": "The Lord*s will repay him for the blood he shed, because without my father David knowing it he attacked two men and killed them with the sword. Both of them—Abner son of Ner, commander of Israel’s army, and Amasa son of Jether, commander of Judah’s army—were better men and more upright than he."
+    },
+    {
+        "o": 9602,
+        "r": "niv:1 Kings:2:33",
+        "t": "May the guilt of their blood rest on the head of Joab and his descendants forever. But on David and his descendants, his house and his throne, may there be the Lord’s*s peace forever.”"
+    },
+    {
+        "o": 9603,
+        "r": "niv:1 Kings:2:34",
+        "t": "So*p Benaiah son of Jehoiada went up and struck down Joab and killed him, and he was buried at his home out in the country."
+    },
+    {
+        "o": 9604,
+        "r": "niv:1 Kings:2:35",
+        "t": "The king put Benaiah son of Jehoiada over the army in Joab’s position and replaced Abiathar with Zadok the priest."
+    },
+    {
+        "o": 9605,
+        "r": "niv:1 Kings:2:36",
+        "t": "Then*p the king sent for Shimei and said to him, “Build yourself a house in Jerusalem and live there, but do not go anywhere else."
+    },
+    {
+        "o": 9606,
+        "r": "niv:1 Kings:2:37",
+        "t": "The day you leave and cross the Kidron Valley, you can be sure you will die; your blood will be on your own head.”"
+    },
+    {
+        "o": 9607,
+        "r": "niv:1 Kings:2:38",
+        "t": "Shimei*p answered the king, “What you say is good. Your servant will do as my lord the king has said.” And Shimei stayed in Jerusalem for a long time."
+    },
+    {
+        "o": 9608,
+        "r": "niv:1 Kings:2:39",
+        "t": "But*p three years later, two of Shimei’s slaves ran off to Achish son of Maakah, king of Gath, and Shimei was told, “Your slaves are in Gath.”"
+    },
+    {
+        "o": 9609,
+        "r": "niv:1 Kings:2:40",
+        "t": "At this, he saddled his donkey and went to Achish at Gath in search of his slaves. So Shimei went away and brought the slaves back from Gath."
+    },
+    {
+        "o": 9610,
+        "r": "niv:1 Kings:2:41",
+        "t": "When*p Solomon was told that Shimei had gone from Jerusalem to Gath and had returned,"
+    },
+    {
+        "o": 9611,
+        "r": "niv:1 Kings:2:42",
+        "t": "the king summoned Shimei and said to him, “Did I not make you swear by the Lord*s and warn you, ‘On the day you leave to go anywhere else, you can be sure you will die’? At that time you said to me, ‘What you say is good. I will obey.’"
+    },
+    {
+        "o": 9612,
+        "r": "niv:1 Kings:2:43",
+        "t": "Why then did you not keep your oath to the Lord*s and obey the command I gave you?”"
+    },
+    {
+        "o": 9613,
+        "r": "niv:1 Kings:2:44",
+        "t": "The*p king also said to Shimei, “You know in your heart all the wrong you did to my father David. Now the Lord*s will repay you for your wrongdoing."
+    },
+    {
+        "o": 9614,
+        "r": "niv:1 Kings:2:45",
+        "t": "But King Solomon will be blessed, and David’s throne will remain secure before the Lord*s forever.”"
+    },
+    {
+        "o": 9615,
+        "r": "niv:1 Kings:2:46",
+        "t": "Then*p the king gave the order to Benaiah son of Jehoiada, and he went out and struck Shimei down and he died. The*p kingdom was now established in Solomon’s hands."
+    },
+    {
+        "o": 9616,
+        "r": "niv:1 Kings:3:0",
+        "t": "1 Kings 3",
+        "h": 1
+    },
+    {
+        "o": 9617,
+        "r": "niv:1 Kings:3:0",
+        "t": "Solomon Asks for Wisdom",
+        "h": 2
+    },
+    {
+        "o": 9618,
+        "r": "niv:1 Kings:3:1",
+        "t": "Solomon*p made an alliance with Pharaoh king of Egypt and married his daughter. He brought her to the City of David until he finished building his palace and the temple of the Lord,*s and the wall around Jerusalem."
+    },
+    {
+        "o": 9619,
+        "r": "niv:1 Kings:3:2",
+        "t": "The people, however, were still sacrificing at the high places, because a temple had not yet been built for the Name of the Lord.*s"
+    },
+    {
+        "o": 9620,
+        "r": "niv:1 Kings:3:3",
+        "t": "Solomon showed his love for the Lord*s by walking according to the instructions given him by his father David, except that he offered sacrifices and burned incense on the high places."
+    },
+    {
+        "o": 9621,
+        "r": "niv:1 Kings:3:4",
+        "t": "The*p king went to Gibeon to offer sacrifices, for that was the most important high place, and Solomon offered a thousand burnt offerings on that altar."
+    },
+    {
+        "o": 9622,
+        "r": "niv:1 Kings:3:5",
+        "t": "At Gibeon the Lord*s appeared to Solomon during the night in a dream, and God said, “Ask for whatever you want me to give you.”"
+    },
+    {
+        "o": 9623,
+        "r": "niv:1 Kings:3:6",
+        "t": "Solomon*p answered, “You have shown great kindness to your servant, my father David, because he was faithful to you and righteous and upright in heart. You have continued this great kindness to him and have given him a son to sit on his throne this very day."
+    },
+    {
+        "o": 9624,
+        "r": "niv:1 Kings:3:7",
+        "t": "“Now,*p Lord*s my God, you have made your servant king in place of my father David. But I am only a little child and do not know how to carry out my duties."
+    },
+    {
+        "o": 9625,
+        "r": "niv:1 Kings:3:8",
+        "t": "Your servant is here among the people you have chosen, a great people, too numerous to count or number."
+    },
+    {
+        "o": 9626,
+        "r": "niv:1 Kings:3:9",
+        "t": "So give your servant a discerning heart to govern your people and to distinguish between right and wrong. For who is able to govern this great people of yours?”"
+    },
+    {
+        "o": 9627,
+        "r": "niv:1 Kings:3:10",
+        "t": "The*p Lord was pleased that Solomon had asked for this."
+    },
+    {
+        "o": 9628,
+        "r": "niv:1 Kings:3:11",
+        "t": "So God said to him, “Since you have asked for this and not for long life or wealth for yourself, nor have asked for the death of your enemies but for discernment in administering justice,"
+    },
+    {
+        "o": 9629,
+        "r": "niv:1 Kings:3:12",
+        "t": "I will do what you have asked. I will give you a wise and discerning heart, so that there will never have been anyone like you, nor will there ever be."
+    },
+    {
+        "o": 9630,
+        "r": "niv:1 Kings:3:13",
+        "t": "Moreover, I will give you what you have not asked for—both wealth and honor—so that in your lifetime you will have no equal among kings."
+    },
+    {
+        "o": 9631,
+        "r": "niv:1 Kings:3:14",
+        "t": "And if you walk in obedience to me and keep my decrees and commands as David your father did, I will give you a long life.”"
+    },
+    {
+        "o": 9632,
+        "r": "niv:1 Kings:3:15",
+        "t": "Then Solomon awoke—and he realized it had been a dream. He*p returned to Jerusalem, stood before the ark of the Lord’s covenant and sacrificed burnt offerings and fellowship offerings. Then he gave a feast for all his court."
+    },
+    {
+        "o": 9633,
+        "r": "niv:1 Kings:3:15",
+        "t": "A Wise Ruling",
+        "h": 2
+    },
+    {
+        "o": 9634,
+        "r": "niv:1 Kings:3:16",
+        "t": "Now*p two prostitutes came to the king and stood before him."
+    },
+    {
+        "o": 9635,
+        "r": "niv:1 Kings:3:17",
+        "t": "One of them said, “Pardon me, my lord. This woman and I live in the same house, and I had a baby while she was there with me."
+    },
+    {
+        "o": 9636,
+        "r": "niv:1 Kings:3:18",
+        "t": "The third day after my child was born, this woman also had a baby. We were alone; there was no one in the house but the two of us."
+    },
+    {
+        "o": 9637,
+        "r": "niv:1 Kings:3:19",
+        "t": "“During*p the night this woman’s son died because she lay on him."
+    },
+    {
+        "o": 9638,
+        "r": "niv:1 Kings:3:20",
+        "t": "So she got up in the middle of the night and took my son from my side while I your servant was asleep. She put him by her breast and put her dead son by my breast."
+    },
+    {
+        "o": 9639,
+        "r": "niv:1 Kings:3:21",
+        "t": "The next morning, I got up to nurse my son—and he was dead! But when I looked at him closely in the morning light, I saw that it wasn’t the son I had borne.”"
+    },
+    {
+        "o": 9640,
+        "r": "niv:1 Kings:3:22",
+        "t": "The*p other woman said, “No! The living one is my son; the dead one is yours.” But*p the first one insisted, “No! The dead one is yours; the living one is mine.” And so they argued before the king."
+    },
+    {
+        "o": 9641,
+        "r": "niv:1 Kings:3:23",
+        "t": "The*p king said, “This one says, ‘My son is alive and your son is dead,’ while that one says, ‘No! Your son is dead and mine is alive.’ ”"
+    },
+    {
+        "o": 9642,
+        "r": "niv:1 Kings:3:24",
+        "t": "Then*p the king said, “Bring me a sword.” So they brought a sword for the king."
+    },
+    {
+        "o": 9643,
+        "r": "niv:1 Kings:3:25",
+        "t": "He then gave an order: “Cut the living child in two and give half to one and half to the other.”"
+    },
+    {
+        "o": 9644,
+        "r": "niv:1 Kings:3:26",
+        "t": "The*p woman whose son was alive was deeply moved out of love for her son and said to the king, “Please, my lord, give her the living baby! Don’t kill him!” But*p the other said, “Neither I nor you shall have him. Cut him in two!”"
+    },
+    {
+        "o": 9645,
+        "r": "niv:1 Kings:3:27",
+        "t": "Then*p the king gave his ruling: “Give the living baby to the first woman. Do not kill him; she is his mother.”"
+    },
+    {
+        "o": 9646,
+        "r": "niv:1 Kings:3:28",
+        "t": "When*p all Israel heard the verdict the king had given, they held the king in awe, because they saw that he had wisdom from God to administer justice."
+    },
+    {
+        "o": 9647,
+        "r": "niv:1 Kings:4:0",
+        "t": "1 Kings 4",
+        "h": 1
+    },
+    {
+        "o": 9648,
+        "r": "niv:1 Kings:4:0",
+        "t": "Solomon’s Officials and Governors",
+        "h": 2
+    },
+    {
+        "o": 9649,
+        "r": "niv:1 Kings:4:1",
+        "t": "So*p King Solomon ruled over all Israel."
+    },
+    {
+        "o": 9650,
+        "r": "niv:1 Kings:4:2",
+        "t": "And these were his chief officials: Azariah*pln son of Zadok—the priest;"
+    },
+    {
+        "o": 9651,
+        "r": "niv:1 Kings:4:3",
+        "t": "Elihoreph*ln and Ahijah, sons of Shisha—secretaries; Jehoshaphat*ln son of Ahilud—recorder;"
+    },
+    {
+        "o": 9652,
+        "r": "niv:1 Kings:4:4",
+        "t": "Benaiah*ln son of Jehoiada—commander in chief; Zadok*ln and Abiathar—priests;"
+    },
+    {
+        "o": 9653,
+        "r": "niv:1 Kings:4:5",
+        "t": "Azariah*ln son of Nathan—in charge of the district governors; Zabud*ln son of Nathan—a priest and adviser to the king;"
+    },
+    {
+        "o": 9654,
+        "r": "niv:1 Kings:4:6",
+        "t": "Ahishar—palace*ln administrator; Adoniram*ln son of Abda—in charge of forced labor."
+    },
+    {
+        "o": 9655,
+        "r": "niv:1 Kings:4:7",
+        "t": "Solomon*p had twelve district governors over all Israel, who supplied provisions for the king and the royal household. Each one had to provide supplies for one month in the year."
+    },
+    {
+        "o": 9656,
+        "r": "niv:1 Kings:4:8",
+        "t": "These are their names: Ben-Hur—in*pln the hill country of Ephraim;"
+    },
+    {
+        "o": 9657,
+        "r": "niv:1 Kings:4:9",
+        "t": "Ben-Deker—in*ln Makaz, Shaalbim, Beth Shemesh and Elon Bethhanan;"
+    },
+    {
+        "o": 9658,
+        "r": "niv:1 Kings:4:10",
+        "t": "Ben-Hesed—in*ln Arubboth (Sokoh and all the land of Hepher were his);"
+    },
+    {
+        "o": 9659,
+        "r": "niv:1 Kings:4:11",
+        "t": "Ben-Abinadab—in*ln Naphoth Dor (he was married to Taphath daughter of Solomon);"
+    },
+    {
+        "o": 9660,
+        "r": "niv:1 Kings:4:12",
+        "t": "Baana*ln son of Ahilud—in Taanach and Megiddo, and in all of Beth Shan next to Zarethan below Jezreel, from Beth Shan to Abel Meholah across to Jokmeam;"
+    },
+    {
+        "o": 9661,
+        "r": "niv:1 Kings:4:13",
+        "t": "Ben-Geber—in*ln Ramoth Gilead (the settlements of Jair son of Manasseh in Gilead were his, as well as the region of Argob in Bashan and its sixty large walled cities with bronze gate bars);"
+    },
+    {
+        "o": 9662,
+        "r": "niv:1 Kings:4:14",
+        "t": "Ahinadab*ln son of Iddo—in Mahanaim;"
+    },
+    {
+        "o": 9663,
+        "r": "niv:1 Kings:4:15",
+        "t": "Ahimaaz—in*ln Naphtali (he had married Basemath daughter of Solomon);"
+    },
+    {
+        "o": 9664,
+        "r": "niv:1 Kings:4:16",
+        "t": "Baana*ln son of Hushai—in Asher and in Aloth;"
+    },
+    {
+        "o": 9665,
+        "r": "niv:1 Kings:4:17",
+        "t": "Jehoshaphat*ln son of Paruah—in Issachar;"
+    },
+    {
+        "o": 9666,
+        "r": "niv:1 Kings:4:18",
+        "t": "Shimei*ln son of Ela—in Benjamin;"
+    },
+    {
+        "o": 9667,
+        "r": "niv:1 Kings:4:19",
+        "t": "Geber*ln son of Uri—in Gilead (the country of Sihon king of the Amorites and the country of Og king of Bashan). He was the only governor over the district."
+    },
+    {
+        "o": 9668,
+        "r": "niv:1 Kings:4:19",
+        "t": "Solomon’s Daily Provisions",
+        "h": 2
+    },
+    {
+        "o": 9669,
+        "r": "niv:1 Kings:4:20",
+        "t": "The*p people of Judah and Israel were as numerous as the sand on the seashore; they ate, they drank and they were happy."
+    },
+    {
+        "o": 9670,
+        "r": "niv:1 Kings:4:21",
+        "t": "And Solomon ruled over all the kingdoms from the Euphrates River to the land of the Philistines, as far as the border of Egypt. These countries brought tribute and were Solomon’s subjects all his life."
+    },
+    {
+        "o": 9671,
+        "r": "niv:1 Kings:4:22",
+        "t": "Solomon’s*p daily provisions were thirty cors of the finest flour and sixty cors of meal,"
+    },
+    {
+        "o": 9672,
+        "r": "niv:1 Kings:4:23",
+        "t": "ten head of stall-fed cattle, twenty of pasture-fed cattle and a hundred sheep and goats, as well as deer, gazelles, roebucks and choice fowl."
+    },
+    {
+        "o": 9673,
+        "r": "niv:1 Kings:4:24",
+        "t": "For he ruled over all the kingdoms west of the Euphrates River, from Tiphsah to Gaza, and had peace on all sides."
+    },
+    {
+        "o": 9674,
+        "r": "niv:1 Kings:4:25",
+        "t": "During Solomon’s lifetime Judah and Israel, from Dan to Beersheba, lived in safety, everyone under their own vine and under their own fig tree."
+    },
+    {
+        "o": 9675,
+        "r": "niv:1 Kings:4:26",
+        "t": "Solomon*p had four thousand stalls for chariot horses, and twelve thousand horses."
+    },
+    {
+        "o": 9676,
+        "r": "niv:1 Kings:4:27",
+        "t": "The*p district governors, each in his month, supplied provisions for King Solomon and all who came to the king’s table. They saw to it that nothing was lacking."
+    },
+    {
+        "o": 9677,
+        "r": "niv:1 Kings:4:28",
+        "t": "They also brought to the proper place their quotas of barley and straw for the chariot horses and the other horses."
+    },
+    {
+        "o": 9678,
+        "r": "niv:1 Kings:4:28",
+        "t": "Solomon’s Wisdom",
+        "h": 2
+    },
+    {
+        "o": 9679,
+        "r": "niv:1 Kings:4:29",
+        "t": "God*p gave Solomon wisdom and very great insight, and a breadth of understanding as measureless as the sand on the seashore."
+    },
+    {
+        "o": 9680,
+        "r": "niv:1 Kings:4:30",
+        "t": "Solomon’s wisdom was greater than the wisdom of all the people of the East, and greater than all the wisdom of Egypt."
+    },
+    {
+        "o": 9681,
+        "r": "niv:1 Kings:4:31",
+        "t": "He was wiser than anyone else, including Ethan the Ezrahite—wiser than Heman, Kalkol and Darda, the sons of Mahol. And his fame spread to all the surrounding nations."
+    },
+    {
+        "o": 9682,
+        "r": "niv:1 Kings:4:32",
+        "t": "He spoke three thousand proverbs and his songs numbered a thousand and five."
+    },
+    {
+        "o": 9683,
+        "r": "niv:1 Kings:4:33",
+        "t": "He spoke about plant life, from the cedar of Lebanon to the hyssop that grows out of walls. He also spoke about animals and birds, reptiles and fish."
+    },
+    {
+        "o": 9684,
+        "r": "niv:1 Kings:4:34",
+        "t": "From all nations people came to listen to Solomon’s wisdom, sent by all the kings of the world, who had heard of his wisdom."
+    },
+    {
+        "o": 9685,
+        "r": "niv:1 Kings:5:0",
+        "t": "1 Kings 5",
+        "h": 1
+    },
+    {
+        "o": 9686,
+        "r": "niv:1 Kings:5:0",
+        "t": "Preparations for Building the Temple",
+        "h": 2
+    },
+    {
+        "o": 9687,
+        "r": "niv:1 Kings:5:1",
+        "t": "When*p Hiram king of Tyre heard that Solomon had been anointed king to succeed his father David, he sent his envoys to Solomon, because he had always been on friendly terms with David."
+    },
+    {
+        "o": 9688,
+        "r": "niv:1 Kings:5:2",
+        "t": "Solomon sent back this message to Hiram:"
+    },
+    {
+        "o": 9689,
+        "r": "niv:1 Kings:5:3",
+        "t": "“You*ln know that because of the wars waged against my father David from all sides, he could not build a temple for the Name of the Lord*s his God until the Lord*s put his enemies under his feet."
+    },
+    {
+        "o": 9690,
+        "r": "niv:1 Kings:5:4",
+        "t": "But now the Lord*s my God has given me rest on every side, and there is no adversary or disaster."
+    },
+    {
+        "o": 9691,
+        "r": "niv:1 Kings:5:5",
+        "t": "I intend, therefore, to build a temple for the Name of the Lord*s my God, as the Lord*s told my father David, when he said, ‘Your son whom I will put on the throne in your place will build the temple for my Name.’"
+    },
+    {
+        "o": 9692,
+        "r": "niv:1 Kings:5:6",
+        "t": "“So*ln give orders that cedars of Lebanon be cut for me. My men will work with yours, and I will pay you for your men whatever wages you set. You know that we have no one so skilled in felling timber as the Sidonians.”"
+    },
+    {
+        "o": 9693,
+        "r": "niv:1 Kings:5:7",
+        "t": "When*p Hiram heard Solomon’s message, he was greatly pleased and said, “Praise be to the Lord*s today, for he has given David a wise son to rule over this great nation.”"
+    },
+    {
+        "o": 9694,
+        "r": "niv:1 Kings:5:8",
+        "t": "So*p Hiram sent word to Solomon: “I*ln have received the message you sent me and will do all you want in providing the cedar and juniper logs."
+    },
+    {
+        "o": 9695,
+        "r": "niv:1 Kings:5:9",
+        "t": "My men will haul them down from Lebanon to the Mediterranean Sea, and I will float them as rafts by sea to the place you specify. There I will separate them and you can take them away. And you are to grant my wish by providing food for my royal household.”"
+    },
+    {
+        "o": 9696,
+        "r": "niv:1 Kings:5:10",
+        "t": "In*p this way Hiram kept Solomon supplied with all the cedar and juniper logs he wanted,"
+    },
+    {
+        "o": 9697,
+        "r": "niv:1 Kings:5:11",
+        "t": "and Solomon gave Hiram twenty thousand cors of wheat as food for his household, in addition to twenty thousand baths of pressed olive oil. Solomon continued to do this for Hiram year after year."
+    },
+    {
+        "o": 9698,
+        "r": "niv:1 Kings:5:12",
+        "t": "The Lord*s gave Solomon wisdom, just as he had promised him. There were peaceful relations between Hiram and Solomon, and the two of them made a treaty."
+    },
+    {
+        "o": 9699,
+        "r": "niv:1 Kings:5:13",
+        "t": "King*p Solomon conscripted laborers from all Israel—thirty thousand men."
+    },
+    {
+        "o": 9700,
+        "r": "niv:1 Kings:5:14",
+        "t": "He sent them off to Lebanon in shifts of ten thousand a month, so that they spent one month in Lebanon and two months at home. Adoniram was in charge of the forced labor."
+    },
+    {
+        "o": 9701,
+        "r": "niv:1 Kings:5:15",
+        "t": "Solomon had seventy thousand carriers and eighty thousand stonecutters in the hills,"
+    },
+    {
+        "o": 9702,
+        "r": "niv:1 Kings:5:16",
+        "t": "as well as thirty-three hundred foremen who supervised the project and directed the workers."
+    },
+    {
+        "o": 9703,
+        "r": "niv:1 Kings:5:17",
+        "t": "At the king’s command they removed from the quarry large blocks of high-grade stone to provide a foundation of dressed stone for the temple."
+    },
+    {
+        "o": 9704,
+        "r": "niv:1 Kings:5:18",
+        "t": "The craftsmen of Solomon and Hiram and workers from Byblos cut and prepared the timber and stone for the building of the temple."
+    },
+    {
+        "o": 9705,
+        "r": "niv:1 Kings:6:0",
+        "t": "1 Kings 6",
+        "h": 1
+    },
+    {
+        "o": 9706,
+        "r": "niv:1 Kings:6:0",
+        "t": "Solomon Builds the Temple",
+        "h": 2
+    },
+    {
+        "o": 9707,
+        "r": "niv:1 Kings:6:1",
+        "t": "In*p the four hundred and eightieth year after the Israelites came out of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the temple of the Lord.*s"
+    },
+    {
+        "o": 9708,
+        "r": "niv:1 Kings:6:2",
+        "t": "The*p temple that King Solomon built for the Lord*s was sixty cubits long, twenty wide and thirty high."
+    },
+    {
+        "o": 9709,
+        "r": "niv:1 Kings:6:3",
+        "t": "The portico at the front of the main hall of the temple extended the width of the temple, that is twenty cubits, and projected ten cubits from the front of the temple."
+    },
+    {
+        "o": 9710,
+        "r": "niv:1 Kings:6:4",
+        "t": "He made narrow windows high up in the temple walls."
+    },
+    {
+        "o": 9711,
+        "r": "niv:1 Kings:6:5",
+        "t": "Against the walls of the main hall and inner sanctuary he built a structure around the building, in which there were side rooms."
+    },
+    {
+        "o": 9712,
+        "r": "niv:1 Kings:6:6",
+        "t": "The lowest floor was five cubits wide, the middle floor six cubits and the third floor seven. He made offset ledges around the outside of the temple so that nothing would be inserted into the temple walls."
+    },
+    {
+        "o": 9713,
+        "r": "niv:1 Kings:6:7",
+        "t": "In*p building the temple, only blocks dressed at the quarry were used, and no hammer, chisel or any other iron tool was heard at the temple site while it was being built."
+    },
+    {
+        "o": 9714,
+        "r": "niv:1 Kings:6:8",
+        "t": "The*p entrance to the lowest floor was on the south side of the temple; a stairway led up to the middle level and from there to the third."
+    },
+    {
+        "o": 9715,
+        "r": "niv:1 Kings:6:9",
+        "t": "So he built the temple and completed it, roofing it with beams and cedar planks."
+    },
+    {
+        "o": 9716,
+        "r": "niv:1 Kings:6:10",
+        "t": "And he built the side rooms all along the temple. The height of each was five cubits, and they were attached to the temple by beams of cedar."
+    },
+    {
+        "o": 9717,
+        "r": "niv:1 Kings:6:11",
+        "t": "The*p word of the Lord*s came to Solomon:"
+    },
+    {
+        "o": 9718,
+        "r": "niv:1 Kings:6:12",
+        "t": "“As for this temple you are building, if you follow my decrees, observe my laws and keep all my commands and obey them, I will fulfill through you the promise I gave to David your father."
+    },
+    {
+        "o": 9719,
+        "r": "niv:1 Kings:6:13",
+        "t": "And I will live among the Israelites and will not abandon my people Israel.”"
+    },
+    {
+        "o": 9720,
+        "r": "niv:1 Kings:6:14",
+        "t": "So*p Solomon built the temple and completed it."
+    },
+    {
+        "o": 9721,
+        "r": "niv:1 Kings:6:15",
+        "t": "He lined its interior walls with cedar boards, paneling them from the floor of the temple to the ceiling, and covered the floor of the temple with planks of juniper."
+    },
+    {
+        "o": 9722,
+        "r": "niv:1 Kings:6:16",
+        "t": "He partitioned off twenty cubits at the rear of the temple with cedar boards from floor to ceiling to form within the temple an inner sanctuary, the Most Holy Place."
+    },
+    {
+        "o": 9723,
+        "r": "niv:1 Kings:6:17",
+        "t": "The main hall in front of this room was forty cubits long."
+    },
+    {
+        "o": 9724,
+        "r": "niv:1 Kings:6:18",
+        "t": "The inside of the temple was cedar, carved with gourds and open flowers. Everything was cedar; no stone was to be seen."
+    },
+    {
+        "o": 9725,
+        "r": "niv:1 Kings:6:19",
+        "t": "He*p prepared the inner sanctuary within the temple to set the ark of the covenant of the Lord*s there."
+    },
+    {
+        "o": 9726,
+        "r": "niv:1 Kings:6:20",
+        "t": "The inner sanctuary was twenty cubits long, twenty wide and twenty high. He overlaid the inside with pure gold, and he also overlaid the altar of cedar."
+    },
+    {
+        "o": 9727,
+        "r": "niv:1 Kings:6:21",
+        "t": "Solomon covered the inside of the temple with pure gold, and he extended gold chains across the front of the inner sanctuary, which was overlaid with gold."
+    },
+    {
+        "o": 9728,
+        "r": "niv:1 Kings:6:22",
+        "t": "So he overlaid the whole interior with gold. He also overlaid with gold the altar that belonged to the inner sanctuary."
+    },
+    {
+        "o": 9729,
+        "r": "niv:1 Kings:6:23",
+        "t": "For*p the inner sanctuary he made a pair of cherubim out of olive wood, each ten cubits high."
+    },
+    {
+        "o": 9730,
+        "r": "niv:1 Kings:6:24",
+        "t": "One wing of the first cherub was five cubits long, and the other wing five cubits—ten cubits from wing tip to wing tip."
+    },
+    {
+        "o": 9731,
+        "r": "niv:1 Kings:6:25",
+        "t": "The second cherub also measured ten cubits, for the two cherubim were identical in size and shape."
+    },
+    {
+        "o": 9732,
+        "r": "niv:1 Kings:6:26",
+        "t": "The height of each cherub was ten cubits."
+    },
+    {
+        "o": 9733,
+        "r": "niv:1 Kings:6:27",
+        "t": "He placed the cherubim inside the innermost room of the temple, with their wings spread out. The wing of one cherub touched one wall, while the wing of the other touched the other wall, and their wings touched each other in the middle of the room."
+    },
+    {
+        "o": 9734,
+        "r": "niv:1 Kings:6:28",
+        "t": "He overlaid the cherubim with gold."
+    },
+    {
+        "o": 9735,
+        "r": "niv:1 Kings:6:29",
+        "t": "On*p the walls all around the temple, in both the inner and outer rooms, he carved cherubim, palm trees and open flowers."
+    },
+    {
+        "o": 9736,
+        "r": "niv:1 Kings:6:30",
+        "t": "He also covered the floors of both the inner and outer rooms of the temple with gold."
+    },
+    {
+        "o": 9737,
+        "r": "niv:1 Kings:6:31",
+        "t": "For*p the entrance to the inner sanctuary he made doors out of olive wood that were one fifth of the width of the sanctuary."
+    },
+    {
+        "o": 9738,
+        "r": "niv:1 Kings:6:32",
+        "t": "And on the two olive-wood doors he carved cherubim, palm trees and open flowers, and overlaid the cherubim and palm trees with hammered gold."
+    },
+    {
+        "o": 9739,
+        "r": "niv:1 Kings:6:33",
+        "t": "In the same way, for the entrance to the main hall he made doorframes out of olive wood that were one fourth of the width of the hall."
+    },
+    {
+        "o": 9740,
+        "r": "niv:1 Kings:6:34",
+        "t": "He also made two doors out of juniper wood, each having two leaves that turned in sockets."
+    },
+    {
+        "o": 9741,
+        "r": "niv:1 Kings:6:35",
+        "t": "He carved cherubim, palm trees and open flowers on them and overlaid them with gold hammered evenly over the carvings."
+    },
+    {
+        "o": 9742,
+        "r": "niv:1 Kings:6:36",
+        "t": "And*p he built the inner courtyard of three courses of dressed stone and one course of trimmed cedar beams."
+    },
+    {
+        "o": 9743,
+        "r": "niv:1 Kings:6:37",
+        "t": "The*p foundation of the temple of the Lord*s was laid in the fourth year, in the month of Ziv."
+    },
+    {
+        "o": 9744,
+        "r": "niv:1 Kings:6:38",
+        "t": "In the eleventh year in the month of Bul, the eighth month, the temple was finished in all its details according to its specifications. He had spent seven years building it."
+    },
+    {
+        "o": 9745,
+        "r": "niv:1 Kings:7:0",
+        "t": "1 Kings 7",
+        "h": 1
+    },
+    {
+        "o": 9746,
+        "r": "niv:1 Kings:7:0",
+        "t": "Solomon Builds His Palace",
+        "h": 2
+    },
+    {
+        "o": 9747,
+        "r": "niv:1 Kings:7:1",
+        "t": "It*p took Solomon thirteen years, however, to complete the construction of his palace."
+    },
+    {
+        "o": 9748,
+        "r": "niv:1 Kings:7:2",
+        "t": "He built the Palace of the Forest of Lebanon a hundred cubits long, fifty wide and thirty high, with four rows of cedar columns supporting trimmed cedar beams."
+    },
+    {
+        "o": 9749,
+        "r": "niv:1 Kings:7:3",
+        "t": "It was roofed with cedar above the beams that rested on the columns—forty-five beams, fifteen to a row."
+    },
+    {
+        "o": 9750,
+        "r": "niv:1 Kings:7:4",
+        "t": "Its windows were placed high in sets of three, facing each other."
+    },
+    {
+        "o": 9751,
+        "r": "niv:1 Kings:7:5",
+        "t": "All the doorways had rectangular frames; they were in the front part in sets of three, facing each other."
+    },
+    {
+        "o": 9752,
+        "r": "niv:1 Kings:7:6",
+        "t": "He*p made a colonnade fifty cubits long and thirty wide. In front of it was a portico, and in front of that were pillars and an overhanging roof."
+    },
+    {
+        "o": 9753,
+        "r": "niv:1 Kings:7:7",
+        "t": "He*p built the throne hall, the Hall of Justice, where he was to judge, and he covered it with cedar from floor to ceiling."
+    },
+    {
+        "o": 9754,
+        "r": "niv:1 Kings:7:8",
+        "t": "And the palace in which he was to live, set farther back, was similar in design. Solomon also made a palace like this hall for Pharaoh’s daughter, whom he had married."
+    },
+    {
+        "o": 9755,
+        "r": "niv:1 Kings:7:9",
+        "t": "All*p these structures, from the outside to the great courtyard and from foundation to eaves, were made of blocks of high-grade stone cut to size and smoothed on their inner and outer faces."
+    },
+    {
+        "o": 9756,
+        "r": "niv:1 Kings:7:10",
+        "t": "The foundations were laid with large stones of good quality, some measuring ten cubits and some eight."
+    },
+    {
+        "o": 9757,
+        "r": "niv:1 Kings:7:11",
+        "t": "Above were high-grade stones, cut to size, and cedar beams."
+    },
+    {
+        "o": 9758,
+        "r": "niv:1 Kings:7:12",
+        "t": "The great courtyard was surrounded by a wall of three courses of dressed stone and one course of trimmed cedar beams, as was the inner courtyard of the temple of the Lord*s with its portico."
+    },
+    {
+        "o": 9759,
+        "r": "niv:1 Kings:7:12",
+        "t": "The Temple’s Furnishings",
+        "h": 2
+    },
+    {
+        "o": 9760,
+        "r": "niv:1 Kings:7:13",
+        "t": "King*p Solomon sent to Tyre and brought Huram,"
+    },
+    {
+        "o": 9761,
+        "r": "niv:1 Kings:7:14",
+        "t": "whose mother was a widow from the tribe of Naphtali and whose father was from Tyre and a skilled craftsman in bronze. Huram was filled with wisdom, with understanding and with knowledge to do all kinds of bronze work. He came to King Solomon and did all the work assigned to him."
+    },
+    {
+        "o": 9762,
+        "r": "niv:1 Kings:7:15",
+        "t": "He*p cast two bronze pillars, each eighteen cubits high and twelve cubits in circumference."
+    },
+    {
+        "o": 9763,
+        "r": "niv:1 Kings:7:16",
+        "t": "He also made two capitals of cast bronze to set on the tops of the pillars; each capital was five cubits high."
+    },
+    {
+        "o": 9764,
+        "r": "niv:1 Kings:7:17",
+        "t": "A network of interwoven chains adorned the capitals on top of the pillars, seven for each capital."
+    },
+    {
+        "o": 9765,
+        "r": "niv:1 Kings:7:18",
+        "t": "He made pomegranates in two rows encircling each network to decorate the capitals on top of the pillars. He did the same for each capital."
+    },
+    {
+        "o": 9766,
+        "r": "niv:1 Kings:7:19",
+        "t": "The capitals on top of the pillars in the portico were in the shape of lilies, four cubits high."
+    },
+    {
+        "o": 9767,
+        "r": "niv:1 Kings:7:20",
+        "t": "On the capitals of both pillars, above the bowl-shaped part next to the network, were the two hundred pomegranates in rows all around."
+    },
+    {
+        "o": 9768,
+        "r": "niv:1 Kings:7:21",
+        "t": "He erected the pillars at the portico of the temple. The pillar to the south he named Jakin and the one to the north Boaz."
+    },
+    {
+        "o": 9769,
+        "r": "niv:1 Kings:7:22",
+        "t": "The capitals on top were in the shape of lilies. And so the work on the pillars was completed."
+    },
+    {
+        "o": 9770,
+        "r": "niv:1 Kings:7:23",
+        "t": "He*p made the Sea of cast metal, circular in shape, measuring ten cubits from rim to rim and five cubits high. It took a line of thirty cubits to measure around it."
+    },
+    {
+        "o": 9771,
+        "r": "niv:1 Kings:7:24",
+        "t": "Below the rim, gourds encircled it—ten to a cubit. The gourds were cast in two rows in one piece with the Sea."
+    },
+    {
+        "o": 9772,
+        "r": "niv:1 Kings:7:25",
+        "t": "The*p Sea stood on twelve bulls, three facing north, three facing west, three facing south and three facing east. The Sea rested on top of them, and their hindquarters were toward the center."
+    },
+    {
+        "o": 9773,
+        "r": "niv:1 Kings:7:26",
+        "t": "It was a handbreadth in thickness, and its rim was like the rim of a cup, like a lily blossom. It held two thousand baths."
+    },
+    {
+        "o": 9774,
+        "r": "niv:1 Kings:7:27",
+        "t": "He*p also made ten movable stands of bronze; each was four cubits long, four wide and three high."
+    },
+    {
+        "o": 9775,
+        "r": "niv:1 Kings:7:28",
+        "t": "This is how the stands were made: They had side panels attached to uprights."
+    },
+    {
+        "o": 9776,
+        "r": "niv:1 Kings:7:29",
+        "t": "On the panels between the uprights were lions, bulls and cherubim—and on the uprights as well. Above and below the lions and bulls were wreaths of hammered work."
+    },
+    {
+        "o": 9777,
+        "r": "niv:1 Kings:7:30",
+        "t": "Each stand had four bronze wheels with bronze axles, and each had a basin resting on four supports, cast with wreaths on each side."
+    },
+    {
+        "o": 9778,
+        "r": "niv:1 Kings:7:31",
+        "t": "On the inside of the stand there was an opening that had a circular frame one cubit deep. This opening was round, and with its basework it measured a cubit and a half. Around its opening there was engraving. The panels of the stands were square, not round."
+    },
+    {
+        "o": 9779,
+        "r": "niv:1 Kings:7:32",
+        "t": "The four wheels were under the panels, and the axles of the wheels were attached to the stand. The diameter of each wheel was a cubit and a half."
+    },
+    {
+        "o": 9780,
+        "r": "niv:1 Kings:7:33",
+        "t": "The wheels were made like chariot wheels; the axles, rims, spokes and hubs were all of cast metal."
+    },
+    {
+        "o": 9781,
+        "r": "niv:1 Kings:7:34",
+        "t": "Each*p stand had four handles, one on each corner, projecting from the stand."
+    },
+    {
+        "o": 9782,
+        "r": "niv:1 Kings:7:35",
+        "t": "At the top of the stand there was a circular band half a cubit deep. The supports and panels were attached to the top of the stand."
+    },
+    {
+        "o": 9783,
+        "r": "niv:1 Kings:7:36",
+        "t": "He engraved cherubim, lions and palm trees on the surfaces of the supports and on the panels, in every available space, with wreaths all around."
+    },
+    {
+        "o": 9784,
+        "r": "niv:1 Kings:7:37",
+        "t": "This is the way he made the ten stands. They were all cast in the same molds and were identical in size and shape."
+    },
+    {
+        "o": 9785,
+        "r": "niv:1 Kings:7:38",
+        "t": "He*p then made ten bronze basins, each holding forty baths and measuring four cubits across, one basin to go on each of the ten stands."
+    },
+    {
+        "o": 9786,
+        "r": "niv:1 Kings:7:39",
+        "t": "He placed five of the stands on the south side of the temple and five on the north. He placed the Sea on the south side, at the southeast corner of the temple."
+    },
+    {
+        "o": 9787,
+        "r": "niv:1 Kings:7:40",
+        "t": "He also made the pots and shovels and sprinkling bowls. So*p Huram finished all the work he had undertaken for King Solomon in the temple of the Lord:*s"
+    },
+    {
+        "o": 9788,
+        "r": "niv:1 Kings:7:41",
+        "t": "the*pln two pillars; the*ln two bowl-shaped capitals on top of the pillars; the*ln two sets of network decorating the two bowl-shaped capitals on top of the pillars;"
+    },
+    {
+        "o": 9789,
+        "r": "niv:1 Kings:7:42",
+        "t": "the*ln four hundred pomegranates for the two sets of network (two rows of pomegranates for each network decorating the bowl-shaped capitals on top of the pillars);"
+    },
+    {
+        "o": 9790,
+        "r": "niv:1 Kings:7:43",
+        "t": "the*ln ten stands with their ten basins;"
+    },
+    {
+        "o": 9791,
+        "r": "niv:1 Kings:7:44",
+        "t": "the*ln Sea and the twelve bulls under it;"
+    },
+    {
+        "o": 9792,
+        "r": "niv:1 Kings:7:45",
+        "t": "the*ln pots, shovels and sprinkling bowls. All*p these objects that Huram made for King Solomon for the temple of the Lord*s were of burnished bronze."
+    },
+    {
+        "o": 9793,
+        "r": "niv:1 Kings:7:46",
+        "t": "The king had them cast in clay molds in the plain of the Jordan between Sukkoth and Zarethan."
+    },
+    {
+        "o": 9794,
+        "r": "niv:1 Kings:7:47",
+        "t": "Solomon left all these things unweighed, because there were so many; the weight of the bronze was not determined."
+    },
+    {
+        "o": 9795,
+        "r": "niv:1 Kings:7:48",
+        "t": "Solomon*p also made all the furnishings that were in the Lord’s*s temple: the*pln golden altar; the*ln golden table on which was the bread of the Presence;"
+    },
+    {
+        "o": 9796,
+        "r": "niv:1 Kings:7:49",
+        "t": "the*ln lampstands of pure gold (five on the right and five on the left, in front of the inner sanctuary); the*ln gold floral work and lamps and tongs;"
+    },
+    {
+        "o": 9797,
+        "r": "niv:1 Kings:7:50",
+        "t": "the*ln pure gold basins, wick trimmers, sprinkling bowls, dishes and censers; and*ln the gold sockets for the doors of the innermost room, the Most Holy Place, and also for the doors of the main hall of the temple."
+    },
+    {
+        "o": 9798,
+        "r": "niv:1 Kings:7:51",
+        "t": "When*p all the work King Solomon had done for the temple of the Lord*s was finished, he brought in the things his father David had dedicated—the silver and gold and the furnishings—and he placed them in the treasuries of the Lord’s*s temple."
+    },
+    {
+        "o": 9799,
+        "r": "niv:1 Kings:8:0",
+        "t": "1 Kings 8",
+        "h": 1
+    },
+    {
+        "o": 9800,
+        "r": "niv:1 Kings:8:0",
+        "t": "The Ark Brought to the Temple",
+        "h": 2
+    },
+    {
+        "o": 9801,
+        "r": "niv:1 Kings:8:1",
+        "t": "Then*p King Solomon summoned into his presence at Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the Lord’s*s covenant from Zion, the City of David."
+    },
+    {
+        "o": 9802,
+        "r": "niv:1 Kings:8:2",
+        "t": "All the Israelites came together to King Solomon at the time of the festival in the month of Ethanim, the seventh month."
+    },
+    {
+        "o": 9803,
+        "r": "niv:1 Kings:8:3",
+        "t": "When*p all the elders of Israel had arrived, the priests took up the ark,"
+    },
+    {
+        "o": 9804,
+        "r": "niv:1 Kings:8:4",
+        "t": "and they brought up the ark of the Lord*s and the tent of meeting and all the sacred furnishings in it. The priests and Levites carried them up,"
+    },
+    {
+        "o": 9805,
+        "r": "niv:1 Kings:8:5",
+        "t": "and King Solomon and the entire assembly of Israel that had gathered about him were before the ark, sacrificing so many sheep and cattle that they could not be recorded or counted."
+    },
+    {
+        "o": 9806,
+        "r": "niv:1 Kings:8:6",
+        "t": "The*p priests then brought the ark of the Lord’s*s covenant to its place in the inner sanctuary of the temple, the Most Holy Place, and put it beneath the wings of the cherubim."
+    },
+    {
+        "o": 9807,
+        "r": "niv:1 Kings:8:7",
+        "t": "The cherubim spread their wings over the place of the ark and overshadowed the ark and its carrying poles."
+    },
+    {
+        "o": 9808,
+        "r": "niv:1 Kings:8:8",
+        "t": "These poles were so long that their ends could be seen from the Holy Place in front of the inner sanctuary, but not from outside the Holy Place; and they are still there today."
+    },
+    {
+        "o": 9809,
+        "r": "niv:1 Kings:8:9",
+        "t": "There was nothing in the ark except the two stone tablets that Moses had placed in it at Horeb, where the Lord*s made a covenant with the Israelites after they came out of Egypt."
+    },
+    {
+        "o": 9810,
+        "r": "niv:1 Kings:8:10",
+        "t": "When*p the priests withdrew from the Holy Place, the cloud filled the temple of the Lord.*s"
+    },
+    {
+        "o": 9811,
+        "r": "niv:1 Kings:8:11",
+        "t": "And the priests could not perform their service because of the cloud, for the glory of the Lord*s filled his temple."
+    },
+    {
+        "o": 9812,
+        "r": "niv:1 Kings:8:12",
+        "t": "Then*p Solomon said, “The Lord*s has said that he would dwell in a dark cloud;"
+    },
+    {
+        "o": 9813,
+        "r": "niv:1 Kings:8:13",
+        "t": "I have indeed built a magnificent temple for you, a place for you to dwell forever.”"
+    },
+    {
+        "o": 9814,
+        "r": "niv:1 Kings:8:14",
+        "t": "While*p the whole assembly of Israel was standing there, the king turned around and blessed them."
+    },
+    {
+        "o": 9815,
+        "r": "niv:1 Kings:8:15",
+        "t": "Then he said: “Praise*ln be to the Lord,*s the God of Israel, who with his own hand has fulfilled what he promised with his own mouth to my father David. For he said,"
+    },
+    {
+        "o": 9816,
+        "r": "niv:1 Kings:8:16",
+        "t": "‘Since the day I brought my people Israel out of Egypt, I have not chosen a city in any tribe of Israel to have a temple built so that my Name might be there, but I have chosen David to rule my people Israel.’"
+    },
+    {
+        "o": 9817,
+        "r": "niv:1 Kings:8:17",
+        "t": "“My*ln father David had it in his heart to build a temple for the Name of the Lord,*s the God of Israel."
+    },
+    {
+        "o": 9818,
+        "r": "niv:1 Kings:8:18",
+        "t": "But the Lord*s said to my father David, ‘You did well to have it in your heart to build a temple for my Name."
+    },
+    {
+        "o": 9819,
+        "r": "niv:1 Kings:8:19",
+        "t": "Nevertheless, you are not the one to build the temple, but your son, your own flesh and blood—he is the one who will build the temple for my Name.’"
+    },
+    {
+        "o": 9820,
+        "r": "niv:1 Kings:8:20",
+        "t": "“The*ln Lord*s has kept the promise he made: I have succeeded David my father and now I sit on the throne of Israel, just as the Lord*s promised, and I have built the temple for the Name of the Lord,*s the God of Israel."
+    },
+    {
+        "o": 9821,
+        "r": "niv:1 Kings:8:21",
+        "t": "I have provided a place there for the ark, in which is the covenant of the Lord*s that he made with our ancestors when he brought them out of Egypt.”"
+    },
+    {
+        "o": 9822,
+        "r": "niv:1 Kings:8:21",
+        "t": "Solomon’s Prayer of Dedication",
+        "h": 2
+    },
+    {
+        "o": 9823,
+        "r": "niv:1 Kings:8:22",
+        "t": "Then*p Solomon stood before the altar of the Lord*s in front of the whole assembly of Israel, spread out his hands toward heaven"
+    },
+    {
+        "o": 9824,
+        "r": "niv:1 Kings:8:23",
+        "t": "and said: “Lord,*sln the God of Israel, there is no God like you in heaven above or on earth below—you who keep your covenant of love with your servants who continue wholeheartedly in your way."
+    },
+    {
+        "o": 9825,
+        "r": "niv:1 Kings:8:24",
+        "t": "You have kept your promise to your servant David my father; with your mouth you have promised and with your hand you have fulfilled it—as it is today."
+    },
+    {
+        "o": 9826,
+        "r": "niv:1 Kings:8:25",
+        "t": "“Now*ln Lord,*s the God of Israel, keep for your servant David my father the promises you made to him when you said, ‘You shall never fail to have a successor to sit before me on the throne of Israel, if only your descendants are careful in all they do to walk before me faithfully as you have done.’"
+    },
+    {
+        "o": 9827,
+        "r": "niv:1 Kings:8:26",
+        "t": "And now, God of Israel, let your word that you promised your servant David my father come true."
+    },
+    {
+        "o": 9828,
+        "r": "niv:1 Kings:8:27",
+        "t": "“But*ln will God really dwell on earth? The heavens, even the highest heaven, cannot contain you. How much less this temple I have built!"
+    },
+    {
+        "o": 9829,
+        "r": "niv:1 Kings:8:28",
+        "t": "Yet give attention to your servant’s prayer and his plea for mercy, Lord*s my God. Hear the cry and the prayer that your servant is praying in your presence this day."
+    },
+    {
+        "o": 9830,
+        "r": "niv:1 Kings:8:29",
+        "t": "May your eyes be open toward this temple night and day, this place of which you said, ‘My Name shall be there,’ so that you will hear the prayer your servant prays toward this place."
+    },
+    {
+        "o": 9831,
+        "r": "niv:1 Kings:8:30",
+        "t": "Hear the supplication of your servant and of your people Israel when they pray toward this place. Hear from heaven, your dwelling place, and when you hear, forgive."
+    },
+    {
+        "o": 9832,
+        "r": "niv:1 Kings:8:31",
+        "t": "“When*ln anyone wrongs their neighbor and is required to take an oath and they come and swear the oath before your altar in this temple,"
+    },
+    {
+        "o": 9833,
+        "r": "niv:1 Kings:8:32",
+        "t": "then hear from heaven and act. Judge between your servants, condemning the guilty by bringing down on their heads what they have done, and vindicating the innocent by treating them in accordance with their innocence."
+    },
+    {
+        "o": 9834,
+        "r": "niv:1 Kings:8:33",
+        "t": "“When*ln your people Israel have been defeated by an enemy because they have sinned against you, and when they turn back to you and give praise to your name, praying and making supplication to you in this temple,"
+    },
+    {
+        "o": 9835,
+        "r": "niv:1 Kings:8:34",
+        "t": "then hear from heaven and forgive the sin of your people Israel and bring them back to the land you gave to their ancestors."
+    },
+    {
+        "o": 9836,
+        "r": "niv:1 Kings:8:35",
+        "t": "“When*ln the heavens are shut up and there is no rain because your people have sinned against you, and when they pray toward this place and give praise to your name and turn from their sin because you have afflicted them,"
+    },
+    {
+        "o": 9837,
+        "r": "niv:1 Kings:8:36",
+        "t": "then hear from heaven and forgive the sin of your servants, your people Israel. Teach them the right way to live, and send rain on the land you gave your people for an inheritance."
+    },
+    {
+        "o": 9838,
+        "r": "niv:1 Kings:8:37",
+        "t": "“When*ln famine or plague comes to the land, or blight or mildew, locusts or grasshoppers, or when an enemy besieges them in any of their cities, whatever disaster or disease may come,"
+    },
+    {
+        "o": 9839,
+        "r": "niv:1 Kings:8:38",
+        "t": "and when a prayer or plea is made by anyone among your people Israel—being aware of the afflictions of their own hearts, and spreading out their hands toward this temple—"
+    },
+    {
+        "o": 9840,
+        "r": "niv:1 Kings:8:39",
+        "t": "then hear from heaven, your dwelling place. Forgive and act; deal with everyone according to all they do, since you know their hearts (for you alone know every human heart),"
+    },
+    {
+        "o": 9841,
+        "r": "niv:1 Kings:8:40",
+        "t": "so that they will fear you all the time they live in the land you gave our ancestors."
+    },
+    {
+        "o": 9842,
+        "r": "niv:1 Kings:8:41",
+        "t": "“As*ln for the foreigner who does not belong to your people Israel but has come from a distant land because of your name—"
+    },
+    {
+        "o": 9843,
+        "r": "niv:1 Kings:8:42",
+        "t": "for they will hear of your great name and your mighty hand and your outstretched arm—when they come and pray toward this temple,"
+    },
+    {
+        "o": 9844,
+        "r": "niv:1 Kings:8:43",
+        "t": "then hear from heaven, your dwelling place. Do whatever the foreigner asks of you, so that all the peoples of the earth may know your name and fear you, as do your own people Israel, and may know that this house I have built bears your Name."
+    },
+    {
+        "o": 9845,
+        "r": "niv:1 Kings:8:44",
+        "t": "“When*ln your people go to war against their enemies, wherever you send them, and when they pray to the Lord*s toward the city you have chosen and the temple I have built for your Name,"
+    },
+    {
+        "o": 9846,
+        "r": "niv:1 Kings:8:45",
+        "t": "then hear from heaven their prayer and their plea, and uphold their cause."
+    },
+    {
+        "o": 9847,
+        "r": "niv:1 Kings:8:46",
+        "t": "“When*ln they sin against you—for there is no one who does not sin—and you become angry with them and give them over to their enemies, who take them captive to their own lands, far away or near;"
+    },
+    {
+        "o": 9848,
+        "r": "niv:1 Kings:8:47",
+        "t": "and if they have a change of heart in the land where they are held captive, and repent and plead with you in the land of their captors and say, ‘We have sinned, we have done wrong, we have acted wickedly’;"
+    },
+    {
+        "o": 9849,
+        "r": "niv:1 Kings:8:48",
+        "t": "and if they turn back to you with all their heart and soul in the land of their enemies who took them captive, and pray to you toward the land you gave their ancestors, toward the city you have chosen and the temple I have built for your Name;"
+    },
+    {
+        "o": 9850,
+        "r": "niv:1 Kings:8:49",
+        "t": "then from heaven, your dwelling place, hear their prayer and their plea, and uphold their cause."
+    },
+    {
+        "o": 9851,
+        "r": "niv:1 Kings:8:50",
+        "t": "And forgive your people, who have sinned against you; forgive all the offenses they have committed against you, and cause their captors to show them mercy;"
+    },
+    {
+        "o": 9852,
+        "r": "niv:1 Kings:8:51",
+        "t": "for they are your people and your inheritance, whom you brought out of Egypt, out of that iron-smelting furnace."
+    },
+    {
+        "o": 9853,
+        "r": "niv:1 Kings:8:52",
+        "t": "“May*ln your eyes be open to your servant’s plea and to the plea of your people Israel, and may you listen to them whenever they cry out to you."
+    },
+    {
+        "o": 9854,
+        "r": "niv:1 Kings:8:53",
+        "t": "For you singled them out from all the nations of the world to be your own inheritance, just as you declared through your servant Moses when you, Sovereign Lord,*s brought our ancestors out of Egypt.”"
+    },
+    {
+        "o": 9855,
+        "r": "niv:1 Kings:8:54",
+        "t": "When*p Solomon had finished all these prayers and supplications to the Lord,*s he rose from before the altar of the Lord,*s where he had been kneeling with his hands spread out toward heaven."
+    },
+    {
+        "o": 9856,
+        "r": "niv:1 Kings:8:55",
+        "t": "He stood and blessed the whole assembly of Israel in a loud voice, saying:"
+    },
+    {
+        "o": 9857,
+        "r": "niv:1 Kings:8:56",
+        "t": "“Praise*ln be to the Lord,*s who has given rest to his people Israel just as he promised. Not one word has failed of all the good promises he gave through his servant Moses."
+    },
+    {
+        "o": 9858,
+        "r": "niv:1 Kings:8:57",
+        "t": "May the Lord*s our God be with us as he was with our ancestors; may he never leave us nor forsake us."
+    },
+    {
+        "o": 9859,
+        "r": "niv:1 Kings:8:58",
+        "t": "May he turn our hearts to him, to walk in obedience to him and keep the commands, decrees and laws he gave our ancestors."
+    },
+    {
+        "o": 9860,
+        "r": "niv:1 Kings:8:59",
+        "t": "And may these words of mine, which I have prayed before the Lord,*s be near to the Lord*s our God day and night, that he may uphold the cause of his servant and the cause of his people Israel according to each day’s need,"
+    },
+    {
+        "o": 9861,
+        "r": "niv:1 Kings:8:60",
+        "t": "so that all the peoples of the earth may know that the Lord*s is God and that there is no other."
+    },
+    {
+        "o": 9862,
+        "r": "niv:1 Kings:8:61",
+        "t": "And may your hearts be fully committed to the Lord*s our God, to live by his decrees and obey his commands, as at this time.”"
+    },
+    {
+        "o": 9863,
+        "r": "niv:1 Kings:8:61",
+        "t": "The Dedication of the Temple",
+        "h": 2
+    },
+    {
+        "o": 9864,
+        "r": "niv:1 Kings:8:62",
+        "t": "Then*p the king and all Israel with him offered sacrifices before the Lord.*s"
+    },
+    {
+        "o": 9865,
+        "r": "niv:1 Kings:8:63",
+        "t": "Solomon offered a sacrifice of fellowship offerings to the Lord:*s twenty-two thousand cattle and a hundred and twenty thousand sheep and goats. So the king and all the Israelites dedicated the temple of the Lord.*s"
+    },
+    {
+        "o": 9866,
+        "r": "niv:1 Kings:8:64",
+        "t": "On*p that same day the king consecrated the middle part of the courtyard in front of the temple of the Lord,*s and there he offered burnt offerings, grain offerings and the fat of the fellowship offerings, because the bronze altar that stood before the Lord*s was too small to hold the burnt offerings, the grain offerings and the fat of the fellowship offerings."
+    },
+    {
+        "o": 9867,
+        "r": "niv:1 Kings:8:65",
+        "t": "So*p Solomon observed the festival at that time, and all Israel with him—a vast assembly, people from Lebo Hamath to the Wadi of Egypt. They celebrated it before the Lord*s our God for seven days and seven days more, fourteen days in all."
+    },
+    {
+        "o": 9868,
+        "r": "niv:1 Kings:8:66",
+        "t": "On the following day he sent the people away. They blessed the king and then went home, joyful and glad in heart for all the good things the Lord*s had done for his servant David and his people Israel."
+    },
+    {
+        "o": 9869,
+        "r": "niv:1 Kings:9:0",
+        "t": "1 Kings 9",
+        "h": 1
+    },
+    {
+        "o": 9870,
+        "r": "niv:1 Kings:9:0",
+        "t": "The Lord Appears to Solomon",
+        "h": 2
+    },
+    {
+        "o": 9871,
+        "r": "niv:1 Kings:9:1",
+        "t": "When*p Solomon had finished building the temple of the Lord*s and the royal palace, and had achieved all he had desired to do,"
+    },
+    {
+        "o": 9872,
+        "r": "niv:1 Kings:9:2",
+        "t": "the Lord*s appeared to him a second time, as he had appeared to him at Gibeon."
+    },
+    {
+        "o": 9873,
+        "r": "niv:1 Kings:9:3",
+        "t": "The Lord*s said to him: “I*ln have heard the prayer and plea you have made before me; I have consecrated this temple, which you have built, by putting my Name there forever. My eyes and my heart will always be there."
+    },
+    {
+        "o": 9874,
+        "r": "niv:1 Kings:9:4",
+        "t": "“As*ln for you, if you walk before me faithfully with integrity of heart and uprightness, as David your father did, and do all I command and observe my decrees and laws,"
+    },
+    {
+        "o": 9875,
+        "r": "niv:1 Kings:9:5",
+        "t": "I will establish your royal throne over Israel forever, as I promised David your father when I said, ‘You shall never fail to have a successor on the throne of Israel.’"
+    },
+    {
+        "o": 9876,
+        "r": "niv:1 Kings:9:6",
+        "t": "“But*ln if you or your descendants turn away from me and do not observe the commands and decrees I have given you and go off to serve other gods and worship them,"
+    },
+    {
+        "o": 9877,
+        "r": "niv:1 Kings:9:7",
+        "t": "then I will cut off Israel from the land I have given them and will reject this temple I have consecrated for my Name. Israel will then become a byword and an object of ridicule among all peoples."
+    },
+    {
+        "o": 9878,
+        "r": "niv:1 Kings:9:8",
+        "t": "This temple will become a heap of rubble. All who pass by will be appalled and will scoff and say, ‘Why has the Lord*s done such a thing to this land and to this temple?’"
+    },
+    {
+        "o": 9879,
+        "r": "niv:1 Kings:9:9",
+        "t": "People will answer, ‘Because they have forsaken the Lord*s their God, who brought their ancestors out of Egypt, and have embraced other gods, worshiping and serving them—that is why the Lord*s brought all this disaster on them.’ ”"
+    },
+    {
+        "o": 9880,
+        "r": "niv:1 Kings:9:9",
+        "t": "Solomon’s Other Activities",
+        "h": 2
+    },
+    {
+        "o": 9881,
+        "r": "niv:1 Kings:9:10",
+        "t": "At*p the end of twenty years, during which Solomon built these two buildings—the temple of the Lord*s and the royal palace—"
+    },
+    {
+        "o": 9882,
+        "r": "niv:1 Kings:9:11",
+        "t": "King Solomon gave twenty towns in Galilee to Hiram king of Tyre, because Hiram had supplied him with all the cedar and juniper and gold he wanted."
+    },
+    {
+        "o": 9883,
+        "r": "niv:1 Kings:9:12",
+        "t": "But when Hiram went from Tyre to see the towns that Solomon had given him, he was not pleased with them."
+    },
+    {
+        "o": 9884,
+        "r": "niv:1 Kings:9:13",
+        "t": "“What kind of towns are these you have given me, my brother?” he asked. And he called them the Land of Kabul, a name they have to this day."
+    },
+    {
+        "o": 9885,
+        "r": "niv:1 Kings:9:14",
+        "t": "Now Hiram had sent to the king 120 talents of gold."
+    },
+    {
+        "o": 9886,
+        "r": "niv:1 Kings:9:15",
+        "t": "Here*p is the account of the forced labor King Solomon conscripted to build the Lord’s*s temple, his own palace, the terraces, the wall of Jerusalem, and Hazor, Megiddo and Gezer."
+    },
+    {
+        "o": 9887,
+        "r": "niv:1 Kings:9:16",
+        "t": "(Pharaoh king of Egypt had attacked and captured Gezer. He had set it on fire. He killed its Canaanite inhabitants and then gave it as a wedding gift to his daughter, Solomon’s wife."
+    },
+    {
+        "o": 9888,
+        "r": "niv:1 Kings:9:17",
+        "t": "And Solomon rebuilt Gezer.) He built up Lower Beth Horon,"
+    },
+    {
+        "o": 9889,
+        "r": "niv:1 Kings:9:18",
+        "t": "Baalath, and Tadmor in the desert, within his land,"
+    },
+    {
+        "o": 9890,
+        "r": "niv:1 Kings:9:19",
+        "t": "as well as all his store cities and the towns for his chariots and for his horses —whatever he desired to build in Jerusalem, in Lebanon and throughout all the territory he ruled."
+    },
+    {
+        "o": 9891,
+        "r": "niv:1 Kings:9:20",
+        "t": "There*p were still people left from the Amorites, Hittites, Perizzites, Hivites and Jebusites (these peoples were not Israelites)."
+    },
+    {
+        "o": 9892,
+        "r": "niv:1 Kings:9:21",
+        "t": "Solomon conscripted the descendants of all these peoples remaining in the land—whom the Israelites could not exterminate —to serve as slave labor, as it is to this day."
+    },
+    {
+        "o": 9893,
+        "r": "niv:1 Kings:9:22",
+        "t": "But Solomon did not make slaves of any of the Israelites; they were his fighting men, his government officials, his officers, his captains, and the commanders of his chariots and charioteers."
+    },
+    {
+        "o": 9894,
+        "r": "niv:1 Kings:9:23",
+        "t": "They were also the chief officials in charge of Solomon’s projects—550 officials supervising those who did the work."
+    },
+    {
+        "o": 9895,
+        "r": "niv:1 Kings:9:24",
+        "t": "After*p Pharaoh’s daughter had come up from the City of David to the palace Solomon had built for her, he constructed the terraces."
+    },
+    {
+        "o": 9896,
+        "r": "niv:1 Kings:9:25",
+        "t": "Three*p times a year Solomon sacrificed burnt offerings and fellowship offerings on the altar he had built for the Lord,*s burning incense before the Lord*s along with them, and so fulfilled the temple obligations."
+    },
+    {
+        "o": 9897,
+        "r": "niv:1 Kings:9:26",
+        "t": "King*p Solomon also built ships at Ezion Geber, which is near Elath in Edom, on the shore of the Red Sea."
+    },
+    {
+        "o": 9898,
+        "r": "niv:1 Kings:9:27",
+        "t": "And Hiram sent his men—sailors who knew the sea—to serve in the fleet with Solomon’s men."
+    },
+    {
+        "o": 9899,
+        "r": "niv:1 Kings:9:28",
+        "t": "They sailed to Ophir and brought back 420 talents of gold, which they delivered to King Solomon."
+    },
+    {
+        "o": 9900,
+        "r": "niv:1 Kings:10:0",
+        "t": "1 Kings 10",
+        "h": 1
+    },
+    {
+        "o": 9901,
+        "r": "niv:1 Kings:10:0",
+        "t": "The Queen of Sheba Visits Solomon",
+        "h": 2
+    },
+    {
+        "o": 9902,
+        "r": "niv:1 Kings:10:1",
+        "t": "When*p the queen of Sheba heard about the fame of Solomon and his relationship to the Lord,*s she came to test Solomon with hard questions."
+    },
+    {
+        "o": 9903,
+        "r": "niv:1 Kings:10:2",
+        "t": "Arriving at Jerusalem with a very great caravan—with camels carrying spices, large quantities of gold, and precious stones—she came to Solomon and talked with him about all that she had on her mind."
+    },
+    {
+        "o": 9904,
+        "r": "niv:1 Kings:10:3",
+        "t": "Solomon answered all her questions; nothing was too hard for the king to explain to her."
+    },
+    {
+        "o": 9905,
+        "r": "niv:1 Kings:10:4",
+        "t": "When the queen of Sheba saw all the wisdom of Solomon and the palace he had built,"
+    },
+    {
+        "o": 9906,
+        "r": "niv:1 Kings:10:5",
+        "t": "the food on his table, the seating of his officials, the attending servants in their robes, his cupbearers, and the burnt offerings he made at the temple of the Lord,*s she was overwhelmed."
+    },
+    {
+        "o": 9907,
+        "r": "niv:1 Kings:10:6",
+        "t": "She*p said to the king, “The report I heard in my own country about your achievements and your wisdom is true."
+    },
+    {
+        "o": 9908,
+        "r": "niv:1 Kings:10:7",
+        "t": "But I did not believe these things until I came and saw with my own eyes. Indeed, not even half was told me; in wisdom and wealth you have far exceeded the report I heard."
+    },
+    {
+        "o": 9909,
+        "r": "niv:1 Kings:10:8",
+        "t": "How happy your people must be! How happy your officials, who continually stand before you and hear your wisdom!"
+    },
+    {
+        "o": 9910,
+        "r": "niv:1 Kings:10:9",
+        "t": "Praise be to the Lord*s your God, who has delighted in you and placed you on the throne of Israel. Because of the Lord’s*s eternal love for Israel, he has made you king to maintain justice and righteousness.”"
+    },
+    {
+        "o": 9911,
+        "r": "niv:1 Kings:10:10",
+        "t": "And*p she gave the king 120 talents of gold, large quantities of spices, and precious stones. Never again were so many spices brought in as those the queen of Sheba gave to King Solomon."
+    },
+    {
+        "o": 9912,
+        "r": "niv:1 Kings:10:11",
+        "t": "(Hiram’s*p ships brought gold from Ophir; and from there they brought great cargoes of almugwood and precious stones."
+    },
+    {
+        "o": 9913,
+        "r": "niv:1 Kings:10:12",
+        "t": "The king used the almugwood to make supports for the temple of the Lord*s and for the royal palace, and to make harps and lyres for the musicians. So much almugwood has never been imported or seen since that day.)"
+    },
+    {
+        "o": 9914,
+        "r": "niv:1 Kings:10:13",
+        "t": "King*p Solomon gave the queen of Sheba all she desired and asked for, besides what he had given her out of his royal bounty. Then she left and returned with her retinue to her own country."
+    },
+    {
+        "o": 9915,
+        "r": "niv:1 Kings:10:13",
+        "t": "Solomon’s Splendor",
+        "h": 2
+    },
+    {
+        "o": 9916,
+        "r": "niv:1 Kings:10:14",
+        "t": "The*p weight of the gold that Solomon received yearly was 666 talents,"
+    },
+    {
+        "o": 9917,
+        "r": "niv:1 Kings:10:15",
+        "t": "not including the revenues from merchants and traders and from all the Arabian kings and the governors of the territories."
+    },
+    {
+        "o": 9918,
+        "r": "niv:1 Kings:10:16",
+        "t": "King*p Solomon made two hundred large shields of hammered gold; six hundred shekels of gold went into each shield."
+    },
+    {
+        "o": 9919,
+        "r": "niv:1 Kings:10:17",
+        "t": "He also made three hundred small shields of hammered gold, with three minas of gold in each shield. The king put them in the Palace of the Forest of Lebanon."
+    },
+    {
+        "o": 9920,
+        "r": "niv:1 Kings:10:18",
+        "t": "Then*p the king made a great throne covered with ivory and overlaid with fine gold."
+    },
+    {
+        "o": 9921,
+        "r": "niv:1 Kings:10:19",
+        "t": "The throne had six steps, and its back had a rounded top. On both sides of the seat were armrests, with a lion standing beside each of them."
+    },
+    {
+        "o": 9922,
+        "r": "niv:1 Kings:10:20",
+        "t": "Twelve lions stood on the six steps, one at either end of each step. Nothing like it had ever been made for any other kingdom."
+    },
+    {
+        "o": 9923,
+        "r": "niv:1 Kings:10:21",
+        "t": "All King Solomon’s goblets were gold, and all the household articles in the Palace of the Forest of Lebanon were pure gold. Nothing was made of silver, because silver was considered of little value in Solomon’s days."
+    },
+    {
+        "o": 9924,
+        "r": "niv:1 Kings:10:22",
+        "t": "The king had a fleet of trading ships at sea along with the ships of Hiram. Once every three years it returned, carrying gold, silver and ivory, and apes and baboons."
+    },
+    {
+        "o": 9925,
+        "r": "niv:1 Kings:10:23",
+        "t": "King*p Solomon was greater in riches and wisdom than all the other kings of the earth."
+    },
+    {
+        "o": 9926,
+        "r": "niv:1 Kings:10:24",
+        "t": "The whole world sought audience with Solomon to hear the wisdom God had put in his heart."
+    },
+    {
+        "o": 9927,
+        "r": "niv:1 Kings:10:25",
+        "t": "Year after year, everyone who came brought a gift—articles of silver and gold, robes, weapons and spices, and horses and mules."
+    },
+    {
+        "o": 9928,
+        "r": "niv:1 Kings:10:26",
+        "t": "Solomon*p accumulated chariots and horses; he had fourteen hundred chariots and twelve thousand horses, which he kept in the chariot cities and also with him in Jerusalem."
+    },
+    {
+        "o": 9929,
+        "r": "niv:1 Kings:10:27",
+        "t": "The king made silver as common in Jerusalem as stones, and cedar as plentiful as sycamore-fig trees in the foothills."
+    },
+    {
+        "o": 9930,
+        "r": "niv:1 Kings:10:28",
+        "t": "Solomon’s horses were imported from Egypt and from Kue —the royal merchants purchased them from Kue at the current price."
+    },
+    {
+        "o": 9931,
+        "r": "niv:1 Kings:10:29",
+        "t": "They imported a chariot from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. They also exported them to all the kings of the Hittites and of the Arameans."
+    },
+    {
+        "o": 9932,
+        "r": "niv:1 Kings:11:0",
+        "t": "1 Kings 11",
+        "h": 1
+    },
+    {
+        "o": 9933,
+        "r": "niv:1 Kings:11:0",
+        "t": "Solomon’s Wives",
+        "h": 2
+    },
+    {
+        "o": 9934,
+        "r": "niv:1 Kings:11:1",
+        "t": "King*p Solomon, however, loved many foreign women besides Pharaoh’s daughter—Moabites, Ammonites, Edomites, Sidonians and Hittites."
+    },
+    {
+        "o": 9935,
+        "r": "niv:1 Kings:11:2",
+        "t": "They were from nations about which the Lord*s had told the Israelites, “You must not intermarry with them, because they will surely turn your hearts after their gods.” Nevertheless, Solomon held fast to them in love."
+    },
+    {
+        "o": 9936,
+        "r": "niv:1 Kings:11:3",
+        "t": "He had seven hundred wives of royal birth and three hundred concubines, and his wives led him astray."
+    },
+    {
+        "o": 9937,
+        "r": "niv:1 Kings:11:4",
+        "t": "As Solomon grew old, his wives turned his heart after other gods, and his heart was not fully devoted to the Lord*s his God, as the heart of David his father had been."
+    },
+    {
+        "o": 9938,
+        "r": "niv:1 Kings:11:5",
+        "t": "He followed Ashtoreth the goddess of the Sidonians, and Molek the detestable god of the Ammonites."
+    },
+    {
+        "o": 9939,
+        "r": "niv:1 Kings:11:6",
+        "t": "So Solomon did evil in the eyes of the Lord;*s he did not follow the Lord*s completely, as David his father had done."
+    },
+    {
+        "o": 9940,
+        "r": "niv:1 Kings:11:7",
+        "t": "On*p a hill east of Jerusalem, Solomon built a high place for Chemosh the detestable god of Moab, and for Molek the detestable god of the Ammonites."
+    },
+    {
+        "o": 9941,
+        "r": "niv:1 Kings:11:8",
+        "t": "He did the same for all his foreign wives, who burned incense and offered sacrifices to their gods."
+    },
+    {
+        "o": 9942,
+        "r": "niv:1 Kings:11:9",
+        "t": "The*p Lord*s became angry with Solomon because his heart had turned away from the Lord,*s the God of Israel, who had appeared to him twice."
+    },
+    {
+        "o": 9943,
+        "r": "niv:1 Kings:11:10",
+        "t": "Although he had forbidden Solomon to follow other gods, Solomon did not keep the Lord’s*s command."
+    },
+    {
+        "o": 9944,
+        "r": "niv:1 Kings:11:11",
+        "t": "So the Lord*s said to Solomon, “Since this is your attitude and you have not kept my covenant and my decrees, which I commanded you, I will most certainly tear the kingdom away from you and give it to one of your subordinates."
+    },
+    {
+        "o": 9945,
+        "r": "niv:1 Kings:11:12",
+        "t": "Nevertheless, for the sake of David your father, I will not do it during your lifetime. I will tear it out of the hand of your son."
+    },
+    {
+        "o": 9946,
+        "r": "niv:1 Kings:11:13",
+        "t": "Yet I will not tear the whole kingdom from him, but will give him one tribe for the sake of David my servant and for the sake of Jerusalem, which I have chosen.”"
+    },
+    {
+        "o": 9947,
+        "r": "niv:1 Kings:11:13",
+        "t": "Solomon’s Adversaries",
+        "h": 2
+    },
+    {
+        "o": 9948,
+        "r": "niv:1 Kings:11:14",
+        "t": "Then*p the Lord*s raised up against Solomon an adversary, Hadad the Edomite, from the royal line of Edom."
+    },
+    {
+        "o": 9949,
+        "r": "niv:1 Kings:11:15",
+        "t": "Earlier when David was fighting with Edom, Joab the commander of the army, who had gone up to bury the dead, had struck down all the men in Edom."
+    },
+    {
+        "o": 9950,
+        "r": "niv:1 Kings:11:16",
+        "t": "Joab and all the Israelites stayed there for six months, until they had destroyed all the men in Edom."
+    },
+    {
+        "o": 9951,
+        "r": "niv:1 Kings:11:17",
+        "t": "But Hadad, still only a boy, fled to Egypt with some Edomite officials who had served his father."
+    },
+    {
+        "o": 9952,
+        "r": "niv:1 Kings:11:18",
+        "t": "They set out from Midian and went to Paran. Then taking people from Paran with them, they went to Egypt, to Pharaoh king of Egypt, who gave Hadad a house and land and provided him with food."
+    },
+    {
+        "o": 9953,
+        "r": "niv:1 Kings:11:19",
+        "t": "Pharaoh*p was so pleased with Hadad that he gave him a sister of his own wife, Queen Tahpenes, in marriage."
+    },
+    {
+        "o": 9954,
+        "r": "niv:1 Kings:11:20",
+        "t": "The sister of Tahpenes bore him a son named Genubath, whom Tahpenes brought up in the royal palace. There Genubath lived with Pharaoh’s own children."
+    },
+    {
+        "o": 9955,
+        "r": "niv:1 Kings:11:21",
+        "t": "While*p he was in Egypt, Hadad heard that David rested with his ancestors and that Joab the commander of the army was also dead. Then Hadad said to Pharaoh, “Let me go, that I may return to my own country.”"
+    },
+    {
+        "o": 9956,
+        "r": "niv:1 Kings:11:22",
+        "t": "“What*p have you lacked here that you want to go back to your own country?” Pharaoh asked. “Nothing,”*p Hadad replied, “but do let me go!”"
+    },
+    {
+        "o": 9957,
+        "r": "niv:1 Kings:11:23",
+        "t": "And*p God raised up against Solomon another adversary, Rezon son of Eliada, who had fled from his master, Hadadezer king of Zobah."
+    },
+    {
+        "o": 9958,
+        "r": "niv:1 Kings:11:24",
+        "t": "When David destroyed Zobah’s army, Rezon gathered a band of men around him and became their leader; they went to Damascus, where they settled and took control."
+    },
+    {
+        "o": 9959,
+        "r": "niv:1 Kings:11:25",
+        "t": "Rezon was Israel’s adversary as long as Solomon lived, adding to the trouble caused by Hadad. So Rezon ruled in Aram and was hostile toward Israel."
+    },
+    {
+        "o": 9960,
+        "r": "niv:1 Kings:11:25",
+        "t": "Jeroboam Rebels Against Solomon",
+        "h": 2
+    },
+    {
+        "o": 9961,
+        "r": "niv:1 Kings:11:26",
+        "t": "Also,*p Jeroboam son of Nebat rebelled against the king. He was one of Solomon’s officials, an Ephraimite from Zeredah, and his mother was a widow named Zeruah."
+    },
+    {
+        "o": 9962,
+        "r": "niv:1 Kings:11:27",
+        "t": "Here*p is the account of how he rebelled against the king: Solomon had built the terraces and had filled in the gap in the wall of the city of David his father."
+    },
+    {
+        "o": 9963,
+        "r": "niv:1 Kings:11:28",
+        "t": "Now Jeroboam was a man of standing, and when Solomon saw how well the young man did his work, he put him in charge of the whole labor force of the tribes of Joseph."
+    },
+    {
+        "o": 9964,
+        "r": "niv:1 Kings:11:29",
+        "t": "About*p that time Jeroboam was going out of Jerusalem, and Ahijah the prophet of Shiloh met him on the way, wearing a new cloak. The two of them were alone out in the country,"
+    },
+    {
+        "o": 9965,
+        "r": "niv:1 Kings:11:30",
+        "t": "and Ahijah took hold of the new cloak he was wearing and tore it into twelve pieces."
+    },
+    {
+        "o": 9966,
+        "r": "niv:1 Kings:11:31",
+        "t": "Then he said to Jeroboam, “Take ten pieces for yourself, for this is what the Lord,*s the God of Israel, says: ‘See, I am going to tear the kingdom out of Solomon’s hand and give you ten tribes."
+    },
+    {
+        "o": 9967,
+        "r": "niv:1 Kings:11:32",
+        "t": "But for the sake of my servant David and the city of Jerusalem, which I have chosen out of all the tribes of Israel, he will have one tribe."
+    },
+    {
+        "o": 9968,
+        "r": "niv:1 Kings:11:33",
+        "t": "I will do this because they have forsaken me and worshiped Ashtoreth the goddess of the Sidonians, Chemosh the god of the Moabites, and Molek the god of the Ammonites, and have not walked in obedience to me, nor done what is right in my eyes, nor kept my decrees and laws as David, Solomon’s father, did."
+    },
+    {
+        "o": 9969,
+        "r": "niv:1 Kings:11:34",
+        "t": "“ ‘But*p I will not take the whole kingdom out of Solomon’s hand; I have made him ruler all the days of his life for the sake of David my servant, whom I chose and who obeyed my commands and decrees."
+    },
+    {
+        "o": 9970,
+        "r": "niv:1 Kings:11:35",
+        "t": "I will take the kingdom from his son’s hands and give you ten tribes."
+    },
+    {
+        "o": 9971,
+        "r": "niv:1 Kings:11:36",
+        "t": "I will give one tribe to his son so that David my servant may always have a lamp before me in Jerusalem, the city where I chose to put my Name."
+    },
+    {
+        "o": 9972,
+        "r": "niv:1 Kings:11:37",
+        "t": "However, as for you, I will take you, and you will rule over all that your heart desires; you will be king over Israel."
+    },
+    {
+        "o": 9973,
+        "r": "niv:1 Kings:11:38",
+        "t": "If you do whatever I command you and walk in obedience to me and do what is right in my eyes by obeying my decrees and commands, as David my servant did, I will be with you. I will build you a dynasty as enduring as the one I built for David and will give Israel to you."
+    },
+    {
+        "o": 9974,
+        "r": "niv:1 Kings:11:39",
+        "t": "I will humble David’s descendants because of this, but not forever.’ ”"
+    },
+    {
+        "o": 9975,
+        "r": "niv:1 Kings:11:40",
+        "t": "Solomon*p tried to kill Jeroboam, but Jeroboam fled to Egypt, to Shishak the king, and stayed there until Solomon’s death."
+    },
+    {
+        "o": 9976,
+        "r": "niv:1 Kings:11:40",
+        "t": "Solomon’s Death",
+        "h": 2
+    },
+    {
+        "o": 9977,
+        "r": "niv:1 Kings:11:41",
+        "t": "As*p for the other events of Solomon’s reign—all he did and the wisdom he displayed—are they not written in the book of the annals of Solomon?"
+    },
+    {
+        "o": 9978,
+        "r": "niv:1 Kings:11:42",
+        "t": "Solomon reigned in Jerusalem over all Israel forty years."
+    },
+    {
+        "o": 9979,
+        "r": "niv:1 Kings:11:43",
+        "t": "Then he rested with his ancestors and was buried in the city of David his father. And Rehoboam his son succeeded him as king."
+    },
+    {
+        "o": 9980,
+        "r": "niv:1 Kings:12:0",
+        "t": "1 Kings 12",
+        "h": 1
+    },
+    {
+        "o": 9981,
+        "r": "niv:1 Kings:12:0",
+        "t": "Israel Rebels Against Rehoboam",
+        "h": 2
+    },
+    {
+        "o": 9982,
+        "r": "niv:1 Kings:12:1",
+        "t": "Rehoboam*p went to Shechem, for all Israel had gone there to make him king."
+    },
+    {
+        "o": 9983,
+        "r": "niv:1 Kings:12:2",
+        "t": "When Jeroboam son of Nebat heard this (he was still in Egypt, where he had fled from King Solomon), he returned from Egypt."
+    },
+    {
+        "o": 9984,
+        "r": "niv:1 Kings:12:3",
+        "t": "So they sent for Jeroboam, and he and the whole assembly of Israel went to Rehoboam and said to him:"
+    },
+    {
+        "o": 9985,
+        "r": "niv:1 Kings:12:4",
+        "t": "“Your father put a heavy yoke on us, but now lighten the harsh labor and the heavy yoke he put on us, and we will serve you.”"
+    },
+    {
+        "o": 9986,
+        "r": "niv:1 Kings:12:5",
+        "t": "Rehoboam*p answered, “Go away for three days and then come back to me.” So the people went away."
+    },
+    {
+        "o": 9987,
+        "r": "niv:1 Kings:12:6",
+        "t": "Then*p King Rehoboam consulted the elders who had served his father Solomon during his lifetime. “How would you advise me to answer these people?” he asked."
+    },
+    {
+        "o": 9988,
+        "r": "niv:1 Kings:12:7",
+        "t": "They*p replied, “If today you will be a servant to these people and serve them and give them a favorable answer, they will always be your servants.”"
+    },
+    {
+        "o": 9989,
+        "r": "niv:1 Kings:12:8",
+        "t": "But*p Rehoboam rejected the advice the elders gave him and consulted the young men who had grown up with him and were serving him."
+    },
+    {
+        "o": 9990,
+        "r": "niv:1 Kings:12:9",
+        "t": "He asked them, “What is your advice? How should we answer these people who say to me, ‘Lighten the yoke your father put on us’?”"
+    },
+    {
+        "o": 9991,
+        "r": "niv:1 Kings:12:10",
+        "t": "The*p young men who had grown up with him replied, “These people have said to you, ‘Your father put a heavy yoke on us, but make our yoke lighter.’ Now tell them, ‘My little finger is thicker than my father’s waist."
+    },
+    {
+        "o": 9992,
+        "r": "niv:1 Kings:12:11",
+        "t": "My father laid on you a heavy yoke; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.’ ”"
+    },
+    {
+        "o": 9993,
+        "r": "niv:1 Kings:12:12",
+        "t": "Three*p days later Jeroboam and all the people returned to Rehoboam, as the king had said, “Come back to me in three days.”"
+    },
+    {
+        "o": 9994,
+        "r": "niv:1 Kings:12:13",
+        "t": "The king answered the people harshly. Rejecting the advice given him by the elders,"
+    },
+    {
+        "o": 9995,
+        "r": "niv:1 Kings:12:14",
+        "t": "he followed the advice of the young men and said, “My father made your yoke heavy; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.”"
+    },
+    {
+        "o": 9996,
+        "r": "niv:1 Kings:12:15",
+        "t": "So the king did not listen to the people, for this turn of events was from the Lord,*s to fulfill the word the Lord*s had spoken to Jeroboam son of Nebat through Ahijah the Shilonite."
+    },
+    {
+        "o": 9997,
+        "r": "niv:1 Kings:12:16",
+        "t": "When*p all Israel saw that the king refused to listen to them, they answered the king: “What*pn share do we have in David, what*ld part in Jesse’s son? To*ln your tents, Israel! Look*ld after your own house, David!” So*p the Israelites went home."
+    },
+    {
+        "o": 9998,
+        "r": "niv:1 Kings:12:17",
+        "t": "But as for the Israelites who were living in the towns of Judah, Rehoboam still ruled over them."
+    },
+    {
+        "o": 9999,
+        "r": "niv:1 Kings:12:18",
+        "t": "King*p Rehoboam sent out Adoniram, who was in charge of forced labor, but all Israel stoned him to death. King Rehoboam, however, managed to get into his chariot and escape to Jerusalem."
+    },
+    {
+        "o": 10000,
+        "r": "niv:1 Kings:12:19",
+        "t": "So Israel has been in rebellion against the house of David to this day."
+    },
+    {
+        "o": 10001,
+        "r": "niv:1 Kings:12:20",
+        "t": "When*p all the Israelites heard that Jeroboam had returned, they sent and called him to the assembly and made him king over all Israel. Only the tribe of Judah remained loyal to the house of David."
+    },
+    {
+        "o": 10002,
+        "r": "niv:1 Kings:12:21",
+        "t": "When*p Rehoboam arrived in Jerusalem, he mustered all Judah and the tribe of Benjamin—a hundred and eighty thousand able young men—to go to war against Israel and to regain the kingdom for Rehoboam son of Solomon."
+    },
+    {
+        "o": 10003,
+        "r": "niv:1 Kings:12:22",
+        "t": "But*p this word of God came to Shemaiah the man of God:"
+    },
+    {
+        "o": 10004,
+        "r": "niv:1 Kings:12:23",
+        "t": "“Say to Rehoboam son of Solomon king of Judah, to all Judah and Benjamin, and to the rest of the people,"
+    },
+    {
+        "o": 10005,
+        "r": "niv:1 Kings:12:24",
+        "t": "‘This is what the Lord*s says: Do not go up to fight against your brothers, the Israelites. Go home, every one of you, for this is my doing.’ ” So they obeyed the word of the Lord*s and went home again, as the Lord*s had ordered."
+    },
+    {
+        "o": 10006,
+        "r": "niv:1 Kings:12:24",
+        "t": "Golden Calves at Bethel and Dan",
+        "h": 2
+    },
+    {
+        "o": 10007,
+        "r": "niv:1 Kings:12:25",
+        "t": "Then*p Jeroboam fortified Shechem in the hill country of Ephraim and lived there. From there he went out and built up Peniel."
+    },
+    {
+        "o": 10008,
+        "r": "niv:1 Kings:12:26",
+        "t": "Jeroboam*p thought to himself, “The kingdom will now likely revert to the house of David."
+    },
+    {
+        "o": 10009,
+        "r": "niv:1 Kings:12:27",
+        "t": "If these people go up to offer sacrifices at the temple of the Lord*s in Jerusalem, they will again give their allegiance to their lord, Rehoboam king of Judah. They will kill me and return to King Rehoboam.”"
+    },
+    {
+        "o": 10010,
+        "r": "niv:1 Kings:12:28",
+        "t": "After*p seeking advice, the king made two golden calves. He said to the people, “It is too much for you to go up to Jerusalem. Here are your gods, Israel, who brought you up out of Egypt.”"
+    },
+    {
+        "o": 10011,
+        "r": "niv:1 Kings:12:29",
+        "t": "One he set up in Bethel, and the other in Dan."
+    },
+    {
+        "o": 10012,
+        "r": "niv:1 Kings:12:30",
+        "t": "And this thing became a sin; the people came to worship the one at Bethel and went as far as Dan to worship the other."
+    },
+    {
+        "o": 10013,
+        "r": "niv:1 Kings:12:31",
+        "t": "Jeroboam*p built shrines on high places and appointed priests from all sorts of people, even though they were not Levites."
+    },
+    {
+        "o": 10014,
+        "r": "niv:1 Kings:12:32",
+        "t": "He instituted a festival on the fifteenth day of the eighth month, like the festival held in Judah, and offered sacrifices on the altar. This he did in Bethel, sacrificing to the calves he had made. And at Bethel he also installed priests at the high places he had made."
+    },
+    {
+        "o": 10015,
+        "r": "niv:1 Kings:12:33",
+        "t": "On the fifteenth day of the eighth month, a month of his own choosing, he offered sacrifices on the altar he had built at Bethel. So he instituted the festival for the Israelites and went up to the altar to make offerings."
+    },
+    {
+        "o": 10016,
+        "r": "niv:1 Kings:13:0",
+        "t": "1 Kings 13",
+        "h": 1
+    },
+    {
+        "o": 10017,
+        "r": "niv:1 Kings:13:0",
+        "t": "The Man of God From Judah",
+        "h": 2
+    },
+    {
+        "o": 10018,
+        "r": "niv:1 Kings:13:1",
+        "t": "By*p the word of the Lord*s a man of God came from Judah to Bethel, as Jeroboam was standing by the altar to make an offering."
+    },
+    {
+        "o": 10019,
+        "r": "niv:1 Kings:13:2",
+        "t": "By the word of the Lord*s he cried out against the altar: “Altar, altar! This is what the Lord*s says: ‘A son named Josiah will be born to the house of David. On you he will sacrifice the priests of the high places who make offerings here, and human bones will be burned on you.’ ”"
+    },
+    {
+        "o": 10020,
+        "r": "niv:1 Kings:13:3",
+        "t": "That same day the man of God gave a sign: “This is the sign the Lord*s has declared: The altar will be split apart and the ashes on it will be poured out.”"
+    },
+    {
+        "o": 10021,
+        "r": "niv:1 Kings:13:4",
+        "t": "When*p King Jeroboam heard what the man of God cried out against the altar at Bethel, he stretched out his hand from the altar and said, “Seize him!” But the hand he stretched out toward the man shriveled up, so that he could not pull it back."
+    },
+    {
+        "o": 10022,
+        "r": "niv:1 Kings:13:5",
+        "t": "Also, the altar was split apart and its ashes poured out according to the sign given by the man of God by the word of the Lord.*s"
+    },
+    {
+        "o": 10023,
+        "r": "niv:1 Kings:13:6",
+        "t": "Then*p the king said to the man of God, “Intercede with the Lord*s your God and pray for me that my hand may be restored.” So the man of God interceded with the Lord,*s and the king’s hand was restored and became as it was before."
+    },
+    {
+        "o": 10024,
+        "r": "niv:1 Kings:13:7",
+        "t": "The*p king said to the man of God, “Come home with me for a meal, and I will give you a gift.”"
+    },
+    {
+        "o": 10025,
+        "r": "niv:1 Kings:13:8",
+        "t": "But*p the man of God answered the king, “Even if you were to give me half your possessions, I would not go with you, nor would I eat bread or drink water here."
+    },
+    {
+        "o": 10026,
+        "r": "niv:1 Kings:13:9",
+        "t": "For I was commanded by the word of the Lord:*s ‘You must not eat bread or drink water or return by the way you came.’ ”"
+    },
+    {
+        "o": 10027,
+        "r": "niv:1 Kings:13:10",
+        "t": "So he took another road and did not return by the way he had come to Bethel."
+    },
+    {
+        "o": 10028,
+        "r": "niv:1 Kings:13:11",
+        "t": "Now*p there was a certain old prophet living in Bethel, whose sons came and told him all that the man of God had done there that day. They also told their father what he had said to the king."
+    },
+    {
+        "o": 10029,
+        "r": "niv:1 Kings:13:12",
+        "t": "Their father asked them, “Which way did he go?” And his sons showed him which road the man of God from Judah had taken."
+    },
+    {
+        "o": 10030,
+        "r": "niv:1 Kings:13:13",
+        "t": "So he said to his sons, “Saddle the donkey for me.” And when they had saddled the donkey for him, he mounted it"
+    },
+    {
+        "o": 10031,
+        "r": "niv:1 Kings:13:14",
+        "t": "and rode after the man of God. He found him sitting under an oak tree and asked, “Are you the man of God who came from Judah?” “I*p am,” he replied."
+    },
+    {
+        "o": 10032,
+        "r": "niv:1 Kings:13:15",
+        "t": "So*p the prophet said to him, “Come home with me and eat.”"
+    },
+    {
+        "o": 10033,
+        "r": "niv:1 Kings:13:16",
+        "t": "The*p man of God said, “I cannot turn back and go with you, nor can I eat bread or drink water with you in this place."
+    },
+    {
+        "o": 10034,
+        "r": "niv:1 Kings:13:17",
+        "t": "I have been told by the word of the Lord:*s ‘You must not eat bread or drink water there or return by the way you came.’ ”"
+    },
+    {
+        "o": 10035,
+        "r": "niv:1 Kings:13:18",
+        "t": "The*p old prophet answered, “I too am a prophet, as you are. And an angel said to me by the word of the Lord:*s ‘Bring him back with you to your house so that he may eat bread and drink water.’ ” (But he was lying to him.)"
+    },
+    {
+        "o": 10036,
+        "r": "niv:1 Kings:13:19",
+        "t": "So the man of God returned with him and ate and drank in his house."
+    },
+    {
+        "o": 10037,
+        "r": "niv:1 Kings:13:20",
+        "t": "While*p they were sitting at the table, the word of the Lord*s came to the old prophet who had brought him back."
+    },
+    {
+        "o": 10038,
+        "r": "niv:1 Kings:13:21",
+        "t": "He cried out to the man of God who had come from Judah, “This is what the Lord*s says: ‘You have defied the word of the Lord*s and have not kept the command the Lord*s your God gave you."
+    },
+    {
+        "o": 10039,
+        "r": "niv:1 Kings:13:22",
+        "t": "You came back and ate bread and drank water in the place where he told you not to eat or drink. Therefore your body will not be buried in the tomb of your ancestors.’ ”"
+    },
+    {
+        "o": 10040,
+        "r": "niv:1 Kings:13:23",
+        "t": "When*p the man of God had finished eating and drinking, the prophet who had brought him back saddled his donkey for him."
+    },
+    {
+        "o": 10041,
+        "r": "niv:1 Kings:13:24",
+        "t": "As he went on his way, a lion met him on the road and killed him, and his body was left lying on the road, with both the donkey and the lion standing beside it."
+    },
+    {
+        "o": 10042,
+        "r": "niv:1 Kings:13:25",
+        "t": "Some people who passed by saw the body lying there, with the lion standing beside the body, and they went and reported it in the city where the old prophet lived."
+    },
+    {
+        "o": 10043,
+        "r": "niv:1 Kings:13:26",
+        "t": "When*p the prophet who had brought him back from his journey heard of it, he said, “It is the man of God who defied the word of the Lord.*s The Lord*s has given him over to the lion, which has mauled him and killed him, as the word of the Lord*s had warned him.”"
+    },
+    {
+        "o": 10044,
+        "r": "niv:1 Kings:13:27",
+        "t": "The*p prophet said to his sons, “Saddle the donkey for me,” and they did so."
+    },
+    {
+        "o": 10045,
+        "r": "niv:1 Kings:13:28",
+        "t": "Then he went out and found the body lying on the road, with the donkey and the lion standing beside it. The lion had neither eaten the body nor mauled the donkey."
+    },
+    {
+        "o": 10046,
+        "r": "niv:1 Kings:13:29",
+        "t": "So the prophet picked up the body of the man of God, laid it on the donkey, and brought it back to his own city to mourn for him and bury him."
+    },
+    {
+        "o": 10047,
+        "r": "niv:1 Kings:13:30",
+        "t": "Then he laid the body in his own tomb, and they mourned over him and said, “Alas, my brother!”"
+    },
+    {
+        "o": 10048,
+        "r": "niv:1 Kings:13:31",
+        "t": "After*p burying him, he said to his sons, “When I die, bury me in the grave where the man of God is buried; lay my bones beside his bones."
+    },
+    {
+        "o": 10049,
+        "r": "niv:1 Kings:13:32",
+        "t": "For the message he declared by the word of the Lord*s against the altar in Bethel and against all the shrines on the high places in the towns of Samaria will certainly come true.”"
+    },
+    {
+        "o": 10050,
+        "r": "niv:1 Kings:13:33",
+        "t": "Even*p after this, Jeroboam did not change his evil ways, but once more appointed priests for the high places from all sorts of people. Anyone who wanted to become a priest he consecrated for the high places."
+    },
+    {
+        "o": 10051,
+        "r": "niv:1 Kings:13:34",
+        "t": "This was the sin of the house of Jeroboam that led to its downfall and to its destruction from the face of the earth."
+    },
+    {
+        "o": 10052,
+        "r": "niv:1 Kings:14:0",
+        "t": "1 Kings 14",
+        "h": 1
+    },
+    {
+        "o": 10053,
+        "r": "niv:1 Kings:14:0",
+        "t": "Ahijah’s Prophecy Against Jeroboam",
+        "h": 2
+    },
+    {
+        "o": 10054,
+        "r": "niv:1 Kings:14:1",
+        "t": "At*p that time Abijah son of Jeroboam became ill,"
+    },
+    {
+        "o": 10055,
+        "r": "niv:1 Kings:14:2",
+        "t": "and Jeroboam said to his wife, “Go, disguise yourself, so you won’t be recognized as the wife of Jeroboam. Then go to Shiloh. Ahijah the prophet is there—the one who told me I would be king over this people."
+    },
+    {
+        "o": 10056,
+        "r": "niv:1 Kings:14:3",
+        "t": "Take ten loaves of bread with you, some cakes and a jar of honey, and go to him. He will tell you what will happen to the boy.”"
+    },
+    {
+        "o": 10057,
+        "r": "niv:1 Kings:14:4",
+        "t": "So Jeroboam’s wife did what he said and went to Ahijah’s house in Shiloh. Now*p Ahijah could not see; his sight was gone because of his age."
+    },
+    {
+        "o": 10058,
+        "r": "niv:1 Kings:14:5",
+        "t": "But the Lord*s had told Ahijah, “Jeroboam’s wife is coming to ask you about her son, for he is ill, and you are to give her such and such an answer. When she arrives, she will pretend to be someone else.”"
+    },
+    {
+        "o": 10059,
+        "r": "niv:1 Kings:14:6",
+        "t": "So*p when Ahijah heard the sound of her footsteps at the door, he said, “Come in, wife of Jeroboam. Why this pretense? I have been sent to you with bad news."
+    },
+    {
+        "o": 10060,
+        "r": "niv:1 Kings:14:7",
+        "t": "Go, tell Jeroboam that this is what the Lord,*s the God of Israel, says: ‘I raised you up from among the people and appointed you ruler over my people Israel."
+    },
+    {
+        "o": 10061,
+        "r": "niv:1 Kings:14:8",
+        "t": "I tore the kingdom away from the house of David and gave it to you, but you have not been like my servant David, who kept my commands and followed me with all his heart, doing only what was right in my eyes."
+    },
+    {
+        "o": 10062,
+        "r": "niv:1 Kings:14:9",
+        "t": "You have done more evil than all who lived before you. You have made for yourself other gods, idols made of metal; you have aroused my anger and turned your back on me."
+    },
+    {
+        "o": 10063,
+        "r": "niv:1 Kings:14:10",
+        "t": "“ ‘Because*p of this, I am going to bring disaster on the house of Jeroboam. I will cut off from Jeroboam every last male in Israel—slave or free. I will burn up the house of Jeroboam as one burns dung, until it is all gone."
+    },
+    {
+        "o": 10064,
+        "r": "niv:1 Kings:14:11",
+        "t": "Dogs will eat those belonging to Jeroboam who die in the city, and the birds will feed on those who die in the country. The Lord*s has spoken!’"
+    },
+    {
+        "o": 10065,
+        "r": "niv:1 Kings:14:12",
+        "t": "“As*p for you, go back home. When you set foot in your city, the boy will die."
+    },
+    {
+        "o": 10066,
+        "r": "niv:1 Kings:14:13",
+        "t": "All Israel will mourn for him and bury him. He is the only one belonging to Jeroboam who will be buried, because he is the only one in the house of Jeroboam in whom the Lord,*s the God of Israel, has found anything good."
+    },
+    {
+        "o": 10067,
+        "r": "niv:1 Kings:14:14",
+        "t": "“The*p Lord*s will raise up for himself a king over Israel who will cut off the family of Jeroboam. Even now this is beginning to happen."
+    },
+    {
+        "o": 10068,
+        "r": "niv:1 Kings:14:15",
+        "t": "And the Lord*s will strike Israel, so that it will be like a reed swaying in the water. He will uproot Israel from this good land that he gave to their ancestors and scatter them beyond the Euphrates River, because they aroused the Lord’s*s anger by making Asherah poles."
+    },
+    {
+        "o": 10069,
+        "r": "niv:1 Kings:14:16",
+        "t": "And he will give Israel up because of the sins Jeroboam has committed and has caused Israel to commit.”"
+    },
+    {
+        "o": 10070,
+        "r": "niv:1 Kings:14:17",
+        "t": "Then*p Jeroboam’s wife got up and left and went to Tirzah. As soon as she stepped over the threshold of the house, the boy died."
+    },
+    {
+        "o": 10071,
+        "r": "niv:1 Kings:14:18",
+        "t": "They buried him, and all Israel mourned for him, as the Lord*s had said through his servant the prophet Ahijah."
+    },
+    {
+        "o": 10072,
+        "r": "niv:1 Kings:14:19",
+        "t": "The*p other events of Jeroboam’s reign, his wars and how he ruled, are written in the book of the annals of the kings of Israel."
+    },
+    {
+        "o": 10073,
+        "r": "niv:1 Kings:14:20",
+        "t": "He reigned for twenty-two years and then rested with his ancestors. And Nadab his son succeeded him as king."
+    },
+    {
+        "o": 10074,
+        "r": "niv:1 Kings:14:20",
+        "t": "Rehoboam King of Judah",
+        "h": 2
+    },
+    {
+        "o": 10075,
+        "r": "niv:1 Kings:14:21",
+        "t": "Rehoboam*p son of Solomon was king in Judah. He was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the Lord*s had chosen out of all the tribes of Israel in which to put his Name. His mother’s name was Naamah; she was an Ammonite."
+    },
+    {
+        "o": 10076,
+        "r": "niv:1 Kings:14:22",
+        "t": "Judah*p did evil in the eyes of the Lord.*s By the sins they committed they stirred up his jealous anger more than those who were before them had done."
+    },
+    {
+        "o": 10077,
+        "r": "niv:1 Kings:14:23",
+        "t": "They also set up for themselves high places, sacred stones and Asherah poles on every high hill and under every spreading tree."
+    },
+    {
+        "o": 10078,
+        "r": "niv:1 Kings:14:24",
+        "t": "There were even male shrine prostitutes in the land; the people engaged in all the detestable practices of the nations the Lord*s had driven out before the Israelites."
+    },
+    {
+        "o": 10079,
+        "r": "niv:1 Kings:14:25",
+        "t": "In*p the fifth year of King Rehoboam, Shishak king of Egypt attacked Jerusalem."
+    },
+    {
+        "o": 10080,
+        "r": "niv:1 Kings:14:26",
+        "t": "He carried off the treasures of the temple of the Lord*s and the treasures of the royal palace. He took everything, including all the gold shields Solomon had made."
+    },
+    {
+        "o": 10081,
+        "r": "niv:1 Kings:14:27",
+        "t": "So King Rehoboam made bronze shields to replace them and assigned these to the commanders of the guard on duty at the entrance to the royal palace."
+    },
+    {
+        "o": 10082,
+        "r": "niv:1 Kings:14:28",
+        "t": "Whenever the king went to the Lord’s*s temple, the guards bore the shields, and afterward they returned them to the guardroom."
+    },
+    {
+        "o": 10083,
+        "r": "niv:1 Kings:14:29",
+        "t": "As*p for the other events of Rehoboam’s reign, and all he did, are they not written in the book of the annals of the kings of Judah?"
+    },
+    {
+        "o": 10084,
+        "r": "niv:1 Kings:14:30",
+        "t": "There was continual warfare between Rehoboam and Jeroboam."
+    },
+    {
+        "o": 10085,
+        "r": "niv:1 Kings:14:31",
+        "t": "And Rehoboam rested with his ancestors and was buried with them in the City of David. His mother’s name was Naamah; she was an Ammonite. And Abijah his son succeeded him as king."
+    },
+    {
+        "o": 10086,
+        "r": "niv:1 Kings:15:0",
+        "t": "1 Kings 15",
+        "h": 1
+    },
+    {
+        "o": 10087,
+        "r": "niv:1 Kings:15:0",
+        "t": "Abijah King of Judah",
+        "h": 2
+    },
+    {
+        "o": 10088,
+        "r": "niv:1 Kings:15:1",
+        "t": "In*p the eighteenth year of the reign of Jeroboam son of Nebat, Abijah became king of Judah,"
+    },
+    {
+        "o": 10089,
+        "r": "niv:1 Kings:15:2",
+        "t": "and he reigned in Jerusalem three years. His mother’s name was Maakah daughter of Abishalom."
+    },
+    {
+        "o": 10090,
+        "r": "niv:1 Kings:15:3",
+        "t": "He*p committed all the sins his father had done before him; his heart was not fully devoted to the Lord*s his God, as the heart of David his forefather had been."
+    },
+    {
+        "o": 10091,
+        "r": "niv:1 Kings:15:4",
+        "t": "Nevertheless, for David’s sake the Lord*s his God gave him a lamp in Jerusalem by raising up a son to succeed him and by making Jerusalem strong."
+    },
+    {
+        "o": 10092,
+        "r": "niv:1 Kings:15:5",
+        "t": "For David had done what was right in the eyes of the Lord*s and had not failed to keep any of the Lord’s*s commands all the days of his life—except in the case of Uriah the Hittite."
+    },
+    {
+        "o": 10093,
+        "r": "niv:1 Kings:15:6",
+        "t": "There*p was war between Abijah and Jeroboam throughout Abijah’s lifetime."
+    },
+    {
+        "o": 10094,
+        "r": "niv:1 Kings:15:7",
+        "t": "As for the other events of Abijah’s reign, and all he did, are they not written in the book of the annals of the kings of Judah? There was war between Abijah and Jeroboam."
+    },
+    {
+        "o": 10095,
+        "r": "niv:1 Kings:15:8",
+        "t": "And Abijah rested with his ancestors and was buried in the City of David. And Asa his son succeeded him as king."
+    },
+    {
+        "o": 10096,
+        "r": "niv:1 Kings:15:8",
+        "t": "Asa King of Judah",
+        "h": 2
+    },
+    {
+        "o": 10097,
+        "r": "niv:1 Kings:15:9",
+        "t": "In*p the twentieth year of Jeroboam king of Israel, Asa became king of Judah,"
+    },
+    {
+        "o": 10098,
+        "r": "niv:1 Kings:15:10",
+        "t": "and he reigned in Jerusalem forty-one years. His grandmother’s name was Maakah daughter of Abishalom."
+    },
+    {
+        "o": 10099,
+        "r": "niv:1 Kings:15:11",
+        "t": "Asa*p did what was right in the eyes of the Lord,*s as his father David had done."
+    },
+    {
+        "o": 10100,
+        "r": "niv:1 Kings:15:12",
+        "t": "He expelled the male shrine prostitutes from the land and got rid of all the idols his ancestors had made."
+    },
+    {
+        "o": 10101,
+        "r": "niv:1 Kings:15:13",
+        "t": "He even deposed his grandmother Maakah from her position as queen mother, because she had made a repulsive image for the worship of Asherah. Asa cut it down and burned it in the Kidron Valley."
+    },
+    {
+        "o": 10102,
+        "r": "niv:1 Kings:15:14",
+        "t": "Although he did not remove the high places, Asa’s heart was fully committed to the Lord*s all his life."
+    },
+    {
+        "o": 10103,
+        "r": "niv:1 Kings:15:15",
+        "t": "He brought into the temple of the Lord*s the silver and gold and the articles that he and his father had dedicated."
+    },
+    {
+        "o": 10104,
+        "r": "niv:1 Kings:15:16",
+        "t": "There*p was war between Asa and Baasha king of Israel throughout their reigns."
+    },
+    {
+        "o": 10105,
+        "r": "niv:1 Kings:15:17",
+        "t": "Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah."
+    },
+    {
+        "o": 10106,
+        "r": "niv:1 Kings:15:18",
+        "t": "Asa*p then took all the silver and gold that was left in the treasuries of the Lord’s*s temple and of his own palace. He entrusted it to his officials and sent them to Ben-Hadad son of Tabrimmon, the son of Hezion, the king of Aram, who was ruling in Damascus."
+    },
+    {
+        "o": 10107,
+        "r": "niv:1 Kings:15:19",
+        "t": "“Let there be a treaty between me and you,” he said, “as there was between my father and your father. See, I am sending you a gift of silver and gold. Now break your treaty with Baasha king of Israel so he will withdraw from me.”"
+    },
+    {
+        "o": 10108,
+        "r": "niv:1 Kings:15:20",
+        "t": "Ben-Hadad*p agreed with King Asa and sent the commanders of his forces against the towns of Israel. He conquered Ijon, Dan, Abel Beth Maakah and all Kinnereth in addition to Naphtali."
+    },
+    {
+        "o": 10109,
+        "r": "niv:1 Kings:15:21",
+        "t": "When Baasha heard this, he stopped building Ramah and withdrew to Tirzah."
+    },
+    {
+        "o": 10110,
+        "r": "niv:1 Kings:15:22",
+        "t": "Then King Asa issued an order to all Judah—no one was exempt—and they carried away from Ramah the stones and timber Baasha had been using there. With them King Asa built up Geba in Benjamin, and also Mizpah."
+    },
+    {
+        "o": 10111,
+        "r": "niv:1 Kings:15:23",
+        "t": "As*p for all the other events of Asa’s reign, all his achievements, all he did and the cities he built, are they not written in the book of the annals of the kings of Judah? In his old age, however, his feet became diseased."
+    },
+    {
+        "o": 10112,
+        "r": "niv:1 Kings:15:24",
+        "t": "Then Asa rested with his ancestors and was buried with them in the city of his father David. And Jehoshaphat his son succeeded him as king."
+    },
+    {
+        "o": 10113,
+        "r": "niv:1 Kings:15:24",
+        "t": "Nadab King of Israel",
+        "h": 2
+    },
+    {
+        "o": 10114,
+        "r": "niv:1 Kings:15:25",
+        "t": "Nadab*p son of Jeroboam became king of Israel in the second year of Asa king of Judah, and he reigned over Israel two years."
+    },
+    {
+        "o": 10115,
+        "r": "niv:1 Kings:15:26",
+        "t": "He did evil in the eyes of the Lord,*s following the ways of his father and committing the same sin his father had caused Israel to commit."
+    },
+    {
+        "o": 10116,
+        "r": "niv:1 Kings:15:27",
+        "t": "Baasha*p son of Ahijah from the tribe of Issachar plotted against him, and he struck him down at Gibbethon, a Philistine town, while Nadab and all Israel were besieging it."
+    },
+    {
+        "o": 10117,
+        "r": "niv:1 Kings:15:28",
+        "t": "Baasha killed Nadab in the third year of Asa king of Judah and succeeded him as king."
+    },
+    {
+        "o": 10118,
+        "r": "niv:1 Kings:15:29",
+        "t": "As*p soon as he began to reign, he killed Jeroboam’s whole family. He did not leave Jeroboam anyone that breathed, but destroyed them all, according to the word of the Lord*s given through his servant Ahijah the Shilonite."
+    },
+    {
+        "o": 10119,
+        "r": "niv:1 Kings:15:30",
+        "t": "This happened because of the sins Jeroboam had committed and had caused Israel to commit, and because he aroused the anger of the Lord,*s the God of Israel."
+    },
+    {
+        "o": 10120,
+        "r": "niv:1 Kings:15:31",
+        "t": "As*p for the other events of Nadab’s reign, and all he did, are they not written in the book of the annals of the kings of Israel?"
+    },
+    {
+        "o": 10121,
+        "r": "niv:1 Kings:15:32",
+        "t": "There was war between Asa and Baasha king of Israel throughout their reigns."
+    },
+    {
+        "o": 10122,
+        "r": "niv:1 Kings:15:32",
+        "t": "Baasha King of Israel",
+        "h": 2
+    },
+    {
+        "o": 10123,
+        "r": "niv:1 Kings:15:33",
+        "t": "In*p the third year of Asa king of Judah, Baasha son of Ahijah became king of all Israel in Tirzah, and he reigned twenty-four years."
+    },
+    {
+        "o": 10124,
+        "r": "niv:1 Kings:15:34",
+        "t": "He did evil in the eyes of the Lord,*s following the ways of Jeroboam and committing the same sin Jeroboam had caused Israel to commit."
+    },
+    {
+        "o": 10125,
+        "r": "niv:1 Kings:16:0",
+        "t": "1 Kings 16",
+        "h": 1
+    },
+    {
+        "o": 10126,
+        "r": "niv:1 Kings:16:1",
+        "t": "Then*p the word of the Lord*s came to Jehu son of Hanani concerning Baasha:"
+    },
+    {
+        "o": 10127,
+        "r": "niv:1 Kings:16:2",
+        "t": "“I lifted you up from the dust and appointed you ruler over my people Israel, but you followed the ways of Jeroboam and caused my people Israel to sin and to arouse my anger by their sins."
+    },
+    {
+        "o": 10128,
+        "r": "niv:1 Kings:16:3",
+        "t": "So I am about to wipe out Baasha and his house, and I will make your house like that of Jeroboam son of Nebat."
+    },
+    {
+        "o": 10129,
+        "r": "niv:1 Kings:16:4",
+        "t": "Dogs will eat those belonging to Baasha who die in the city, and birds will feed on those who die in the country.”"
+    },
+    {
+        "o": 10130,
+        "r": "niv:1 Kings:16:5",
+        "t": "As*p for the other events of Baasha’s reign, what he did and his achievements, are they not written in the book of the annals of the kings of Israel?"
+    },
+    {
+        "o": 10131,
+        "r": "niv:1 Kings:16:6",
+        "t": "Baasha rested with his ancestors and was buried in Tirzah. And Elah his son succeeded him as king."
+    },
+    {
+        "o": 10132,
+        "r": "niv:1 Kings:16:7",
+        "t": "Moreover,*p the word of the Lord*s came through the prophet Jehu son of Hanani to Baasha and his house, because of all the evil he had done in the eyes of the Lord,*s arousing his anger by the things he did, becoming like the house of Jeroboam—and also because he destroyed it."
+    },
+    {
+        "o": 10133,
+        "r": "niv:1 Kings:16:7",
+        "t": "Elah King of Israel",
+        "h": 2
+    },
+    {
+        "o": 10134,
+        "r": "niv:1 Kings:16:8",
+        "t": "In*p the twenty-sixth year of Asa king of Judah, Elah son of Baasha became king of Israel, and he reigned in Tirzah two years."
+    },
+    {
+        "o": 10135,
+        "r": "niv:1 Kings:16:9",
+        "t": "Zimri,*p one of his officials, who had command of half his chariots, plotted against him. Elah was in Tirzah at the time, getting drunk in the home of Arza, the palace administrator at Tirzah."
+    },
+    {
+        "o": 10136,
+        "r": "niv:1 Kings:16:10",
+        "t": "Zimri came in, struck him down and killed him in the twenty-seventh year of Asa king of Judah. Then he succeeded him as king."
+    },
+    {
+        "o": 10137,
+        "r": "niv:1 Kings:16:11",
+        "t": "As*p soon as he began to reign and was seated on the throne, he killed off Baasha’s whole family. He did not spare a single male, whether relative or friend."
+    },
+    {
+        "o": 10138,
+        "r": "niv:1 Kings:16:12",
+        "t": "So Zimri destroyed the whole family of Baasha, in accordance with the word of the Lord*s spoken against Baasha through the prophet Jehu—"
+    },
+    {
+        "o": 10139,
+        "r": "niv:1 Kings:16:13",
+        "t": "because of all the sins Baasha and his son Elah had committed and had caused Israel to commit, so that they aroused the anger of the Lord,*s the God of Israel, by their worthless idols."
+    },
+    {
+        "o": 10140,
+        "r": "niv:1 Kings:16:14",
+        "t": "As*p for the other events of Elah’s reign, and all he did, are they not written in the book of the annals of the kings of Israel?"
+    },
+    {
+        "o": 10141,
+        "r": "niv:1 Kings:16:14",
+        "t": "Zimri King of Israel",
+        "h": 2
+    },
+    {
+        "o": 10142,
+        "r": "niv:1 Kings:16:15",
+        "t": "In*p the twenty-seventh year of Asa king of Judah, Zimri reigned in Tirzah seven days. The army was encamped near Gibbethon, a Philistine town."
+    },
+    {
+        "o": 10143,
+        "r": "niv:1 Kings:16:16",
+        "t": "When the Israelites in the camp heard that Zimri had plotted against the king and murdered him, they proclaimed Omri, the commander of the army, king over Israel that very day there in the camp."
+    },
+    {
+        "o": 10144,
+        "r": "niv:1 Kings:16:17",
+        "t": "Then Omri and all the Israelites with him withdrew from Gibbethon and laid siege to Tirzah."
+    },
+    {
+        "o": 10145,
+        "r": "niv:1 Kings:16:18",
+        "t": "When Zimri saw that the city was taken, he went into the citadel of the royal palace and set the palace on fire around him. So he died,"
+    },
+    {
+        "o": 10146,
+        "r": "niv:1 Kings:16:19",
+        "t": "because of the sins he had committed, doing evil in the eyes of the Lord*s and following the ways of Jeroboam and committing the same sin Jeroboam had caused Israel to commit."
+    },
+    {
+        "o": 10147,
+        "r": "niv:1 Kings:16:20",
+        "t": "As*p for the other events of Zimri’s reign, and the rebellion he carried out, are they not written in the book of the annals of the kings of Israel?"
+    },
+    {
+        "o": 10148,
+        "r": "niv:1 Kings:16:20",
+        "t": "Omri King of Israel",
+        "h": 2
+    },
+    {
+        "o": 10149,
+        "r": "niv:1 Kings:16:21",
+        "t": "Then*p the people of Israel were split into two factions; half supported Tibni son of Ginath for king, and the other half supported Omri."
+    },
+    {
+        "o": 10150,
+        "r": "niv:1 Kings:16:22",
+        "t": "But Omri’s followers proved stronger than those of Tibni son of Ginath. So Tibni died and Omri became king."
+    },
+    {
+        "o": 10151,
+        "r": "niv:1 Kings:16:23",
+        "t": "In*p the thirty-first year of Asa king of Judah, Omri became king of Israel, and he reigned twelve years, six of them in Tirzah."
+    },
+    {
+        "o": 10152,
+        "r": "niv:1 Kings:16:24",
+        "t": "He bought the hill of Samaria from Shemer for two talents of silver and built a city on the hill, calling it Samaria, after Shemer, the name of the former owner of the hill."
+    },
+    {
+        "o": 10153,
+        "r": "niv:1 Kings:16:25",
+        "t": "But*p Omri did evil in the eyes of the Lord*s and sinned more than all those before him."
+    },
+    {
+        "o": 10154,
+        "r": "niv:1 Kings:16:26",
+        "t": "He followed completely the ways of Jeroboam son of Nebat, committing the same sin Jeroboam had caused Israel to commit, so that they aroused the anger of the Lord,*s the God of Israel, by their worthless idols."
+    },
+    {
+        "o": 10155,
+        "r": "niv:1 Kings:16:27",
+        "t": "As*p for the other events of Omri’s reign, what he did and the things he achieved, are they not written in the book of the annals of the kings of Israel?"
+    },
+    {
+        "o": 10156,
+        "r": "niv:1 Kings:16:28",
+        "t": "Omri rested with his ancestors and was buried in Samaria. And Ahab his son succeeded him as king."
+    },
+    {
+        "o": 10157,
+        "r": "niv:1 Kings:16:28",
+        "t": "Ahab Becomes King of Israel",
+        "h": 2
+    },
+    {
+        "o": 10158,
+        "r": "niv:1 Kings:16:29",
+        "t": "In*p the thirty-eighth year of Asa king of Judah, Ahab son of Omri became king of Israel, and he reigned in Samaria over Israel twenty-two years."
+    },
+    {
+        "o": 10159,
+        "r": "niv:1 Kings:16:30",
+        "t": "Ahab son of Omri did more evil in the eyes of the Lord*s than any of those before him."
+    },
+    {
+        "o": 10160,
+        "r": "niv:1 Kings:16:31",
+        "t": "He not only considered it trivial to commit the sins of Jeroboam son of Nebat, but he also married Jezebel daughter of Ethbaal king of the Sidonians, and began to serve Baal and worship him."
+    },
+    {
+        "o": 10161,
+        "r": "niv:1 Kings:16:32",
+        "t": "He set up an altar for Baal in the temple of Baal that he built in Samaria."
+    },
+    {
+        "o": 10162,
+        "r": "niv:1 Kings:16:33",
+        "t": "Ahab also made an Asherah pole and did more to arouse the anger of the Lord,*s the God of Israel, than did all the kings of Israel before him."
+    },
+    {
+        "o": 10163,
+        "r": "niv:1 Kings:16:34",
+        "t": "In*p Ahab’s time, Hiel of Bethel rebuilt Jericho. He laid its foundations at the cost of his firstborn son Abiram, and he set up its gates at the cost of his youngest son Segub, in accordance with the word of the Lord*s spoken by Joshua son of Nun."
+    },
+    {
+        "o": 10164,
+        "r": "niv:1 Kings:17:0",
+        "t": "1 Kings 17",
+        "h": 1
+    },
+    {
+        "o": 10165,
+        "r": "niv:1 Kings:17:0",
+        "t": "Elijah Announces a Great Drought",
+        "h": 2
+    },
+    {
+        "o": 10166,
+        "r": "niv:1 Kings:17:1",
+        "t": "Now*p Elijah the Tishbite, from Tishbe in Gilead, said to Ahab, “As the Lord,*s the God of Israel, lives, whom I serve, there will be neither dew nor rain in the next few years except at my word.”"
+    },
+    {
+        "o": 10167,
+        "r": "niv:1 Kings:17:1",
+        "t": "Elijah Fed by Ravens",
+        "h": 2
+    },
+    {
+        "o": 10168,
+        "r": "niv:1 Kings:17:2",
+        "t": "Then*p the word of the Lord*s came to Elijah:"
+    },
+    {
+        "o": 10169,
+        "r": "niv:1 Kings:17:3",
+        "t": "“Leave here, turn eastward and hide in the Kerith Ravine, east of the Jordan."
+    },
+    {
+        "o": 10170,
+        "r": "niv:1 Kings:17:4",
+        "t": "You will drink from the brook, and I have directed the ravens to supply you with food there.”"
+    },
+    {
+        "o": 10171,
+        "r": "niv:1 Kings:17:5",
+        "t": "So*p he did what the Lord*s had told him. He went to the Kerith Ravine, east of the Jordan, and stayed there."
+    },
+    {
+        "o": 10172,
+        "r": "niv:1 Kings:17:6",
+        "t": "The ravens brought him bread and meat in the morning and bread and meat in the evening, and he drank from the brook."
+    },
+    {
+        "o": 10173,
+        "r": "niv:1 Kings:17:6",
+        "t": "Elijah and the Widow at Zarephath",
+        "h": 2
+    },
+    {
+        "o": 10174,
+        "r": "niv:1 Kings:17:7",
+        "t": "Some*p time later the brook dried up because there had been no rain in the land."
+    },
+    {
+        "o": 10175,
+        "r": "niv:1 Kings:17:8",
+        "t": "Then the word of the Lord*s came to him:"
+    },
+    {
+        "o": 10176,
+        "r": "niv:1 Kings:17:9",
+        "t": "“Go at once to Zarephath in the region of Sidon and stay there. I have directed a widow there to supply you with food.”"
+    },
+    {
+        "o": 10177,
+        "r": "niv:1 Kings:17:10",
+        "t": "So he went to Zarephath. When he came to the town gate, a widow was there gathering sticks. He called to her and asked, “Would you bring me a little water in a jar so I may have a drink?”"
+    },
+    {
+        "o": 10178,
+        "r": "niv:1 Kings:17:11",
+        "t": "As she was going to get it, he called, “And bring me, please, a piece of bread.”"
+    },
+    {
+        "o": 10179,
+        "r": "niv:1 Kings:17:12",
+        "t": "“As*p surely as the Lord*s your God lives,” she replied, “I don’t have any bread—only a handful of flour in a jar and a little olive oil in a jug. I am gathering a few sticks to take home and make a meal for myself and my son, that we may eat it—and die.”"
+    },
+    {
+        "o": 10180,
+        "r": "niv:1 Kings:17:13",
+        "t": "Elijah*p said to her, “Don’t be afraid. Go home and do as you have said. But first make a small loaf of bread for me from what you have and bring it to me, and then make something for yourself and your son."
+    },
+    {
+        "o": 10181,
+        "r": "niv:1 Kings:17:14",
+        "t": "For this is what the Lord,*s the God of Israel, says: ‘The jar of flour will not be used up and the jug of oil will not run dry until the day the Lord*s sends rain on the land.’ ”"
+    },
+    {
+        "o": 10182,
+        "r": "niv:1 Kings:17:15",
+        "t": "She*p went away and did as Elijah had told her. So there was food every day for Elijah and for the woman and her family."
+    },
+    {
+        "o": 10183,
+        "r": "niv:1 Kings:17:16",
+        "t": "For the jar of flour was not used up and the jug of oil did not run dry, in keeping with the word of the Lord*s spoken by Elijah."
+    },
+    {
+        "o": 10184,
+        "r": "niv:1 Kings:17:17",
+        "t": "Some*p time later the son of the woman who owned the house became ill. He grew worse and worse, and finally stopped breathing."
+    },
+    {
+        "o": 10185,
+        "r": "niv:1 Kings:17:18",
+        "t": "She said to Elijah, “What do you have against me, man of God? Did you come to remind me of my sin and kill my son?”"
+    },
+    {
+        "o": 10186,
+        "r": "niv:1 Kings:17:19",
+        "t": "“Give*p me your son,” Elijah replied. He took him from her arms, carried him to the upper room where he was staying, and laid him on his bed."
+    },
+    {
+        "o": 10187,
+        "r": "niv:1 Kings:17:20",
+        "t": "Then he cried out to the Lord,*s “Lord*s my God, have you brought tragedy even on this widow I am staying with, by causing her son to die?”"
+    },
+    {
+        "o": 10188,
+        "r": "niv:1 Kings:17:21",
+        "t": "Then he stretched himself out on the boy three times and cried out to the Lord,*s “Lord*s my God, let this boy’s life return to him!”"
+    },
+    {
+        "o": 10189,
+        "r": "niv:1 Kings:17:22",
+        "t": "The*p Lord*s heard Elijah’s cry, and the boy’s life returned to him, and he lived."
+    },
+    {
+        "o": 10190,
+        "r": "niv:1 Kings:17:23",
+        "t": "Elijah picked up the child and carried him down from the room into the house. He gave him to his mother and said, “Look, your son is alive!”"
+    },
+    {
+        "o": 10191,
+        "r": "niv:1 Kings:17:24",
+        "t": "Then*p the woman said to Elijah, “Now I know that you are a man of God and that the word of the Lord*s from your mouth is the truth.”"
+    },
+    {
+        "o": 10192,
+        "r": "niv:1 Kings:18:0",
+        "t": "1 Kings 18",
+        "h": 1
+    },
+    {
+        "o": 10193,
+        "r": "niv:1 Kings:18:0",
+        "t": "Elijah and Obadiah",
+        "h": 2
+    },
+    {
+        "o": 10194,
+        "r": "niv:1 Kings:18:1",
+        "t": "After*p a long time, in the third year, the word of the Lord*s came to Elijah: “Go and present yourself to Ahab, and I will send rain on the land.”"
+    },
+    {
+        "o": 10195,
+        "r": "niv:1 Kings:18:2",
+        "t": "So Elijah went to present himself to Ahab. Now*p the famine was severe in Samaria,"
+    },
+    {
+        "o": 10196,
+        "r": "niv:1 Kings:18:3",
+        "t": "and Ahab had summoned Obadiah, his palace administrator. (Obadiah was a devout believer in the Lord.*s"
+    },
+    {
+        "o": 10197,
+        "r": "niv:1 Kings:18:4",
+        "t": "While Jezebel was killing off the Lord’s*s prophets, Obadiah had taken a hundred prophets and hidden them in two caves, fifty in each, and had supplied them with food and water.)"
+    },
+    {
+        "o": 10198,
+        "r": "niv:1 Kings:18:5",
+        "t": "Ahab had said to Obadiah, “Go through the land to all the springs and valleys. Maybe we can find some grass to keep the horses and mules alive so we will not have to kill any of our animals.”"
+    },
+    {
+        "o": 10199,
+        "r": "niv:1 Kings:18:6",
+        "t": "So they divided the land they were to cover, Ahab going in one direction and Obadiah in another."
+    },
+    {
+        "o": 10200,
+        "r": "niv:1 Kings:18:7",
+        "t": "As*p Obadiah was walking along, Elijah met him. Obadiah recognized him, bowed down to the ground, and said, “Is it really you, my lord Elijah?”"
+    },
+    {
+        "o": 10201,
+        "r": "niv:1 Kings:18:8",
+        "t": "“Yes,”*p he replied. “Go tell your master, ‘Elijah is here.’ ”"
+    },
+    {
+        "o": 10202,
+        "r": "niv:1 Kings:18:9",
+        "t": "“What*p have I done wrong,” asked Obadiah, “that you are handing your servant over to Ahab to be put to death?"
+    },
+    {
+        "o": 10203,
+        "r": "niv:1 Kings:18:10",
+        "t": "As surely as the Lord*s your God lives, there is not a nation or kingdom where my master has not sent someone to look for you. And whenever a nation or kingdom claimed you were not there, he made them swear they could not find you."
+    },
+    {
+        "o": 10204,
+        "r": "niv:1 Kings:18:11",
+        "t": "But now you tell me to go to my master and say, ‘Elijah is here.’"
+    },
+    {
+        "o": 10205,
+        "r": "niv:1 Kings:18:12",
+        "t": "I don’t know where the Spirit of the Lord*s may carry you when I leave you. If I go and tell Ahab and he doesn’t find you, he will kill me. Yet I your servant have worshiped the Lord*s since my youth."
+    },
+    {
+        "o": 10206,
+        "r": "niv:1 Kings:18:13",
+        "t": "Haven’t you heard, my lord, what I did while Jezebel was killing the prophets of the Lord?*s I hid a hundred of the Lord’s*s prophets in two caves, fifty in each, and supplied them with food and water."
+    },
+    {
+        "o": 10207,
+        "r": "niv:1 Kings:18:14",
+        "t": "And now you tell me to go to my master and say, ‘Elijah is here.’ He will kill me!”"
+    },
+    {
+        "o": 10208,
+        "r": "niv:1 Kings:18:15",
+        "t": "Elijah*p said, “As the Lord*s Almighty lives, whom I serve, I will surely present myself to Ahab today.”"
+    },
+    {
+        "o": 10209,
+        "r": "niv:1 Kings:18:15",
+        "t": "Elijah on Mount Carmel",
+        "h": 2
+    },
+    {
+        "o": 10210,
+        "r": "niv:1 Kings:18:16",
+        "t": "So*p Obadiah went to meet Ahab and told him, and Ahab went to meet Elijah."
+    },
+    {
+        "o": 10211,
+        "r": "niv:1 Kings:18:17",
+        "t": "When he saw Elijah, he said to him, “Is that you, you troubler of Israel?”"
+    },
+    {
+        "o": 10212,
+        "r": "niv:1 Kings:18:18",
+        "t": "“I*p have not made trouble for Israel,” Elijah replied. “But you and your father’s family have. You have abandoned the Lord’s*s commands and have followed the Baals."
+    },
+    {
+        "o": 10213,
+        "r": "niv:1 Kings:18:19",
+        "t": "Now summon the people from all over Israel to meet me on Mount Carmel. And bring the four hundred and fifty prophets of Baal and the four hundred prophets of Asherah, who eat at Jezebel’s table.”"
+    },
+    {
+        "o": 10214,
+        "r": "niv:1 Kings:18:20",
+        "t": "So*p Ahab sent word throughout all Israel and assembled the prophets on Mount Carmel."
+    },
+    {
+        "o": 10215,
+        "r": "niv:1 Kings:18:21",
+        "t": "Elijah went before the people and said, “How long will you waver between two opinions? If the Lord*s is God, follow him; but if Baal is God, follow him.” But*p the people said nothing."
+    },
+    {
+        "o": 10216,
+        "r": "niv:1 Kings:18:22",
+        "t": "Then*p Elijah said to them, “I am the only one of the Lord’s*s prophets left, but Baal has four hundred and fifty prophets."
+    },
+    {
+        "o": 10217,
+        "r": "niv:1 Kings:18:23",
+        "t": "Get two bulls for us. Let Baal’s prophets choose one for themselves, and let them cut it into pieces and put it on the wood but not set fire to it. I will prepare the other bull and put it on the wood but not set fire to it."
+    },
+    {
+        "o": 10218,
+        "r": "niv:1 Kings:18:24",
+        "t": "Then you call on the name of your god, and I will call on the name of the Lord.*s The god who answers by fire—he is God.” Then*p all the people said, “What you say is good.”"
+    },
+    {
+        "o": 10219,
+        "r": "niv:1 Kings:18:25",
+        "t": "Elijah*p said to the prophets of Baal, “Choose one of the bulls and prepare it first, since there are so many of you. Call on the name of your god, but do not light the fire.”"
+    },
+    {
+        "o": 10220,
+        "r": "niv:1 Kings:18:26",
+        "t": "So they took the bull given them and prepared it. Then*p they called on the name of Baal from morning till noon. “Baal, answer us!” they shouted. But there was no response; no one answered. And they danced around the altar they had made."
+    },
+    {
+        "o": 10221,
+        "r": "niv:1 Kings:18:27",
+        "t": "At*p noon Elijah began to taunt them. “Shout louder!” he said. “Surely he is a god! Perhaps he is deep in thought, or busy, or traveling. Maybe he is sleeping and must be awakened.”"
+    },
+    {
+        "o": 10222,
+        "r": "niv:1 Kings:18:28",
+        "t": "So they shouted louder and slashed themselves with swords and spears, as was their custom, until their blood flowed."
+    },
+    {
+        "o": 10223,
+        "r": "niv:1 Kings:18:29",
+        "t": "Midday passed, and they continued their frantic prophesying until the time for the evening sacrifice. But there was no response, no one answered, no one paid attention."
+    },
+    {
+        "o": 10224,
+        "r": "niv:1 Kings:18:30",
+        "t": "Then*p Elijah said to all the people, “Come here to me.” They came to him, and he repaired the altar of the Lord,*s which had been torn down."
+    },
+    {
+        "o": 10225,
+        "r": "niv:1 Kings:18:31",
+        "t": "Elijah took twelve stones, one for each of the tribes descended from Jacob, to whom the word of the Lord*s had come, saying, “Your name shall be Israel.”"
+    },
+    {
+        "o": 10226,
+        "r": "niv:1 Kings:18:32",
+        "t": "With the stones he built an altar in the name of the Lord,*s and he dug a trench around it large enough to hold two seahs of seed."
+    },
+    {
+        "o": 10227,
+        "r": "niv:1 Kings:18:33",
+        "t": "He arranged the wood, cut the bull into pieces and laid it on the wood. Then he said to them, “Fill four large jars with water and pour it on the offering and on the wood.”"
+    },
+    {
+        "o": 10228,
+        "r": "niv:1 Kings:18:34",
+        "t": "“Do*p it again,” he said, and they did it again. “Do*p it a third time,” he ordered, and they did it the third time."
+    },
+    {
+        "o": 10229,
+        "r": "niv:1 Kings:18:35",
+        "t": "The water ran down around the altar and even filled the trench."
+    },
+    {
+        "o": 10230,
+        "r": "niv:1 Kings:18:36",
+        "t": "At*p the time of sacrifice, the prophet Elijah stepped forward and prayed: “Lord,*s the God of Abraham, Isaac and Israel, let it be known today that you are God in Israel and that I am your servant and have done all these things at your command."
+    },
+    {
+        "o": 10231,
+        "r": "niv:1 Kings:18:37",
+        "t": "Answer me, Lord,*s answer me, so these people will know that you, Lord,*s are God, and that you are turning their hearts back again.”"
+    },
+    {
+        "o": 10232,
+        "r": "niv:1 Kings:18:38",
+        "t": "Then*p the fire of the Lord*s fell and burned up the sacrifice, the wood, the stones and the soil, and also licked up the water in the trench."
+    },
+    {
+        "o": 10233,
+        "r": "niv:1 Kings:18:39",
+        "t": "When*p all the people saw this, they fell prostrate and cried, “The Lord*s —he is God! The Lord*s —he is God!”"
+    },
+    {
+        "o": 10234,
+        "r": "niv:1 Kings:18:40",
+        "t": "Then*p Elijah commanded them, “Seize the prophets of Baal. Don’t let anyone get away!” They seized them, and Elijah had them brought down to the Kishon Valley and slaughtered there."
+    },
+    {
+        "o": 10235,
+        "r": "niv:1 Kings:18:41",
+        "t": "And*p Elijah said to Ahab, “Go, eat and drink, for there is the sound of a heavy rain.”"
+    },
+    {
+        "o": 10236,
+        "r": "niv:1 Kings:18:42",
+        "t": "So Ahab went off to eat and drink, but Elijah climbed to the top of Carmel, bent down to the ground and put his face between his knees."
+    },
+    {
+        "o": 10237,
+        "r": "niv:1 Kings:18:43",
+        "t": "“Go*p and look toward the sea,” he told his servant. And he went up and looked. “There*p is nothing there,” he said. Seven*p times Elijah said, “Go back.”"
+    },
+    {
+        "o": 10238,
+        "r": "niv:1 Kings:18:44",
+        "t": "The*p seventh time the servant reported, “A cloud as small as a man’s hand is rising from the sea.” So*p Elijah said, “Go and tell Ahab, ‘Hitch up your chariot and go down before the rain stops you.’ ”"
+    },
+    {
+        "o": 10239,
+        "r": "niv:1 Kings:18:45",
+        "t": "Meanwhile,*p the sky grew black with clouds, the wind rose, a heavy rain started falling and Ahab rode off to Jezreel."
+    },
+    {
+        "o": 10240,
+        "r": "niv:1 Kings:18:46",
+        "t": "The power of the Lord*s came on Elijah and, tucking his cloak into his belt, he ran ahead of Ahab all the way to Jezreel."
+    },
+    {
+        "o": 10241,
+        "r": "niv:1 Kings:19:0",
+        "t": "1 Kings 19",
+        "h": 1
+    },
+    {
+        "o": 10242,
+        "r": "niv:1 Kings:19:0",
+        "t": "Elijah Flees to Horeb",
+        "h": 2
+    },
+    {
+        "o": 10243,
+        "r": "niv:1 Kings:19:1",
+        "t": "Now*p Ahab told Jezebel everything Elijah had done and how he had killed all the prophets with the sword."
+    },
+    {
+        "o": 10244,
+        "r": "niv:1 Kings:19:2",
+        "t": "So Jezebel sent a messenger to Elijah to say, “May the gods deal with me, be it ever so severely, if by this time tomorrow I do not make your life like that of one of them.”"
+    },
+    {
+        "o": 10245,
+        "r": "niv:1 Kings:19:3",
+        "t": "Elijah*p was afraid and ran for his life. When he came to Beersheba in Judah, he left his servant there,"
+    },
+    {
+        "o": 10246,
+        "r": "niv:1 Kings:19:4",
+        "t": "while he himself went a day’s journey into the wilderness. He came to a broom bush, sat down under it and prayed that he might die. “I have had enough, Lord,”*s he said. “Take my life; I am no better than my ancestors.”"
+    },
+    {
+        "o": 10247,
+        "r": "niv:1 Kings:19:5",
+        "t": "Then he lay down under the bush and fell asleep. All*p at once an angel touched him and said, “Get up and eat.”"
+    },
+    {
+        "o": 10248,
+        "r": "niv:1 Kings:19:6",
+        "t": "He looked around, and there by his head was some bread baked over hot coals, and a jar of water. He ate and drank and then lay down again."
+    },
+    {
+        "o": 10249,
+        "r": "niv:1 Kings:19:7",
+        "t": "The*p angel of the Lord*s came back a second time and touched him and said, “Get up and eat, for the journey is too much for you.”"
+    },
+    {
+        "o": 10250,
+        "r": "niv:1 Kings:19:8",
+        "t": "So he got up and ate and drank. Strengthened by that food, he traveled forty days and forty nights until he reached Horeb, the mountain of God."
+    },
+    {
+        "o": 10251,
+        "r": "niv:1 Kings:19:9",
+        "t": "There he went into a cave and spent the night."
+    },
+    {
+        "o": 10252,
+        "r": "niv:1 Kings:19:9",
+        "t": "The Lord Appears to Elijah",
+        "h": 2
+    },
+    {
+        "o": 10253,
+        "r": "niv:1 Kings:19:9",
+        "t": "And*p the word of the Lord*s came to him: “What are you doing here, Elijah?”"
+    },
+    {
+        "o": 10254,
+        "r": "niv:1 Kings:19:10",
+        "t": "He*p replied, “I have been very zealous for the Lord*s God Almighty. The Israelites have rejected your covenant, torn down your altars, and put your prophets to death with the sword. I am the only one left, and now they are trying to kill me too.”"
+    },
+    {
+        "o": 10255,
+        "r": "niv:1 Kings:19:11",
+        "t": "The*p Lord*s said, “Go out and stand on the mountain in the presence of the Lord,*s for the Lord*s is about to pass by.” Then*p a great and powerful wind tore the mountains apart and shattered the rocks before the Lord,*s but the Lord*s was not in the wind. After the wind there was an earthquake, but the Lord*s was not in the earthquake."
+    },
+    {
+        "o": 10256,
+        "r": "niv:1 Kings:19:12",
+        "t": "After the earthquake came a fire, but the Lord*s was not in the fire. And after the fire came a gentle whisper."
+    },
+    {
+        "o": 10257,
+        "r": "niv:1 Kings:19:13",
+        "t": "When Elijah heard it, he pulled his cloak over his face and went out and stood at the mouth of the cave. Then*p a voice said to him, “What are you doing here, Elijah?”"
+    },
+    {
+        "o": 10258,
+        "r": "niv:1 Kings:19:14",
+        "t": "He*p replied, “I have been very zealous for the Lord*s God Almighty. The Israelites have rejected your covenant, torn down your altars, and put your prophets to death with the sword. I am the only one left, and now they are trying to kill me too.”"
+    },
+    {
+        "o": 10259,
+        "r": "niv:1 Kings:19:15",
+        "t": "The*p Lord*s said to him, “Go back the way you came, and go to the Desert of Damascus. When you get there, anoint Hazael king over Aram."
+    },
+    {
+        "o": 10260,
+        "r": "niv:1 Kings:19:16",
+        "t": "Also, anoint Jehu son of Nimshi king over Israel, and anoint Elisha son of Shaphat from Abel Meholah to succeed you as prophet."
+    },
+    {
+        "o": 10261,
+        "r": "niv:1 Kings:19:17",
+        "t": "Jehu will put to death any who escape the sword of Hazael, and Elisha will put to death any who escape the sword of Jehu."
+    },
+    {
+        "o": 10262,
+        "r": "niv:1 Kings:19:18",
+        "t": "Yet I reserve seven thousand in Israel—all whose knees have not bowed down to Baal and whose mouths have not kissed him.”"
+    },
+    {
+        "o": 10263,
+        "r": "niv:1 Kings:19:18",
+        "t": "The Call of Elisha",
+        "h": 2
+    },
+    {
+        "o": 10264,
+        "r": "niv:1 Kings:19:19",
+        "t": "So*p Elijah went from there and found Elisha son of Shaphat. He was plowing with twelve yoke of oxen, and he himself was driving the twelfth pair. Elijah went up to him and threw his cloak around him."
+    },
+    {
+        "o": 10265,
+        "r": "niv:1 Kings:19:20",
+        "t": "Elisha then left his oxen and ran after Elijah. “Let me kiss my father and mother goodbye,” he said, “and then I will come with you.” “Go*p back,” Elijah replied. “What have I done to you?”"
+    },
+    {
+        "o": 10266,
+        "r": "niv:1 Kings:19:21",
+        "t": "So*p Elisha left him and went back. He took his yoke of oxen and slaughtered them. He burned the plowing equipment to cook the meat and gave it to the people, and they ate. Then he set out to follow Elijah and became his servant."
+    },
+    {
+        "o": 10267,
+        "r": "niv:1 Kings:20:0",
+        "t": "1 Kings 20",
+        "h": 1
+    },
+    {
+        "o": 10268,
+        "r": "niv:1 Kings:20:0",
+        "t": "Ben-Hadad Attacks Samaria",
+        "h": 2
+    },
+    {
+        "o": 10269,
+        "r": "niv:1 Kings:20:1",
+        "t": "Now*p Ben-Hadad king of Aram mustered his entire army. Accompanied by thirty-two kings with their horses and chariots, he went up and besieged Samaria and attacked it."
+    },
+    {
+        "o": 10270,
+        "r": "niv:1 Kings:20:2",
+        "t": "He sent messengers into the city to Ahab king of Israel, saying, “This is what Ben-Hadad says:"
+    },
+    {
+        "o": 10271,
+        "r": "niv:1 Kings:20:3",
+        "t": "‘Your silver and gold are mine, and the best of your wives and children are mine.’ ”"
+    },
+    {
+        "o": 10272,
+        "r": "niv:1 Kings:20:4",
+        "t": "The*p king of Israel answered, “Just as you say, my lord the king. I and all I have are yours.”"
+    },
+    {
+        "o": 10273,
+        "r": "niv:1 Kings:20:5",
+        "t": "The*p messengers came again and said, “This is what Ben-Hadad says: ‘I sent to demand your silver and gold, your wives and your children."
+    },
+    {
+        "o": 10274,
+        "r": "niv:1 Kings:20:6",
+        "t": "But about this time tomorrow I am going to send my officials to search your palace and the houses of your officials. They will seize everything you value and carry it away.’ ”"
+    },
+    {
+        "o": 10275,
+        "r": "niv:1 Kings:20:7",
+        "t": "The*p king of Israel summoned all the elders of the land and said to them, “See how this man is looking for trouble! When he sent for my wives and my children, my silver and my gold, I did not refuse him.”"
+    },
+    {
+        "o": 10276,
+        "r": "niv:1 Kings:20:8",
+        "t": "The*p elders and the people all answered, “Don’t listen to him or agree to his demands.”"
+    },
+    {
+        "o": 10277,
+        "r": "niv:1 Kings:20:9",
+        "t": "So*p he replied to Ben-Hadad’s messengers, “Tell my lord the king, ‘Your servant will do all you demanded the first time, but this demand I cannot meet.’ ” They left and took the answer back to Ben-Hadad."
+    },
+    {
+        "o": 10278,
+        "r": "niv:1 Kings:20:10",
+        "t": "Then*p Ben-Hadad sent another message to Ahab: “May the gods deal with me, be it ever so severely, if enough dust remains in Samaria to give each of my men a handful.”"
+    },
+    {
+        "o": 10279,
+        "r": "niv:1 Kings:20:11",
+        "t": "The*p king of Israel answered, “Tell him: ‘One who puts on his armor should not boast like one who takes it off.’ ”"
+    },
+    {
+        "o": 10280,
+        "r": "niv:1 Kings:20:12",
+        "t": "Ben-Hadad*p heard this message while he and the kings were drinking in their tents, and he ordered his men: “Prepare to attack.” So they prepared to attack the city."
+    },
+    {
+        "o": 10281,
+        "r": "niv:1 Kings:20:12",
+        "t": "Ahab Defeats Ben-Hadad",
+        "h": 2
+    },
+    {
+        "o": 10282,
+        "r": "niv:1 Kings:20:13",
+        "t": "Meanwhile*p a prophet came to Ahab king of Israel and announced, “This is what the Lord*s says: ‘Do you see this vast army? I will give it into your hand today, and then you will know that I am the Lord*s .’ ”"
+    },
+    {
+        "o": 10283,
+        "r": "niv:1 Kings:20:14",
+        "t": "“But*p who will do this?” asked Ahab. The*p prophet replied, “This is what the Lord*s says: ‘The junior officers under the provincial commanders will do it.’ ” “And*p who will start the battle?” he asked. The*p prophet answered, “You will.”"
+    },
+    {
+        "o": 10284,
+        "r": "niv:1 Kings:20:15",
+        "t": "So*p Ahab summoned the 232 junior officers under the provincial commanders. Then he assembled the rest of the Israelites, 7,000 in all."
+    },
+    {
+        "o": 10285,
+        "r": "niv:1 Kings:20:16",
+        "t": "They set out at noon while Ben-Hadad and the 32 kings allied with him were in their tents getting drunk."
+    },
+    {
+        "o": 10286,
+        "r": "niv:1 Kings:20:17",
+        "t": "The junior officers under the provincial commanders went out first. Now*p Ben-Hadad had dispatched scouts, who reported, “Men are advancing from Samaria.”"
+    },
+    {
+        "o": 10287,
+        "r": "niv:1 Kings:20:18",
+        "t": "He*p said, “If they have come out for peace, take them alive; if they have come out for war, take them alive.”"
+    },
+    {
+        "o": 10288,
+        "r": "niv:1 Kings:20:19",
+        "t": "The*p junior officers under the provincial commanders marched out of the city with the army behind them"
+    },
+    {
+        "o": 10289,
+        "r": "niv:1 Kings:20:20",
+        "t": "and each one struck down his opponent. At that, the Arameans fled, with the Israelites in pursuit. But Ben-Hadad king of Aram escaped on horseback with some of his horsemen."
+    },
+    {
+        "o": 10290,
+        "r": "niv:1 Kings:20:21",
+        "t": "The king of Israel advanced and overpowered the horses and chariots and inflicted heavy losses on the Arameans."
+    },
+    {
+        "o": 10291,
+        "r": "niv:1 Kings:20:22",
+        "t": "Afterward,*p the prophet came to the king of Israel and said, “Strengthen your position and see what must be done, because next spring the king of Aram will attack you again.”"
+    },
+    {
+        "o": 10292,
+        "r": "niv:1 Kings:20:23",
+        "t": "Meanwhile,*p the officials of the king of Aram advised him, “Their gods are gods of the hills. That is why they were too strong for us. But if we fight them on the plains, surely we will be stronger than they."
+    },
+    {
+        "o": 10293,
+        "r": "niv:1 Kings:20:24",
+        "t": "Do this: Remove all the kings from their commands and replace them with other officers."
+    },
+    {
+        "o": 10294,
+        "r": "niv:1 Kings:20:25",
+        "t": "You must also raise an army like the one you lost—horse for horse and chariot for chariot—so we can fight Israel on the plains. Then surely we will be stronger than they.” He agreed with them and acted accordingly."
+    },
+    {
+        "o": 10295,
+        "r": "niv:1 Kings:20:26",
+        "t": "The*p next spring Ben-Hadad mustered the Arameans and went up to Aphek to fight against Israel."
+    },
+    {
+        "o": 10296,
+        "r": "niv:1 Kings:20:27",
+        "t": "When the Israelites were also mustered and given provisions, they marched out to meet them. The Israelites camped opposite them like two small flocks of goats, while the Arameans covered the countryside."
+    },
+    {
+        "o": 10297,
+        "r": "niv:1 Kings:20:28",
+        "t": "The*p man of God came up and told the king of Israel, “This is what the Lord*s says: ‘Because the Arameans think the Lord*s is a god of the hills and not a god of the valleys, I will deliver this vast army into your hands, and you will know that I am the Lord*s .’ ”"
+    },
+    {
+        "o": 10298,
+        "r": "niv:1 Kings:20:29",
+        "t": "For*p seven days they camped opposite each other, and on the seventh day the battle was joined. The Israelites inflicted a hundred thousand casualties on the Aramean foot soldiers in one day."
+    },
+    {
+        "o": 10299,
+        "r": "niv:1 Kings:20:30",
+        "t": "The rest of them escaped to the city of Aphek, where the wall collapsed on twenty-seven thousand of them. And Ben-Hadad fled to the city and hid in an inner room."
+    },
+    {
+        "o": 10300,
+        "r": "niv:1 Kings:20:31",
+        "t": "His*p officials said to him, “Look, we have heard that the kings of Israel are merciful. Let us go to the king of Israel with sackcloth around our waists and ropes around our heads. Perhaps he will spare your life.”"
+    },
+    {
+        "o": 10301,
+        "r": "niv:1 Kings:20:32",
+        "t": "Wearing*p sackcloth around their waists and ropes around their heads, they went to the king of Israel and said, “Your servant Ben-Hadad says: ‘Please let me live.’ ” The*p king answered, “Is he still alive? He is my brother.”"
+    },
+    {
+        "o": 10302,
+        "r": "niv:1 Kings:20:33",
+        "t": "The*p men took this as a good sign and were quick to pick up his word. “Yes, your brother Ben-Hadad!” they said. “Go*p and get him,” the king said. When Ben-Hadad came out, Ahab had him come up into his chariot."
+    },
+    {
+        "o": 10303,
+        "r": "niv:1 Kings:20:34",
+        "t": "“I*p will return the cities my father took from your father,” Ben-Hadad offered. “You may set up your own market areas in Damascus, as my father did in Samaria.” Ahab*p said, “On the basis of a treaty I will set you free.” So he made a treaty with him, and let him go."
+    },
+    {
+        "o": 10304,
+        "r": "niv:1 Kings:20:34",
+        "t": "A Prophet Condemns Ahab",
+        "h": 2
+    },
+    {
+        "o": 10305,
+        "r": "niv:1 Kings:20:35",
+        "t": "By*p the word of the Lord*s one of the company of the prophets said to his companion, “Strike me with your weapon,” but he refused."
+    },
+    {
+        "o": 10306,
+        "r": "niv:1 Kings:20:36",
+        "t": "So*p the prophet said, “Because you have not obeyed the Lord,*s as soon as you leave me a lion will kill you.” And after the man went away, a lion found him and killed him."
+    },
+    {
+        "o": 10307,
+        "r": "niv:1 Kings:20:37",
+        "t": "The*p prophet found another man and said, “Strike me, please.” So the man struck him and wounded him."
+    },
+    {
+        "o": 10308,
+        "r": "niv:1 Kings:20:38",
+        "t": "Then the prophet went and stood by the road waiting for the king. He disguised himself with his headband down over his eyes."
+    },
+    {
+        "o": 10309,
+        "r": "niv:1 Kings:20:39",
+        "t": "As the king passed by, the prophet called out to him, “Your servant went into the thick of the battle, and someone came to me with a captive and said, ‘Guard this man. If he is missing, it will be your life for his life, or you must pay a talent of silver.’"
+    },
+    {
+        "o": 10310,
+        "r": "niv:1 Kings:20:40",
+        "t": "While your servant was busy here and there, the man disappeared.” “That*p is your sentence,” the king of Israel said. “You have pronounced it yourself.”"
+    },
+    {
+        "o": 10311,
+        "r": "niv:1 Kings:20:41",
+        "t": "Then*p the prophet quickly removed the headband from his eyes, and the king of Israel recognized him as one of the prophets."
+    },
+    {
+        "o": 10312,
+        "r": "niv:1 Kings:20:42",
+        "t": "He said to the king, “This is what the Lord*s says: ‘You have set free a man I had determined should die. Therefore it is your life for his life, your people for his people.’ ”"
+    },
+    {
+        "o": 10313,
+        "r": "niv:1 Kings:20:43",
+        "t": "Sullen and angry, the king of Israel went to his palace in Samaria."
+    },
+    {
+        "o": 10314,
+        "r": "niv:1 Kings:21:0",
+        "t": "1 Kings 21",
+        "h": 1
+    },
+    {
+        "o": 10315,
+        "r": "niv:1 Kings:21:0",
+        "t": "Naboth’s Vineyard",
+        "h": 2
+    },
+    {
+        "o": 10316,
+        "r": "niv:1 Kings:21:1",
+        "t": "Some*p time later there was an incident involving a vineyard belonging to Naboth the Jezreelite. The vineyard was in Jezreel, close to the palace of Ahab king of Samaria."
+    },
+    {
+        "o": 10317,
+        "r": "niv:1 Kings:21:2",
+        "t": "Ahab said to Naboth, “Let me have your vineyard to use for a vegetable garden, since it is close to my palace. In exchange I will give you a better vineyard or, if you prefer, I will pay you whatever it is worth.”"
+    },
+    {
+        "o": 10318,
+        "r": "niv:1 Kings:21:3",
+        "t": "But*p Naboth replied, “The Lord*s forbid that I should give you the inheritance of my ancestors.”"
+    },
+    {
+        "o": 10319,
+        "r": "niv:1 Kings:21:4",
+        "t": "So*p Ahab went home, sullen and angry because Naboth the Jezreelite had said, “I will not give you the inheritance of my ancestors.” He lay on his bed sulking and refused to eat."
+    },
+    {
+        "o": 10320,
+        "r": "niv:1 Kings:21:5",
+        "t": "His*p wife Jezebel came in and asked him, “Why are you so sullen? Why won’t you eat?”"
+    },
+    {
+        "o": 10321,
+        "r": "niv:1 Kings:21:6",
+        "t": "He*p answered her, “Because I said to Naboth the Jezreelite, ‘Sell me your vineyard; or if you prefer, I will give you another vineyard in its place.’ But he said, ‘I will not give you my vineyard.’ ”"
+    },
+    {
+        "o": 10322,
+        "r": "niv:1 Kings:21:7",
+        "t": "Jezebel*p his wife said, “Is this how you act as king over Israel? Get up and eat! Cheer up. I’ll get you the vineyard of Naboth the Jezreelite.”"
+    },
+    {
+        "o": 10323,
+        "r": "niv:1 Kings:21:8",
+        "t": "So*p she wrote letters in Ahab’s name, placed his seal on them, and sent them to the elders and nobles who lived in Naboth’s city with him."
+    },
+    {
+        "o": 10324,
+        "r": "niv:1 Kings:21:9",
+        "t": "In those letters she wrote: “Proclaim*ln a day of fasting and seat Naboth in a prominent place among the people."
+    },
+    {
+        "o": 10325,
+        "r": "niv:1 Kings:21:10",
+        "t": "But seat two scoundrels opposite him and have them bring charges that he has cursed both God and the king. Then take him out and stone him to death.”"
+    },
+    {
+        "o": 10326,
+        "r": "niv:1 Kings:21:11",
+        "t": "So*p the elders and nobles who lived in Naboth’s city did as Jezebel directed in the letters she had written to them."
+    },
+    {
+        "o": 10327,
+        "r": "niv:1 Kings:21:12",
+        "t": "They proclaimed a fast and seated Naboth in a prominent place among the people."
+    },
+    {
+        "o": 10328,
+        "r": "niv:1 Kings:21:13",
+        "t": "Then two scoundrels came and sat opposite him and brought charges against Naboth before the people, saying, “Naboth has cursed both God and the king.” So they took him outside the city and stoned him to death."
+    },
+    {
+        "o": 10329,
+        "r": "niv:1 Kings:21:14",
+        "t": "Then they sent word to Jezebel: “Naboth has been stoned to death.”"
+    },
+    {
+        "o": 10330,
+        "r": "niv:1 Kings:21:15",
+        "t": "As*p soon as Jezebel heard that Naboth had been stoned to death, she said to Ahab, “Get up and take possession of the vineyard of Naboth the Jezreelite that he refused to sell you. He is no longer alive, but dead.”"
+    },
+    {
+        "o": 10331,
+        "r": "niv:1 Kings:21:16",
+        "t": "When Ahab heard that Naboth was dead, he got up and went down to take possession of Naboth’s vineyard."
+    },
+    {
+        "o": 10332,
+        "r": "niv:1 Kings:21:17",
+        "t": "Then*p the word of the Lord*s came to Elijah the Tishbite:"
+    },
+    {
+        "o": 10333,
+        "r": "niv:1 Kings:21:18",
+        "t": "“Go down to meet Ahab king of Israel, who rules in Samaria. He is now in Naboth’s vineyard, where he has gone to take possession of it."
+    },
+    {
+        "o": 10334,
+        "r": "niv:1 Kings:21:19",
+        "t": "Say to him, ‘This is what the Lord*s says: Have you not murdered a man and seized his property?’ Then say to him, ‘This is what the Lord*s says: In the place where dogs licked up Naboth’s blood, dogs will lick up your blood—yes, yours!’ ”"
+    },
+    {
+        "o": 10335,
+        "r": "niv:1 Kings:21:20",
+        "t": "Ahab*p said to Elijah, “So you have found me, my enemy!” “I*p have found you,” he answered, “because you have sold yourself to do evil in the eyes of the Lord.*s"
+    },
+    {
+        "o": 10336,
+        "r": "niv:1 Kings:21:21",
+        "t": "He says, ‘I am going to bring disaster on you. I will wipe out your descendants and cut off from Ahab every last male in Israel—slave or free."
+    },
+    {
+        "o": 10337,
+        "r": "niv:1 Kings:21:22",
+        "t": "I will make your house like that of Jeroboam son of Nebat and that of Baasha son of Ahijah, because you have aroused my anger and have caused Israel to sin.’"
+    },
+    {
+        "o": 10338,
+        "r": "niv:1 Kings:21:23",
+        "t": "“And*p also concerning Jezebel the Lord*s says: ‘Dogs will devour Jezebel by the wall of Jezreel.’"
+    },
+    {
+        "o": 10339,
+        "r": "niv:1 Kings:21:24",
+        "t": "“Dogs*p will eat those belonging to Ahab who die in the city, and the birds will feed on those who die in the country.”"
+    },
+    {
+        "o": 10340,
+        "r": "niv:1 Kings:21:25",
+        "t": "(There*p was never anyone like Ahab, who sold himself to do evil in the eyes of the Lord,*s urged on by Jezebel his wife."
+    },
+    {
+        "o": 10341,
+        "r": "niv:1 Kings:21:26",
+        "t": "He behaved in the vilest manner by going after idols, like the Amorites the Lord*s drove out before Israel.)"
+    },
+    {
+        "o": 10342,
+        "r": "niv:1 Kings:21:27",
+        "t": "When*p Ahab heard these words, he tore his clothes, put on sackcloth and fasted. He lay in sackcloth and went around meekly."
+    },
+    {
+        "o": 10343,
+        "r": "niv:1 Kings:21:28",
+        "t": "Then*p the word of the Lord*s came to Elijah the Tishbite:"
+    },
+    {
+        "o": 10344,
+        "r": "niv:1 Kings:21:29",
+        "t": "“Have you noticed how Ahab has humbled himself before me? Because he has humbled himself, I will not bring this disaster in his day, but I will bring it on his house in the days of his son.”"
+    },
+    {
+        "o": 10345,
+        "r": "niv:1 Kings:22:0",
+        "t": "1 Kings 22",
+        "h": 1
+    },
+    {
+        "o": 10346,
+        "r": "niv:1 Kings:22:0",
+        "t": "Micaiah Prophesies Against Ahab",
+        "h": 2
+    },
+    {
+        "o": 10347,
+        "r": "niv:1 Kings:22:1",
+        "t": "For*p three years there was no war between Aram and Israel."
+    },
+    {
+        "o": 10348,
+        "r": "niv:1 Kings:22:2",
+        "t": "But in the third year Jehoshaphat king of Judah went down to see the king of Israel."
+    },
+    {
+        "o": 10349,
+        "r": "niv:1 Kings:22:3",
+        "t": "The king of Israel had said to his officials, “Don’t you know that Ramoth Gilead belongs to us and yet we are doing nothing to retake it from the king of Aram?”"
+    },
+    {
+        "o": 10350,
+        "r": "niv:1 Kings:22:4",
+        "t": "So*p he asked Jehoshaphat, “Will you go with me to fight against Ramoth Gilead?” Jehoshaphat*p replied to the king of Israel, “I am as you are, my people as your people, my horses as your horses.”"
+    },
+    {
+        "o": 10351,
+        "r": "niv:1 Kings:22:5",
+        "t": "But Jehoshaphat also said to the king of Israel, “First seek the counsel of the Lord.”*s"
+    },
+    {
+        "o": 10352,
+        "r": "niv:1 Kings:22:6",
+        "t": "So*p the king of Israel brought together the prophets—about four hundred men—and asked them, “Shall I go to war against Ramoth Gilead, or shall I refrain?” “Go,”*p they answered, “for the Lord will give it into the king’s hand.”"
+    },
+    {
+        "o": 10353,
+        "r": "niv:1 Kings:22:7",
+        "t": "But*p Jehoshaphat asked, “Is there no longer a prophet of the Lord*s here whom we can inquire of?”"
+    },
+    {
+        "o": 10354,
+        "r": "niv:1 Kings:22:8",
+        "t": "The*p king of Israel answered Jehoshaphat, “There is still one prophet through whom we can inquire of the Lord,*s but I hate him because he never prophesies anything good about me, but always bad. He is Micaiah son of Imlah.” “The*p king should not say such a thing,” Jehoshaphat replied."
+    },
+    {
+        "o": 10355,
+        "r": "niv:1 Kings:22:9",
+        "t": "So*p the king of Israel called one of his officials and said, “Bring Micaiah son of Imlah at once.”"
+    },
+    {
+        "o": 10356,
+        "r": "niv:1 Kings:22:10",
+        "t": "Dressed*p in their royal robes, the king of Israel and Jehoshaphat king of Judah were sitting on their thrones at the threshing floor by the entrance of the gate of Samaria, with all the prophets prophesying before them."
+    },
+    {
+        "o": 10357,
+        "r": "niv:1 Kings:22:11",
+        "t": "Now Zedekiah son of Kenaanah had made iron horns and he declared, “This is what the Lord*s says: ‘With these you will gore the Arameans until they are destroyed.’ ”"
+    },
+    {
+        "o": 10358,
+        "r": "niv:1 Kings:22:12",
+        "t": "All*p the other prophets were prophesying the same thing. “Attack Ramoth Gilead and be victorious,” they said, “for the Lord*s will give it into the king’s hand.”"
+    },
+    {
+        "o": 10359,
+        "r": "niv:1 Kings:22:13",
+        "t": "The*p messenger who had gone to summon Micaiah said to him, “Look, the other prophets without exception are predicting success for the king. Let your word agree with theirs, and speak favorably.”"
+    },
+    {
+        "o": 10360,
+        "r": "niv:1 Kings:22:14",
+        "t": "But*p Micaiah said, “As surely as the Lord*s lives, I can tell him only what the Lord*s tells me.”"
+    },
+    {
+        "o": 10361,
+        "r": "niv:1 Kings:22:15",
+        "t": "When*p he arrived, the king asked him, “Micaiah, shall we go to war against Ramoth Gilead, or not?” “Attack*p and be victorious,” he answered, “for the Lord*s will give it into the king’s hand.”"
+    },
+    {
+        "o": 10362,
+        "r": "niv:1 Kings:22:16",
+        "t": "The*p king said to him, “How many times must I make you swear to tell me nothing but the truth in the name of the Lord?”*s"
+    },
+    {
+        "o": 10363,
+        "r": "niv:1 Kings:22:17",
+        "t": "Then*p Micaiah answered, “I saw all Israel scattered on the hills like sheep without a shepherd, and the Lord*s said, ‘These people have no master. Let each one go home in peace.’ ”"
+    },
+    {
+        "o": 10364,
+        "r": "niv:1 Kings:22:18",
+        "t": "The*p king of Israel said to Jehoshaphat, “Didn’t I tell you that he never prophesies anything good about me, but only bad?”"
+    },
+    {
+        "o": 10365,
+        "r": "niv:1 Kings:22:19",
+        "t": "Micaiah*p continued, “Therefore hear the word of the Lord:*s I saw the Lord*s sitting on his throne with all the multitudes of heaven standing around him on his right and on his left."
+    },
+    {
+        "o": 10366,
+        "r": "niv:1 Kings:22:20",
+        "t": "And the Lord*s said, ‘Who will entice Ahab into attacking Ramoth Gilead and going to his death there?’ “One*p suggested this, and another that."
+    },
+    {
+        "o": 10367,
+        "r": "niv:1 Kings:22:21",
+        "t": "Finally, a spirit came forward, stood before the Lord*s and said, ‘I will entice him.’"
+    },
+    {
+        "o": 10368,
+        "r": "niv:1 Kings:22:22",
+        "t": "“ ‘By*p what means?’ the Lord*s asked. “ ‘I*p will go out and be a deceiving spirit in the mouths of all his prophets,’ he said. “ ‘You*p will succeed in enticing him,’ said the Lord.*s ‘Go and do it.’"
+    },
+    {
+        "o": 10369,
+        "r": "niv:1 Kings:22:23",
+        "t": "“So*p now the Lord*s has put a deceiving spirit in the mouths of all these prophets of yours. The Lord*s has decreed disaster for you.”"
+    },
+    {
+        "o": 10370,
+        "r": "niv:1 Kings:22:24",
+        "t": "Then*p Zedekiah son of Kenaanah went up and slapped Micaiah in the face. “Which way did the spirit from the Lord*s go when he went from me to speak to you?” he asked."
+    },
+    {
+        "o": 10371,
+        "r": "niv:1 Kings:22:25",
+        "t": "Micaiah*p replied, “You will find out on the day you go to hide in an inner room.”"
+    },
+    {
+        "o": 10372,
+        "r": "niv:1 Kings:22:26",
+        "t": "The*p king of Israel then ordered, “Take Micaiah and send him back to Amon the ruler of the city and to Joash the king’s son"
+    },
+    {
+        "o": 10373,
+        "r": "niv:1 Kings:22:27",
+        "t": "and say, ‘This is what the king says: Put this fellow in prison and give him nothing but bread and water until I return safely.’ ”"
+    },
+    {
+        "o": 10374,
+        "r": "niv:1 Kings:22:28",
+        "t": "Micaiah*p declared, “If you ever return safely, the Lord*s has not spoken through me.” Then he added, “Mark my words, all you people!”"
+    },
+    {
+        "o": 10375,
+        "r": "niv:1 Kings:22:28",
+        "t": "Ahab Killed at Ramoth Gilead",
+        "h": 2
+    },
+    {
+        "o": 10376,
+        "r": "niv:1 Kings:22:29",
+        "t": "So*p the king of Israel and Jehoshaphat king of Judah went up to Ramoth Gilead."
+    },
+    {
+        "o": 10377,
+        "r": "niv:1 Kings:22:30",
+        "t": "The king of Israel said to Jehoshaphat, “I will enter the battle in disguise, but you wear your royal robes.” So the king of Israel disguised himself and went into battle."
+    },
+    {
+        "o": 10378,
+        "r": "niv:1 Kings:22:31",
+        "t": "Now*p the king of Aram had ordered his thirty-two chariot commanders, “Do not fight with anyone, small or great, except the king of Israel.”"
+    },
+    {
+        "o": 10379,
+        "r": "niv:1 Kings:22:32",
+        "t": "When the chariot commanders saw Jehoshaphat, they thought, “Surely this is the king of Israel.” So they turned to attack him, but when Jehoshaphat cried out,"
+    },
+    {
+        "o": 10380,
+        "r": "niv:1 Kings:22:33",
+        "t": "the chariot commanders saw that he was not the king of Israel and stopped pursuing him."
+    },
+    {
+        "o": 10381,
+        "r": "niv:1 Kings:22:34",
+        "t": "But*p someone drew his bow at random and hit the king of Israel between the sections of his armor. The king told his chariot driver, “Wheel around and get me out of the fighting. I’ve been wounded.”"
+    },
+    {
+        "o": 10382,
+        "r": "niv:1 Kings:22:35",
+        "t": "All day long the battle raged, and the king was propped up in his chariot facing the Arameans. The blood from his wound ran onto the floor of the chariot, and that evening he died."
+    },
+    {
+        "o": 10383,
+        "r": "niv:1 Kings:22:36",
+        "t": "As the sun was setting, a cry spread through the army: “Every man to his town. Every man to his land!”"
+    },
+    {
+        "o": 10384,
+        "r": "niv:1 Kings:22:37",
+        "t": "So*p the king died and was brought to Samaria, and they buried him there."
+    },
+    {
+        "o": 10385,
+        "r": "niv:1 Kings:22:38",
+        "t": "They washed the chariot at a pool in Samaria (where the prostitutes bathed), and the dogs licked up his blood, as the word of the Lord*s had declared."
+    },
+    {
+        "o": 10386,
+        "r": "niv:1 Kings:22:39",
+        "t": "As*p for the other events of Ahab’s reign, including all he did, the palace he built and adorned with ivory, and the cities he fortified, are they not written in the book of the annals of the kings of Israel?"
+    },
+    {
+        "o": 10387,
+        "r": "niv:1 Kings:22:40",
+        "t": "Ahab rested with his ancestors. And Ahaziah his son succeeded him as king."
+    },
+    {
+        "o": 10388,
+        "r": "niv:1 Kings:22:40",
+        "t": "Jehoshaphat King of Judah",
+        "h": 2
+    },
+    {
+        "o": 10389,
+        "r": "niv:1 Kings:22:41",
+        "t": "Jehoshaphat*p son of Asa became king of Judah in the fourth year of Ahab king of Israel."
+    },
+    {
+        "o": 10390,
+        "r": "niv:1 Kings:22:42",
+        "t": "Jehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem twenty-five years. His mother’s name was Azubah daughter of Shilhi."
+    },
+    {
+        "o": 10391,
+        "r": "niv:1 Kings:22:43",
+        "t": "In everything he followed the ways of his father Asa and did not stray from them; he did what was right in the eyes of the Lord.*s The high places, however, were not removed, and the people continued to offer sacrifices and burn incense there."
+    },
+    {
+        "o": 10392,
+        "r": "niv:1 Kings:22:44",
+        "t": "Jehoshaphat was also at peace with the king of Israel."
+    },
+    {
+        "o": 10393,
+        "r": "niv:1 Kings:22:45",
+        "t": "As*p for the other events of Jehoshaphat’s reign, the things he achieved and his military exploits, are they not written in the book of the annals of the kings of Judah?"
+    },
+    {
+        "o": 10394,
+        "r": "niv:1 Kings:22:46",
+        "t": "He rid the land of the rest of the male shrine prostitutes who remained there even after the reign of his father Asa."
+    },
+    {
+        "o": 10395,
+        "r": "niv:1 Kings:22:47",
+        "t": "There was then no king in Edom; a provincial governor ruled."
+    },
+    {
+        "o": 10396,
+        "r": "niv:1 Kings:22:48",
+        "t": "Now*p Jehoshaphat built a fleet of trading ships to go to Ophir for gold, but they never set sail—they were wrecked at Ezion Geber."
+    },
+    {
+        "o": 10397,
+        "r": "niv:1 Kings:22:49",
+        "t": "At that time Ahaziah son of Ahab said to Jehoshaphat, “Let my men sail with yours,” but Jehoshaphat refused."
+    },
+    {
+        "o": 10398,
+        "r": "niv:1 Kings:22:50",
+        "t": "Then*p Jehoshaphat rested with his ancestors and was buried with them in the city of David his father. And Jehoram his son succeeded him as king."
+    },
+    {
+        "o": 10399,
+        "r": "niv:1 Kings:22:50",
+        "t": "Ahaziah King of Israel",
+        "h": 2
+    },
+    {
+        "o": 10400,
+        "r": "niv:1 Kings:22:51",
+        "t": "Ahaziah*p son of Ahab became king of Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned over Israel two years."
+    },
+    {
+        "o": 10401,
+        "r": "niv:1 Kings:22:52",
+        "t": "He did evil in the eyes of the Lord,*s because he followed the ways of his father and mother and of Jeroboam son of Nebat, who caused Israel to sin."
+    },
+    {
+        "o": 10402,
+        "r": "niv:1 Kings:22:53",
+        "t": "He served and worshiped Baal and aroused the anger of the Lord,*s the God of Israel, just as his father had done."
+    }
+]

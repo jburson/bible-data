@@ -1,0 +1,4763 @@
+[
+    {
+        "o": 17168,
+        "r": "kjv:Proverbs:1:0",
+        "t": "Proverbs 1",
+        "h": 1
+    },
+    {
+        "o": 17169,
+        "r": "kjv:Proverbs:1:1",
+        "t": "The*p proverbs of Solomon the son of David, king of Israel;"
+    },
+    {
+        "o": 17170,
+        "r": "kjv:Proverbs:1:2",
+        "t": "To*p know wisdom and instruction; to perceive the words of understanding;"
+    },
+    {
+        "o": 17171,
+        "r": "kjv:Proverbs:1:3",
+        "t": "To*p receive the instruction of wisdom, justice, and judgment, and equity;"
+    },
+    {
+        "o": 17172,
+        "r": "kjv:Proverbs:1:4",
+        "t": "To*p give subtilty to the simple, to the young man knowledge and discretion."
+    },
+    {
+        "o": 17173,
+        "r": "kjv:Proverbs:1:5",
+        "t": "A*p wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:"
+    },
+    {
+        "o": 17174,
+        "r": "kjv:Proverbs:1:6",
+        "t": "To*p understand a proverb, and the interpretation; the words of the wise, and their dark sayings."
+    },
+    {
+        "o": 17175,
+        "r": "kjv:Proverbs:1:7",
+        "t": "The*p fear of the Lord*s is the beginning of knowledge: but fools despise wisdom and instruction."
+    },
+    {
+        "o": 17176,
+        "r": "kjv:Proverbs:1:8",
+        "t": "My*p son, hear the instruction of thy father, and forsake not the law of thy mother:"
+    },
+    {
+        "o": 17177,
+        "r": "kjv:Proverbs:1:9",
+        "t": "For*p they shall be an ornament of grace unto thy head, and chains about thy neck."
+    },
+    {
+        "o": 17178,
+        "r": "kjv:Proverbs:1:10",
+        "t": "My*p son, if sinners entice thee, consent thou not."
+    },
+    {
+        "o": 17179,
+        "r": "kjv:Proverbs:1:11",
+        "t": "If*p they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:"
+    },
+    {
+        "o": 17180,
+        "r": "kjv:Proverbs:1:12",
+        "t": "Let*p us swallow them up alive as the grave; and whole, as those that go down into the pit:"
+    },
+    {
+        "o": 17181,
+        "r": "kjv:Proverbs:1:13",
+        "t": "We*p shall find all precious substance, we shall fill our houses with spoil:"
+    },
+    {
+        "o": 17182,
+        "r": "kjv:Proverbs:1:14",
+        "t": "Cast*p in thy lot among us; let us all have one purse:"
+    },
+    {
+        "o": 17183,
+        "r": "kjv:Proverbs:1:15",
+        "t": "My*p son, walk not thou in the way with them; refrain thy foot from their path:"
+    },
+    {
+        "o": 17184,
+        "r": "kjv:Proverbs:1:16",
+        "t": "For*p their feet run to evil, and make haste to shed blood."
+    },
+    {
+        "o": 17185,
+        "r": "kjv:Proverbs:1:17",
+        "t": "Surely*p in vain the net is spread in the sight of any bird."
+    },
+    {
+        "o": 17186,
+        "r": "kjv:Proverbs:1:18",
+        "t": "And*p they lay wait for their own blood; they lurk privily for their own lives."
+    },
+    {
+        "o": 17187,
+        "r": "kjv:Proverbs:1:19",
+        "t": "So*p are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof."
+    },
+    {
+        "o": 17188,
+        "r": "kjv:Proverbs:1:20",
+        "t": "Wisdom*p crieth without; she uttereth her voice in the streets:"
+    },
+    {
+        "o": 17189,
+        "r": "kjv:Proverbs:1:21",
+        "t": "She*p crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,"
+    },
+    {
+        "o": 17190,
+        "r": "kjv:Proverbs:1:22",
+        "t": "How*p long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?"
+    },
+    {
+        "o": 17191,
+        "r": "kjv:Proverbs:1:23",
+        "t": "Turn*p you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you."
+    },
+    {
+        "o": 17192,
+        "r": "kjv:Proverbs:1:24",
+        "t": "Because*p I have called, and ye refused; I have stretched out my hand, and no man regarded;"
+    },
+    {
+        "o": 17193,
+        "r": "kjv:Proverbs:1:25",
+        "t": "But*p ye have set at nought all my counsel, and would none of my reproof:"
+    },
+    {
+        "o": 17194,
+        "r": "kjv:Proverbs:1:26",
+        "t": "I*p also will laugh at your calamity; I will mock when your fear cometh;"
+    },
+    {
+        "o": 17195,
+        "r": "kjv:Proverbs:1:27",
+        "t": "When*p your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you."
+    },
+    {
+        "o": 17196,
+        "r": "kjv:Proverbs:1:28",
+        "t": "Then*p shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
+    },
+    {
+        "o": 17197,
+        "r": "kjv:Proverbs:1:29",
+        "t": "For*p that they hated knowledge, and did not choose the fear of the Lord:*s"
+    },
+    {
+        "o": 17198,
+        "r": "kjv:Proverbs:1:30",
+        "t": "They*p would none of my counsel: they despised all my reproof."
+    },
+    {
+        "o": 17199,
+        "r": "kjv:Proverbs:1:31",
+        "t": "Therefore*p shall they eat of the fruit of their own way, and be filled with their own devices."
+    },
+    {
+        "o": 17200,
+        "r": "kjv:Proverbs:1:32",
+        "t": "For*p the turning away of the simple shall slay them, and the prosperity of fools shall destroy them."
+    },
+    {
+        "o": 17201,
+        "r": "kjv:Proverbs:1:33",
+        "t": "But*p whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil."
+    },
+    {
+        "o": 17202,
+        "r": "kjv:Proverbs:2:0",
+        "t": "Proverbs 2",
+        "h": 1
+    },
+    {
+        "o": 17203,
+        "r": "kjv:Proverbs:2:1",
+        "t": "My*p son, if thou wilt receive my words, and hide my commandments with thee;"
+    },
+    {
+        "o": 17204,
+        "r": "kjv:Proverbs:2:2",
+        "t": "So*p that thou incline thine ear unto wisdom, and apply thine heart to understanding;"
+    },
+    {
+        "o": 17205,
+        "r": "kjv:Proverbs:2:3",
+        "t": "Yea,*p if thou criest after knowledge, and liftest up thy voice for understanding;"
+    },
+    {
+        "o": 17206,
+        "r": "kjv:Proverbs:2:4",
+        "t": "If*p thou seekest her as silver, and searchest for her as for hid treasures;"
+    },
+    {
+        "o": 17207,
+        "r": "kjv:Proverbs:2:5",
+        "t": "Then*p shalt thou understand the fear of the Lord,*s and find the knowledge of God."
+    },
+    {
+        "o": 17208,
+        "r": "kjv:Proverbs:2:6",
+        "t": "For*p the Lord*s giveth wisdom: out of his mouth cometh knowledge and understanding."
+    },
+    {
+        "o": 17209,
+        "r": "kjv:Proverbs:2:7",
+        "t": "He*p layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly."
+    },
+    {
+        "o": 17210,
+        "r": "kjv:Proverbs:2:8",
+        "t": "He*p keepeth the paths of judgment, and preserveth the way of his saints."
+    },
+    {
+        "o": 17211,
+        "r": "kjv:Proverbs:2:9",
+        "t": "Then*p shalt thou understand righteousness, and judgment, and equity; yea, every good path."
+    },
+    {
+        "o": 17212,
+        "r": "kjv:Proverbs:2:10",
+        "t": "When*p wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;"
+    },
+    {
+        "o": 17213,
+        "r": "kjv:Proverbs:2:11",
+        "t": "Discretion*p shall preserve thee, understanding shall keep thee:"
+    },
+    {
+        "o": 17214,
+        "r": "kjv:Proverbs:2:12",
+        "t": "To*p deliver thee from the way of the evil man, from the man that speaketh froward things;"
+    },
+    {
+        "o": 17215,
+        "r": "kjv:Proverbs:2:13",
+        "t": "Who*p leave the paths of uprightness, to walk in the ways of darkness;"
+    },
+    {
+        "o": 17216,
+        "r": "kjv:Proverbs:2:14",
+        "t": "Who*p rejoice to do evil, and delight in the frowardness of the wicked;"
+    },
+    {
+        "o": 17217,
+        "r": "kjv:Proverbs:2:15",
+        "t": "Whose*p ways are crooked, and they froward in their paths:"
+    },
+    {
+        "o": 17218,
+        "r": "kjv:Proverbs:2:16",
+        "t": "To*p deliver thee from the strange woman, even from the stranger which flattereth with her words;"
+    },
+    {
+        "o": 17219,
+        "r": "kjv:Proverbs:2:17",
+        "t": "Which*p forsaketh the guide of her youth, and forgetteth the covenant of her God."
+    },
+    {
+        "o": 17220,
+        "r": "kjv:Proverbs:2:18",
+        "t": "For*p her house inclineth unto death, and her paths unto the dead."
+    },
+    {
+        "o": 17221,
+        "r": "kjv:Proverbs:2:19",
+        "t": "None*p that go unto her return again, neither take they hold of the paths of life."
+    },
+    {
+        "o": 17222,
+        "r": "kjv:Proverbs:2:20",
+        "t": "That*p thou mayest walk in the way of good men, and keep the paths of the righteous."
+    },
+    {
+        "o": 17223,
+        "r": "kjv:Proverbs:2:21",
+        "t": "For*p the upright shall dwell in the land, and the perfect shall remain in it."
+    },
+    {
+        "o": 17224,
+        "r": "kjv:Proverbs:2:22",
+        "t": "But*p the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it."
+    },
+    {
+        "o": 17225,
+        "r": "kjv:Proverbs:3:0",
+        "t": "Proverbs 3",
+        "h": 1
+    },
+    {
+        "o": 17226,
+        "r": "kjv:Proverbs:3:1",
+        "t": "My*p son, forget not my law; but let thine heart keep my commandments:"
+    },
+    {
+        "o": 17227,
+        "r": "kjv:Proverbs:3:2",
+        "t": "For*p length of days, and long life, and peace, shall they add to thee."
+    },
+    {
+        "o": 17228,
+        "r": "kjv:Proverbs:3:3",
+        "t": "Let*p not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
+    },
+    {
+        "o": 17229,
+        "r": "kjv:Proverbs:3:4",
+        "t": "So*p shalt thou find favour and good understanding in the sight of God and man."
+    },
+    {
+        "o": 17230,
+        "r": "kjv:Proverbs:3:5",
+        "t": "Trust*p in the Lord*s with all thine heart; and lean not unto thine own understanding."
+    },
+    {
+        "o": 17231,
+        "r": "kjv:Proverbs:3:6",
+        "t": "In*p all thy ways acknowledge him, and he shall direct thy paths."
+    },
+    {
+        "o": 17232,
+        "r": "kjv:Proverbs:3:7",
+        "t": "Be*p not wise in thine own eyes: fear the Lord,*s and depart from evil."
+    },
+    {
+        "o": 17233,
+        "r": "kjv:Proverbs:3:8",
+        "t": "It*p shall be health to thy navel, and marrow to thy bones."
+    },
+    {
+        "o": 17234,
+        "r": "kjv:Proverbs:3:9",
+        "t": "Honour*p the Lord*s with thy substance, and with the firstfruits of all thine increase:"
+    },
+    {
+        "o": 17235,
+        "r": "kjv:Proverbs:3:10",
+        "t": "So*p shall thy barns be filled with plenty, and thy presses shall burst out with new wine."
+    },
+    {
+        "o": 17236,
+        "r": "kjv:Proverbs:3:11",
+        "t": "My*p son, despise not the chastening of the Lord;*s neither be weary of his correction:"
+    },
+    {
+        "o": 17237,
+        "r": "kjv:Proverbs:3:12",
+        "t": "For*p whom the Lord*s loveth he correcteth; even as a father the son in whom he delighteth."
+    },
+    {
+        "o": 17238,
+        "r": "kjv:Proverbs:3:13",
+        "t": "Happy*p is the man that findeth wisdom, and the man that getteth understanding."
+    },
+    {
+        "o": 17239,
+        "r": "kjv:Proverbs:3:14",
+        "t": "For*p the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold."
+    },
+    {
+        "o": 17240,
+        "r": "kjv:Proverbs:3:15",
+        "t": "She*p is more precious than rubies: and all the things thou canst desire are not to be compared unto her."
+    },
+    {
+        "o": 17241,
+        "r": "kjv:Proverbs:3:16",
+        "t": "Length*p of days is in her right hand; and in her left hand riches and honour."
+    },
+    {
+        "o": 17242,
+        "r": "kjv:Proverbs:3:17",
+        "t": "Her*p ways are ways of pleasantness, and all her paths are peace."
+    },
+    {
+        "o": 17243,
+        "r": "kjv:Proverbs:3:18",
+        "t": "She*p is a tree of life to them that lay hold upon her: and happy is every one that retaineth her."
+    },
+    {
+        "o": 17244,
+        "r": "kjv:Proverbs:3:19",
+        "t": "The*p Lord*s by wisdom hath founded the earth; by understanding hath he established the heavens."
+    },
+    {
+        "o": 17245,
+        "r": "kjv:Proverbs:3:20",
+        "t": "By*p his knowledge the depths are broken up, and the clouds drop down the dew."
+    },
+    {
+        "o": 17246,
+        "r": "kjv:Proverbs:3:21",
+        "t": "My*p son, let not them depart from thine eyes: keep sound wisdom and discretion:"
+    },
+    {
+        "o": 17247,
+        "r": "kjv:Proverbs:3:22",
+        "t": "So*p shall they be life unto thy soul, and grace to thy neck."
+    },
+    {
+        "o": 17248,
+        "r": "kjv:Proverbs:3:23",
+        "t": "Then*p shalt thou walk in thy way safely, and thy foot shall not stumble."
+    },
+    {
+        "o": 17249,
+        "r": "kjv:Proverbs:3:24",
+        "t": "When*p thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet."
+    },
+    {
+        "o": 17250,
+        "r": "kjv:Proverbs:3:25",
+        "t": "Be*p not afraid of sudden fear, neither of the desolation of the wicked, when it cometh."
+    },
+    {
+        "o": 17251,
+        "r": "kjv:Proverbs:3:26",
+        "t": "For*p the Lord*s shall be thy confidence, and shall keep thy foot from being taken."
+    },
+    {
+        "o": 17252,
+        "r": "kjv:Proverbs:3:27",
+        "t": "Withhold*p not good from them to whom it is due, when it is in the power of thine hand to do it."
+    },
+    {
+        "o": 17253,
+        "r": "kjv:Proverbs:3:28",
+        "t": "Say*p not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee."
+    },
+    {
+        "o": 17254,
+        "r": "kjv:Proverbs:3:29",
+        "t": "Devise*p not evil against thy neighbour, seeing he dwelleth securely by thee."
+    },
+    {
+        "o": 17255,
+        "r": "kjv:Proverbs:3:30",
+        "t": "Strive*p not with a man without cause, if he have done thee no harm."
+    },
+    {
+        "o": 17256,
+        "r": "kjv:Proverbs:3:31",
+        "t": "Envy*p thou not the oppressor, and choose none of his ways."
+    },
+    {
+        "o": 17257,
+        "r": "kjv:Proverbs:3:32",
+        "t": "For*p the froward is abomination to the Lord:*s but his secret is with the righteous."
+    },
+    {
+        "o": 17258,
+        "r": "kjv:Proverbs:3:33",
+        "t": "The*p curse of the Lord*s is in the house of the wicked: but he blesseth the habitation of the just."
+    },
+    {
+        "o": 17259,
+        "r": "kjv:Proverbs:3:34",
+        "t": "Surely*p he scorneth the scorners: but he giveth grace unto the lowly."
+    },
+    {
+        "o": 17260,
+        "r": "kjv:Proverbs:3:35",
+        "t": "The*p wise shall inherit glory: but shame shall be the promotion of fools."
+    },
+    {
+        "o": 17261,
+        "r": "kjv:Proverbs:4:0",
+        "t": "Proverbs 4",
+        "h": 1
+    },
+    {
+        "o": 17262,
+        "r": "kjv:Proverbs:4:1",
+        "t": "Hear,*p ye children, the instruction of a father, and attend to know understanding."
+    },
+    {
+        "o": 17263,
+        "r": "kjv:Proverbs:4:2",
+        "t": "For*p I give you good doctrine, forsake ye not my law."
+    },
+    {
+        "o": 17264,
+        "r": "kjv:Proverbs:4:3",
+        "t": "For*p I was my father's son, tender and only beloved in the sight of my mother."
+    },
+    {
+        "o": 17265,
+        "r": "kjv:Proverbs:4:4",
+        "t": "He*p taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live."
+    },
+    {
+        "o": 17266,
+        "r": "kjv:Proverbs:4:5",
+        "t": "Get*p wisdom, get understanding: forget it not; neither decline from the words of my mouth."
+    },
+    {
+        "o": 17267,
+        "r": "kjv:Proverbs:4:6",
+        "t": "Forsake*p her not, and she shall preserve thee: love her, and she shall keep thee."
+    },
+    {
+        "o": 17268,
+        "r": "kjv:Proverbs:4:7",
+        "t": "Wisdom*p is the principal thing; therefore get wisdom: and with all thy getting get understanding."
+    },
+    {
+        "o": 17269,
+        "r": "kjv:Proverbs:4:8",
+        "t": "Exalt*p her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her."
+    },
+    {
+        "o": 17270,
+        "r": "kjv:Proverbs:4:9",
+        "t": "She*p shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee."
+    },
+    {
+        "o": 17271,
+        "r": "kjv:Proverbs:4:10",
+        "t": "Hear,*p O my son, and receive my sayings; and the years of thy life shall be many."
+    },
+    {
+        "o": 17272,
+        "r": "kjv:Proverbs:4:11",
+        "t": "I*p have taught thee in the way of wisdom; I have led thee in right paths."
+    },
+    {
+        "o": 17273,
+        "r": "kjv:Proverbs:4:12",
+        "t": "When*p thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble."
+    },
+    {
+        "o": 17274,
+        "r": "kjv:Proverbs:4:13",
+        "t": "Take*p fast hold of instruction; let her not go: keep her; for she is thy life."
+    },
+    {
+        "o": 17275,
+        "r": "kjv:Proverbs:4:14",
+        "t": "Enter*p not into the path of the wicked, and go not in the way of evil men."
+    },
+    {
+        "o": 17276,
+        "r": "kjv:Proverbs:4:15",
+        "t": "Avoid*p it, pass not by it, turn from it, and pass away."
+    },
+    {
+        "o": 17277,
+        "r": "kjv:Proverbs:4:16",
+        "t": "For*p they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall."
+    },
+    {
+        "o": 17278,
+        "r": "kjv:Proverbs:4:17",
+        "t": "For*p they eat the bread of wickedness, and drink the wine of violence."
+    },
+    {
+        "o": 17279,
+        "r": "kjv:Proverbs:4:18",
+        "t": "But*p the path of the just is as the shining light, that shineth more and more unto the perfect day."
+    },
+    {
+        "o": 17280,
+        "r": "kjv:Proverbs:4:19",
+        "t": "The*p way of the wicked is as darkness: they know not at what they stumble."
+    },
+    {
+        "o": 17281,
+        "r": "kjv:Proverbs:4:20",
+        "t": "My*p son, attend to my words; incline thine ear unto my sayings."
+    },
+    {
+        "o": 17282,
+        "r": "kjv:Proverbs:4:21",
+        "t": "Let*p them not depart from thine eyes; keep them in the midst of thine heart."
+    },
+    {
+        "o": 17283,
+        "r": "kjv:Proverbs:4:22",
+        "t": "For*p they are life unto those that find them, and health to all their flesh."
+    },
+    {
+        "o": 17284,
+        "r": "kjv:Proverbs:4:23",
+        "t": "Keep*p thy heart with all diligence; for out of it are the issues of life."
+    },
+    {
+        "o": 17285,
+        "r": "kjv:Proverbs:4:24",
+        "t": "Put*p away from thee a froward mouth, and perverse lips put far from thee."
+    },
+    {
+        "o": 17286,
+        "r": "kjv:Proverbs:4:25",
+        "t": "Let*p thine eyes look right on, and let thine eyelids look straight before thee."
+    },
+    {
+        "o": 17287,
+        "r": "kjv:Proverbs:4:26",
+        "t": "Ponder*p the path of thy feet, and let all thy ways be established."
+    },
+    {
+        "o": 17288,
+        "r": "kjv:Proverbs:4:27",
+        "t": "Turn*p not to the right hand nor to the left: remove thy foot from evil."
+    },
+    {
+        "o": 17289,
+        "r": "kjv:Proverbs:5:0",
+        "t": "Proverbs 5",
+        "h": 1
+    },
+    {
+        "o": 17290,
+        "r": "kjv:Proverbs:5:1",
+        "t": "My*p son, attend unto my wisdom, and bow thine ear to my understanding:"
+    },
+    {
+        "o": 17291,
+        "r": "kjv:Proverbs:5:2",
+        "t": "That*p thou mayest regard discretion, and that thy lips may keep knowledge."
+    },
+    {
+        "o": 17292,
+        "r": "kjv:Proverbs:5:3",
+        "t": "For*p the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:"
+    },
+    {
+        "o": 17293,
+        "r": "kjv:Proverbs:5:4",
+        "t": "But*p her end is bitter as wormwood, sharp as a twoedged sword."
+    },
+    {
+        "o": 17294,
+        "r": "kjv:Proverbs:5:5",
+        "t": "Her*p feet go down to death; her steps take hold on hell."
+    },
+    {
+        "o": 17295,
+        "r": "kjv:Proverbs:5:6",
+        "t": "Lest*p thou shouldest ponder the path of life, her ways are moveable, that thou canst not know them."
+    },
+    {
+        "o": 17296,
+        "r": "kjv:Proverbs:5:7",
+        "t": "Hear*p me now therefore, O ye children, and depart not from the words of my mouth."
+    },
+    {
+        "o": 17297,
+        "r": "kjv:Proverbs:5:8",
+        "t": "Remove*p thy way far from her, and come not nigh the door of her house:"
+    },
+    {
+        "o": 17298,
+        "r": "kjv:Proverbs:5:9",
+        "t": "Lest*p thou give thine honour unto others, and thy years unto the cruel:"
+    },
+    {
+        "o": 17299,
+        "r": "kjv:Proverbs:5:10",
+        "t": "Lest*p strangers be filled with thy wealth; and thy labours be in the house of a stranger;"
+    },
+    {
+        "o": 17300,
+        "r": "kjv:Proverbs:5:11",
+        "t": "And*p thou mourn at the last, when thy flesh and thy body are consumed,"
+    },
+    {
+        "o": 17301,
+        "r": "kjv:Proverbs:5:12",
+        "t": "And*p say, How have I hated instruction, and my heart despised reproof;"
+    },
+    {
+        "o": 17302,
+        "r": "kjv:Proverbs:5:13",
+        "t": "And*p have not obeyed the voice of my teachers, nor inclined mine ear to them that instructed me!"
+    },
+    {
+        "o": 17303,
+        "r": "kjv:Proverbs:5:14",
+        "t": "I*p was almost in all evil in the midst of the congregation and assembly."
+    },
+    {
+        "o": 17304,
+        "r": "kjv:Proverbs:5:15",
+        "t": "Drink*p waters out of thine own cistern, and running waters out of thine own well."
+    },
+    {
+        "o": 17305,
+        "r": "kjv:Proverbs:5:16",
+        "t": "Let*p thy fountains be dispersed abroad, and rivers of waters in the streets."
+    },
+    {
+        "o": 17306,
+        "r": "kjv:Proverbs:5:17",
+        "t": "Let*p them be only thine own, and not strangers' with thee."
+    },
+    {
+        "o": 17307,
+        "r": "kjv:Proverbs:5:18",
+        "t": "Let*p thy fountain be blessed: and rejoice with the wife of thy youth."
+    },
+    {
+        "o": 17308,
+        "r": "kjv:Proverbs:5:19",
+        "t": "Let*p her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love."
+    },
+    {
+        "o": 17309,
+        "r": "kjv:Proverbs:5:20",
+        "t": "And*p why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?"
+    },
+    {
+        "o": 17310,
+        "r": "kjv:Proverbs:5:21",
+        "t": "For*p the ways of man are before the eyes of the Lord,*s and he pondereth all his goings."
+    },
+    {
+        "o": 17311,
+        "r": "kjv:Proverbs:5:22",
+        "t": "His*p own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins."
+    },
+    {
+        "o": 17312,
+        "r": "kjv:Proverbs:5:23",
+        "t": "He*p shall die without instruction; and in the greatness of his folly he shall go astray."
+    },
+    {
+        "o": 17313,
+        "r": "kjv:Proverbs:6:0",
+        "t": "Proverbs 6",
+        "h": 1
+    },
+    {
+        "o": 17314,
+        "r": "kjv:Proverbs:6:1",
+        "t": "My*p son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,"
+    },
+    {
+        "o": 17315,
+        "r": "kjv:Proverbs:6:2",
+        "t": "Thou*p art snared with the words of thy mouth, thou art taken with the words of thy mouth."
+    },
+    {
+        "o": 17316,
+        "r": "kjv:Proverbs:6:3",
+        "t": "Do*p this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend."
+    },
+    {
+        "o": 17317,
+        "r": "kjv:Proverbs:6:4",
+        "t": "Give*p not sleep to thine eyes, nor slumber to thine eyelids."
+    },
+    {
+        "o": 17318,
+        "r": "kjv:Proverbs:6:5",
+        "t": "Deliver*p thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler."
+    },
+    {
+        "o": 17319,
+        "r": "kjv:Proverbs:6:6",
+        "t": "Go*p to the ant, thou sluggard; consider her ways, and be wise:"
+    },
+    {
+        "o": 17320,
+        "r": "kjv:Proverbs:6:7",
+        "t": "Which*p having no guide, overseer, or ruler,"
+    },
+    {
+        "o": 17321,
+        "r": "kjv:Proverbs:6:8",
+        "t": "Provideth*p her meat in the summer, and gathereth her food in the harvest."
+    },
+    {
+        "o": 17322,
+        "r": "kjv:Proverbs:6:9",
+        "t": "How*p long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?"
+    },
+    {
+        "o": 17323,
+        "r": "kjv:Proverbs:6:10",
+        "t": "Yet*p a little sleep, a little slumber, a little folding of the hands to sleep:"
+    },
+    {
+        "o": 17324,
+        "r": "kjv:Proverbs:6:11",
+        "t": "So*p shall thy poverty come as one that travelleth, and thy want as an armed man."
+    },
+    {
+        "o": 17325,
+        "r": "kjv:Proverbs:6:12",
+        "t": "A*p naughty person, a wicked man, walketh with a froward mouth."
+    },
+    {
+        "o": 17326,
+        "r": "kjv:Proverbs:6:13",
+        "t": "He*p winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;"
+    },
+    {
+        "o": 17327,
+        "r": "kjv:Proverbs:6:14",
+        "t": "Frowardness*p is in his heart, he deviseth mischief continually; he soweth discord."
+    },
+    {
+        "o": 17328,
+        "r": "kjv:Proverbs:6:15",
+        "t": "Therefore*p shall his calamity come suddenly; suddenly shall he be broken without remedy."
+    },
+    {
+        "o": 17329,
+        "r": "kjv:Proverbs:6:16",
+        "t": "These*p six things doth the Lord*s hate: yea, seven are an abomination unto him:"
+    },
+    {
+        "o": 17330,
+        "r": "kjv:Proverbs:6:17",
+        "t": "A*p proud look, a lying tongue, and hands that shed innocent blood,"
+    },
+    {
+        "o": 17331,
+        "r": "kjv:Proverbs:6:18",
+        "t": "An*p heart that deviseth wicked imaginations, feet that be swift in running to mischief,"
+    },
+    {
+        "o": 17332,
+        "r": "kjv:Proverbs:6:19",
+        "t": "A*p false witness that speaketh lies, and he that soweth discord among brethren."
+    },
+    {
+        "o": 17333,
+        "r": "kjv:Proverbs:6:20",
+        "t": "My*p son, keep thy father's commandment, and forsake not the law of thy mother:"
+    },
+    {
+        "o": 17334,
+        "r": "kjv:Proverbs:6:21",
+        "t": "Bind*p them continually upon thine heart, and tie them about thy neck."
+    },
+    {
+        "o": 17335,
+        "r": "kjv:Proverbs:6:22",
+        "t": "When*p thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee."
+    },
+    {
+        "o": 17336,
+        "r": "kjv:Proverbs:6:23",
+        "t": "For*p the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:"
+    },
+    {
+        "o": 17337,
+        "r": "kjv:Proverbs:6:24",
+        "t": "To*p keep thee from the evil woman, from the flattery of the tongue of a strange woman."
+    },
+    {
+        "o": 17338,
+        "r": "kjv:Proverbs:6:25",
+        "t": "Lust*p not after her beauty in thine heart; neither let her take thee with her eyelids."
+    },
+    {
+        "o": 17339,
+        "r": "kjv:Proverbs:6:26",
+        "t": "For*p by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life."
+    },
+    {
+        "o": 17340,
+        "r": "kjv:Proverbs:6:27",
+        "t": "Can*p a man take fire in his bosom, and his clothes not be burned?"
+    },
+    {
+        "o": 17341,
+        "r": "kjv:Proverbs:6:28",
+        "t": "Can*p one go upon hot coals, and his feet not be burned?"
+    },
+    {
+        "o": 17342,
+        "r": "kjv:Proverbs:6:29",
+        "t": "So*p he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent."
+    },
+    {
+        "o": 17343,
+        "r": "kjv:Proverbs:6:30",
+        "t": "Men*p do not despise a thief, if he steal to satisfy his soul when he is hungry;"
+    },
+    {
+        "o": 17344,
+        "r": "kjv:Proverbs:6:31",
+        "t": "But*p if he be found, he shall restore sevenfold; he shall give all the substance of his house."
+    },
+    {
+        "o": 17345,
+        "r": "kjv:Proverbs:6:32",
+        "t": "But*p whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul."
+    },
+    {
+        "o": 17346,
+        "r": "kjv:Proverbs:6:33",
+        "t": "A*p wound and dishonour shall he get; and his reproach shall not be wiped away."
+    },
+    {
+        "o": 17347,
+        "r": "kjv:Proverbs:6:34",
+        "t": "For*p jealousy is the rage of a man: therefore he will not spare in the day of vengeance."
+    },
+    {
+        "o": 17348,
+        "r": "kjv:Proverbs:6:35",
+        "t": "He*p will not regard any ransom; neither will he rest content, though thou givest many gifts."
+    },
+    {
+        "o": 17349,
+        "r": "kjv:Proverbs:7:0",
+        "t": "Proverbs 7",
+        "h": 1
+    },
+    {
+        "o": 17350,
+        "r": "kjv:Proverbs:7:1",
+        "t": "My*p son, keep my words, and lay up my commandments with thee."
+    },
+    {
+        "o": 17351,
+        "r": "kjv:Proverbs:7:2",
+        "t": "Keep*p my commandments, and live; and my law as the apple of thine eye."
+    },
+    {
+        "o": 17352,
+        "r": "kjv:Proverbs:7:3",
+        "t": "Bind*p them upon thy fingers, write them upon the table of thine heart."
+    },
+    {
+        "o": 17353,
+        "r": "kjv:Proverbs:7:4",
+        "t": "Say*p unto wisdom, Thou art my sister; and call understanding thy kinswoman:"
+    },
+    {
+        "o": 17354,
+        "r": "kjv:Proverbs:7:5",
+        "t": "That*p they may keep thee from the strange woman, from the stranger which flattereth with her words."
+    },
+    {
+        "o": 17355,
+        "r": "kjv:Proverbs:7:6",
+        "t": "For*p at the window of my house I looked through my casement,"
+    },
+    {
+        "o": 17356,
+        "r": "kjv:Proverbs:7:7",
+        "t": "And*p beheld among the simple ones, I discerned among the youths, a young man void of understanding,"
+    },
+    {
+        "o": 17357,
+        "r": "kjv:Proverbs:7:8",
+        "t": "Passing*p through the street near her corner; and he went the way to her house,"
+    },
+    {
+        "o": 17358,
+        "r": "kjv:Proverbs:7:9",
+        "t": "In*p the twilight, in the evening, in the black and dark night:"
+    },
+    {
+        "o": 17359,
+        "r": "kjv:Proverbs:7:10",
+        "t": "And,*p behold, there met him a woman with the attire of an harlot, and subtil of heart."
+    },
+    {
+        "o": 17360,
+        "r": "kjv:Proverbs:7:11",
+        "t": "(She*p is loud and stubborn; her feet abide not in her house:"
+    },
+    {
+        "o": 17361,
+        "r": "kjv:Proverbs:7:12",
+        "t": "Now*p is she without, now in the streets, and lieth in wait at every corner.)"
+    },
+    {
+        "o": 17362,
+        "r": "kjv:Proverbs:7:13",
+        "t": "So*p she caught him, and kissed him, and with an impudent face said unto him,"
+    },
+    {
+        "o": 17363,
+        "r": "kjv:Proverbs:7:14",
+        "t": "I*p have peace offerings with me; this day have I payed my vows."
+    },
+    {
+        "o": 17364,
+        "r": "kjv:Proverbs:7:15",
+        "t": "Therefore*p came I forth to meet thee, diligently to seek thy face, and I have found thee."
+    },
+    {
+        "o": 17365,
+        "r": "kjv:Proverbs:7:16",
+        "t": "I*p have decked my bed with coverings of tapestry, with carved works, with fine linen of Egypt."
+    },
+    {
+        "o": 17366,
+        "r": "kjv:Proverbs:7:17",
+        "t": "I*p have perfumed my bed with myrrh, aloes, and cinnamon."
+    },
+    {
+        "o": 17367,
+        "r": "kjv:Proverbs:7:18",
+        "t": "Come,*p let us take our fill of love until the morning: let us solace ourselves with loves."
+    },
+    {
+        "o": 17368,
+        "r": "kjv:Proverbs:7:19",
+        "t": "For*p the goodman is not at home, he is gone a long journey:"
+    },
+    {
+        "o": 17369,
+        "r": "kjv:Proverbs:7:20",
+        "t": "He*p hath taken a bag of money with him, and will come home at the day appointed."
+    },
+    {
+        "o": 17370,
+        "r": "kjv:Proverbs:7:21",
+        "t": "With*p her much fair speech she caused him to yield, with the flattering of her lips she forced him."
+    },
+    {
+        "o": 17371,
+        "r": "kjv:Proverbs:7:22",
+        "t": "He*p goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;"
+    },
+    {
+        "o": 17372,
+        "r": "kjv:Proverbs:7:23",
+        "t": "Till*p a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life."
+    },
+    {
+        "o": 17373,
+        "r": "kjv:Proverbs:7:24",
+        "t": "Hearken*p unto me now therefore, O ye children, and attend to the words of my mouth."
+    },
+    {
+        "o": 17374,
+        "r": "kjv:Proverbs:7:25",
+        "t": "Let*p not thine heart decline to her ways, go not astray in her paths."
+    },
+    {
+        "o": 17375,
+        "r": "kjv:Proverbs:7:26",
+        "t": "For*p she hath cast down many wounded: yea, many strong men have been slain by her."
+    },
+    {
+        "o": 17376,
+        "r": "kjv:Proverbs:7:27",
+        "t": "Her*p house is the way to hell, going down to the chambers of death."
+    },
+    {
+        "o": 17377,
+        "r": "kjv:Proverbs:8:0",
+        "t": "Proverbs 8",
+        "h": 1
+    },
+    {
+        "o": 17378,
+        "r": "kjv:Proverbs:8:1",
+        "t": "Doth*p not wisdom cry? and understanding put forth her voice?"
+    },
+    {
+        "o": 17379,
+        "r": "kjv:Proverbs:8:2",
+        "t": "She*p standeth in the top of high places, by the way in the places of the paths."
+    },
+    {
+        "o": 17380,
+        "r": "kjv:Proverbs:8:3",
+        "t": "She*p crieth at the gates, at the entry of the city, at the coming in at the doors."
+    },
+    {
+        "o": 17381,
+        "r": "kjv:Proverbs:8:4",
+        "t": "Unto*p you, O men, I call; and my voice is to the sons of man."
+    },
+    {
+        "o": 17382,
+        "r": "kjv:Proverbs:8:5",
+        "t": "O*p ye simple, understand wisdom: and, ye fools, be ye of an understanding heart."
+    },
+    {
+        "o": 17383,
+        "r": "kjv:Proverbs:8:6",
+        "t": "Hear;*p for I will speak of excellent things; and the opening of my lips shall be right things."
+    },
+    {
+        "o": 17384,
+        "r": "kjv:Proverbs:8:7",
+        "t": "For*p my mouth shall speak truth; and wickedness is an abomination to my lips."
+    },
+    {
+        "o": 17385,
+        "r": "kjv:Proverbs:8:8",
+        "t": "All*p the words of my mouth are in righteousness; there is nothing froward or perverse in them."
+    },
+    {
+        "o": 17386,
+        "r": "kjv:Proverbs:8:9",
+        "t": "They*p are all plain to him that understandeth, and right to them that find knowledge."
+    },
+    {
+        "o": 17387,
+        "r": "kjv:Proverbs:8:10",
+        "t": "Receive*p my instruction, and not silver; and knowledge rather than choice gold."
+    },
+    {
+        "o": 17388,
+        "r": "kjv:Proverbs:8:11",
+        "t": "For*p wisdom is better than rubies; and all the things that may be desired are not to be compared to it."
+    },
+    {
+        "o": 17389,
+        "r": "kjv:Proverbs:8:12",
+        "t": "I*p wisdom dwell with prudence, and find out knowledge of witty inventions."
+    },
+    {
+        "o": 17390,
+        "r": "kjv:Proverbs:8:13",
+        "t": "The*p fear of the Lord*s is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate."
+    },
+    {
+        "o": 17391,
+        "r": "kjv:Proverbs:8:14",
+        "t": "Counsel*p is mine, and sound wisdom: I am understanding; I have strength."
+    },
+    {
+        "o": 17392,
+        "r": "kjv:Proverbs:8:15",
+        "t": "By*p me kings reign, and princes decree justice."
+    },
+    {
+        "o": 17393,
+        "r": "kjv:Proverbs:8:16",
+        "t": "By*p me princes rule, and nobles, even all the judges of the earth."
+    },
+    {
+        "o": 17394,
+        "r": "kjv:Proverbs:8:17",
+        "t": "I*p love them that love me; and those that seek me early shall find me."
+    },
+    {
+        "o": 17395,
+        "r": "kjv:Proverbs:8:18",
+        "t": "Riches*p and honour are with me; yea, durable riches and righteousness."
+    },
+    {
+        "o": 17396,
+        "r": "kjv:Proverbs:8:19",
+        "t": "My*p fruit is better than gold, yea, than fine gold; and my revenue than choice silver."
+    },
+    {
+        "o": 17397,
+        "r": "kjv:Proverbs:8:20",
+        "t": "I*p lead in the way of righteousness, in the midst of the paths of judgment:"
+    },
+    {
+        "o": 17398,
+        "r": "kjv:Proverbs:8:21",
+        "t": "That*p I may cause those that love me to inherit substance; and I will fill their treasures."
+    },
+    {
+        "o": 17399,
+        "r": "kjv:Proverbs:8:22",
+        "t": "The*p Lord*s possessed me in the beginning of his way, before his works of old."
+    },
+    {
+        "o": 17400,
+        "r": "kjv:Proverbs:8:23",
+        "t": "I*p was set up from everlasting, from the beginning, or ever the earth was."
+    },
+    {
+        "o": 17401,
+        "r": "kjv:Proverbs:8:24",
+        "t": "When*p there were no depths, I was brought forth; when there were no fountains abounding with water."
+    },
+    {
+        "o": 17402,
+        "r": "kjv:Proverbs:8:25",
+        "t": "Before*p the mountains were settled, before the hills was I brought forth:"
+    },
+    {
+        "o": 17403,
+        "r": "kjv:Proverbs:8:26",
+        "t": "While*p as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world."
+    },
+    {
+        "o": 17404,
+        "r": "kjv:Proverbs:8:27",
+        "t": "When*p he prepared the heavens, I was there: when he set a compass upon the face of the depth:"
+    },
+    {
+        "o": 17405,
+        "r": "kjv:Proverbs:8:28",
+        "t": "When*p he established the clouds above: when he strengthened the fountains of the deep:"
+    },
+    {
+        "o": 17406,
+        "r": "kjv:Proverbs:8:29",
+        "t": "When*p he gave to the sea his decree, that the waters should not pass his commandment: when he appointed the foundations of the earth:"
+    },
+    {
+        "o": 17407,
+        "r": "kjv:Proverbs:8:30",
+        "t": "Then*p I was by him, as one brought up with him: and I was daily his delight, rejoicing always before him;"
+    },
+    {
+        "o": 17408,
+        "r": "kjv:Proverbs:8:31",
+        "t": "Rejoicing*p in the habitable part of his earth; and my delights were with the sons of men."
+    },
+    {
+        "o": 17409,
+        "r": "kjv:Proverbs:8:32",
+        "t": "Now*p therefore hearken unto me, O ye children: for blessed are they that keep my ways."
+    },
+    {
+        "o": 17410,
+        "r": "kjv:Proverbs:8:33",
+        "t": "Hear*p instruction, and be wise, and refuse it not."
+    },
+    {
+        "o": 17411,
+        "r": "kjv:Proverbs:8:34",
+        "t": "Blessed*p is the man that heareth me, watching daily at my gates, waiting at the posts of my doors."
+    },
+    {
+        "o": 17412,
+        "r": "kjv:Proverbs:8:35",
+        "t": "For*p whoso findeth me findeth life, and shall obtain favour of the Lord.*s"
+    },
+    {
+        "o": 17413,
+        "r": "kjv:Proverbs:8:36",
+        "t": "But*p he that sinneth against me wrongeth his own soul: all they that hate me love death."
+    },
+    {
+        "o": 17414,
+        "r": "kjv:Proverbs:9:0",
+        "t": "Proverbs 9",
+        "h": 1
+    },
+    {
+        "o": 17415,
+        "r": "kjv:Proverbs:9:1",
+        "t": "Wisdom*p hath builded her house, she hath hewn out her seven pillars:"
+    },
+    {
+        "o": 17416,
+        "r": "kjv:Proverbs:9:2",
+        "t": "She*p hath killed her beasts; she hath mingled her wine; she hath also furnished her table."
+    },
+    {
+        "o": 17417,
+        "r": "kjv:Proverbs:9:3",
+        "t": "She*p hath sent forth her maidens: she crieth upon the highest places of the city,"
+    },
+    {
+        "o": 17418,
+        "r": "kjv:Proverbs:9:4",
+        "t": "Whoso*p is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,"
+    },
+    {
+        "o": 17419,
+        "r": "kjv:Proverbs:9:5",
+        "t": "Come,*p eat of my bread, and drink of the wine which I have mingled."
+    },
+    {
+        "o": 17420,
+        "r": "kjv:Proverbs:9:6",
+        "t": "Forsake*p the foolish, and live; and go in the way of understanding."
+    },
+    {
+        "o": 17421,
+        "r": "kjv:Proverbs:9:7",
+        "t": "He*p that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot."
+    },
+    {
+        "o": 17422,
+        "r": "kjv:Proverbs:9:8",
+        "t": "Reprove*p not a scorner, lest he hate thee: rebuke a wise man, and he will love thee."
+    },
+    {
+        "o": 17423,
+        "r": "kjv:Proverbs:9:9",
+        "t": "Give*p instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning."
+    },
+    {
+        "o": 17424,
+        "r": "kjv:Proverbs:9:10",
+        "t": "The*p fear of the Lord*s is the beginning of wisdom: and the knowledge of the holy is understanding."
+    },
+    {
+        "o": 17425,
+        "r": "kjv:Proverbs:9:11",
+        "t": "For*p by me thy days shall be multiplied, and the years of thy life shall be increased."
+    },
+    {
+        "o": 17426,
+        "r": "kjv:Proverbs:9:12",
+        "t": "If*p thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it."
+    },
+    {
+        "o": 17427,
+        "r": "kjv:Proverbs:9:13",
+        "t": "A*p foolish woman is clamorous: she is simple, and knoweth nothing."
+    },
+    {
+        "o": 17428,
+        "r": "kjv:Proverbs:9:14",
+        "t": "For*p she sitteth at the door of her house, on a seat in the high places of the city,"
+    },
+    {
+        "o": 17429,
+        "r": "kjv:Proverbs:9:15",
+        "t": "To*p call passengers who go right on their ways:"
+    },
+    {
+        "o": 17430,
+        "r": "kjv:Proverbs:9:16",
+        "t": "Whoso*p is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,"
+    },
+    {
+        "o": 17431,
+        "r": "kjv:Proverbs:9:17",
+        "t": "Stolen*p waters are sweet, and bread eaten in secret is pleasant."
+    },
+    {
+        "o": 17432,
+        "r": "kjv:Proverbs:9:18",
+        "t": "But*p he knoweth not that the dead are there; and that her guests are in the depths of hell."
+    },
+    {
+        "o": 17433,
+        "r": "kjv:Proverbs:10:0",
+        "t": "Proverbs 10",
+        "h": 1
+    },
+    {
+        "o": 17434,
+        "r": "kjv:Proverbs:10:1",
+        "t": "The*p proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother."
+    },
+    {
+        "o": 17435,
+        "r": "kjv:Proverbs:10:2",
+        "t": "Treasures*p of wickedness profit nothing: but righteousness delivereth from death."
+    },
+    {
+        "o": 17436,
+        "r": "kjv:Proverbs:10:3",
+        "t": "The*p Lord*s will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked."
+    },
+    {
+        "o": 17437,
+        "r": "kjv:Proverbs:10:4",
+        "t": "He*p becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich."
+    },
+    {
+        "o": 17438,
+        "r": "kjv:Proverbs:10:5",
+        "t": "He*p that gathereth in summer is a wise son: but he that sleepeth in harvest is a son that causeth shame."
+    },
+    {
+        "o": 17439,
+        "r": "kjv:Proverbs:10:6",
+        "t": "Blessings*p are upon the head of the just: but violence covereth the mouth of the wicked."
+    },
+    {
+        "o": 17440,
+        "r": "kjv:Proverbs:10:7",
+        "t": "The*p memory of the just is blessed: but the name of the wicked shall rot."
+    },
+    {
+        "o": 17441,
+        "r": "kjv:Proverbs:10:8",
+        "t": "The*p wise in heart will receive commandments: but a prating fool shall fall."
+    },
+    {
+        "o": 17442,
+        "r": "kjv:Proverbs:10:9",
+        "t": "He*p that walketh uprightly walketh surely: but he that perverteth his ways shall be known."
+    },
+    {
+        "o": 17443,
+        "r": "kjv:Proverbs:10:10",
+        "t": "He*p that winketh with the eye causeth sorrow: but a prating fool shall fall."
+    },
+    {
+        "o": 17444,
+        "r": "kjv:Proverbs:10:11",
+        "t": "The*p mouth of a righteous man is a well of life: but violence covereth the mouth of the wicked."
+    },
+    {
+        "o": 17445,
+        "r": "kjv:Proverbs:10:12",
+        "t": "Hatred*p stirreth up strifes: but love covereth all sins."
+    },
+    {
+        "o": 17446,
+        "r": "kjv:Proverbs:10:13",
+        "t": "In*p the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding."
+    },
+    {
+        "o": 17447,
+        "r": "kjv:Proverbs:10:14",
+        "t": "Wise*p men lay up knowledge: but the mouth of the foolish is near destruction."
+    },
+    {
+        "o": 17448,
+        "r": "kjv:Proverbs:10:15",
+        "t": "The*p rich man's wealth is his strong city: the destruction of the poor is their poverty."
+    },
+    {
+        "o": 17449,
+        "r": "kjv:Proverbs:10:16",
+        "t": "The*p labour of the righteous tendeth to life: the fruit of the wicked to sin."
+    },
+    {
+        "o": 17450,
+        "r": "kjv:Proverbs:10:17",
+        "t": "He*p is in the way of life that keepeth instruction: but he that refuseth reproof erreth."
+    },
+    {
+        "o": 17451,
+        "r": "kjv:Proverbs:10:18",
+        "t": "He*p that hideth hatred with lying lips, and he that uttereth a slander, is a fool."
+    },
+    {
+        "o": 17452,
+        "r": "kjv:Proverbs:10:19",
+        "t": "In*p the multitude of words there wanteth not sin: but he that refraineth his lips is wise."
+    },
+    {
+        "o": 17453,
+        "r": "kjv:Proverbs:10:20",
+        "t": "The*p tongue of the just is as choice silver: the heart of the wicked is little worth."
+    },
+    {
+        "o": 17454,
+        "r": "kjv:Proverbs:10:21",
+        "t": "The*p lips of the righteous feed many: but fools die for want of wisdom."
+    },
+    {
+        "o": 17455,
+        "r": "kjv:Proverbs:10:22",
+        "t": "The*p blessing of the Lord,*s it maketh rich, and he addeth no sorrow with it."
+    },
+    {
+        "o": 17456,
+        "r": "kjv:Proverbs:10:23",
+        "t": "It*p is as sport to a fool to do mischief: but a man of understanding hath wisdom."
+    },
+    {
+        "o": 17457,
+        "r": "kjv:Proverbs:10:24",
+        "t": "The*p fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted."
+    },
+    {
+        "o": 17458,
+        "r": "kjv:Proverbs:10:25",
+        "t": "As*p the whirlwind passeth, so is the wicked no more: but the righteous is an everlasting foundation."
+    },
+    {
+        "o": 17459,
+        "r": "kjv:Proverbs:10:26",
+        "t": "As*p vinegar to the teeth, and as smoke to the eyes, so is the sluggard to them that send him."
+    },
+    {
+        "o": 17460,
+        "r": "kjv:Proverbs:10:27",
+        "t": "The*p fear of the Lord*s prolongeth days: but the years of the wicked shall be shortened."
+    },
+    {
+        "o": 17461,
+        "r": "kjv:Proverbs:10:28",
+        "t": "The*p hope of the righteous shall be gladness: but the expectation of the wicked shall perish."
+    },
+    {
+        "o": 17462,
+        "r": "kjv:Proverbs:10:29",
+        "t": "The*p way of the Lord*s is strength to the upright: but destruction shall be to the workers of iniquity."
+    },
+    {
+        "o": 17463,
+        "r": "kjv:Proverbs:10:30",
+        "t": "The*p righteous shall never be removed: but the wicked shall not inhabit the earth."
+    },
+    {
+        "o": 17464,
+        "r": "kjv:Proverbs:10:31",
+        "t": "The*p mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out."
+    },
+    {
+        "o": 17465,
+        "r": "kjv:Proverbs:10:32",
+        "t": "The*p lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness."
+    },
+    {
+        "o": 17466,
+        "r": "kjv:Proverbs:11:0",
+        "t": "Proverbs 11",
+        "h": 1
+    },
+    {
+        "o": 17467,
+        "r": "kjv:Proverbs:11:1",
+        "t": "A*p false balance is abomination to the Lord:*s but a just weight is his delight."
+    },
+    {
+        "o": 17468,
+        "r": "kjv:Proverbs:11:2",
+        "t": "When*p pride cometh, then cometh shame: but with the lowly is wisdom."
+    },
+    {
+        "o": 17469,
+        "r": "kjv:Proverbs:11:3",
+        "t": "The*p integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them."
+    },
+    {
+        "o": 17470,
+        "r": "kjv:Proverbs:11:4",
+        "t": "Riches*p profit not in the day of wrath: but righteousness delivereth from death."
+    },
+    {
+        "o": 17471,
+        "r": "kjv:Proverbs:11:5",
+        "t": "The*p righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness."
+    },
+    {
+        "o": 17472,
+        "r": "kjv:Proverbs:11:6",
+        "t": "The*p righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness."
+    },
+    {
+        "o": 17473,
+        "r": "kjv:Proverbs:11:7",
+        "t": "When*p a wicked man dieth, his expectation shall perish: and the hope of unjust men perisheth."
+    },
+    {
+        "o": 17474,
+        "r": "kjv:Proverbs:11:8",
+        "t": "The*p righteous is delivered out of trouble, and the wicked cometh in his stead."
+    },
+    {
+        "o": 17475,
+        "r": "kjv:Proverbs:11:9",
+        "t": "An*p hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered."
+    },
+    {
+        "o": 17476,
+        "r": "kjv:Proverbs:11:10",
+        "t": "When*p it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting."
+    },
+    {
+        "o": 17477,
+        "r": "kjv:Proverbs:11:11",
+        "t": "By*p the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked."
+    },
+    {
+        "o": 17478,
+        "r": "kjv:Proverbs:11:12",
+        "t": "He*p that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace."
+    },
+    {
+        "o": 17479,
+        "r": "kjv:Proverbs:11:13",
+        "t": "A*p talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter."
+    },
+    {
+        "o": 17480,
+        "r": "kjv:Proverbs:11:14",
+        "t": "Where*p no counsel is, the people fall: but in the multitude of counsellors there is safety."
+    },
+    {
+        "o": 17481,
+        "r": "kjv:Proverbs:11:15",
+        "t": "He*p that is surety for a stranger shall smart for it: and he that hateth suretiship is sure."
+    },
+    {
+        "o": 17482,
+        "r": "kjv:Proverbs:11:16",
+        "t": "A*p gracious woman retaineth honour: and strong men retain riches."
+    },
+    {
+        "o": 17483,
+        "r": "kjv:Proverbs:11:17",
+        "t": "The*p merciful man doeth good to his own soul: but he that is cruel troubleth his own flesh."
+    },
+    {
+        "o": 17484,
+        "r": "kjv:Proverbs:11:18",
+        "t": "The*p wicked worketh a deceitful work: but to him that soweth righteousness shall be a sure reward."
+    },
+    {
+        "o": 17485,
+        "r": "kjv:Proverbs:11:19",
+        "t": "As*p righteousness tendeth to life: so he that pursueth evil pursueth it to his own death."
+    },
+    {
+        "o": 17486,
+        "r": "kjv:Proverbs:11:20",
+        "t": "They*p that are of a froward heart are abomination to the Lord:*s but such as are upright in their way are his delight."
+    },
+    {
+        "o": 17487,
+        "r": "kjv:Proverbs:11:21",
+        "t": "Though*p hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered."
+    },
+    {
+        "o": 17488,
+        "r": "kjv:Proverbs:11:22",
+        "t": "As*p a jewel of gold in a swine's snout, so is a fair woman which is without discretion."
+    },
+    {
+        "o": 17489,
+        "r": "kjv:Proverbs:11:23",
+        "t": "The*p desire of the righteous is only good: but the expectation of the wicked is wrath."
+    },
+    {
+        "o": 17490,
+        "r": "kjv:Proverbs:11:24",
+        "t": "There*p is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty."
+    },
+    {
+        "o": 17491,
+        "r": "kjv:Proverbs:11:25",
+        "t": "The*p liberal soul shall be made fat: and he that watereth shall be watered also himself."
+    },
+    {
+        "o": 17492,
+        "r": "kjv:Proverbs:11:26",
+        "t": "He*p that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it."
+    },
+    {
+        "o": 17493,
+        "r": "kjv:Proverbs:11:27",
+        "t": "He*p that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him."
+    },
+    {
+        "o": 17494,
+        "r": "kjv:Proverbs:11:28",
+        "t": "He*p that trusteth in his riches shall fall: but the righteous shall flourish as a branch."
+    },
+    {
+        "o": 17495,
+        "r": "kjv:Proverbs:11:29",
+        "t": "He*p that troubleth his own house shall inherit the wind: and the fool shall be servant to the wise of heart."
+    },
+    {
+        "o": 17496,
+        "r": "kjv:Proverbs:11:30",
+        "t": "The*p fruit of the righteous is a tree of life; and he that winneth souls is wise."
+    },
+    {
+        "o": 17497,
+        "r": "kjv:Proverbs:11:31",
+        "t": "Behold,*p the righteous shall be recompensed in the earth: much more the wicked and the sinner."
+    },
+    {
+        "o": 17498,
+        "r": "kjv:Proverbs:12:0",
+        "t": "Proverbs 12",
+        "h": 1
+    },
+    {
+        "o": 17499,
+        "r": "kjv:Proverbs:12:1",
+        "t": "Whoso*p loveth instruction loveth knowledge: but he that hateth reproof is brutish."
+    },
+    {
+        "o": 17500,
+        "r": "kjv:Proverbs:12:2",
+        "t": "A*p good man obtaineth favour of the Lord:*s but a man of wicked devices will he condemn."
+    },
+    {
+        "o": 17501,
+        "r": "kjv:Proverbs:12:3",
+        "t": "A*p man shall not be established by wickedness: but the root of the righteous shall not be moved."
+    },
+    {
+        "o": 17502,
+        "r": "kjv:Proverbs:12:4",
+        "t": "A*p virtuous woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones."
+    },
+    {
+        "o": 17503,
+        "r": "kjv:Proverbs:12:5",
+        "t": "The*p thoughts of the righteous are right: but the counsels of the wicked are deceit."
+    },
+    {
+        "o": 17504,
+        "r": "kjv:Proverbs:12:6",
+        "t": "The*p words of the wicked are to lie in wait for blood: but the mouth of the upright shall deliver them."
+    },
+    {
+        "o": 17505,
+        "r": "kjv:Proverbs:12:7",
+        "t": "The*p wicked are overthrown, and are not: but the house of the righteous shall stand."
+    },
+    {
+        "o": 17506,
+        "r": "kjv:Proverbs:12:8",
+        "t": "A*p man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised."
+    },
+    {
+        "o": 17507,
+        "r": "kjv:Proverbs:12:9",
+        "t": "He*p that is despised, and hath a servant, is better than he that honoureth himself, and lacketh bread."
+    },
+    {
+        "o": 17508,
+        "r": "kjv:Proverbs:12:10",
+        "t": "A*p righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel."
+    },
+    {
+        "o": 17509,
+        "r": "kjv:Proverbs:12:11",
+        "t": "He*p that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding."
+    },
+    {
+        "o": 17510,
+        "r": "kjv:Proverbs:12:12",
+        "t": "The*p wicked desireth the net of evil men: but the root of the righteous yieldeth fruit."
+    },
+    {
+        "o": 17511,
+        "r": "kjv:Proverbs:12:13",
+        "t": "The*p wicked is snared by the transgression of his lips: but the just shall come out of trouble."
+    },
+    {
+        "o": 17512,
+        "r": "kjv:Proverbs:12:14",
+        "t": "A*p man shall be satisfied with good by the fruit of his mouth: and the recompence of a man's hands shall be rendered unto him."
+    },
+    {
+        "o": 17513,
+        "r": "kjv:Proverbs:12:15",
+        "t": "The*p way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise."
+    },
+    {
+        "o": 17514,
+        "r": "kjv:Proverbs:12:16",
+        "t": "A*p fool's wrath is presently known: but a prudent man covereth shame."
+    },
+    {
+        "o": 17515,
+        "r": "kjv:Proverbs:12:17",
+        "t": "He*p that speaketh truth sheweth forth righteousness: but a false witness deceit."
+    },
+    {
+        "o": 17516,
+        "r": "kjv:Proverbs:12:18",
+        "t": "There*p is that speaketh like the piercings of a sword: but the tongue of the wise is health."
+    },
+    {
+        "o": 17517,
+        "r": "kjv:Proverbs:12:19",
+        "t": "The*p lip of truth shall be established for ever: but a lying tongue is but for a moment."
+    },
+    {
+        "o": 17518,
+        "r": "kjv:Proverbs:12:20",
+        "t": "Deceit*p is in the heart of them that imagine evil: but to the counsellors of peace is joy."
+    },
+    {
+        "o": 17519,
+        "r": "kjv:Proverbs:12:21",
+        "t": "There*p shall no evil happen to the just: but the wicked shall be filled with mischief."
+    },
+    {
+        "o": 17520,
+        "r": "kjv:Proverbs:12:22",
+        "t": "Lying*p lips are abomination to the Lord:*s but they that deal truly are his delight."
+    },
+    {
+        "o": 17521,
+        "r": "kjv:Proverbs:12:23",
+        "t": "A*p prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness."
+    },
+    {
+        "o": 17522,
+        "r": "kjv:Proverbs:12:24",
+        "t": "The*p hand of the diligent shall bear rule: but the slothful shall be under tribute."
+    },
+    {
+        "o": 17523,
+        "r": "kjv:Proverbs:12:25",
+        "t": "Heaviness*p in the heart of man maketh it stoop: but a good word maketh it glad."
+    },
+    {
+        "o": 17524,
+        "r": "kjv:Proverbs:12:26",
+        "t": "The*p righteous is more excellent than his neighbour: but the way of the wicked seduceth them."
+    },
+    {
+        "o": 17525,
+        "r": "kjv:Proverbs:12:27",
+        "t": "The*p slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious."
+    },
+    {
+        "o": 17526,
+        "r": "kjv:Proverbs:12:28",
+        "t": "In*p the way of righteousness is life; and in the pathway thereof there is no death."
+    },
+    {
+        "o": 17527,
+        "r": "kjv:Proverbs:13:0",
+        "t": "Proverbs 13",
+        "h": 1
+    },
+    {
+        "o": 17528,
+        "r": "kjv:Proverbs:13:1",
+        "t": "A*p wise son heareth his father's instruction: but a scorner heareth not rebuke."
+    },
+    {
+        "o": 17529,
+        "r": "kjv:Proverbs:13:2",
+        "t": "A*p man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence."
+    },
+    {
+        "o": 17530,
+        "r": "kjv:Proverbs:13:3",
+        "t": "He*p that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction."
+    },
+    {
+        "o": 17531,
+        "r": "kjv:Proverbs:13:4",
+        "t": "The*p soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat."
+    },
+    {
+        "o": 17532,
+        "r": "kjv:Proverbs:13:5",
+        "t": "A*p righteous man hateth lying: but a wicked man is loathsome, and cometh to shame."
+    },
+    {
+        "o": 17533,
+        "r": "kjv:Proverbs:13:6",
+        "t": "Righteousness*p keepeth him that is upright in the way: but wickedness overthroweth the sinner."
+    },
+    {
+        "o": 17534,
+        "r": "kjv:Proverbs:13:7",
+        "t": "There*p is that maketh himself rich, yet hath nothing: there is that maketh himself poor, yet hath great riches."
+    },
+    {
+        "o": 17535,
+        "r": "kjv:Proverbs:13:8",
+        "t": "The*p ransom of a man's life are his riches: but the poor heareth not rebuke."
+    },
+    {
+        "o": 17536,
+        "r": "kjv:Proverbs:13:9",
+        "t": "The*p light of the righteous rejoiceth: but the lamp of the wicked shall be put out."
+    },
+    {
+        "o": 17537,
+        "r": "kjv:Proverbs:13:10",
+        "t": "Only*p by pride cometh contention: but with the well advised is wisdom."
+    },
+    {
+        "o": 17538,
+        "r": "kjv:Proverbs:13:11",
+        "t": "Wealth*p gotten by vanity shall be diminished: but he that gathereth by labour shall increase."
+    },
+    {
+        "o": 17539,
+        "r": "kjv:Proverbs:13:12",
+        "t": "Hope*p deferred maketh the heart sick: but when the desire cometh, it is a tree of life."
+    },
+    {
+        "o": 17540,
+        "r": "kjv:Proverbs:13:13",
+        "t": "Whoso*p despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded."
+    },
+    {
+        "o": 17541,
+        "r": "kjv:Proverbs:13:14",
+        "t": "The*p law of the wise is a fountain of life, to depart from the snares of death."
+    },
+    {
+        "o": 17542,
+        "r": "kjv:Proverbs:13:15",
+        "t": "Good*p understanding giveth favour: but the way of transgressors is hard."
+    },
+    {
+        "o": 17543,
+        "r": "kjv:Proverbs:13:16",
+        "t": "Every*p prudent man dealeth with knowledge: but a fool layeth open his folly."
+    },
+    {
+        "o": 17544,
+        "r": "kjv:Proverbs:13:17",
+        "t": "A*p wicked messenger falleth into mischief: but a faithful ambassador is health."
+    },
+    {
+        "o": 17545,
+        "r": "kjv:Proverbs:13:18",
+        "t": "Poverty*p and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured."
+    },
+    {
+        "o": 17546,
+        "r": "kjv:Proverbs:13:19",
+        "t": "The*p desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil."
+    },
+    {
+        "o": 17547,
+        "r": "kjv:Proverbs:13:20",
+        "t": "He*p that walketh with wise men shall be wise: but a companion of fools shall be destroyed."
+    },
+    {
+        "o": 17548,
+        "r": "kjv:Proverbs:13:21",
+        "t": "Evil*p pursueth sinners: but to the righteous good shall be repayed."
+    },
+    {
+        "o": 17549,
+        "r": "kjv:Proverbs:13:22",
+        "t": "A*p good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just."
+    },
+    {
+        "o": 17550,
+        "r": "kjv:Proverbs:13:23",
+        "t": "Much*p food is in the tillage of the poor: but there is that is destroyed for want of judgment."
+    },
+    {
+        "o": 17551,
+        "r": "kjv:Proverbs:13:24",
+        "t": "He*p that spareth his rod hateth his son: but he that loveth him chasteneth him betimes."
+    },
+    {
+        "o": 17552,
+        "r": "kjv:Proverbs:13:25",
+        "t": "The*p righteous eateth to the satisfying of his soul: but the belly of the wicked shall want."
+    },
+    {
+        "o": 17553,
+        "r": "kjv:Proverbs:14:0",
+        "t": "Proverbs 14",
+        "h": 1
+    },
+    {
+        "o": 17554,
+        "r": "kjv:Proverbs:14:1",
+        "t": "Every*p wise woman buildeth her house: but the foolish plucketh it down with her hands."
+    },
+    {
+        "o": 17555,
+        "r": "kjv:Proverbs:14:2",
+        "t": "He*p that walketh in his uprightness feareth the Lord:*s but he that is perverse in his ways despiseth him."
+    },
+    {
+        "o": 17556,
+        "r": "kjv:Proverbs:14:3",
+        "t": "In*p the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them."
+    },
+    {
+        "o": 17557,
+        "r": "kjv:Proverbs:14:4",
+        "t": "Where*p no oxen are, the crib is clean: but much increase is by the strength of the ox."
+    },
+    {
+        "o": 17558,
+        "r": "kjv:Proverbs:14:5",
+        "t": "A*p faithful witness will not lie: but a false witness will utter lies."
+    },
+    {
+        "o": 17559,
+        "r": "kjv:Proverbs:14:6",
+        "t": "A*p scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth."
+    },
+    {
+        "o": 17560,
+        "r": "kjv:Proverbs:14:7",
+        "t": "Go*p from the presence of a foolish man, when thou perceivest not in him the lips of knowledge."
+    },
+    {
+        "o": 17561,
+        "r": "kjv:Proverbs:14:8",
+        "t": "The*p wisdom of the prudent is to understand his way: but the folly of fools is deceit."
+    },
+    {
+        "o": 17562,
+        "r": "kjv:Proverbs:14:9",
+        "t": "Fools*p make a mock at sin: but among the righteous there is favour."
+    },
+    {
+        "o": 17563,
+        "r": "kjv:Proverbs:14:10",
+        "t": "The*p heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy."
+    },
+    {
+        "o": 17564,
+        "r": "kjv:Proverbs:14:11",
+        "t": "The*p house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish."
+    },
+    {
+        "o": 17565,
+        "r": "kjv:Proverbs:14:12",
+        "t": "There*p is a way which seemeth right unto a man, but the end thereof are the ways of death."
+    },
+    {
+        "o": 17566,
+        "r": "kjv:Proverbs:14:13",
+        "t": "Even*p in laughter the heart is sorrowful; and the end of that mirth is heaviness."
+    },
+    {
+        "o": 17567,
+        "r": "kjv:Proverbs:14:14",
+        "t": "The*p backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself."
+    },
+    {
+        "o": 17568,
+        "r": "kjv:Proverbs:14:15",
+        "t": "The*p simple believeth every word: but the prudent man looketh well to his going."
+    },
+    {
+        "o": 17569,
+        "r": "kjv:Proverbs:14:16",
+        "t": "A*p wise man feareth, and departeth from evil: but the fool rageth, and is confident."
+    },
+    {
+        "o": 17570,
+        "r": "kjv:Proverbs:14:17",
+        "t": "He*p that is soon angry dealeth foolishly: and a man of wicked devices is hated."
+    },
+    {
+        "o": 17571,
+        "r": "kjv:Proverbs:14:18",
+        "t": "The*p simple inherit folly: but the prudent are crowned with knowledge."
+    },
+    {
+        "o": 17572,
+        "r": "kjv:Proverbs:14:19",
+        "t": "The*p evil bow before the good; and the wicked at the gates of the righteous."
+    },
+    {
+        "o": 17573,
+        "r": "kjv:Proverbs:14:20",
+        "t": "The*p poor is hated even of his own neighbour: but the rich hath many friends."
+    },
+    {
+        "o": 17574,
+        "r": "kjv:Proverbs:14:21",
+        "t": "He*p that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he."
+    },
+    {
+        "o": 17575,
+        "r": "kjv:Proverbs:14:22",
+        "t": "Do*p they not err that devise evil? but mercy and truth shall be to them that devise good."
+    },
+    {
+        "o": 17576,
+        "r": "kjv:Proverbs:14:23",
+        "t": "In*p all labour there is profit: but the talk of the lips tendeth only to penury."
+    },
+    {
+        "o": 17577,
+        "r": "kjv:Proverbs:14:24",
+        "t": "The*p crown of the wise is their riches: but the foolishness of fools is folly."
+    },
+    {
+        "o": 17578,
+        "r": "kjv:Proverbs:14:25",
+        "t": "A*p true witness delivereth souls: but a deceitful witness speaketh lies."
+    },
+    {
+        "o": 17579,
+        "r": "kjv:Proverbs:14:26",
+        "t": "In*p the fear of the Lord*s is strong confidence: and his children shall have a place of refuge."
+    },
+    {
+        "o": 17580,
+        "r": "kjv:Proverbs:14:27",
+        "t": "The*p fear of the Lord*s is a fountain of life, to depart from the snares of death."
+    },
+    {
+        "o": 17581,
+        "r": "kjv:Proverbs:14:28",
+        "t": "In*p the multitude of people is the king's honour: but in the want of people is the destruction of the prince."
+    },
+    {
+        "o": 17582,
+        "r": "kjv:Proverbs:14:29",
+        "t": "He*p that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly."
+    },
+    {
+        "o": 17583,
+        "r": "kjv:Proverbs:14:30",
+        "t": "A*p sound heart is the life of the flesh: but envy the rottenness of the bones."
+    },
+    {
+        "o": 17584,
+        "r": "kjv:Proverbs:14:31",
+        "t": "He*p that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor."
+    },
+    {
+        "o": 17585,
+        "r": "kjv:Proverbs:14:32",
+        "t": "The*p wicked is driven away in his wickedness: but the righteous hath hope in his death."
+    },
+    {
+        "o": 17586,
+        "r": "kjv:Proverbs:14:33",
+        "t": "Wisdom*p resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known."
+    },
+    {
+        "o": 17587,
+        "r": "kjv:Proverbs:14:34",
+        "t": "Righteousness*p exalteth a nation: but sin is a reproach to any people."
+    },
+    {
+        "o": 17588,
+        "r": "kjv:Proverbs:14:35",
+        "t": "The*p king's favour is toward a wise servant: but his wrath is against him that causeth shame."
+    },
+    {
+        "o": 17589,
+        "r": "kjv:Proverbs:15:0",
+        "t": "Proverbs 15",
+        "h": 1
+    },
+    {
+        "o": 17590,
+        "r": "kjv:Proverbs:15:1",
+        "t": "A*p soft answer turneth away wrath: but grievous words stir up anger."
+    },
+    {
+        "o": 17591,
+        "r": "kjv:Proverbs:15:2",
+        "t": "The*p tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness."
+    },
+    {
+        "o": 17592,
+        "r": "kjv:Proverbs:15:3",
+        "t": "The*p eyes of the Lord*s are in every place, beholding the evil and the good."
+    },
+    {
+        "o": 17593,
+        "r": "kjv:Proverbs:15:4",
+        "t": "A*p wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit."
+    },
+    {
+        "o": 17594,
+        "r": "kjv:Proverbs:15:5",
+        "t": "A*p fool despiseth his father's instruction: but he that regardeth reproof is prudent."
+    },
+    {
+        "o": 17595,
+        "r": "kjv:Proverbs:15:6",
+        "t": "In*p the house of the righteous is much treasure: but in the revenues of the wicked is trouble."
+    },
+    {
+        "o": 17596,
+        "r": "kjv:Proverbs:15:7",
+        "t": "The*p lips of the wise disperse knowledge: but the heart of the foolish doeth not so."
+    },
+    {
+        "o": 17597,
+        "r": "kjv:Proverbs:15:8",
+        "t": "The*p sacrifice of the wicked is an abomination to the Lord:*s but the prayer of the upright is his delight."
+    },
+    {
+        "o": 17598,
+        "r": "kjv:Proverbs:15:9",
+        "t": "The*p way of the wicked is an abomination unto the Lord:*s but he loveth him that followeth after righteousness."
+    },
+    {
+        "o": 17599,
+        "r": "kjv:Proverbs:15:10",
+        "t": "Correction*p is grievous unto him that forsaketh the way: and he that hateth reproof shall die."
+    },
+    {
+        "o": 17600,
+        "r": "kjv:Proverbs:15:11",
+        "t": "Hell*p and destruction are before the Lord:*s how much more then the hearts of the children of men?"
+    },
+    {
+        "o": 17601,
+        "r": "kjv:Proverbs:15:12",
+        "t": "A*p scorner loveth not one that reproveth him: neither will he go unto the wise."
+    },
+    {
+        "o": 17602,
+        "r": "kjv:Proverbs:15:13",
+        "t": "A*p merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken."
+    },
+    {
+        "o": 17603,
+        "r": "kjv:Proverbs:15:14",
+        "t": "The*p heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness."
+    },
+    {
+        "o": 17604,
+        "r": "kjv:Proverbs:15:15",
+        "t": "All*p the days of the afflicted are evil: but he that is of a merry heart hath a continual feast."
+    },
+    {
+        "o": 17605,
+        "r": "kjv:Proverbs:15:16",
+        "t": "Better*p is little with the fear of the Lord*s than great treasure and trouble therewith."
+    },
+    {
+        "o": 17606,
+        "r": "kjv:Proverbs:15:17",
+        "t": "Better*p is a dinner of herbs where love is, than a stalled ox and hatred therewith."
+    },
+    {
+        "o": 17607,
+        "r": "kjv:Proverbs:15:18",
+        "t": "A*p wrathful man stirreth up strife: but he that is slow to anger appeaseth strife."
+    },
+    {
+        "o": 17608,
+        "r": "kjv:Proverbs:15:19",
+        "t": "The*p way of the slothful man is as an hedge of thorns: but the way of the righteous is made plain."
+    },
+    {
+        "o": 17609,
+        "r": "kjv:Proverbs:15:20",
+        "t": "A*p wise son maketh a glad father: but a foolish man despiseth his mother."
+    },
+    {
+        "o": 17610,
+        "r": "kjv:Proverbs:15:21",
+        "t": "Folly*p is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly."
+    },
+    {
+        "o": 17611,
+        "r": "kjv:Proverbs:15:22",
+        "t": "Without*p counsel purposes are disappointed: but in the multitude of counsellors they are established."
+    },
+    {
+        "o": 17612,
+        "r": "kjv:Proverbs:15:23",
+        "t": "A*p man hath joy by the answer of his mouth: and a word spoken in due season, how good is it!"
+    },
+    {
+        "o": 17613,
+        "r": "kjv:Proverbs:15:24",
+        "t": "The*p way of life is above to the wise, that he may depart from hell beneath."
+    },
+    {
+        "o": 17614,
+        "r": "kjv:Proverbs:15:25",
+        "t": "The*p Lord*s will destroy the house of the proud: but he will establish the border of the widow."
+    },
+    {
+        "o": 17615,
+        "r": "kjv:Proverbs:15:26",
+        "t": "The*p thoughts of the wicked are an abomination to the Lord:*s but the words of the pure are pleasant words."
+    },
+    {
+        "o": 17616,
+        "r": "kjv:Proverbs:15:27",
+        "t": "He*p that is greedy of gain troubleth his own house; but he that hateth gifts shall live."
+    },
+    {
+        "o": 17617,
+        "r": "kjv:Proverbs:15:28",
+        "t": "The*p heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things."
+    },
+    {
+        "o": 17618,
+        "r": "kjv:Proverbs:15:29",
+        "t": "The*p Lord*s is far from the wicked: but he heareth the prayer of the righteous."
+    },
+    {
+        "o": 17619,
+        "r": "kjv:Proverbs:15:30",
+        "t": "The*p light of the eyes rejoiceth the heart: and a good report maketh the bones fat."
+    },
+    {
+        "o": 17620,
+        "r": "kjv:Proverbs:15:31",
+        "t": "The*p ear that heareth the reproof of life abideth among the wise."
+    },
+    {
+        "o": 17621,
+        "r": "kjv:Proverbs:15:32",
+        "t": "He*p that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding."
+    },
+    {
+        "o": 17622,
+        "r": "kjv:Proverbs:15:33",
+        "t": "The*p fear of the Lord*s is the instruction of wisdom; and before honour is humility."
+    },
+    {
+        "o": 17623,
+        "r": "kjv:Proverbs:16:0",
+        "t": "Proverbs 16",
+        "h": 1
+    },
+    {
+        "o": 17624,
+        "r": "kjv:Proverbs:16:1",
+        "t": "The*p preparations of the heart in man, and the answer of the tongue, is from the Lord.*s"
+    },
+    {
+        "o": 17625,
+        "r": "kjv:Proverbs:16:2",
+        "t": "All*p the ways of a man are clean in his own eyes; but the Lord*s weigheth the spirits."
+    },
+    {
+        "o": 17626,
+        "r": "kjv:Proverbs:16:3",
+        "t": "Commit*p thy works unto the Lord,*s and thy thoughts shall be established."
+    },
+    {
+        "o": 17627,
+        "r": "kjv:Proverbs:16:4",
+        "t": "The*p Lord*s hath made all things for himself: yea, even the wicked for the day of evil."
+    },
+    {
+        "o": 17628,
+        "r": "kjv:Proverbs:16:5",
+        "t": "Every*p one that is proud in heart is an abomination to the Lord:*s though hand join in hand, he shall not be unpunished."
+    },
+    {
+        "o": 17629,
+        "r": "kjv:Proverbs:16:6",
+        "t": "By*p mercy and truth iniquity is purged: and by the fear of the Lord*s men depart from evil."
+    },
+    {
+        "o": 17630,
+        "r": "kjv:Proverbs:16:7",
+        "t": "When*p a man's ways please the Lord,*s he maketh even his enemies to be at peace with him."
+    },
+    {
+        "o": 17631,
+        "r": "kjv:Proverbs:16:8",
+        "t": "Better*p is a little with righteousness than great revenues without right."
+    },
+    {
+        "o": 17632,
+        "r": "kjv:Proverbs:16:9",
+        "t": "A*p man's heart deviseth his way: but the Lord*s directeth his steps."
+    },
+    {
+        "o": 17633,
+        "r": "kjv:Proverbs:16:10",
+        "t": "A*p divine sentence is in the lips of the king: his mouth transgresseth not in judgment."
+    },
+    {
+        "o": 17634,
+        "r": "kjv:Proverbs:16:11",
+        "t": "A*p just weight and balance are the Lord's:*s all the weights of the bag are his work."
+    },
+    {
+        "o": 17635,
+        "r": "kjv:Proverbs:16:12",
+        "t": "It*p is an abomination to kings to commit wickedness: for the throne is established by righteousness."
+    },
+    {
+        "o": 17636,
+        "r": "kjv:Proverbs:16:13",
+        "t": "Righteous*p lips are the delight of kings; and they love him that speaketh right."
+    },
+    {
+        "o": 17637,
+        "r": "kjv:Proverbs:16:14",
+        "t": "The*p wrath of a king is as messengers of death: but a wise man will pacify it."
+    },
+    {
+        "o": 17638,
+        "r": "kjv:Proverbs:16:15",
+        "t": "In*p the light of the king's countenance is life; and his favour is as a cloud of the latter rain."
+    },
+    {
+        "o": 17639,
+        "r": "kjv:Proverbs:16:16",
+        "t": "How*p much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!"
+    },
+    {
+        "o": 17640,
+        "r": "kjv:Proverbs:16:17",
+        "t": "The*p highway of the upright is to depart from evil: he that keepeth his way preserveth his soul."
+    },
+    {
+        "o": 17641,
+        "r": "kjv:Proverbs:16:18",
+        "t": "Pride*p goeth before destruction, and an haughty spirit before a fall."
+    },
+    {
+        "o": 17642,
+        "r": "kjv:Proverbs:16:19",
+        "t": "Better*p it is to be of an humble spirit with the lowly, than to divide the spoil with the proud."
+    },
+    {
+        "o": 17643,
+        "r": "kjv:Proverbs:16:20",
+        "t": "He*p that handleth a matter wisely shall find good: and whoso trusteth in the Lord,*s happy is he."
+    },
+    {
+        "o": 17644,
+        "r": "kjv:Proverbs:16:21",
+        "t": "The*p wise in heart shall be called prudent: and the sweetness of the lips increaseth learning."
+    },
+    {
+        "o": 17645,
+        "r": "kjv:Proverbs:16:22",
+        "t": "Understanding*p is a wellspring of life unto him that hath it: but the instruction of fools is folly."
+    },
+    {
+        "o": 17646,
+        "r": "kjv:Proverbs:16:23",
+        "t": "The*p heart of the wise teacheth his mouth, and addeth learning to his lips."
+    },
+    {
+        "o": 17647,
+        "r": "kjv:Proverbs:16:24",
+        "t": "Pleasant*p words are as an honeycomb, sweet to the soul, and health to the bones."
+    },
+    {
+        "o": 17648,
+        "r": "kjv:Proverbs:16:25",
+        "t": "There*p is a way that seemeth right unto a man, but the end thereof are the ways of death."
+    },
+    {
+        "o": 17649,
+        "r": "kjv:Proverbs:16:26",
+        "t": "He*p that laboureth laboureth for himself; for his mouth craveth it of him."
+    },
+    {
+        "o": 17650,
+        "r": "kjv:Proverbs:16:27",
+        "t": "An*p ungodly man diggeth up evil: and in his lips there is as a burning fire."
+    },
+    {
+        "o": 17651,
+        "r": "kjv:Proverbs:16:28",
+        "t": "A*p froward man soweth strife: and a whisperer separateth chief friends."
+    },
+    {
+        "o": 17652,
+        "r": "kjv:Proverbs:16:29",
+        "t": "A*p violent man enticeth his neighbour, and leadeth him into the way that is not good."
+    },
+    {
+        "o": 17653,
+        "r": "kjv:Proverbs:16:30",
+        "t": "He*p shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass."
+    },
+    {
+        "o": 17654,
+        "r": "kjv:Proverbs:16:31",
+        "t": "The*p hoary head is a crown of glory, if it be found in the way of righteousness."
+    },
+    {
+        "o": 17655,
+        "r": "kjv:Proverbs:16:32",
+        "t": "He*p that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city."
+    },
+    {
+        "o": 17656,
+        "r": "kjv:Proverbs:16:33",
+        "t": "The*p lot is cast into the lap; but the whole disposing thereof is of the Lord.*s"
+    },
+    {
+        "o": 17657,
+        "r": "kjv:Proverbs:17:0",
+        "t": "Proverbs 17",
+        "h": 1
+    },
+    {
+        "o": 17658,
+        "r": "kjv:Proverbs:17:1",
+        "t": "Better*p is a dry morsel, and quietness therewith, than an house full of sacrifices with strife."
+    },
+    {
+        "o": 17659,
+        "r": "kjv:Proverbs:17:2",
+        "t": "A*p wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren."
+    },
+    {
+        "o": 17660,
+        "r": "kjv:Proverbs:17:3",
+        "t": "The*p fining pot is for silver, and the furnace for gold: but the Lord*s trieth the hearts."
+    },
+    {
+        "o": 17661,
+        "r": "kjv:Proverbs:17:4",
+        "t": "A*p wicked doer giveth heed to false lips; and a liar giveth ear to a naughty tongue."
+    },
+    {
+        "o": 17662,
+        "r": "kjv:Proverbs:17:5",
+        "t": "Whoso*p mocketh the poor reproacheth his Maker: and he that is glad at calamities shall not be unpunished."
+    },
+    {
+        "o": 17663,
+        "r": "kjv:Proverbs:17:6",
+        "t": "Children's*p children are the crown of old men; and the glory of children are their fathers."
+    },
+    {
+        "o": 17664,
+        "r": "kjv:Proverbs:17:7",
+        "t": "Excellent*p speech becometh not a fool: much less do lying lips a prince."
+    },
+    {
+        "o": 17665,
+        "r": "kjv:Proverbs:17:8",
+        "t": "A*p gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth."
+    },
+    {
+        "o": 17666,
+        "r": "kjv:Proverbs:17:9",
+        "t": "He*p that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends."
+    },
+    {
+        "o": 17667,
+        "r": "kjv:Proverbs:17:10",
+        "t": "A*p reproof entereth more into a wise man than an hundred stripes into a fool."
+    },
+    {
+        "o": 17668,
+        "r": "kjv:Proverbs:17:11",
+        "t": "An*p evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him."
+    },
+    {
+        "o": 17669,
+        "r": "kjv:Proverbs:17:12",
+        "t": "Let*p a bear robbed of her whelps meet a man, rather than a fool in his folly."
+    },
+    {
+        "o": 17670,
+        "r": "kjv:Proverbs:17:13",
+        "t": "Whoso*p rewardeth evil for good, evil shall not depart from his house."
+    },
+    {
+        "o": 17671,
+        "r": "kjv:Proverbs:17:14",
+        "t": "The*p beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with."
+    },
+    {
+        "o": 17672,
+        "r": "kjv:Proverbs:17:15",
+        "t": "He*p that justifieth the wicked, and he that condemneth the just, even they both are abomination to the Lord.*s"
+    },
+    {
+        "o": 17673,
+        "r": "kjv:Proverbs:17:16",
+        "t": "Wherefore*p is there a price in the hand of a fool to get wisdom, seeing he hath no heart to it?"
+    },
+    {
+        "o": 17674,
+        "r": "kjv:Proverbs:17:17",
+        "t": "A*p friend loveth at all times, and a brother is born for adversity."
+    },
+    {
+        "o": 17675,
+        "r": "kjv:Proverbs:17:18",
+        "t": "A*p man void of understanding striketh hands, and becometh surety in the presence of his friend."
+    },
+    {
+        "o": 17676,
+        "r": "kjv:Proverbs:17:19",
+        "t": "He*p loveth transgression that loveth strife: and he that exalteth his gate seeketh destruction."
+    },
+    {
+        "o": 17677,
+        "r": "kjv:Proverbs:17:20",
+        "t": "He*p that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief."
+    },
+    {
+        "o": 17678,
+        "r": "kjv:Proverbs:17:21",
+        "t": "He*p that begetteth a fool doeth it to his sorrow: and the father of a fool hath no joy."
+    },
+    {
+        "o": 17679,
+        "r": "kjv:Proverbs:17:22",
+        "t": "A*p merry heart doeth good like a medicine: but a broken spirit drieth the bones."
+    },
+    {
+        "o": 17680,
+        "r": "kjv:Proverbs:17:23",
+        "t": "A*p wicked man taketh a gift out of the bosom to pervert the ways of judgment."
+    },
+    {
+        "o": 17681,
+        "r": "kjv:Proverbs:17:24",
+        "t": "Wisdom*p is before him that hath understanding; but the eyes of a fool are in the ends of the earth."
+    },
+    {
+        "o": 17682,
+        "r": "kjv:Proverbs:17:25",
+        "t": "A*p foolish son is a grief to his father, and bitterness to her that bare him."
+    },
+    {
+        "o": 17683,
+        "r": "kjv:Proverbs:17:26",
+        "t": "Also*p to punish the just is not good, nor to strike princes for equity."
+    },
+    {
+        "o": 17684,
+        "r": "kjv:Proverbs:17:27",
+        "t": "He*p that hath knowledge spareth his words: and a man of understanding is of an excellent spirit."
+    },
+    {
+        "o": 17685,
+        "r": "kjv:Proverbs:17:28",
+        "t": "Even*p a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding."
+    },
+    {
+        "o": 17686,
+        "r": "kjv:Proverbs:18:0",
+        "t": "Proverbs 18",
+        "h": 1
+    },
+    {
+        "o": 17687,
+        "r": "kjv:Proverbs:18:1",
+        "t": "Through*p desire a man, having separated himself, seeketh and intermeddleth with all wisdom."
+    },
+    {
+        "o": 17688,
+        "r": "kjv:Proverbs:18:2",
+        "t": "A*p fool hath no delight in understanding, but that his heart may discover itself."
+    },
+    {
+        "o": 17689,
+        "r": "kjv:Proverbs:18:3",
+        "t": "When*p the wicked cometh, then cometh also contempt, and with ignominy reproach."
+    },
+    {
+        "o": 17690,
+        "r": "kjv:Proverbs:18:4",
+        "t": "The*p words of a man's mouth are as deep waters, and the wellspring of wisdom as a flowing brook."
+    },
+    {
+        "o": 17691,
+        "r": "kjv:Proverbs:18:5",
+        "t": "It*p is not good to accept the person of the wicked, to overthrow the righteous in judgment."
+    },
+    {
+        "o": 17692,
+        "r": "kjv:Proverbs:18:6",
+        "t": "A*p fool's lips enter into contention, and his mouth calleth for strokes."
+    },
+    {
+        "o": 17693,
+        "r": "kjv:Proverbs:18:7",
+        "t": "A*p fool's mouth is his destruction, and his lips are the snare of his soul."
+    },
+    {
+        "o": 17694,
+        "r": "kjv:Proverbs:18:8",
+        "t": "The*p words of a talebearer are as wounds, and they go down into the innermost parts of the belly."
+    },
+    {
+        "o": 17695,
+        "r": "kjv:Proverbs:18:9",
+        "t": "He*p also that is slothful in his work is brother to him that is a great waster."
+    },
+    {
+        "o": 17696,
+        "r": "kjv:Proverbs:18:10",
+        "t": "The*p name of the Lord*s is a strong tower: the righteous runneth into it, and is safe."
+    },
+    {
+        "o": 17697,
+        "r": "kjv:Proverbs:18:11",
+        "t": "The*p rich man's wealth is his strong city, and as an high wall in his own conceit."
+    },
+    {
+        "o": 17698,
+        "r": "kjv:Proverbs:18:12",
+        "t": "Before*p destruction the heart of man is haughty, and before honour is humility."
+    },
+    {
+        "o": 17699,
+        "r": "kjv:Proverbs:18:13",
+        "t": "He*p that answereth a matter before he heareth it, it is folly and shame unto him."
+    },
+    {
+        "o": 17700,
+        "r": "kjv:Proverbs:18:14",
+        "t": "The*p spirit of a man will sustain his infirmity; but a wounded spirit who can bear?"
+    },
+    {
+        "o": 17701,
+        "r": "kjv:Proverbs:18:15",
+        "t": "The*p heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge."
+    },
+    {
+        "o": 17702,
+        "r": "kjv:Proverbs:18:16",
+        "t": "A*p man's gift maketh room for him, and bringeth him before great men."
+    },
+    {
+        "o": 17703,
+        "r": "kjv:Proverbs:18:17",
+        "t": "He*p that is first in his own cause seemeth just; but his neighbour cometh and searcheth him."
+    },
+    {
+        "o": 17704,
+        "r": "kjv:Proverbs:18:18",
+        "t": "The*p lot causeth contentions to cease, and parteth between the mighty."
+    },
+    {
+        "o": 17705,
+        "r": "kjv:Proverbs:18:19",
+        "t": "A*p brother offended is harder to be won than a strong city: and their contentions are like the bars of a castle."
+    },
+    {
+        "o": 17706,
+        "r": "kjv:Proverbs:18:20",
+        "t": "A*p man's belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled."
+    },
+    {
+        "o": 17707,
+        "r": "kjv:Proverbs:18:21",
+        "t": "Death*p and life are in the power of the tongue: and they that love it shall eat the fruit thereof."
+    },
+    {
+        "o": 17708,
+        "r": "kjv:Proverbs:18:22",
+        "t": "Whoso*p findeth a wife findeth a good thing, and obtaineth favour of the Lord.*s"
+    },
+    {
+        "o": 17709,
+        "r": "kjv:Proverbs:18:23",
+        "t": "The*p poor useth entreaties; but the rich answereth roughly."
+    },
+    {
+        "o": 17710,
+        "r": "kjv:Proverbs:18:24",
+        "t": "A*p man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother."
+    },
+    {
+        "o": 17711,
+        "r": "kjv:Proverbs:19:0",
+        "t": "Proverbs 19",
+        "h": 1
+    },
+    {
+        "o": 17712,
+        "r": "kjv:Proverbs:19:1",
+        "t": "Better*p is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool."
+    },
+    {
+        "o": 17713,
+        "r": "kjv:Proverbs:19:2",
+        "t": "Also,*p that the soul be without knowledge, it is not good; and he that hasteth with his feet sinneth."
+    },
+    {
+        "o": 17714,
+        "r": "kjv:Proverbs:19:3",
+        "t": "The*p foolishness of man perverteth his way: and his heart fretteth against the Lord.*s"
+    },
+    {
+        "o": 17715,
+        "r": "kjv:Proverbs:19:4",
+        "t": "Wealth*p maketh many friends; but the poor is separated from his neighbour."
+    },
+    {
+        "o": 17716,
+        "r": "kjv:Proverbs:19:5",
+        "t": "A*p false witness shall not be unpunished, and he that speaketh lies shall not escape."
+    },
+    {
+        "o": 17717,
+        "r": "kjv:Proverbs:19:6",
+        "t": "Many*p will entreat the favour of the prince: and every man is a friend to him that giveth gifts."
+    },
+    {
+        "o": 17718,
+        "r": "kjv:Proverbs:19:7",
+        "t": "All*p the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him."
+    },
+    {
+        "o": 17719,
+        "r": "kjv:Proverbs:19:8",
+        "t": "He*p that getteth wisdom loveth his own soul: he that keepeth understanding shall find good."
+    },
+    {
+        "o": 17720,
+        "r": "kjv:Proverbs:19:9",
+        "t": "A*p false witness shall not be unpunished, and he that speaketh lies shall perish."
+    },
+    {
+        "o": 17721,
+        "r": "kjv:Proverbs:19:10",
+        "t": "Delight*p is not seemly for a fool; much less for a servant to have rule over princes."
+    },
+    {
+        "o": 17722,
+        "r": "kjv:Proverbs:19:11",
+        "t": "The*p discretion of a man deferreth his anger; and it is his glory to pass over a transgression."
+    },
+    {
+        "o": 17723,
+        "r": "kjv:Proverbs:19:12",
+        "t": "The*p king's wrath is as the roaring of a lion; but his favour is as dew upon the grass."
+    },
+    {
+        "o": 17724,
+        "r": "kjv:Proverbs:19:13",
+        "t": "A*p foolish son is the calamity of his father: and the contentions of a wife are a continual dropping."
+    },
+    {
+        "o": 17725,
+        "r": "kjv:Proverbs:19:14",
+        "t": "House*p and riches are the inheritance of fathers: and a prudent wife is from the Lord.*s"
+    },
+    {
+        "o": 17726,
+        "r": "kjv:Proverbs:19:15",
+        "t": "Slothfulness*p casteth into a deep sleep; and an idle soul shall suffer hunger."
+    },
+    {
+        "o": 17727,
+        "r": "kjv:Proverbs:19:16",
+        "t": "He*p that keepeth the commandment keepeth his own soul; but he that despiseth his ways shall die."
+    },
+    {
+        "o": 17728,
+        "r": "kjv:Proverbs:19:17",
+        "t": "He*p that hath pity upon the poor lendeth unto the Lord;*s and that which he hath given will he pay him again."
+    },
+    {
+        "o": 17729,
+        "r": "kjv:Proverbs:19:18",
+        "t": "Chasten*p thy son while there is hope, and let not thy soul spare for his crying."
+    },
+    {
+        "o": 17730,
+        "r": "kjv:Proverbs:19:19",
+        "t": "A*p man of great wrath shall suffer punishment: for if thou deliver him, yet thou must do it again."
+    },
+    {
+        "o": 17731,
+        "r": "kjv:Proverbs:19:20",
+        "t": "Hear*p counsel, and receive instruction, that thou mayest be wise in thy latter end."
+    },
+    {
+        "o": 17732,
+        "r": "kjv:Proverbs:19:21",
+        "t": "There*p are many devices in a man's heart; nevertheless the counsel of the Lord,*s that shall stand."
+    },
+    {
+        "o": 17733,
+        "r": "kjv:Proverbs:19:22",
+        "t": "The*p desire of a man is his kindness: and a poor man is better than a liar."
+    },
+    {
+        "o": 17734,
+        "r": "kjv:Proverbs:19:23",
+        "t": "The*p fear of the Lord*s tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil."
+    },
+    {
+        "o": 17735,
+        "r": "kjv:Proverbs:19:24",
+        "t": "A*p slothful man hideth his hand in his bosom, and will not so much as bring it to his mouth again."
+    },
+    {
+        "o": 17736,
+        "r": "kjv:Proverbs:19:25",
+        "t": "Smite*p a scorner, and the simple will beware: and reprove one that hath understanding, and he will understand knowledge."
+    },
+    {
+        "o": 17737,
+        "r": "kjv:Proverbs:19:26",
+        "t": "He*p that wasteth his father, and chaseth away his mother, is a son that causeth shame, and bringeth reproach."
+    },
+    {
+        "o": 17738,
+        "r": "kjv:Proverbs:19:27",
+        "t": "Cease,*p my son, to hear the instruction that causeth to err from the words of knowledge."
+    },
+    {
+        "o": 17739,
+        "r": "kjv:Proverbs:19:28",
+        "t": "An*p ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity."
+    },
+    {
+        "o": 17740,
+        "r": "kjv:Proverbs:19:29",
+        "t": "Judgments*p are prepared for scorners, and stripes for the back of fools."
+    },
+    {
+        "o": 17741,
+        "r": "kjv:Proverbs:20:0",
+        "t": "Proverbs 20",
+        "h": 1
+    },
+    {
+        "o": 17742,
+        "r": "kjv:Proverbs:20:1",
+        "t": "Wine*p is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise."
+    },
+    {
+        "o": 17743,
+        "r": "kjv:Proverbs:20:2",
+        "t": "The*p fear of a king is as the roaring of a lion: whoso provoketh him to anger sinneth against his own soul."
+    },
+    {
+        "o": 17744,
+        "r": "kjv:Proverbs:20:3",
+        "t": "It*p is an honour for a man to cease from strife: but every fool will be meddling."
+    },
+    {
+        "o": 17745,
+        "r": "kjv:Proverbs:20:4",
+        "t": "The*p sluggard will not plow by reason of the cold; therefore shall he beg in harvest, and have nothing."
+    },
+    {
+        "o": 17746,
+        "r": "kjv:Proverbs:20:5",
+        "t": "Counsel*p in the heart of man is like deep water; but a man of understanding will draw it out."
+    },
+    {
+        "o": 17747,
+        "r": "kjv:Proverbs:20:6",
+        "t": "Most*p men will proclaim every one his own goodness: but a faithful man who can find?"
+    },
+    {
+        "o": 17748,
+        "r": "kjv:Proverbs:20:7",
+        "t": "The*p just man walketh in his integrity: his children are blessed after him."
+    },
+    {
+        "o": 17749,
+        "r": "kjv:Proverbs:20:8",
+        "t": "A*p king that sitteth in the throne of judgment scattereth away all evil with his eyes."
+    },
+    {
+        "o": 17750,
+        "r": "kjv:Proverbs:20:9",
+        "t": "Who*p can say, I have made my heart clean, I am pure from my sin?"
+    },
+    {
+        "o": 17751,
+        "r": "kjv:Proverbs:20:10",
+        "t": "Divers*p weights, and divers measures, both of them are alike abomination to the Lord.*s"
+    },
+    {
+        "o": 17752,
+        "r": "kjv:Proverbs:20:11",
+        "t": "Even*p a child is known by his doings, whether his work be pure, and whether it be right."
+    },
+    {
+        "o": 17753,
+        "r": "kjv:Proverbs:20:12",
+        "t": "The*p hearing ear, and the seeing eye, the Lord*s hath made even both of them."
+    },
+    {
+        "o": 17754,
+        "r": "kjv:Proverbs:20:13",
+        "t": "Love*p not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread."
+    },
+    {
+        "o": 17755,
+        "r": "kjv:Proverbs:20:14",
+        "t": "It*p is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth."
+    },
+    {
+        "o": 17756,
+        "r": "kjv:Proverbs:20:15",
+        "t": "There*p is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel."
+    },
+    {
+        "o": 17757,
+        "r": "kjv:Proverbs:20:16",
+        "t": "Take*p his garment that is surety for a stranger: and take a pledge of him for a strange woman."
+    },
+    {
+        "o": 17758,
+        "r": "kjv:Proverbs:20:17",
+        "t": "Bread*p of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel."
+    },
+    {
+        "o": 17759,
+        "r": "kjv:Proverbs:20:18",
+        "t": "Every*p purpose is established by counsel: and with good advice make war."
+    },
+    {
+        "o": 17760,
+        "r": "kjv:Proverbs:20:19",
+        "t": "He*p that goeth about as a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips."
+    },
+    {
+        "o": 17761,
+        "r": "kjv:Proverbs:20:20",
+        "t": "Whoso*p curseth his father or his mother, his lamp shall be put out in obscure darkness."
+    },
+    {
+        "o": 17762,
+        "r": "kjv:Proverbs:20:21",
+        "t": "An*p inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed."
+    },
+    {
+        "o": 17763,
+        "r": "kjv:Proverbs:20:22",
+        "t": "Say*p not thou, I will recompense evil; but wait on the Lord,*s and he shall save thee."
+    },
+    {
+        "o": 17764,
+        "r": "kjv:Proverbs:20:23",
+        "t": "Divers*p weights are an abomination unto the Lord;*s and a false balance is not good."
+    },
+    {
+        "o": 17765,
+        "r": "kjv:Proverbs:20:24",
+        "t": "Man's*p goings are of the Lord;*s how can a man then understand his own way?"
+    },
+    {
+        "o": 17766,
+        "r": "kjv:Proverbs:20:25",
+        "t": "It*p is a snare to the man who devoureth that which is holy, and after vows to make enquiry."
+    },
+    {
+        "o": 17767,
+        "r": "kjv:Proverbs:20:26",
+        "t": "A*p wise king scattereth the wicked, and bringeth the wheel over them."
+    },
+    {
+        "o": 17768,
+        "r": "kjv:Proverbs:20:27",
+        "t": "The*p spirit of man is the candle of the Lord,*s searching all the inward parts of the belly."
+    },
+    {
+        "o": 17769,
+        "r": "kjv:Proverbs:20:28",
+        "t": "Mercy*p and truth preserve the king: and his throne is upholden by mercy."
+    },
+    {
+        "o": 17770,
+        "r": "kjv:Proverbs:20:29",
+        "t": "The*p glory of young men is their strength: and the beauty of old men is the gray head."
+    },
+    {
+        "o": 17771,
+        "r": "kjv:Proverbs:20:30",
+        "t": "The*p blueness of a wound cleanseth away evil: so do stripes the inward parts of the belly."
+    },
+    {
+        "o": 17772,
+        "r": "kjv:Proverbs:21:0",
+        "t": "Proverbs 21",
+        "h": 1
+    },
+    {
+        "o": 17773,
+        "r": "kjv:Proverbs:21:1",
+        "t": "The*p king's heart is in the hand of the Lord,*s as the rivers of water: he turneth it whithersoever he will."
+    },
+    {
+        "o": 17774,
+        "r": "kjv:Proverbs:21:2",
+        "t": "Every*p way of a man is right in his own eyes: but the Lord*s pondereth the hearts."
+    },
+    {
+        "o": 17775,
+        "r": "kjv:Proverbs:21:3",
+        "t": "To*p do justice and judgment is more acceptable to the Lord*s than sacrifice."
+    },
+    {
+        "o": 17776,
+        "r": "kjv:Proverbs:21:4",
+        "t": "An*p high look, and a proud heart, and the plowing of the wicked, is sin."
+    },
+    {
+        "o": 17777,
+        "r": "kjv:Proverbs:21:5",
+        "t": "The*p thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want."
+    },
+    {
+        "o": 17778,
+        "r": "kjv:Proverbs:21:6",
+        "t": "The*p getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death."
+    },
+    {
+        "o": 17779,
+        "r": "kjv:Proverbs:21:7",
+        "t": "The*p robbery of the wicked shall destroy them; because they refuse to do judgment."
+    },
+    {
+        "o": 17780,
+        "r": "kjv:Proverbs:21:8",
+        "t": "The*p way of man is froward and strange: but as for the pure, his work is right."
+    },
+    {
+        "o": 17781,
+        "r": "kjv:Proverbs:21:9",
+        "t": "It*p is better to dwell in a corner of the housetop, than with a brawling woman in a wide house."
+    },
+    {
+        "o": 17782,
+        "r": "kjv:Proverbs:21:10",
+        "t": "The*p soul of the wicked desireth evil: his neighbour findeth no favour in his eyes."
+    },
+    {
+        "o": 17783,
+        "r": "kjv:Proverbs:21:11",
+        "t": "When*p the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge."
+    },
+    {
+        "o": 17784,
+        "r": "kjv:Proverbs:21:12",
+        "t": "The*p righteous man wisely considereth the house of the wicked: but God overthroweth the wicked for their wickedness."
+    },
+    {
+        "o": 17785,
+        "r": "kjv:Proverbs:21:13",
+        "t": "Whoso*p stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard."
+    },
+    {
+        "o": 17786,
+        "r": "kjv:Proverbs:21:14",
+        "t": "A*p gift in secret pacifieth anger: and a reward in the bosom strong wrath."
+    },
+    {
+        "o": 17787,
+        "r": "kjv:Proverbs:21:15",
+        "t": "It*p is joy to the just to do judgment: but destruction shall be to the workers of iniquity."
+    },
+    {
+        "o": 17788,
+        "r": "kjv:Proverbs:21:16",
+        "t": "The*p man that wandereth out of the way of understanding shall remain in the congregation of the dead."
+    },
+    {
+        "o": 17789,
+        "r": "kjv:Proverbs:21:17",
+        "t": "He*p that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich."
+    },
+    {
+        "o": 17790,
+        "r": "kjv:Proverbs:21:18",
+        "t": "The*p wicked shall be a ransom for the righteous, and the transgressor for the upright."
+    },
+    {
+        "o": 17791,
+        "r": "kjv:Proverbs:21:19",
+        "t": "It*p is better to dwell in the wilderness, than with a contentious and an angry woman."
+    },
+    {
+        "o": 17792,
+        "r": "kjv:Proverbs:21:20",
+        "t": "There*p is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up."
+    },
+    {
+        "o": 17793,
+        "r": "kjv:Proverbs:21:21",
+        "t": "He*p that followeth after righteousness and mercy findeth life, righteousness, and honour."
+    },
+    {
+        "o": 17794,
+        "r": "kjv:Proverbs:21:22",
+        "t": "A*p wise man scaleth the city of the mighty, and casteth down the strength of the confidence thereof."
+    },
+    {
+        "o": 17795,
+        "r": "kjv:Proverbs:21:23",
+        "t": "Whoso*p keepeth his mouth and his tongue keepeth his soul from troubles."
+    },
+    {
+        "o": 17796,
+        "r": "kjv:Proverbs:21:24",
+        "t": "Proud*p and haughty scorner is his name, who dealeth in proud wrath."
+    },
+    {
+        "o": 17797,
+        "r": "kjv:Proverbs:21:25",
+        "t": "The*p desire of the slothful killeth him; for his hands refuse to labour."
+    },
+    {
+        "o": 17798,
+        "r": "kjv:Proverbs:21:26",
+        "t": "He*p coveteth greedily all the day long: but the righteous giveth and spareth not."
+    },
+    {
+        "o": 17799,
+        "r": "kjv:Proverbs:21:27",
+        "t": "The*p sacrifice of the wicked is abomination: how much more, when he bringeth it with a wicked mind?"
+    },
+    {
+        "o": 17800,
+        "r": "kjv:Proverbs:21:28",
+        "t": "A*p false witness shall perish: but the man that heareth speaketh constantly."
+    },
+    {
+        "o": 17801,
+        "r": "kjv:Proverbs:21:29",
+        "t": "A*p wicked man hardeneth his face: but as for the upright, he directeth his way."
+    },
+    {
+        "o": 17802,
+        "r": "kjv:Proverbs:21:30",
+        "t": "There*p is no wisdom nor understanding nor counsel against the Lord.*s"
+    },
+    {
+        "o": 17803,
+        "r": "kjv:Proverbs:21:31",
+        "t": "The*p horse is prepared against the day of battle: but safety is of the Lord.*s"
+    },
+    {
+        "o": 17804,
+        "r": "kjv:Proverbs:22:0",
+        "t": "Proverbs 22",
+        "h": 1
+    },
+    {
+        "o": 17805,
+        "r": "kjv:Proverbs:22:1",
+        "t": "A*p good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
+    },
+    {
+        "o": 17806,
+        "r": "kjv:Proverbs:22:2",
+        "t": "The*p rich and poor meet together: the Lord*s is the maker of them all."
+    },
+    {
+        "o": 17807,
+        "r": "kjv:Proverbs:22:3",
+        "t": "A*p prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished."
+    },
+    {
+        "o": 17808,
+        "r": "kjv:Proverbs:22:4",
+        "t": "By*p humility and the fear of the Lord*s are riches, and honour, and life."
+    },
+    {
+        "o": 17809,
+        "r": "kjv:Proverbs:22:5",
+        "t": "Thorns*p and snares are in the way of the froward: he that doth keep his soul shall be far from them."
+    },
+    {
+        "o": 17810,
+        "r": "kjv:Proverbs:22:6",
+        "t": "Train*p up a child in the way he should go: and when he is old, he will not depart from it."
+    },
+    {
+        "o": 17811,
+        "r": "kjv:Proverbs:22:7",
+        "t": "The*p rich ruleth over the poor, and the borrower is servant to the lender."
+    },
+    {
+        "o": 17812,
+        "r": "kjv:Proverbs:22:8",
+        "t": "He*p that soweth iniquity shall reap vanity: and the rod of his anger shall fail."
+    },
+    {
+        "o": 17813,
+        "r": "kjv:Proverbs:22:9",
+        "t": "He*p that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor."
+    },
+    {
+        "o": 17814,
+        "r": "kjv:Proverbs:22:10",
+        "t": "Cast*p out the scorner, and contention shall go out; yea, strife and reproach shall cease."
+    },
+    {
+        "o": 17815,
+        "r": "kjv:Proverbs:22:11",
+        "t": "He*p that loveth pureness of heart, for the grace of his lips the king shall be his friend."
+    },
+    {
+        "o": 17816,
+        "r": "kjv:Proverbs:22:12",
+        "t": "The*p eyes of the Lord*s preserve knowledge, and he overthroweth the words of the transgressor."
+    },
+    {
+        "o": 17817,
+        "r": "kjv:Proverbs:22:13",
+        "t": "The*p slothful man saith, There is a lion without, I shall be slain in the streets."
+    },
+    {
+        "o": 17818,
+        "r": "kjv:Proverbs:22:14",
+        "t": "The*p mouth of strange women is a deep pit: he that is abhorred of the Lord*s shall fall therein."
+    },
+    {
+        "o": 17819,
+        "r": "kjv:Proverbs:22:15",
+        "t": "Foolishness*p is bound in the heart of a child; but the rod of correction shall drive it far from him."
+    },
+    {
+        "o": 17820,
+        "r": "kjv:Proverbs:22:16",
+        "t": "He*p that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want."
+    },
+    {
+        "o": 17821,
+        "r": "kjv:Proverbs:22:17",
+        "t": "Bow*p down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge."
+    },
+    {
+        "o": 17822,
+        "r": "kjv:Proverbs:22:18",
+        "t": "For*p it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips."
+    },
+    {
+        "o": 17823,
+        "r": "kjv:Proverbs:22:19",
+        "t": "That*p thy trust may be in the Lord,*s I have made known to thee this day, even to thee."
+    },
+    {
+        "o": 17824,
+        "r": "kjv:Proverbs:22:20",
+        "t": "Have*p not I written to thee excellent things in counsels and knowledge,"
+    },
+    {
+        "o": 17825,
+        "r": "kjv:Proverbs:22:21",
+        "t": "That*p I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?"
+    },
+    {
+        "o": 17826,
+        "r": "kjv:Proverbs:22:22",
+        "t": "Rob*p not the poor, because he is poor: neither oppress the afflicted in the gate:"
+    },
+    {
+        "o": 17827,
+        "r": "kjv:Proverbs:22:23",
+        "t": "For*p the Lord*s will plead their cause, and spoil the soul of those that spoiled them."
+    },
+    {
+        "o": 17828,
+        "r": "kjv:Proverbs:22:24",
+        "t": "Make*p no friendship with an angry man; and with a furious man thou shalt not go:"
+    },
+    {
+        "o": 17829,
+        "r": "kjv:Proverbs:22:25",
+        "t": "Lest*p thou learn his ways, and get a snare to thy soul."
+    },
+    {
+        "o": 17830,
+        "r": "kjv:Proverbs:22:26",
+        "t": "Be*p not thou one of them that strike hands, or of them that are sureties for debts."
+    },
+    {
+        "o": 17831,
+        "r": "kjv:Proverbs:22:27",
+        "t": "If*p thou hast nothing to pay, why should he take away thy bed from under thee?"
+    },
+    {
+        "o": 17832,
+        "r": "kjv:Proverbs:22:28",
+        "t": "Remove*p not the ancient landmark, which thy fathers have set."
+    },
+    {
+        "o": 17833,
+        "r": "kjv:Proverbs:22:29",
+        "t": "Seest*p thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men."
+    },
+    {
+        "o": 17834,
+        "r": "kjv:Proverbs:23:0",
+        "t": "Proverbs 23",
+        "h": 1
+    },
+    {
+        "o": 17835,
+        "r": "kjv:Proverbs:23:1",
+        "t": "When*p thou sittest to eat with a ruler, consider diligently what is before thee:"
+    },
+    {
+        "o": 17836,
+        "r": "kjv:Proverbs:23:2",
+        "t": "And*p put a knife to thy throat, if thou be a man given to appetite."
+    },
+    {
+        "o": 17837,
+        "r": "kjv:Proverbs:23:3",
+        "t": "Be*p not desirous of his dainties: for they are deceitful meat."
+    },
+    {
+        "o": 17838,
+        "r": "kjv:Proverbs:23:4",
+        "t": "Labour*p not to be rich: cease from thine own wisdom."
+    },
+    {
+        "o": 17839,
+        "r": "kjv:Proverbs:23:5",
+        "t": "Wilt*p thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven."
+    },
+    {
+        "o": 17840,
+        "r": "kjv:Proverbs:23:6",
+        "t": "Eat*p thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:"
+    },
+    {
+        "o": 17841,
+        "r": "kjv:Proverbs:23:7",
+        "t": "For*p as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee."
+    },
+    {
+        "o": 17842,
+        "r": "kjv:Proverbs:23:8",
+        "t": "The*p morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words."
+    },
+    {
+        "o": 17843,
+        "r": "kjv:Proverbs:23:9",
+        "t": "Speak*p not in the ears of a fool: for he will despise the wisdom of thy words."
+    },
+    {
+        "o": 17844,
+        "r": "kjv:Proverbs:23:10",
+        "t": "Remove*p not the old landmark; and enter not into the fields of the fatherless:"
+    },
+    {
+        "o": 17845,
+        "r": "kjv:Proverbs:23:11",
+        "t": "For*p their redeemer is mighty; he shall plead their cause with thee."
+    },
+    {
+        "o": 17846,
+        "r": "kjv:Proverbs:23:12",
+        "t": "Apply*p thine heart unto instruction, and thine ears to the words of knowledge."
+    },
+    {
+        "o": 17847,
+        "r": "kjv:Proverbs:23:13",
+        "t": "Withhold*p not correction from the child: for if thou beatest him with the rod, he shall not die."
+    },
+    {
+        "o": 17848,
+        "r": "kjv:Proverbs:23:14",
+        "t": "Thou*p shalt beat him with the rod, and shalt deliver his soul from hell."
+    },
+    {
+        "o": 17849,
+        "r": "kjv:Proverbs:23:15",
+        "t": "My*p son, if thine heart be wise, my heart shall rejoice, even mine."
+    },
+    {
+        "o": 17850,
+        "r": "kjv:Proverbs:23:16",
+        "t": "Yea,*p my reins shall rejoice, when thy lips speak right things."
+    },
+    {
+        "o": 17851,
+        "r": "kjv:Proverbs:23:17",
+        "t": "Let*p not thine heart envy sinners: but be thou in the fear of the Lord*s all the day long."
+    },
+    {
+        "o": 17852,
+        "r": "kjv:Proverbs:23:18",
+        "t": "For*p surely there is an end; and thine expectation shall not be cut off."
+    },
+    {
+        "o": 17853,
+        "r": "kjv:Proverbs:23:19",
+        "t": "Hear*p thou, my son, and be wise, and guide thine heart in the way."
+    },
+    {
+        "o": 17854,
+        "r": "kjv:Proverbs:23:20",
+        "t": "Be*p not among winebibbers; among riotous eaters of flesh:"
+    },
+    {
+        "o": 17855,
+        "r": "kjv:Proverbs:23:21",
+        "t": "For*p the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags."
+    },
+    {
+        "o": 17856,
+        "r": "kjv:Proverbs:23:22",
+        "t": "Hearken*p unto thy father that begat thee, and despise not thy mother when she is old."
+    },
+    {
+        "o": 17857,
+        "r": "kjv:Proverbs:23:23",
+        "t": "Buy*p the truth, and sell it not; also wisdom, and instruction, and understanding."
+    },
+    {
+        "o": 17858,
+        "r": "kjv:Proverbs:23:24",
+        "t": "The*p father of the righteous shall greatly rejoice: and he that begetteth a wise child shall have joy of him."
+    },
+    {
+        "o": 17859,
+        "r": "kjv:Proverbs:23:25",
+        "t": "Thy*p father and thy mother shall be glad, and she that bare thee shall rejoice."
+    },
+    {
+        "o": 17860,
+        "r": "kjv:Proverbs:23:26",
+        "t": "My*p son, give me thine heart, and let thine eyes observe my ways."
+    },
+    {
+        "o": 17861,
+        "r": "kjv:Proverbs:23:27",
+        "t": "For*p a whore is a deep ditch; and a strange woman is a narrow pit."
+    },
+    {
+        "o": 17862,
+        "r": "kjv:Proverbs:23:28",
+        "t": "She*p also lieth in wait as for a prey, and increaseth the transgressors among men."
+    },
+    {
+        "o": 17863,
+        "r": "kjv:Proverbs:23:29",
+        "t": "Who*p hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath redness of eyes?"
+    },
+    {
+        "o": 17864,
+        "r": "kjv:Proverbs:23:30",
+        "t": "They*p that tarry long at the wine; they that go to seek mixed wine."
+    },
+    {
+        "o": 17865,
+        "r": "kjv:Proverbs:23:31",
+        "t": "Look*p not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright."
+    },
+    {
+        "o": 17866,
+        "r": "kjv:Proverbs:23:32",
+        "t": "At*p the last it biteth like a serpent, and stingeth like an adder."
+    },
+    {
+        "o": 17867,
+        "r": "kjv:Proverbs:23:33",
+        "t": "Thine*p eyes shall behold strange women, and thine heart shall utter perverse things."
+    },
+    {
+        "o": 17868,
+        "r": "kjv:Proverbs:23:34",
+        "t": "Yea,*p thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast."
+    },
+    {
+        "o": 17869,
+        "r": "kjv:Proverbs:23:35",
+        "t": "They*p have stricken me, shalt thou say, and I was not sick; they have beaten me, and I felt it not: when shall I awake? I will seek it yet again."
+    },
+    {
+        "o": 17870,
+        "r": "kjv:Proverbs:24:0",
+        "t": "Proverbs 24",
+        "h": 1
+    },
+    {
+        "o": 17871,
+        "r": "kjv:Proverbs:24:1",
+        "t": "Be*p not thou envious against evil men, neither desire to be with them."
+    },
+    {
+        "o": 17872,
+        "r": "kjv:Proverbs:24:2",
+        "t": "For*p their heart studieth destruction, and their lips talk of mischief."
+    },
+    {
+        "o": 17873,
+        "r": "kjv:Proverbs:24:3",
+        "t": "Through*p wisdom is an house builded; and by understanding it is established:"
+    },
+    {
+        "o": 17874,
+        "r": "kjv:Proverbs:24:4",
+        "t": "And*p by knowledge shall the chambers be filled with all precious and pleasant riches."
+    },
+    {
+        "o": 17875,
+        "r": "kjv:Proverbs:24:5",
+        "t": "A*p wise man is strong; yea, a man of knowledge increaseth strength."
+    },
+    {
+        "o": 17876,
+        "r": "kjv:Proverbs:24:6",
+        "t": "For*p by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety."
+    },
+    {
+        "o": 17877,
+        "r": "kjv:Proverbs:24:7",
+        "t": "Wisdom*p is too high for a fool: he openeth not his mouth in the gate."
+    },
+    {
+        "o": 17878,
+        "r": "kjv:Proverbs:24:8",
+        "t": "He*p that deviseth to do evil shall be called a mischievous person."
+    },
+    {
+        "o": 17879,
+        "r": "kjv:Proverbs:24:9",
+        "t": "The*p thought of foolishness is sin: and the scorner is an abomination to men."
+    },
+    {
+        "o": 17880,
+        "r": "kjv:Proverbs:24:10",
+        "t": "If*p thou faint in the day of adversity, thy strength is small."
+    },
+    {
+        "o": 17881,
+        "r": "kjv:Proverbs:24:11",
+        "t": "If*p thou forbear to deliver them that are drawn unto death, and those that are ready to be slain;"
+    },
+    {
+        "o": 17882,
+        "r": "kjv:Proverbs:24:12",
+        "t": "If*p thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?"
+    },
+    {
+        "o": 17883,
+        "r": "kjv:Proverbs:24:13",
+        "t": "My*p son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste:"
+    },
+    {
+        "o": 17884,
+        "r": "kjv:Proverbs:24:14",
+        "t": "So*p shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off."
+    },
+    {
+        "o": 17885,
+        "r": "kjv:Proverbs:24:15",
+        "t": "Lay*p not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:"
+    },
+    {
+        "o": 17886,
+        "r": "kjv:Proverbs:24:16",
+        "t": "For*p a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief."
+    },
+    {
+        "o": 17887,
+        "r": "kjv:Proverbs:24:17",
+        "t": "Rejoice*p not when thine enemy falleth, and let not thine heart be glad when he stumbleth:"
+    },
+    {
+        "o": 17888,
+        "r": "kjv:Proverbs:24:18",
+        "t": "Lest*p the Lord*s see it, and it displease him, and he turn away his wrath from him."
+    },
+    {
+        "o": 17889,
+        "r": "kjv:Proverbs:24:19",
+        "t": "Fret*p not thyself because of evil men, neither be thou envious at the wicked;"
+    },
+    {
+        "o": 17890,
+        "r": "kjv:Proverbs:24:20",
+        "t": "For*p there shall be no reward to the evil man; the candle of the wicked shall be put out."
+    },
+    {
+        "o": 17891,
+        "r": "kjv:Proverbs:24:21",
+        "t": "My*p son, fear thou the Lord*s and the king: and meddle not with them that are given to change:"
+    },
+    {
+        "o": 17892,
+        "r": "kjv:Proverbs:24:22",
+        "t": "For*p their calamity shall rise suddenly; and who knoweth the ruin of them both?"
+    },
+    {
+        "o": 17893,
+        "r": "kjv:Proverbs:24:23",
+        "t": "These*p things also belong to the wise. It is not good to have respect of persons in judgment."
+    },
+    {
+        "o": 17894,
+        "r": "kjv:Proverbs:24:24",
+        "t": "He*p that saith unto the wicked, Thou art righteous; him shall the people curse, nations shall abhor him:"
+    },
+    {
+        "o": 17895,
+        "r": "kjv:Proverbs:24:25",
+        "t": "But*p to them that rebuke him shall be delight, and a good blessing shall come upon them."
+    },
+    {
+        "o": 17896,
+        "r": "kjv:Proverbs:24:26",
+        "t": "Every*p man shall kiss his lips that giveth a right answer."
+    },
+    {
+        "o": 17897,
+        "r": "kjv:Proverbs:24:27",
+        "t": "Prepare*p thy work without, and make it fit for thyself in the field; and afterwards build thine house."
+    },
+    {
+        "o": 17898,
+        "r": "kjv:Proverbs:24:28",
+        "t": "Be*p not a witness against thy neighbour without cause; and deceive not with thy lips."
+    },
+    {
+        "o": 17899,
+        "r": "kjv:Proverbs:24:29",
+        "t": "Say*p not, I will do so to him as he hath done to me: I will render to the man according to his work."
+    },
+    {
+        "o": 17900,
+        "r": "kjv:Proverbs:24:30",
+        "t": "I*p went by the field of the slothful, and by the vineyard of the man void of understanding;"
+    },
+    {
+        "o": 17901,
+        "r": "kjv:Proverbs:24:31",
+        "t": "And,*p lo, it was all grown over with thorns, and nettles had covered the face thereof, and the stone wall thereof was broken down."
+    },
+    {
+        "o": 17902,
+        "r": "kjv:Proverbs:24:32",
+        "t": "Then*p I saw, and considered it well: I looked upon it, and received instruction."
+    },
+    {
+        "o": 17903,
+        "r": "kjv:Proverbs:24:33",
+        "t": "Yet*p a little sleep, a little slumber, a little folding of the hands to sleep:"
+    },
+    {
+        "o": 17904,
+        "r": "kjv:Proverbs:24:34",
+        "t": "So*p shall thy poverty come as one that travelleth; and thy want as an armed man."
+    },
+    {
+        "o": 17905,
+        "r": "kjv:Proverbs:25:0",
+        "t": "Proverbs 25",
+        "h": 1
+    },
+    {
+        "o": 17906,
+        "r": "kjv:Proverbs:25:1",
+        "t": "These*p are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out."
+    },
+    {
+        "o": 17907,
+        "r": "kjv:Proverbs:25:2",
+        "t": "It*p is the glory of God to conceal a thing: but the honour of kings is to search out a matter."
+    },
+    {
+        "o": 17908,
+        "r": "kjv:Proverbs:25:3",
+        "t": "The*p heaven for height, and the earth for depth, and the heart of kings is unsearchable."
+    },
+    {
+        "o": 17909,
+        "r": "kjv:Proverbs:25:4",
+        "t": "Take*p away the dross from the silver, and there shall come forth a vessel for the finer."
+    },
+    {
+        "o": 17910,
+        "r": "kjv:Proverbs:25:5",
+        "t": "Take*p away the wicked from before the king, and his throne shall be established in righteousness."
+    },
+    {
+        "o": 17911,
+        "r": "kjv:Proverbs:25:6",
+        "t": "Put*p not forth thyself in the presence of the king, and stand not in the place of great men:"
+    },
+    {
+        "o": 17912,
+        "r": "kjv:Proverbs:25:7",
+        "t": "For*p better it is that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen."
+    },
+    {
+        "o": 17913,
+        "r": "kjv:Proverbs:25:8",
+        "t": "Go*p not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame."
+    },
+    {
+        "o": 17914,
+        "r": "kjv:Proverbs:25:9",
+        "t": "Debate*p thy cause with thy neighbour himself; and discover not a secret to another:"
+    },
+    {
+        "o": 17915,
+        "r": "kjv:Proverbs:25:10",
+        "t": "Lest*p he that heareth it put thee to shame, and thine infamy turn not away."
+    },
+    {
+        "o": 17916,
+        "r": "kjv:Proverbs:25:11",
+        "t": "A*p word fitly spoken is like apples of gold in pictures of silver."
+    },
+    {
+        "o": 17917,
+        "r": "kjv:Proverbs:25:12",
+        "t": "As*p an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear."
+    },
+    {
+        "o": 17918,
+        "r": "kjv:Proverbs:25:13",
+        "t": "As*p the cold of snow in the time of harvest, so is a faithful messenger to them that send him: for he refresheth the soul of his masters."
+    },
+    {
+        "o": 17919,
+        "r": "kjv:Proverbs:25:14",
+        "t": "Whoso*p boasteth himself of a false gift is like clouds and wind without rain."
+    },
+    {
+        "o": 17920,
+        "r": "kjv:Proverbs:25:15",
+        "t": "By*p long forbearing is a prince persuaded, and a soft tongue breaketh the bone."
+    },
+    {
+        "o": 17921,
+        "r": "kjv:Proverbs:25:16",
+        "t": "Hast*p thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it."
+    },
+    {
+        "o": 17922,
+        "r": "kjv:Proverbs:25:17",
+        "t": "Withdraw*p thy foot from thy neighbour's house; lest he be weary of thee, and so hate thee."
+    },
+    {
+        "o": 17923,
+        "r": "kjv:Proverbs:25:18",
+        "t": "A*p man that beareth false witness against his neighbour is a maul, and a sword, and a sharp arrow."
+    },
+    {
+        "o": 17924,
+        "r": "kjv:Proverbs:25:19",
+        "t": "Confidence*p in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint."
+    },
+    {
+        "o": 17925,
+        "r": "kjv:Proverbs:25:20",
+        "t": "As*p he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart."
+    },
+    {
+        "o": 17926,
+        "r": "kjv:Proverbs:25:21",
+        "t": "If*p thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:"
+    },
+    {
+        "o": 17927,
+        "r": "kjv:Proverbs:25:22",
+        "t": "For*p thou shalt heap coals of fire upon his head, and the Lord*s shall reward thee."
+    },
+    {
+        "o": 17928,
+        "r": "kjv:Proverbs:25:23",
+        "t": "The*p north wind driveth away rain: so doth an angry countenance a backbiting tongue."
+    },
+    {
+        "o": 17929,
+        "r": "kjv:Proverbs:25:24",
+        "t": "It*p is better to dwell in the corner of the housetop, than with a brawling woman and in a wide house."
+    },
+    {
+        "o": 17930,
+        "r": "kjv:Proverbs:25:25",
+        "t": "As*p cold waters to a thirsty soul, so is good news from a far country."
+    },
+    {
+        "o": 17931,
+        "r": "kjv:Proverbs:25:26",
+        "t": "A*p righteous man falling down before the wicked is as a troubled fountain, and a corrupt spring."
+    },
+    {
+        "o": 17932,
+        "r": "kjv:Proverbs:25:27",
+        "t": "It*p is not good to eat much honey: so for men to search their own glory is not glory."
+    },
+    {
+        "o": 17933,
+        "r": "kjv:Proverbs:25:28",
+        "t": "He*p that hath no rule over his own spirit is like a city that is broken down, and without walls."
+    },
+    {
+        "o": 17934,
+        "r": "kjv:Proverbs:26:0",
+        "t": "Proverbs 26",
+        "h": 1
+    },
+    {
+        "o": 17935,
+        "r": "kjv:Proverbs:26:1",
+        "t": "As*p snow in summer, and as rain in harvest, so honour is not seemly for a fool."
+    },
+    {
+        "o": 17936,
+        "r": "kjv:Proverbs:26:2",
+        "t": "As*p the bird by wandering, as the swallow by flying, so the curse causeless shall not come."
+    },
+    {
+        "o": 17937,
+        "r": "kjv:Proverbs:26:3",
+        "t": "A*p whip for the horse, a bridle for the ass, and a rod for the fool's back."
+    },
+    {
+        "o": 17938,
+        "r": "kjv:Proverbs:26:4",
+        "t": "Answer*p not a fool according to his folly, lest thou also be like unto him."
+    },
+    {
+        "o": 17939,
+        "r": "kjv:Proverbs:26:5",
+        "t": "Answer*p a fool according to his folly, lest he be wise in his own conceit."
+    },
+    {
+        "o": 17940,
+        "r": "kjv:Proverbs:26:6",
+        "t": "He*p that sendeth a message by the hand of a fool cutteth off the feet, and drinketh damage."
+    },
+    {
+        "o": 17941,
+        "r": "kjv:Proverbs:26:7",
+        "t": "The*p legs of the lame are not equal: so is a parable in the mouth of fools."
+    },
+    {
+        "o": 17942,
+        "r": "kjv:Proverbs:26:8",
+        "t": "As*p he that bindeth a stone in a sling, so is he that giveth honour to a fool."
+    },
+    {
+        "o": 17943,
+        "r": "kjv:Proverbs:26:9",
+        "t": "As*p a thorn goeth up into the hand of a drunkard, so is a parable in the mouth of fools."
+    },
+    {
+        "o": 17944,
+        "r": "kjv:Proverbs:26:10",
+        "t": "The*p great God that formed all things both rewardeth the fool, and rewardeth transgressors."
+    },
+    {
+        "o": 17945,
+        "r": "kjv:Proverbs:26:11",
+        "t": "As*p a dog returneth to his vomit, so a fool returneth to his folly."
+    },
+    {
+        "o": 17946,
+        "r": "kjv:Proverbs:26:12",
+        "t": "Seest*p thou a man wise in his own conceit? there is more hope of a fool than of him."
+    },
+    {
+        "o": 17947,
+        "r": "kjv:Proverbs:26:13",
+        "t": "The*p slothful man saith, There is a lion in the way; a lion is in the streets."
+    },
+    {
+        "o": 17948,
+        "r": "kjv:Proverbs:26:14",
+        "t": "As*p the door turneth upon his hinges, so doth the slothful upon his bed."
+    },
+    {
+        "o": 17949,
+        "r": "kjv:Proverbs:26:15",
+        "t": "The*p slothful hideth his hand in his bosom; it grieveth him to bring it again to his mouth."
+    },
+    {
+        "o": 17950,
+        "r": "kjv:Proverbs:26:16",
+        "t": "The*p sluggard is wiser in his own conceit than seven men that can render a reason."
+    },
+    {
+        "o": 17951,
+        "r": "kjv:Proverbs:26:17",
+        "t": "He*p that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears."
+    },
+    {
+        "o": 17952,
+        "r": "kjv:Proverbs:26:18",
+        "t": "As*p a mad man who casteth firebrands, arrows, and death,"
+    },
+    {
+        "o": 17953,
+        "r": "kjv:Proverbs:26:19",
+        "t": "So*p is the man that deceiveth his neighbour, and saith, Am not I in sport?"
+    },
+    {
+        "o": 17954,
+        "r": "kjv:Proverbs:26:20",
+        "t": "Where*p no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth."
+    },
+    {
+        "o": 17955,
+        "r": "kjv:Proverbs:26:21",
+        "t": "As*p coals are to burning coals, and wood to fire; so is a contentious man to kindle strife."
+    },
+    {
+        "o": 17956,
+        "r": "kjv:Proverbs:26:22",
+        "t": "The*p words of a talebearer are as wounds, and they go down into the innermost parts of the belly."
+    },
+    {
+        "o": 17957,
+        "r": "kjv:Proverbs:26:23",
+        "t": "Burning*p lips and a wicked heart are like a potsherd covered with silver dross."
+    },
+    {
+        "o": 17958,
+        "r": "kjv:Proverbs:26:24",
+        "t": "He*p that hateth dissembleth with his lips, and layeth up deceit within him;"
+    },
+    {
+        "o": 17959,
+        "r": "kjv:Proverbs:26:25",
+        "t": "When*p he speaketh fair, believe him not: for there are seven abominations in his heart."
+    },
+    {
+        "o": 17960,
+        "r": "kjv:Proverbs:26:26",
+        "t": "Whose*p hatred is covered by deceit, his wickedness shall be shewed before the whole congregation."
+    },
+    {
+        "o": 17961,
+        "r": "kjv:Proverbs:26:27",
+        "t": "Whoso*p diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him."
+    },
+    {
+        "o": 17962,
+        "r": "kjv:Proverbs:26:28",
+        "t": "A*p lying tongue hateth those that are afflicted by it; and a flattering mouth worketh ruin."
+    },
+    {
+        "o": 17963,
+        "r": "kjv:Proverbs:27:0",
+        "t": "Proverbs 27",
+        "h": 1
+    },
+    {
+        "o": 17964,
+        "r": "kjv:Proverbs:27:1",
+        "t": "Boast*p not thyself of to morrow; for thou knowest not what a day may bring forth."
+    },
+    {
+        "o": 17965,
+        "r": "kjv:Proverbs:27:2",
+        "t": "Let*p another man praise thee, and not thine own mouth; a stranger, and not thine own lips."
+    },
+    {
+        "o": 17966,
+        "r": "kjv:Proverbs:27:3",
+        "t": "A*p stone is heavy, and the sand weighty; but a fool's wrath is heavier than them both."
+    },
+    {
+        "o": 17967,
+        "r": "kjv:Proverbs:27:4",
+        "t": "Wrath*p is cruel, and anger is outrageous; but who is able to stand before envy?"
+    },
+    {
+        "o": 17968,
+        "r": "kjv:Proverbs:27:5",
+        "t": "Open*p rebuke is better than secret love."
+    },
+    {
+        "o": 17969,
+        "r": "kjv:Proverbs:27:6",
+        "t": "Faithful*p are the wounds of a friend; but the kisses of an enemy are deceitful."
+    },
+    {
+        "o": 17970,
+        "r": "kjv:Proverbs:27:7",
+        "t": "The*p full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet."
+    },
+    {
+        "o": 17971,
+        "r": "kjv:Proverbs:27:8",
+        "t": "As*p a bird that wandereth from her nest, so is a man that wandereth from his place."
+    },
+    {
+        "o": 17972,
+        "r": "kjv:Proverbs:27:9",
+        "t": "Ointment*p and perfume rejoice the heart: so doth the sweetness of a man's friend by hearty counsel."
+    },
+    {
+        "o": 17973,
+        "r": "kjv:Proverbs:27:10",
+        "t": "Thine*p own friend, and thy father's friend, forsake not; neither go into thy brother's house in the day of thy calamity: for better is a neighbour that is near than a brother far off."
+    },
+    {
+        "o": 17974,
+        "r": "kjv:Proverbs:27:11",
+        "t": "My*p son, be wise, and make my heart glad, that I may answer him that reproacheth me."
+    },
+    {
+        "o": 17975,
+        "r": "kjv:Proverbs:27:12",
+        "t": "A*p prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished."
+    },
+    {
+        "o": 17976,
+        "r": "kjv:Proverbs:27:13",
+        "t": "Take*p his garment that is surety for a stranger, and take a pledge of him for a strange woman."
+    },
+    {
+        "o": 17977,
+        "r": "kjv:Proverbs:27:14",
+        "t": "He*p that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him."
+    },
+    {
+        "o": 17978,
+        "r": "kjv:Proverbs:27:15",
+        "t": "A*p continual dropping in a very rainy day and a contentious woman are alike."
+    },
+    {
+        "o": 17979,
+        "r": "kjv:Proverbs:27:16",
+        "t": "Whosoever*p hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself."
+    },
+    {
+        "o": 17980,
+        "r": "kjv:Proverbs:27:17",
+        "t": "Iron*p sharpeneth iron; so a man sharpeneth the countenance of his friend."
+    },
+    {
+        "o": 17981,
+        "r": "kjv:Proverbs:27:18",
+        "t": "Whoso*p keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured."
+    },
+    {
+        "o": 17982,
+        "r": "kjv:Proverbs:27:19",
+        "t": "As*p in water face answereth to face, so the heart of man to man."
+    },
+    {
+        "o": 17983,
+        "r": "kjv:Proverbs:27:20",
+        "t": "Hell*p and destruction are never full; so the eyes of man are never satisfied."
+    },
+    {
+        "o": 17984,
+        "r": "kjv:Proverbs:27:21",
+        "t": "As*p the fining pot for silver, and the furnace for gold; so is a man to his praise."
+    },
+    {
+        "o": 17985,
+        "r": "kjv:Proverbs:27:22",
+        "t": "Though*p thou shouldest bray a fool in a mortar among wheat with a pestle, yet will not his foolishness depart from him."
+    },
+    {
+        "o": 17986,
+        "r": "kjv:Proverbs:27:23",
+        "t": "Be*p thou diligent to know the state of thy flocks, and look well to thy herds."
+    },
+    {
+        "o": 17987,
+        "r": "kjv:Proverbs:27:24",
+        "t": "For*p riches are not for ever: and doth the crown endure to every generation?"
+    },
+    {
+        "o": 17988,
+        "r": "kjv:Proverbs:27:25",
+        "t": "The*p hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered."
+    },
+    {
+        "o": 17989,
+        "r": "kjv:Proverbs:27:26",
+        "t": "The*p lambs are for thy clothing, and the goats are the price of the field."
+    },
+    {
+        "o": 17990,
+        "r": "kjv:Proverbs:27:27",
+        "t": "And*p thou shalt have goats' milk enough for thy food, for the food of thy household, and for the maintenance for thy maidens."
+    },
+    {
+        "o": 17991,
+        "r": "kjv:Proverbs:28:0",
+        "t": "Proverbs 28",
+        "h": 1
+    },
+    {
+        "o": 17992,
+        "r": "kjv:Proverbs:28:1",
+        "t": "The*p wicked flee when no man pursueth: but the righteous are bold as a lion."
+    },
+    {
+        "o": 17993,
+        "r": "kjv:Proverbs:28:2",
+        "t": "For*p the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged."
+    },
+    {
+        "o": 17994,
+        "r": "kjv:Proverbs:28:3",
+        "t": "A*p poor man that oppresseth the poor is like a sweeping rain which leaveth no food."
+    },
+    {
+        "o": 17995,
+        "r": "kjv:Proverbs:28:4",
+        "t": "They*p that forsake the law praise the wicked: but such as keep the law contend with them."
+    },
+    {
+        "o": 17996,
+        "r": "kjv:Proverbs:28:5",
+        "t": "Evil*p men understand not judgment: but they that seek the Lord*s understand all things."
+    },
+    {
+        "o": 17997,
+        "r": "kjv:Proverbs:28:6",
+        "t": "Better*p is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich."
+    },
+    {
+        "o": 17998,
+        "r": "kjv:Proverbs:28:7",
+        "t": "Whoso*p keepeth the law is a wise son: but he that is a companion of riotous men shameth his father."
+    },
+    {
+        "o": 17999,
+        "r": "kjv:Proverbs:28:8",
+        "t": "He*p that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor."
+    },
+    {
+        "o": 18000,
+        "r": "kjv:Proverbs:28:9",
+        "t": "He*p that turneth away his ear from hearing the law, even his prayer shall be abomination."
+    },
+    {
+        "o": 18001,
+        "r": "kjv:Proverbs:28:10",
+        "t": "Whoso*p causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession."
+    },
+    {
+        "o": 18002,
+        "r": "kjv:Proverbs:28:11",
+        "t": "The*p rich man is wise in his own conceit; but the poor that hath understanding searcheth him out."
+    },
+    {
+        "o": 18003,
+        "r": "kjv:Proverbs:28:12",
+        "t": "When*p righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden."
+    },
+    {
+        "o": 18004,
+        "r": "kjv:Proverbs:28:13",
+        "t": "He*p that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy."
+    },
+    {
+        "o": 18005,
+        "r": "kjv:Proverbs:28:14",
+        "t": "Happy*p is the man that feareth alway: but he that hardeneth his heart shall fall into mischief."
+    },
+    {
+        "o": 18006,
+        "r": "kjv:Proverbs:28:15",
+        "t": "As*p a roaring lion, and a ranging bear; so is a wicked ruler over the poor people."
+    },
+    {
+        "o": 18007,
+        "r": "kjv:Proverbs:28:16",
+        "t": "The*p prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days."
+    },
+    {
+        "o": 18008,
+        "r": "kjv:Proverbs:28:17",
+        "t": "A*p man that doeth violence to the blood of any person shall flee to the pit; let no man stay him."
+    },
+    {
+        "o": 18009,
+        "r": "kjv:Proverbs:28:18",
+        "t": "Whoso*p walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once."
+    },
+    {
+        "o": 18010,
+        "r": "kjv:Proverbs:28:19",
+        "t": "He*p that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough."
+    },
+    {
+        "o": 18011,
+        "r": "kjv:Proverbs:28:20",
+        "t": "A*p faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent."
+    },
+    {
+        "o": 18012,
+        "r": "kjv:Proverbs:28:21",
+        "t": "To*p have respect of persons is not good: for for a piece of bread that man will transgress."
+    },
+    {
+        "o": 18013,
+        "r": "kjv:Proverbs:28:22",
+        "t": "He*p that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him."
+    },
+    {
+        "o": 18014,
+        "r": "kjv:Proverbs:28:23",
+        "t": "He*p that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue."
+    },
+    {
+        "o": 18015,
+        "r": "kjv:Proverbs:28:24",
+        "t": "Whoso*p robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer."
+    },
+    {
+        "o": 18016,
+        "r": "kjv:Proverbs:28:25",
+        "t": "He*p that is of a proud heart stirreth up strife: but he that putteth his trust in the Lord*s shall be made fat."
+    },
+    {
+        "o": 18017,
+        "r": "kjv:Proverbs:28:26",
+        "t": "He*p that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered."
+    },
+    {
+        "o": 18018,
+        "r": "kjv:Proverbs:28:27",
+        "t": "He*p that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse."
+    },
+    {
+        "o": 18019,
+        "r": "kjv:Proverbs:28:28",
+        "t": "When*p the wicked rise, men hide themselves: but when they perish, the righteous increase."
+    },
+    {
+        "o": 18020,
+        "r": "kjv:Proverbs:29:0",
+        "t": "Proverbs 29",
+        "h": 1
+    },
+    {
+        "o": 18021,
+        "r": "kjv:Proverbs:29:1",
+        "t": "He,*p that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy."
+    },
+    {
+        "o": 18022,
+        "r": "kjv:Proverbs:29:2",
+        "t": "When*p the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."
+    },
+    {
+        "o": 18023,
+        "r": "kjv:Proverbs:29:3",
+        "t": "Whoso*p loveth wisdom rejoiceth his father: but he that keepeth company with harlots spendeth his substance."
+    },
+    {
+        "o": 18024,
+        "r": "kjv:Proverbs:29:4",
+        "t": "The*p king by judgment establisheth the land: but he that receiveth gifts overthroweth it."
+    },
+    {
+        "o": 18025,
+        "r": "kjv:Proverbs:29:5",
+        "t": "A*p man that flattereth his neighbour spreadeth a net for his feet."
+    },
+    {
+        "o": 18026,
+        "r": "kjv:Proverbs:29:6",
+        "t": "In*p the transgression of an evil man there is a snare: but the righteous doth sing and rejoice."
+    },
+    {
+        "o": 18027,
+        "r": "kjv:Proverbs:29:7",
+        "t": "The*p righteous considereth the cause of the poor: but the wicked regardeth not to know it."
+    },
+    {
+        "o": 18028,
+        "r": "kjv:Proverbs:29:8",
+        "t": "Scornful*p men bring a city into a snare: but wise men turn away wrath."
+    },
+    {
+        "o": 18029,
+        "r": "kjv:Proverbs:29:9",
+        "t": "If*p a wise man contendeth with a foolish man, whether he rage or laugh, there is no rest."
+    },
+    {
+        "o": 18030,
+        "r": "kjv:Proverbs:29:10",
+        "t": "The*p bloodthirsty hate the upright: but the just seek his soul."
+    },
+    {
+        "o": 18031,
+        "r": "kjv:Proverbs:29:11",
+        "t": "A*p fool uttereth all his mind: but a wise man keepeth it in till afterwards."
+    },
+    {
+        "o": 18032,
+        "r": "kjv:Proverbs:29:12",
+        "t": "If*p a ruler hearken to lies, all his servants are wicked."
+    },
+    {
+        "o": 18033,
+        "r": "kjv:Proverbs:29:13",
+        "t": "The*p poor and the deceitful man meet together: the Lord*s lighteneth both their eyes."
+    },
+    {
+        "o": 18034,
+        "r": "kjv:Proverbs:29:14",
+        "t": "The*p king that faithfully judgeth the poor, his throne shall be established for ever."
+    },
+    {
+        "o": 18035,
+        "r": "kjv:Proverbs:29:15",
+        "t": "The*p rod and reproof give wisdom: but a child left to himself bringeth his mother to shame."
+    },
+    {
+        "o": 18036,
+        "r": "kjv:Proverbs:29:16",
+        "t": "When*p the wicked are multiplied, transgression increaseth: but the righteous shall see their fall."
+    },
+    {
+        "o": 18037,
+        "r": "kjv:Proverbs:29:17",
+        "t": "Correct*p thy son, and he shall give thee rest; yea, he shall give delight unto thy soul."
+    },
+    {
+        "o": 18038,
+        "r": "kjv:Proverbs:29:18",
+        "t": "Where*p there is no vision, the people perish: but he that keepeth the law, happy is he."
+    },
+    {
+        "o": 18039,
+        "r": "kjv:Proverbs:29:19",
+        "t": "A*p servant will not be corrected by words: for though he understand he will not answer."
+    },
+    {
+        "o": 18040,
+        "r": "kjv:Proverbs:29:20",
+        "t": "Seest*p thou a man that is hasty in his words? there is more hope of a fool than of him."
+    },
+    {
+        "o": 18041,
+        "r": "kjv:Proverbs:29:21",
+        "t": "He*p that delicately bringeth up his servant from a child shall have him become his son at the length."
+    },
+    {
+        "o": 18042,
+        "r": "kjv:Proverbs:29:22",
+        "t": "An*p angry man stirreth up strife, and a furious man aboundeth in transgression."
+    },
+    {
+        "o": 18043,
+        "r": "kjv:Proverbs:29:23",
+        "t": "A*p man's pride shall bring him low: but honour shall uphold the humble in spirit."
+    },
+    {
+        "o": 18044,
+        "r": "kjv:Proverbs:29:24",
+        "t": "Whoso*p is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth it not."
+    },
+    {
+        "o": 18045,
+        "r": "kjv:Proverbs:29:25",
+        "t": "The*p fear of man bringeth a snare: but whoso putteth his trust in the Lord*s shall be safe."
+    },
+    {
+        "o": 18046,
+        "r": "kjv:Proverbs:29:26",
+        "t": "Many*p seek the ruler's favour; but every man's judgment cometh from the Lord.*s"
+    },
+    {
+        "o": 18047,
+        "r": "kjv:Proverbs:29:27",
+        "t": "An*p unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked."
+    },
+    {
+        "o": 18048,
+        "r": "kjv:Proverbs:30:0",
+        "t": "Proverbs 30",
+        "h": 1
+    },
+    {
+        "o": 18049,
+        "r": "kjv:Proverbs:30:1",
+        "t": "The*p words of Agur the son of Jakeh, even the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,"
+    },
+    {
+        "o": 18050,
+        "r": "kjv:Proverbs:30:2",
+        "t": "Surely*p I am more brutish than any man, and have not the understanding of a man."
+    },
+    {
+        "o": 18051,
+        "r": "kjv:Proverbs:30:3",
+        "t": "I*p neither learned wisdom, nor have the knowledge of the holy."
+    },
+    {
+        "o": 18052,
+        "r": "kjv:Proverbs:30:4",
+        "t": "Who*p hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son's name, if thou canst tell?"
+    },
+    {
+        "o": 18053,
+        "r": "kjv:Proverbs:30:5",
+        "t": "Every*p word of God is pure: he is a shield unto them that put their trust in him."
+    },
+    {
+        "o": 18054,
+        "r": "kjv:Proverbs:30:6",
+        "t": "Add*p thou not unto his words, lest he reprove thee, and thou be found a liar."
+    },
+    {
+        "o": 18055,
+        "r": "kjv:Proverbs:30:7",
+        "t": "Two*p things have I required of thee; deny me them not before I die:"
+    },
+    {
+        "o": 18056,
+        "r": "kjv:Proverbs:30:8",
+        "t": "Remove*p far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:"
+    },
+    {
+        "o": 18057,
+        "r": "kjv:Proverbs:30:9",
+        "t": "Lest*p I be full, and deny thee, and say, Who is the Lord?*s or lest I be poor, and steal, and take the name of my God in vain."
+    },
+    {
+        "o": 18058,
+        "r": "kjv:Proverbs:30:10",
+        "t": "Accuse*p not a servant unto his master, lest he curse thee, and thou be found guilty."
+    },
+    {
+        "o": 18059,
+        "r": "kjv:Proverbs:30:11",
+        "t": "There*p is a generation that curseth their father, and doth not bless their mother."
+    },
+    {
+        "o": 18060,
+        "r": "kjv:Proverbs:30:12",
+        "t": "There*p is a generation that are pure in their own eyes, and yet is not washed from their filthiness."
+    },
+    {
+        "o": 18061,
+        "r": "kjv:Proverbs:30:13",
+        "t": "There*p is a generation, O how lofty are their eyes! and their eyelids are lifted up."
+    },
+    {
+        "o": 18062,
+        "r": "kjv:Proverbs:30:14",
+        "t": "There*p is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men."
+    },
+    {
+        "o": 18063,
+        "r": "kjv:Proverbs:30:15",
+        "t": "The*p horseleach hath two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:"
+    },
+    {
+        "o": 18064,
+        "r": "kjv:Proverbs:30:16",
+        "t": "The*p grave; and the barren womb; the earth that is not filled with water; and the fire that saith not, It is enough."
+    },
+    {
+        "o": 18065,
+        "r": "kjv:Proverbs:30:17",
+        "t": "The*p eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it."
+    },
+    {
+        "o": 18066,
+        "r": "kjv:Proverbs:30:18",
+        "t": "There*p be three things which are too wonderful for me, yea, four which I know not:"
+    },
+    {
+        "o": 18067,
+        "r": "kjv:Proverbs:30:19",
+        "t": "The*p way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid."
+    },
+    {
+        "o": 18068,
+        "r": "kjv:Proverbs:30:20",
+        "t": "Such*p is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness."
+    },
+    {
+        "o": 18069,
+        "r": "kjv:Proverbs:30:21",
+        "t": "For*p three things the earth is disquieted, and for four which it cannot bear:"
+    },
+    {
+        "o": 18070,
+        "r": "kjv:Proverbs:30:22",
+        "t": "For*p a servant when he reigneth; and a fool when he is filled with meat;"
+    },
+    {
+        "o": 18071,
+        "r": "kjv:Proverbs:30:23",
+        "t": "For*p an odious woman when she is married; and an handmaid that is heir to her mistress."
+    },
+    {
+        "o": 18072,
+        "r": "kjv:Proverbs:30:24",
+        "t": "There*p be four things which are little upon the earth, but they are exceeding wise:"
+    },
+    {
+        "o": 18073,
+        "r": "kjv:Proverbs:30:25",
+        "t": "The*p ants are a people not strong, yet they prepare their meat in the summer;"
+    },
+    {
+        "o": 18074,
+        "r": "kjv:Proverbs:30:26",
+        "t": "The*p conies are but a feeble folk, yet make they their houses in the rocks;"
+    },
+    {
+        "o": 18075,
+        "r": "kjv:Proverbs:30:27",
+        "t": "The*p locusts have no king, yet go they forth all of them by bands;"
+    },
+    {
+        "o": 18076,
+        "r": "kjv:Proverbs:30:28",
+        "t": "The*p spider taketh hold with her hands, and is in kings' palaces."
+    },
+    {
+        "o": 18077,
+        "r": "kjv:Proverbs:30:29",
+        "t": "There*p be three things which go well, yea, four are comely in going:"
+    },
+    {
+        "o": 18078,
+        "r": "kjv:Proverbs:30:30",
+        "t": "A*p lion which is strongest among beasts, and turneth not away for any;"
+    },
+    {
+        "o": 18079,
+        "r": "kjv:Proverbs:30:31",
+        "t": "A*p greyhound; an he goat also; and a king, against whom there is no rising up."
+    },
+    {
+        "o": 18080,
+        "r": "kjv:Proverbs:30:32",
+        "t": "If*p thou hast done foolishly in lifting up thyself, or if thou hast thought evil, lay thine hand upon thy mouth."
+    },
+    {
+        "o": 18081,
+        "r": "kjv:Proverbs:30:33",
+        "t": "Surely*p the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife."
+    },
+    {
+        "o": 18082,
+        "r": "kjv:Proverbs:31:0",
+        "t": "Proverbs 31",
+        "h": 1
+    },
+    {
+        "o": 18083,
+        "r": "kjv:Proverbs:31:1",
+        "t": "The*p words of king Lemuel, the prophecy that his mother taught him."
+    },
+    {
+        "o": 18084,
+        "r": "kjv:Proverbs:31:2",
+        "t": "What,*p my son? and what, the son of my womb? and what, the son of my vows?"
+    },
+    {
+        "o": 18085,
+        "r": "kjv:Proverbs:31:3",
+        "t": "Give*p not thy strength unto women, nor thy ways to that which destroyeth kings."
+    },
+    {
+        "o": 18086,
+        "r": "kjv:Proverbs:31:4",
+        "t": "It*p is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink:"
+    },
+    {
+        "o": 18087,
+        "r": "kjv:Proverbs:31:5",
+        "t": "Lest*p they drink, and forget the law, and pervert the judgment of any of the afflicted."
+    },
+    {
+        "o": 18088,
+        "r": "kjv:Proverbs:31:6",
+        "t": "Give*p strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts."
+    },
+    {
+        "o": 18089,
+        "r": "kjv:Proverbs:31:7",
+        "t": "Let*p him drink, and forget his poverty, and remember his misery no more."
+    },
+    {
+        "o": 18090,
+        "r": "kjv:Proverbs:31:8",
+        "t": "Open*p thy mouth for the dumb in the cause of all such as are appointed to destruction."
+    },
+    {
+        "o": 18091,
+        "r": "kjv:Proverbs:31:9",
+        "t": "Open*p thy mouth, judge righteously, and plead the cause of the poor and needy."
+    },
+    {
+        "o": 18092,
+        "r": "kjv:Proverbs:31:10",
+        "t": "Who*p can find a virtuous woman? for her price is far above rubies."
+    },
+    {
+        "o": 18093,
+        "r": "kjv:Proverbs:31:11",
+        "t": "The*p heart of her husband doth safely trust in her, so that he shall have no need of spoil."
+    },
+    {
+        "o": 18094,
+        "r": "kjv:Proverbs:31:12",
+        "t": "She*p will do him good and not evil all the days of her life."
+    },
+    {
+        "o": 18095,
+        "r": "kjv:Proverbs:31:13",
+        "t": "She*p seeketh wool, and flax, and worketh willingly with her hands."
+    },
+    {
+        "o": 18096,
+        "r": "kjv:Proverbs:31:14",
+        "t": "She*p is like the merchants' ships; she bringeth her food from afar."
+    },
+    {
+        "o": 18097,
+        "r": "kjv:Proverbs:31:15",
+        "t": "She*p riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens."
+    },
+    {
+        "o": 18098,
+        "r": "kjv:Proverbs:31:16",
+        "t": "She*p considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard."
+    },
+    {
+        "o": 18099,
+        "r": "kjv:Proverbs:31:17",
+        "t": "She*p girdeth her loins with strength, and strengtheneth her arms."
+    },
+    {
+        "o": 18100,
+        "r": "kjv:Proverbs:31:18",
+        "t": "She*p perceiveth that her merchandise is good: her candle goeth not out by night."
+    },
+    {
+        "o": 18101,
+        "r": "kjv:Proverbs:31:19",
+        "t": "She*p layeth her hands to the spindle, and her hands hold the distaff."
+    },
+    {
+        "o": 18102,
+        "r": "kjv:Proverbs:31:20",
+        "t": "She*p stretcheth out her hand to the poor; yea, she reacheth forth her hands to the needy."
+    },
+    {
+        "o": 18103,
+        "r": "kjv:Proverbs:31:21",
+        "t": "She*p is not afraid of the snow for her household: for all her household are clothed with scarlet."
+    },
+    {
+        "o": 18104,
+        "r": "kjv:Proverbs:31:22",
+        "t": "She*p maketh herself coverings of tapestry; her clothing is silk and purple."
+    },
+    {
+        "o": 18105,
+        "r": "kjv:Proverbs:31:23",
+        "t": "Her*p husband is known in the gates, when he sitteth among the elders of the land."
+    },
+    {
+        "o": 18106,
+        "r": "kjv:Proverbs:31:24",
+        "t": "She*p maketh fine linen, and selleth it; and delivereth girdles unto the merchant."
+    },
+    {
+        "o": 18107,
+        "r": "kjv:Proverbs:31:25",
+        "t": "Strength*p and honour are her clothing; and she shall rejoice in time to come."
+    },
+    {
+        "o": 18108,
+        "r": "kjv:Proverbs:31:26",
+        "t": "She*p openeth her mouth with wisdom; and in her tongue is the law of kindness."
+    },
+    {
+        "o": 18109,
+        "r": "kjv:Proverbs:31:27",
+        "t": "She*p looketh well to the ways of her household, and eateth not the bread of idleness."
+    },
+    {
+        "o": 18110,
+        "r": "kjv:Proverbs:31:28",
+        "t": "Her*p children arise up, and call her blessed; her husband also, and he praiseth her."
+    },
+    {
+        "o": 18111,
+        "r": "kjv:Proverbs:31:29",
+        "t": "Many*p daughters have done virtuously, but thou excellest them all."
+    },
+    {
+        "o": 18112,
+        "r": "kjv:Proverbs:31:30",
+        "t": "Favour*p is deceitful, and beauty is vain: but a woman that feareth the Lord,*s she shall be praised."
+    },
+    {
+        "o": 18113,
+        "r": "kjv:Proverbs:31:31",
+        "t": "Give*p her of the fruit of her hands; and let her own works praise her in the gates."
+    }
+]

@@ -1,0 +1,309 @@
+[
+    {
+        "o": 3343,
+        "r": "nasb:Leviticus:13:0",
+        "t": "Leviticus 13",
+        "h": 1
+    },
+    {
+        "o": 3344,
+        "r": "nasb:Leviticus:13:0",
+        "t": "The Test for Leprosy",
+        "h": 2
+    },
+    {
+        "o": 3345,
+        "r": "nasb:Leviticus:13:1",
+        "t": "Then*p the Lord*s spoke to Moses and to Aaron, saying,"
+    },
+    {
+        "o": 3346,
+        "r": "nasb:Leviticus:13:2",
+        "t": "“When a man has on the skin of his body a swelling or a scab or a bright spot, and it becomes an infection of leprosy on the skin of his body, then he shall be brought to Aaron the priest or to one of his sons the priests."
+    },
+    {
+        "o": 3347,
+        "r": "nasb:Leviticus:13:3",
+        "t": "The priest shall look at the mark on the skin of the body, and if the hair in the infection has turned white and the infection appears to be deeper than the skin of his body, it is an infection of leprosy; when the priest has looked at him, he shall pronounce him unclean."
+    },
+    {
+        "o": 3348,
+        "r": "nasb:Leviticus:13:4",
+        "t": "But if the bright spot is white on the skin of his body, and it does not appear to be deeper than the skin, and the hair on it has not turned white, then the priest shall isolate him*i who*i has*i the infection for seven days."
+    },
+    {
+        "o": 3349,
+        "r": "nasb:Leviticus:13:5",
+        "t": "The priest shall look at him on the seventh day, and if in his eyes the infection has not changed and*i the infection has not spread on the skin, then the priest shall isolate him for seven more days."
+    },
+    {
+        "o": 3350,
+        "r": "nasb:Leviticus:13:6",
+        "t": "The priest shall look at him again on the seventh day, and if the infection has faded and the mark has not spread on the skin, then the priest shall pronounce him clean; it is only*i a scab. And he shall wash his clothes and be clean."
+    },
+    {
+        "o": 3351,
+        "r": "nasb:Leviticus:13:7",
+        "t": "“But*p if the scab spreads farther on the skin after he has shown himself to the priest for his cleansing, he shall appear again to the priest."
+    },
+    {
+        "o": 3352,
+        "r": "nasb:Leviticus:13:8",
+        "t": "The priest shall look, and if the scab has spread on the skin, then the priest shall pronounce him unclean; it is leprosy."
+    },
+    {
+        "o": 3353,
+        "r": "nasb:Leviticus:13:9",
+        "t": "“When*p the infection of leprosy is on a man, then he shall be brought to the priest."
+    },
+    {
+        "o": 3354,
+        "r": "nasb:Leviticus:13:10",
+        "t": "The priest shall then look, and if there is a white swelling in the skin, and it has turned the hair white, and there is quick raw flesh in the swelling,"
+    },
+    {
+        "o": 3355,
+        "r": "nasb:Leviticus:13:11",
+        "t": "it is a chronic leprosy on the skin of his body, and the priest shall pronounce him unclean; he shall not isolate him, for he is unclean."
+    },
+    {
+        "o": 3356,
+        "r": "nasb:Leviticus:13:12",
+        "t": "If the leprosy breaks out farther on the skin, and the leprosy covers all the skin of him*i who*i has*i the infection from his head even to his feet, as far as the priest can see,"
+    },
+    {
+        "o": 3357,
+        "r": "nasb:Leviticus:13:13",
+        "t": "then the priest shall look, and behold, if*i the leprosy has covered all his body, he shall pronounce clean him*i who*i has*i the infection; it has all turned white and*i he is clean."
+    },
+    {
+        "o": 3358,
+        "r": "nasb:Leviticus:13:14",
+        "t": "But whenever raw flesh appears on him, he shall be unclean."
+    },
+    {
+        "o": 3359,
+        "r": "nasb:Leviticus:13:15",
+        "t": "The priest shall look at the raw flesh, and he shall pronounce him unclean; the raw flesh is unclean, it is leprosy."
+    },
+    {
+        "o": 3360,
+        "r": "nasb:Leviticus:13:16",
+        "t": "Or if the raw flesh turns again and is changed to white, then he shall come to the priest,"
+    },
+    {
+        "o": 3361,
+        "r": "nasb:Leviticus:13:17",
+        "t": "and the priest shall look at him, and behold, if*i the infection has turned to white, then the priest shall pronounce clean him*i who*i has*i the infection; he is clean."
+    },
+    {
+        "o": 3362,
+        "r": "nasb:Leviticus:13:18",
+        "t": "“When*p the body has a boil on its skin and it is healed,"
+    },
+    {
+        "o": 3363,
+        "r": "nasb:Leviticus:13:19",
+        "t": "and in the place of the boil there is a white swelling or a reddish-white, bright spot, then it shall be shown to the priest;"
+    },
+    {
+        "o": 3364,
+        "r": "nasb:Leviticus:13:20",
+        "t": "and the priest shall look, and behold, if*i it appears to be lower than the skin, and the hair on it has turned white, then the priest shall pronounce him unclean; it is the infection of leprosy, it has broken out in the boil."
+    },
+    {
+        "o": 3365,
+        "r": "nasb:Leviticus:13:21",
+        "t": "But if the priest looks at it, and behold, there are no white hairs in it and it is not lower than the skin and is faded, then the priest shall isolate him for seven days;"
+    },
+    {
+        "o": 3366,
+        "r": "nasb:Leviticus:13:22",
+        "t": "and if it spreads farther on the skin, then the priest shall pronounce him unclean; it is an infection."
+    },
+    {
+        "o": 3367,
+        "r": "nasb:Leviticus:13:23",
+        "t": "But if the bright spot remains in its place and does not spread, it is only*i the scar of the boil; and the priest shall pronounce him clean."
+    },
+    {
+        "o": 3368,
+        "r": "nasb:Leviticus:13:24",
+        "t": "“Or*p if the body sustains in its skin a burn by fire, and the raw flesh*i of the burn becomes a bright spot, reddish-white, or white,"
+    },
+    {
+        "o": 3369,
+        "r": "nasb:Leviticus:13:25",
+        "t": "then the priest shall look at it. And if the hair in the bright spot has turned white and it appears to be deeper than the skin, it is leprosy; it has broken out in the burn. Therefore, the priest shall pronounce him unclean; it is an infection of leprosy."
+    },
+    {
+        "o": 3370,
+        "r": "nasb:Leviticus:13:26",
+        "t": "But if the priest looks at it, and indeed, there is no white hair in the bright spot and it is no deeper than the skin, but is dim, then the priest shall isolate him for seven days;"
+    },
+    {
+        "o": 3371,
+        "r": "nasb:Leviticus:13:27",
+        "t": "and the priest shall look at him on the seventh day. If it spreads farther in the skin, then the priest shall pronounce him unclean; it is an infection of leprosy."
+    },
+    {
+        "o": 3372,
+        "r": "nasb:Leviticus:13:28",
+        "t": "But if the bright spot remains in its place and has not spread in the skin, but is dim, it is the swelling from the burn; and the priest shall pronounce him clean, for it is only*i the scar of the burn."
+    },
+    {
+        "o": 3373,
+        "r": "nasb:Leviticus:13:29",
+        "t": "“Now*p if a man or woman has an infection on the head or on the beard,"
+    },
+    {
+        "o": 3374,
+        "r": "nasb:Leviticus:13:30",
+        "t": "then the priest shall look at the infection, and if it appears to be deeper than the skin and there is thin yellowish hair in it, then the priest shall pronounce him unclean; it is a scale, it is leprosy of the head or of the beard."
+    },
+    {
+        "o": 3375,
+        "r": "nasb:Leviticus:13:31",
+        "t": "But if the priest looks at the infection of the scale, and indeed, it appears to be no deeper than the skin and there is no black hair in it, then the priest shall isolate the*i person*i with the scaly infection for seven days."
+    },
+    {
+        "o": 3376,
+        "r": "nasb:Leviticus:13:32",
+        "t": "On the seventh day the priest shall look at the infection, and if the scale has not spread and no yellowish hair has grown in it, and the appearance of the scale is no deeper than the skin,"
+    },
+    {
+        "o": 3377,
+        "r": "nasb:Leviticus:13:33",
+        "t": "then he shall shave himself, but he shall not shave the scale; and the priest shall isolate the*i person*i with the scale seven more days."
+    },
+    {
+        "o": 3378,
+        "r": "nasb:Leviticus:13:34",
+        "t": "Then on the seventh day the priest shall look at the scale, and if the scale has not spread in the skin and it appears to be no deeper than the skin, the priest shall pronounce him clean; and he shall wash his clothes and be clean."
+    },
+    {
+        "o": 3379,
+        "r": "nasb:Leviticus:13:35",
+        "t": "But if the scale spreads farther in the skin after his cleansing,"
+    },
+    {
+        "o": 3380,
+        "r": "nasb:Leviticus:13:36",
+        "t": "then the priest shall look at him, and if the scale has spread in the skin, the priest need not seek for the yellowish hair; he is unclean."
+    },
+    {
+        "o": 3381,
+        "r": "nasb:Leviticus:13:37",
+        "t": "If in his sight the scale has remained, however, and black hair has grown in it, the scale has healed, he is clean; and the priest shall pronounce him clean."
+    },
+    {
+        "o": 3382,
+        "r": "nasb:Leviticus:13:38",
+        "t": "“When*p a man or a woman has bright spots on the skin of the body, even*i white bright spots,"
+    },
+    {
+        "o": 3383,
+        "r": "nasb:Leviticus:13:39",
+        "t": "then the priest shall look, and if the bright spots on the skin of their bodies are a faint white, it is eczema that has broken out on the skin; he is clean."
+    },
+    {
+        "o": 3384,
+        "r": "nasb:Leviticus:13:40",
+        "t": "“Now*p if a man loses the hair of his head, he is bald; he is clean."
+    },
+    {
+        "o": 3385,
+        "r": "nasb:Leviticus:13:41",
+        "t": "If his head becomes bald at the front and sides, he is bald on the forehead; he is clean."
+    },
+    {
+        "o": 3386,
+        "r": "nasb:Leviticus:13:42",
+        "t": "But if on the bald head or the bald forehead, there occurs a reddish-white infection, it is leprosy breaking out on his bald head or on his bald forehead."
+    },
+    {
+        "o": 3387,
+        "r": "nasb:Leviticus:13:43",
+        "t": "Then the priest shall look at him; and if the swelling of the infection is reddish-white on his bald head or on his bald forehead, like the appearance of leprosy in the skin of the body,"
+    },
+    {
+        "o": 3388,
+        "r": "nasb:Leviticus:13:44",
+        "t": "he is a leprous man, he is unclean. The priest shall surely pronounce him unclean; his infection is on his head."
+    },
+    {
+        "o": 3389,
+        "r": "nasb:Leviticus:13:45",
+        "t": "“As*p for the leper who has the infection, his clothes shall be torn, and the hair of his head shall be uncovered, and he shall cover his mustache and cry, ‘Unclean! Unclean!’"
+    },
+    {
+        "o": 3390,
+        "r": "nasb:Leviticus:13:46",
+        "t": "He shall remain unclean all the days during which he has the infection; he is unclean. He shall live alone; his dwelling shall be outside the camp."
+    },
+    {
+        "o": 3391,
+        "r": "nasb:Leviticus:13:47",
+        "t": "“When*p a garment has a mark of leprosy in it, whether it is a wool garment or a linen garment,"
+    },
+    {
+        "o": 3392,
+        "r": "nasb:Leviticus:13:48",
+        "t": "whether in warp or woof, of linen or of wool, whether in leather or in any article made of leather,"
+    },
+    {
+        "o": 3393,
+        "r": "nasb:Leviticus:13:49",
+        "t": "if the mark is greenish or reddish in the garment or in the leather, or in the warp or in the woof, or in any article of leather, it is a leprous mark and shall be shown to the priest."
+    },
+    {
+        "o": 3394,
+        "r": "nasb:Leviticus:13:50",
+        "t": "Then the priest shall look at the mark and shall quarantine the article with the mark for seven days."
+    },
+    {
+        "o": 3395,
+        "r": "nasb:Leviticus:13:51",
+        "t": "He shall then look at the mark on the seventh day; if the mark has spread in the garment, whether in the warp or in the woof, or in the leather, whatever the purpose for which the leather is used, the mark is a leprous malignancy, it is unclean."
+    },
+    {
+        "o": 3396,
+        "r": "nasb:Leviticus:13:52",
+        "t": "So he shall burn the garment, whether the warp or the woof, in wool or in linen, or any article of leather in which the mark occurs, for it is a leprous malignancy; it shall be burned in the fire."
+    },
+    {
+        "o": 3397,
+        "r": "nasb:Leviticus:13:53",
+        "t": "“But*p if the priest shall look, and indeed the mark has not spread in the garment, either in the warp or in the woof, or in any article of leather,"
+    },
+    {
+        "o": 3398,
+        "r": "nasb:Leviticus:13:54",
+        "t": "then the priest shall order them to wash the thing in which the mark occurs and he shall quarantine it for seven more days."
+    },
+    {
+        "o": 3399,
+        "r": "nasb:Leviticus:13:55",
+        "t": "After the article with the mark has been washed, the priest shall again look, and if the mark has not changed its appearance, even though the mark has not spread, it is unclean; you shall burn it in the fire, whether an eating away has produced bareness on the top or on the front of it."
+    },
+    {
+        "o": 3400,
+        "r": "nasb:Leviticus:13:56",
+        "t": "“Then*p if the priest looks, and if the mark has faded after it has been washed, then he shall tear it out of the garment or out of the leather, whether from the warp or from the woof;"
+    },
+    {
+        "o": 3401,
+        "r": "nasb:Leviticus:13:57",
+        "t": "and if it appears again in the garment, whether in the warp or in the woof, or in any article of leather, it is an outbreak; the article with the mark shall be burned in the fire."
+    },
+    {
+        "o": 3402,
+        "r": "nasb:Leviticus:13:58",
+        "t": "The garment, whether the warp or the woof, or any article of leather from which the mark has departed when you washed it, it shall then be washed a second time and will be clean.”"
+    },
+    {
+        "o": 3403,
+        "r": "nasb:Leviticus:13:59",
+        "t": "This*p is the law for the mark of leprosy in a garment of wool or linen, whether in the warp or in the woof, or in any article of leather, for pronouncing it clean or unclean."
+    }
+]

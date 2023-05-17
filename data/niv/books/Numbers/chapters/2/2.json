@@ -1,0 +1,184 @@
+[
+    {
+        "o": 3985,
+        "r": "niv:Numbers:2:0",
+        "t": "Numbers 2",
+        "h": 1
+    },
+    {
+        "o": 3986,
+        "r": "niv:Numbers:2:0",
+        "t": "The Arrangement of the Tribal Camps",
+        "h": 2
+    },
+    {
+        "o": 3987,
+        "r": "niv:Numbers:2:1",
+        "t": "The*p Lord*s said to Moses and Aaron:"
+    },
+    {
+        "o": 3988,
+        "r": "niv:Numbers:2:2",
+        "t": "“The Israelites are to camp around the tent of meeting some distance from it, each of them under their standard and holding the banners of their family.”"
+    },
+    {
+        "o": 3989,
+        "r": "niv:Numbers:2:3",
+        "t": "On*pln the east, toward the sunrise, the divisions of the camp of Judah are to encamp under their standard. The leader of the people of Judah is Nahshon son of Amminadab."
+    },
+    {
+        "o": 3990,
+        "r": "niv:Numbers:2:4",
+        "t": "His division numbers 74,600."
+    },
+    {
+        "o": 3991,
+        "r": "niv:Numbers:2:5",
+        "t": "The*ln tribe of Issachar will camp next to them. The leader of the people of Issachar is Nethanel son of Zuar."
+    },
+    {
+        "o": 3992,
+        "r": "niv:Numbers:2:6",
+        "t": "His division numbers 54,400."
+    },
+    {
+        "o": 3993,
+        "r": "niv:Numbers:2:7",
+        "t": "The*ln tribe of Zebulun will be next. The leader of the people of Zebulun is Eliab son of Helon."
+    },
+    {
+        "o": 3994,
+        "r": "niv:Numbers:2:8",
+        "t": "His division numbers 57,400."
+    },
+    {
+        "o": 3995,
+        "r": "niv:Numbers:2:9",
+        "t": "All*ln the men assigned to the camp of Judah, according to their divisions, number 186,400. They will set out first."
+    },
+    {
+        "o": 3996,
+        "r": "niv:Numbers:2:10",
+        "t": "On*pln the south will be the divisions of the camp of Reuben under their standard. The leader of the people of Reuben is Elizur son of Shedeur."
+    },
+    {
+        "o": 3997,
+        "r": "niv:Numbers:2:11",
+        "t": "His division numbers 46,500."
+    },
+    {
+        "o": 3998,
+        "r": "niv:Numbers:2:12",
+        "t": "The*ln tribe of Simeon will camp next to them. The leader of the people of Simeon is Shelumiel son of Zurishaddai."
+    },
+    {
+        "o": 3999,
+        "r": "niv:Numbers:2:13",
+        "t": "His division numbers 59,300."
+    },
+    {
+        "o": 4000,
+        "r": "niv:Numbers:2:14",
+        "t": "The*ln tribe of Gad will be next. The leader of the people of Gad is Eliasaph son of Deuel."
+    },
+    {
+        "o": 4001,
+        "r": "niv:Numbers:2:15",
+        "t": "His division numbers 45,650."
+    },
+    {
+        "o": 4002,
+        "r": "niv:Numbers:2:16",
+        "t": "All*ln the men assigned to the camp of Reuben, according to their divisions, number 151,450. They will set out second."
+    },
+    {
+        "o": 4003,
+        "r": "niv:Numbers:2:17",
+        "t": "Then*pln the tent of meeting and the camp of the Levites will set out in the middle of the camps. They will set out in the same order as they encamp, each in their own place under their standard."
+    },
+    {
+        "o": 4004,
+        "r": "niv:Numbers:2:18",
+        "t": "On*pln the west will be the divisions of the camp of Ephraim under their standard. The leader of the people of Ephraim is Elishama son of Ammihud."
+    },
+    {
+        "o": 4005,
+        "r": "niv:Numbers:2:19",
+        "t": "His division numbers 40,500."
+    },
+    {
+        "o": 4006,
+        "r": "niv:Numbers:2:20",
+        "t": "The*ln tribe of Manasseh will be next to them. The leader of the people of Manasseh is Gamaliel son of Pedahzur."
+    },
+    {
+        "o": 4007,
+        "r": "niv:Numbers:2:21",
+        "t": "His division numbers 32,200."
+    },
+    {
+        "o": 4008,
+        "r": "niv:Numbers:2:22",
+        "t": "The*ln tribe of Benjamin will be next. The leader of the people of Benjamin is Abidan son of Gideoni."
+    },
+    {
+        "o": 4009,
+        "r": "niv:Numbers:2:23",
+        "t": "His division numbers 35,400."
+    },
+    {
+        "o": 4010,
+        "r": "niv:Numbers:2:24",
+        "t": "All*ln the men assigned to the camp of Ephraim, according to their divisions, number 108,100. They will set out third."
+    },
+    {
+        "o": 4011,
+        "r": "niv:Numbers:2:25",
+        "t": "On*pln the north will be the divisions of the camp of Dan under their standard. The leader of the people of Dan is Ahiezer son of Ammishaddai."
+    },
+    {
+        "o": 4012,
+        "r": "niv:Numbers:2:26",
+        "t": "His division numbers 62,700."
+    },
+    {
+        "o": 4013,
+        "r": "niv:Numbers:2:27",
+        "t": "The*ln tribe of Asher will camp next to them. The leader of the people of Asher is Pagiel son of Okran."
+    },
+    {
+        "o": 4014,
+        "r": "niv:Numbers:2:28",
+        "t": "His division numbers 41,500."
+    },
+    {
+        "o": 4015,
+        "r": "niv:Numbers:2:29",
+        "t": "The*ln tribe of Naphtali will be next. The leader of the people of Naphtali is Ahira son of Enan."
+    },
+    {
+        "o": 4016,
+        "r": "niv:Numbers:2:30",
+        "t": "His division numbers 53,400."
+    },
+    {
+        "o": 4017,
+        "r": "niv:Numbers:2:31",
+        "t": "All*ln the men assigned to the camp of Dan number 157,600. They will set out last, under their standards."
+    },
+    {
+        "o": 4018,
+        "r": "niv:Numbers:2:32",
+        "t": "These*pln are the Israelites, counted according to their families. All the men in the camps, by their divisions, number 603,550."
+    },
+    {
+        "o": 4019,
+        "r": "niv:Numbers:2:33",
+        "t": "The Levites, however, were not counted along with the other Israelites, as the Lord*s commanded Moses."
+    },
+    {
+        "o": 4020,
+        "r": "niv:Numbers:2:34",
+        "t": "So*p the Israelites did everything the Lord*s commanded Moses; that is the way they encamped under their standards, and that is the way they set out, each of them with their clan and family."
+    }
+]

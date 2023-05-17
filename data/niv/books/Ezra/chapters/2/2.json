@@ -1,0 +1,364 @@
+[
+    {
+        "o": 13174,
+        "r": "niv:Ezra:2:0",
+        "t": "Ezra 2",
+        "h": 1
+    },
+    {
+        "o": 13175,
+        "r": "niv:Ezra:2:0",
+        "t": "The List of the Exiles Who Returned",
+        "h": 2
+    },
+    {
+        "o": 13176,
+        "r": "niv:Ezra:2:1",
+        "t": "Now*p these are the people of the province who came up from the captivity of the exiles, whom Nebuchadnezzar king of Babylon had taken captive to Babylon (they returned to Jerusalem and Judah, each to their own town,"
+    },
+    {
+        "o": 13177,
+        "r": "niv:Ezra:2:2",
+        "t": "in company with Zerubbabel, Joshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum and Baanah): The*pln list of the men of the people of Israel:"
+    },
+    {
+        "o": 13178,
+        "r": "niv:Ezra:2:3",
+        "t": "the*ple descendants of Parosh 2,172*lg"
+    },
+    {
+        "o": 13179,
+        "r": "niv:Ezra:2:4",
+        "t": "of*le Shephatiah 372*lg"
+    },
+    {
+        "o": 13180,
+        "r": "niv:Ezra:2:5",
+        "t": "of*le Arah 775*lg"
+    },
+    {
+        "o": 13181,
+        "r": "niv:Ezra:2:6",
+        "t": "of*le Pahath-Moab (through the line of Jeshua and Joab) 2,812*lg"
+    },
+    {
+        "o": 13182,
+        "r": "niv:Ezra:2:7",
+        "t": "of*le Elam 1,254*lg"
+    },
+    {
+        "o": 13183,
+        "r": "niv:Ezra:2:8",
+        "t": "of*le Zattu 945*lg"
+    },
+    {
+        "o": 13184,
+        "r": "niv:Ezra:2:9",
+        "t": "of*le Zakkai 760*lg"
+    },
+    {
+        "o": 13185,
+        "r": "niv:Ezra:2:10",
+        "t": "of*le Bani 642*lg"
+    },
+    {
+        "o": 13186,
+        "r": "niv:Ezra:2:11",
+        "t": "of*le Bebai 623*lg"
+    },
+    {
+        "o": 13187,
+        "r": "niv:Ezra:2:12",
+        "t": "of*le Azgad 1,222*lg"
+    },
+    {
+        "o": 13188,
+        "r": "niv:Ezra:2:13",
+        "t": "of*le Adonikam 666*lg"
+    },
+    {
+        "o": 13189,
+        "r": "niv:Ezra:2:14",
+        "t": "of*le Bigvai 2,056*lg"
+    },
+    {
+        "o": 13190,
+        "r": "niv:Ezra:2:15",
+        "t": "of*le Adin 454*lg"
+    },
+    {
+        "o": 13191,
+        "r": "niv:Ezra:2:16",
+        "t": "of*le Ater (through Hezekiah) 98*lg"
+    },
+    {
+        "o": 13192,
+        "r": "niv:Ezra:2:17",
+        "t": "of*le Bezai 323*lg"
+    },
+    {
+        "o": 13193,
+        "r": "niv:Ezra:2:18",
+        "t": "of*le Jorah 112*lg"
+    },
+    {
+        "o": 13194,
+        "r": "niv:Ezra:2:19",
+        "t": "of*le Hashum 223*lg"
+    },
+    {
+        "o": 13195,
+        "r": "niv:Ezra:2:20",
+        "t": "of*le Gibbar 95*lg"
+    },
+    {
+        "o": 13196,
+        "r": "niv:Ezra:2:21",
+        "t": "the*ple men of Bethlehem 123*lg"
+    },
+    {
+        "o": 13197,
+        "r": "niv:Ezra:2:22",
+        "t": "of*le Netophah 56*lg"
+    },
+    {
+        "o": 13198,
+        "r": "niv:Ezra:2:23",
+        "t": "of*le Anathoth 128*lg"
+    },
+    {
+        "o": 13199,
+        "r": "niv:Ezra:2:24",
+        "t": "of*le Azmaveth 42*lg"
+    },
+    {
+        "o": 13200,
+        "r": "niv:Ezra:2:25",
+        "t": "of*le Kiriath Jearim, Kephirah and Beeroth 743*lg"
+    },
+    {
+        "o": 13201,
+        "r": "niv:Ezra:2:26",
+        "t": "of*le Ramah and Geba 621*lg"
+    },
+    {
+        "o": 13202,
+        "r": "niv:Ezra:2:27",
+        "t": "of*le Mikmash 122*lg"
+    },
+    {
+        "o": 13203,
+        "r": "niv:Ezra:2:28",
+        "t": "of*le Bethel and Ai 223*lg"
+    },
+    {
+        "o": 13204,
+        "r": "niv:Ezra:2:29",
+        "t": "of*le Nebo 52*lg"
+    },
+    {
+        "o": 13205,
+        "r": "niv:Ezra:2:30",
+        "t": "of*le Magbish 156*lg"
+    },
+    {
+        "o": 13206,
+        "r": "niv:Ezra:2:31",
+        "t": "of*le the other Elam 1,254*lg"
+    },
+    {
+        "o": 13207,
+        "r": "niv:Ezra:2:32",
+        "t": "of*le Harim 320*lg"
+    },
+    {
+        "o": 13208,
+        "r": "niv:Ezra:2:33",
+        "t": "of*le Lod, Hadid and Ono 725*lg"
+    },
+    {
+        "o": 13209,
+        "r": "niv:Ezra:2:34",
+        "t": "of*le Jericho 345*lg"
+    },
+    {
+        "o": 13210,
+        "r": "niv:Ezra:2:35",
+        "t": "of*le Senaah 3,630*lg"
+    },
+    {
+        "o": 13211,
+        "r": "niv:Ezra:2:36",
+        "t": "The*pln priests: the*ple descendants of Jedaiah (through the family of Jeshua) 973*lg"
+    },
+    {
+        "o": 13212,
+        "r": "niv:Ezra:2:37",
+        "t": "of*le Immer 1,052*lg"
+    },
+    {
+        "o": 13213,
+        "r": "niv:Ezra:2:38",
+        "t": "of*le Pashhur 1,247*lg"
+    },
+    {
+        "o": 13214,
+        "r": "niv:Ezra:2:39",
+        "t": "of*le Harim 1,017*lg"
+    },
+    {
+        "o": 13215,
+        "r": "niv:Ezra:2:40",
+        "t": "The*pln Levites: the*ple descendants of Jeshua and Kadmiel (of the line of Hodaviah) 74*lg"
+    },
+    {
+        "o": 13216,
+        "r": "niv:Ezra:2:41",
+        "t": "The*pln musicians: the*ple descendants of Asaph 128*lg"
+    },
+    {
+        "o": 13217,
+        "r": "niv:Ezra:2:42",
+        "t": "The*pln gatekeepers of the temple: the*ple descendants of Shallum,*le Ater, Talmon, Akkub,*le Hatita and Shobai 139*lg"
+    },
+    {
+        "o": 13218,
+        "r": "niv:Ezra:2:43",
+        "t": "The*pln temple servants: the*ple descendants of Ziha,*le Hasupha, Tabbaoth,"
+    },
+    {
+        "o": 13219,
+        "r": "niv:Ezra:2:44",
+        "t": "Keros,*le Siaha, Padon,"
+    },
+    {
+        "o": 13220,
+        "r": "niv:Ezra:2:45",
+        "t": "Lebanah,*le Hagabah, Akkub,"
+    },
+    {
+        "o": 13221,
+        "r": "niv:Ezra:2:46",
+        "t": "Hagab,*le Shalmai, Hanan,"
+    },
+    {
+        "o": 13222,
+        "r": "niv:Ezra:2:47",
+        "t": "Giddel,*le Gahar, Reaiah,"
+    },
+    {
+        "o": 13223,
+        "r": "niv:Ezra:2:48",
+        "t": "Rezin,*le Nekoda, Gazzam,"
+    },
+    {
+        "o": 13224,
+        "r": "niv:Ezra:2:49",
+        "t": "Uzza,*le Paseah, Besai,"
+    },
+    {
+        "o": 13225,
+        "r": "niv:Ezra:2:50",
+        "t": "Asnah,*le Meunim, Nephusim,"
+    },
+    {
+        "o": 13226,
+        "r": "niv:Ezra:2:51",
+        "t": "Bakbuk,*le Hakupha, Harhur,"
+    },
+    {
+        "o": 13227,
+        "r": "niv:Ezra:2:52",
+        "t": "Bazluth,*le Mehida, Harsha,"
+    },
+    {
+        "o": 13228,
+        "r": "niv:Ezra:2:53",
+        "t": "Barkos,*le Sisera, Temah,"
+    },
+    {
+        "o": 13229,
+        "r": "niv:Ezra:2:54",
+        "t": "Neziah*le and Hatipha"
+    },
+    {
+        "o": 13230,
+        "r": "niv:Ezra:2:55",
+        "t": "The*pln descendants of the servants of Solomon: the*ple descendants of Sotai,*le Hassophereth, Peruda,"
+    },
+    {
+        "o": 13231,
+        "r": "niv:Ezra:2:56",
+        "t": "Jaala,*le Darkon, Giddel,"
+    },
+    {
+        "o": 13232,
+        "r": "niv:Ezra:2:57",
+        "t": "Shephatiah,*le Hattil, Pokereth-Hazzebaim*le and Ami"
+    },
+    {
+        "o": 13233,
+        "r": "niv:Ezra:2:58",
+        "t": "The*ple temple servants and the descendants of the servants of Solomon 392*lg"
+    },
+    {
+        "o": 13234,
+        "r": "niv:Ezra:2:59",
+        "t": "The*pln following came up from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer, but they could not show that their families were descended from Israel:"
+    },
+    {
+        "o": 13235,
+        "r": "niv:Ezra:2:60",
+        "t": "The*ple descendants of Delaiah,*le Tobiah and Nekoda 652*lg"
+    },
+    {
+        "o": 13236,
+        "r": "niv:Ezra:2:61",
+        "t": "And*pln from among the priests: The*ple descendants of Hobaiah,*le Hakkoz and Barzillai (a man who had married a daughter of Barzillai the Gileadite and was called by that name)."
+    },
+    {
+        "o": 13237,
+        "r": "niv:Ezra:2:62",
+        "t": "These*ln searched for their family records, but they could not find them and so were excluded from the priesthood as unclean."
+    },
+    {
+        "o": 13238,
+        "r": "niv:Ezra:2:63",
+        "t": "The governor ordered them not to eat any of the most sacred food until there was a priest ministering with the Urim and Thummim."
+    },
+    {
+        "o": 13239,
+        "r": "niv:Ezra:2:64",
+        "t": "The*pln whole company numbered 42,360,"
+    },
+    {
+        "o": 13240,
+        "r": "niv:Ezra:2:65",
+        "t": "besides their 7,337 male and female slaves; and they also had 200 male and female singers."
+    },
+    {
+        "o": 13241,
+        "r": "niv:Ezra:2:66",
+        "t": "They had 736 horses, 245 mules,"
+    },
+    {
+        "o": 13242,
+        "r": "niv:Ezra:2:67",
+        "t": "435 camels and 6,720 donkeys."
+    },
+    {
+        "o": 13243,
+        "r": "niv:Ezra:2:68",
+        "t": "When*p they arrived at the house of the Lord*s in Jerusalem, some of the heads of the families gave freewill offerings toward the rebuilding of the house of God on its site."
+    },
+    {
+        "o": 13244,
+        "r": "niv:Ezra:2:69",
+        "t": "According to their ability they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver and 100 priestly garments."
+    },
+    {
+        "o": 13245,
+        "r": "niv:Ezra:2:70",
+        "t": "The*p priests, the Levites, the musicians, the gatekeepers and the temple servants settled in their own towns, along with some of the other people, and the rest of the Israelites settled in their towns."
+    }
+]

@@ -1,0 +1,319 @@
+[
+    {
+        "o": 29010,
+        "r": "esv:Luke:23:0",
+        "t": "Luke 23",
+        "h": 1
+    },
+    {
+        "o": 29011,
+        "r": "esv:Luke:23:0",
+        "t": "Jesus Before Pilate",
+        "h": 2
+    },
+    {
+        "o": 29012,
+        "r": "esv:Luke:23:1",
+        "t": "Then*p the whole company of them arose and brought him before Pilate."
+    },
+    {
+        "o": 29013,
+        "r": "esv:Luke:23:2",
+        "t": "And they began to accuse him, saying, “We found this man misleading our nation and forbidding us to give tribute to Caesar, and saying that he himself is Christ, a king.”"
+    },
+    {
+        "o": 29014,
+        "r": "esv:Luke:23:3",
+        "t": "And Pilate asked him, “Are you the King of the Jews?” And he answered him, “You*r have*r said*r so.”*r"
+    },
+    {
+        "o": 29015,
+        "r": "esv:Luke:23:4",
+        "t": "Then Pilate said to the chief priests and the crowds, “I find no guilt in this man.”"
+    },
+    {
+        "o": 29016,
+        "r": "esv:Luke:23:5",
+        "t": "But they were urgent, saying, “He stirs up the people, teaching throughout all Judea, from Galilee even to this place.”"
+    },
+    {
+        "o": 29017,
+        "r": "esv:Luke:23:5",
+        "t": "Jesus Before Herod",
+        "h": 2
+    },
+    {
+        "o": 29018,
+        "r": "esv:Luke:23:6",
+        "t": "When*p Pilate heard this, he asked whether the man was a Galilean."
+    },
+    {
+        "o": 29019,
+        "r": "esv:Luke:23:7",
+        "t": "And when he learned that he belonged to Herod’s jurisdiction, he sent him over to Herod, who was himself in Jerusalem at that time."
+    },
+    {
+        "o": 29020,
+        "r": "esv:Luke:23:8",
+        "t": "When Herod saw Jesus, he was very glad, for he had long desired to see him, because he had heard about him, and he was hoping to see some sign done by him."
+    },
+    {
+        "o": 29021,
+        "r": "esv:Luke:23:9",
+        "t": "So he questioned him at some length, but he made no answer."
+    },
+    {
+        "o": 29022,
+        "r": "esv:Luke:23:10",
+        "t": "The chief priests and the scribes stood by, vehemently accusing him."
+    },
+    {
+        "o": 29023,
+        "r": "esv:Luke:23:11",
+        "t": "And Herod with his soldiers treated him with contempt and mocked him. Then, arraying him in splendid clothing, he sent him back to Pilate."
+    },
+    {
+        "o": 29024,
+        "r": "esv:Luke:23:12",
+        "t": "And Herod and Pilate became friends with each other that very day, for before this they had been at enmity with each other."
+    },
+    {
+        "o": 29025,
+        "r": "esv:Luke:23:13",
+        "t": "Pilate*p then called together the chief priests and the rulers and the people,"
+    },
+    {
+        "o": 29026,
+        "r": "esv:Luke:23:14",
+        "t": "and said to them, “You brought me this man as one who was misleading the people. And after examining him before you, behold, I did not find this man guilty of any of your charges against him."
+    },
+    {
+        "o": 29027,
+        "r": "esv:Luke:23:15",
+        "t": "Neither did Herod, for he sent him back to us. Look, nothing deserving death has been done by him."
+    },
+    {
+        "o": 29028,
+        "r": "esv:Luke:23:16",
+        "t": "I will therefore punish and release him.”"
+    },
+    {
+        "o": 29029,
+        "r": "esv:Luke:23:16",
+        "t": "Pilate Delivers Jesus to Be Crucified",
+        "h": 2
+    },
+    {
+        "o": 29030,
+        "r": "esv:Luke:23:18",
+        "t": "But*p they all cried out together, “Away with this man, and release to us Barabbas”—"
+    },
+    {
+        "o": 29031,
+        "r": "esv:Luke:23:19",
+        "t": "a man who had been thrown into prison for an insurrection started in the city and for murder."
+    },
+    {
+        "o": 29032,
+        "r": "esv:Luke:23:20",
+        "t": "Pilate addressed them once more, desiring to release Jesus,"
+    },
+    {
+        "o": 29033,
+        "r": "esv:Luke:23:21",
+        "t": "but they kept shouting, “Crucify, crucify him!”"
+    },
+    {
+        "o": 29034,
+        "r": "esv:Luke:23:22",
+        "t": "A third time he said to them, “Why? What evil has he done? I have found in him no guilt deserving death. I will therefore punish and release him.”"
+    },
+    {
+        "o": 29035,
+        "r": "esv:Luke:23:23",
+        "t": "But they were urgent, demanding with loud cries that he should be crucified. And their voices prevailed."
+    },
+    {
+        "o": 29036,
+        "r": "esv:Luke:23:24",
+        "t": "So Pilate decided that their demand should be granted."
+    },
+    {
+        "o": 29037,
+        "r": "esv:Luke:23:25",
+        "t": "He released the man who had been thrown into prison for insurrection and murder, for whom they asked, but he delivered Jesus over to their will."
+    },
+    {
+        "o": 29038,
+        "r": "esv:Luke:23:25",
+        "t": "The Crucifixion",
+        "h": 2
+    },
+    {
+        "o": 29039,
+        "r": "esv:Luke:23:26",
+        "t": "And*p as they led him away, they seized one Simon of Cyrene, who was coming in from the country, and laid on him the cross, to carry it behind Jesus."
+    },
+    {
+        "o": 29040,
+        "r": "esv:Luke:23:27",
+        "t": "And there followed him a great multitude of the people and of women who were mourning and lamenting for him."
+    },
+    {
+        "o": 29041,
+        "r": "esv:Luke:23:28",
+        "t": "But turning to them Jesus said, “Daughters*r of*r Jerusalem,*r do*r not*r weep*r for*r me,*r but*r weep*r for*r yourselves*r and*r for*r your*r children.*r"
+    },
+    {
+        "o": 29042,
+        "r": "esv:Luke:23:29",
+        "t": "For*r behold,*r the*r days*r are*r coming*r when*r they*r will*r say,*r ‘Blessed*r are*r the*r barren*r and*r the*r wombs*r that*r never*r bore*r and*r the*r breasts*r that*r never*r nursed!’*r"
+    },
+    {
+        "o": 29043,
+        "r": "esv:Luke:23:30",
+        "t": "Then*r they*r will*r begin*r to*r say*r to*r the*r mountains,*r ‘Fall*r on*r us,’*r and*r to*r the*r hills,*r ‘Cover*r us.’*r"
+    },
+    {
+        "o": 29044,
+        "r": "esv:Luke:23:31",
+        "t": "For*r if*r they*r do*r these*r things*r when*r the*r wood*r is*r green,*r what*r will*r happen*r when*r it*r is*r dry?”*r"
+    },
+    {
+        "o": 29045,
+        "r": "esv:Luke:23:32",
+        "t": "Two*p others, who were criminals, were led away to be put to death with him."
+    },
+    {
+        "o": 29046,
+        "r": "esv:Luke:23:33",
+        "t": "And when they came to the place that is called The Skull, there they crucified him, and the criminals, one on his right and one on his left."
+    },
+    {
+        "o": 29047,
+        "r": "esv:Luke:23:34",
+        "t": "And Jesus said, “Father,*r forgive*r them,*r for*r they*r know*r not*r what*r they*r do.”*r And they cast lots to divide his garments."
+    },
+    {
+        "o": 29048,
+        "r": "esv:Luke:23:35",
+        "t": "And the people stood by, watching, but the rulers scoffed at him, saying, “He saved others; let him save himself, if he is the Christ of God, his Chosen One!”"
+    },
+    {
+        "o": 29049,
+        "r": "esv:Luke:23:36",
+        "t": "The soldiers also mocked him, coming up and offering him sour wine"
+    },
+    {
+        "o": 29050,
+        "r": "esv:Luke:23:37",
+        "t": "and saying, “If you are the King of the Jews, save yourself!”"
+    },
+    {
+        "o": 29051,
+        "r": "esv:Luke:23:38",
+        "t": "There was also an inscription over him, “This is the King of the Jews.”"
+    },
+    {
+        "o": 29052,
+        "r": "esv:Luke:23:39",
+        "t": "One*p of the criminals who were hanged railed at him, saying, “Are you not the Christ? Save yourself and us!”"
+    },
+    {
+        "o": 29053,
+        "r": "esv:Luke:23:40",
+        "t": "But the other rebuked him, saying, “Do you not fear God, since you are under the same sentence of condemnation?"
+    },
+    {
+        "o": 29054,
+        "r": "esv:Luke:23:41",
+        "t": "And we indeed justly, for we are receiving the due reward of our deeds; but this man has done nothing wrong.”"
+    },
+    {
+        "o": 29055,
+        "r": "esv:Luke:23:42",
+        "t": "And he said, “Jesus, remember me when you come into your kingdom.”"
+    },
+    {
+        "o": 29056,
+        "r": "esv:Luke:23:43",
+        "t": "And he said to him, “Truly,*r I*r say*r to*r you,*r today*r you*r will*r be*r with*r me*r in*r paradise.”*r"
+    },
+    {
+        "o": 29057,
+        "r": "esv:Luke:23:43",
+        "t": "The Death of Jesus",
+        "h": 2
+    },
+    {
+        "o": 29058,
+        "r": "esv:Luke:23:44",
+        "t": "It*p was now about the sixth hour, and there was darkness over the whole land until the ninth hour,"
+    },
+    {
+        "o": 29059,
+        "r": "esv:Luke:23:45",
+        "t": "while the sun’s light failed. And the curtain of the temple was torn in two."
+    },
+    {
+        "o": 29060,
+        "r": "esv:Luke:23:46",
+        "t": "Then Jesus, calling out with a loud voice, said, “Father,*r into*r your*r hands*r I*r commit*r my*r spirit!”*r And having said this he breathed his last."
+    },
+    {
+        "o": 29061,
+        "r": "esv:Luke:23:47",
+        "t": "Now when the centurion saw what had taken place, he praised God, saying, “Certainly this man was innocent!”"
+    },
+    {
+        "o": 29062,
+        "r": "esv:Luke:23:48",
+        "t": "And all the crowds that had assembled for this spectacle, when they saw what had taken place, returned home beating their breasts."
+    },
+    {
+        "o": 29063,
+        "r": "esv:Luke:23:49",
+        "t": "And all his acquaintances and the women who had followed him from Galilee stood at a distance watching these things."
+    },
+    {
+        "o": 29064,
+        "r": "esv:Luke:23:49",
+        "t": "Jesus Is Buried",
+        "h": 2
+    },
+    {
+        "o": 29065,
+        "r": "esv:Luke:23:50",
+        "t": "Now*p there was a man named Joseph, from the Jewish town of Arimathea. He was a member of the council, a good and righteous man,"
+    },
+    {
+        "o": 29066,
+        "r": "esv:Luke:23:51",
+        "t": "who had not consented to their decision and action; and he was looking for the kingdom of God."
+    },
+    {
+        "o": 29067,
+        "r": "esv:Luke:23:52",
+        "t": "This man went to Pilate and asked for the body of Jesus."
+    },
+    {
+        "o": 29068,
+        "r": "esv:Luke:23:53",
+        "t": "Then he took it down and wrapped it in a linen shroud and laid him in a tomb cut in stone, where no one had ever yet been laid."
+    },
+    {
+        "o": 29069,
+        "r": "esv:Luke:23:54",
+        "t": "It was the day of Preparation, and the Sabbath was beginning."
+    },
+    {
+        "o": 29070,
+        "r": "esv:Luke:23:55",
+        "t": "The women who had come with him from Galilee followed and saw the tomb and how his body was laid."
+    },
+    {
+        "o": 29071,
+        "r": "esv:Luke:23:56",
+        "t": "Then they returned and prepared spices and ointments. On*p the Sabbath they rested according to the commandment."
+    }
+]

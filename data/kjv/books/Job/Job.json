@@ -1,0 +1,5604 @@
+[
+    {
+        "o": 13307,
+        "r": "kjv:Job:1:0",
+        "t": "Job 1",
+        "h": 1
+    },
+    {
+        "o": 13308,
+        "r": "kjv:Job:1:1",
+        "t": "There*p was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil."
+    },
+    {
+        "o": 13309,
+        "r": "kjv:Job:1:2",
+        "t": "And*p there were born unto him seven sons and three daughters."
+    },
+    {
+        "o": 13310,
+        "r": "kjv:Job:1:3",
+        "t": "His*p substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east."
+    },
+    {
+        "o": 13311,
+        "r": "kjv:Job:1:4",
+        "t": "And*p his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them."
+    },
+    {
+        "o": 13312,
+        "r": "kjv:Job:1:5",
+        "t": "And*p it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually."
+    },
+    {
+        "o": 13313,
+        "r": "kjv:Job:1:6",
+        "t": "Now*p there was a day when the sons of God came to present themselves before the Lord,*s and Satan came also among them."
+    },
+    {
+        "o": 13314,
+        "r": "kjv:Job:1:7",
+        "t": "And*p the Lord*s said unto Satan, Whence comest thou? Then Satan answered the Lord,*s and said, From going to and fro in the earth, and from walking up and down in it."
+    },
+    {
+        "o": 13315,
+        "r": "kjv:Job:1:8",
+        "t": "And*p the Lord*s said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?"
+    },
+    {
+        "o": 13316,
+        "r": "kjv:Job:1:9",
+        "t": "Then*p Satan answered the Lord,*s and said, Doth Job fear God for nought?"
+    },
+    {
+        "o": 13317,
+        "r": "kjv:Job:1:10",
+        "t": "Hast*p not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land."
+    },
+    {
+        "o": 13318,
+        "r": "kjv:Job:1:11",
+        "t": "But*p put forth thine hand now, and touch all that he hath, and he will curse thee to thy face."
+    },
+    {
+        "o": 13319,
+        "r": "kjv:Job:1:12",
+        "t": "And*p the Lord*s said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the Lord.*s"
+    },
+    {
+        "o": 13320,
+        "r": "kjv:Job:1:13",
+        "t": "And*p there was a day when his sons and his daughters were eating and drinking wine in their eldest brother's house:"
+    },
+    {
+        "o": 13321,
+        "r": "kjv:Job:1:14",
+        "t": "And*p there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:"
+    },
+    {
+        "o": 13322,
+        "r": "kjv:Job:1:15",
+        "t": "And*p the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee."
+    },
+    {
+        "o": 13323,
+        "r": "kjv:Job:1:16",
+        "t": "While*p he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee."
+    },
+    {
+        "o": 13324,
+        "r": "kjv:Job:1:17",
+        "t": "While*p he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee."
+    },
+    {
+        "o": 13325,
+        "r": "kjv:Job:1:18",
+        "t": "While*p he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother's house:"
+    },
+    {
+        "o": 13326,
+        "r": "kjv:Job:1:19",
+        "t": "And,*p behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee."
+    },
+    {
+        "o": 13327,
+        "r": "kjv:Job:1:20",
+        "t": "Then*p Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,"
+    },
+    {
+        "o": 13328,
+        "r": "kjv:Job:1:21",
+        "t": "And*p said, Naked came I out of my mother's womb, and naked shall I return thither: the Lord*s gave, and the Lord*s hath taken away; blessed be the name of the Lord.*s"
+    },
+    {
+        "o": 13329,
+        "r": "kjv:Job:1:22",
+        "t": "In*p all this Job sinned not, nor charged God foolishly."
+    },
+    {
+        "o": 13330,
+        "r": "kjv:Job:2:0",
+        "t": "Job 2",
+        "h": 1
+    },
+    {
+        "o": 13331,
+        "r": "kjv:Job:2:1",
+        "t": "Again*p there was a day when the sons of God came to present themselves before the Lord,*s and Satan came also among them to present himself before the Lord.*s"
+    },
+    {
+        "o": 13332,
+        "r": "kjv:Job:2:2",
+        "t": "And*p the Lord*s said unto Satan, From whence comest thou? And Satan answered the Lord,*s and said, From going to and fro in the earth, and from walking up and down in it."
+    },
+    {
+        "o": 13333,
+        "r": "kjv:Job:2:3",
+        "t": "And*p the Lord*s said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause."
+    },
+    {
+        "o": 13334,
+        "r": "kjv:Job:2:4",
+        "t": "And*p Satan answered the Lord,*s and said, Skin for skin, yea, all that a man hath will he give for his life."
+    },
+    {
+        "o": 13335,
+        "r": "kjv:Job:2:5",
+        "t": "But*p put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face."
+    },
+    {
+        "o": 13336,
+        "r": "kjv:Job:2:6",
+        "t": "And*p the Lord*s said unto Satan, Behold, he is in thine hand; but save his life."
+    },
+    {
+        "o": 13337,
+        "r": "kjv:Job:2:7",
+        "t": "So*p went Satan forth from the presence of the Lord,*s and smote Job with sore boils from the sole of his foot unto his crown."
+    },
+    {
+        "o": 13338,
+        "r": "kjv:Job:2:8",
+        "t": "And*p he took him a potsherd to scrape himself withal; and he sat down among the ashes."
+    },
+    {
+        "o": 13339,
+        "r": "kjv:Job:2:9",
+        "t": "Then*p said his wife unto him, Dost thou still retain thine integrity? curse God, and die."
+    },
+    {
+        "o": 13340,
+        "r": "kjv:Job:2:10",
+        "t": "But*p he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips."
+    },
+    {
+        "o": 13341,
+        "r": "kjv:Job:2:11",
+        "t": "Now*p when Job's three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him."
+    },
+    {
+        "o": 13342,
+        "r": "kjv:Job:2:12",
+        "t": "And*p when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven."
+    },
+    {
+        "o": 13343,
+        "r": "kjv:Job:2:13",
+        "t": "So*p they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great."
+    },
+    {
+        "o": 13344,
+        "r": "kjv:Job:3:0",
+        "t": "Job 3",
+        "h": 1
+    },
+    {
+        "o": 13345,
+        "r": "kjv:Job:3:1",
+        "t": "After*p this opened Job his mouth, and cursed his day."
+    },
+    {
+        "o": 13346,
+        "r": "kjv:Job:3:2",
+        "t": "And*p Job spake, and said,"
+    },
+    {
+        "o": 13347,
+        "r": "kjv:Job:3:3",
+        "t": "Let*p the day perish wherein I was born, and the night in which it was said, There is a man child conceived."
+    },
+    {
+        "o": 13348,
+        "r": "kjv:Job:3:4",
+        "t": "Let*p that day be darkness; let not God regard it from above, neither let the light shine upon it."
+    },
+    {
+        "o": 13349,
+        "r": "kjv:Job:3:5",
+        "t": "Let*p darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it."
+    },
+    {
+        "o": 13350,
+        "r": "kjv:Job:3:6",
+        "t": "As*p for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months."
+    },
+    {
+        "o": 13351,
+        "r": "kjv:Job:3:7",
+        "t": "Lo,*p let that night be solitary, let no joyful voice come therein."
+    },
+    {
+        "o": 13352,
+        "r": "kjv:Job:3:8",
+        "t": "Let*p them curse it that curse the day, who are ready to raise up their mourning."
+    },
+    {
+        "o": 13353,
+        "r": "kjv:Job:3:9",
+        "t": "Let*p the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:"
+    },
+    {
+        "o": 13354,
+        "r": "kjv:Job:3:10",
+        "t": "Because*p it shut not up the doors of my mother's womb, nor hid sorrow from mine eyes."
+    },
+    {
+        "o": 13355,
+        "r": "kjv:Job:3:11",
+        "t": "Why*p died I not from the womb? why did I not give up the ghost when I came out of the belly?"
+    },
+    {
+        "o": 13356,
+        "r": "kjv:Job:3:12",
+        "t": "Why*p did the knees prevent me? or why the breasts that I should suck?"
+    },
+    {
+        "o": 13357,
+        "r": "kjv:Job:3:13",
+        "t": "For*p now should I have lain still and been quiet, I should have slept: then had I been at rest,"
+    },
+    {
+        "o": 13358,
+        "r": "kjv:Job:3:14",
+        "t": "With*p kings and counsellors of the earth, which built desolate places for themselves;"
+    },
+    {
+        "o": 13359,
+        "r": "kjv:Job:3:15",
+        "t": "Or*p with princes that had gold, who filled their houses with silver:"
+    },
+    {
+        "o": 13360,
+        "r": "kjv:Job:3:16",
+        "t": "Or*p as an hidden untimely birth I had not been; as infants which never saw light."
+    },
+    {
+        "o": 13361,
+        "r": "kjv:Job:3:17",
+        "t": "There*p the wicked cease from troubling; and there the weary be at rest."
+    },
+    {
+        "o": 13362,
+        "r": "kjv:Job:3:18",
+        "t": "There*p the prisoners rest together; they hear not the voice of the oppressor."
+    },
+    {
+        "o": 13363,
+        "r": "kjv:Job:3:19",
+        "t": "The*p small and great are there; and the servant is free from his master."
+    },
+    {
+        "o": 13364,
+        "r": "kjv:Job:3:20",
+        "t": "Wherefore*p is light given to him that is in misery, and life unto the bitter in soul;"
+    },
+    {
+        "o": 13365,
+        "r": "kjv:Job:3:21",
+        "t": "Which*p long for death, but it cometh not; and dig for it more than for hid treasures;"
+    },
+    {
+        "o": 13366,
+        "r": "kjv:Job:3:22",
+        "t": "Which*p rejoice exceedingly, and are glad, when they can find the grave?"
+    },
+    {
+        "o": 13367,
+        "r": "kjv:Job:3:23",
+        "t": "Why*p is light given to a man whose way is hid, and whom God hath hedged in?"
+    },
+    {
+        "o": 13368,
+        "r": "kjv:Job:3:24",
+        "t": "For*p my sighing cometh before I eat, and my roarings are poured out like the waters."
+    },
+    {
+        "o": 13369,
+        "r": "kjv:Job:3:25",
+        "t": "For*p the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me."
+    },
+    {
+        "o": 13370,
+        "r": "kjv:Job:3:26",
+        "t": "I*p was not in safety, neither had I rest, neither was I quiet; yet trouble came."
+    },
+    {
+        "o": 13371,
+        "r": "kjv:Job:4:0",
+        "t": "Job 4",
+        "h": 1
+    },
+    {
+        "o": 13372,
+        "r": "kjv:Job:4:1",
+        "t": "Then*p Eliphaz the Temanite answered and said,"
+    },
+    {
+        "o": 13373,
+        "r": "kjv:Job:4:2",
+        "t": "If*p we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?"
+    },
+    {
+        "o": 13374,
+        "r": "kjv:Job:4:3",
+        "t": "Behold,*p thou hast instructed many, and thou hast strengthened the weak hands."
+    },
+    {
+        "o": 13375,
+        "r": "kjv:Job:4:4",
+        "t": "Thy*p words have upholden him that was falling, and thou hast strengthened the feeble knees."
+    },
+    {
+        "o": 13376,
+        "r": "kjv:Job:4:5",
+        "t": "But*p now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled."
+    },
+    {
+        "o": 13377,
+        "r": "kjv:Job:4:6",
+        "t": "Is*p not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?"
+    },
+    {
+        "o": 13378,
+        "r": "kjv:Job:4:7",
+        "t": "Remember,*p I pray thee, who ever perished, being innocent? or where were the righteous cut off?"
+    },
+    {
+        "o": 13379,
+        "r": "kjv:Job:4:8",
+        "t": "Even*p as I have seen, they that plow iniquity, and sow wickedness, reap the same."
+    },
+    {
+        "o": 13380,
+        "r": "kjv:Job:4:9",
+        "t": "By*p the blast of God they perish, and by the breath of his nostrils are they consumed."
+    },
+    {
+        "o": 13381,
+        "r": "kjv:Job:4:10",
+        "t": "The*p roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken."
+    },
+    {
+        "o": 13382,
+        "r": "kjv:Job:4:11",
+        "t": "The*p old lion perisheth for lack of prey, and the stout lion's whelps are scattered abroad."
+    },
+    {
+        "o": 13383,
+        "r": "kjv:Job:4:12",
+        "t": "Now*p a thing was secretly brought to me, and mine ear received a little thereof."
+    },
+    {
+        "o": 13384,
+        "r": "kjv:Job:4:13",
+        "t": "In*p thoughts from the visions of the night, when deep sleep falleth on men,"
+    },
+    {
+        "o": 13385,
+        "r": "kjv:Job:4:14",
+        "t": "Fear*p came upon me, and trembling, which made all my bones to shake."
+    },
+    {
+        "o": 13386,
+        "r": "kjv:Job:4:15",
+        "t": "Then*p a spirit passed before my face; the hair of my flesh stood up:"
+    },
+    {
+        "o": 13387,
+        "r": "kjv:Job:4:16",
+        "t": "It*p stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,"
+    },
+    {
+        "o": 13388,
+        "r": "kjv:Job:4:17",
+        "t": "Shall*p mortal man be more just than God? shall a man be more pure than his maker?"
+    },
+    {
+        "o": 13389,
+        "r": "kjv:Job:4:18",
+        "t": "Behold,*p he put no trust in his servants; and his angels he charged with folly:"
+    },
+    {
+        "o": 13390,
+        "r": "kjv:Job:4:19",
+        "t": "How*p much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?"
+    },
+    {
+        "o": 13391,
+        "r": "kjv:Job:4:20",
+        "t": "They*p are destroyed from morning to evening: they perish for ever without any regarding it."
+    },
+    {
+        "o": 13392,
+        "r": "kjv:Job:4:21",
+        "t": "Doth*p not their excellency which is in them go away? they die, even without wisdom."
+    },
+    {
+        "o": 13393,
+        "r": "kjv:Job:5:0",
+        "t": "Job 5",
+        "h": 1
+    },
+    {
+        "o": 13394,
+        "r": "kjv:Job:5:1",
+        "t": "Call*p now, if there be any that will answer thee; and to which of the saints wilt thou turn?"
+    },
+    {
+        "o": 13395,
+        "r": "kjv:Job:5:2",
+        "t": "For*p wrath killeth the foolish man, and envy slayeth the silly one."
+    },
+    {
+        "o": 13396,
+        "r": "kjv:Job:5:3",
+        "t": "I*p have seen the foolish taking root: but suddenly I cursed his habitation."
+    },
+    {
+        "o": 13397,
+        "r": "kjv:Job:5:4",
+        "t": "His*p children are far from safety, and they are crushed in the gate, neither is there any to deliver them."
+    },
+    {
+        "o": 13398,
+        "r": "kjv:Job:5:5",
+        "t": "Whose*p harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance."
+    },
+    {
+        "o": 13399,
+        "r": "kjv:Job:5:6",
+        "t": "Although*p affliction cometh not forth of the dust, neither doth trouble spring out of the ground;"
+    },
+    {
+        "o": 13400,
+        "r": "kjv:Job:5:7",
+        "t": "Yet*p man is born unto trouble, as the sparks fly upward."
+    },
+    {
+        "o": 13401,
+        "r": "kjv:Job:5:8",
+        "t": "I*p would seek unto God, and unto God would I commit my cause:"
+    },
+    {
+        "o": 13402,
+        "r": "kjv:Job:5:9",
+        "t": "Which*p doeth great things and unsearchable; marvellous things without number:"
+    },
+    {
+        "o": 13403,
+        "r": "kjv:Job:5:10",
+        "t": "Who*p giveth rain upon the earth, and sendeth waters upon the fields:"
+    },
+    {
+        "o": 13404,
+        "r": "kjv:Job:5:11",
+        "t": "To*p set up on high those that be low; that those which mourn may be exalted to safety."
+    },
+    {
+        "o": 13405,
+        "r": "kjv:Job:5:12",
+        "t": "He*p disappointeth the devices of the crafty, so that their hands cannot perform their enterprise."
+    },
+    {
+        "o": 13406,
+        "r": "kjv:Job:5:13",
+        "t": "He*p taketh the wise in their own craftiness: and the counsel of the froward is carried headlong."
+    },
+    {
+        "o": 13407,
+        "r": "kjv:Job:5:14",
+        "t": "They*p meet with darkness in the daytime, and grope in the noonday as in the night."
+    },
+    {
+        "o": 13408,
+        "r": "kjv:Job:5:15",
+        "t": "But*p he saveth the poor from the sword, from their mouth, and from the hand of the mighty."
+    },
+    {
+        "o": 13409,
+        "r": "kjv:Job:5:16",
+        "t": "So*p the poor hath hope, and iniquity stoppeth her mouth."
+    },
+    {
+        "o": 13410,
+        "r": "kjv:Job:5:17",
+        "t": "Behold,*p happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:"
+    },
+    {
+        "o": 13411,
+        "r": "kjv:Job:5:18",
+        "t": "For*p he maketh sore, and bindeth up: he woundeth, and his hands make whole."
+    },
+    {
+        "o": 13412,
+        "r": "kjv:Job:5:19",
+        "t": "He*p shall deliver thee in six troubles: yea, in seven there shall no evil touch thee."
+    },
+    {
+        "o": 13413,
+        "r": "kjv:Job:5:20",
+        "t": "In*p famine he shall redeem thee from death: and in war from the power of the sword."
+    },
+    {
+        "o": 13414,
+        "r": "kjv:Job:5:21",
+        "t": "Thou*p shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh."
+    },
+    {
+        "o": 13415,
+        "r": "kjv:Job:5:22",
+        "t": "At*p destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth."
+    },
+    {
+        "o": 13416,
+        "r": "kjv:Job:5:23",
+        "t": "For*p thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee."
+    },
+    {
+        "o": 13417,
+        "r": "kjv:Job:5:24",
+        "t": "And*p thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin."
+    },
+    {
+        "o": 13418,
+        "r": "kjv:Job:5:25",
+        "t": "Thou*p shalt know also that thy seed shall be great, and thine offspring as the grass of the earth."
+    },
+    {
+        "o": 13419,
+        "r": "kjv:Job:5:26",
+        "t": "Thou*p shalt come to thy grave in a full age, like as a shock of corn cometh in in his season."
+    },
+    {
+        "o": 13420,
+        "r": "kjv:Job:5:27",
+        "t": "Lo*p this, we have searched it, so it is; hear it, and know thou it for thy good."
+    },
+    {
+        "o": 13421,
+        "r": "kjv:Job:6:0",
+        "t": "Job 6",
+        "h": 1
+    },
+    {
+        "o": 13422,
+        "r": "kjv:Job:6:1",
+        "t": "But*p Job answered and said,"
+    },
+    {
+        "o": 13423,
+        "r": "kjv:Job:6:2",
+        "t": "Oh*p that my grief were thoroughly weighed, and my calamity laid in the balances together!"
+    },
+    {
+        "o": 13424,
+        "r": "kjv:Job:6:3",
+        "t": "For*p now it would be heavier than the sand of the sea: therefore my words are swallowed up."
+    },
+    {
+        "o": 13425,
+        "r": "kjv:Job:6:4",
+        "t": "For*p the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me."
+    },
+    {
+        "o": 13426,
+        "r": "kjv:Job:6:5",
+        "t": "Doth*p the wild ass bray when he hath grass? or loweth the ox over his fodder?"
+    },
+    {
+        "o": 13427,
+        "r": "kjv:Job:6:6",
+        "t": "Can*p that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?"
+    },
+    {
+        "o": 13428,
+        "r": "kjv:Job:6:7",
+        "t": "The*p things that my soul refused to touch are as my sorrowful meat."
+    },
+    {
+        "o": 13429,
+        "r": "kjv:Job:6:8",
+        "t": "Oh*p that I might have my request; and that God would grant me the thing that I long for!"
+    },
+    {
+        "o": 13430,
+        "r": "kjv:Job:6:9",
+        "t": "Even*p that it would please God to destroy me; that he would let loose his hand, and cut me off!"
+    },
+    {
+        "o": 13431,
+        "r": "kjv:Job:6:10",
+        "t": "Then*p should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One."
+    },
+    {
+        "o": 13432,
+        "r": "kjv:Job:6:11",
+        "t": "What*p is my strength, that I should hope? and what is mine end, that I should prolong my life?"
+    },
+    {
+        "o": 13433,
+        "r": "kjv:Job:6:12",
+        "t": "Is*p my strength the strength of stones? or is my flesh of brass?"
+    },
+    {
+        "o": 13434,
+        "r": "kjv:Job:6:13",
+        "t": "Is*p not my help in me? and is wisdom driven quite from me?"
+    },
+    {
+        "o": 13435,
+        "r": "kjv:Job:6:14",
+        "t": "To*p him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty."
+    },
+    {
+        "o": 13436,
+        "r": "kjv:Job:6:15",
+        "t": "My*p brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;"
+    },
+    {
+        "o": 13437,
+        "r": "kjv:Job:6:16",
+        "t": "Which*p are blackish by reason of the ice, and wherein the snow is hid:"
+    },
+    {
+        "o": 13438,
+        "r": "kjv:Job:6:17",
+        "t": "What*p time they wax warm, they vanish: when it is hot, they are consumed out of their place."
+    },
+    {
+        "o": 13439,
+        "r": "kjv:Job:6:18",
+        "t": "The*p paths of their way are turned aside; they go to nothing, and perish."
+    },
+    {
+        "o": 13440,
+        "r": "kjv:Job:6:19",
+        "t": "The*p troops of Tema looked, the companies of Sheba waited for them."
+    },
+    {
+        "o": 13441,
+        "r": "kjv:Job:6:20",
+        "t": "They*p were confounded because they had hoped; they came thither, and were ashamed."
+    },
+    {
+        "o": 13442,
+        "r": "kjv:Job:6:21",
+        "t": "For*p now ye are nothing; ye see my casting down, and are afraid."
+    },
+    {
+        "o": 13443,
+        "r": "kjv:Job:6:22",
+        "t": "Did*p I say, Bring unto me? or, Give a reward for me of your substance?"
+    },
+    {
+        "o": 13444,
+        "r": "kjv:Job:6:23",
+        "t": "Or,*p Deliver me from the enemy's hand? or, Redeem me from the hand of the mighty?"
+    },
+    {
+        "o": 13445,
+        "r": "kjv:Job:6:24",
+        "t": "Teach*p me, and I will hold my tongue: and cause me to understand wherein I have erred."
+    },
+    {
+        "o": 13446,
+        "r": "kjv:Job:6:25",
+        "t": "How*p forcible are right words! but what doth your arguing reprove?"
+    },
+    {
+        "o": 13447,
+        "r": "kjv:Job:6:26",
+        "t": "Do*p ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?"
+    },
+    {
+        "o": 13448,
+        "r": "kjv:Job:6:27",
+        "t": "Yea,*p ye overwhelm the fatherless, and ye dig a pit for your friend."
+    },
+    {
+        "o": 13449,
+        "r": "kjv:Job:6:28",
+        "t": "Now*p therefore be content, look upon me; for it is evident unto you if I lie."
+    },
+    {
+        "o": 13450,
+        "r": "kjv:Job:6:29",
+        "t": "Return,*p I pray you, let it not be iniquity; yea, return again, my righteousness is in it."
+    },
+    {
+        "o": 13451,
+        "r": "kjv:Job:6:30",
+        "t": "Is*p there iniquity in my tongue? cannot my taste discern perverse things?"
+    },
+    {
+        "o": 13452,
+        "r": "kjv:Job:7:0",
+        "t": "Job 7",
+        "h": 1
+    },
+    {
+        "o": 13453,
+        "r": "kjv:Job:7:1",
+        "t": "Is*p there not an appointed time to man upon earth? are not his days also like the days of an hireling?"
+    },
+    {
+        "o": 13454,
+        "r": "kjv:Job:7:2",
+        "t": "As*p a servant earnestly desireth the shadow, and as an hireling looketh for the reward of his work:"
+    },
+    {
+        "o": 13455,
+        "r": "kjv:Job:7:3",
+        "t": "So*p am I made to possess months of vanity, and wearisome nights are appointed to me."
+    },
+    {
+        "o": 13456,
+        "r": "kjv:Job:7:4",
+        "t": "When*p I lie down, I say, When shall I arise, and the night be gone? and I am full of tossings to and fro unto the dawning of the day."
+    },
+    {
+        "o": 13457,
+        "r": "kjv:Job:7:5",
+        "t": "My*p flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome."
+    },
+    {
+        "o": 13458,
+        "r": "kjv:Job:7:6",
+        "t": "My*p days are swifter than a weaver's shuttle, and are spent without hope."
+    },
+    {
+        "o": 13459,
+        "r": "kjv:Job:7:7",
+        "t": "O*p remember that my life is wind: mine eye shall no more see good."
+    },
+    {
+        "o": 13460,
+        "r": "kjv:Job:7:8",
+        "t": "The*p eye of him that hath seen me shall see me no more: thine eyes are upon me, and I am not."
+    },
+    {
+        "o": 13461,
+        "r": "kjv:Job:7:9",
+        "t": "As*p the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no more."
+    },
+    {
+        "o": 13462,
+        "r": "kjv:Job:7:10",
+        "t": "He*p shall return no more to his house, neither shall his place know him any more."
+    },
+    {
+        "o": 13463,
+        "r": "kjv:Job:7:11",
+        "t": "Therefore*p I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul."
+    },
+    {
+        "o": 13464,
+        "r": "kjv:Job:7:12",
+        "t": "Am*p I a sea, or a whale, that thou settest a watch over me?"
+    },
+    {
+        "o": 13465,
+        "r": "kjv:Job:7:13",
+        "t": "When*p I say, My bed shall comfort me, my couch shall ease my complaint;"
+    },
+    {
+        "o": 13466,
+        "r": "kjv:Job:7:14",
+        "t": "Then*p thou scarest me with dreams, and terrifiest me through visions:"
+    },
+    {
+        "o": 13467,
+        "r": "kjv:Job:7:15",
+        "t": "So*p that my soul chooseth strangling, and death rather than my life."
+    },
+    {
+        "o": 13468,
+        "r": "kjv:Job:7:16",
+        "t": "I*p loathe it; I would not live alway: let me alone; for my days are vanity."
+    },
+    {
+        "o": 13469,
+        "r": "kjv:Job:7:17",
+        "t": "What*p is man, that thou shouldest magnify him? and that thou shouldest set thine heart upon him?"
+    },
+    {
+        "o": 13470,
+        "r": "kjv:Job:7:18",
+        "t": "And*p that thou shouldest visit him every morning, and try him every moment?"
+    },
+    {
+        "o": 13471,
+        "r": "kjv:Job:7:19",
+        "t": "How*p long wilt thou not depart from me, nor let me alone till I swallow down my spittle?"
+    },
+    {
+        "o": 13472,
+        "r": "kjv:Job:7:20",
+        "t": "I*p have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?"
+    },
+    {
+        "o": 13473,
+        "r": "kjv:Job:7:21",
+        "t": "And*p why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I shall not be."
+    },
+    {
+        "o": 13474,
+        "r": "kjv:Job:8:0",
+        "t": "Job 8",
+        "h": 1
+    },
+    {
+        "o": 13475,
+        "r": "kjv:Job:8:1",
+        "t": "Then*p answered Bildad the Shuhite, and said,"
+    },
+    {
+        "o": 13476,
+        "r": "kjv:Job:8:2",
+        "t": "How*p long wilt thou speak these things? and how long shall the words of thy mouth be like a strong wind?"
+    },
+    {
+        "o": 13477,
+        "r": "kjv:Job:8:3",
+        "t": "Doth*p God pervert judgment? or doth the Almighty pervert justice?"
+    },
+    {
+        "o": 13478,
+        "r": "kjv:Job:8:4",
+        "t": "If*p thy children have sinned against him, and he have cast them away for their transgression;"
+    },
+    {
+        "o": 13479,
+        "r": "kjv:Job:8:5",
+        "t": "If*p thou wouldest seek unto God betimes, and make thy supplication to the Almighty;"
+    },
+    {
+        "o": 13480,
+        "r": "kjv:Job:8:6",
+        "t": "If*p thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous."
+    },
+    {
+        "o": 13481,
+        "r": "kjv:Job:8:7",
+        "t": "Though*p thy beginning was small, yet thy latter end should greatly increase."
+    },
+    {
+        "o": 13482,
+        "r": "kjv:Job:8:8",
+        "t": "For*p enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:"
+    },
+    {
+        "o": 13483,
+        "r": "kjv:Job:8:9",
+        "t": "(For*p we are but of yesterday, and know nothing, because our days upon earth are a shadow:)"
+    },
+    {
+        "o": 13484,
+        "r": "kjv:Job:8:10",
+        "t": "Shall*p not they teach thee, and tell thee, and utter words out of their heart?"
+    },
+    {
+        "o": 13485,
+        "r": "kjv:Job:8:11",
+        "t": "Can*p the rush grow up without mire? can the flag grow without water?"
+    },
+    {
+        "o": 13486,
+        "r": "kjv:Job:8:12",
+        "t": "Whilst*p it is yet in his greenness, and not cut down, it withereth before any other herb."
+    },
+    {
+        "o": 13487,
+        "r": "kjv:Job:8:13",
+        "t": "So*p are the paths of all that forget God; and the hypocrite's hope shall perish:"
+    },
+    {
+        "o": 13488,
+        "r": "kjv:Job:8:14",
+        "t": "Whose*p hope shall be cut off, and whose trust shall be a spider's web."
+    },
+    {
+        "o": 13489,
+        "r": "kjv:Job:8:15",
+        "t": "He*p shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure."
+    },
+    {
+        "o": 13490,
+        "r": "kjv:Job:8:16",
+        "t": "He*p is green before the sun, and his branch shooteth forth in his garden."
+    },
+    {
+        "o": 13491,
+        "r": "kjv:Job:8:17",
+        "t": "His*p roots are wrapped about the heap, and seeth the place of stones."
+    },
+    {
+        "o": 13492,
+        "r": "kjv:Job:8:18",
+        "t": "If*p he destroy him from his place, then it shall deny him, saying, I have not seen thee."
+    },
+    {
+        "o": 13493,
+        "r": "kjv:Job:8:19",
+        "t": "Behold,*p this is the joy of his way, and out of the earth shall others grow."
+    },
+    {
+        "o": 13494,
+        "r": "kjv:Job:8:20",
+        "t": "Behold,*p God will not cast away a perfect man, neither will he help the evil doers:"
+    },
+    {
+        "o": 13495,
+        "r": "kjv:Job:8:21",
+        "t": "Till*p he fill thy mouth with laughing, and thy lips with rejoicing."
+    },
+    {
+        "o": 13496,
+        "r": "kjv:Job:8:22",
+        "t": "They*p that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought."
+    },
+    {
+        "o": 13497,
+        "r": "kjv:Job:9:0",
+        "t": "Job 9",
+        "h": 1
+    },
+    {
+        "o": 13498,
+        "r": "kjv:Job:9:1",
+        "t": "Then*p Job answered and said,"
+    },
+    {
+        "o": 13499,
+        "r": "kjv:Job:9:2",
+        "t": "I*p know it is so of a truth: but how should man be just with God?"
+    },
+    {
+        "o": 13500,
+        "r": "kjv:Job:9:3",
+        "t": "If*p he will contend with him, he cannot answer him one of a thousand."
+    },
+    {
+        "o": 13501,
+        "r": "kjv:Job:9:4",
+        "t": "He*p is wise in heart, and mighty in strength: who hath hardened himself against him, and hath prospered?"
+    },
+    {
+        "o": 13502,
+        "r": "kjv:Job:9:5",
+        "t": "Which*p removeth the mountains, and they know not: which overturneth them in his anger."
+    },
+    {
+        "o": 13503,
+        "r": "kjv:Job:9:6",
+        "t": "Which*p shaketh the earth out of her place, and the pillars thereof tremble."
+    },
+    {
+        "o": 13504,
+        "r": "kjv:Job:9:7",
+        "t": "Which*p commandeth the sun, and it riseth not; and sealeth up the stars."
+    },
+    {
+        "o": 13505,
+        "r": "kjv:Job:9:8",
+        "t": "Which*p alone spreadeth out the heavens, and treadeth upon the waves of the sea."
+    },
+    {
+        "o": 13506,
+        "r": "kjv:Job:9:9",
+        "t": "Which*p maketh Arcturus, Orion, and Pleiades, and the chambers of the south."
+    },
+    {
+        "o": 13507,
+        "r": "kjv:Job:9:10",
+        "t": "Which*p doeth great things past finding out; yea, and wonders without number."
+    },
+    {
+        "o": 13508,
+        "r": "kjv:Job:9:11",
+        "t": "Lo,*p he goeth by me, and I see him not: he passeth on also, but I perceive him not."
+    },
+    {
+        "o": 13509,
+        "r": "kjv:Job:9:12",
+        "t": "Behold,*p he taketh away, who can hinder him? who will say unto him, What doest thou?"
+    },
+    {
+        "o": 13510,
+        "r": "kjv:Job:9:13",
+        "t": "If*p God will not withdraw his anger, the proud helpers do stoop under him."
+    },
+    {
+        "o": 13511,
+        "r": "kjv:Job:9:14",
+        "t": "How*p much less shall I answer him, and choose out my words to reason with him?"
+    },
+    {
+        "o": 13512,
+        "r": "kjv:Job:9:15",
+        "t": "Whom,*p though I were righteous, yet would I not answer, but I would make supplication to my judge."
+    },
+    {
+        "o": 13513,
+        "r": "kjv:Job:9:16",
+        "t": "If*p I had called, and he had answered me; yet would I not believe that he had hearkened unto my voice."
+    },
+    {
+        "o": 13514,
+        "r": "kjv:Job:9:17",
+        "t": "For*p he breaketh me with a tempest, and multiplieth my wounds without cause."
+    },
+    {
+        "o": 13515,
+        "r": "kjv:Job:9:18",
+        "t": "He*p will not suffer me to take my breath, but filleth me with bitterness."
+    },
+    {
+        "o": 13516,
+        "r": "kjv:Job:9:19",
+        "t": "If*p I speak of strength, lo, he is strong: and if of judgment, who shall set me a time to plead?"
+    },
+    {
+        "o": 13517,
+        "r": "kjv:Job:9:20",
+        "t": "If*p I justify myself, mine own mouth shall condemn me: if I say, I am perfect, it shall also prove me perverse."
+    },
+    {
+        "o": 13518,
+        "r": "kjv:Job:9:21",
+        "t": "Though*p I were perfect, yet would I not know my soul: I would despise my life."
+    },
+    {
+        "o": 13519,
+        "r": "kjv:Job:9:22",
+        "t": "This*p is one thing, therefore I said it, He destroyeth the perfect and the wicked."
+    },
+    {
+        "o": 13520,
+        "r": "kjv:Job:9:23",
+        "t": "If*p the scourge slay suddenly, he will laugh at the trial of the innocent."
+    },
+    {
+        "o": 13521,
+        "r": "kjv:Job:9:24",
+        "t": "The*p earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?"
+    },
+    {
+        "o": 13522,
+        "r": "kjv:Job:9:25",
+        "t": "Now*p my days are swifter than a post: they flee away, they see no good."
+    },
+    {
+        "o": 13523,
+        "r": "kjv:Job:9:26",
+        "t": "They*p are passed away as the swift ships: as the eagle that hasteth to the prey."
+    },
+    {
+        "o": 13524,
+        "r": "kjv:Job:9:27",
+        "t": "If*p I say, I will forget my complaint, I will leave off my heaviness, and comfort myself:"
+    },
+    {
+        "o": 13525,
+        "r": "kjv:Job:9:28",
+        "t": "I*p am afraid of all my sorrows, I know that thou wilt not hold me innocent."
+    },
+    {
+        "o": 13526,
+        "r": "kjv:Job:9:29",
+        "t": "If*p I be wicked, why then labour I in vain?"
+    },
+    {
+        "o": 13527,
+        "r": "kjv:Job:9:30",
+        "t": "If*p I wash myself with snow water, and make my hands never so clean;"
+    },
+    {
+        "o": 13528,
+        "r": "kjv:Job:9:31",
+        "t": "Yet*p shalt thou plunge me in the ditch, and mine own clothes shall abhor me."
+    },
+    {
+        "o": 13529,
+        "r": "kjv:Job:9:32",
+        "t": "For*p he is not a man, as I am, that I should answer him, and we should come together in judgment."
+    },
+    {
+        "o": 13530,
+        "r": "kjv:Job:9:33",
+        "t": "Neither*p is there any daysman betwixt us, that might lay his hand upon us both."
+    },
+    {
+        "o": 13531,
+        "r": "kjv:Job:9:34",
+        "t": "Let*p him take his rod away from me, and let not his fear terrify me:"
+    },
+    {
+        "o": 13532,
+        "r": "kjv:Job:9:35",
+        "t": "Then*p would I speak, and not fear him; but it is not so with me."
+    },
+    {
+        "o": 13533,
+        "r": "kjv:Job:10:0",
+        "t": "Job 10",
+        "h": 1
+    },
+    {
+        "o": 13534,
+        "r": "kjv:Job:10:1",
+        "t": "My*p soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul."
+    },
+    {
+        "o": 13535,
+        "r": "kjv:Job:10:2",
+        "t": "I*p will say unto God, Do not condemn me; shew me wherefore thou contendest with me."
+    },
+    {
+        "o": 13536,
+        "r": "kjv:Job:10:3",
+        "t": "Is*p it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?"
+    },
+    {
+        "o": 13537,
+        "r": "kjv:Job:10:4",
+        "t": "Hast*p thou eyes of flesh? or seest thou as man seeth?"
+    },
+    {
+        "o": 13538,
+        "r": "kjv:Job:10:5",
+        "t": "Are*p thy days as the days of man? are thy years as man's days,"
+    },
+    {
+        "o": 13539,
+        "r": "kjv:Job:10:6",
+        "t": "That*p thou enquirest after mine iniquity, and searchest after my sin?"
+    },
+    {
+        "o": 13540,
+        "r": "kjv:Job:10:7",
+        "t": "Thou*p knowest that I am not wicked; and there is none that can deliver out of thine hand."
+    },
+    {
+        "o": 13541,
+        "r": "kjv:Job:10:8",
+        "t": "Thine*p hands have made me and fashioned me together round about; yet thou dost destroy me."
+    },
+    {
+        "o": 13542,
+        "r": "kjv:Job:10:9",
+        "t": "Remember,*p I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?"
+    },
+    {
+        "o": 13543,
+        "r": "kjv:Job:10:10",
+        "t": "Hast*p thou not poured me out as milk, and curdled me like cheese?"
+    },
+    {
+        "o": 13544,
+        "r": "kjv:Job:10:11",
+        "t": "Thou*p hast clothed me with skin and flesh, and hast fenced me with bones and sinews."
+    },
+    {
+        "o": 13545,
+        "r": "kjv:Job:10:12",
+        "t": "Thou*p hast granted me life and favour, and thy visitation hath preserved my spirit."
+    },
+    {
+        "o": 13546,
+        "r": "kjv:Job:10:13",
+        "t": "And*p these things hast thou hid in thine heart: I know that this is with thee."
+    },
+    {
+        "o": 13547,
+        "r": "kjv:Job:10:14",
+        "t": "If*p I sin, then thou markest me, and thou wilt not acquit me from mine iniquity."
+    },
+    {
+        "o": 13548,
+        "r": "kjv:Job:10:15",
+        "t": "If*p I be wicked, woe unto me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see thou mine affliction;"
+    },
+    {
+        "o": 13549,
+        "r": "kjv:Job:10:16",
+        "t": "For*p it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me."
+    },
+    {
+        "o": 13550,
+        "r": "kjv:Job:10:17",
+        "t": "Thou*p renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me."
+    },
+    {
+        "o": 13551,
+        "r": "kjv:Job:10:18",
+        "t": "Wherefore*p then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!"
+    },
+    {
+        "o": 13552,
+        "r": "kjv:Job:10:19",
+        "t": "I*p should have been as though I had not been; I should have been carried from the womb to the grave."
+    },
+    {
+        "o": 13553,
+        "r": "kjv:Job:10:20",
+        "t": "Are*p not my days few? cease then, and let me alone, that I may take comfort a little,"
+    },
+    {
+        "o": 13554,
+        "r": "kjv:Job:10:21",
+        "t": "Before*p I go whence I shall not return, even to the land of darkness and the shadow of death;"
+    },
+    {
+        "o": 13555,
+        "r": "kjv:Job:10:22",
+        "t": "A*p land of darkness, as darkness itself; and of the shadow of death, without any order, and where the light is as darkness."
+    },
+    {
+        "o": 13556,
+        "r": "kjv:Job:11:0",
+        "t": "Job 11",
+        "h": 1
+    },
+    {
+        "o": 13557,
+        "r": "kjv:Job:11:1",
+        "t": "Then*p answered Zophar the Naamathite, and said,"
+    },
+    {
+        "o": 13558,
+        "r": "kjv:Job:11:2",
+        "t": "Should*p not the multitude of words be answered? and should a man full of talk be justified?"
+    },
+    {
+        "o": 13559,
+        "r": "kjv:Job:11:3",
+        "t": "Should*p thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?"
+    },
+    {
+        "o": 13560,
+        "r": "kjv:Job:11:4",
+        "t": "For*p thou hast said, My doctrine is pure, and I am clean in thine eyes."
+    },
+    {
+        "o": 13561,
+        "r": "kjv:Job:11:5",
+        "t": "But*p oh that God would speak, and open his lips against thee;"
+    },
+    {
+        "o": 13562,
+        "r": "kjv:Job:11:6",
+        "t": "And*p that he would shew thee the secrets of wisdom, that they are double to that which is! Know therefore that God exacteth of thee less than thine iniquity deserveth."
+    },
+    {
+        "o": 13563,
+        "r": "kjv:Job:11:7",
+        "t": "Canst*p thou by searching find out God? canst thou find out the Almighty unto perfection?"
+    },
+    {
+        "o": 13564,
+        "r": "kjv:Job:11:8",
+        "t": "It*p is as high as heaven; what canst thou do? deeper than hell; what canst thou know?"
+    },
+    {
+        "o": 13565,
+        "r": "kjv:Job:11:9",
+        "t": "The*p measure thereof is longer than the earth, and broader than the sea."
+    },
+    {
+        "o": 13566,
+        "r": "kjv:Job:11:10",
+        "t": "If*p he cut off, and shut up, or gather together, then who can hinder him?"
+    },
+    {
+        "o": 13567,
+        "r": "kjv:Job:11:11",
+        "t": "For*p he knoweth vain men: he seeth wickedness also; will he not then consider it?"
+    },
+    {
+        "o": 13568,
+        "r": "kjv:Job:11:12",
+        "t": "For*p vain man would be wise, though man be born like a wild ass's colt."
+    },
+    {
+        "o": 13569,
+        "r": "kjv:Job:11:13",
+        "t": "If*p thou prepare thine heart, and stretch out thine hands toward him;"
+    },
+    {
+        "o": 13570,
+        "r": "kjv:Job:11:14",
+        "t": "If*p iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles."
+    },
+    {
+        "o": 13571,
+        "r": "kjv:Job:11:15",
+        "t": "For*p then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:"
+    },
+    {
+        "o": 13572,
+        "r": "kjv:Job:11:16",
+        "t": "Because*p thou shalt forget thy misery, and remember it as waters that pass away:"
+    },
+    {
+        "o": 13573,
+        "r": "kjv:Job:11:17",
+        "t": "And*p thine age shall be clearer than the noonday; thou shalt shine forth, thou shalt be as the morning."
+    },
+    {
+        "o": 13574,
+        "r": "kjv:Job:11:18",
+        "t": "And*p thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety."
+    },
+    {
+        "o": 13575,
+        "r": "kjv:Job:11:19",
+        "t": "Also*p thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee."
+    },
+    {
+        "o": 13576,
+        "r": "kjv:Job:11:20",
+        "t": "But*p the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost."
+    },
+    {
+        "o": 13577,
+        "r": "kjv:Job:12:0",
+        "t": "Job 12",
+        "h": 1
+    },
+    {
+        "o": 13578,
+        "r": "kjv:Job:12:1",
+        "t": "And*p Job answered and said,"
+    },
+    {
+        "o": 13579,
+        "r": "kjv:Job:12:2",
+        "t": "No*p doubt but ye are the people, and wisdom shall die with you."
+    },
+    {
+        "o": 13580,
+        "r": "kjv:Job:12:3",
+        "t": "But*p I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?"
+    },
+    {
+        "o": 13581,
+        "r": "kjv:Job:12:4",
+        "t": "I*p am as one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright man is laughed to scorn."
+    },
+    {
+        "o": 13582,
+        "r": "kjv:Job:12:5",
+        "t": "He*p that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease."
+    },
+    {
+        "o": 13583,
+        "r": "kjv:Job:12:6",
+        "t": "The*p tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth abundantly."
+    },
+    {
+        "o": 13584,
+        "r": "kjv:Job:12:7",
+        "t": "But*p ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:"
+    },
+    {
+        "o": 13585,
+        "r": "kjv:Job:12:8",
+        "t": "Or*p speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee."
+    },
+    {
+        "o": 13586,
+        "r": "kjv:Job:12:9",
+        "t": "Who*p knoweth not in all these that the hand of the Lord*s hath wrought this?"
+    },
+    {
+        "o": 13587,
+        "r": "kjv:Job:12:10",
+        "t": "In*p whose hand is the soul of every living thing, and the breath of all mankind."
+    },
+    {
+        "o": 13588,
+        "r": "kjv:Job:12:11",
+        "t": "Doth*p not the ear try words? and the mouth taste his meat?"
+    },
+    {
+        "o": 13589,
+        "r": "kjv:Job:12:12",
+        "t": "With*p the ancient is wisdom; and in length of days understanding."
+    },
+    {
+        "o": 13590,
+        "r": "kjv:Job:12:13",
+        "t": "With*p him is wisdom and strength, he hath counsel and understanding."
+    },
+    {
+        "o": 13591,
+        "r": "kjv:Job:12:14",
+        "t": "Behold,*p he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening."
+    },
+    {
+        "o": 13592,
+        "r": "kjv:Job:12:15",
+        "t": "Behold,*p he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth."
+    },
+    {
+        "o": 13593,
+        "r": "kjv:Job:12:16",
+        "t": "With*p him is strength and wisdom: the deceived and the deceiver are his."
+    },
+    {
+        "o": 13594,
+        "r": "kjv:Job:12:17",
+        "t": "He*p leadeth counsellors away spoiled, and maketh the judges fools."
+    },
+    {
+        "o": 13595,
+        "r": "kjv:Job:12:18",
+        "t": "He*p looseth the bond of kings, and girdeth their loins with a girdle."
+    },
+    {
+        "o": 13596,
+        "r": "kjv:Job:12:19",
+        "t": "He*p leadeth princes away spoiled, and overthroweth the mighty."
+    },
+    {
+        "o": 13597,
+        "r": "kjv:Job:12:20",
+        "t": "He*p removeth away the speech of the trusty, and taketh away the understanding of the aged."
+    },
+    {
+        "o": 13598,
+        "r": "kjv:Job:12:21",
+        "t": "He*p poureth contempt upon princes, and weakeneth the strength of the mighty."
+    },
+    {
+        "o": 13599,
+        "r": "kjv:Job:12:22",
+        "t": "He*p discovereth deep things out of darkness, and bringeth out to light the shadow of death."
+    },
+    {
+        "o": 13600,
+        "r": "kjv:Job:12:23",
+        "t": "He*p increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again."
+    },
+    {
+        "o": 13601,
+        "r": "kjv:Job:12:24",
+        "t": "He*p taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness where there is no way."
+    },
+    {
+        "o": 13602,
+        "r": "kjv:Job:12:25",
+        "t": "They*p grope in the dark without light, and he maketh them to stagger like a drunken man."
+    },
+    {
+        "o": 13603,
+        "r": "kjv:Job:13:0",
+        "t": "Job 13",
+        "h": 1
+    },
+    {
+        "o": 13604,
+        "r": "kjv:Job:13:1",
+        "t": "Lo,*p mine eye hath seen all this, mine ear hath heard and understood it."
+    },
+    {
+        "o": 13605,
+        "r": "kjv:Job:13:2",
+        "t": "What*p ye know, the same do I know also: I am not inferior unto you."
+    },
+    {
+        "o": 13606,
+        "r": "kjv:Job:13:3",
+        "t": "Surely*p I would speak to the Almighty, and I desire to reason with God."
+    },
+    {
+        "o": 13607,
+        "r": "kjv:Job:13:4",
+        "t": "But*p ye are forgers of lies, ye are all physicians of no value."
+    },
+    {
+        "o": 13608,
+        "r": "kjv:Job:13:5",
+        "t": "O*p that ye would altogether hold your peace! and it should be your wisdom."
+    },
+    {
+        "o": 13609,
+        "r": "kjv:Job:13:6",
+        "t": "Hear*p now my reasoning, and hearken to the pleadings of my lips."
+    },
+    {
+        "o": 13610,
+        "r": "kjv:Job:13:7",
+        "t": "Will*p ye speak wickedly for God? and talk deceitfully for him?"
+    },
+    {
+        "o": 13611,
+        "r": "kjv:Job:13:8",
+        "t": "Will*p ye accept his person? will ye contend for God?"
+    },
+    {
+        "o": 13612,
+        "r": "kjv:Job:13:9",
+        "t": "Is*p it good that he should search you out? or as one man mocketh another, do ye so mock him?"
+    },
+    {
+        "o": 13613,
+        "r": "kjv:Job:13:10",
+        "t": "He*p will surely reprove you, if ye do secretly accept persons."
+    },
+    {
+        "o": 13614,
+        "r": "kjv:Job:13:11",
+        "t": "Shall*p not his excellency make you afraid? and his dread fall upon you?"
+    },
+    {
+        "o": 13615,
+        "r": "kjv:Job:13:12",
+        "t": "Your*p remembrances are like unto ashes, your bodies to bodies of clay."
+    },
+    {
+        "o": 13616,
+        "r": "kjv:Job:13:13",
+        "t": "Hold*p your peace, let me alone, that I may speak, and let come on me what will."
+    },
+    {
+        "o": 13617,
+        "r": "kjv:Job:13:14",
+        "t": "Wherefore*p do I take my flesh in my teeth, and put my life in mine hand?"
+    },
+    {
+        "o": 13618,
+        "r": "kjv:Job:13:15",
+        "t": "Though*p he slay me, yet will I trust in him: but I will maintain mine own ways before him."
+    },
+    {
+        "o": 13619,
+        "r": "kjv:Job:13:16",
+        "t": "He*p also shall be my salvation: for an hypocrite shall not come before him."
+    },
+    {
+        "o": 13620,
+        "r": "kjv:Job:13:17",
+        "t": "Hear*p diligently my speech, and my declaration with your ears."
+    },
+    {
+        "o": 13621,
+        "r": "kjv:Job:13:18",
+        "t": "Behold*p now, I have ordered my cause; I know that I shall be justified."
+    },
+    {
+        "o": 13622,
+        "r": "kjv:Job:13:19",
+        "t": "Who*p is he that will plead with me? for now, if I hold my tongue, I shall give up the ghost."
+    },
+    {
+        "o": 13623,
+        "r": "kjv:Job:13:20",
+        "t": "Only*p do not two things unto me: then will I not hide myself from thee."
+    },
+    {
+        "o": 13624,
+        "r": "kjv:Job:13:21",
+        "t": "Withdraw*p thine hand far from me: and let not thy dread make me afraid."
+    },
+    {
+        "o": 13625,
+        "r": "kjv:Job:13:22",
+        "t": "Then*p call thou, and I will answer: or let me speak, and answer thou me."
+    },
+    {
+        "o": 13626,
+        "r": "kjv:Job:13:23",
+        "t": "How*p many are mine iniquities and sins? make me to know my transgression and my sin."
+    },
+    {
+        "o": 13627,
+        "r": "kjv:Job:13:24",
+        "t": "Wherefore*p hidest thou thy face, and holdest me for thine enemy?"
+    },
+    {
+        "o": 13628,
+        "r": "kjv:Job:13:25",
+        "t": "Wilt*p thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?"
+    },
+    {
+        "o": 13629,
+        "r": "kjv:Job:13:26",
+        "t": "For*p thou writest bitter things against me, and makest me to possess the iniquities of my youth."
+    },
+    {
+        "o": 13630,
+        "r": "kjv:Job:13:27",
+        "t": "Thou*p puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet."
+    },
+    {
+        "o": 13631,
+        "r": "kjv:Job:13:28",
+        "t": "And*p he, as a rotten thing, consumeth, as a garment that is moth eaten."
+    },
+    {
+        "o": 13632,
+        "r": "kjv:Job:14:0",
+        "t": "Job 14",
+        "h": 1
+    },
+    {
+        "o": 13633,
+        "r": "kjv:Job:14:1",
+        "t": "Man*p that is born of a woman is of few days, and full of trouble."
+    },
+    {
+        "o": 13634,
+        "r": "kjv:Job:14:2",
+        "t": "He*p cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not."
+    },
+    {
+        "o": 13635,
+        "r": "kjv:Job:14:3",
+        "t": "And*p dost thou open thine eyes upon such an one, and bringest me into judgment with thee?"
+    },
+    {
+        "o": 13636,
+        "r": "kjv:Job:14:4",
+        "t": "Who*p can bring a clean thing out of an unclean? not one."
+    },
+    {
+        "o": 13637,
+        "r": "kjv:Job:14:5",
+        "t": "Seeing*p his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;"
+    },
+    {
+        "o": 13638,
+        "r": "kjv:Job:14:6",
+        "t": "Turn*p from him, that he may rest, till he shall accomplish, as an hireling, his day."
+    },
+    {
+        "o": 13639,
+        "r": "kjv:Job:14:7",
+        "t": "For*p there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease."
+    },
+    {
+        "o": 13640,
+        "r": "kjv:Job:14:8",
+        "t": "Though*p the root thereof wax old in the earth, and the stock thereof die in the ground;"
+    },
+    {
+        "o": 13641,
+        "r": "kjv:Job:14:9",
+        "t": "Yet*p through the scent of water it will bud, and bring forth boughs like a plant."
+    },
+    {
+        "o": 13642,
+        "r": "kjv:Job:14:10",
+        "t": "But*p man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?"
+    },
+    {
+        "o": 13643,
+        "r": "kjv:Job:14:11",
+        "t": "As*p the waters fail from the sea, and the flood decayeth and drieth up:"
+    },
+    {
+        "o": 13644,
+        "r": "kjv:Job:14:12",
+        "t": "So*p man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep."
+    },
+    {
+        "o": 13645,
+        "r": "kjv:Job:14:13",
+        "t": "O*p that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!"
+    },
+    {
+        "o": 13646,
+        "r": "kjv:Job:14:14",
+        "t": "If*p a man die, shall he live again? all the days of my appointed time will I wait, till my change come."
+    },
+    {
+        "o": 13647,
+        "r": "kjv:Job:14:15",
+        "t": "Thou*p shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands."
+    },
+    {
+        "o": 13648,
+        "r": "kjv:Job:14:16",
+        "t": "For*p now thou numberest my steps: dost thou not watch over my sin?"
+    },
+    {
+        "o": 13649,
+        "r": "kjv:Job:14:17",
+        "t": "My*p transgression is sealed up in a bag, and thou sewest up mine iniquity."
+    },
+    {
+        "o": 13650,
+        "r": "kjv:Job:14:18",
+        "t": "And*p surely the mountain falling cometh to nought, and the rock is removed out of his place."
+    },
+    {
+        "o": 13651,
+        "r": "kjv:Job:14:19",
+        "t": "The*p waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man."
+    },
+    {
+        "o": 13652,
+        "r": "kjv:Job:14:20",
+        "t": "Thou*p prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away."
+    },
+    {
+        "o": 13653,
+        "r": "kjv:Job:14:21",
+        "t": "His*p sons come to honour, and he knoweth it not; and they are brought low, but he perceiveth it not of them."
+    },
+    {
+        "o": 13654,
+        "r": "kjv:Job:14:22",
+        "t": "But*p his flesh upon him shall have pain, and his soul within him shall mourn."
+    },
+    {
+        "o": 13655,
+        "r": "kjv:Job:15:0",
+        "t": "Job 15",
+        "h": 1
+    },
+    {
+        "o": 13656,
+        "r": "kjv:Job:15:1",
+        "t": "Then*p answered Eliphaz the Temanite, and said,"
+    },
+    {
+        "o": 13657,
+        "r": "kjv:Job:15:2",
+        "t": "Should*p a wise man utter vain knowledge, and fill his belly with the east wind?"
+    },
+    {
+        "o": 13658,
+        "r": "kjv:Job:15:3",
+        "t": "Should*p he reason with unprofitable talk? or with speeches wherewith he can do no good?"
+    },
+    {
+        "o": 13659,
+        "r": "kjv:Job:15:4",
+        "t": "Yea,*p thou castest off fear, and restrainest prayer before God."
+    },
+    {
+        "o": 13660,
+        "r": "kjv:Job:15:5",
+        "t": "For*p thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty."
+    },
+    {
+        "o": 13661,
+        "r": "kjv:Job:15:6",
+        "t": "Thine*p own mouth condemneth thee, and not I: yea, thine own lips testify against thee."
+    },
+    {
+        "o": 13662,
+        "r": "kjv:Job:15:7",
+        "t": "Art*p thou the first man that was born? or wast thou made before the hills?"
+    },
+    {
+        "o": 13663,
+        "r": "kjv:Job:15:8",
+        "t": "Hast*p thou heard the secret of God? and dost thou restrain wisdom to thyself?"
+    },
+    {
+        "o": 13664,
+        "r": "kjv:Job:15:9",
+        "t": "What*p knowest thou, that we know not? what understandest thou, which is not in us?"
+    },
+    {
+        "o": 13665,
+        "r": "kjv:Job:15:10",
+        "t": "With*p us are both the grayheaded and very aged men, much elder than thy father."
+    },
+    {
+        "o": 13666,
+        "r": "kjv:Job:15:11",
+        "t": "Are*p the consolations of God small with thee? is there any secret thing with thee?"
+    },
+    {
+        "o": 13667,
+        "r": "kjv:Job:15:12",
+        "t": "Why*p doth thine heart carry thee away? and what do thy eyes wink at,"
+    },
+    {
+        "o": 13668,
+        "r": "kjv:Job:15:13",
+        "t": "That*p thou turnest thy spirit against God, and lettest such words go out of thy mouth?"
+    },
+    {
+        "o": 13669,
+        "r": "kjv:Job:15:14",
+        "t": "What*p is man, that he should be clean? and he which is born of a woman, that he should be righteous?"
+    },
+    {
+        "o": 13670,
+        "r": "kjv:Job:15:15",
+        "t": "Behold,*p he putteth no trust in his saints; yea, the heavens are not clean in his sight."
+    },
+    {
+        "o": 13671,
+        "r": "kjv:Job:15:16",
+        "t": "How*p much more abominable and filthy is man, which drinketh iniquity like water?"
+    },
+    {
+        "o": 13672,
+        "r": "kjv:Job:15:17",
+        "t": "I*p will shew thee, hear me; and that which I have seen I will declare;"
+    },
+    {
+        "o": 13673,
+        "r": "kjv:Job:15:18",
+        "t": "Which*p wise men have told from their fathers, and have not hid it:"
+    },
+    {
+        "o": 13674,
+        "r": "kjv:Job:15:19",
+        "t": "Unto*p whom alone the earth was given, and no stranger passed among them."
+    },
+    {
+        "o": 13675,
+        "r": "kjv:Job:15:20",
+        "t": "The*p wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor."
+    },
+    {
+        "o": 13676,
+        "r": "kjv:Job:15:21",
+        "t": "A*p dreadful sound is in his ears: in prosperity the destroyer shall come upon him."
+    },
+    {
+        "o": 13677,
+        "r": "kjv:Job:15:22",
+        "t": "He*p believeth not that he shall return out of darkness, and he is waited for of the sword."
+    },
+    {
+        "o": 13678,
+        "r": "kjv:Job:15:23",
+        "t": "He*p wandereth abroad for bread, saying, Where is it? he knoweth that the day of darkness is ready at his hand."
+    },
+    {
+        "o": 13679,
+        "r": "kjv:Job:15:24",
+        "t": "Trouble*p and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle."
+    },
+    {
+        "o": 13680,
+        "r": "kjv:Job:15:25",
+        "t": "For*p he stretcheth out his hand against God, and strengtheneth himself against the Almighty."
+    },
+    {
+        "o": 13681,
+        "r": "kjv:Job:15:26",
+        "t": "He*p runneth upon him, even on his neck, upon the thick bosses of his bucklers:"
+    },
+    {
+        "o": 13682,
+        "r": "kjv:Job:15:27",
+        "t": "Because*p he covereth his face with his fatness, and maketh collops of fat on his flanks."
+    },
+    {
+        "o": 13683,
+        "r": "kjv:Job:15:28",
+        "t": "And*p he dwelleth in desolate cities, and in houses which no man inhabiteth, which are ready to become heaps."
+    },
+    {
+        "o": 13684,
+        "r": "kjv:Job:15:29",
+        "t": "He*p shall not be rich, neither shall his substance continue, neither shall he prolong the perfection thereof upon the earth."
+    },
+    {
+        "o": 13685,
+        "r": "kjv:Job:15:30",
+        "t": "He*p shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away."
+    },
+    {
+        "o": 13686,
+        "r": "kjv:Job:15:31",
+        "t": "Let*p not him that is deceived trust in vanity: for vanity shall be his recompence."
+    },
+    {
+        "o": 13687,
+        "r": "kjv:Job:15:32",
+        "t": "It*p shall be accomplished before his time, and his branch shall not be green."
+    },
+    {
+        "o": 13688,
+        "r": "kjv:Job:15:33",
+        "t": "He*p shall shake off his unripe grape as the vine, and shall cast off his flower as the olive."
+    },
+    {
+        "o": 13689,
+        "r": "kjv:Job:15:34",
+        "t": "For*p the congregation of hypocrites shall be desolate, and fire shall consume the tabernacles of bribery."
+    },
+    {
+        "o": 13690,
+        "r": "kjv:Job:15:35",
+        "t": "They*p conceive mischief, and bring forth vanity, and their belly prepareth deceit."
+    },
+    {
+        "o": 13691,
+        "r": "kjv:Job:16:0",
+        "t": "Job 16",
+        "h": 1
+    },
+    {
+        "o": 13692,
+        "r": "kjv:Job:16:1",
+        "t": "Then*p Job answered and said,"
+    },
+    {
+        "o": 13693,
+        "r": "kjv:Job:16:2",
+        "t": "I*p have heard many such things: miserable comforters are ye all."
+    },
+    {
+        "o": 13694,
+        "r": "kjv:Job:16:3",
+        "t": "Shall*p vain words have an end? or what emboldeneth thee that thou answerest?"
+    },
+    {
+        "o": 13695,
+        "r": "kjv:Job:16:4",
+        "t": "I*p also could speak as ye do: if your soul were in my soul's stead, I could heap up words against you, and shake mine head at you."
+    },
+    {
+        "o": 13696,
+        "r": "kjv:Job:16:5",
+        "t": "But*p I would strengthen you with my mouth, and the moving of my lips should assuage your grief."
+    },
+    {
+        "o": 13697,
+        "r": "kjv:Job:16:6",
+        "t": "Though*p I speak, my grief is not assuaged: and though I forbear, what am I eased?"
+    },
+    {
+        "o": 13698,
+        "r": "kjv:Job:16:7",
+        "t": "But*p now he hath made me weary: thou hast made desolate all my company."
+    },
+    {
+        "o": 13699,
+        "r": "kjv:Job:16:8",
+        "t": "And*p thou hast filled me with wrinkles, which is a witness against me: and my leanness rising up in me beareth witness to my face."
+    },
+    {
+        "o": 13700,
+        "r": "kjv:Job:16:9",
+        "t": "He*p teareth me in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me."
+    },
+    {
+        "o": 13701,
+        "r": "kjv:Job:16:10",
+        "t": "They*p have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me."
+    },
+    {
+        "o": 13702,
+        "r": "kjv:Job:16:11",
+        "t": "God*p hath delivered me to the ungodly, and turned me over into the hands of the wicked."
+    },
+    {
+        "o": 13703,
+        "r": "kjv:Job:16:12",
+        "t": "I*p was at ease, but he hath broken me asunder: he hath also taken me by my neck, and shaken me to pieces, and set me up for his mark."
+    },
+    {
+        "o": 13704,
+        "r": "kjv:Job:16:13",
+        "t": "His*p archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground."
+    },
+    {
+        "o": 13705,
+        "r": "kjv:Job:16:14",
+        "t": "He*p breaketh me with breach upon breach, he runneth upon me like a giant."
+    },
+    {
+        "o": 13706,
+        "r": "kjv:Job:16:15",
+        "t": "I*p have sewed sackcloth upon my skin, and defiled my horn in the dust."
+    },
+    {
+        "o": 13707,
+        "r": "kjv:Job:16:16",
+        "t": "My*p face is foul with weeping, and on my eyelids is the shadow of death;"
+    },
+    {
+        "o": 13708,
+        "r": "kjv:Job:16:17",
+        "t": "Not*p for any injustice in mine hands: also my prayer is pure."
+    },
+    {
+        "o": 13709,
+        "r": "kjv:Job:16:18",
+        "t": "O*p earth, cover not thou my blood, and let my cry have no place."
+    },
+    {
+        "o": 13710,
+        "r": "kjv:Job:16:19",
+        "t": "Also*p now, behold, my witness is in heaven, and my record is on high."
+    },
+    {
+        "o": 13711,
+        "r": "kjv:Job:16:20",
+        "t": "My*p friends scorn me: but mine eye poureth out tears unto God."
+    },
+    {
+        "o": 13712,
+        "r": "kjv:Job:16:21",
+        "t": "O*p that one might plead for a man with God, as a man pleadeth for his neighbour!"
+    },
+    {
+        "o": 13713,
+        "r": "kjv:Job:16:22",
+        "t": "When*p a few years are come, then I shall go the way whence I shall not return."
+    },
+    {
+        "o": 13714,
+        "r": "kjv:Job:17:0",
+        "t": "Job 17",
+        "h": 1
+    },
+    {
+        "o": 13715,
+        "r": "kjv:Job:17:1",
+        "t": "My*p breath is corrupt, my days are extinct, the graves are ready for me."
+    },
+    {
+        "o": 13716,
+        "r": "kjv:Job:17:2",
+        "t": "Are*p there not mockers with me? and doth not mine eye continue in their provocation?"
+    },
+    {
+        "o": 13717,
+        "r": "kjv:Job:17:3",
+        "t": "Lay*p down now, put me in a surety with thee; who is he that will strike hands with me?"
+    },
+    {
+        "o": 13718,
+        "r": "kjv:Job:17:4",
+        "t": "For*p thou hast hid their heart from understanding: therefore shalt thou not exalt them."
+    },
+    {
+        "o": 13719,
+        "r": "kjv:Job:17:5",
+        "t": "He*p that speaketh flattery to his friends, even the eyes of his children shall fail."
+    },
+    {
+        "o": 13720,
+        "r": "kjv:Job:17:6",
+        "t": "He*p hath made me also a byword of the people; and aforetime I was as a tabret."
+    },
+    {
+        "o": 13721,
+        "r": "kjv:Job:17:7",
+        "t": "Mine*p eye also is dim by reason of sorrow, and all my members are as a shadow."
+    },
+    {
+        "o": 13722,
+        "r": "kjv:Job:17:8",
+        "t": "Upright*p men shall be astonished at this, and the innocent shall stir up himself against the hypocrite."
+    },
+    {
+        "o": 13723,
+        "r": "kjv:Job:17:9",
+        "t": "The*p righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger."
+    },
+    {
+        "o": 13724,
+        "r": "kjv:Job:17:10",
+        "t": "But*p as for you all, do ye return, and come now: for I cannot find one wise man among you."
+    },
+    {
+        "o": 13725,
+        "r": "kjv:Job:17:11",
+        "t": "My*p days are past, my purposes are broken off, even the thoughts of my heart."
+    },
+    {
+        "o": 13726,
+        "r": "kjv:Job:17:12",
+        "t": "They*p change the night into day: the light is short because of darkness."
+    },
+    {
+        "o": 13727,
+        "r": "kjv:Job:17:13",
+        "t": "If*p I wait, the grave is mine house: I have made my bed in the darkness."
+    },
+    {
+        "o": 13728,
+        "r": "kjv:Job:17:14",
+        "t": "I*p have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister."
+    },
+    {
+        "o": 13729,
+        "r": "kjv:Job:17:15",
+        "t": "And*p where is now my hope? as for my hope, who shall see it?"
+    },
+    {
+        "o": 13730,
+        "r": "kjv:Job:17:16",
+        "t": "They*p shall go down to the bars of the pit, when our rest together is in the dust."
+    },
+    {
+        "o": 13731,
+        "r": "kjv:Job:18:0",
+        "t": "Job 18",
+        "h": 1
+    },
+    {
+        "o": 13732,
+        "r": "kjv:Job:18:1",
+        "t": "Then*p answered Bildad the Shuhite, and said,"
+    },
+    {
+        "o": 13733,
+        "r": "kjv:Job:18:2",
+        "t": "How*p long will it be ere ye make an end of words? mark, and afterwards we will speak."
+    },
+    {
+        "o": 13734,
+        "r": "kjv:Job:18:3",
+        "t": "Wherefore*p are we counted as beasts, and reputed vile in your sight?"
+    },
+    {
+        "o": 13735,
+        "r": "kjv:Job:18:4",
+        "t": "He*p teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?"
+    },
+    {
+        "o": 13736,
+        "r": "kjv:Job:18:5",
+        "t": "Yea,*p the light of the wicked shall be put out, and the spark of his fire shall not shine."
+    },
+    {
+        "o": 13737,
+        "r": "kjv:Job:18:6",
+        "t": "The*p light shall be dark in his tabernacle, and his candle shall be put out with him."
+    },
+    {
+        "o": 13738,
+        "r": "kjv:Job:18:7",
+        "t": "The*p steps of his strength shall be straitened, and his own counsel shall cast him down."
+    },
+    {
+        "o": 13739,
+        "r": "kjv:Job:18:8",
+        "t": "For*p he is cast into a net by his own feet, and he walketh upon a snare."
+    },
+    {
+        "o": 13740,
+        "r": "kjv:Job:18:9",
+        "t": "The*p gin shall take him by the heel, and the robber shall prevail against him."
+    },
+    {
+        "o": 13741,
+        "r": "kjv:Job:18:10",
+        "t": "The*p snare is laid for him in the ground, and a trap for him in the way."
+    },
+    {
+        "o": 13742,
+        "r": "kjv:Job:18:11",
+        "t": "Terrors*p shall make him afraid on every side, and shall drive him to his feet."
+    },
+    {
+        "o": 13743,
+        "r": "kjv:Job:18:12",
+        "t": "His*p strength shall be hungerbitten, and destruction shall be ready at his side."
+    },
+    {
+        "o": 13744,
+        "r": "kjv:Job:18:13",
+        "t": "It*p shall devour the strength of his skin: even the firstborn of death shall devour his strength."
+    },
+    {
+        "o": 13745,
+        "r": "kjv:Job:18:14",
+        "t": "His*p confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors."
+    },
+    {
+        "o": 13746,
+        "r": "kjv:Job:18:15",
+        "t": "It*p shall dwell in his tabernacle, because it is none of his: brimstone shall be scattered upon his habitation."
+    },
+    {
+        "o": 13747,
+        "r": "kjv:Job:18:16",
+        "t": "His*p roots shall be dried up beneath, and above shall his branch be cut off."
+    },
+    {
+        "o": 13748,
+        "r": "kjv:Job:18:17",
+        "t": "His*p remembrance shall perish from the earth, and he shall have no name in the street."
+    },
+    {
+        "o": 13749,
+        "r": "kjv:Job:18:18",
+        "t": "He*p shall be driven from light into darkness, and chased out of the world."
+    },
+    {
+        "o": 13750,
+        "r": "kjv:Job:18:19",
+        "t": "He*p shall neither have son nor nephew among his people, nor any remaining in his dwellings."
+    },
+    {
+        "o": 13751,
+        "r": "kjv:Job:18:20",
+        "t": "They*p that come after him shall be astonished at his day, as they that went before were affrighted."
+    },
+    {
+        "o": 13752,
+        "r": "kjv:Job:18:21",
+        "t": "Surely*p such are the dwellings of the wicked, and this is the place of him that knoweth not God."
+    },
+    {
+        "o": 13753,
+        "r": "kjv:Job:19:0",
+        "t": "Job 19",
+        "h": 1
+    },
+    {
+        "o": 13754,
+        "r": "kjv:Job:19:1",
+        "t": "Then*p Job answered and said,"
+    },
+    {
+        "o": 13755,
+        "r": "kjv:Job:19:2",
+        "t": "How*p long will ye vex my soul, and break me in pieces with words?"
+    },
+    {
+        "o": 13756,
+        "r": "kjv:Job:19:3",
+        "t": "These*p ten times have ye reproached me: ye are not ashamed that ye make yourselves strange to me."
+    },
+    {
+        "o": 13757,
+        "r": "kjv:Job:19:4",
+        "t": "And*p be it indeed that I have erred, mine error remaineth with myself."
+    },
+    {
+        "o": 13758,
+        "r": "kjv:Job:19:5",
+        "t": "If*p indeed ye will magnify yourselves against me, and plead against me my reproach:"
+    },
+    {
+        "o": 13759,
+        "r": "kjv:Job:19:6",
+        "t": "Know*p now that God hath overthrown me, and hath compassed me with his net."
+    },
+    {
+        "o": 13760,
+        "r": "kjv:Job:19:7",
+        "t": "Behold,*p I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment."
+    },
+    {
+        "o": 13761,
+        "r": "kjv:Job:19:8",
+        "t": "He*p hath fenced up my way that I cannot pass, and he hath set darkness in my paths."
+    },
+    {
+        "o": 13762,
+        "r": "kjv:Job:19:9",
+        "t": "He*p hath stripped me of my glory, and taken the crown from my head."
+    },
+    {
+        "o": 13763,
+        "r": "kjv:Job:19:10",
+        "t": "He*p hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree."
+    },
+    {
+        "o": 13764,
+        "r": "kjv:Job:19:11",
+        "t": "He*p hath also kindled his wrath against me, and he counteth me unto him as one of his enemies."
+    },
+    {
+        "o": 13765,
+        "r": "kjv:Job:19:12",
+        "t": "His*p troops come together, and raise up their way against me, and encamp round about my tabernacle."
+    },
+    {
+        "o": 13766,
+        "r": "kjv:Job:19:13",
+        "t": "He*p hath put my brethren far from me, and mine acquaintance are verily estranged from me."
+    },
+    {
+        "o": 13767,
+        "r": "kjv:Job:19:14",
+        "t": "My*p kinsfolk have failed, and my familiar friends have forgotten me."
+    },
+    {
+        "o": 13768,
+        "r": "kjv:Job:19:15",
+        "t": "They*p that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight."
+    },
+    {
+        "o": 13769,
+        "r": "kjv:Job:19:16",
+        "t": "I*p called my servant, and he gave me no answer; I entreated him with my mouth."
+    },
+    {
+        "o": 13770,
+        "r": "kjv:Job:19:17",
+        "t": "My*p breath is strange to my wife, though I entreated for the children's sake of mine own body."
+    },
+    {
+        "o": 13771,
+        "r": "kjv:Job:19:18",
+        "t": "Yea,*p young children despised me; I arose, and they spake against me."
+    },
+    {
+        "o": 13772,
+        "r": "kjv:Job:19:19",
+        "t": "All*p my inward friends abhorred me: and they whom I loved are turned against me."
+    },
+    {
+        "o": 13773,
+        "r": "kjv:Job:19:20",
+        "t": "My*p bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth."
+    },
+    {
+        "o": 13774,
+        "r": "kjv:Job:19:21",
+        "t": "Have*p pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me."
+    },
+    {
+        "o": 13775,
+        "r": "kjv:Job:19:22",
+        "t": "Why*p do ye persecute me as God, and are not satisfied with my flesh?"
+    },
+    {
+        "o": 13776,
+        "r": "kjv:Job:19:23",
+        "t": "Oh*p that my words were now written! oh that they were printed in a book!"
+    },
+    {
+        "o": 13777,
+        "r": "kjv:Job:19:24",
+        "t": "That*p they were graven with an iron pen and lead in the rock for ever!"
+    },
+    {
+        "o": 13778,
+        "r": "kjv:Job:19:25",
+        "t": "For*p I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:"
+    },
+    {
+        "o": 13779,
+        "r": "kjv:Job:19:26",
+        "t": "And*p though after my skin worms destroy this body, yet in my flesh shall I see God:"
+    },
+    {
+        "o": 13780,
+        "r": "kjv:Job:19:27",
+        "t": "Whom*p I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me."
+    },
+    {
+        "o": 13781,
+        "r": "kjv:Job:19:28",
+        "t": "But*p ye should say, Why persecute we him, seeing the root of the matter is found in me?"
+    },
+    {
+        "o": 13782,
+        "r": "kjv:Job:19:29",
+        "t": "Be*p ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment."
+    },
+    {
+        "o": 13783,
+        "r": "kjv:Job:20:0",
+        "t": "Job 20",
+        "h": 1
+    },
+    {
+        "o": 13784,
+        "r": "kjv:Job:20:1",
+        "t": "Then*p answered Zophar the Naamathite, and said,"
+    },
+    {
+        "o": 13785,
+        "r": "kjv:Job:20:2",
+        "t": "Therefore*p do my thoughts cause me to answer, and for this I make haste."
+    },
+    {
+        "o": 13786,
+        "r": "kjv:Job:20:3",
+        "t": "I*p have heard the check of my reproach, and the spirit of my understanding causeth me to answer."
+    },
+    {
+        "o": 13787,
+        "r": "kjv:Job:20:4",
+        "t": "Knowest*p thou not this of old, since man was placed upon earth,"
+    },
+    {
+        "o": 13788,
+        "r": "kjv:Job:20:5",
+        "t": "That*p the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?"
+    },
+    {
+        "o": 13789,
+        "r": "kjv:Job:20:6",
+        "t": "Though*p his excellency mount up to the heavens, and his head reach unto the clouds;"
+    },
+    {
+        "o": 13790,
+        "r": "kjv:Job:20:7",
+        "t": "Yet*p he shall perish for ever like his own dung: they which have seen him shall say, Where is he?"
+    },
+    {
+        "o": 13791,
+        "r": "kjv:Job:20:8",
+        "t": "He*p shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night."
+    },
+    {
+        "o": 13792,
+        "r": "kjv:Job:20:9",
+        "t": "The*p eye also which saw him shall see him no more; neither shall his place any more behold him."
+    },
+    {
+        "o": 13793,
+        "r": "kjv:Job:20:10",
+        "t": "His*p children shall seek to please the poor, and his hands shall restore their goods."
+    },
+    {
+        "o": 13794,
+        "r": "kjv:Job:20:11",
+        "t": "His*p bones are full of the sin of his youth, which shall lie down with him in the dust."
+    },
+    {
+        "o": 13795,
+        "r": "kjv:Job:20:12",
+        "t": "Though*p wickedness be sweet in his mouth, though he hide it under his tongue;"
+    },
+    {
+        "o": 13796,
+        "r": "kjv:Job:20:13",
+        "t": "Though*p he spare it, and forsake it not; but keep it still within his mouth:"
+    },
+    {
+        "o": 13797,
+        "r": "kjv:Job:20:14",
+        "t": "Yet*p his meat in his bowels is turned, it is the gall of asps within him."
+    },
+    {
+        "o": 13798,
+        "r": "kjv:Job:20:15",
+        "t": "He*p hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly."
+    },
+    {
+        "o": 13799,
+        "r": "kjv:Job:20:16",
+        "t": "He*p shall suck the poison of asps: the viper's tongue shall slay him."
+    },
+    {
+        "o": 13800,
+        "r": "kjv:Job:20:17",
+        "t": "He*p shall not see the rivers, the floods, the brooks of honey and butter."
+    },
+    {
+        "o": 13801,
+        "r": "kjv:Job:20:18",
+        "t": "That*p which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein."
+    },
+    {
+        "o": 13802,
+        "r": "kjv:Job:20:19",
+        "t": "Because*p he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;"
+    },
+    {
+        "o": 13803,
+        "r": "kjv:Job:20:20",
+        "t": "Surely*p he shall not feel quietness in his belly, he shall not save of that which he desired."
+    },
+    {
+        "o": 13804,
+        "r": "kjv:Job:20:21",
+        "t": "There*p shall none of his meat be left; therefore shall no man look for his goods."
+    },
+    {
+        "o": 13805,
+        "r": "kjv:Job:20:22",
+        "t": "In*p the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him."
+    },
+    {
+        "o": 13806,
+        "r": "kjv:Job:20:23",
+        "t": "When*p he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating."
+    },
+    {
+        "o": 13807,
+        "r": "kjv:Job:20:24",
+        "t": "He*p shall flee from the iron weapon, and the bow of steel shall strike him through."
+    },
+    {
+        "o": 13808,
+        "r": "kjv:Job:20:25",
+        "t": "It*p is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors are upon him."
+    },
+    {
+        "o": 13809,
+        "r": "kjv:Job:20:26",
+        "t": "All*p darkness shall be hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle."
+    },
+    {
+        "o": 13810,
+        "r": "kjv:Job:20:27",
+        "t": "The*p heaven shall reveal his iniquity; and the earth shall rise up against him."
+    },
+    {
+        "o": 13811,
+        "r": "kjv:Job:20:28",
+        "t": "The*p increase of his house shall depart, and his goods shall flow away in the day of his wrath."
+    },
+    {
+        "o": 13812,
+        "r": "kjv:Job:20:29",
+        "t": "This*p is the portion of a wicked man from God, and the heritage appointed unto him by God."
+    },
+    {
+        "o": 13813,
+        "r": "kjv:Job:21:0",
+        "t": "Job 21",
+        "h": 1
+    },
+    {
+        "o": 13814,
+        "r": "kjv:Job:21:1",
+        "t": "But*p Job answered and said,"
+    },
+    {
+        "o": 13815,
+        "r": "kjv:Job:21:2",
+        "t": "Hear*p diligently my speech, and let this be your consolations."
+    },
+    {
+        "o": 13816,
+        "r": "kjv:Job:21:3",
+        "t": "Suffer*p me that I may speak; and after that I have spoken, mock on."
+    },
+    {
+        "o": 13817,
+        "r": "kjv:Job:21:4",
+        "t": "As*p for me, is my complaint to man? and if it were so, why should not my spirit be troubled?"
+    },
+    {
+        "o": 13818,
+        "r": "kjv:Job:21:5",
+        "t": "Mark*p me, and be astonished, and lay your hand upon your mouth."
+    },
+    {
+        "o": 13819,
+        "r": "kjv:Job:21:6",
+        "t": "Even*p when I remember I am afraid, and trembling taketh hold on my flesh."
+    },
+    {
+        "o": 13820,
+        "r": "kjv:Job:21:7",
+        "t": "Wherefore*p do the wicked live, become old, yea, are mighty in power?"
+    },
+    {
+        "o": 13821,
+        "r": "kjv:Job:21:8",
+        "t": "Their*p seed is established in their sight with them, and their offspring before their eyes."
+    },
+    {
+        "o": 13822,
+        "r": "kjv:Job:21:9",
+        "t": "Their*p houses are safe from fear, neither is the rod of God upon them."
+    },
+    {
+        "o": 13823,
+        "r": "kjv:Job:21:10",
+        "t": "Their*p bull gendereth, and faileth not; their cow calveth, and casteth not her calf."
+    },
+    {
+        "o": 13824,
+        "r": "kjv:Job:21:11",
+        "t": "They*p send forth their little ones like a flock, and their children dance."
+    },
+    {
+        "o": 13825,
+        "r": "kjv:Job:21:12",
+        "t": "They*p take the timbrel and harp, and rejoice at the sound of the organ."
+    },
+    {
+        "o": 13826,
+        "r": "kjv:Job:21:13",
+        "t": "They*p spend their days in wealth, and in a moment go down to the grave."
+    },
+    {
+        "o": 13827,
+        "r": "kjv:Job:21:14",
+        "t": "Therefore*p they say unto God, Depart from us; for we desire not the knowledge of thy ways."
+    },
+    {
+        "o": 13828,
+        "r": "kjv:Job:21:15",
+        "t": "What*p is the Almighty, that we should serve him? and what profit should we have, if we pray unto him?"
+    },
+    {
+        "o": 13829,
+        "r": "kjv:Job:21:16",
+        "t": "Lo,*p their good is not in their hand: the counsel of the wicked is far from me."
+    },
+    {
+        "o": 13830,
+        "r": "kjv:Job:21:17",
+        "t": "How*p oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger."
+    },
+    {
+        "o": 13831,
+        "r": "kjv:Job:21:18",
+        "t": "They*p are as stubble before the wind, and as chaff that the storm carrieth away."
+    },
+    {
+        "o": 13832,
+        "r": "kjv:Job:21:19",
+        "t": "God*p layeth up his iniquity for his children: he rewardeth him, and he shall know it."
+    },
+    {
+        "o": 13833,
+        "r": "kjv:Job:21:20",
+        "t": "His*p eyes shall see his destruction, and he shall drink of the wrath of the Almighty."
+    },
+    {
+        "o": 13834,
+        "r": "kjv:Job:21:21",
+        "t": "For*p what pleasure hath he in his house after him, when the number of his months is cut off in the midst?"
+    },
+    {
+        "o": 13835,
+        "r": "kjv:Job:21:22",
+        "t": "Shall*p any teach God knowledge? seeing he judgeth those that are high."
+    },
+    {
+        "o": 13836,
+        "r": "kjv:Job:21:23",
+        "t": "One*p dieth in his full strength, being wholly at ease and quiet."
+    },
+    {
+        "o": 13837,
+        "r": "kjv:Job:21:24",
+        "t": "His*p breasts are full of milk, and his bones are moistened with marrow."
+    },
+    {
+        "o": 13838,
+        "r": "kjv:Job:21:25",
+        "t": "And*p another dieth in the bitterness of his soul, and never eateth with pleasure."
+    },
+    {
+        "o": 13839,
+        "r": "kjv:Job:21:26",
+        "t": "They*p shall lie down alike in the dust, and the worms shall cover them."
+    },
+    {
+        "o": 13840,
+        "r": "kjv:Job:21:27",
+        "t": "Behold,*p I know your thoughts, and the devices which ye wrongfully imagine against me."
+    },
+    {
+        "o": 13841,
+        "r": "kjv:Job:21:28",
+        "t": "For*p ye say, Where is the house of the prince? and where are the dwelling places of the wicked?"
+    },
+    {
+        "o": 13842,
+        "r": "kjv:Job:21:29",
+        "t": "Have*p ye not asked them that go by the way? and do ye not know their tokens,"
+    },
+    {
+        "o": 13843,
+        "r": "kjv:Job:21:30",
+        "t": "That*p the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath."
+    },
+    {
+        "o": 13844,
+        "r": "kjv:Job:21:31",
+        "t": "Who*p shall declare his way to his face? and who shall repay him what he hath done?"
+    },
+    {
+        "o": 13845,
+        "r": "kjv:Job:21:32",
+        "t": "Yet*p shall he be brought to the grave, and shall remain in the tomb."
+    },
+    {
+        "o": 13846,
+        "r": "kjv:Job:21:33",
+        "t": "The*p clods of the valley shall be sweet unto him, and every man shall draw after him, as there are innumerable before him."
+    },
+    {
+        "o": 13847,
+        "r": "kjv:Job:21:34",
+        "t": "How*p then comfort ye me in vain, seeing in your answers there remaineth falsehood?"
+    },
+    {
+        "o": 13848,
+        "r": "kjv:Job:22:0",
+        "t": "Job 22",
+        "h": 1
+    },
+    {
+        "o": 13849,
+        "r": "kjv:Job:22:1",
+        "t": "Then*p Eliphaz the Temanite answered and said,"
+    },
+    {
+        "o": 13850,
+        "r": "kjv:Job:22:2",
+        "t": "Can*p a man be profitable unto God, as he that is wise may be profitable unto himself?"
+    },
+    {
+        "o": 13851,
+        "r": "kjv:Job:22:3",
+        "t": "Is*p it any pleasure to the Almighty, that thou art righteous? or is it gain to him, that thou makest thy ways perfect?"
+    },
+    {
+        "o": 13852,
+        "r": "kjv:Job:22:4",
+        "t": "Will*p he reprove thee for fear of thee? will he enter with thee into judgment?"
+    },
+    {
+        "o": 13853,
+        "r": "kjv:Job:22:5",
+        "t": "Is*p not thy wickedness great? and thine iniquities infinite?"
+    },
+    {
+        "o": 13854,
+        "r": "kjv:Job:22:6",
+        "t": "For*p thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing."
+    },
+    {
+        "o": 13855,
+        "r": "kjv:Job:22:7",
+        "t": "Thou*p hast not given water to the weary to drink, and thou hast withholden bread from the hungry."
+    },
+    {
+        "o": 13856,
+        "r": "kjv:Job:22:8",
+        "t": "But*p as for the mighty man, he had the earth; and the honourable man dwelt in it."
+    },
+    {
+        "o": 13857,
+        "r": "kjv:Job:22:9",
+        "t": "Thou*p hast sent widows away empty, and the arms of the fatherless have been broken."
+    },
+    {
+        "o": 13858,
+        "r": "kjv:Job:22:10",
+        "t": "Therefore*p snares are round about thee, and sudden fear troubleth thee;"
+    },
+    {
+        "o": 13859,
+        "r": "kjv:Job:22:11",
+        "t": "Or*p darkness, that thou canst not see; and abundance of waters cover thee."
+    },
+    {
+        "o": 13860,
+        "r": "kjv:Job:22:12",
+        "t": "Is*p not God in the height of heaven? and behold the height of the stars, how high they are!"
+    },
+    {
+        "o": 13861,
+        "r": "kjv:Job:22:13",
+        "t": "And*p thou sayest, How doth God know? can he judge through the dark cloud?"
+    },
+    {
+        "o": 13862,
+        "r": "kjv:Job:22:14",
+        "t": "Thick*p clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven."
+    },
+    {
+        "o": 13863,
+        "r": "kjv:Job:22:15",
+        "t": "Hast*p thou marked the old way which wicked men have trodden?"
+    },
+    {
+        "o": 13864,
+        "r": "kjv:Job:22:16",
+        "t": "Which*p were cut down out of time, whose foundation was overflown with a flood:"
+    },
+    {
+        "o": 13865,
+        "r": "kjv:Job:22:17",
+        "t": "Which*p said unto God, Depart from us: and what can the Almighty do for them?"
+    },
+    {
+        "o": 13866,
+        "r": "kjv:Job:22:18",
+        "t": "Yet*p he filled their houses with good things: but the counsel of the wicked is far from me."
+    },
+    {
+        "o": 13867,
+        "r": "kjv:Job:22:19",
+        "t": "The*p righteous see it, and are glad: and the innocent laugh them to scorn."
+    },
+    {
+        "o": 13868,
+        "r": "kjv:Job:22:20",
+        "t": "Whereas*p our substance is not cut down, but the remnant of them the fire consumeth."
+    },
+    {
+        "o": 13869,
+        "r": "kjv:Job:22:21",
+        "t": "Acquaint*p now thyself with him, and be at peace: thereby good shall come unto thee."
+    },
+    {
+        "o": 13870,
+        "r": "kjv:Job:22:22",
+        "t": "Receive,*p I pray thee, the law from his mouth, and lay up his words in thine heart."
+    },
+    {
+        "o": 13871,
+        "r": "kjv:Job:22:23",
+        "t": "If*p thou return to the Almighty, thou shalt be built up, thou shalt put away iniquity far from thy tabernacles."
+    },
+    {
+        "o": 13872,
+        "r": "kjv:Job:22:24",
+        "t": "Then*p shalt thou lay up gold as dust, and the gold of Ophir as the stones of the brooks."
+    },
+    {
+        "o": 13873,
+        "r": "kjv:Job:22:25",
+        "t": "Yea,*p the Almighty shall be thy defence, and thou shalt have plenty of silver."
+    },
+    {
+        "o": 13874,
+        "r": "kjv:Job:22:26",
+        "t": "For*p then shalt thou have thy delight in the Almighty, and shalt lift up thy face unto God."
+    },
+    {
+        "o": 13875,
+        "r": "kjv:Job:22:27",
+        "t": "Thou*p shalt make thy prayer unto him, and he shall hear thee, and thou shalt pay thy vows."
+    },
+    {
+        "o": 13876,
+        "r": "kjv:Job:22:28",
+        "t": "Thou*p shalt also decree a thing, and it shall be established unto thee: and the light shall shine upon thy ways."
+    },
+    {
+        "o": 13877,
+        "r": "kjv:Job:22:29",
+        "t": "When*p men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person."
+    },
+    {
+        "o": 13878,
+        "r": "kjv:Job:22:30",
+        "t": "He*p shall deliver the island of the innocent: and it is delivered by the pureness of thine hands."
+    },
+    {
+        "o": 13879,
+        "r": "kjv:Job:23:0",
+        "t": "Job 23",
+        "h": 1
+    },
+    {
+        "o": 13880,
+        "r": "kjv:Job:23:1",
+        "t": "Then*p Job answered and said,"
+    },
+    {
+        "o": 13881,
+        "r": "kjv:Job:23:2",
+        "t": "Even*p to day is my complaint bitter: my stroke is heavier than my groaning."
+    },
+    {
+        "o": 13882,
+        "r": "kjv:Job:23:3",
+        "t": "Oh*p that I knew where I might find him! that I might come even to his seat!"
+    },
+    {
+        "o": 13883,
+        "r": "kjv:Job:23:4",
+        "t": "I*p would order my cause before him, and fill my mouth with arguments."
+    },
+    {
+        "o": 13884,
+        "r": "kjv:Job:23:5",
+        "t": "I*p would know the words which he would answer me, and understand what he would say unto me."
+    },
+    {
+        "o": 13885,
+        "r": "kjv:Job:23:6",
+        "t": "Will*p he plead against me with his great power? No; but he would put strength in me."
+    },
+    {
+        "o": 13886,
+        "r": "kjv:Job:23:7",
+        "t": "There*p the righteous might dispute with him; so should I be delivered for ever from my judge."
+    },
+    {
+        "o": 13887,
+        "r": "kjv:Job:23:8",
+        "t": "Behold,*p I go forward, but he is not there; and backward, but I cannot perceive him:"
+    },
+    {
+        "o": 13888,
+        "r": "kjv:Job:23:9",
+        "t": "On*p the left hand, where he doth work, but I cannot behold him: he hideth himself on the right hand, that I cannot see him:"
+    },
+    {
+        "o": 13889,
+        "r": "kjv:Job:23:10",
+        "t": "But*p he knoweth the way that I take: when he hath tried me, I shall come forth as gold."
+    },
+    {
+        "o": 13890,
+        "r": "kjv:Job:23:11",
+        "t": "My*p foot hath held his steps, his way have I kept, and not declined."
+    },
+    {
+        "o": 13891,
+        "r": "kjv:Job:23:12",
+        "t": "Neither*p have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary food."
+    },
+    {
+        "o": 13892,
+        "r": "kjv:Job:23:13",
+        "t": "But*p he is in one mind, and who can turn him? and what his soul desireth, even that he doeth."
+    },
+    {
+        "o": 13893,
+        "r": "kjv:Job:23:14",
+        "t": "For*p he performeth the thing that is appointed for me: and many such things are with him."
+    },
+    {
+        "o": 13894,
+        "r": "kjv:Job:23:15",
+        "t": "Therefore*p am I troubled at his presence: when I consider, I am afraid of him."
+    },
+    {
+        "o": 13895,
+        "r": "kjv:Job:23:16",
+        "t": "For*p God maketh my heart soft, and the Almighty troubleth me:"
+    },
+    {
+        "o": 13896,
+        "r": "kjv:Job:23:17",
+        "t": "Because*p I was not cut off before the darkness, neither hath he covered the darkness from my face."
+    },
+    {
+        "o": 13897,
+        "r": "kjv:Job:24:0",
+        "t": "Job 24",
+        "h": 1
+    },
+    {
+        "o": 13898,
+        "r": "kjv:Job:24:1",
+        "t": "Why,*p seeing times are not hidden from the Almighty, do they that know him not see his days?"
+    },
+    {
+        "o": 13899,
+        "r": "kjv:Job:24:2",
+        "t": "Some*p remove the landmarks; they violently take away flocks, and feed thereof."
+    },
+    {
+        "o": 13900,
+        "r": "kjv:Job:24:3",
+        "t": "They*p drive away the ass of the fatherless, they take the widow's ox for a pledge."
+    },
+    {
+        "o": 13901,
+        "r": "kjv:Job:24:4",
+        "t": "They*p turn the needy out of the way: the poor of the earth hide themselves together."
+    },
+    {
+        "o": 13902,
+        "r": "kjv:Job:24:5",
+        "t": "Behold,*p as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children."
+    },
+    {
+        "o": 13903,
+        "r": "kjv:Job:24:6",
+        "t": "They*p reap every one his corn in the field: and they gather the vintage of the wicked."
+    },
+    {
+        "o": 13904,
+        "r": "kjv:Job:24:7",
+        "t": "They*p cause the naked to lodge without clothing, that they have no covering in the cold."
+    },
+    {
+        "o": 13905,
+        "r": "kjv:Job:24:8",
+        "t": "They*p are wet with the showers of the mountains, and embrace the rock for want of a shelter."
+    },
+    {
+        "o": 13906,
+        "r": "kjv:Job:24:9",
+        "t": "They*p pluck the fatherless from the breast, and take a pledge of the poor."
+    },
+    {
+        "o": 13907,
+        "r": "kjv:Job:24:10",
+        "t": "They*p cause him to go naked without clothing, and they take away the sheaf from the hungry;"
+    },
+    {
+        "o": 13908,
+        "r": "kjv:Job:24:11",
+        "t": "Which*p make oil within their walls, and tread their winepresses, and suffer thirst."
+    },
+    {
+        "o": 13909,
+        "r": "kjv:Job:24:12",
+        "t": "Men*p groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly to them."
+    },
+    {
+        "o": 13910,
+        "r": "kjv:Job:24:13",
+        "t": "They*p are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof."
+    },
+    {
+        "o": 13911,
+        "r": "kjv:Job:24:14",
+        "t": "The*p murderer rising with the light killeth the poor and needy, and in the night is as a thief."
+    },
+    {
+        "o": 13912,
+        "r": "kjv:Job:24:15",
+        "t": "The*p eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face."
+    },
+    {
+        "o": 13913,
+        "r": "kjv:Job:24:16",
+        "t": "In*p the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light."
+    },
+    {
+        "o": 13914,
+        "r": "kjv:Job:24:17",
+        "t": "For*p the morning is to them even as the shadow of death: if one know them, they are in the terrors of the shadow of death."
+    },
+    {
+        "o": 13915,
+        "r": "kjv:Job:24:18",
+        "t": "He*p is swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards."
+    },
+    {
+        "o": 13916,
+        "r": "kjv:Job:24:19",
+        "t": "Drought*p and heat consume the snow waters: so doth the grave those which have sinned."
+    },
+    {
+        "o": 13917,
+        "r": "kjv:Job:24:20",
+        "t": "The*p womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree."
+    },
+    {
+        "o": 13918,
+        "r": "kjv:Job:24:21",
+        "t": "He*p evil entreateth the barren that beareth not: and doeth not good to the widow."
+    },
+    {
+        "o": 13919,
+        "r": "kjv:Job:24:22",
+        "t": "He*p draweth also the mighty with his power: he riseth up, and no man is sure of life."
+    },
+    {
+        "o": 13920,
+        "r": "kjv:Job:24:23",
+        "t": "Though*p it be given him to be in safety, whereon he resteth; yet his eyes are upon their ways."
+    },
+    {
+        "o": 13921,
+        "r": "kjv:Job:24:24",
+        "t": "They*p are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn."
+    },
+    {
+        "o": 13922,
+        "r": "kjv:Job:24:25",
+        "t": "And*p if it be not so now, who will make me a liar, and make my speech nothing worth?"
+    },
+    {
+        "o": 13923,
+        "r": "kjv:Job:25:0",
+        "t": "Job 25",
+        "h": 1
+    },
+    {
+        "o": 13924,
+        "r": "kjv:Job:25:1",
+        "t": "Then*p answered Bildad the Shuhite, and said,"
+    },
+    {
+        "o": 13925,
+        "r": "kjv:Job:25:2",
+        "t": "Dominion*p and fear are with him, he maketh peace in his high places."
+    },
+    {
+        "o": 13926,
+        "r": "kjv:Job:25:3",
+        "t": "Is*p there any number of his armies? and upon whom doth not his light arise?"
+    },
+    {
+        "o": 13927,
+        "r": "kjv:Job:25:4",
+        "t": "How*p then can man be justified with God? or how can he be clean that is born of a woman?"
+    },
+    {
+        "o": 13928,
+        "r": "kjv:Job:25:5",
+        "t": "Behold*p even to the moon, and it shineth not; yea, the stars are not pure in his sight."
+    },
+    {
+        "o": 13929,
+        "r": "kjv:Job:25:6",
+        "t": "How*p much less man, that is a worm? and the son of man, which is a worm?"
+    },
+    {
+        "o": 13930,
+        "r": "kjv:Job:26:0",
+        "t": "Job 26",
+        "h": 1
+    },
+    {
+        "o": 13931,
+        "r": "kjv:Job:26:1",
+        "t": "But*p Job answered and said,"
+    },
+    {
+        "o": 13932,
+        "r": "kjv:Job:26:2",
+        "t": "How*p hast thou helped him that is without power? how savest thou the arm that hath no strength?"
+    },
+    {
+        "o": 13933,
+        "r": "kjv:Job:26:3",
+        "t": "How*p hast thou counselled him that hath no wisdom? and how hast thou plentifully declared the thing as it is?"
+    },
+    {
+        "o": 13934,
+        "r": "kjv:Job:26:4",
+        "t": "To*p whom hast thou uttered words? and whose spirit came from thee?"
+    },
+    {
+        "o": 13935,
+        "r": "kjv:Job:26:5",
+        "t": "Dead*p things are formed from under the waters, and the inhabitants thereof."
+    },
+    {
+        "o": 13936,
+        "r": "kjv:Job:26:6",
+        "t": "Hell*p is naked before him, and destruction hath no covering."
+    },
+    {
+        "o": 13937,
+        "r": "kjv:Job:26:7",
+        "t": "He*p stretcheth out the north over the empty place, and hangeth the earth upon nothing."
+    },
+    {
+        "o": 13938,
+        "r": "kjv:Job:26:8",
+        "t": "He*p bindeth up the waters in his thick clouds; and the cloud is not rent under them."
+    },
+    {
+        "o": 13939,
+        "r": "kjv:Job:26:9",
+        "t": "He*p holdeth back the face of his throne, and spreadeth his cloud upon it."
+    },
+    {
+        "o": 13940,
+        "r": "kjv:Job:26:10",
+        "t": "He*p hath compassed the waters with bounds, until the day and night come to an end."
+    },
+    {
+        "o": 13941,
+        "r": "kjv:Job:26:11",
+        "t": "The*p pillars of heaven tremble and are astonished at his reproof."
+    },
+    {
+        "o": 13942,
+        "r": "kjv:Job:26:12",
+        "t": "He*p divideth the sea with his power, and by his understanding he smiteth through the proud."
+    },
+    {
+        "o": 13943,
+        "r": "kjv:Job:26:13",
+        "t": "By*p his spirit he hath garnished the heavens; his hand hath formed the crooked serpent."
+    },
+    {
+        "o": 13944,
+        "r": "kjv:Job:26:14",
+        "t": "Lo,*p these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?"
+    },
+    {
+        "o": 13945,
+        "r": "kjv:Job:27:0",
+        "t": "Job 27",
+        "h": 1
+    },
+    {
+        "o": 13946,
+        "r": "kjv:Job:27:1",
+        "t": "Moreover*p Job continued his parable, and said,"
+    },
+    {
+        "o": 13947,
+        "r": "kjv:Job:27:2",
+        "t": "As*p God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul;"
+    },
+    {
+        "o": 13948,
+        "r": "kjv:Job:27:3",
+        "t": "All*p the while my breath is in me, and the spirit of God is in my nostrils;"
+    },
+    {
+        "o": 13949,
+        "r": "kjv:Job:27:4",
+        "t": "My*p lips shall not speak wickedness, nor my tongue utter deceit."
+    },
+    {
+        "o": 13950,
+        "r": "kjv:Job:27:5",
+        "t": "God*p forbid that I should justify you: till I die I will not remove mine integrity from me."
+    },
+    {
+        "o": 13951,
+        "r": "kjv:Job:27:6",
+        "t": "My*p righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live."
+    },
+    {
+        "o": 13952,
+        "r": "kjv:Job:27:7",
+        "t": "Let*p mine enemy be as the wicked, and he that riseth up against me as the unrighteous."
+    },
+    {
+        "o": 13953,
+        "r": "kjv:Job:27:8",
+        "t": "For*p what is the hope of the hypocrite, though he hath gained, when God taketh away his soul?"
+    },
+    {
+        "o": 13954,
+        "r": "kjv:Job:27:9",
+        "t": "Will*p God hear his cry when trouble cometh upon him?"
+    },
+    {
+        "o": 13955,
+        "r": "kjv:Job:27:10",
+        "t": "Will*p he delight himself in the Almighty? will he always call upon God?"
+    },
+    {
+        "o": 13956,
+        "r": "kjv:Job:27:11",
+        "t": "I*p will teach you by the hand of God: that which is with the Almighty will I not conceal."
+    },
+    {
+        "o": 13957,
+        "r": "kjv:Job:27:12",
+        "t": "Behold,*p all ye yourselves have seen it; why then are ye thus altogether vain?"
+    },
+    {
+        "o": 13958,
+        "r": "kjv:Job:27:13",
+        "t": "This*p is the portion of a wicked man with God, and the heritage of oppressors, which they shall receive of the Almighty."
+    },
+    {
+        "o": 13959,
+        "r": "kjv:Job:27:14",
+        "t": "If*p his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread."
+    },
+    {
+        "o": 13960,
+        "r": "kjv:Job:27:15",
+        "t": "Those*p that remain of him shall be buried in death: and his widows shall not weep."
+    },
+    {
+        "o": 13961,
+        "r": "kjv:Job:27:16",
+        "t": "Though*p he heap up silver as the dust, and prepare raiment as the clay;"
+    },
+    {
+        "o": 13962,
+        "r": "kjv:Job:27:17",
+        "t": "He*p may prepare it, but the just shall put it on, and the innocent shall divide the silver."
+    },
+    {
+        "o": 13963,
+        "r": "kjv:Job:27:18",
+        "t": "He*p buildeth his house as a moth, and as a booth that the keeper maketh."
+    },
+    {
+        "o": 13964,
+        "r": "kjv:Job:27:19",
+        "t": "The*p rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he is not."
+    },
+    {
+        "o": 13965,
+        "r": "kjv:Job:27:20",
+        "t": "Terrors*p take hold on him as waters, a tempest stealeth him away in the night."
+    },
+    {
+        "o": 13966,
+        "r": "kjv:Job:27:21",
+        "t": "The*p east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place."
+    },
+    {
+        "o": 13967,
+        "r": "kjv:Job:27:22",
+        "t": "For*p God shall cast upon him, and not spare: he would fain flee out of his hand."
+    },
+    {
+        "o": 13968,
+        "r": "kjv:Job:27:23",
+        "t": "Men*p shall clap their hands at him, and shall hiss him out of his place."
+    },
+    {
+        "o": 13969,
+        "r": "kjv:Job:28:0",
+        "t": "Job 28",
+        "h": 1
+    },
+    {
+        "o": 13970,
+        "r": "kjv:Job:28:1",
+        "t": "Surely*p there is a vein for the silver, and a place for gold where they fine it."
+    },
+    {
+        "o": 13971,
+        "r": "kjv:Job:28:2",
+        "t": "Iron*p is taken out of the earth, and brass is molten out of the stone."
+    },
+    {
+        "o": 13972,
+        "r": "kjv:Job:28:3",
+        "t": "He*p setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death."
+    },
+    {
+        "o": 13973,
+        "r": "kjv:Job:28:4",
+        "t": "The*p flood breaketh out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men."
+    },
+    {
+        "o": 13974,
+        "r": "kjv:Job:28:5",
+        "t": "As*p for the earth, out of it cometh bread: and under it is turned up as it were fire."
+    },
+    {
+        "o": 13975,
+        "r": "kjv:Job:28:6",
+        "t": "The*p stones of it are the place of sapphires: and it hath dust of gold."
+    },
+    {
+        "o": 13976,
+        "r": "kjv:Job:28:7",
+        "t": "There*p is a path which no fowl knoweth, and which the vulture's eye hath not seen:"
+    },
+    {
+        "o": 13977,
+        "r": "kjv:Job:28:8",
+        "t": "The*p lion's whelps have not trodden it, nor the fierce lion passed by it."
+    },
+    {
+        "o": 13978,
+        "r": "kjv:Job:28:9",
+        "t": "He*p putteth forth his hand upon the rock; he overturneth the mountains by the roots."
+    },
+    {
+        "o": 13979,
+        "r": "kjv:Job:28:10",
+        "t": "He*p cutteth out rivers among the rocks; and his eye seeth every precious thing."
+    },
+    {
+        "o": 13980,
+        "r": "kjv:Job:28:11",
+        "t": "He*p bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light."
+    },
+    {
+        "o": 13981,
+        "r": "kjv:Job:28:12",
+        "t": "But*p where shall wisdom be found? and where is the place of understanding?"
+    },
+    {
+        "o": 13982,
+        "r": "kjv:Job:28:13",
+        "t": "Man*p knoweth not the price thereof; neither is it found in the land of the living."
+    },
+    {
+        "o": 13983,
+        "r": "kjv:Job:28:14",
+        "t": "The*p depth saith, It is not in me: and the sea saith, It is not with me."
+    },
+    {
+        "o": 13984,
+        "r": "kjv:Job:28:15",
+        "t": "It*p cannot be gotten for gold, neither shall silver be weighed for the price thereof."
+    },
+    {
+        "o": 13985,
+        "r": "kjv:Job:28:16",
+        "t": "It*p cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire."
+    },
+    {
+        "o": 13986,
+        "r": "kjv:Job:28:17",
+        "t": "The*p gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold."
+    },
+    {
+        "o": 13987,
+        "r": "kjv:Job:28:18",
+        "t": "No*p mention shall be made of coral, or of pearls: for the price of wisdom is above rubies."
+    },
+    {
+        "o": 13988,
+        "r": "kjv:Job:28:19",
+        "t": "The*p topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold."
+    },
+    {
+        "o": 13989,
+        "r": "kjv:Job:28:20",
+        "t": "Whence*p then cometh wisdom? and where is the place of understanding?"
+    },
+    {
+        "o": 13990,
+        "r": "kjv:Job:28:21",
+        "t": "Seeing*p it is hid from the eyes of all living, and kept close from the fowls of the air."
+    },
+    {
+        "o": 13991,
+        "r": "kjv:Job:28:22",
+        "t": "Destruction*p and death say, We have heard the fame thereof with our ears."
+    },
+    {
+        "o": 13992,
+        "r": "kjv:Job:28:23",
+        "t": "God*p understandeth the way thereof, and he knoweth the place thereof."
+    },
+    {
+        "o": 13993,
+        "r": "kjv:Job:28:24",
+        "t": "For*p he looketh to the ends of the earth, and seeth under the whole heaven;"
+    },
+    {
+        "o": 13994,
+        "r": "kjv:Job:28:25",
+        "t": "To*p make the weight for the winds; and he weigheth the waters by measure."
+    },
+    {
+        "o": 13995,
+        "r": "kjv:Job:28:26",
+        "t": "When*p he made a decree for the rain, and a way for the lightning of the thunder:"
+    },
+    {
+        "o": 13996,
+        "r": "kjv:Job:28:27",
+        "t": "Then*p did he see it, and declare it; he prepared it, yea, and searched it out."
+    },
+    {
+        "o": 13997,
+        "r": "kjv:Job:28:28",
+        "t": "And*p unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding."
+    },
+    {
+        "o": 13998,
+        "r": "kjv:Job:29:0",
+        "t": "Job 29",
+        "h": 1
+    },
+    {
+        "o": 13999,
+        "r": "kjv:Job:29:1",
+        "t": "Moreover*p Job continued his parable, and said,"
+    },
+    {
+        "o": 14000,
+        "r": "kjv:Job:29:2",
+        "t": "Oh*p that I were as in months past, as in the days when God preserved me;"
+    },
+    {
+        "o": 14001,
+        "r": "kjv:Job:29:3",
+        "t": "When*p his candle shined upon my head, and when by his light I walked through darkness;"
+    },
+    {
+        "o": 14002,
+        "r": "kjv:Job:29:4",
+        "t": "As*p I was in the days of my youth, when the secret of God was upon my tabernacle;"
+    },
+    {
+        "o": 14003,
+        "r": "kjv:Job:29:5",
+        "t": "When*p the Almighty was yet with me, when my children were about me;"
+    },
+    {
+        "o": 14004,
+        "r": "kjv:Job:29:6",
+        "t": "When*p I washed my steps with butter, and the rock poured me out rivers of oil;"
+    },
+    {
+        "o": 14005,
+        "r": "kjv:Job:29:7",
+        "t": "When*p I went out to the gate through the city, when I prepared my seat in the street!"
+    },
+    {
+        "o": 14006,
+        "r": "kjv:Job:29:8",
+        "t": "The*p young men saw me, and hid themselves: and the aged arose, and stood up."
+    },
+    {
+        "o": 14007,
+        "r": "kjv:Job:29:9",
+        "t": "The*p princes refrained talking, and laid their hand on their mouth."
+    },
+    {
+        "o": 14008,
+        "r": "kjv:Job:29:10",
+        "t": "The*p nobles held their peace, and their tongue cleaved to the roof of their mouth."
+    },
+    {
+        "o": 14009,
+        "r": "kjv:Job:29:11",
+        "t": "When*p the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:"
+    },
+    {
+        "o": 14010,
+        "r": "kjv:Job:29:12",
+        "t": "Because*p I delivered the poor that cried, and the fatherless, and him that had none to help him."
+    },
+    {
+        "o": 14011,
+        "r": "kjv:Job:29:13",
+        "t": "The*p blessing of him that was ready to perish came upon me: and I caused the widow's heart to sing for joy."
+    },
+    {
+        "o": 14012,
+        "r": "kjv:Job:29:14",
+        "t": "I*p put on righteousness, and it clothed me: my judgment was as a robe and a diadem."
+    },
+    {
+        "o": 14013,
+        "r": "kjv:Job:29:15",
+        "t": "I*p was eyes to the blind, and feet was I to the lame."
+    },
+    {
+        "o": 14014,
+        "r": "kjv:Job:29:16",
+        "t": "I*p was a father to the poor: and the cause which I knew not I searched out."
+    },
+    {
+        "o": 14015,
+        "r": "kjv:Job:29:17",
+        "t": "And*p I brake the jaws of the wicked, and plucked the spoil out of his teeth."
+    },
+    {
+        "o": 14016,
+        "r": "kjv:Job:29:18",
+        "t": "Then*p I said, I shall die in my nest, and I shall multiply my days as the sand."
+    },
+    {
+        "o": 14017,
+        "r": "kjv:Job:29:19",
+        "t": "My*p root was spread out by the waters, and the dew lay all night upon my branch."
+    },
+    {
+        "o": 14018,
+        "r": "kjv:Job:29:20",
+        "t": "My*p glory was fresh in me, and my bow was renewed in my hand."
+    },
+    {
+        "o": 14019,
+        "r": "kjv:Job:29:21",
+        "t": "Unto*p me men gave ear, and waited, and kept silence at my counsel."
+    },
+    {
+        "o": 14020,
+        "r": "kjv:Job:29:22",
+        "t": "After*p my words they spake not again; and my speech dropped upon them."
+    },
+    {
+        "o": 14021,
+        "r": "kjv:Job:29:23",
+        "t": "And*p they waited for me as for the rain; and they opened their mouth wide as for the latter rain."
+    },
+    {
+        "o": 14022,
+        "r": "kjv:Job:29:24",
+        "t": "If*p I laughed on them, they believed it not; and the light of my countenance they cast not down."
+    },
+    {
+        "o": 14023,
+        "r": "kjv:Job:29:25",
+        "t": "I*p chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners."
+    },
+    {
+        "o": 14024,
+        "r": "kjv:Job:30:0",
+        "t": "Job 30",
+        "h": 1
+    },
+    {
+        "o": 14025,
+        "r": "kjv:Job:30:1",
+        "t": "But*p now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock."
+    },
+    {
+        "o": 14026,
+        "r": "kjv:Job:30:2",
+        "t": "Yea,*p whereto might the strength of their hands profit me, in whom old age was perished?"
+    },
+    {
+        "o": 14027,
+        "r": "kjv:Job:30:3",
+        "t": "For*p want and famine they were solitary; fleeing into the wilderness in former time desolate and waste."
+    },
+    {
+        "o": 14028,
+        "r": "kjv:Job:30:4",
+        "t": "Who*p cut up mallows by the bushes, and juniper roots for their meat."
+    },
+    {
+        "o": 14029,
+        "r": "kjv:Job:30:5",
+        "t": "They*p were driven forth from among men, (they cried after them as after a thief;)"
+    },
+    {
+        "o": 14030,
+        "r": "kjv:Job:30:6",
+        "t": "To*p dwell in the cliffs of the valleys, in caves of the earth, and in the rocks."
+    },
+    {
+        "o": 14031,
+        "r": "kjv:Job:30:7",
+        "t": "Among*p the bushes they brayed; under the nettles they were gathered together."
+    },
+    {
+        "o": 14032,
+        "r": "kjv:Job:30:8",
+        "t": "They*p were children of fools, yea, children of base men: they were viler than the earth."
+    },
+    {
+        "o": 14033,
+        "r": "kjv:Job:30:9",
+        "t": "And*p now am I their song, yea, I am their byword."
+    },
+    {
+        "o": 14034,
+        "r": "kjv:Job:30:10",
+        "t": "They*p abhor me, they flee far from me, and spare not to spit in my face."
+    },
+    {
+        "o": 14035,
+        "r": "kjv:Job:30:11",
+        "t": "Because*p he hath loosed my cord, and afflicted me, they have also let loose the bridle before me."
+    },
+    {
+        "o": 14036,
+        "r": "kjv:Job:30:12",
+        "t": "Upon*p my right hand rise the youth; they push away my feet, and they raise up against me the ways of their destruction."
+    },
+    {
+        "o": 14037,
+        "r": "kjv:Job:30:13",
+        "t": "They*p mar my path, they set forward my calamity, they have no helper."
+    },
+    {
+        "o": 14038,
+        "r": "kjv:Job:30:14",
+        "t": "They*p came upon me as a wide breaking in of waters: in the desolation they rolled themselves upon me."
+    },
+    {
+        "o": 14039,
+        "r": "kjv:Job:30:15",
+        "t": "Terrors*p are turned upon me: they pursue my soul as the wind: and my welfare passeth away as a cloud."
+    },
+    {
+        "o": 14040,
+        "r": "kjv:Job:30:16",
+        "t": "And*p now my soul is poured out upon me; the days of affliction have taken hold upon me."
+    },
+    {
+        "o": 14041,
+        "r": "kjv:Job:30:17",
+        "t": "My*p bones are pierced in me in the night season: and my sinews take no rest."
+    },
+    {
+        "o": 14042,
+        "r": "kjv:Job:30:18",
+        "t": "By*p the great force of my disease is my garment changed: it bindeth me about as the collar of my coat."
+    },
+    {
+        "o": 14043,
+        "r": "kjv:Job:30:19",
+        "t": "He*p hath cast me into the mire, and I am become like dust and ashes."
+    },
+    {
+        "o": 14044,
+        "r": "kjv:Job:30:20",
+        "t": "I*p cry unto thee, and thou dost not hear me: I stand up, and thou regardest me not."
+    },
+    {
+        "o": 14045,
+        "r": "kjv:Job:30:21",
+        "t": "Thou*p art become cruel to me: with thy strong hand thou opposest thyself against me."
+    },
+    {
+        "o": 14046,
+        "r": "kjv:Job:30:22",
+        "t": "Thou*p liftest me up to the wind; thou causest me to ride upon it, and dissolvest my substance."
+    },
+    {
+        "o": 14047,
+        "r": "kjv:Job:30:23",
+        "t": "For*p I know that thou wilt bring me to death, and to the house appointed for all living."
+    },
+    {
+        "o": 14048,
+        "r": "kjv:Job:30:24",
+        "t": "Howbeit*p he will not stretch out his hand to the grave, though they cry in his destruction."
+    },
+    {
+        "o": 14049,
+        "r": "kjv:Job:30:25",
+        "t": "Did*p not I weep for him that was in trouble? was not my soul grieved for the poor?"
+    },
+    {
+        "o": 14050,
+        "r": "kjv:Job:30:26",
+        "t": "When*p I looked for good, then evil came unto me: and when I waited for light, there came darkness."
+    },
+    {
+        "o": 14051,
+        "r": "kjv:Job:30:27",
+        "t": "My*p bowels boiled, and rested not: the days of affliction prevented me."
+    },
+    {
+        "o": 14052,
+        "r": "kjv:Job:30:28",
+        "t": "I*p went mourning without the sun: I stood up, and I cried in the congregation."
+    },
+    {
+        "o": 14053,
+        "r": "kjv:Job:30:29",
+        "t": "I*p am a brother to dragons, and a companion to owls."
+    },
+    {
+        "o": 14054,
+        "r": "kjv:Job:30:30",
+        "t": "My*p skin is black upon me, and my bones are burned with heat."
+    },
+    {
+        "o": 14055,
+        "r": "kjv:Job:30:31",
+        "t": "My*p harp also is turned to mourning, and my organ into the voice of them that weep."
+    },
+    {
+        "o": 14056,
+        "r": "kjv:Job:31:0",
+        "t": "Job 31",
+        "h": 1
+    },
+    {
+        "o": 14057,
+        "r": "kjv:Job:31:1",
+        "t": "I*p made a covenant with mine eyes; why then should I think upon a maid?"
+    },
+    {
+        "o": 14058,
+        "r": "kjv:Job:31:2",
+        "t": "For*p what portion of God is there from above? and what inheritance of the Almighty from on high?"
+    },
+    {
+        "o": 14059,
+        "r": "kjv:Job:31:3",
+        "t": "Is*p not destruction to the wicked? and a strange punishment to the workers of iniquity?"
+    },
+    {
+        "o": 14060,
+        "r": "kjv:Job:31:4",
+        "t": "Doth*p not he see my ways, and count all my steps?"
+    },
+    {
+        "o": 14061,
+        "r": "kjv:Job:31:5",
+        "t": "If*p I have walked with vanity, or if my foot hath hasted to deceit;"
+    },
+    {
+        "o": 14062,
+        "r": "kjv:Job:31:6",
+        "t": "Let*p me be weighed in an even balance, that God may know mine integrity."
+    },
+    {
+        "o": 14063,
+        "r": "kjv:Job:31:7",
+        "t": "If*p my step hath turned out of the way, and mine heart walked after mine eyes, and if any blot hath cleaved to mine hands;"
+    },
+    {
+        "o": 14064,
+        "r": "kjv:Job:31:8",
+        "t": "Then*p let me sow, and let another eat; yea, let my offspring be rooted out."
+    },
+    {
+        "o": 14065,
+        "r": "kjv:Job:31:9",
+        "t": "If*p mine heart have been deceived by a woman, or if I have laid wait at my neighbour's door;"
+    },
+    {
+        "o": 14066,
+        "r": "kjv:Job:31:10",
+        "t": "Then*p let my wife grind unto another, and let others bow down upon her."
+    },
+    {
+        "o": 14067,
+        "r": "kjv:Job:31:11",
+        "t": "For*p this is an heinous crime; yea, it is an iniquity to be punished by the judges."
+    },
+    {
+        "o": 14068,
+        "r": "kjv:Job:31:12",
+        "t": "For*p it is a fire that consumeth to destruction, and would root out all mine increase."
+    },
+    {
+        "o": 14069,
+        "r": "kjv:Job:31:13",
+        "t": "If*p I did despise the cause of my manservant or of my maidservant, when they contended with me;"
+    },
+    {
+        "o": 14070,
+        "r": "kjv:Job:31:14",
+        "t": "What*p then shall I do when God riseth up? and when he visiteth, what shall I answer him?"
+    },
+    {
+        "o": 14071,
+        "r": "kjv:Job:31:15",
+        "t": "Did*p not he that made me in the womb make him? and did not one fashion us in the womb?"
+    },
+    {
+        "o": 14072,
+        "r": "kjv:Job:31:16",
+        "t": "If*p I have withheld the poor from their desire, or have caused the eyes of the widow to fail;"
+    },
+    {
+        "o": 14073,
+        "r": "kjv:Job:31:17",
+        "t": "Or*p have eaten my morsel myself alone, and the fatherless hath not eaten thereof;"
+    },
+    {
+        "o": 14074,
+        "r": "kjv:Job:31:18",
+        "t": "(For*p from my youth he was brought up with me, as with a father, and I have guided her from my mother's womb;)"
+    },
+    {
+        "o": 14075,
+        "r": "kjv:Job:31:19",
+        "t": "If*p I have seen any perish for want of clothing, or any poor without covering;"
+    },
+    {
+        "o": 14076,
+        "r": "kjv:Job:31:20",
+        "t": "If*p his loins have not blessed me, and if he were not warmed with the fleece of my sheep;"
+    },
+    {
+        "o": 14077,
+        "r": "kjv:Job:31:21",
+        "t": "If*p I have lifted up my hand against the fatherless, when I saw my help in the gate:"
+    },
+    {
+        "o": 14078,
+        "r": "kjv:Job:31:22",
+        "t": "Then*p let mine arm fall from my shoulder blade, and mine arm be broken from the bone."
+    },
+    {
+        "o": 14079,
+        "r": "kjv:Job:31:23",
+        "t": "For*p destruction from God was a terror to me, and by reason of his highness I could not endure."
+    },
+    {
+        "o": 14080,
+        "r": "kjv:Job:31:24",
+        "t": "If*p I have made gold my hope, or have said to the fine gold, Thou art my confidence;"
+    },
+    {
+        "o": 14081,
+        "r": "kjv:Job:31:25",
+        "t": "If*p I rejoiced because my wealth was great, and because mine hand had gotten much;"
+    },
+    {
+        "o": 14082,
+        "r": "kjv:Job:31:26",
+        "t": "If*p I beheld the sun when it shined, or the moon walking in brightness;"
+    },
+    {
+        "o": 14083,
+        "r": "kjv:Job:31:27",
+        "t": "And*p my heart hath been secretly enticed, or my mouth hath kissed my hand:"
+    },
+    {
+        "o": 14084,
+        "r": "kjv:Job:31:28",
+        "t": "This*p also were an iniquity to be punished by the judge: for I should have denied the God that is above."
+    },
+    {
+        "o": 14085,
+        "r": "kjv:Job:31:29",
+        "t": "If*p I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:"
+    },
+    {
+        "o": 14086,
+        "r": "kjv:Job:31:30",
+        "t": "Neither*p have I suffered my mouth to sin by wishing a curse to his soul."
+    },
+    {
+        "o": 14087,
+        "r": "kjv:Job:31:31",
+        "t": "If*p the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied."
+    },
+    {
+        "o": 14088,
+        "r": "kjv:Job:31:32",
+        "t": "The*p stranger did not lodge in the street: but I opened my doors to the traveller."
+    },
+    {
+        "o": 14089,
+        "r": "kjv:Job:31:33",
+        "t": "If*p I covered my transgressions as Adam, by hiding mine iniquity in my bosom:"
+    },
+    {
+        "o": 14090,
+        "r": "kjv:Job:31:34",
+        "t": "Did*p I fear a great multitude, or did the contempt of families terrify me, that I kept silence, and went not out of the door?"
+    },
+    {
+        "o": 14091,
+        "r": "kjv:Job:31:35",
+        "t": "Oh*p that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book."
+    },
+    {
+        "o": 14092,
+        "r": "kjv:Job:31:36",
+        "t": "Surely*p I would take it upon my shoulder, and bind it as a crown to me."
+    },
+    {
+        "o": 14093,
+        "r": "kjv:Job:31:37",
+        "t": "I*p would declare unto him the number of my steps; as a prince would I go near unto him."
+    },
+    {
+        "o": 14094,
+        "r": "kjv:Job:31:38",
+        "t": "If*p my land cry against me, or that the furrows likewise thereof complain;"
+    },
+    {
+        "o": 14095,
+        "r": "kjv:Job:31:39",
+        "t": "If*p I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:"
+    },
+    {
+        "o": 14096,
+        "r": "kjv:Job:31:40",
+        "t": "Let*p thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended."
+    },
+    {
+        "o": 14097,
+        "r": "kjv:Job:32:0",
+        "t": "Job 32",
+        "h": 1
+    },
+    {
+        "o": 14098,
+        "r": "kjv:Job:32:1",
+        "t": "So*p these three men ceased to answer Job, because he was righteous in his own eyes."
+    },
+    {
+        "o": 14099,
+        "r": "kjv:Job:32:2",
+        "t": "Then*p was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God."
+    },
+    {
+        "o": 14100,
+        "r": "kjv:Job:32:3",
+        "t": "Also*p against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job."
+    },
+    {
+        "o": 14101,
+        "r": "kjv:Job:32:4",
+        "t": "Now*p Elihu had waited till Job had spoken, because they were elder than he."
+    },
+    {
+        "o": 14102,
+        "r": "kjv:Job:32:5",
+        "t": "When*p Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled."
+    },
+    {
+        "o": 14103,
+        "r": "kjv:Job:32:6",
+        "t": "And*p Elihu the son of Barachel the Buzite answered and said, I am young, and ye are very old; wherefore I was afraid, and durst not shew you mine opinion."
+    },
+    {
+        "o": 14104,
+        "r": "kjv:Job:32:7",
+        "t": "I*p said, Days should speak, and multitude of years should teach wisdom."
+    },
+    {
+        "o": 14105,
+        "r": "kjv:Job:32:8",
+        "t": "But*p there is a spirit in man: and the inspiration of the Almighty giveth them understanding."
+    },
+    {
+        "o": 14106,
+        "r": "kjv:Job:32:9",
+        "t": "Great*p men are not always wise: neither do the aged understand judgment."
+    },
+    {
+        "o": 14107,
+        "r": "kjv:Job:32:10",
+        "t": "Therefore*p I said, Hearken to me; I also will shew mine opinion."
+    },
+    {
+        "o": 14108,
+        "r": "kjv:Job:32:11",
+        "t": "Behold,*p I waited for your words; I gave ear to your reasons, whilst ye searched out what to say."
+    },
+    {
+        "o": 14109,
+        "r": "kjv:Job:32:12",
+        "t": "Yea,*p I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:"
+    },
+    {
+        "o": 14110,
+        "r": "kjv:Job:32:13",
+        "t": "Lest*p ye should say, We have found out wisdom: God thrusteth him down, not man."
+    },
+    {
+        "o": 14111,
+        "r": "kjv:Job:32:14",
+        "t": "Now*p he hath not directed his words against me: neither will I answer him with your speeches."
+    },
+    {
+        "o": 14112,
+        "r": "kjv:Job:32:15",
+        "t": "They*p were amazed, they answered no more: they left off speaking."
+    },
+    {
+        "o": 14113,
+        "r": "kjv:Job:32:16",
+        "t": "When*p I had waited, (for they spake not, but stood still, and answered no more;)"
+    },
+    {
+        "o": 14114,
+        "r": "kjv:Job:32:17",
+        "t": "I*p said, I will answer also my part, I also will shew mine opinion."
+    },
+    {
+        "o": 14115,
+        "r": "kjv:Job:32:18",
+        "t": "For*p I am full of matter, the spirit within me constraineth me."
+    },
+    {
+        "o": 14116,
+        "r": "kjv:Job:32:19",
+        "t": "Behold,*p my belly is as wine which hath no vent; it is ready to burst like new bottles."
+    },
+    {
+        "o": 14117,
+        "r": "kjv:Job:32:20",
+        "t": "I*p will speak, that I may be refreshed: I will open my lips and answer."
+    },
+    {
+        "o": 14118,
+        "r": "kjv:Job:32:21",
+        "t": "Let*p me not, I pray you, accept any man's person, neither let me give flattering titles unto man."
+    },
+    {
+        "o": 14119,
+        "r": "kjv:Job:32:22",
+        "t": "For*p I know not to give flattering titles; in so doing my maker would soon take me away."
+    },
+    {
+        "o": 14120,
+        "r": "kjv:Job:33:0",
+        "t": "Job 33",
+        "h": 1
+    },
+    {
+        "o": 14121,
+        "r": "kjv:Job:33:1",
+        "t": "Wherefore,*p Job, I pray thee, hear my speeches, and hearken to all my words."
+    },
+    {
+        "o": 14122,
+        "r": "kjv:Job:33:2",
+        "t": "Behold,*p now I have opened my mouth, my tongue hath spoken in my mouth."
+    },
+    {
+        "o": 14123,
+        "r": "kjv:Job:33:3",
+        "t": "My*p words shall be of the uprightness of my heart: and my lips shall utter knowledge clearly."
+    },
+    {
+        "o": 14124,
+        "r": "kjv:Job:33:4",
+        "t": "The*p Spirit of God hath made me, and the breath of the Almighty hath given me life."
+    },
+    {
+        "o": 14125,
+        "r": "kjv:Job:33:5",
+        "t": "If*p thou canst answer me, set thy words in order before me, stand up."
+    },
+    {
+        "o": 14126,
+        "r": "kjv:Job:33:6",
+        "t": "Behold,*p I am according to thy wish in God's stead: I also am formed out of the clay."
+    },
+    {
+        "o": 14127,
+        "r": "kjv:Job:33:7",
+        "t": "Behold,*p my terror shall not make thee afraid, neither shall my hand be heavy upon thee."
+    },
+    {
+        "o": 14128,
+        "r": "kjv:Job:33:8",
+        "t": "Surely*p thou hast spoken in mine hearing, and I have heard the voice of thy words, saying,"
+    },
+    {
+        "o": 14129,
+        "r": "kjv:Job:33:9",
+        "t": "I*p am clean without transgression, I am innocent; neither is there iniquity in me."
+    },
+    {
+        "o": 14130,
+        "r": "kjv:Job:33:10",
+        "t": "Behold,*p he findeth occasions against me, he counteth me for his enemy,"
+    },
+    {
+        "o": 14131,
+        "r": "kjv:Job:33:11",
+        "t": "He*p putteth my feet in the stocks, he marketh all my paths."
+    },
+    {
+        "o": 14132,
+        "r": "kjv:Job:33:12",
+        "t": "Behold,*p in this thou art not just: I will answer thee, that God is greater than man."
+    },
+    {
+        "o": 14133,
+        "r": "kjv:Job:33:13",
+        "t": "Why*p dost thou strive against him? for he giveth not account of any of his matters."
+    },
+    {
+        "o": 14134,
+        "r": "kjv:Job:33:14",
+        "t": "For*p God speaketh once, yea twice, yet man perceiveth it not."
+    },
+    {
+        "o": 14135,
+        "r": "kjv:Job:33:15",
+        "t": "In*p a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;"
+    },
+    {
+        "o": 14136,
+        "r": "kjv:Job:33:16",
+        "t": "Then*p he openeth the ears of men, and sealeth their instruction,"
+    },
+    {
+        "o": 14137,
+        "r": "kjv:Job:33:17",
+        "t": "That*p he may withdraw man from his purpose, and hide pride from man."
+    },
+    {
+        "o": 14138,
+        "r": "kjv:Job:33:18",
+        "t": "He*p keepeth back his soul from the pit, and his life from perishing by the sword."
+    },
+    {
+        "o": 14139,
+        "r": "kjv:Job:33:19",
+        "t": "He*p is chastened also with pain upon his bed, and the multitude of his bones with strong pain:"
+    },
+    {
+        "o": 14140,
+        "r": "kjv:Job:33:20",
+        "t": "So*p that his life abhorreth bread, and his soul dainty meat."
+    },
+    {
+        "o": 14141,
+        "r": "kjv:Job:33:21",
+        "t": "His*p flesh is consumed away, that it cannot be seen; and his bones that were not seen stick out."
+    },
+    {
+        "o": 14142,
+        "r": "kjv:Job:33:22",
+        "t": "Yea,*p his soul draweth near unto the grave, and his life to the destroyers."
+    },
+    {
+        "o": 14143,
+        "r": "kjv:Job:33:23",
+        "t": "If*p there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:"
+    },
+    {
+        "o": 14144,
+        "r": "kjv:Job:33:24",
+        "t": "Then*p he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom."
+    },
+    {
+        "o": 14145,
+        "r": "kjv:Job:33:25",
+        "t": "His*p flesh shall be fresher than a child's: he shall return to the days of his youth:"
+    },
+    {
+        "o": 14146,
+        "r": "kjv:Job:33:26",
+        "t": "He*p shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness."
+    },
+    {
+        "o": 14147,
+        "r": "kjv:Job:33:27",
+        "t": "He*p looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not;"
+    },
+    {
+        "o": 14148,
+        "r": "kjv:Job:33:28",
+        "t": "He*p will deliver his soul from going into the pit, and his life shall see the light."
+    },
+    {
+        "o": 14149,
+        "r": "kjv:Job:33:29",
+        "t": "Lo,*p all these things worketh God oftentimes with man,"
+    },
+    {
+        "o": 14150,
+        "r": "kjv:Job:33:30",
+        "t": "To*p bring back his soul from the pit, to be enlightened with the light of the living."
+    },
+    {
+        "o": 14151,
+        "r": "kjv:Job:33:31",
+        "t": "Mark*p well, O Job, hearken unto me: hold thy peace, and I will speak."
+    },
+    {
+        "o": 14152,
+        "r": "kjv:Job:33:32",
+        "t": "If*p thou hast any thing to say, answer me: speak, for I desire to justify thee."
+    },
+    {
+        "o": 14153,
+        "r": "kjv:Job:33:33",
+        "t": "If*p not, hearken unto me: hold thy peace, and I shall teach thee wisdom."
+    },
+    {
+        "o": 14154,
+        "r": "kjv:Job:34:0",
+        "t": "Job 34",
+        "h": 1
+    },
+    {
+        "o": 14155,
+        "r": "kjv:Job:34:1",
+        "t": "Furthermore*p Elihu answered and said,"
+    },
+    {
+        "o": 14156,
+        "r": "kjv:Job:34:2",
+        "t": "Hear*p my words, O ye wise men; and give ear unto me, ye that have knowledge."
+    },
+    {
+        "o": 14157,
+        "r": "kjv:Job:34:3",
+        "t": "For*p the ear trieth words, as the mouth tasteth meat."
+    },
+    {
+        "o": 14158,
+        "r": "kjv:Job:34:4",
+        "t": "Let*p us choose to us judgment: let us know among ourselves what is good."
+    },
+    {
+        "o": 14159,
+        "r": "kjv:Job:34:5",
+        "t": "For*p Job hath said, I am righteous: and God hath taken away my judgment."
+    },
+    {
+        "o": 14160,
+        "r": "kjv:Job:34:6",
+        "t": "Should*p I lie against my right? my wound is incurable without transgression."
+    },
+    {
+        "o": 14161,
+        "r": "kjv:Job:34:7",
+        "t": "What*p man is like Job, who drinketh up scorning like water?"
+    },
+    {
+        "o": 14162,
+        "r": "kjv:Job:34:8",
+        "t": "Which*p goeth in company with the workers of iniquity, and walketh with wicked men."
+    },
+    {
+        "o": 14163,
+        "r": "kjv:Job:34:9",
+        "t": "For*p he hath said, It profiteth a man nothing that he should delight himself with God."
+    },
+    {
+        "o": 14164,
+        "r": "kjv:Job:34:10",
+        "t": "Therefore*p hearken unto me, ye men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity."
+    },
+    {
+        "o": 14165,
+        "r": "kjv:Job:34:11",
+        "t": "For*p the work of a man shall he render unto him, and cause every man to find according to his ways."
+    },
+    {
+        "o": 14166,
+        "r": "kjv:Job:34:12",
+        "t": "Yea,*p surely God will not do wickedly, neither will the Almighty pervert judgment."
+    },
+    {
+        "o": 14167,
+        "r": "kjv:Job:34:13",
+        "t": "Who*p hath given him a charge over the earth? or who hath disposed the whole world?"
+    },
+    {
+        "o": 14168,
+        "r": "kjv:Job:34:14",
+        "t": "If*p he set his heart upon man, if he gather unto himself his spirit and his breath;"
+    },
+    {
+        "o": 14169,
+        "r": "kjv:Job:34:15",
+        "t": "All*p flesh shall perish together, and man shall turn again unto dust."
+    },
+    {
+        "o": 14170,
+        "r": "kjv:Job:34:16",
+        "t": "If*p now thou hast understanding, hear this: hearken to the voice of my words."
+    },
+    {
+        "o": 14171,
+        "r": "kjv:Job:34:17",
+        "t": "Shall*p even he that hateth right govern? and wilt thou condemn him that is most just?"
+    },
+    {
+        "o": 14172,
+        "r": "kjv:Job:34:18",
+        "t": "Is*p it fit to say to a king, Thou art wicked? and to princes, Ye are ungodly?"
+    },
+    {
+        "o": 14173,
+        "r": "kjv:Job:34:19",
+        "t": "How*p much less to him that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all are the work of his hands."
+    },
+    {
+        "o": 14174,
+        "r": "kjv:Job:34:20",
+        "t": "In*p a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand."
+    },
+    {
+        "o": 14175,
+        "r": "kjv:Job:34:21",
+        "t": "For*p his eyes are upon the ways of man, and he seeth all his goings."
+    },
+    {
+        "o": 14176,
+        "r": "kjv:Job:34:22",
+        "t": "There*p is no darkness, nor shadow of death, where the workers of iniquity may hide themselves."
+    },
+    {
+        "o": 14177,
+        "r": "kjv:Job:34:23",
+        "t": "For*p he will not lay upon man more than right; that he should enter into judgment with God."
+    },
+    {
+        "o": 14178,
+        "r": "kjv:Job:34:24",
+        "t": "He*p shall break in pieces mighty men without number, and set others in their stead."
+    },
+    {
+        "o": 14179,
+        "r": "kjv:Job:34:25",
+        "t": "Therefore*p he knoweth their works, and he overturneth them in the night, so that they are destroyed."
+    },
+    {
+        "o": 14180,
+        "r": "kjv:Job:34:26",
+        "t": "He*p striketh them as wicked men in the open sight of others;"
+    },
+    {
+        "o": 14181,
+        "r": "kjv:Job:34:27",
+        "t": "Because*p they turned back from him, and would not consider any of his ways:"
+    },
+    {
+        "o": 14182,
+        "r": "kjv:Job:34:28",
+        "t": "So*p that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted."
+    },
+    {
+        "o": 14183,
+        "r": "kjv:Job:34:29",
+        "t": "When*p he giveth quietness, who then can make trouble? and when he hideth his face, who then can behold him? whether it be done against a nation, or against a man only:"
+    },
+    {
+        "o": 14184,
+        "r": "kjv:Job:34:30",
+        "t": "That*p the hypocrite reign not, lest the people be ensnared."
+    },
+    {
+        "o": 14185,
+        "r": "kjv:Job:34:31",
+        "t": "Surely*p it is meet to be said unto God, I have borne chastisement, I will not offend any more:"
+    },
+    {
+        "o": 14186,
+        "r": "kjv:Job:34:32",
+        "t": "That*p which I see not teach thou me: if I have done iniquity, I will do no more."
+    },
+    {
+        "o": 14187,
+        "r": "kjv:Job:34:33",
+        "t": "Should*p it be according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest."
+    },
+    {
+        "o": 14188,
+        "r": "kjv:Job:34:34",
+        "t": "Let*p men of understanding tell me, and let a wise man hearken unto me."
+    },
+    {
+        "o": 14189,
+        "r": "kjv:Job:34:35",
+        "t": "Job*p hath spoken without knowledge, and his words were without wisdom."
+    },
+    {
+        "o": 14190,
+        "r": "kjv:Job:34:36",
+        "t": "My*p desire is that Job may be tried unto the end because of his answers for wicked men."
+    },
+    {
+        "o": 14191,
+        "r": "kjv:Job:34:37",
+        "t": "For*p he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God."
+    },
+    {
+        "o": 14192,
+        "r": "kjv:Job:35:0",
+        "t": "Job 35",
+        "h": 1
+    },
+    {
+        "o": 14193,
+        "r": "kjv:Job:35:1",
+        "t": "Elihu*p spake moreover, and said,"
+    },
+    {
+        "o": 14194,
+        "r": "kjv:Job:35:2",
+        "t": "Thinkest*p thou this to be right, that thou saidst, My righteousness is more than God's?"
+    },
+    {
+        "o": 14195,
+        "r": "kjv:Job:35:3",
+        "t": "For*p thou saidst, What advantage will it be unto thee? and, What profit shall I have, if I be cleansed from my sin?"
+    },
+    {
+        "o": 14196,
+        "r": "kjv:Job:35:4",
+        "t": "I*p will answer thee, and thy companions with thee."
+    },
+    {
+        "o": 14197,
+        "r": "kjv:Job:35:5",
+        "t": "Look*p unto the heavens, and see; and behold the clouds which are higher than thou."
+    },
+    {
+        "o": 14198,
+        "r": "kjv:Job:35:6",
+        "t": "If*p thou sinnest, what doest thou against him? or if thy transgressions be multiplied, what doest thou unto him?"
+    },
+    {
+        "o": 14199,
+        "r": "kjv:Job:35:7",
+        "t": "If*p thou be righteous, what givest thou him? or what receiveth he of thine hand?"
+    },
+    {
+        "o": 14200,
+        "r": "kjv:Job:35:8",
+        "t": "Thy*p wickedness may hurt a man as thou art; and thy righteousness may profit the son of man."
+    },
+    {
+        "o": 14201,
+        "r": "kjv:Job:35:9",
+        "t": "By*p reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty."
+    },
+    {
+        "o": 14202,
+        "r": "kjv:Job:35:10",
+        "t": "But*p none saith, Where is God my maker, who giveth songs in the night;"
+    },
+    {
+        "o": 14203,
+        "r": "kjv:Job:35:11",
+        "t": "Who*p teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?"
+    },
+    {
+        "o": 14204,
+        "r": "kjv:Job:35:12",
+        "t": "There*p they cry, but none giveth answer, because of the pride of evil men."
+    },
+    {
+        "o": 14205,
+        "r": "kjv:Job:35:13",
+        "t": "Surely*p God will not hear vanity, neither will the Almighty regard it."
+    },
+    {
+        "o": 14206,
+        "r": "kjv:Job:35:14",
+        "t": "Although*p thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him."
+    },
+    {
+        "o": 14207,
+        "r": "kjv:Job:35:15",
+        "t": "But*p now, because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:"
+    },
+    {
+        "o": 14208,
+        "r": "kjv:Job:35:16",
+        "t": "Therefore*p doth Job open his mouth in vain; he multiplieth words without knowledge."
+    },
+    {
+        "o": 14209,
+        "r": "kjv:Job:36:0",
+        "t": "Job 36",
+        "h": 1
+    },
+    {
+        "o": 14210,
+        "r": "kjv:Job:36:1",
+        "t": "Elihu*p also proceeded, and said,"
+    },
+    {
+        "o": 14211,
+        "r": "kjv:Job:36:2",
+        "t": "Suffer*p me a little, and I will shew thee that I have yet to speak on God's behalf."
+    },
+    {
+        "o": 14212,
+        "r": "kjv:Job:36:3",
+        "t": "I*p will fetch my knowledge from afar, and will ascribe righteousness to my Maker."
+    },
+    {
+        "o": 14213,
+        "r": "kjv:Job:36:4",
+        "t": "For*p truly my words shall not be false: he that is perfect in knowledge is with thee."
+    },
+    {
+        "o": 14214,
+        "r": "kjv:Job:36:5",
+        "t": "Behold,*p God is mighty, and despiseth not any: he is mighty in strength and wisdom."
+    },
+    {
+        "o": 14215,
+        "r": "kjv:Job:36:6",
+        "t": "He*p preserveth not the life of the wicked: but giveth right to the poor."
+    },
+    {
+        "o": 14216,
+        "r": "kjv:Job:36:7",
+        "t": "He*p withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted."
+    },
+    {
+        "o": 14217,
+        "r": "kjv:Job:36:8",
+        "t": "And*p if they be bound in fetters, and be holden in cords of affliction;"
+    },
+    {
+        "o": 14218,
+        "r": "kjv:Job:36:9",
+        "t": "Then*p he sheweth them their work, and their transgressions that they have exceeded."
+    },
+    {
+        "o": 14219,
+        "r": "kjv:Job:36:10",
+        "t": "He*p openeth also their ear to discipline, and commandeth that they return from iniquity."
+    },
+    {
+        "o": 14220,
+        "r": "kjv:Job:36:11",
+        "t": "If*p they obey and serve him, they shall spend their days in prosperity, and their years in pleasures."
+    },
+    {
+        "o": 14221,
+        "r": "kjv:Job:36:12",
+        "t": "But*p if they obey not, they shall perish by the sword, and they shall die without knowledge."
+    },
+    {
+        "o": 14222,
+        "r": "kjv:Job:36:13",
+        "t": "But*p the hypocrites in heart heap up wrath: they cry not when he bindeth them."
+    },
+    {
+        "o": 14223,
+        "r": "kjv:Job:36:14",
+        "t": "They*p die in youth, and their life is among the unclean."
+    },
+    {
+        "o": 14224,
+        "r": "kjv:Job:36:15",
+        "t": "He*p delivereth the poor in his affliction, and openeth their ears in oppression."
+    },
+    {
+        "o": 14225,
+        "r": "kjv:Job:36:16",
+        "t": "Even*p so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness."
+    },
+    {
+        "o": 14226,
+        "r": "kjv:Job:36:17",
+        "t": "But*p thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee."
+    },
+    {
+        "o": 14227,
+        "r": "kjv:Job:36:18",
+        "t": "Because*p there is wrath, beware lest he take thee away with his stroke: then a great ransom cannot deliver thee."
+    },
+    {
+        "o": 14228,
+        "r": "kjv:Job:36:19",
+        "t": "Will*p he esteem thy riches? no, not gold, nor all the forces of strength."
+    },
+    {
+        "o": 14229,
+        "r": "kjv:Job:36:20",
+        "t": "Desire*p not the night, when people are cut off in their place."
+    },
+    {
+        "o": 14230,
+        "r": "kjv:Job:36:21",
+        "t": "Take*p heed, regard not iniquity: for this hast thou chosen rather than affliction."
+    },
+    {
+        "o": 14231,
+        "r": "kjv:Job:36:22",
+        "t": "Behold,*p God exalteth by his power: who teacheth like him?"
+    },
+    {
+        "o": 14232,
+        "r": "kjv:Job:36:23",
+        "t": "Who*p hath enjoined him his way? or who can say, Thou hast wrought iniquity?"
+    },
+    {
+        "o": 14233,
+        "r": "kjv:Job:36:24",
+        "t": "Remember*p that thou magnify his work, which men behold."
+    },
+    {
+        "o": 14234,
+        "r": "kjv:Job:36:25",
+        "t": "Every*p man may see it; man may behold it afar off."
+    },
+    {
+        "o": 14235,
+        "r": "kjv:Job:36:26",
+        "t": "Behold,*p God is great, and we know him not, neither can the number of his years be searched out."
+    },
+    {
+        "o": 14236,
+        "r": "kjv:Job:36:27",
+        "t": "For*p he maketh small the drops of water: they pour down rain according to the vapour thereof:"
+    },
+    {
+        "o": 14237,
+        "r": "kjv:Job:36:28",
+        "t": "Which*p the clouds do drop and distil upon man abundantly."
+    },
+    {
+        "o": 14238,
+        "r": "kjv:Job:36:29",
+        "t": "Also*p can any understand the spreadings of the clouds, or the noise of his tabernacle?"
+    },
+    {
+        "o": 14239,
+        "r": "kjv:Job:36:30",
+        "t": "Behold,*p he spreadeth his light upon it, and covereth the bottom of the sea."
+    },
+    {
+        "o": 14240,
+        "r": "kjv:Job:36:31",
+        "t": "For*p by them judgeth he the people; he giveth meat in abundance."
+    },
+    {
+        "o": 14241,
+        "r": "kjv:Job:36:32",
+        "t": "With*p clouds he covereth the light; and commandeth it not to shine by the cloud that cometh betwixt."
+    },
+    {
+        "o": 14242,
+        "r": "kjv:Job:36:33",
+        "t": "The*p noise thereof sheweth concerning it, the cattle also concerning the vapour."
+    },
+    {
+        "o": 14243,
+        "r": "kjv:Job:37:0",
+        "t": "Job 37",
+        "h": 1
+    },
+    {
+        "o": 14244,
+        "r": "kjv:Job:37:1",
+        "t": "At*p this also my heart trembleth, and is moved out of his place."
+    },
+    {
+        "o": 14245,
+        "r": "kjv:Job:37:2",
+        "t": "Hear*p attentively the noise of his voice, and the sound that goeth out of his mouth."
+    },
+    {
+        "o": 14246,
+        "r": "kjv:Job:37:3",
+        "t": "He*p directeth it under the whole heaven, and his lightning unto the ends of the earth."
+    },
+    {
+        "o": 14247,
+        "r": "kjv:Job:37:4",
+        "t": "After*p it a voice roareth: he thundereth with the voice of his excellency; and he will not stay them when his voice is heard."
+    },
+    {
+        "o": 14248,
+        "r": "kjv:Job:37:5",
+        "t": "God*p thundereth marvellously with his voice; great things doeth he, which we cannot comprehend."
+    },
+    {
+        "o": 14249,
+        "r": "kjv:Job:37:6",
+        "t": "For*p he saith to the snow, Be thou on the earth; likewise to the small rain, and to the great rain of his strength."
+    },
+    {
+        "o": 14250,
+        "r": "kjv:Job:37:7",
+        "t": "He*p sealeth up the hand of every man; that all men may know his work."
+    },
+    {
+        "o": 14251,
+        "r": "kjv:Job:37:8",
+        "t": "Then*p the beasts go into dens, and remain in their places."
+    },
+    {
+        "o": 14252,
+        "r": "kjv:Job:37:9",
+        "t": "Out*p of the south cometh the whirlwind: and cold out of the north."
+    },
+    {
+        "o": 14253,
+        "r": "kjv:Job:37:10",
+        "t": "By*p the breath of God frost is given: and the breadth of the waters is straitened."
+    },
+    {
+        "o": 14254,
+        "r": "kjv:Job:37:11",
+        "t": "Also*p by watering he wearieth the thick cloud: he scattereth his bright cloud:"
+    },
+    {
+        "o": 14255,
+        "r": "kjv:Job:37:12",
+        "t": "And*p it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth."
+    },
+    {
+        "o": 14256,
+        "r": "kjv:Job:37:13",
+        "t": "He*p causeth it to come, whether for correction, or for his land, or for mercy."
+    },
+    {
+        "o": 14257,
+        "r": "kjv:Job:37:14",
+        "t": "Hearken*p unto this, O Job: stand still, and consider the wondrous works of God."
+    },
+    {
+        "o": 14258,
+        "r": "kjv:Job:37:15",
+        "t": "Dost*p thou know when God disposed them, and caused the light of his cloud to shine?"
+    },
+    {
+        "o": 14259,
+        "r": "kjv:Job:37:16",
+        "t": "Dost*p thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?"
+    },
+    {
+        "o": 14260,
+        "r": "kjv:Job:37:17",
+        "t": "How*p thy garments are warm, when he quieteth the earth by the south wind?"
+    },
+    {
+        "o": 14261,
+        "r": "kjv:Job:37:18",
+        "t": "Hast*p thou with him spread out the sky, which is strong, and as a molten looking glass?"
+    },
+    {
+        "o": 14262,
+        "r": "kjv:Job:37:19",
+        "t": "Teach*p us what we shall say unto him; for we cannot order our speech by reason of darkness."
+    },
+    {
+        "o": 14263,
+        "r": "kjv:Job:37:20",
+        "t": "Shall*p it be told him that I speak? if a man speak, surely he shall be swallowed up."
+    },
+    {
+        "o": 14264,
+        "r": "kjv:Job:37:21",
+        "t": "And*p now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them."
+    },
+    {
+        "o": 14265,
+        "r": "kjv:Job:37:22",
+        "t": "Fair*p weather cometh out of the north: with God is terrible majesty."
+    },
+    {
+        "o": 14266,
+        "r": "kjv:Job:37:23",
+        "t": "Touching*p the Almighty, we cannot find him out: he is excellent in power, and in judgment, and in plenty of justice: he will not afflict."
+    },
+    {
+        "o": 14267,
+        "r": "kjv:Job:37:24",
+        "t": "Men*p do therefore fear him: he respecteth not any that are wise of heart."
+    },
+    {
+        "o": 14268,
+        "r": "kjv:Job:38:0",
+        "t": "Job 38",
+        "h": 1
+    },
+    {
+        "o": 14269,
+        "r": "kjv:Job:38:1",
+        "t": "Then*p the Lord*s answered Job out of the whirlwind, and said,"
+    },
+    {
+        "o": 14270,
+        "r": "kjv:Job:38:2",
+        "t": "Who*p is this that darkeneth counsel by words without knowledge?"
+    },
+    {
+        "o": 14271,
+        "r": "kjv:Job:38:3",
+        "t": "Gird*p up now thy loins like a man; for I will demand of thee, and answer thou me."
+    },
+    {
+        "o": 14272,
+        "r": "kjv:Job:38:4",
+        "t": "Where*p wast thou when I laid the foundations of the earth? declare, if thou hast understanding."
+    },
+    {
+        "o": 14273,
+        "r": "kjv:Job:38:5",
+        "t": "Who*p hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?"
+    },
+    {
+        "o": 14274,
+        "r": "kjv:Job:38:6",
+        "t": "Whereupon*p are the foundations thereof fastened? or who laid the corner stone thereof;"
+    },
+    {
+        "o": 14275,
+        "r": "kjv:Job:38:7",
+        "t": "When*p the morning stars sang together, and all the sons of God shouted for joy?"
+    },
+    {
+        "o": 14276,
+        "r": "kjv:Job:38:8",
+        "t": "Or*p who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?"
+    },
+    {
+        "o": 14277,
+        "r": "kjv:Job:38:9",
+        "t": "When*p I made the cloud the garment thereof, and thick darkness a swaddlingband for it,"
+    },
+    {
+        "o": 14278,
+        "r": "kjv:Job:38:10",
+        "t": "And*p brake up for it my decreed place, and set bars and doors,"
+    },
+    {
+        "o": 14279,
+        "r": "kjv:Job:38:11",
+        "t": "And*p said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?"
+    },
+    {
+        "o": 14280,
+        "r": "kjv:Job:38:12",
+        "t": "Hast*p thou commanded the morning since thy days; and caused the dayspring to know his place;"
+    },
+    {
+        "o": 14281,
+        "r": "kjv:Job:38:13",
+        "t": "That*p it might take hold of the ends of the earth, that the wicked might be shaken out of it?"
+    },
+    {
+        "o": 14282,
+        "r": "kjv:Job:38:14",
+        "t": "It*p is turned as clay to the seal; and they stand as a garment."
+    },
+    {
+        "o": 14283,
+        "r": "kjv:Job:38:15",
+        "t": "And*p from the wicked their light is withholden, and the high arm shall be broken."
+    },
+    {
+        "o": 14284,
+        "r": "kjv:Job:38:16",
+        "t": "Hast*p thou entered into the springs of the sea? or hast thou walked in the search of the depth?"
+    },
+    {
+        "o": 14285,
+        "r": "kjv:Job:38:17",
+        "t": "Have*p the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?"
+    },
+    {
+        "o": 14286,
+        "r": "kjv:Job:38:18",
+        "t": "Hast*p thou perceived the breadth of the earth? declare if thou knowest it all."
+    },
+    {
+        "o": 14287,
+        "r": "kjv:Job:38:19",
+        "t": "Where*p is the way where light dwelleth? and as for darkness, where is the place thereof,"
+    },
+    {
+        "o": 14288,
+        "r": "kjv:Job:38:20",
+        "t": "That*p thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?"
+    },
+    {
+        "o": 14289,
+        "r": "kjv:Job:38:21",
+        "t": "Knowest*p thou it, because thou wast then born? or because the number of thy days is great?"
+    },
+    {
+        "o": 14290,
+        "r": "kjv:Job:38:22",
+        "t": "Hast*p thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,"
+    },
+    {
+        "o": 14291,
+        "r": "kjv:Job:38:23",
+        "t": "Which*p I have reserved against the time of trouble, against the day of battle and war?"
+    },
+    {
+        "o": 14292,
+        "r": "kjv:Job:38:24",
+        "t": "By*p what way is the light parted, which scattereth the east wind upon the earth?"
+    },
+    {
+        "o": 14293,
+        "r": "kjv:Job:38:25",
+        "t": "Who*p hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;"
+    },
+    {
+        "o": 14294,
+        "r": "kjv:Job:38:26",
+        "t": "To*p cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man;"
+    },
+    {
+        "o": 14295,
+        "r": "kjv:Job:38:27",
+        "t": "To*p satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?"
+    },
+    {
+        "o": 14296,
+        "r": "kjv:Job:38:28",
+        "t": "Hath*p the rain a father? or who hath begotten the drops of dew?"
+    },
+    {
+        "o": 14297,
+        "r": "kjv:Job:38:29",
+        "t": "Out*p of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?"
+    },
+    {
+        "o": 14298,
+        "r": "kjv:Job:38:30",
+        "t": "The*p waters are hid as with a stone, and the face of the deep is frozen."
+    },
+    {
+        "o": 14299,
+        "r": "kjv:Job:38:31",
+        "t": "Canst*p thou bind the sweet influences of Pleiades, or loose the bands of Orion?"
+    },
+    {
+        "o": 14300,
+        "r": "kjv:Job:38:32",
+        "t": "Canst*p thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?"
+    },
+    {
+        "o": 14301,
+        "r": "kjv:Job:38:33",
+        "t": "Knowest*p thou the ordinances of heaven? canst thou set the dominion thereof in the earth?"
+    },
+    {
+        "o": 14302,
+        "r": "kjv:Job:38:34",
+        "t": "Canst*p thou lift up thy voice to the clouds, that abundance of waters may cover thee?"
+    },
+    {
+        "o": 14303,
+        "r": "kjv:Job:38:35",
+        "t": "Canst*p thou send lightnings, that they may go, and say unto thee, Here we are?"
+    },
+    {
+        "o": 14304,
+        "r": "kjv:Job:38:36",
+        "t": "Who*p hath put wisdom in the inward parts? or who hath given understanding to the heart?"
+    },
+    {
+        "o": 14305,
+        "r": "kjv:Job:38:37",
+        "t": "Who*p can number the clouds in wisdom? or who can stay the bottles of heaven,"
+    },
+    {
+        "o": 14306,
+        "r": "kjv:Job:38:38",
+        "t": "When*p the dust groweth into hardness, and the clods cleave fast together?"
+    },
+    {
+        "o": 14307,
+        "r": "kjv:Job:38:39",
+        "t": "Wilt*p thou hunt the prey for the lion? or fill the appetite of the young lions,"
+    },
+    {
+        "o": 14308,
+        "r": "kjv:Job:38:40",
+        "t": "When*p they couch in their dens, and abide in the covert to lie in wait?"
+    },
+    {
+        "o": 14309,
+        "r": "kjv:Job:38:41",
+        "t": "Who*p provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat."
+    },
+    {
+        "o": 14310,
+        "r": "kjv:Job:39:0",
+        "t": "Job 39",
+        "h": 1
+    },
+    {
+        "o": 14311,
+        "r": "kjv:Job:39:1",
+        "t": "Knowest*p thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve?"
+    },
+    {
+        "o": 14312,
+        "r": "kjv:Job:39:2",
+        "t": "Canst*p thou number the months that they fulfil? or knowest thou the time when they bring forth?"
+    },
+    {
+        "o": 14313,
+        "r": "kjv:Job:39:3",
+        "t": "They*p bow themselves, they bring forth their young ones, they cast out their sorrows."
+    },
+    {
+        "o": 14314,
+        "r": "kjv:Job:39:4",
+        "t": "Their*p young ones are in good liking, they grow up with corn; they go forth, and return not unto them."
+    },
+    {
+        "o": 14315,
+        "r": "kjv:Job:39:5",
+        "t": "Who*p hath sent out the wild ass free? or who hath loosed the bands of the wild ass?"
+    },
+    {
+        "o": 14316,
+        "r": "kjv:Job:39:6",
+        "t": "Whose*p house I have made the wilderness, and the barren land his dwellings."
+    },
+    {
+        "o": 14317,
+        "r": "kjv:Job:39:7",
+        "t": "He*p scorneth the multitude of the city, neither regardeth he the crying of the driver."
+    },
+    {
+        "o": 14318,
+        "r": "kjv:Job:39:8",
+        "t": "The*p range of the mountains is his pasture, and he searcheth after every green thing."
+    },
+    {
+        "o": 14319,
+        "r": "kjv:Job:39:9",
+        "t": "Will*p the unicorn be willing to serve thee, or abide by thy crib?"
+    },
+    {
+        "o": 14320,
+        "r": "kjv:Job:39:10",
+        "t": "Canst*p thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?"
+    },
+    {
+        "o": 14321,
+        "r": "kjv:Job:39:11",
+        "t": "Wilt*p thou trust him, because his strength is great? or wilt thou leave thy labour to him?"
+    },
+    {
+        "o": 14322,
+        "r": "kjv:Job:39:12",
+        "t": "Wilt*p thou believe him, that he will bring home thy seed, and gather it into thy barn?"
+    },
+    {
+        "o": 14323,
+        "r": "kjv:Job:39:13",
+        "t": "Gavest*p thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?"
+    },
+    {
+        "o": 14324,
+        "r": "kjv:Job:39:14",
+        "t": "Which*p leaveth her eggs in the earth, and warmeth them in dust,"
+    },
+    {
+        "o": 14325,
+        "r": "kjv:Job:39:15",
+        "t": "And*p forgetteth that the foot may crush them, or that the wild beast may break them."
+    },
+    {
+        "o": 14326,
+        "r": "kjv:Job:39:16",
+        "t": "She*p is hardened against her young ones, as though they were not hers: her labour is in vain without fear;"
+    },
+    {
+        "o": 14327,
+        "r": "kjv:Job:39:17",
+        "t": "Because*p God hath deprived her of wisdom, neither hath he imparted to her understanding."
+    },
+    {
+        "o": 14328,
+        "r": "kjv:Job:39:18",
+        "t": "What*p time she lifteth up herself on high, she scorneth the horse and his rider."
+    },
+    {
+        "o": 14329,
+        "r": "kjv:Job:39:19",
+        "t": "Hast*p thou given the horse strength? hast thou clothed his neck with thunder?"
+    },
+    {
+        "o": 14330,
+        "r": "kjv:Job:39:20",
+        "t": "Canst*p thou make him afraid as a grasshopper? the glory of his nostrils is terrible."
+    },
+    {
+        "o": 14331,
+        "r": "kjv:Job:39:21",
+        "t": "He*p paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men."
+    },
+    {
+        "o": 14332,
+        "r": "kjv:Job:39:22",
+        "t": "He*p mocketh at fear, and is not affrighted; neither turneth he back from the sword."
+    },
+    {
+        "o": 14333,
+        "r": "kjv:Job:39:23",
+        "t": "The*p quiver rattleth against him, the glittering spear and the shield."
+    },
+    {
+        "o": 14334,
+        "r": "kjv:Job:39:24",
+        "t": "He*p swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet."
+    },
+    {
+        "o": 14335,
+        "r": "kjv:Job:39:25",
+        "t": "He*p saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting."
+    },
+    {
+        "o": 14336,
+        "r": "kjv:Job:39:26",
+        "t": "Doth*p the hawk fly by thy wisdom, and stretch her wings toward the south?"
+    },
+    {
+        "o": 14337,
+        "r": "kjv:Job:39:27",
+        "t": "Doth*p the eagle mount up at thy command, and make her nest on high?"
+    },
+    {
+        "o": 14338,
+        "r": "kjv:Job:39:28",
+        "t": "She*p dwelleth and abideth on the rock, upon the crag of the rock, and the strong place."
+    },
+    {
+        "o": 14339,
+        "r": "kjv:Job:39:29",
+        "t": "From*p thence she seeketh the prey, and her eyes behold afar off."
+    },
+    {
+        "o": 14340,
+        "r": "kjv:Job:39:30",
+        "t": "Her*p young ones also suck up blood: and where the slain are, there is she."
+    },
+    {
+        "o": 14341,
+        "r": "kjv:Job:40:0",
+        "t": "Job 40",
+        "h": 1
+    },
+    {
+        "o": 14342,
+        "r": "kjv:Job:40:1",
+        "t": "Moreover*p the Lord*s answered Job, and said,"
+    },
+    {
+        "o": 14343,
+        "r": "kjv:Job:40:2",
+        "t": "Shall*p he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it."
+    },
+    {
+        "o": 14344,
+        "r": "kjv:Job:40:3",
+        "t": "Then*p Job answered the Lord,*s and said,"
+    },
+    {
+        "o": 14345,
+        "r": "kjv:Job:40:4",
+        "t": "Behold,*p I am vile; what shall I answer thee? I will lay mine hand upon my mouth."
+    },
+    {
+        "o": 14346,
+        "r": "kjv:Job:40:5",
+        "t": "Once*p have I spoken; but I will not answer: yea, twice; but I will proceed no further."
+    },
+    {
+        "o": 14347,
+        "r": "kjv:Job:40:6",
+        "t": "Then*p answered the Lord*s unto Job out of the whirlwind, and said,"
+    },
+    {
+        "o": 14348,
+        "r": "kjv:Job:40:7",
+        "t": "Gird*p up thy loins now like a man: I will demand of thee, and declare thou unto me."
+    },
+    {
+        "o": 14349,
+        "r": "kjv:Job:40:8",
+        "t": "Wilt*p thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?"
+    },
+    {
+        "o": 14350,
+        "r": "kjv:Job:40:9",
+        "t": "Hast*p thou an arm like God? or canst thou thunder with a voice like him?"
+    },
+    {
+        "o": 14351,
+        "r": "kjv:Job:40:10",
+        "t": "Deck*p thyself now with majesty and excellency; and array thyself with glory and beauty."
+    },
+    {
+        "o": 14352,
+        "r": "kjv:Job:40:11",
+        "t": "Cast*p abroad the rage of thy wrath: and behold every one that is proud, and abase him."
+    },
+    {
+        "o": 14353,
+        "r": "kjv:Job:40:12",
+        "t": "Look*p on every one that is proud, and bring him low; and tread down the wicked in their place."
+    },
+    {
+        "o": 14354,
+        "r": "kjv:Job:40:13",
+        "t": "Hide*p them in the dust together; and bind their faces in secret."
+    },
+    {
+        "o": 14355,
+        "r": "kjv:Job:40:14",
+        "t": "Then*p will I also confess unto thee that thine own right hand can save thee."
+    },
+    {
+        "o": 14356,
+        "r": "kjv:Job:40:15",
+        "t": "Behold*p now behemoth, which I made with thee; he eateth grass as an ox."
+    },
+    {
+        "o": 14357,
+        "r": "kjv:Job:40:16",
+        "t": "Lo*p now, his strength is in his loins, and his force is in the navel of his belly."
+    },
+    {
+        "o": 14358,
+        "r": "kjv:Job:40:17",
+        "t": "He*p moveth his tail like a cedar: the sinews of his stones are wrapped together."
+    },
+    {
+        "o": 14359,
+        "r": "kjv:Job:40:18",
+        "t": "His*p bones are as strong pieces of brass; his bones are like bars of iron."
+    },
+    {
+        "o": 14360,
+        "r": "kjv:Job:40:19",
+        "t": "He*p is the chief of the ways of God: he that made him can make his sword to approach unto him."
+    },
+    {
+        "o": 14361,
+        "r": "kjv:Job:40:20",
+        "t": "Surely*p the mountains bring him forth food, where all the beasts of the field play."
+    },
+    {
+        "o": 14362,
+        "r": "kjv:Job:40:21",
+        "t": "He*p lieth under the shady trees, in the covert of the reed, and fens."
+    },
+    {
+        "o": 14363,
+        "r": "kjv:Job:40:22",
+        "t": "The*p shady trees cover him with their shadow; the willows of the brook compass him about."
+    },
+    {
+        "o": 14364,
+        "r": "kjv:Job:40:23",
+        "t": "Behold,*p he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth."
+    },
+    {
+        "o": 14365,
+        "r": "kjv:Job:40:24",
+        "t": "He*p taketh it with his eyes: his nose pierceth through snares."
+    },
+    {
+        "o": 14366,
+        "r": "kjv:Job:41:0",
+        "t": "Job 41",
+        "h": 1
+    },
+    {
+        "o": 14367,
+        "r": "kjv:Job:41:1",
+        "t": "Canst*p thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?"
+    },
+    {
+        "o": 14368,
+        "r": "kjv:Job:41:2",
+        "t": "Canst*p thou put an hook into his nose? or bore his jaw through with a thorn?"
+    },
+    {
+        "o": 14369,
+        "r": "kjv:Job:41:3",
+        "t": "Will*p he make many supplications unto thee? will he speak soft words unto thee?"
+    },
+    {
+        "o": 14370,
+        "r": "kjv:Job:41:4",
+        "t": "Will*p he make a covenant with thee? wilt thou take him for a servant for ever?"
+    },
+    {
+        "o": 14371,
+        "r": "kjv:Job:41:5",
+        "t": "Wilt*p thou play with him as with a bird? or wilt thou bind him for thy maidens?"
+    },
+    {
+        "o": 14372,
+        "r": "kjv:Job:41:6",
+        "t": "Shall*p the companions make a banquet of him? shall they part him among the merchants?"
+    },
+    {
+        "o": 14373,
+        "r": "kjv:Job:41:7",
+        "t": "Canst*p thou fill his skin with barbed irons? or his head with fish spears?"
+    },
+    {
+        "o": 14374,
+        "r": "kjv:Job:41:8",
+        "t": "Lay*p thine hand upon him, remember the battle, do no more."
+    },
+    {
+        "o": 14375,
+        "r": "kjv:Job:41:9",
+        "t": "Behold,*p the hope of him is in vain: shall not one be cast down even at the sight of him?"
+    },
+    {
+        "o": 14376,
+        "r": "kjv:Job:41:10",
+        "t": "None*p is so fierce that dare stir him up: who then is able to stand before me?"
+    },
+    {
+        "o": 14377,
+        "r": "kjv:Job:41:11",
+        "t": "Who*p hath prevented me, that I should repay him? whatsoever is under the whole heaven is mine."
+    },
+    {
+        "o": 14378,
+        "r": "kjv:Job:41:12",
+        "t": "I*p will not conceal his parts, nor his power, nor his comely proportion."
+    },
+    {
+        "o": 14379,
+        "r": "kjv:Job:41:13",
+        "t": "Who*p can discover the face of his garment? or who can come to him with his double bridle?"
+    },
+    {
+        "o": 14380,
+        "r": "kjv:Job:41:14",
+        "t": "Who*p can open the doors of his face? his teeth are terrible round about."
+    },
+    {
+        "o": 14381,
+        "r": "kjv:Job:41:15",
+        "t": "His*p scales are his pride, shut up together as with a close seal."
+    },
+    {
+        "o": 14382,
+        "r": "kjv:Job:41:16",
+        "t": "One*p is so near to another, that no air can come between them."
+    },
+    {
+        "o": 14383,
+        "r": "kjv:Job:41:17",
+        "t": "They*p are joined one to another, they stick together, that they cannot be sundered."
+    },
+    {
+        "o": 14384,
+        "r": "kjv:Job:41:18",
+        "t": "By*p his neesings a light doth shine, and his eyes are like the eyelids of the morning."
+    },
+    {
+        "o": 14385,
+        "r": "kjv:Job:41:19",
+        "t": "Out*p of his mouth go burning lamps, and sparks of fire leap out."
+    },
+    {
+        "o": 14386,
+        "r": "kjv:Job:41:20",
+        "t": "Out*p of his nostrils goeth smoke, as out of a seething pot or caldron."
+    },
+    {
+        "o": 14387,
+        "r": "kjv:Job:41:21",
+        "t": "His*p breath kindleth coals, and a flame goeth out of his mouth."
+    },
+    {
+        "o": 14388,
+        "r": "kjv:Job:41:22",
+        "t": "In*p his neck remaineth strength, and sorrow is turned into joy before him."
+    },
+    {
+        "o": 14389,
+        "r": "kjv:Job:41:23",
+        "t": "The*p flakes of his flesh are joined together: they are firm in themselves; they cannot be moved."
+    },
+    {
+        "o": 14390,
+        "r": "kjv:Job:41:24",
+        "t": "His*p heart is as firm as a stone; yea, as hard as a piece of the nether millstone."
+    },
+    {
+        "o": 14391,
+        "r": "kjv:Job:41:25",
+        "t": "When*p he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves."
+    },
+    {
+        "o": 14392,
+        "r": "kjv:Job:41:26",
+        "t": "The*p sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon."
+    },
+    {
+        "o": 14393,
+        "r": "kjv:Job:41:27",
+        "t": "He*p esteemeth iron as straw, and brass as rotten wood."
+    },
+    {
+        "o": 14394,
+        "r": "kjv:Job:41:28",
+        "t": "The*p arrow cannot make him flee: slingstones are turned with him into stubble."
+    },
+    {
+        "o": 14395,
+        "r": "kjv:Job:41:29",
+        "t": "Darts*p are counted as stubble: he laugheth at the shaking of a spear."
+    },
+    {
+        "o": 14396,
+        "r": "kjv:Job:41:30",
+        "t": "Sharp*p stones are under him: he spreadeth sharp pointed things upon the mire."
+    },
+    {
+        "o": 14397,
+        "r": "kjv:Job:41:31",
+        "t": "He*p maketh the deep to boil like a pot: he maketh the sea like a pot of ointment."
+    },
+    {
+        "o": 14398,
+        "r": "kjv:Job:41:32",
+        "t": "He*p maketh a path to shine after him; one would think the deep to be hoary."
+    },
+    {
+        "o": 14399,
+        "r": "kjv:Job:41:33",
+        "t": "Upon*p earth there is not his like, who is made without fear."
+    },
+    {
+        "o": 14400,
+        "r": "kjv:Job:41:34",
+        "t": "He*p beholdeth all high things: he is a king over all the children of pride."
+    },
+    {
+        "o": 14401,
+        "r": "kjv:Job:42:0",
+        "t": "Job 42",
+        "h": 1
+    },
+    {
+        "o": 14402,
+        "r": "kjv:Job:42:1",
+        "t": "Then*p Job answered the Lord,*s and said,"
+    },
+    {
+        "o": 14403,
+        "r": "kjv:Job:42:2",
+        "t": "I*p know that thou canst do every thing, and that no thought can be withholden from thee."
+    },
+    {
+        "o": 14404,
+        "r": "kjv:Job:42:3",
+        "t": "Who*p is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not."
+    },
+    {
+        "o": 14405,
+        "r": "kjv:Job:42:4",
+        "t": "Hear,*p I beseech thee, and I will speak: I will demand of thee, and declare thou unto me."
+    },
+    {
+        "o": 14406,
+        "r": "kjv:Job:42:5",
+        "t": "I*p have heard of thee by the hearing of the ear: but now mine eye seeth thee."
+    },
+    {
+        "o": 14407,
+        "r": "kjv:Job:42:6",
+        "t": "Wherefore*p I abhor myself, and repent in dust and ashes."
+    },
+    {
+        "o": 14408,
+        "r": "kjv:Job:42:7",
+        "t": "And*p it was so, that after the Lord*s had spoken these words unto Job, the Lord*s said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath."
+    },
+    {
+        "o": 14409,
+        "r": "kjv:Job:42:8",
+        "t": "Therefore*p take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job."
+    },
+    {
+        "o": 14410,
+        "r": "kjv:Job:42:9",
+        "t": "So*p Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the Lord*s commanded them: the Lord*s also accepted Job."
+    },
+    {
+        "o": 14411,
+        "r": "kjv:Job:42:10",
+        "t": "And*p the Lord*s turned the captivity of Job, when he prayed for his friends: also the Lord*s gave Job twice as much as he had before."
+    },
+    {
+        "o": 14412,
+        "r": "kjv:Job:42:11",
+        "t": "Then*p came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the Lord*s had brought upon him: every man also gave him a piece of money, and every one an earring of gold."
+    },
+    {
+        "o": 14413,
+        "r": "kjv:Job:42:12",
+        "t": "So*p the Lord*s blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses."
+    },
+    {
+        "o": 14414,
+        "r": "kjv:Job:42:13",
+        "t": "He*p had also seven sons and three daughters."
+    },
+    {
+        "o": 14415,
+        "r": "kjv:Job:42:14",
+        "t": "And*p he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren–happuch."
+    },
+    {
+        "o": 14416,
+        "r": "kjv:Job:42:15",
+        "t": "And*p in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren."
+    },
+    {
+        "o": 14417,
+        "r": "kjv:Job:42:16",
+        "t": "After*p this lived Job an hundred and forty years, and saw his sons, and his sons' sons, even four generations."
+    },
+    {
+        "o": 14418,
+        "r": "kjv:Job:42:17",
+        "t": "So*p Job died, being old and full of days."
+    }
+]

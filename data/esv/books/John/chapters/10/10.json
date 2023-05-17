@@ -1,0 +1,230 @@
+[
+    {
+        "o": 29608,
+        "r": "esv:John:10:0",
+        "t": "John 10",
+        "h": 1
+    },
+    {
+        "o": 29609,
+        "r": "esv:John:10:0",
+        "t": "I Am the Good Shepherd",
+        "h": 2
+    },
+    {
+        "o": 29610,
+        "r": "esv:John:10:1",
+        "t": "“Truly,*rp truly,*r I*r say*r to*r you,*r he*r who*r does*r not*r enter*r the*r sheepfold*r by*r the*r door*r but*r climbs*r in*r by*r another*r way,*r that*r man*r is*r a*r thief*r and*r a*r robber.*r"
+    },
+    {
+        "o": 29611,
+        "r": "esv:John:10:2",
+        "t": "But*r he*r who*r enters*r by*r the*r door*r is*r the*r shepherd*r of*r the*r sheep.*r"
+    },
+    {
+        "o": 29612,
+        "r": "esv:John:10:3",
+        "t": "To*r him*r the*r gatekeeper*r opens.*r The*r sheep*r hear*r his*r voice,*r and*r he*r calls*r his*r own*r sheep*r by*r name*r and*r leads*r them*r out.*r"
+    },
+    {
+        "o": 29613,
+        "r": "esv:John:10:4",
+        "t": "When*r he*r has*r brought*r out*r all*r his*r own,*r he*r goes*r before*r them,*r and*r the*r sheep*r follow*r him,*r for*r they*r know*r his*r voice.*r"
+    },
+    {
+        "o": 29614,
+        "r": "esv:John:10:5",
+        "t": "A*r stranger*r they*r will*r not*r follow,*r but*r they*r will*r flee*r from*r him,*r for*r they*r do*r not*r know*r the*r voice*r of*r strangers.”*r"
+    },
+    {
+        "o": 29615,
+        "r": "esv:John:10:6",
+        "t": "This figure of speech Jesus used with them, but they did not understand what he was saying to them."
+    },
+    {
+        "o": 29616,
+        "r": "esv:John:10:7",
+        "t": "So*p Jesus again said to them, “Truly,*r truly,*r I*r say*r to*r you,*r I*r am*r the*r door*r of*r the*r sheep.*r"
+    },
+    {
+        "o": 29617,
+        "r": "esv:John:10:8",
+        "t": "All*r who*r came*r before*r me*r are*r thieves*r and*r robbers,*r but*r the*r sheep*r did*r not*r listen*r to*r them.*r"
+    },
+    {
+        "o": 29618,
+        "r": "esv:John:10:9",
+        "t": "I*r am*r the*r door.*r If*r anyone*r enters*r by*r me,*r he*r will*r be*r saved*r and*r will*r go*r in*r and*r out*r and*r find*r pasture.*r"
+    },
+    {
+        "o": 29619,
+        "r": "esv:John:10:10",
+        "t": "The*r thief*r comes*r only*r to*r steal*r and*r kill*r and*r destroy.*r I*r came*r that*r they*r may*r have*r life*r and*r have*r it*r abundantly.*r"
+    },
+    {
+        "o": 29620,
+        "r": "esv:John:10:11",
+        "t": "I*r am*r the*r good*r shepherd.*r The*r good*r shepherd*r lays*r down*r his*r life*r for*r the*r sheep.*r"
+    },
+    {
+        "o": 29621,
+        "r": "esv:John:10:12",
+        "t": "He*r who*r is*r a*r hired*r hand*r and*r not*r a*r shepherd,*r who*r does*r not*r own*r the*r sheep,*r sees*r the*r wolf*r coming*r and*r leaves*r the*r sheep*r and*r flees,*r and*r the*r wolf*r snatches*r them*r and*r scatters*r them.*r"
+    },
+    {
+        "o": 29622,
+        "r": "esv:John:10:13",
+        "t": "He*r flees*r because*r he*r is*r a*r hired*r hand*r and*r cares*r nothing*r for*r the*r sheep.*r"
+    },
+    {
+        "o": 29623,
+        "r": "esv:John:10:14",
+        "t": "I*r am*r the*r good*r shepherd.*r I*r know*r my*r own*r and*r my*r own*r know*r me,*r"
+    },
+    {
+        "o": 29624,
+        "r": "esv:John:10:15",
+        "t": "just*r as*r the*r Father*r knows*r me*r and*r I*r know*r the*r Father;*r and*r I*r lay*r down*r my*r life*r for*r the*r sheep.*r"
+    },
+    {
+        "o": 29625,
+        "r": "esv:John:10:16",
+        "t": "And*r I*r have*r other*r sheep*r that*r are*r not*r of*r this*r fold.*r I*r must*r bring*r them*r also,*r and*r they*r will*r listen*r to*r my*r voice.*r So*r there*r will*r be*r one*r flock,*r one*r shepherd.*r"
+    },
+    {
+        "o": 29626,
+        "r": "esv:John:10:17",
+        "t": "For*r this*r reason*r the*r Father*r loves*r me,*r because*r I*r lay*r down*r my*r life*r that*r I*r may*r take*r it*r up*r again.*r"
+    },
+    {
+        "o": 29627,
+        "r": "esv:John:10:18",
+        "t": "No*r one*r takes*r it*r from*r me,*r but*r I*r lay*r it*r down*r of*r my*r own*r accord.*r I*r have*r authority*r to*r lay*r it*r down,*r and*r I*r have*r authority*r to*r take*r it*r up*r again.*r This*r charge*r I*r have*r received*r from*r my*r Father.”*r"
+    },
+    {
+        "o": 29628,
+        "r": "esv:John:10:19",
+        "t": "There*p was again a division among the Jews because of these words."
+    },
+    {
+        "o": 29629,
+        "r": "esv:John:10:20",
+        "t": "Many of them said, “He has a demon, and is insane; why listen to him?”"
+    },
+    {
+        "o": 29630,
+        "r": "esv:John:10:21",
+        "t": "Others said, “These are not the words of one who is oppressed by a demon. Can a demon open the eyes of the blind?”"
+    },
+    {
+        "o": 29631,
+        "r": "esv:John:10:21",
+        "t": "I and the Father Are One",
+        "h": 2
+    },
+    {
+        "o": 29632,
+        "r": "esv:John:10:22",
+        "t": "At*p that time the Feast of Dedication took place at Jerusalem. It was winter,"
+    },
+    {
+        "o": 29633,
+        "r": "esv:John:10:23",
+        "t": "and Jesus was walking in the temple, in the colonnade of Solomon."
+    },
+    {
+        "o": 29634,
+        "r": "esv:John:10:24",
+        "t": "So the Jews gathered around him and said to him, “How long will you keep us in suspense? If you are the Christ, tell us plainly.”"
+    },
+    {
+        "o": 29635,
+        "r": "esv:John:10:25",
+        "t": "Jesus answered them, “I*r told*r you,*r and*r you*r do*r not*r believe.*r The*r works*r that*r I*r do*r in*r my*r Father’s*r name*r bear*r witness*r about*r me,*r"
+    },
+    {
+        "o": 29636,
+        "r": "esv:John:10:26",
+        "t": "but*r you*r do*r not*r believe*r because*r you*r are*r not*r among*r my*r sheep.*r"
+    },
+    {
+        "o": 29637,
+        "r": "esv:John:10:27",
+        "t": "My*r sheep*r hear*r my*r voice,*r and*r I*r know*r them,*r and*r they*r follow*r me.*r"
+    },
+    {
+        "o": 29638,
+        "r": "esv:John:10:28",
+        "t": "I*r give*r them*r eternal*r life,*r and*r they*r will*r never*r perish,*r and*r no*r one*r will*r snatch*r them*r out*r of*r my*r hand.*r"
+    },
+    {
+        "o": 29639,
+        "r": "esv:John:10:29",
+        "t": "My*r Father,*r who*r has*r given*r them*r to*r me,*r is*r greater*r than*r all,*r and*r no*r one*r is*r able*r to*r snatch*r them*r out*r of*r the*r Father’s*r hand.*r"
+    },
+    {
+        "o": 29640,
+        "r": "esv:John:10:30",
+        "t": "I*r and*r the*r Father*r are*r one.”*r"
+    },
+    {
+        "o": 29641,
+        "r": "esv:John:10:31",
+        "t": "The*p Jews picked up stones again to stone him."
+    },
+    {
+        "o": 29642,
+        "r": "esv:John:10:32",
+        "t": "Jesus answered them, “I*r have*r shown*r you*r many*r good*r works*r from*r the*r Father;*r for*r which*r of*r them*r are*r you*r going*r to*r stone*r me?”*r"
+    },
+    {
+        "o": 29643,
+        "r": "esv:John:10:33",
+        "t": "The Jews answered him, “It is not for a good work that we are going to stone you but for blasphemy, because you, being a man, make yourself God.”"
+    },
+    {
+        "o": 29644,
+        "r": "esv:John:10:34",
+        "t": "Jesus answered them, “Is*r it*r not*r written*r in*r your*r Law,*r ‘I*r said,*r you*r are*r gods’?*r"
+    },
+    {
+        "o": 29645,
+        "r": "esv:John:10:35",
+        "t": "If*r he*r called*r them*r gods*r to*r whom*r the*r word*r of*r God*r came—*r and*r Scripture*r cannot*r be*r broken—*r"
+    },
+    {
+        "o": 29646,
+        "r": "esv:John:10:36",
+        "t": "do*r you*r say*r of*r him*r whom*r the*r Father*r consecrated*r and*r sent*r into*r the*r world,*r ‘You*r are*r blaspheming,’*r because*r I*r said,*r ‘I*r am*r the*r Son*r of*r God’?*r"
+    },
+    {
+        "o": 29647,
+        "r": "esv:John:10:37",
+        "t": "If*r I*r am*r not*r doing*r the*r works*r of*r my*r Father,*r then*r do*r not*r believe*r me;*r"
+    },
+    {
+        "o": 29648,
+        "r": "esv:John:10:38",
+        "t": "but*r if*r I*r do*r them,*r even*r though*r you*r do*r not*r believe*r me,*r believe*r the*r works,*r that*r you*r may*r know*r and*r understand*r that*r the*r Father*r is*r in*r me*r and*r I*r am*r in*r the*r Father.”*r"
+    },
+    {
+        "o": 29649,
+        "r": "esv:John:10:39",
+        "t": "Again they sought to arrest him, but he escaped from their hands."
+    },
+    {
+        "o": 29650,
+        "r": "esv:John:10:40",
+        "t": "He*p went away again across the Jordan to the place where John had been baptizing at first, and there he remained."
+    },
+    {
+        "o": 29651,
+        "r": "esv:John:10:41",
+        "t": "And many came to him. And they said, “John did no sign, but everything that John said about this man was true.”"
+    },
+    {
+        "o": 29652,
+        "r": "esv:John:10:42",
+        "t": "And many believed in him there."
+    }
+]

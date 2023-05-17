@@ -1,0 +1,370 @@
+[
+    {
+        "o": 26246,
+        "r": "esv:Matthew:13:0",
+        "t": "Matthew 13",
+        "h": 1
+    },
+    {
+        "o": 26247,
+        "r": "esv:Matthew:13:0",
+        "t": "The Parable of the Sower",
+        "h": 2
+    },
+    {
+        "o": 26248,
+        "r": "esv:Matthew:13:1",
+        "t": "That*p same day Jesus went out of the house and sat beside the sea."
+    },
+    {
+        "o": 26249,
+        "r": "esv:Matthew:13:2",
+        "t": "And great crowds gathered about him, so that he got into a boat and sat down. And the whole crowd stood on the beach."
+    },
+    {
+        "o": 26250,
+        "r": "esv:Matthew:13:3",
+        "t": "And he told them many things in parables, saying: “A*r sower*r went*r out*r to*r sow.*r"
+    },
+    {
+        "o": 26251,
+        "r": "esv:Matthew:13:4",
+        "t": "And*r as*r he*r sowed,*r some*r seeds*r fell*r along*r the*r path,*r and*r the*r birds*r came*r and*r devoured*r them.*r"
+    },
+    {
+        "o": 26252,
+        "r": "esv:Matthew:13:5",
+        "t": "Other*r seeds*r fell*r on*r rocky*r ground,*r where*r they*r did*r not*r have*r much*r soil,*r and*r immediately*r they*r sprang*r up,*r since*r they*r had*r no*r depth*r of*r soil,*r"
+    },
+    {
+        "o": 26253,
+        "r": "esv:Matthew:13:6",
+        "t": "but*r when*r the*r sun*r rose*r they*r were*r scorched.*r And*r since*r they*r had*r no*r root,*r they*r withered*r away.*r"
+    },
+    {
+        "o": 26254,
+        "r": "esv:Matthew:13:7",
+        "t": "Other*r seeds*r fell*r among*r thorns,*r and*r the*r thorns*r grew*r up*r and*r choked*r them.*r"
+    },
+    {
+        "o": 26255,
+        "r": "esv:Matthew:13:8",
+        "t": "Other*r seeds*r fell*r on*r good*r soil*r and*r produced*r grain,*r some*r a*r hundredfold,*r some*r sixty,*r some*r thirty.*r"
+    },
+    {
+        "o": 26256,
+        "r": "esv:Matthew:13:9",
+        "t": "He*r who*r has*r ears,*r let*r him*r hear.”*r"
+    },
+    {
+        "o": 26257,
+        "r": "esv:Matthew:13:9",
+        "t": "The Purpose of the Parables",
+        "h": 2
+    },
+    {
+        "o": 26258,
+        "r": "esv:Matthew:13:10",
+        "t": "Then*p the disciples came and said to him, “Why do you speak to them in parables?”"
+    },
+    {
+        "o": 26259,
+        "r": "esv:Matthew:13:11",
+        "t": "And he answered them, “To*r you*r it*r has*r been*r given*r to*r know*r the*r secrets*r of*r the*r kingdom*r of*r heaven,*r but*r to*r them*r it*r has*r not*r been*r given.*r"
+    },
+    {
+        "o": 26260,
+        "r": "esv:Matthew:13:12",
+        "t": "For*r to*r the*r one*r who*r has,*r more*r will*r be*r given,*r and*r he*r will*r have*r an*r abundance,*r but*r from*r the*r one*r who*r has*r not,*r even*r what*r he*r has*r will*r be*r taken*r away.*r"
+    },
+    {
+        "o": 26261,
+        "r": "esv:Matthew:13:13",
+        "t": "This*r is*r why*r I*r speak*r to*r them*r in*r parables,*r because*r seeing*r they*r do*r not*r see,*r and*r hearing*r they*r do*r not*r hear,*r nor*r do*r they*r understand.*r"
+    },
+    {
+        "o": 26262,
+        "r": "esv:Matthew:13:14",
+        "t": "Indeed,*r in*r their*r case*r the*r prophecy*r of*r Isaiah*r is*r fulfilled*r that*r says:*r “‘“You*rpn will*r indeed*r hear*r but*r never*r understand,*r and*rld you*r will*r indeed*r see*r but*r never*r perceive.”*r"
+    },
+    {
+        "o": 26263,
+        "r": "esv:Matthew:13:15",
+        "t": "For*rln this*r people’s*r heart*r has*r grown*r dull,*r and*rld with*r their*r ears*r they*r can*r barely*r hear,*r and*rld their*r eyes*r they*r have*r closed,*r lest*rln they*r should*r see*r with*r their*r eyes*r and*rld hear*r with*r their*r ears*r and*rln understand*r with*r their*r heart*r and*rld turn,*r and*r I*r would*r heal*r them.’*r"
+    },
+    {
+        "o": 26264,
+        "r": "esv:Matthew:13:16",
+        "t": "But*rp blessed*r are*r your*r eyes,*r for*r they*r see,*r and*r your*r ears,*r for*r they*r hear.*r"
+    },
+    {
+        "o": 26265,
+        "r": "esv:Matthew:13:17",
+        "t": "For*r truly,*r I*r say*r to*r you,*r many*r prophets*r and*r righteous*r people*r longed*r to*r see*r what*r you*r see,*r and*r did*r not*r see*r it,*r and*r to*r hear*r what*r you*r hear,*r and*r did*r not*r hear*r it.*r"
+    },
+    {
+        "o": 26266,
+        "r": "esv:Matthew:13:17",
+        "t": "The Parable of the Sower Explained",
+        "h": 2
+    },
+    {
+        "o": 26267,
+        "r": "esv:Matthew:13:18",
+        "t": "“Hear*rp then*r the*r parable*r of*r the*r sower:*r"
+    },
+    {
+        "o": 26268,
+        "r": "esv:Matthew:13:19",
+        "t": "When*r anyone*r hears*r the*r word*r of*r the*r kingdom*r and*r does*r not*r understand*r it,*r the*r evil*r one*r comes*r and*r snatches*r away*r what*r has*r been*r sown*r in*r his*r heart.*r This*r is*r what*r was*r sown*r along*r the*r path.*r"
+    },
+    {
+        "o": 26269,
+        "r": "esv:Matthew:13:20",
+        "t": "As*r for*r what*r was*r sown*r on*r rocky*r ground,*r this*r is*r the*r one*r who*r hears*r the*r word*r and*r immediately*r receives*r it*r with*r joy,*r"
+    },
+    {
+        "o": 26270,
+        "r": "esv:Matthew:13:21",
+        "t": "yet*r he*r has*r no*r root*r in*r himself,*r but*r endures*r for*r a*r while,*r and*r when*r tribulation*r or*r persecution*r arises*r on*r account*r of*r the*r word,*r immediately*r he*r falls*r away.*r"
+    },
+    {
+        "o": 26271,
+        "r": "esv:Matthew:13:22",
+        "t": "As*r for*r what*r was*r sown*r among*r thorns,*r this*r is*r the*r one*r who*r hears*r the*r word,*r but*r the*r cares*r of*r the*r world*r and*r the*r deceitfulness*r of*r riches*r choke*r the*r word,*r and*r it*r proves*r unfruitful.*r"
+    },
+    {
+        "o": 26272,
+        "r": "esv:Matthew:13:23",
+        "t": "As*r for*r what*r was*r sown*r on*r good*r soil,*r this*r is*r the*r one*r who*r hears*r the*r word*r and*r understands*r it.*r He*r indeed*r bears*r fruit*r and*r yields,*r in*r one*r case*r a*r hundredfold,*r in*r another*r sixty,*r and*r in*r another*r thirty.”*r"
+    },
+    {
+        "o": 26273,
+        "r": "esv:Matthew:13:23",
+        "t": "The Parable of the Weeds",
+        "h": 2
+    },
+    {
+        "o": 26274,
+        "r": "esv:Matthew:13:24",
+        "t": "He*p put another parable before them, saying, “The*r kingdom*r of*r heaven*r may*r be*r compared*r to*r a*r man*r who*r sowed*r good*r seed*r in*r his*r field,*r"
+    },
+    {
+        "o": 26275,
+        "r": "esv:Matthew:13:25",
+        "t": "but*r while*r his*r men*r were*r sleeping,*r his*r enemy*r came*r and*r sowed*r weeds*r among*r the*r wheat*r and*r went*r away.*r"
+    },
+    {
+        "o": 26276,
+        "r": "esv:Matthew:13:26",
+        "t": "So*r when*r the*r plants*r came*r up*r and*r bore*r grain,*r then*r the*r weeds*r appeared*r also.*r"
+    },
+    {
+        "o": 26277,
+        "r": "esv:Matthew:13:27",
+        "t": "And*r the*r servants*r of*r the*r master*r of*r the*r house*r came*r and*r said*r to*r him,*r ‘Master,*r did*r you*r not*r sow*r good*r seed*r in*r your*r field?*r How*r then*r does*r it*r have*r weeds?’*r"
+    },
+    {
+        "o": 26278,
+        "r": "esv:Matthew:13:28",
+        "t": "He*r said*r to*r them,*r ‘An*r enemy*r has*r done*r this.’*r So*r the*r servants*r said*r to*r him,*r ‘Then*r do*r you*r want*r us*r to*r go*r and*r gather*r them?’*r"
+    },
+    {
+        "o": 26279,
+        "r": "esv:Matthew:13:29",
+        "t": "But*r he*r said,*r ‘No,*r lest*r in*r gathering*r the*r weeds*r you*r root*r up*r the*r wheat*r along*r with*r them.*r"
+    },
+    {
+        "o": 26280,
+        "r": "esv:Matthew:13:30",
+        "t": "Let*r both*r grow*r together*r until*r the*r harvest,*r and*r at*r harvest*r time*r I*r will*r tell*r the*r reapers,*r “Gather*r the*r weeds*r first*r and*r bind*r them*r in*r bundles*r to*r be*r burned,*r but*r gather*r the*r wheat*r into*r my*r barn.”’”*r"
+    },
+    {
+        "o": 26281,
+        "r": "esv:Matthew:13:30",
+        "t": "The Mustard Seed and the Leaven",
+        "h": 2
+    },
+    {
+        "o": 26282,
+        "r": "esv:Matthew:13:31",
+        "t": "He*p put another parable before them, saying, “The*r kingdom*r of*r heaven*r is*r like*r a*r grain*r of*r mustard*r seed*r that*r a*r man*r took*r and*r sowed*r in*r his*r field.*r"
+    },
+    {
+        "o": 26283,
+        "r": "esv:Matthew:13:32",
+        "t": "It*r is*r the*r smallest*r of*r all*r seeds,*r but*r when*r it*r has*r grown*r it*r is*r larger*r than*r all*r the*r garden*r plants*r and*r becomes*r a*r tree,*r so*r that*r the*r birds*r of*r the*r air*r come*r and*r make*r nests*r in*r its*r branches.”*r"
+    },
+    {
+        "o": 26284,
+        "r": "esv:Matthew:13:33",
+        "t": "He*p told them another parable. “The*r kingdom*r of*r heaven*r is*r like*r leaven*r that*r a*r woman*r took*r and*r hid*r in*r three*r measures*r of*r flour,*r till*r it*r was*r all*r leavened.”*r"
+    },
+    {
+        "o": 26285,
+        "r": "esv:Matthew:13:33",
+        "t": "Prophecy and Parables",
+        "h": 2
+    },
+    {
+        "o": 26286,
+        "r": "esv:Matthew:13:34",
+        "t": "All*p these things Jesus said to the crowds in parables; indeed, he said nothing to them without a parable."
+    },
+    {
+        "o": 26287,
+        "r": "esv:Matthew:13:35",
+        "t": "This was to fulfill what was spoken by the prophet: “I*pn will open my mouth in parables; I*ld will utter what has been hidden since the foundation of the world.”"
+    },
+    {
+        "o": 26288,
+        "r": "esv:Matthew:13:35",
+        "t": "The Parable of the Weeds Explained",
+        "h": 2
+    },
+    {
+        "o": 26289,
+        "r": "esv:Matthew:13:36",
+        "t": "Then*p he left the crowds and went into the house. And his disciples came to him, saying, “Explain to us the parable of the weeds of the field.”"
+    },
+    {
+        "o": 26290,
+        "r": "esv:Matthew:13:37",
+        "t": "He answered, “The*r one*r who*r sows*r the*r good*r seed*r is*r the*r Son*r of*r Man.*r"
+    },
+    {
+        "o": 26291,
+        "r": "esv:Matthew:13:38",
+        "t": "The*r field*r is*r the*r world,*r and*r the*r good*r seed*r is*r the*r sons*r of*r the*r kingdom.*r The*r weeds*r are*r the*r sons*r of*r the*r evil*r one,*r"
+    },
+    {
+        "o": 26292,
+        "r": "esv:Matthew:13:39",
+        "t": "and*r the*r enemy*r who*r sowed*r them*r is*r the*r devil.*r The*r harvest*r is*r the*r end*r of*r the*r age,*r and*r the*r reapers*r are*r angels.*r"
+    },
+    {
+        "o": 26293,
+        "r": "esv:Matthew:13:40",
+        "t": "Just*r as*r the*r weeds*r are*r gathered*r and*r burned*r with*r fire,*r so*r will*r it*r be*r at*r the*r end*r of*r the*r age.*r"
+    },
+    {
+        "o": 26294,
+        "r": "esv:Matthew:13:41",
+        "t": "The*r Son*r of*r Man*r will*r send*r his*r angels,*r and*r they*r will*r gather*r out*r of*r his*r kingdom*r all*r causes*r of*r sin*r and*r all*r law-breakers,*r"
+    },
+    {
+        "o": 26295,
+        "r": "esv:Matthew:13:42",
+        "t": "and*r throw*r them*r into*r the*r fiery*r furnace.*r In*r that*r place*r there*r will*r be*r weeping*r and*r gnashing*r of*r teeth.*r"
+    },
+    {
+        "o": 26296,
+        "r": "esv:Matthew:13:43",
+        "t": "Then*r the*r righteous*r will*r shine*r like*r the*r sun*r in*r the*r kingdom*r of*r their*r Father.*r He*r who*r has*r ears,*r let*r him*r hear.*r"
+    },
+    {
+        "o": 26297,
+        "r": "esv:Matthew:13:43",
+        "t": "The Parable of the Hidden Treasure",
+        "h": 2
+    },
+    {
+        "o": 26298,
+        "r": "esv:Matthew:13:44",
+        "t": "“The*rp kingdom*r of*r heaven*r is*r like*r treasure*r hidden*r in*r a*r field,*r which*r a*r man*r found*r and*r covered*r up.*r Then*r in*r his*r joy*r he*r goes*r and*r sells*r all*r that*r he*r has*r and*r buys*r that*r field.*r"
+    },
+    {
+        "o": 26299,
+        "r": "esv:Matthew:13:44",
+        "t": "The Parable of the Pearl of Great Value",
+        "h": 2
+    },
+    {
+        "o": 26300,
+        "r": "esv:Matthew:13:45",
+        "t": "“Again,*rp the*r kingdom*r of*r heaven*r is*r like*r a*r merchant*r in*r search*r of*r fine*r pearls,*r"
+    },
+    {
+        "o": 26301,
+        "r": "esv:Matthew:13:46",
+        "t": "who,*r on*r finding*r one*r pearl*r of*r great*r value,*r went*r and*r sold*r all*r that*r he*r had*r and*r bought*r it.*r"
+    },
+    {
+        "o": 26302,
+        "r": "esv:Matthew:13:46",
+        "t": "The Parable of the Net",
+        "h": 2
+    },
+    {
+        "o": 26303,
+        "r": "esv:Matthew:13:47",
+        "t": "“Again,*rp the*r kingdom*r of*r heaven*r is*r like*r a*r net*r that*r was*r thrown*r into*r the*r sea*r and*r gathered*r fish*r of*r every*r kind.*r"
+    },
+    {
+        "o": 26304,
+        "r": "esv:Matthew:13:48",
+        "t": "When*r it*r was*r full,*r men*r drew*r it*r ashore*r and*r sat*r down*r and*r sorted*r the*r good*r into*r containers*r but*r threw*r away*r the*r bad.*r"
+    },
+    {
+        "o": 26305,
+        "r": "esv:Matthew:13:49",
+        "t": "So*r it*r will*r be*r at*r the*r end*r of*r the*r age.*r The*r angels*r will*r come*r out*r and*r separate*r the*r evil*r from*r the*r righteous*r"
+    },
+    {
+        "o": 26306,
+        "r": "esv:Matthew:13:50",
+        "t": "and*r throw*r them*r into*r the*r fiery*r furnace.*r In*r that*r place*r there*r will*r be*r weeping*r and*r gnashing*r of*r teeth.*r"
+    },
+    {
+        "o": 26307,
+        "r": "esv:Matthew:13:50",
+        "t": "New and Old Treasures",
+        "h": 2
+    },
+    {
+        "o": 26308,
+        "r": "esv:Matthew:13:51",
+        "t": "“Have*rp you*r understood*r all*r these*r things?”*r They said to him, “Yes.”"
+    },
+    {
+        "o": 26309,
+        "r": "esv:Matthew:13:52",
+        "t": "And he said to them, “Therefore*r every*r scribe*r who*r has*r been*r trained*r for*r the*r kingdom*r of*r heaven*r is*r like*r a*r master*r of*r a*r house,*r who*r brings*r out*r of*r his*r treasure*r what*r is*r new*r and*r what*r is*r old.”*r"
+    },
+    {
+        "o": 26310,
+        "r": "esv:Matthew:13:52",
+        "t": "Jesus Rejected at Nazareth",
+        "h": 2
+    },
+    {
+        "o": 26311,
+        "r": "esv:Matthew:13:53",
+        "t": "And*p when Jesus had finished these parables, he went away from there,"
+    },
+    {
+        "o": 26312,
+        "r": "esv:Matthew:13:54",
+        "t": "and coming to his hometown he taught them in their synagogue, so that they were astonished, and said, “Where did this man get this wisdom and these mighty works?"
+    },
+    {
+        "o": 26313,
+        "r": "esv:Matthew:13:55",
+        "t": "Is not this the carpenter’s son? Is not his mother called Mary? And are not his brothers James and Joseph and Simon and Judas?"
+    },
+    {
+        "o": 26314,
+        "r": "esv:Matthew:13:56",
+        "t": "And are not all his sisters with us? Where then did this man get all these things?”"
+    },
+    {
+        "o": 26315,
+        "r": "esv:Matthew:13:57",
+        "t": "And they took offense at him. But Jesus said to them, “A*r prophet*r is*r not*r without*r honor*r except*r in*r his*r hometown*r and*r in*r his*r own*r household.”*r"
+    },
+    {
+        "o": 26316,
+        "r": "esv:Matthew:13:58",
+        "t": "And he did not do many mighty works there, because of their unbelief."
+    }
+]

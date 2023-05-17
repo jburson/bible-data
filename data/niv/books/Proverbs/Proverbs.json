@@ -1,0 +1,5063 @@
+[
+    {
+        "o": 17990,
+        "r": "niv:Proverbs:1:0",
+        "t": "Proverbs 1",
+        "h": 1
+    },
+    {
+        "o": 17991,
+        "r": "niv:Proverbs:1:0",
+        "t": "Purpose and Theme",
+        "h": 2.5
+    },
+    {
+        "o": 17992,
+        "r": "niv:Proverbs:1:1",
+        "t": "The*p proverbs of Solomon son of David, king of Israel:"
+    },
+    {
+        "o": 17993,
+        "r": "niv:Proverbs:1:2",
+        "t": "for*pn gaining wisdom and instruction; for*ld understanding words of insight;"
+    },
+    {
+        "o": 17994,
+        "r": "niv:Proverbs:1:3",
+        "t": "for*ln receiving instruction in prudent behavior, doing*ld what is right and just and fair;"
+    },
+    {
+        "o": 17995,
+        "r": "niv:Proverbs:1:4",
+        "t": "for*ln giving prudence to those who are simple, knowledge*ld and discretion to the young—"
+    },
+    {
+        "o": 17996,
+        "r": "niv:Proverbs:1:5",
+        "t": "let*ln the wise listen and add to their learning, and*ld let the discerning get guidance—"
+    },
+    {
+        "o": 17997,
+        "r": "niv:Proverbs:1:6",
+        "t": "for*ln understanding proverbs and parables, the*ld sayings and riddles of the wise."
+    },
+    {
+        "o": 17998,
+        "r": "niv:Proverbs:1:7",
+        "t": "The*pn fear of the Lord*s is the beginning of knowledge, but*ld fools despise wisdom and instruction."
+    },
+    {
+        "o": 17999,
+        "r": "niv:Proverbs:1:7",
+        "t": "Prologue: Exhortations to Embrace Wisdom",
+        "h": 2.5
+    },
+    {
+        "o": 18000,
+        "r": "niv:Proverbs:1:7",
+        "t": "Warning Against the Invitation of Sinful Men",
+        "h": 2
+    },
+    {
+        "o": 18001,
+        "r": "niv:Proverbs:1:8",
+        "t": "Listen,*pn my son, to your father’s instruction and*ld do not forsake your mother’s teaching."
+    },
+    {
+        "o": 18002,
+        "r": "niv:Proverbs:1:9",
+        "t": "They*ln are a garland to grace your head and*ld a chain to adorn your neck."
+    },
+    {
+        "o": 18003,
+        "r": "niv:Proverbs:1:10",
+        "t": "My*pn son, if sinful men entice you, do*ld not give in to them."
+    },
+    {
+        "o": 18004,
+        "r": "niv:Proverbs:1:11",
+        "t": "If*ln they say, “Come along with us; let’s*ld lie in wait for innocent blood, let’s*ld ambush some harmless soul;"
+    },
+    {
+        "o": 18005,
+        "r": "niv:Proverbs:1:12",
+        "t": "let’s*ln swallow them alive, like the grave, and*ld whole, like those who go down to the pit;"
+    },
+    {
+        "o": 18006,
+        "r": "niv:Proverbs:1:13",
+        "t": "we*ln will get all sorts of valuable things and*ld fill our houses with plunder;"
+    },
+    {
+        "o": 18007,
+        "r": "niv:Proverbs:1:14",
+        "t": "cast*ln lots with us; we*ld will all share the loot”—"
+    },
+    {
+        "o": 18008,
+        "r": "niv:Proverbs:1:15",
+        "t": "my*ln son, do not go along with them, do*ld not set foot on their paths;"
+    },
+    {
+        "o": 18009,
+        "r": "niv:Proverbs:1:16",
+        "t": "for*ln their feet rush into evil, they*ld are swift to shed blood."
+    },
+    {
+        "o": 18010,
+        "r": "niv:Proverbs:1:17",
+        "t": "How*ln useless to spread a net where*ld every bird can see it!"
+    },
+    {
+        "o": 18011,
+        "r": "niv:Proverbs:1:18",
+        "t": "These*ln men lie in wait for their own blood; they*ld ambush only themselves!"
+    },
+    {
+        "o": 18012,
+        "r": "niv:Proverbs:1:19",
+        "t": "Such*ln are the paths of all who go after ill-gotten gain; it*ld takes away the life of those who get it."
+    },
+    {
+        "o": 18013,
+        "r": "niv:Proverbs:1:19",
+        "t": "Wisdom’s Rebuke",
+        "h": 2
+    },
+    {
+        "o": 18014,
+        "r": "niv:Proverbs:1:20",
+        "t": "Out*pn in the open wisdom calls aloud, she*ld raises her voice in the public square;"
+    },
+    {
+        "o": 18015,
+        "r": "niv:Proverbs:1:21",
+        "t": "on*ln top of the wall she cries out, at*ld the city gate she makes her speech:"
+    },
+    {
+        "o": 18016,
+        "r": "niv:Proverbs:1:22",
+        "t": "“How*pn long will you who are simple love your simple ways? How*ld long will mockers delight in mockery and*ld fools hate knowledge?"
+    },
+    {
+        "o": 18017,
+        "r": "niv:Proverbs:1:23",
+        "t": "Repent*ln at my rebuke! Then*ld I will pour out my thoughts to you, I*ld will make known to you my teachings."
+    },
+    {
+        "o": 18018,
+        "r": "niv:Proverbs:1:24",
+        "t": "But*ln since you refuse to listen when I call and*ld no one pays attention when I stretch out my hand,"
+    },
+    {
+        "o": 18019,
+        "r": "niv:Proverbs:1:25",
+        "t": "since*ln you disregard all my advice and*ld do not accept my rebuke,"
+    },
+    {
+        "o": 18020,
+        "r": "niv:Proverbs:1:26",
+        "t": "I*ln in turn will laugh when disaster strikes you; I*ld will mock when calamity overtakes you—"
+    },
+    {
+        "o": 18021,
+        "r": "niv:Proverbs:1:27",
+        "t": "when*ln calamity overtakes you like a storm, when*ld disaster sweeps over you like a whirlwind, when*ld distress and trouble overwhelm you."
+    },
+    {
+        "o": 18022,
+        "r": "niv:Proverbs:1:28",
+        "t": "“Then*pn they will call to me but I will not answer; they*ld will look for me but will not find me,"
+    },
+    {
+        "o": 18023,
+        "r": "niv:Proverbs:1:29",
+        "t": "since*ln they hated knowledge and*ld did not choose to fear the Lord.*s"
+    },
+    {
+        "o": 18024,
+        "r": "niv:Proverbs:1:30",
+        "t": "Since*ln they would not accept my advice and*ld spurned my rebuke,"
+    },
+    {
+        "o": 18025,
+        "r": "niv:Proverbs:1:31",
+        "t": "they*ln will eat the fruit of their ways and*ld be filled with the fruit of their schemes."
+    },
+    {
+        "o": 18026,
+        "r": "niv:Proverbs:1:32",
+        "t": "For*ln the waywardness of the simple will kill them, and*ld the complacency of fools will destroy them;"
+    },
+    {
+        "o": 18027,
+        "r": "niv:Proverbs:1:33",
+        "t": "but*ln whoever listens to me will live in safety and*ld be at ease, without fear of harm.”"
+    },
+    {
+        "o": 18028,
+        "r": "niv:Proverbs:2:0",
+        "t": "Proverbs 2",
+        "h": 1
+    },
+    {
+        "o": 18029,
+        "r": "niv:Proverbs:2:0",
+        "t": "Moral Benefits of Wisdom",
+        "h": 2
+    },
+    {
+        "o": 18030,
+        "r": "niv:Proverbs:2:1",
+        "t": "My*pn son, if you accept my words and*ld store up my commands within you,"
+    },
+    {
+        "o": 18031,
+        "r": "niv:Proverbs:2:2",
+        "t": "turning*ln your ear to wisdom and*ld applying your heart to understanding—"
+    },
+    {
+        "o": 18032,
+        "r": "niv:Proverbs:2:3",
+        "t": "indeed,*ln if you call out for insight and*ld cry aloud for understanding,"
+    },
+    {
+        "o": 18033,
+        "r": "niv:Proverbs:2:4",
+        "t": "and*ln if you look for it as for silver and*ld search for it as for hidden treasure,"
+    },
+    {
+        "o": 18034,
+        "r": "niv:Proverbs:2:5",
+        "t": "then*ln you will understand the fear of the Lord*s and*ld find the knowledge of God."
+    },
+    {
+        "o": 18035,
+        "r": "niv:Proverbs:2:6",
+        "t": "For*ln the Lord*s gives wisdom; from*ld his mouth come knowledge and understanding."
+    },
+    {
+        "o": 18036,
+        "r": "niv:Proverbs:2:7",
+        "t": "He*ln holds success in store for the upright, he*ld is a shield to those whose walk is blameless,"
+    },
+    {
+        "o": 18037,
+        "r": "niv:Proverbs:2:8",
+        "t": "for*ln he guards the course of the just and*ld protects the way of his faithful ones."
+    },
+    {
+        "o": 18038,
+        "r": "niv:Proverbs:2:9",
+        "t": "Then*pn you will understand what is right and just and*ld fair—every good path."
+    },
+    {
+        "o": 18039,
+        "r": "niv:Proverbs:2:10",
+        "t": "For*ln wisdom will enter your heart, and*ld knowledge will be pleasant to your soul."
+    },
+    {
+        "o": 18040,
+        "r": "niv:Proverbs:2:11",
+        "t": "Discretion*ln will protect you, and*ld understanding will guard you."
+    },
+    {
+        "o": 18041,
+        "r": "niv:Proverbs:2:12",
+        "t": "Wisdom*pn will save you from the ways of wicked men, from*ld men whose words are perverse,"
+    },
+    {
+        "o": 18042,
+        "r": "niv:Proverbs:2:13",
+        "t": "who*ln have left the straight paths to*ld walk in dark ways,"
+    },
+    {
+        "o": 18043,
+        "r": "niv:Proverbs:2:14",
+        "t": "who*ln delight in doing wrong and*ld rejoice in the perverseness of evil,"
+    },
+    {
+        "o": 18044,
+        "r": "niv:Proverbs:2:15",
+        "t": "whose*ln paths are crooked and*ld who are devious in their ways."
+    },
+    {
+        "o": 18045,
+        "r": "niv:Proverbs:2:16",
+        "t": "Wisdom*pn will save you also from the adulterous woman, from*ld the wayward woman with her seductive words,"
+    },
+    {
+        "o": 18046,
+        "r": "niv:Proverbs:2:17",
+        "t": "who*ln has left the partner of her youth and*ld ignored the covenant she made before God."
+    },
+    {
+        "o": 18047,
+        "r": "niv:Proverbs:2:18",
+        "t": "Surely*ln her house leads down to death and*ld her paths to the spirits of the dead."
+    },
+    {
+        "o": 18048,
+        "r": "niv:Proverbs:2:19",
+        "t": "None*ln who go to her return or*ld attain the paths of life."
+    },
+    {
+        "o": 18049,
+        "r": "niv:Proverbs:2:20",
+        "t": "Thus*pn you will walk in the ways of the good and*ld keep to the paths of the righteous."
+    },
+    {
+        "o": 18050,
+        "r": "niv:Proverbs:2:21",
+        "t": "For*ln the upright will live in the land, and*ld the blameless will remain in it;"
+    },
+    {
+        "o": 18051,
+        "r": "niv:Proverbs:2:22",
+        "t": "but*ln the wicked will be cut off from the land, and*ld the unfaithful will be torn from it."
+    },
+    {
+        "o": 18052,
+        "r": "niv:Proverbs:3:0",
+        "t": "Proverbs 3",
+        "h": 1
+    },
+    {
+        "o": 18053,
+        "r": "niv:Proverbs:3:0",
+        "t": "Wisdom Bestows Well-Being",
+        "h": 2
+    },
+    {
+        "o": 18054,
+        "r": "niv:Proverbs:3:1",
+        "t": "My*pn son, do not forget my teaching, but*ld keep my commands in your heart,"
+    },
+    {
+        "o": 18055,
+        "r": "niv:Proverbs:3:2",
+        "t": "for*ln they will prolong your life many years and*ld bring you peace and prosperity."
+    },
+    {
+        "o": 18056,
+        "r": "niv:Proverbs:3:3",
+        "t": "Let*pn love and faithfulness never leave you; bind*ld them around your neck, write*ld them on the tablet of your heart."
+    },
+    {
+        "o": 18057,
+        "r": "niv:Proverbs:3:4",
+        "t": "Then*ln you will win favor and a good name in*ld the sight of God and man."
+    },
+    {
+        "o": 18058,
+        "r": "niv:Proverbs:3:5",
+        "t": "Trust*pn in the Lord*s with all your heart and*ld lean not on your own understanding;"
+    },
+    {
+        "o": 18059,
+        "r": "niv:Proverbs:3:6",
+        "t": "in*ln all your ways submit to him, and*ld he will make your paths straight."
+    },
+    {
+        "o": 18060,
+        "r": "niv:Proverbs:3:7",
+        "t": "Do*pn not be wise in your own eyes; fear*ld the Lord*s and shun evil."
+    },
+    {
+        "o": 18061,
+        "r": "niv:Proverbs:3:8",
+        "t": "This*ln will bring health to your body and*ld nourishment to your bones."
+    },
+    {
+        "o": 18062,
+        "r": "niv:Proverbs:3:9",
+        "t": "Honor*pn the Lord*s with your wealth, with*ld the firstfruits of all your crops;"
+    },
+    {
+        "o": 18063,
+        "r": "niv:Proverbs:3:10",
+        "t": "then*ln your barns will be filled to overflowing, and*ld your vats will brim over with new wine."
+    },
+    {
+        "o": 18064,
+        "r": "niv:Proverbs:3:11",
+        "t": "My*pn son, do not despise the Lord’s*s discipline, and*ld do not resent his rebuke,"
+    },
+    {
+        "o": 18065,
+        "r": "niv:Proverbs:3:12",
+        "t": "because*ln the Lord*s disciplines those he loves, as*ld a father the son he delights in."
+    },
+    {
+        "o": 18066,
+        "r": "niv:Proverbs:3:13",
+        "t": "Blessed*pn are those who find wisdom, those*ld who gain understanding,"
+    },
+    {
+        "o": 18067,
+        "r": "niv:Proverbs:3:14",
+        "t": "for*ln she is more profitable than silver and*ld yields better returns than gold."
+    },
+    {
+        "o": 18068,
+        "r": "niv:Proverbs:3:15",
+        "t": "She*ln is more precious than rubies; nothing*ld you desire can compare with her."
+    },
+    {
+        "o": 18069,
+        "r": "niv:Proverbs:3:16",
+        "t": "Long*ln life is in her right hand; in*ld her left hand are riches and honor."
+    },
+    {
+        "o": 18070,
+        "r": "niv:Proverbs:3:17",
+        "t": "Her*ln ways are pleasant ways, and*ld all her paths are peace."
+    },
+    {
+        "o": 18071,
+        "r": "niv:Proverbs:3:18",
+        "t": "She*ln is a tree of life to those who take hold of her; those*ld who hold her fast will be blessed."
+    },
+    {
+        "o": 18072,
+        "r": "niv:Proverbs:3:19",
+        "t": "By*pn wisdom the Lord*s laid the earth’s foundations, by*ld understanding he set the heavens in place;"
+    },
+    {
+        "o": 18073,
+        "r": "niv:Proverbs:3:20",
+        "t": "by*ln his knowledge the watery depths were divided, and*ld the clouds let drop the dew."
+    },
+    {
+        "o": 18074,
+        "r": "niv:Proverbs:3:21",
+        "t": "My*pn son, do not let wisdom and understanding out of your sight, preserve*ld sound judgment and discretion;"
+    },
+    {
+        "o": 18075,
+        "r": "niv:Proverbs:3:22",
+        "t": "they*ln will be life for you, an*ld ornament to grace your neck."
+    },
+    {
+        "o": 18076,
+        "r": "niv:Proverbs:3:23",
+        "t": "Then*ln you will go on your way in safety, and*ld your foot will not stumble."
+    },
+    {
+        "o": 18077,
+        "r": "niv:Proverbs:3:24",
+        "t": "When*ln you lie down, you will not be afraid; when*ld you lie down, your sleep will be sweet."
+    },
+    {
+        "o": 18078,
+        "r": "niv:Proverbs:3:25",
+        "t": "Have*ln no fear of sudden disaster or*ld of the ruin that overtakes the wicked,"
+    },
+    {
+        "o": 18079,
+        "r": "niv:Proverbs:3:26",
+        "t": "for*ln the Lord*s will be at your side and*ld will keep your foot from being snared."
+    },
+    {
+        "o": 18080,
+        "r": "niv:Proverbs:3:27",
+        "t": "Do*pn not withhold good from those to whom it is due, when*ld it is in your power to act."
+    },
+    {
+        "o": 18081,
+        "r": "niv:Proverbs:3:28",
+        "t": "Do*ln not say to your neighbor, “Come*ld back tomorrow and I’ll give it to you”— when*ld you already have it with you."
+    },
+    {
+        "o": 18082,
+        "r": "niv:Proverbs:3:29",
+        "t": "Do*ln not plot harm against your neighbor, who*ld lives trustfully near you."
+    },
+    {
+        "o": 18083,
+        "r": "niv:Proverbs:3:30",
+        "t": "Do*ln not accuse anyone for no reason— when*ld they have done you no harm."
+    },
+    {
+        "o": 18084,
+        "r": "niv:Proverbs:3:31",
+        "t": "Do*pn not envy the violent or*ld choose any of their ways."
+    },
+    {
+        "o": 18085,
+        "r": "niv:Proverbs:3:32",
+        "t": "For*pn the Lord*s detests the perverse but*ld takes the upright into his confidence."
+    },
+    {
+        "o": 18086,
+        "r": "niv:Proverbs:3:33",
+        "t": "The*ln Lord’s*s curse is on the house of the wicked, but*ld he blesses the home of the righteous."
+    },
+    {
+        "o": 18087,
+        "r": "niv:Proverbs:3:34",
+        "t": "He*ln mocks proud mockers but*ld shows favor to the humble and oppressed."
+    },
+    {
+        "o": 18088,
+        "r": "niv:Proverbs:3:35",
+        "t": "The*ln wise inherit honor, but*ld fools get only shame."
+    },
+    {
+        "o": 18089,
+        "r": "niv:Proverbs:4:0",
+        "t": "Proverbs 4",
+        "h": 1
+    },
+    {
+        "o": 18090,
+        "r": "niv:Proverbs:4:0",
+        "t": "Get Wisdom at Any Cost",
+        "h": 2
+    },
+    {
+        "o": 18091,
+        "r": "niv:Proverbs:4:1",
+        "t": "Listen,*pn my sons, to a father’s instruction; pay*ld attention and gain understanding."
+    },
+    {
+        "o": 18092,
+        "r": "niv:Proverbs:4:2",
+        "t": "I*ln give you sound learning, so*ld do not forsake my teaching."
+    },
+    {
+        "o": 18093,
+        "r": "niv:Proverbs:4:3",
+        "t": "For*ln I too was a son to my father, still*ld tender, and cherished by my mother."
+    },
+    {
+        "o": 18094,
+        "r": "niv:Proverbs:4:4",
+        "t": "Then*ln he taught me, and he said to me, “Take*ld hold of my words with all your heart; keep*ld my commands, and you will live."
+    },
+    {
+        "o": 18095,
+        "r": "niv:Proverbs:4:5",
+        "t": "Get*ln wisdom, get understanding; do*ld not forget my words or turn away from them."
+    },
+    {
+        "o": 18096,
+        "r": "niv:Proverbs:4:6",
+        "t": "Do*ln not forsake wisdom, and she will protect you; love*ld her, and she will watch over you."
+    },
+    {
+        "o": 18097,
+        "r": "niv:Proverbs:4:7",
+        "t": "The*ln beginning of wisdom is this: Get wisdom. Though*ld it cost all you have, get understanding."
+    },
+    {
+        "o": 18098,
+        "r": "niv:Proverbs:4:8",
+        "t": "Cherish*ln her, and she will exalt you; embrace*ld her, and she will honor you."
+    },
+    {
+        "o": 18099,
+        "r": "niv:Proverbs:4:9",
+        "t": "She*ln will give you a garland to grace your head and*ld present you with a glorious crown.”"
+    },
+    {
+        "o": 18100,
+        "r": "niv:Proverbs:4:10",
+        "t": "Listen,*pn my son, accept what I say, and*ld the years of your life will be many."
+    },
+    {
+        "o": 18101,
+        "r": "niv:Proverbs:4:11",
+        "t": "I*ln instruct you in the way of wisdom and*ld lead you along straight paths."
+    },
+    {
+        "o": 18102,
+        "r": "niv:Proverbs:4:12",
+        "t": "When*ln you walk, your steps will not be hampered; when*ld you run, you will not stumble."
+    },
+    {
+        "o": 18103,
+        "r": "niv:Proverbs:4:13",
+        "t": "Hold*ln on to instruction, do not let it go; guard*ld it well, for it is your life."
+    },
+    {
+        "o": 18104,
+        "r": "niv:Proverbs:4:14",
+        "t": "Do*ln not set foot on the path of the wicked or*ld walk in the way of evildoers."
+    },
+    {
+        "o": 18105,
+        "r": "niv:Proverbs:4:15",
+        "t": "Avoid*ln it, do not travel on it; turn*ld from it and go on your way."
+    },
+    {
+        "o": 18106,
+        "r": "niv:Proverbs:4:16",
+        "t": "For*ln they cannot rest until they do evil; they*ld are robbed of sleep till they make someone stumble."
+    },
+    {
+        "o": 18107,
+        "r": "niv:Proverbs:4:17",
+        "t": "They*ln eat the bread of wickedness and*ld drink the wine of violence."
+    },
+    {
+        "o": 18108,
+        "r": "niv:Proverbs:4:18",
+        "t": "The*pn path of the righteous is like the morning sun, shining*ld ever brighter till the full light of day."
+    },
+    {
+        "o": 18109,
+        "r": "niv:Proverbs:4:19",
+        "t": "But*ln the way of the wicked is like deep darkness; they*ld do not know what makes them stumble."
+    },
+    {
+        "o": 18110,
+        "r": "niv:Proverbs:4:20",
+        "t": "My*pn son, pay attention to what I say; turn*ld your ear to my words."
+    },
+    {
+        "o": 18111,
+        "r": "niv:Proverbs:4:21",
+        "t": "Do*ln not let them out of your sight, keep*ld them within your heart;"
+    },
+    {
+        "o": 18112,
+        "r": "niv:Proverbs:4:22",
+        "t": "for*ln they are life to those who find them and*ld health to one’s whole body."
+    },
+    {
+        "o": 18113,
+        "r": "niv:Proverbs:4:23",
+        "t": "Above*ln all else, guard your heart, for*ld everything you do flows from it."
+    },
+    {
+        "o": 18114,
+        "r": "niv:Proverbs:4:24",
+        "t": "Keep*ln your mouth free of perversity; keep*ld corrupt talk far from your lips."
+    },
+    {
+        "o": 18115,
+        "r": "niv:Proverbs:4:25",
+        "t": "Let*ln your eyes look straight ahead; fix*ld your gaze directly before you."
+    },
+    {
+        "o": 18116,
+        "r": "niv:Proverbs:4:26",
+        "t": "Give*ln careful thought to the paths for your feet and*ld be steadfast in all your ways."
+    },
+    {
+        "o": 18117,
+        "r": "niv:Proverbs:4:27",
+        "t": "Do*ln not turn to the right or the left; keep*ld your foot from evil."
+    },
+    {
+        "o": 18118,
+        "r": "niv:Proverbs:5:0",
+        "t": "Proverbs 5",
+        "h": 1
+    },
+    {
+        "o": 18119,
+        "r": "niv:Proverbs:5:0",
+        "t": "Warning Against Adultery",
+        "h": 2
+    },
+    {
+        "o": 18120,
+        "r": "niv:Proverbs:5:1",
+        "t": "My*pn son, pay attention to my wisdom, turn*ld your ear to my words of insight,"
+    },
+    {
+        "o": 18121,
+        "r": "niv:Proverbs:5:2",
+        "t": "that*ln you may maintain discretion and*ld your lips may preserve knowledge."
+    },
+    {
+        "o": 18122,
+        "r": "niv:Proverbs:5:3",
+        "t": "For*ln the lips of the adulterous woman drip honey, and*ld her speech is smoother than oil;"
+    },
+    {
+        "o": 18123,
+        "r": "niv:Proverbs:5:4",
+        "t": "but*ln in the end she is bitter as gall, sharp*ld as a double-edged sword."
+    },
+    {
+        "o": 18124,
+        "r": "niv:Proverbs:5:5",
+        "t": "Her*ln feet go down to death; her*ld steps lead straight to the grave."
+    },
+    {
+        "o": 18125,
+        "r": "niv:Proverbs:5:6",
+        "t": "She*ln gives no thought to the way of life; her*ld paths wander aimlessly, but she does not know it."
+    },
+    {
+        "o": 18126,
+        "r": "niv:Proverbs:5:7",
+        "t": "Now*pn then, my sons, listen to me; do*ld not turn aside from what I say."
+    },
+    {
+        "o": 18127,
+        "r": "niv:Proverbs:5:8",
+        "t": "Keep*ln to a path far from her, do*ld not go near the door of her house,"
+    },
+    {
+        "o": 18128,
+        "r": "niv:Proverbs:5:9",
+        "t": "lest*ln you lose your honor to others and*ld your dignity to one who is cruel,"
+    },
+    {
+        "o": 18129,
+        "r": "niv:Proverbs:5:10",
+        "t": "lest*ln strangers feast on your wealth and*ld your toil enrich the house of another."
+    },
+    {
+        "o": 18130,
+        "r": "niv:Proverbs:5:11",
+        "t": "At*ln the end of your life you will groan, when*ld your flesh and body are spent."
+    },
+    {
+        "o": 18131,
+        "r": "niv:Proverbs:5:12",
+        "t": "You*ln will say, “How I hated discipline! How*ld my heart spurned correction!"
+    },
+    {
+        "o": 18132,
+        "r": "niv:Proverbs:5:13",
+        "t": "I*ln would not obey my teachers or*ld turn my ear to my instructors."
+    },
+    {
+        "o": 18133,
+        "r": "niv:Proverbs:5:14",
+        "t": "And*ln I was soon in serious trouble in*ld the assembly of God’s people.”"
+    },
+    {
+        "o": 18134,
+        "r": "niv:Proverbs:5:15",
+        "t": "Drink*pn water from your own cistern, running*ld water from your own well."
+    },
+    {
+        "o": 18135,
+        "r": "niv:Proverbs:5:16",
+        "t": "Should*ln your springs overflow in the streets, your*ld streams of water in the public squares?"
+    },
+    {
+        "o": 18136,
+        "r": "niv:Proverbs:5:17",
+        "t": "Let*ln them be yours alone, never*ld to be shared with strangers."
+    },
+    {
+        "o": 18137,
+        "r": "niv:Proverbs:5:18",
+        "t": "May*ln your fountain be blessed, and*ld may you rejoice in the wife of your youth."
+    },
+    {
+        "o": 18138,
+        "r": "niv:Proverbs:5:19",
+        "t": "A*ln loving doe, a graceful deer— may*ld her breasts satisfy you always, may*ld you ever be intoxicated with her love."
+    },
+    {
+        "o": 18139,
+        "r": "niv:Proverbs:5:20",
+        "t": "Why,*ln my son, be intoxicated with another man’s wife? Why*ld embrace the bosom of a wayward woman?"
+    },
+    {
+        "o": 18140,
+        "r": "niv:Proverbs:5:21",
+        "t": "For*pn your ways are in full view of the Lord,*s and*ld he examines all your paths."
+    },
+    {
+        "o": 18141,
+        "r": "niv:Proverbs:5:22",
+        "t": "The*ln evil deeds of the wicked ensnare them; the*ld cords of their sins hold them fast."
+    },
+    {
+        "o": 18142,
+        "r": "niv:Proverbs:5:23",
+        "t": "For*ln lack of discipline they will die, led*ld astray by their own great folly."
+    },
+    {
+        "o": 18143,
+        "r": "niv:Proverbs:6:0",
+        "t": "Proverbs 6",
+        "h": 1
+    },
+    {
+        "o": 18144,
+        "r": "niv:Proverbs:6:0",
+        "t": "Warnings Against Folly",
+        "h": 2
+    },
+    {
+        "o": 18145,
+        "r": "niv:Proverbs:6:1",
+        "t": "My*pn son, if you have put up security for your neighbor, if*ld you have shaken hands in pledge for a stranger,"
+    },
+    {
+        "o": 18146,
+        "r": "niv:Proverbs:6:2",
+        "t": "you*ln have been trapped by what you said, ensnared*ld by the words of your mouth."
+    },
+    {
+        "o": 18147,
+        "r": "niv:Proverbs:6:3",
+        "t": "So*ln do this, my son, to free yourself, since*ld you have fallen into your neighbor’s hands: Go—to*ln the point of exhaustion— and*ld give your neighbor no rest!"
+    },
+    {
+        "o": 18148,
+        "r": "niv:Proverbs:6:4",
+        "t": "Allow*ln no sleep to your eyes, no*ld slumber to your eyelids."
+    },
+    {
+        "o": 18149,
+        "r": "niv:Proverbs:6:5",
+        "t": "Free*ln yourself, like a gazelle from the hand of the hunter, like*ld a bird from the snare of the fowler."
+    },
+    {
+        "o": 18150,
+        "r": "niv:Proverbs:6:6",
+        "t": "Go*pn to the ant, you sluggard; consider*ld its ways and be wise!"
+    },
+    {
+        "o": 18151,
+        "r": "niv:Proverbs:6:7",
+        "t": "It*ln has no commander, no*ld overseer or ruler,"
+    },
+    {
+        "o": 18152,
+        "r": "niv:Proverbs:6:8",
+        "t": "yet*ln it stores its provisions in summer and*ld gathers its food at harvest."
+    },
+    {
+        "o": 18153,
+        "r": "niv:Proverbs:6:9",
+        "t": "How*pn long will you lie there, you sluggard? When*ld will you get up from your sleep?"
+    },
+    {
+        "o": 18154,
+        "r": "niv:Proverbs:6:10",
+        "t": "A*ln little sleep, a little slumber, a*ld little folding of the hands to rest—"
+    },
+    {
+        "o": 18155,
+        "r": "niv:Proverbs:6:11",
+        "t": "and*ln poverty will come on you like a thief and*ld scarcity like an armed man."
+    },
+    {
+        "o": 18156,
+        "r": "niv:Proverbs:6:12",
+        "t": "A*pn troublemaker and a villain, who*ld goes about with a corrupt mouth,"
+    },
+    {
+        "o": 18157,
+        "r": "niv:Proverbs:6:13",
+        "t": "who*ld winks maliciously with his eye, signals*ld with his feet and*ld motions with his fingers,"
+    },
+    {
+        "o": 18158,
+        "r": "niv:Proverbs:6:14",
+        "t": "who*ld plots evil with deceit in his heart— he*ld always stirs up conflict."
+    },
+    {
+        "o": 18159,
+        "r": "niv:Proverbs:6:15",
+        "t": "Therefore*ln disaster will overtake him in an instant; he*ld will suddenly be destroyed—without remedy."
+    },
+    {
+        "o": 18160,
+        "r": "niv:Proverbs:6:16",
+        "t": "There*pn are six things the Lord*s hates, seven*ld that are detestable to him:"
+    },
+    {
+        "o": 18161,
+        "r": "niv:Proverbs:6:17",
+        "t": "haughty*ld eyes, a*ld lying tongue, hands*ld that shed innocent blood,"
+    },
+    {
+        "o": 18162,
+        "r": "niv:Proverbs:6:18",
+        "t": "a*ld heart that devises wicked schemes, feet*ld that are quick to rush into evil,"
+    },
+    {
+        "o": 18163,
+        "r": "niv:Proverbs:6:19",
+        "t": "a*ld false witness who pours out lies and*ld a person who stirs up conflict in the community."
+    },
+    {
+        "o": 18164,
+        "r": "niv:Proverbs:6:19",
+        "t": "Warning Against Adultery",
+        "h": 2
+    },
+    {
+        "o": 18165,
+        "r": "niv:Proverbs:6:20",
+        "t": "My*pn son, keep your father’s command and*ld do not forsake your mother’s teaching."
+    },
+    {
+        "o": 18166,
+        "r": "niv:Proverbs:6:21",
+        "t": "Bind*ln them always on your heart; fasten*ld them around your neck."
+    },
+    {
+        "o": 18167,
+        "r": "niv:Proverbs:6:22",
+        "t": "When*ln you walk, they will guide you; when*ld you sleep, they will watch over you; when*ld you awake, they will speak to you."
+    },
+    {
+        "o": 18168,
+        "r": "niv:Proverbs:6:23",
+        "t": "For*ln this command is a lamp, this*ld teaching is a light, and*ln correction and instruction are*ld the way to life,"
+    },
+    {
+        "o": 18169,
+        "r": "niv:Proverbs:6:24",
+        "t": "keeping*ln you from your neighbor’s wife, from*ld the smooth talk of a wayward woman."
+    },
+    {
+        "o": 18170,
+        "r": "niv:Proverbs:6:25",
+        "t": "Do*pn not lust in your heart after her beauty or*ld let her captivate you with her eyes."
+    },
+    {
+        "o": 18171,
+        "r": "niv:Proverbs:6:26",
+        "t": "For*pn a prostitute can be had for a loaf of bread, but*ld another man’s wife preys on your very life."
+    },
+    {
+        "o": 18172,
+        "r": "niv:Proverbs:6:27",
+        "t": "Can*ln a man scoop fire into his lap without*ld his clothes being burned?"
+    },
+    {
+        "o": 18173,
+        "r": "niv:Proverbs:6:28",
+        "t": "Can*ln a man walk on hot coals without*ld his feet being scorched?"
+    },
+    {
+        "o": 18174,
+        "r": "niv:Proverbs:6:29",
+        "t": "So*ln is he who sleeps with another man’s wife; no*ld one who touches her will go unpunished."
+    },
+    {
+        "o": 18175,
+        "r": "niv:Proverbs:6:30",
+        "t": "People*pn do not despise a thief if he steals to*ld satisfy his hunger when he is starving."
+    },
+    {
+        "o": 18176,
+        "r": "niv:Proverbs:6:31",
+        "t": "Yet*ln if he is caught, he must pay sevenfold, though*ld it costs him all the wealth of his house."
+    },
+    {
+        "o": 18177,
+        "r": "niv:Proverbs:6:32",
+        "t": "But*ln a man who commits adultery has no sense; whoever*ld does so destroys himself."
+    },
+    {
+        "o": 18178,
+        "r": "niv:Proverbs:6:33",
+        "t": "Blows*ln and disgrace are his lot, and*ld his shame will never be wiped away."
+    },
+    {
+        "o": 18179,
+        "r": "niv:Proverbs:6:34",
+        "t": "For*pn jealousy arouses a husband’s fury, and*ld he will show no mercy when he takes revenge."
+    },
+    {
+        "o": 18180,
+        "r": "niv:Proverbs:6:35",
+        "t": "He*ln will not accept any compensation; he*ld will refuse a bribe, however great it is."
+    },
+    {
+        "o": 18181,
+        "r": "niv:Proverbs:7:0",
+        "t": "Proverbs 7",
+        "h": 1
+    },
+    {
+        "o": 18182,
+        "r": "niv:Proverbs:7:0",
+        "t": "Warning Against the Adulterous Woman",
+        "h": 2
+    },
+    {
+        "o": 18183,
+        "r": "niv:Proverbs:7:1",
+        "t": "My*pn son, keep my words and*ld store up my commands within you."
+    },
+    {
+        "o": 18184,
+        "r": "niv:Proverbs:7:2",
+        "t": "Keep*ln my commands and you will live; guard*ld my teachings as the apple of your eye."
+    },
+    {
+        "o": 18185,
+        "r": "niv:Proverbs:7:3",
+        "t": "Bind*ln them on your fingers; write*ld them on the tablet of your heart."
+    },
+    {
+        "o": 18186,
+        "r": "niv:Proverbs:7:4",
+        "t": "Say*ln to wisdom, “You are my sister,” and*ld to insight, “You are my relative.”"
+    },
+    {
+        "o": 18187,
+        "r": "niv:Proverbs:7:5",
+        "t": "They*ln will keep you from the adulterous woman, from*ld the wayward woman with her seductive words."
+    },
+    {
+        "o": 18188,
+        "r": "niv:Proverbs:7:6",
+        "t": "At*pn the window of my house I*ld looked down through the lattice."
+    },
+    {
+        "o": 18189,
+        "r": "niv:Proverbs:7:7",
+        "t": "I*ln saw among the simple, I*ld noticed among the young men, a*ld youth who had no sense."
+    },
+    {
+        "o": 18190,
+        "r": "niv:Proverbs:7:8",
+        "t": "He*ln was going down the street near her corner, walking*ld along in the direction of her house"
+    },
+    {
+        "o": 18191,
+        "r": "niv:Proverbs:7:9",
+        "t": "at*ln twilight, as the day was fading, as*ld the dark of night set in."
+    },
+    {
+        "o": 18192,
+        "r": "niv:Proverbs:7:10",
+        "t": "Then*pn out came a woman to meet him, dressed*ld like a prostitute and with crafty intent."
+    },
+    {
+        "o": 18193,
+        "r": "niv:Proverbs:7:11",
+        "t": "(She*ln is unruly and defiant, her*ld feet never stay at home;"
+    },
+    {
+        "o": 18194,
+        "r": "niv:Proverbs:7:12",
+        "t": "now*ln in the street, now in the squares, at*ld every corner she lurks.)"
+    },
+    {
+        "o": 18195,
+        "r": "niv:Proverbs:7:13",
+        "t": "She*ln took hold of him and kissed him and*ld with a brazen face she said:"
+    },
+    {
+        "o": 18196,
+        "r": "niv:Proverbs:7:14",
+        "t": "“Today*pn I fulfilled my vows, and*ld I have food from my fellowship offering at home."
+    },
+    {
+        "o": 18197,
+        "r": "niv:Proverbs:7:15",
+        "t": "So*ln I came out to meet you; I*ld looked for you and have found you!"
+    },
+    {
+        "o": 18198,
+        "r": "niv:Proverbs:7:16",
+        "t": "I*ln have covered my bed with*ld colored linens from Egypt."
+    },
+    {
+        "o": 18199,
+        "r": "niv:Proverbs:7:17",
+        "t": "I*ln have perfumed my bed with*ld myrrh, aloes and cinnamon."
+    },
+    {
+        "o": 18200,
+        "r": "niv:Proverbs:7:18",
+        "t": "Come,*ln let’s drink deeply of love till morning; let’s*ld enjoy ourselves with love!"
+    },
+    {
+        "o": 18201,
+        "r": "niv:Proverbs:7:19",
+        "t": "My*ln husband is not at home; he*ld has gone on a long journey."
+    },
+    {
+        "o": 18202,
+        "r": "niv:Proverbs:7:20",
+        "t": "He*ln took his purse filled with money and*ld will not be home till full moon.”"
+    },
+    {
+        "o": 18203,
+        "r": "niv:Proverbs:7:21",
+        "t": "With*pn persuasive words she led him astray; she*ld seduced him with her smooth talk."
+    },
+    {
+        "o": 18204,
+        "r": "niv:Proverbs:7:22",
+        "t": "All*ln at once he followed her like*ld an ox going to the slaughter, like*ln a deer stepping into a noose"
+    },
+    {
+        "o": 18205,
+        "r": "niv:Proverbs:7:23",
+        "t": "till*ld an arrow pierces his liver, like*ln a bird darting into a snare, little*ld knowing it will cost him his life."
+    },
+    {
+        "o": 18206,
+        "r": "niv:Proverbs:7:24",
+        "t": "Now*pn then, my sons, listen to me; pay*ld attention to what I say."
+    },
+    {
+        "o": 18207,
+        "r": "niv:Proverbs:7:25",
+        "t": "Do*ln not let your heart turn to her ways or*ld stray into her paths."
+    },
+    {
+        "o": 18208,
+        "r": "niv:Proverbs:7:26",
+        "t": "Many*ln are the victims she has brought down; her*ld slain are a mighty throng."
+    },
+    {
+        "o": 18209,
+        "r": "niv:Proverbs:7:27",
+        "t": "Her*ln house is a highway to the grave, leading*ld down to the chambers of death."
+    },
+    {
+        "o": 18210,
+        "r": "niv:Proverbs:8:0",
+        "t": "Proverbs 8",
+        "h": 1
+    },
+    {
+        "o": 18211,
+        "r": "niv:Proverbs:8:0",
+        "t": "Wisdom’s Call",
+        "h": 2
+    },
+    {
+        "o": 18212,
+        "r": "niv:Proverbs:8:1",
+        "t": "Does*pn not wisdom call out? Does*ld not understanding raise her voice?"
+    },
+    {
+        "o": 18213,
+        "r": "niv:Proverbs:8:2",
+        "t": "At*ln the highest point along the way, where*ld the paths meet, she takes her stand;"
+    },
+    {
+        "o": 18214,
+        "r": "niv:Proverbs:8:3",
+        "t": "beside*ln the gate leading into the city, at*ld the entrance, she cries aloud:"
+    },
+    {
+        "o": 18215,
+        "r": "niv:Proverbs:8:4",
+        "t": "“To*ln you, O people, I call out; I*ld raise my voice to all mankind."
+    },
+    {
+        "o": 18216,
+        "r": "niv:Proverbs:8:5",
+        "t": "You*ln who are simple, gain prudence; you*ld who are foolish, set your hearts on it."
+    },
+    {
+        "o": 18217,
+        "r": "niv:Proverbs:8:6",
+        "t": "Listen,*ln for I have trustworthy things to say; I*ld open my lips to speak what is right."
+    },
+    {
+        "o": 18218,
+        "r": "niv:Proverbs:8:7",
+        "t": "My*ln mouth speaks what is true, for*ld my lips detest wickedness."
+    },
+    {
+        "o": 18219,
+        "r": "niv:Proverbs:8:8",
+        "t": "All*ln the words of my mouth are just; none*ld of them is crooked or perverse."
+    },
+    {
+        "o": 18220,
+        "r": "niv:Proverbs:8:9",
+        "t": "To*ln the discerning all of them are right; they*ld are upright to those who have found knowledge."
+    },
+    {
+        "o": 18221,
+        "r": "niv:Proverbs:8:10",
+        "t": "Choose*ln my instruction instead of silver, knowledge*ld rather than choice gold,"
+    },
+    {
+        "o": 18222,
+        "r": "niv:Proverbs:8:11",
+        "t": "for*ln wisdom is more precious than rubies, and*ld nothing you desire can compare with her."
+    },
+    {
+        "o": 18223,
+        "r": "niv:Proverbs:8:12",
+        "t": "“I,*pn wisdom, dwell together with prudence; I*ld possess knowledge and discretion."
+    },
+    {
+        "o": 18224,
+        "r": "niv:Proverbs:8:13",
+        "t": "To*ln fear the Lord*s is to hate evil; I*ld hate pride and arrogance, evil*ld behavior and perverse speech."
+    },
+    {
+        "o": 18225,
+        "r": "niv:Proverbs:8:14",
+        "t": "Counsel*ln and sound judgment are mine; I*ld have insight, I have power."
+    },
+    {
+        "o": 18226,
+        "r": "niv:Proverbs:8:15",
+        "t": "By*ln me kings reign and*ld rulers issue decrees that are just;"
+    },
+    {
+        "o": 18227,
+        "r": "niv:Proverbs:8:16",
+        "t": "by*ln me princes govern, and*ld nobles—all who rule on earth."
+    },
+    {
+        "o": 18228,
+        "r": "niv:Proverbs:8:17",
+        "t": "I*ln love those who love me, and*ld those who seek me find me."
+    },
+    {
+        "o": 18229,
+        "r": "niv:Proverbs:8:18",
+        "t": "With*ln me are riches and honor, enduring*ld wealth and prosperity."
+    },
+    {
+        "o": 18230,
+        "r": "niv:Proverbs:8:19",
+        "t": "My*ln fruit is better than fine gold; what*ld I yield surpasses choice silver."
+    },
+    {
+        "o": 18231,
+        "r": "niv:Proverbs:8:20",
+        "t": "I*ln walk in the way of righteousness, along*ld the paths of justice,"
+    },
+    {
+        "o": 18232,
+        "r": "niv:Proverbs:8:21",
+        "t": "bestowing*ln a rich inheritance on those who love me and*ld making their treasuries full."
+    },
+    {
+        "o": 18233,
+        "r": "niv:Proverbs:8:22",
+        "t": "“The*pn Lord*s brought me forth as the first of his works, before*ld his deeds of old;"
+    },
+    {
+        "o": 18234,
+        "r": "niv:Proverbs:8:23",
+        "t": "I*ln was formed long ages ago, at*ld the very beginning, when the world came to be."
+    },
+    {
+        "o": 18235,
+        "r": "niv:Proverbs:8:24",
+        "t": "When*ln there were no watery depths, I was given birth, when*ld there were no springs overflowing with water;"
+    },
+    {
+        "o": 18236,
+        "r": "niv:Proverbs:8:25",
+        "t": "before*ln the mountains were settled in place, before*ld the hills, I was given birth,"
+    },
+    {
+        "o": 18237,
+        "r": "niv:Proverbs:8:26",
+        "t": "before*ln he made the world or its fields or*ld any of the dust of the earth."
+    },
+    {
+        "o": 18238,
+        "r": "niv:Proverbs:8:27",
+        "t": "I*ln was there when he set the heavens in place, when*ld he marked out the horizon on the face of the deep,"
+    },
+    {
+        "o": 18239,
+        "r": "niv:Proverbs:8:28",
+        "t": "when*ln he established the clouds above and*ld fixed securely the fountains of the deep,"
+    },
+    {
+        "o": 18240,
+        "r": "niv:Proverbs:8:29",
+        "t": "when*ln he gave the sea its boundary so*ld the waters would not overstep his command, and*ln when he marked out the foundations of the earth."
+    },
+    {
+        "o": 18241,
+        "r": "niv:Proverbs:8:30",
+        "t": "Then*ld I was constantly at his side. I*ln was filled with delight day after day, rejoicing*ld always in his presence,"
+    },
+    {
+        "o": 18242,
+        "r": "niv:Proverbs:8:31",
+        "t": "rejoicing*ln in his whole world and*ld delighting in mankind."
+    },
+    {
+        "o": 18243,
+        "r": "niv:Proverbs:8:32",
+        "t": "“Now*pn then, my children, listen to me; blessed*ld are those who keep my ways."
+    },
+    {
+        "o": 18244,
+        "r": "niv:Proverbs:8:33",
+        "t": "Listen*ln to my instruction and be wise; do*ld not disregard it."
+    },
+    {
+        "o": 18245,
+        "r": "niv:Proverbs:8:34",
+        "t": "Blessed*ln are those who listen to me, watching*ld daily at my doors, waiting*ld at my doorway."
+    },
+    {
+        "o": 18246,
+        "r": "niv:Proverbs:8:35",
+        "t": "For*ln those who find me find life and*ld receive favor from the Lord.*s"
+    },
+    {
+        "o": 18247,
+        "r": "niv:Proverbs:8:36",
+        "t": "But*ln those who fail to find me harm themselves; all*ld who hate me love death.”"
+    },
+    {
+        "o": 18248,
+        "r": "niv:Proverbs:9:0",
+        "t": "Proverbs 9",
+        "h": 1
+    },
+    {
+        "o": 18249,
+        "r": "niv:Proverbs:9:0",
+        "t": "Invitations of Wisdom and Folly",
+        "h": 2
+    },
+    {
+        "o": 18250,
+        "r": "niv:Proverbs:9:1",
+        "t": "Wisdom*pn has built her house; she*ld has set up its seven pillars."
+    },
+    {
+        "o": 18251,
+        "r": "niv:Proverbs:9:2",
+        "t": "She*ln has prepared her meat and mixed her wine; she*ld has also set her table."
+    },
+    {
+        "o": 18252,
+        "r": "niv:Proverbs:9:3",
+        "t": "She*ln has sent out her servants, and she calls from*ld the highest point of the city,"
+    },
+    {
+        "o": 18253,
+        "r": "niv:Proverbs:9:4",
+        "t": "“Let*ld all who are simple come to my house!” To*ln those who have no sense she says,"
+    },
+    {
+        "o": 18254,
+        "r": "niv:Proverbs:9:5",
+        "t": "“Come,*ld eat my food and*ld drink the wine I have mixed."
+    },
+    {
+        "o": 18255,
+        "r": "niv:Proverbs:9:6",
+        "t": "Leave*ln your simple ways and you will live; walk*ld in the way of insight.”"
+    },
+    {
+        "o": 18256,
+        "r": "niv:Proverbs:9:7",
+        "t": "Whoever*pn corrects a mocker invites insults; whoever*ld rebukes the wicked incurs abuse."
+    },
+    {
+        "o": 18257,
+        "r": "niv:Proverbs:9:8",
+        "t": "Do*ln not rebuke mockers or they will hate you; rebuke*ld the wise and they will love you."
+    },
+    {
+        "o": 18258,
+        "r": "niv:Proverbs:9:9",
+        "t": "Instruct*ln the wise and they will be wiser still; teach*ld the righteous and they will add to their learning."
+    },
+    {
+        "o": 18259,
+        "r": "niv:Proverbs:9:10",
+        "t": "The*pn fear of the Lord*s is the beginning of wisdom, and*ld knowledge of the Holy One is understanding."
+    },
+    {
+        "o": 18260,
+        "r": "niv:Proverbs:9:11",
+        "t": "For*ln through wisdom your days will be many, and*ld years will be added to your life."
+    },
+    {
+        "o": 18261,
+        "r": "niv:Proverbs:9:12",
+        "t": "If*ln you are wise, your wisdom will reward you; if*ld you are a mocker, you alone will suffer."
+    },
+    {
+        "o": 18262,
+        "r": "niv:Proverbs:9:13",
+        "t": "Folly*pn is an unruly woman; she*ld is simple and knows nothing."
+    },
+    {
+        "o": 18263,
+        "r": "niv:Proverbs:9:14",
+        "t": "She*ln sits at the door of her house, on*ld a seat at the highest point of the city,"
+    },
+    {
+        "o": 18264,
+        "r": "niv:Proverbs:9:15",
+        "t": "calling*ln out to those who pass by, who*ld go straight on their way,"
+    },
+    {
+        "o": 18265,
+        "r": "niv:Proverbs:9:16",
+        "t": "“Let*ld all who are simple come to my house!” To*ln those who have no sense she says,"
+    },
+    {
+        "o": 18266,
+        "r": "niv:Proverbs:9:17",
+        "t": "“Stolen*ld water is sweet; food*ld eaten in secret is delicious!”"
+    },
+    {
+        "o": 18267,
+        "r": "niv:Proverbs:9:18",
+        "t": "But*ln little do they know that the dead are there, that*ld her guests are deep in the realm of the dead."
+    },
+    {
+        "o": 18268,
+        "r": "niv:Proverbs:10:0",
+        "t": "Proverbs 10",
+        "h": 1
+    },
+    {
+        "o": 18269,
+        "r": "niv:Proverbs:10:0",
+        "t": "Proverbs of Solomon",
+        "h": 2.5
+    },
+    {
+        "o": 18270,
+        "r": "niv:Proverbs:10:1",
+        "t": "The*p proverbs of Solomon: A*pn wise son brings joy to his father, but*ld a foolish son brings grief to his mother."
+    },
+    {
+        "o": 18271,
+        "r": "niv:Proverbs:10:2",
+        "t": "Ill-gotten*pn treasures have no lasting value, but*ld righteousness delivers from death."
+    },
+    {
+        "o": 18272,
+        "r": "niv:Proverbs:10:3",
+        "t": "The*pn Lord*s does not let the righteous go hungry, but*ld he thwarts the craving of the wicked."
+    },
+    {
+        "o": 18273,
+        "r": "niv:Proverbs:10:4",
+        "t": "Lazy*pn hands make for poverty, but*ld diligent hands bring wealth."
+    },
+    {
+        "o": 18274,
+        "r": "niv:Proverbs:10:5",
+        "t": "He*pn who gathers crops in summer is a prudent son, but*ld he who sleeps during harvest is a disgraceful son."
+    },
+    {
+        "o": 18275,
+        "r": "niv:Proverbs:10:6",
+        "t": "Blessings*pn crown the head of the righteous, but*ld violence overwhelms the mouth of the wicked."
+    },
+    {
+        "o": 18276,
+        "r": "niv:Proverbs:10:7",
+        "t": "The*pn name of the righteous is used in blessings, but*ld the name of the wicked will rot."
+    },
+    {
+        "o": 18277,
+        "r": "niv:Proverbs:10:8",
+        "t": "The*pn wise in heart accept commands, but*ld a chattering fool comes to ruin."
+    },
+    {
+        "o": 18278,
+        "r": "niv:Proverbs:10:9",
+        "t": "Whoever*pn walks in integrity walks securely, but*ld whoever takes crooked paths will be found out."
+    },
+    {
+        "o": 18279,
+        "r": "niv:Proverbs:10:10",
+        "t": "Whoever*pn winks maliciously causes grief, and*ld a chattering fool comes to ruin."
+    },
+    {
+        "o": 18280,
+        "r": "niv:Proverbs:10:11",
+        "t": "The*pn mouth of the righteous is a fountain of life, but*ld the mouth of the wicked conceals violence."
+    },
+    {
+        "o": 18281,
+        "r": "niv:Proverbs:10:12",
+        "t": "Hatred*pn stirs up conflict, but*ld love covers over all wrongs."
+    },
+    {
+        "o": 18282,
+        "r": "niv:Proverbs:10:13",
+        "t": "Wisdom*pn is found on the lips of the discerning, but*ld a rod is for the back of one who has no sense."
+    },
+    {
+        "o": 18283,
+        "r": "niv:Proverbs:10:14",
+        "t": "The*pn wise store up knowledge, but*ld the mouth of a fool invites ruin."
+    },
+    {
+        "o": 18284,
+        "r": "niv:Proverbs:10:15",
+        "t": "The*pn wealth of the rich is their fortified city, but*ld poverty is the ruin of the poor."
+    },
+    {
+        "o": 18285,
+        "r": "niv:Proverbs:10:16",
+        "t": "The*pn wages of the righteous is life, but*ld the earnings of the wicked are sin and death."
+    },
+    {
+        "o": 18286,
+        "r": "niv:Proverbs:10:17",
+        "t": "Whoever*pn heeds discipline shows the way to life, but*ld whoever ignores correction leads others astray."
+    },
+    {
+        "o": 18287,
+        "r": "niv:Proverbs:10:18",
+        "t": "Whoever*pn conceals hatred with lying lips and*ld spreads slander is a fool."
+    },
+    {
+        "o": 18288,
+        "r": "niv:Proverbs:10:19",
+        "t": "Sin*pn is not ended by multiplying words, but*ld the prudent hold their tongues."
+    },
+    {
+        "o": 18289,
+        "r": "niv:Proverbs:10:20",
+        "t": "The*pn tongue of the righteous is choice silver, but*ld the heart of the wicked is of little value."
+    },
+    {
+        "o": 18290,
+        "r": "niv:Proverbs:10:21",
+        "t": "The*pn lips of the righteous nourish many, but*ld fools die for lack of sense."
+    },
+    {
+        "o": 18291,
+        "r": "niv:Proverbs:10:22",
+        "t": "The*pn blessing of the Lord*s brings wealth, without*ld painful toil for it."
+    },
+    {
+        "o": 18292,
+        "r": "niv:Proverbs:10:23",
+        "t": "A*pn fool finds pleasure in wicked schemes, but*ld a person of understanding delights in wisdom."
+    },
+    {
+        "o": 18293,
+        "r": "niv:Proverbs:10:24",
+        "t": "What*pn the wicked dread will overtake them; what*ld the righteous desire will be granted."
+    },
+    {
+        "o": 18294,
+        "r": "niv:Proverbs:10:25",
+        "t": "When*pn the storm has swept by, the wicked are gone, but*ld the righteous stand firm forever."
+    },
+    {
+        "o": 18295,
+        "r": "niv:Proverbs:10:26",
+        "t": "As*pn vinegar to the teeth and smoke to the eyes, so*ld are sluggards to those who send them."
+    },
+    {
+        "o": 18296,
+        "r": "niv:Proverbs:10:27",
+        "t": "The*pn fear of the Lord*s adds length to life, but*ld the years of the wicked are cut short."
+    },
+    {
+        "o": 18297,
+        "r": "niv:Proverbs:10:28",
+        "t": "The*pn prospect of the righteous is joy, but*ld the hopes of the wicked come to nothing."
+    },
+    {
+        "o": 18298,
+        "r": "niv:Proverbs:10:29",
+        "t": "The*pn way of the Lord*s is a refuge for the blameless, but*ld it is the ruin of those who do evil."
+    },
+    {
+        "o": 18299,
+        "r": "niv:Proverbs:10:30",
+        "t": "The*pn righteous will never be uprooted, but*ld the wicked will not remain in the land."
+    },
+    {
+        "o": 18300,
+        "r": "niv:Proverbs:10:31",
+        "t": "From*pn the mouth of the righteous comes the fruit of wisdom, but*ld a perverse tongue will be silenced."
+    },
+    {
+        "o": 18301,
+        "r": "niv:Proverbs:10:32",
+        "t": "The*pn lips of the righteous know what finds favor, but*ld the mouth of the wicked only what is perverse."
+    },
+    {
+        "o": 18302,
+        "r": "niv:Proverbs:11:0",
+        "t": "Proverbs 11",
+        "h": 1
+    },
+    {
+        "o": 18303,
+        "r": "niv:Proverbs:11:1",
+        "t": "The*pn Lord*s detests dishonest scales, but*ld accurate weights find favor with him."
+    },
+    {
+        "o": 18304,
+        "r": "niv:Proverbs:11:2",
+        "t": "When*pn pride comes, then comes disgrace, but*ld with humility comes wisdom."
+    },
+    {
+        "o": 18305,
+        "r": "niv:Proverbs:11:3",
+        "t": "The*pn integrity of the upright guides them, but*ld the unfaithful are destroyed by their duplicity."
+    },
+    {
+        "o": 18306,
+        "r": "niv:Proverbs:11:4",
+        "t": "Wealth*pn is worthless in the day of wrath, but*ld righteousness delivers from death."
+    },
+    {
+        "o": 18307,
+        "r": "niv:Proverbs:11:5",
+        "t": "The*pn righteousness of the blameless makes their paths straight, but*ld the wicked are brought down by their own wickedness."
+    },
+    {
+        "o": 18308,
+        "r": "niv:Proverbs:11:6",
+        "t": "The*pn righteousness of the upright delivers them, but*ld the unfaithful are trapped by evil desires."
+    },
+    {
+        "o": 18309,
+        "r": "niv:Proverbs:11:7",
+        "t": "Hopes*pn placed in mortals die with them; all*ld the promise of their power comes to nothing."
+    },
+    {
+        "o": 18310,
+        "r": "niv:Proverbs:11:8",
+        "t": "The*pn righteous person is rescued from trouble, and*ld it falls on the wicked instead."
+    },
+    {
+        "o": 18311,
+        "r": "niv:Proverbs:11:9",
+        "t": "With*pn their mouths the godless destroy their neighbors, but*ld through knowledge the righteous escape."
+    },
+    {
+        "o": 18312,
+        "r": "niv:Proverbs:11:10",
+        "t": "When*pn the righteous prosper, the city rejoices; when*ld the wicked perish, there are shouts of joy."
+    },
+    {
+        "o": 18313,
+        "r": "niv:Proverbs:11:11",
+        "t": "Through*pn the blessing of the upright a city is exalted, but*ld by the mouth of the wicked it is destroyed."
+    },
+    {
+        "o": 18314,
+        "r": "niv:Proverbs:11:12",
+        "t": "Whoever*pn derides their neighbor has no sense, but*ld the one who has understanding holds their tongue."
+    },
+    {
+        "o": 18315,
+        "r": "niv:Proverbs:11:13",
+        "t": "A*pn gossip betrays a confidence, but*ld a trustworthy person keeps a secret."
+    },
+    {
+        "o": 18316,
+        "r": "niv:Proverbs:11:14",
+        "t": "For*pn lack of guidance a nation falls, but*ld victory is won through many advisers."
+    },
+    {
+        "o": 18317,
+        "r": "niv:Proverbs:11:15",
+        "t": "Whoever*pn puts up security for a stranger will surely suffer, but*ld whoever refuses to shake hands in pledge is safe."
+    },
+    {
+        "o": 18318,
+        "r": "niv:Proverbs:11:16",
+        "t": "A*pn kindhearted woman gains honor, but*ld ruthless men gain only wealth."
+    },
+    {
+        "o": 18319,
+        "r": "niv:Proverbs:11:17",
+        "t": "Those*pn who are kind benefit themselves, but*ld the cruel bring ruin on themselves."
+    },
+    {
+        "o": 18320,
+        "r": "niv:Proverbs:11:18",
+        "t": "A*pn wicked person earns deceptive wages, but*ld the one who sows righteousness reaps a sure reward."
+    },
+    {
+        "o": 18321,
+        "r": "niv:Proverbs:11:19",
+        "t": "Truly*pn the righteous attain life, but*ld whoever pursues evil finds death."
+    },
+    {
+        "o": 18322,
+        "r": "niv:Proverbs:11:20",
+        "t": "The*pn Lord*s detests those whose hearts are perverse, but*ld he delights in those whose ways are blameless."
+    },
+    {
+        "o": 18323,
+        "r": "niv:Proverbs:11:21",
+        "t": "Be*pn sure of this: The wicked will not go unpunished, but*ld those who are righteous will go free."
+    },
+    {
+        "o": 18324,
+        "r": "niv:Proverbs:11:22",
+        "t": "Like*pn a gold ring in a pig’s snout is*ld a beautiful woman who shows no discretion."
+    },
+    {
+        "o": 18325,
+        "r": "niv:Proverbs:11:23",
+        "t": "The*pn desire of the righteous ends only in good, but*ld the hope of the wicked only in wrath."
+    },
+    {
+        "o": 18326,
+        "r": "niv:Proverbs:11:24",
+        "t": "One*pn person gives freely, yet gains even more; another*ld withholds unduly, but comes to poverty."
+    },
+    {
+        "o": 18327,
+        "r": "niv:Proverbs:11:25",
+        "t": "A*pn generous person will prosper; whoever*ld refreshes others will be refreshed."
+    },
+    {
+        "o": 18328,
+        "r": "niv:Proverbs:11:26",
+        "t": "People*pn curse the one who hoards grain, but*ld they pray God’s blessing on the one who is willing to sell."
+    },
+    {
+        "o": 18329,
+        "r": "niv:Proverbs:11:27",
+        "t": "Whoever*pn seeks good finds favor, but*ld evil comes to one who searches for it."
+    },
+    {
+        "o": 18330,
+        "r": "niv:Proverbs:11:28",
+        "t": "Those*pn who trust in their riches will fall, but*ld the righteous will thrive like a green leaf."
+    },
+    {
+        "o": 18331,
+        "r": "niv:Proverbs:11:29",
+        "t": "Whoever*pn brings ruin on their family will inherit only wind, and*ld the fool will be servant to the wise."
+    },
+    {
+        "o": 18332,
+        "r": "niv:Proverbs:11:30",
+        "t": "The*pn fruit of the righteous is a tree of life, and*ld the one who is wise saves lives."
+    },
+    {
+        "o": 18333,
+        "r": "niv:Proverbs:11:31",
+        "t": "If*pn the righteous receive their due on earth, how*ld much more the ungodly and the sinner!"
+    },
+    {
+        "o": 18334,
+        "r": "niv:Proverbs:12:0",
+        "t": "Proverbs 12",
+        "h": 1
+    },
+    {
+        "o": 18335,
+        "r": "niv:Proverbs:12:1",
+        "t": "Whoever*pn loves discipline loves knowledge, but*ld whoever hates correction is stupid."
+    },
+    {
+        "o": 18336,
+        "r": "niv:Proverbs:12:2",
+        "t": "Good*pn people obtain favor from the Lord,*s but*ld he condemns those who devise wicked schemes."
+    },
+    {
+        "o": 18337,
+        "r": "niv:Proverbs:12:3",
+        "t": "No*pn one can be established through wickedness, but*ld the righteous cannot be uprooted."
+    },
+    {
+        "o": 18338,
+        "r": "niv:Proverbs:12:4",
+        "t": "A*pn wife of noble character is her husband’s crown, but*ld a disgraceful wife is like decay in his bones."
+    },
+    {
+        "o": 18339,
+        "r": "niv:Proverbs:12:5",
+        "t": "The*pn plans of the righteous are just, but*ld the advice of the wicked is deceitful."
+    },
+    {
+        "o": 18340,
+        "r": "niv:Proverbs:12:6",
+        "t": "The*pn words of the wicked lie in wait for blood, but*ld the speech of the upright rescues them."
+    },
+    {
+        "o": 18341,
+        "r": "niv:Proverbs:12:7",
+        "t": "The*pn wicked are overthrown and are no more, but*ld the house of the righteous stands firm."
+    },
+    {
+        "o": 18342,
+        "r": "niv:Proverbs:12:8",
+        "t": "A*pn person is praised according to their prudence, and*ld one with a warped mind is despised."
+    },
+    {
+        "o": 18343,
+        "r": "niv:Proverbs:12:9",
+        "t": "Better*pn to be a nobody and yet have a servant than*ld pretend to be somebody and have no food."
+    },
+    {
+        "o": 18344,
+        "r": "niv:Proverbs:12:10",
+        "t": "The*pn righteous care for the needs of their animals, but*ld the kindest acts of the wicked are cruel."
+    },
+    {
+        "o": 18345,
+        "r": "niv:Proverbs:12:11",
+        "t": "Those*pn who work their land will have abundant food, but*ld those who chase fantasies have no sense."
+    },
+    {
+        "o": 18346,
+        "r": "niv:Proverbs:12:12",
+        "t": "The*pn wicked desire the stronghold of evildoers, but*ld the root of the righteous endures."
+    },
+    {
+        "o": 18347,
+        "r": "niv:Proverbs:12:13",
+        "t": "Evildoers*pn are trapped by their sinful talk, and*ld so the innocent escape trouble."
+    },
+    {
+        "o": 18348,
+        "r": "niv:Proverbs:12:14",
+        "t": "From*pn the fruit of their lips people are filled with good things, and*ld the work of their hands brings them reward."
+    },
+    {
+        "o": 18349,
+        "r": "niv:Proverbs:12:15",
+        "t": "The*pn way of fools seems right to them, but*ld the wise listen to advice."
+    },
+    {
+        "o": 18350,
+        "r": "niv:Proverbs:12:16",
+        "t": "Fools*pn show their annoyance at once, but*ld the prudent overlook an insult."
+    },
+    {
+        "o": 18351,
+        "r": "niv:Proverbs:12:17",
+        "t": "An*pn honest witness tells the truth, but*ld a false witness tells lies."
+    },
+    {
+        "o": 18352,
+        "r": "niv:Proverbs:12:18",
+        "t": "The*pn words of the reckless pierce like swords, but*ld the tongue of the wise brings healing."
+    },
+    {
+        "o": 18353,
+        "r": "niv:Proverbs:12:19",
+        "t": "Truthful*pn lips endure forever, but*ld a lying tongue lasts only a moment."
+    },
+    {
+        "o": 18354,
+        "r": "niv:Proverbs:12:20",
+        "t": "Deceit*pn is in the hearts of those who plot evil, but*ld those who promote peace have joy."
+    },
+    {
+        "o": 18355,
+        "r": "niv:Proverbs:12:21",
+        "t": "No*pn harm overtakes the righteous, but*ld the wicked have their fill of trouble."
+    },
+    {
+        "o": 18356,
+        "r": "niv:Proverbs:12:22",
+        "t": "The*pn Lord*s detests lying lips, but*ld he delights in people who are trustworthy."
+    },
+    {
+        "o": 18357,
+        "r": "niv:Proverbs:12:23",
+        "t": "The*pn prudent keep their knowledge to themselves, but*ld a fool’s heart blurts out folly."
+    },
+    {
+        "o": 18358,
+        "r": "niv:Proverbs:12:24",
+        "t": "Diligent*pn hands will rule, but*ld laziness ends in forced labor."
+    },
+    {
+        "o": 18359,
+        "r": "niv:Proverbs:12:25",
+        "t": "Anxiety*pn weighs down the heart, but*ld a kind word cheers it up."
+    },
+    {
+        "o": 18360,
+        "r": "niv:Proverbs:12:26",
+        "t": "The*pn righteous choose their friends carefully, but*ld the way of the wicked leads them astray."
+    },
+    {
+        "o": 18361,
+        "r": "niv:Proverbs:12:27",
+        "t": "The*pn lazy do not roast any game, but*ld the diligent feed on the riches of the hunt."
+    },
+    {
+        "o": 18362,
+        "r": "niv:Proverbs:12:28",
+        "t": "In*pn the way of righteousness there is life; along*ld that path is immortality."
+    },
+    {
+        "o": 18363,
+        "r": "niv:Proverbs:13:0",
+        "t": "Proverbs 13",
+        "h": 1
+    },
+    {
+        "o": 18364,
+        "r": "niv:Proverbs:13:1",
+        "t": "A*pn wise son heeds his father’s instruction, but*ld a mocker does not respond to rebukes."
+    },
+    {
+        "o": 18365,
+        "r": "niv:Proverbs:13:2",
+        "t": "From*pn the fruit of their lips people enjoy good things, but*ld the unfaithful have an appetite for violence."
+    },
+    {
+        "o": 18366,
+        "r": "niv:Proverbs:13:3",
+        "t": "Those*pn who guard their lips preserve their lives, but*ld those who speak rashly will come to ruin."
+    },
+    {
+        "o": 18367,
+        "r": "niv:Proverbs:13:4",
+        "t": "A*pn sluggard’s appetite is never filled, but*ld the desires of the diligent are fully satisfied."
+    },
+    {
+        "o": 18368,
+        "r": "niv:Proverbs:13:5",
+        "t": "The*pn righteous hate what is false, but*ld the wicked make themselves a stench and*ld bring shame on themselves."
+    },
+    {
+        "o": 18369,
+        "r": "niv:Proverbs:13:6",
+        "t": "Righteousness*pn guards the person of integrity, but*ld wickedness overthrows the sinner."
+    },
+    {
+        "o": 18370,
+        "r": "niv:Proverbs:13:7",
+        "t": "One*pn person pretends to be rich, yet has nothing; another*ld pretends to be poor, yet has great wealth."
+    },
+    {
+        "o": 18371,
+        "r": "niv:Proverbs:13:8",
+        "t": "A*pn person’s riches may ransom their life, but*ld the poor cannot respond to threatening rebukes."
+    },
+    {
+        "o": 18372,
+        "r": "niv:Proverbs:13:9",
+        "t": "The*pn light of the righteous shines brightly, but*ld the lamp of the wicked is snuffed out."
+    },
+    {
+        "o": 18373,
+        "r": "niv:Proverbs:13:10",
+        "t": "Where*pn there is strife, there is pride, but*ld wisdom is found in those who take advice."
+    },
+    {
+        "o": 18374,
+        "r": "niv:Proverbs:13:11",
+        "t": "Dishonest*pn money dwindles away, but*ld whoever gathers money little by little makes it grow."
+    },
+    {
+        "o": 18375,
+        "r": "niv:Proverbs:13:12",
+        "t": "Hope*pn deferred makes the heart sick, but*ld a longing fulfilled is a tree of life."
+    },
+    {
+        "o": 18376,
+        "r": "niv:Proverbs:13:13",
+        "t": "Whoever*pn scorns instruction will pay for it, but*ld whoever respects a command is rewarded."
+    },
+    {
+        "o": 18377,
+        "r": "niv:Proverbs:13:14",
+        "t": "The*pn teaching of the wise is a fountain of life, turning*ld a person from the snares of death."
+    },
+    {
+        "o": 18378,
+        "r": "niv:Proverbs:13:15",
+        "t": "Good*pn judgment wins favor, but*ld the way of the unfaithful leads to their destruction."
+    },
+    {
+        "o": 18379,
+        "r": "niv:Proverbs:13:16",
+        "t": "All*pn who are prudent act with knowledge, but*ld fools expose their folly."
+    },
+    {
+        "o": 18380,
+        "r": "niv:Proverbs:13:17",
+        "t": "A*pn wicked messenger falls into trouble, but*ld a trustworthy envoy brings healing."
+    },
+    {
+        "o": 18381,
+        "r": "niv:Proverbs:13:18",
+        "t": "Whoever*pn disregards discipline comes to poverty and shame, but*ld whoever heeds correction is honored."
+    },
+    {
+        "o": 18382,
+        "r": "niv:Proverbs:13:19",
+        "t": "A*pn longing fulfilled is sweet to the soul, but*ld fools detest turning from evil."
+    },
+    {
+        "o": 18383,
+        "r": "niv:Proverbs:13:20",
+        "t": "Walk*pn with the wise and become wise, for*ld a companion of fools suffers harm."
+    },
+    {
+        "o": 18384,
+        "r": "niv:Proverbs:13:21",
+        "t": "Trouble*pn pursues the sinner, but*ld the righteous are rewarded with good things."
+    },
+    {
+        "o": 18385,
+        "r": "niv:Proverbs:13:22",
+        "t": "A*pn good person leaves an inheritance for their children’s children, but*ld a sinner’s wealth is stored up for the righteous."
+    },
+    {
+        "o": 18386,
+        "r": "niv:Proverbs:13:23",
+        "t": "An*pn unplowed field produces food for the poor, but*ld injustice sweeps it away."
+    },
+    {
+        "o": 18387,
+        "r": "niv:Proverbs:13:24",
+        "t": "Whoever*pn spares the rod hates their children, but*ld the one who loves their children is careful to discipline them."
+    },
+    {
+        "o": 18388,
+        "r": "niv:Proverbs:13:25",
+        "t": "The*pn righteous eat to their hearts’ content, but*ld the stomach of the wicked goes hungry."
+    },
+    {
+        "o": 18389,
+        "r": "niv:Proverbs:14:0",
+        "t": "Proverbs 14",
+        "h": 1
+    },
+    {
+        "o": 18390,
+        "r": "niv:Proverbs:14:1",
+        "t": "The*pn wise woman builds her house, but*ld with her own hands the foolish one tears hers down."
+    },
+    {
+        "o": 18391,
+        "r": "niv:Proverbs:14:2",
+        "t": "Whoever*pn fears the Lord*s walks uprightly, but*ld those who despise him are devious in their ways."
+    },
+    {
+        "o": 18392,
+        "r": "niv:Proverbs:14:3",
+        "t": "A*pn fool’s mouth lashes out with pride, but*ld the lips of the wise protect them."
+    },
+    {
+        "o": 18393,
+        "r": "niv:Proverbs:14:4",
+        "t": "Where*pn there are no oxen, the manger is empty, but*ld from the strength of an ox come abundant harvests."
+    },
+    {
+        "o": 18394,
+        "r": "niv:Proverbs:14:5",
+        "t": "An*pn honest witness does not deceive, but*ld a false witness pours out lies."
+    },
+    {
+        "o": 18395,
+        "r": "niv:Proverbs:14:6",
+        "t": "The*pn mocker seeks wisdom and finds none, but*ld knowledge comes easily to the discerning."
+    },
+    {
+        "o": 18396,
+        "r": "niv:Proverbs:14:7",
+        "t": "Stay*pn away from a fool, for*ld you will not find knowledge on their lips."
+    },
+    {
+        "o": 18397,
+        "r": "niv:Proverbs:14:8",
+        "t": "The*pn wisdom of the prudent is to give thought to their ways, but*ld the folly of fools is deception."
+    },
+    {
+        "o": 18398,
+        "r": "niv:Proverbs:14:9",
+        "t": "Fools*pn mock at making amends for sin, but*ld goodwill is found among the upright."
+    },
+    {
+        "o": 18399,
+        "r": "niv:Proverbs:14:10",
+        "t": "Each*pn heart knows its own bitterness, and*ld no one else can share its joy."
+    },
+    {
+        "o": 18400,
+        "r": "niv:Proverbs:14:11",
+        "t": "The*pn house of the wicked will be destroyed, but*ld the tent of the upright will flourish."
+    },
+    {
+        "o": 18401,
+        "r": "niv:Proverbs:14:12",
+        "t": "There*pn is a way that appears to be right, but*ld in the end it leads to death."
+    },
+    {
+        "o": 18402,
+        "r": "niv:Proverbs:14:13",
+        "t": "Even*pn in laughter the heart may ache, and*ld rejoicing may end in grief."
+    },
+    {
+        "o": 18403,
+        "r": "niv:Proverbs:14:14",
+        "t": "The*pn faithless will be fully repaid for their ways, and*ld the good rewarded for theirs."
+    },
+    {
+        "o": 18404,
+        "r": "niv:Proverbs:14:15",
+        "t": "The*pn simple believe anything, but*ld the prudent give thought to their steps."
+    },
+    {
+        "o": 18405,
+        "r": "niv:Proverbs:14:16",
+        "t": "The*pn wise fear the Lord*s and shun evil, but*ld a fool is hotheaded and yet feels secure."
+    },
+    {
+        "o": 18406,
+        "r": "niv:Proverbs:14:17",
+        "t": "A*pn quick-tempered person does foolish things, and*ld the one who devises evil schemes is hated."
+    },
+    {
+        "o": 18407,
+        "r": "niv:Proverbs:14:18",
+        "t": "The*pn simple inherit folly, but*ld the prudent are crowned with knowledge."
+    },
+    {
+        "o": 18408,
+        "r": "niv:Proverbs:14:19",
+        "t": "Evildoers*pn will bow down in the presence of the good, and*ld the wicked at the gates of the righteous."
+    },
+    {
+        "o": 18409,
+        "r": "niv:Proverbs:14:20",
+        "t": "The*pn poor are shunned even by their neighbors, but*ld the rich have many friends."
+    },
+    {
+        "o": 18410,
+        "r": "niv:Proverbs:14:21",
+        "t": "It*pn is a sin to despise one’s neighbor, but*ld blessed is the one who is kind to the needy."
+    },
+    {
+        "o": 18411,
+        "r": "niv:Proverbs:14:22",
+        "t": "Do*pn not those who plot evil go astray? But*ld those who plan what is good find love and faithfulness."
+    },
+    {
+        "o": 18412,
+        "r": "niv:Proverbs:14:23",
+        "t": "All*pn hard work brings a profit, but*ld mere talk leads only to poverty."
+    },
+    {
+        "o": 18413,
+        "r": "niv:Proverbs:14:24",
+        "t": "The*pn wealth of the wise is their crown, but*ld the folly of fools yields folly."
+    },
+    {
+        "o": 18414,
+        "r": "niv:Proverbs:14:25",
+        "t": "A*pn truthful witness saves lives, but*ld a false witness is deceitful."
+    },
+    {
+        "o": 18415,
+        "r": "niv:Proverbs:14:26",
+        "t": "Whoever*pn fears the Lord*s has a secure fortress, and*ld for their children it will be a refuge."
+    },
+    {
+        "o": 18416,
+        "r": "niv:Proverbs:14:27",
+        "t": "The*pn fear of the Lord*s is a fountain of life, turning*ld a person from the snares of death."
+    },
+    {
+        "o": 18417,
+        "r": "niv:Proverbs:14:28",
+        "t": "A*pn large population is a king’s glory, but*ld without subjects a prince is ruined."
+    },
+    {
+        "o": 18418,
+        "r": "niv:Proverbs:14:29",
+        "t": "Whoever*pn is patient has great understanding, but*ld one who is quick-tempered displays folly."
+    },
+    {
+        "o": 18419,
+        "r": "niv:Proverbs:14:30",
+        "t": "A*pn heart at peace gives life to the body, but*ld envy rots the bones."
+    },
+    {
+        "o": 18420,
+        "r": "niv:Proverbs:14:31",
+        "t": "Whoever*pn oppresses the poor shows contempt for their Maker, but*ld whoever is kind to the needy honors God."
+    },
+    {
+        "o": 18421,
+        "r": "niv:Proverbs:14:32",
+        "t": "When*pn calamity comes, the wicked are brought down, but*ld even in death the righteous seek refuge in God."
+    },
+    {
+        "o": 18422,
+        "r": "niv:Proverbs:14:33",
+        "t": "Wisdom*pn reposes in the heart of the discerning and*ld even among fools she lets herself be known."
+    },
+    {
+        "o": 18423,
+        "r": "niv:Proverbs:14:34",
+        "t": "Righteousness*pn exalts a nation, but*ld sin condemns any people."
+    },
+    {
+        "o": 18424,
+        "r": "niv:Proverbs:14:35",
+        "t": "A*pn king delights in a wise servant, but*ld a shameful servant arouses his fury."
+    },
+    {
+        "o": 18425,
+        "r": "niv:Proverbs:15:0",
+        "t": "Proverbs 15",
+        "h": 1
+    },
+    {
+        "o": 18426,
+        "r": "niv:Proverbs:15:1",
+        "t": "A*pn gentle answer turns away wrath, but*ld a harsh word stirs up anger."
+    },
+    {
+        "o": 18427,
+        "r": "niv:Proverbs:15:2",
+        "t": "The*pn tongue of the wise adorns knowledge, but*ld the mouth of the fool gushes folly."
+    },
+    {
+        "o": 18428,
+        "r": "niv:Proverbs:15:3",
+        "t": "The*pn eyes of the Lord*s are everywhere, keeping*ld watch on the wicked and the good."
+    },
+    {
+        "o": 18429,
+        "r": "niv:Proverbs:15:4",
+        "t": "The*pn soothing tongue is a tree of life, but*ld a perverse tongue crushes the spirit."
+    },
+    {
+        "o": 18430,
+        "r": "niv:Proverbs:15:5",
+        "t": "A*pn fool spurns a parent’s discipline, but*ld whoever heeds correction shows prudence."
+    },
+    {
+        "o": 18431,
+        "r": "niv:Proverbs:15:6",
+        "t": "The*pn house of the righteous contains great treasure, but*ld the income of the wicked brings ruin."
+    },
+    {
+        "o": 18432,
+        "r": "niv:Proverbs:15:7",
+        "t": "The*pn lips of the wise spread knowledge, but*ld the hearts of fools are not upright."
+    },
+    {
+        "o": 18433,
+        "r": "niv:Proverbs:15:8",
+        "t": "The*pn Lord*s detests the sacrifice of the wicked, but*ld the prayer of the upright pleases him."
+    },
+    {
+        "o": 18434,
+        "r": "niv:Proverbs:15:9",
+        "t": "The*pn Lord*s detests the way of the wicked, but*ld he loves those who pursue righteousness."
+    },
+    {
+        "o": 18435,
+        "r": "niv:Proverbs:15:10",
+        "t": "Stern*pn discipline awaits anyone who leaves the path; the*ld one who hates correction will die."
+    },
+    {
+        "o": 18436,
+        "r": "niv:Proverbs:15:11",
+        "t": "Death*pn and Destruction lie open before the Lord—*s how*ld much more do human hearts!"
+    },
+    {
+        "o": 18437,
+        "r": "niv:Proverbs:15:12",
+        "t": "Mockers*pn resent correction, so*ld they avoid the wise."
+    },
+    {
+        "o": 18438,
+        "r": "niv:Proverbs:15:13",
+        "t": "A*pn happy heart makes the face cheerful, but*ld heartache crushes the spirit."
+    },
+    {
+        "o": 18439,
+        "r": "niv:Proverbs:15:14",
+        "t": "The*pn discerning heart seeks knowledge, but*ld the mouth of a fool feeds on folly."
+    },
+    {
+        "o": 18440,
+        "r": "niv:Proverbs:15:15",
+        "t": "All*pn the days of the oppressed are wretched, but*ld the cheerful heart has a continual feast."
+    },
+    {
+        "o": 18441,
+        "r": "niv:Proverbs:15:16",
+        "t": "Better*pn a little with the fear of the Lord*s than*ld great wealth with turmoil."
+    },
+    {
+        "o": 18442,
+        "r": "niv:Proverbs:15:17",
+        "t": "Better*pn a small serving of vegetables with love than*ld a fattened calf with hatred."
+    },
+    {
+        "o": 18443,
+        "r": "niv:Proverbs:15:18",
+        "t": "A*pn hot-tempered person stirs up conflict, but*ld the one who is patient calms a quarrel."
+    },
+    {
+        "o": 18444,
+        "r": "niv:Proverbs:15:19",
+        "t": "The*pn way of the sluggard is blocked with thorns, but*ld the path of the upright is a highway."
+    },
+    {
+        "o": 18445,
+        "r": "niv:Proverbs:15:20",
+        "t": "A*pn wise son brings joy to his father, but*ld a foolish man despises his mother."
+    },
+    {
+        "o": 18446,
+        "r": "niv:Proverbs:15:21",
+        "t": "Folly*pn brings joy to one who has no sense, but*ld whoever has understanding keeps a straight course."
+    },
+    {
+        "o": 18447,
+        "r": "niv:Proverbs:15:22",
+        "t": "Plans*pn fail for lack of counsel, but*ld with many advisers they succeed."
+    },
+    {
+        "o": 18448,
+        "r": "niv:Proverbs:15:23",
+        "t": "A*pn person finds joy in giving an apt reply— and*ld how good is a timely word!"
+    },
+    {
+        "o": 18449,
+        "r": "niv:Proverbs:15:24",
+        "t": "The*pn path of life leads upward for the prudent to*ld keep them from going down to the realm of the dead."
+    },
+    {
+        "o": 18450,
+        "r": "niv:Proverbs:15:25",
+        "t": "The*pn Lord*s tears down the house of the proud, but*ld he sets the widow’s boundary stones in place."
+    },
+    {
+        "o": 18451,
+        "r": "niv:Proverbs:15:26",
+        "t": "The*pn Lord*s detests the thoughts of the wicked, but*ld gracious words are pure in his sight."
+    },
+    {
+        "o": 18452,
+        "r": "niv:Proverbs:15:27",
+        "t": "The*pn greedy bring ruin to their households, but*ld the one who hates bribes will live."
+    },
+    {
+        "o": 18453,
+        "r": "niv:Proverbs:15:28",
+        "t": "The*pn heart of the righteous weighs its answers, but*ld the mouth of the wicked gushes evil."
+    },
+    {
+        "o": 18454,
+        "r": "niv:Proverbs:15:29",
+        "t": "The*pn Lord*s is far from the wicked, but*ld he hears the prayer of the righteous."
+    },
+    {
+        "o": 18455,
+        "r": "niv:Proverbs:15:30",
+        "t": "Light*pn in a messenger’s eyes brings joy to the heart, and*ld good news gives health to the bones."
+    },
+    {
+        "o": 18456,
+        "r": "niv:Proverbs:15:31",
+        "t": "Whoever*pn heeds life-giving correction will*ld be at home among the wise."
+    },
+    {
+        "o": 18457,
+        "r": "niv:Proverbs:15:32",
+        "t": "Those*pn who disregard discipline despise themselves, but*ld the one who heeds correction gains understanding."
+    },
+    {
+        "o": 18458,
+        "r": "niv:Proverbs:15:33",
+        "t": "Wisdom’s*pn instruction is to fear the Lord,*s and*ld humility comes before honor."
+    },
+    {
+        "o": 18459,
+        "r": "niv:Proverbs:16:0",
+        "t": "Proverbs 16",
+        "h": 1
+    },
+    {
+        "o": 18460,
+        "r": "niv:Proverbs:16:1",
+        "t": "To*pn humans belong the plans of the heart, but*ld from the Lord*s comes the proper answer of the tongue."
+    },
+    {
+        "o": 18461,
+        "r": "niv:Proverbs:16:2",
+        "t": "All*pn a person’s ways seem pure to them, but*ld motives are weighed by the Lord.*s"
+    },
+    {
+        "o": 18462,
+        "r": "niv:Proverbs:16:3",
+        "t": "Commit*pn to the Lord*s whatever you do, and*ld he will establish your plans."
+    },
+    {
+        "o": 18463,
+        "r": "niv:Proverbs:16:4",
+        "t": "The*pn Lord*s works out everything to its proper end— even*ld the wicked for a day of disaster."
+    },
+    {
+        "o": 18464,
+        "r": "niv:Proverbs:16:5",
+        "t": "The*pn Lord*s detests all the proud of heart. Be*ld sure of this: They will not go unpunished."
+    },
+    {
+        "o": 18465,
+        "r": "niv:Proverbs:16:6",
+        "t": "Through*pn love and faithfulness sin is atoned for; through*ld the fear of the Lord*s evil is avoided."
+    },
+    {
+        "o": 18466,
+        "r": "niv:Proverbs:16:7",
+        "t": "When*pn the Lord*s takes pleasure in anyone’s way, he*ld causes their enemies to make peace with them."
+    },
+    {
+        "o": 18467,
+        "r": "niv:Proverbs:16:8",
+        "t": "Better*pn a little with righteousness than*ld much gain with injustice."
+    },
+    {
+        "o": 18468,
+        "r": "niv:Proverbs:16:9",
+        "t": "In*pn their hearts humans plan their course, but*ld the Lord*s establishes their steps."
+    },
+    {
+        "o": 18469,
+        "r": "niv:Proverbs:16:10",
+        "t": "The*pn lips of a king speak as an oracle, and*ld his mouth does not betray justice."
+    },
+    {
+        "o": 18470,
+        "r": "niv:Proverbs:16:11",
+        "t": "Honest*pn scales and balances belong to the Lord;*s all*ld the weights in the bag are of his making."
+    },
+    {
+        "o": 18471,
+        "r": "niv:Proverbs:16:12",
+        "t": "Kings*pn detest wrongdoing, for*ld a throne is established through righteousness."
+    },
+    {
+        "o": 18472,
+        "r": "niv:Proverbs:16:13",
+        "t": "Kings*pn take pleasure in honest lips; they*ld value the one who speaks what is right."
+    },
+    {
+        "o": 18473,
+        "r": "niv:Proverbs:16:14",
+        "t": "A*pn king’s wrath is a messenger of death, but*ld the wise will appease it."
+    },
+    {
+        "o": 18474,
+        "r": "niv:Proverbs:16:15",
+        "t": "When*pn a king’s face brightens, it means life; his*ld favor is like a rain cloud in spring."
+    },
+    {
+        "o": 18475,
+        "r": "niv:Proverbs:16:16",
+        "t": "How*pn much better to get wisdom than gold, to*ld get insight rather than silver!"
+    },
+    {
+        "o": 18476,
+        "r": "niv:Proverbs:16:17",
+        "t": "The*pn highway of the upright avoids evil; those*ld who guard their ways preserve their lives."
+    },
+    {
+        "o": 18477,
+        "r": "niv:Proverbs:16:18",
+        "t": "Pride*pn goes before destruction, a*ld haughty spirit before a fall."
+    },
+    {
+        "o": 18478,
+        "r": "niv:Proverbs:16:19",
+        "t": "Better*pn to be lowly in spirit along with the oppressed than*ld to share plunder with the proud."
+    },
+    {
+        "o": 18479,
+        "r": "niv:Proverbs:16:20",
+        "t": "Whoever*pn gives heed to instruction prospers, and*ld blessed is the one who trusts in the Lord.*s"
+    },
+    {
+        "o": 18480,
+        "r": "niv:Proverbs:16:21",
+        "t": "The*pn wise in heart are called discerning, and*ld gracious words promote instruction."
+    },
+    {
+        "o": 18481,
+        "r": "niv:Proverbs:16:22",
+        "t": "Prudence*pn is a fountain of life to the prudent, but*ld folly brings punishment to fools."
+    },
+    {
+        "o": 18482,
+        "r": "niv:Proverbs:16:23",
+        "t": "The*pn hearts of the wise make their mouths prudent, and*ld their lips promote instruction."
+    },
+    {
+        "o": 18483,
+        "r": "niv:Proverbs:16:24",
+        "t": "Gracious*pn words are a honeycomb, sweet*ld to the soul and healing to the bones."
+    },
+    {
+        "o": 18484,
+        "r": "niv:Proverbs:16:25",
+        "t": "There*pn is a way that appears to be right, but*ld in the end it leads to death."
+    },
+    {
+        "o": 18485,
+        "r": "niv:Proverbs:16:26",
+        "t": "The*pn appetite of laborers works for them; their*ld hunger drives them on."
+    },
+    {
+        "o": 18486,
+        "r": "niv:Proverbs:16:27",
+        "t": "A*pn scoundrel plots evil, and*ld on their lips it is like a scorching fire."
+    },
+    {
+        "o": 18487,
+        "r": "niv:Proverbs:16:28",
+        "t": "A*pn perverse person stirs up conflict, and*ld a gossip separates close friends."
+    },
+    {
+        "o": 18488,
+        "r": "niv:Proverbs:16:29",
+        "t": "A*pn violent person entices their neighbor and*ld leads them down a path that is not good."
+    },
+    {
+        "o": 18489,
+        "r": "niv:Proverbs:16:30",
+        "t": "Whoever*pn winks with their eye is plotting perversity; whoever*ld purses their lips is bent on evil."
+    },
+    {
+        "o": 18490,
+        "r": "niv:Proverbs:16:31",
+        "t": "Gray*pn hair is a crown of splendor; it*ld is attained in the way of righteousness."
+    },
+    {
+        "o": 18491,
+        "r": "niv:Proverbs:16:32",
+        "t": "Better*pn a patient person than a warrior, one*ld with self-control than one who takes a city."
+    },
+    {
+        "o": 18492,
+        "r": "niv:Proverbs:16:33",
+        "t": "The*pn lot is cast into the lap, but*ld its every decision is from the Lord.*s"
+    },
+    {
+        "o": 18493,
+        "r": "niv:Proverbs:17:0",
+        "t": "Proverbs 17",
+        "h": 1
+    },
+    {
+        "o": 18494,
+        "r": "niv:Proverbs:17:1",
+        "t": "Better*pn a dry crust with peace and quiet than*ld a house full of feasting, with strife."
+    },
+    {
+        "o": 18495,
+        "r": "niv:Proverbs:17:2",
+        "t": "A*pn prudent servant will rule over a disgraceful son and*ld will share the inheritance as one of the family."
+    },
+    {
+        "o": 18496,
+        "r": "niv:Proverbs:17:3",
+        "t": "The*pn crucible for silver and the furnace for gold, but*ld the Lord*s tests the heart."
+    },
+    {
+        "o": 18497,
+        "r": "niv:Proverbs:17:4",
+        "t": "A*pn wicked person listens to deceitful lips; a*ld liar pays attention to a destructive tongue."
+    },
+    {
+        "o": 18498,
+        "r": "niv:Proverbs:17:5",
+        "t": "Whoever*pn mocks the poor shows contempt for their Maker; whoever*ld gloats over disaster will not go unpunished."
+    },
+    {
+        "o": 18499,
+        "r": "niv:Proverbs:17:6",
+        "t": "Children’s*pn children are a crown to the aged, and*ld parents are the pride of their children."
+    },
+    {
+        "o": 18500,
+        "r": "niv:Proverbs:17:7",
+        "t": "Eloquent*pn lips are unsuited to a godless fool— how*ld much worse lying lips to a ruler!"
+    },
+    {
+        "o": 18501,
+        "r": "niv:Proverbs:17:8",
+        "t": "A*pn bribe is seen as a charm by the one who gives it; they*ld think success will come at every turn."
+    },
+    {
+        "o": 18502,
+        "r": "niv:Proverbs:17:9",
+        "t": "Whoever*pn would foster love covers over an offense, but*ld whoever repeats the matter separates close friends."
+    },
+    {
+        "o": 18503,
+        "r": "niv:Proverbs:17:10",
+        "t": "A*pn rebuke impresses a discerning person more*ld than a hundred lashes a fool."
+    },
+    {
+        "o": 18504,
+        "r": "niv:Proverbs:17:11",
+        "t": "Evildoers*pn foster rebellion against God; the*ld messenger of death will be sent against them."
+    },
+    {
+        "o": 18505,
+        "r": "niv:Proverbs:17:12",
+        "t": "Better*pn to meet a bear robbed of her cubs than*ld a fool bent on folly."
+    },
+    {
+        "o": 18506,
+        "r": "niv:Proverbs:17:13",
+        "t": "Evil*pn will never leave the house of*ld one who pays back evil for good."
+    },
+    {
+        "o": 18507,
+        "r": "niv:Proverbs:17:14",
+        "t": "Starting*pn a quarrel is like breaching a dam; so*ld drop the matter before a dispute breaks out."
+    },
+    {
+        "o": 18508,
+        "r": "niv:Proverbs:17:15",
+        "t": "Acquitting*pn the guilty and condemning the innocent— the*ld Lord*s detests them both."
+    },
+    {
+        "o": 18509,
+        "r": "niv:Proverbs:17:16",
+        "t": "Why*pn should fools have money in hand to buy wisdom, when*ld they are not able to understand it?"
+    },
+    {
+        "o": 18510,
+        "r": "niv:Proverbs:17:17",
+        "t": "A*pn friend loves at all times, and*ld a brother is born for a time of adversity."
+    },
+    {
+        "o": 18511,
+        "r": "niv:Proverbs:17:18",
+        "t": "One*pn who has no sense shakes hands in pledge and*ld puts up security for a neighbor."
+    },
+    {
+        "o": 18512,
+        "r": "niv:Proverbs:17:19",
+        "t": "Whoever*pn loves a quarrel loves sin; whoever*ld builds a high gate invites destruction."
+    },
+    {
+        "o": 18513,
+        "r": "niv:Proverbs:17:20",
+        "t": "One*pn whose heart is corrupt does not prosper; one*ld whose tongue is perverse falls into trouble."
+    },
+    {
+        "o": 18514,
+        "r": "niv:Proverbs:17:21",
+        "t": "To*pn have a fool for a child brings grief; there*ld is no joy for the parent of a godless fool."
+    },
+    {
+        "o": 18515,
+        "r": "niv:Proverbs:17:22",
+        "t": "A*pn cheerful heart is good medicine, but*ld a crushed spirit dries up the bones."
+    },
+    {
+        "o": 18516,
+        "r": "niv:Proverbs:17:23",
+        "t": "The*pn wicked accept bribes in secret to*ld pervert the course of justice."
+    },
+    {
+        "o": 18517,
+        "r": "niv:Proverbs:17:24",
+        "t": "A*pn discerning person keeps wisdom in view, but*ld a fool’s eyes wander to the ends of the earth."
+    },
+    {
+        "o": 18518,
+        "r": "niv:Proverbs:17:25",
+        "t": "A*pn foolish son brings grief to his father and*ld bitterness to the mother who bore him."
+    },
+    {
+        "o": 18519,
+        "r": "niv:Proverbs:17:26",
+        "t": "If*pn imposing a fine on the innocent is not good, surely*ld to flog honest officials is not right."
+    },
+    {
+        "o": 18520,
+        "r": "niv:Proverbs:17:27",
+        "t": "The*pn one who has knowledge uses words with restraint, and*ld whoever has understanding is even-tempered."
+    },
+    {
+        "o": 18521,
+        "r": "niv:Proverbs:17:28",
+        "t": "Even*pn fools are thought wise if they keep silent, and*ld discerning if they hold their tongues."
+    },
+    {
+        "o": 18522,
+        "r": "niv:Proverbs:18:0",
+        "t": "Proverbs 18",
+        "h": 1
+    },
+    {
+        "o": 18523,
+        "r": "niv:Proverbs:18:1",
+        "t": "An*pn unfriendly person pursues selfish ends and*ld against all sound judgment starts quarrels."
+    },
+    {
+        "o": 18524,
+        "r": "niv:Proverbs:18:2",
+        "t": "Fools*pn find no pleasure in understanding but*ld delight in airing their own opinions."
+    },
+    {
+        "o": 18525,
+        "r": "niv:Proverbs:18:3",
+        "t": "When*pn wickedness comes, so does contempt, and*ld with shame comes reproach."
+    },
+    {
+        "o": 18526,
+        "r": "niv:Proverbs:18:4",
+        "t": "The*pn words of the mouth are deep waters, but*ld the fountain of wisdom is a rushing stream."
+    },
+    {
+        "o": 18527,
+        "r": "niv:Proverbs:18:5",
+        "t": "It*pn is not good to be partial to the wicked and*ld so deprive the innocent of justice."
+    },
+    {
+        "o": 18528,
+        "r": "niv:Proverbs:18:6",
+        "t": "The*pn lips of fools bring them strife, and*ld their mouths invite a beating."
+    },
+    {
+        "o": 18529,
+        "r": "niv:Proverbs:18:7",
+        "t": "The*pn mouths of fools are their undoing, and*ld their lips are a snare to their very lives."
+    },
+    {
+        "o": 18530,
+        "r": "niv:Proverbs:18:8",
+        "t": "The*pn words of a gossip are like choice morsels; they*ld go down to the inmost parts."
+    },
+    {
+        "o": 18531,
+        "r": "niv:Proverbs:18:9",
+        "t": "One*pn who is slack in his work is*ld brother to one who destroys."
+    },
+    {
+        "o": 18532,
+        "r": "niv:Proverbs:18:10",
+        "t": "The*pn name of the Lord*s is a fortified tower; the*ld righteous run to it and are safe."
+    },
+    {
+        "o": 18533,
+        "r": "niv:Proverbs:18:11",
+        "t": "The*pn wealth of the rich is their fortified city; they*ld imagine it a wall too high to scale."
+    },
+    {
+        "o": 18534,
+        "r": "niv:Proverbs:18:12",
+        "t": "Before*pn a downfall the heart is haughty, but*ld humility comes before honor."
+    },
+    {
+        "o": 18535,
+        "r": "niv:Proverbs:18:13",
+        "t": "To*pn answer before listening— that*ld is folly and shame."
+    },
+    {
+        "o": 18536,
+        "r": "niv:Proverbs:18:14",
+        "t": "The*pn human spirit can endure in sickness, but*ld a crushed spirit who can bear?"
+    },
+    {
+        "o": 18537,
+        "r": "niv:Proverbs:18:15",
+        "t": "The*pn heart of the discerning acquires knowledge, for*ld the ears of the wise seek it out."
+    },
+    {
+        "o": 18538,
+        "r": "niv:Proverbs:18:16",
+        "t": "A*pn gift opens the way and*ld ushers the giver into the presence of the great."
+    },
+    {
+        "o": 18539,
+        "r": "niv:Proverbs:18:17",
+        "t": "In*pn a lawsuit the first to speak seems right, until*ld someone comes forward and cross-examines."
+    },
+    {
+        "o": 18540,
+        "r": "niv:Proverbs:18:18",
+        "t": "Casting*pn the lot settles disputes and*ld keeps strong opponents apart."
+    },
+    {
+        "o": 18541,
+        "r": "niv:Proverbs:18:19",
+        "t": "A*pn brother wronged is more unyielding than a fortified city; disputes*ld are like the barred gates of a citadel."
+    },
+    {
+        "o": 18542,
+        "r": "niv:Proverbs:18:20",
+        "t": "From*pn the fruit of their mouth a person’s stomach is filled; with*ld the harvest of their lips they are satisfied."
+    },
+    {
+        "o": 18543,
+        "r": "niv:Proverbs:18:21",
+        "t": "The*pn tongue has the power of life and death, and*ld those who love it will eat its fruit."
+    },
+    {
+        "o": 18544,
+        "r": "niv:Proverbs:18:22",
+        "t": "He*pn who finds a wife finds what is good and*ld receives favor from the Lord.*s"
+    },
+    {
+        "o": 18545,
+        "r": "niv:Proverbs:18:23",
+        "t": "The*pn poor plead for mercy, but*ld the rich answer harshly."
+    },
+    {
+        "o": 18546,
+        "r": "niv:Proverbs:18:24",
+        "t": "One*pn who has unreliable friends soon comes to ruin, but*ld there is a friend who sticks closer than a brother."
+    },
+    {
+        "o": 18547,
+        "r": "niv:Proverbs:19:0",
+        "t": "Proverbs 19",
+        "h": 1
+    },
+    {
+        "o": 18548,
+        "r": "niv:Proverbs:19:1",
+        "t": "Better*pn the poor whose walk is blameless than*ld a fool whose lips are perverse."
+    },
+    {
+        "o": 18549,
+        "r": "niv:Proverbs:19:2",
+        "t": "Desire*pn without knowledge is not good— how*ld much more will hasty feet miss the way!"
+    },
+    {
+        "o": 18550,
+        "r": "niv:Proverbs:19:3",
+        "t": "A*pn person’s own folly leads to their ruin, yet*ld their heart rages against the Lord.*s"
+    },
+    {
+        "o": 18551,
+        "r": "niv:Proverbs:19:4",
+        "t": "Wealth*pn attracts many friends, but*ld even the closest friend of the poor person deserts them."
+    },
+    {
+        "o": 18552,
+        "r": "niv:Proverbs:19:5",
+        "t": "A*pn false witness will not go unpunished, and*ld whoever pours out lies will not go free."
+    },
+    {
+        "o": 18553,
+        "r": "niv:Proverbs:19:6",
+        "t": "Many*pn curry favor with a ruler, and*ld everyone is the friend of one who gives gifts."
+    },
+    {
+        "o": 18554,
+        "r": "niv:Proverbs:19:7",
+        "t": "The*pn poor are shunned by all their relatives— how*ld much more do their friends avoid them! Though*pn the poor pursue them with pleading, they*ld are nowhere to be found."
+    },
+    {
+        "o": 18555,
+        "r": "niv:Proverbs:19:8",
+        "t": "The*pn one who gets wisdom loves life; the*ld one who cherishes understanding will soon prosper."
+    },
+    {
+        "o": 18556,
+        "r": "niv:Proverbs:19:9",
+        "t": "A*pn false witness will not go unpunished, and*ld whoever pours out lies will perish."
+    },
+    {
+        "o": 18557,
+        "r": "niv:Proverbs:19:10",
+        "t": "It*pn is not fitting for a fool to live in luxury— how*ld much worse for a slave to rule over princes!"
+    },
+    {
+        "o": 18558,
+        "r": "niv:Proverbs:19:11",
+        "t": "A*pn person’s wisdom yields patience; it*ld is to one’s glory to overlook an offense."
+    },
+    {
+        "o": 18559,
+        "r": "niv:Proverbs:19:12",
+        "t": "A*pn king’s rage is like the roar of a lion, but*ld his favor is like dew on the grass."
+    },
+    {
+        "o": 18560,
+        "r": "niv:Proverbs:19:13",
+        "t": "A*pn foolish child is a father’s ruin, and*ld a quarrelsome wife is like the*ld constant dripping of a leaky roof."
+    },
+    {
+        "o": 18561,
+        "r": "niv:Proverbs:19:14",
+        "t": "Houses*pn and wealth are inherited from parents, but*ld a prudent wife is from the Lord.*s"
+    },
+    {
+        "o": 18562,
+        "r": "niv:Proverbs:19:15",
+        "t": "Laziness*pn brings on deep sleep, and*ld the shiftless go hungry."
+    },
+    {
+        "o": 18563,
+        "r": "niv:Proverbs:19:16",
+        "t": "Whoever*pn keeps commandments keeps their life, but*ld whoever shows contempt for their ways will die."
+    },
+    {
+        "o": 18564,
+        "r": "niv:Proverbs:19:17",
+        "t": "Whoever*pn is kind to the poor lends to the Lord,*s and*ld he will reward them for what they have done."
+    },
+    {
+        "o": 18565,
+        "r": "niv:Proverbs:19:18",
+        "t": "Discipline*pn your children, for in that there is hope; do*ld not be a willing party to their death."
+    },
+    {
+        "o": 18566,
+        "r": "niv:Proverbs:19:19",
+        "t": "A*pn hot-tempered person must pay the penalty; rescue*ld them, and you will have to do it again."
+    },
+    {
+        "o": 18567,
+        "r": "niv:Proverbs:19:20",
+        "t": "Listen*pn to advice and accept discipline, and*ld at the end you will be counted among the wise."
+    },
+    {
+        "o": 18568,
+        "r": "niv:Proverbs:19:21",
+        "t": "Many*pn are the plans in a person’s heart, but*ld it is the Lord’s*s purpose that prevails."
+    },
+    {
+        "o": 18569,
+        "r": "niv:Proverbs:19:22",
+        "t": "What*pn a person desires is unfailing love; better*ld to be poor than a liar."
+    },
+    {
+        "o": 18570,
+        "r": "niv:Proverbs:19:23",
+        "t": "The*pn fear of the Lord*s leads to life; then*ld one rests content, untouched by trouble."
+    },
+    {
+        "o": 18571,
+        "r": "niv:Proverbs:19:24",
+        "t": "A*pn sluggard buries his hand in the dish; he*ld will not even bring it back to his mouth!"
+    },
+    {
+        "o": 18572,
+        "r": "niv:Proverbs:19:25",
+        "t": "Flog*pn a mocker, and the simple will learn prudence; rebuke*ld the discerning, and they will gain knowledge."
+    },
+    {
+        "o": 18573,
+        "r": "niv:Proverbs:19:26",
+        "t": "Whoever*pn robs their father and drives out their mother is*ld a child who brings shame and disgrace."
+    },
+    {
+        "o": 18574,
+        "r": "niv:Proverbs:19:27",
+        "t": "Stop*pn listening to instruction, my son, and*ld you will stray from the words of knowledge."
+    },
+    {
+        "o": 18575,
+        "r": "niv:Proverbs:19:28",
+        "t": "A*pn corrupt witness mocks at justice, and*ld the mouth of the wicked gulps down evil."
+    },
+    {
+        "o": 18576,
+        "r": "niv:Proverbs:19:29",
+        "t": "Penalties*pn are prepared for mockers, and*ld beatings for the backs of fools."
+    },
+    {
+        "o": 18577,
+        "r": "niv:Proverbs:20:0",
+        "t": "Proverbs 20",
+        "h": 1
+    },
+    {
+        "o": 18578,
+        "r": "niv:Proverbs:20:1",
+        "t": "Wine*pn is a mocker and beer a brawler; whoever*ld is led astray by them is not wise."
+    },
+    {
+        "o": 18579,
+        "r": "niv:Proverbs:20:2",
+        "t": "A*pn king’s wrath strikes terror like the roar of a lion; those*ld who anger him forfeit their lives."
+    },
+    {
+        "o": 18580,
+        "r": "niv:Proverbs:20:3",
+        "t": "It*pn is to one’s honor to avoid strife, but*ld every fool is quick to quarrel."
+    },
+    {
+        "o": 18581,
+        "r": "niv:Proverbs:20:4",
+        "t": "Sluggards*pn do not plow in season; so*ld at harvest time they look but find nothing."
+    },
+    {
+        "o": 18582,
+        "r": "niv:Proverbs:20:5",
+        "t": "The*pn purposes of a person’s heart are deep waters, but*ld one who has insight draws them out."
+    },
+    {
+        "o": 18583,
+        "r": "niv:Proverbs:20:6",
+        "t": "Many*pn claim to have unfailing love, but*ld a faithful person who can find?"
+    },
+    {
+        "o": 18584,
+        "r": "niv:Proverbs:20:7",
+        "t": "The*pn righteous lead blameless lives; blessed*ld are their children after them."
+    },
+    {
+        "o": 18585,
+        "r": "niv:Proverbs:20:8",
+        "t": "When*pn a king sits on his throne to judge, he*ld winnows out all evil with his eyes."
+    },
+    {
+        "o": 18586,
+        "r": "niv:Proverbs:20:9",
+        "t": "Who*pn can say, “I have kept my heart pure; I*ld am clean and without sin”?"
+    },
+    {
+        "o": 18587,
+        "r": "niv:Proverbs:20:10",
+        "t": "Differing*pn weights and differing measures— the*ld Lord*s detests them both."
+    },
+    {
+        "o": 18588,
+        "r": "niv:Proverbs:20:11",
+        "t": "Even*pn small children are known by their actions, so*ld is their conduct really pure and upright?"
+    },
+    {
+        "o": 18589,
+        "r": "niv:Proverbs:20:12",
+        "t": "Ears*pn that hear and eyes that see— the*ld Lord*s has made them both."
+    },
+    {
+        "o": 18590,
+        "r": "niv:Proverbs:20:13",
+        "t": "Do*pn not love sleep or you will grow poor; stay*ld awake and you will have food to spare."
+    },
+    {
+        "o": 18591,
+        "r": "niv:Proverbs:20:14",
+        "t": "“It’s*pn no good, it’s no good!” says the buyer— then*ld goes off and boasts about the purchase."
+    },
+    {
+        "o": 18592,
+        "r": "niv:Proverbs:20:15",
+        "t": "Gold*pn there is, and rubies in abundance, but*ld lips that speak knowledge are a rare jewel."
+    },
+    {
+        "o": 18593,
+        "r": "niv:Proverbs:20:16",
+        "t": "Take*pn the garment of one who puts up security for a stranger; hold*ld it in pledge if it is done for an outsider."
+    },
+    {
+        "o": 18594,
+        "r": "niv:Proverbs:20:17",
+        "t": "Food*pn gained by fraud tastes sweet, but*ld one ends up with a mouth full of gravel."
+    },
+    {
+        "o": 18595,
+        "r": "niv:Proverbs:20:18",
+        "t": "Plans*pn are established by seeking advice; so*ld if you wage war, obtain guidance."
+    },
+    {
+        "o": 18596,
+        "r": "niv:Proverbs:20:19",
+        "t": "A*pn gossip betrays a confidence; so*ld avoid anyone who talks too much."
+    },
+    {
+        "o": 18597,
+        "r": "niv:Proverbs:20:20",
+        "t": "If*pn someone curses their father or mother, their*ld lamp will be snuffed out in pitch darkness."
+    },
+    {
+        "o": 18598,
+        "r": "niv:Proverbs:20:21",
+        "t": "An*pn inheritance claimed too soon will*ld not be blessed at the end."
+    },
+    {
+        "o": 18599,
+        "r": "niv:Proverbs:20:22",
+        "t": "Do*pn not say, “I’ll pay you back for this wrong!” Wait*ld for the Lord,*s and he will avenge you."
+    },
+    {
+        "o": 18600,
+        "r": "niv:Proverbs:20:23",
+        "t": "The*pn Lord*s detests differing weights, and*ld dishonest scales do not please him."
+    },
+    {
+        "o": 18601,
+        "r": "niv:Proverbs:20:24",
+        "t": "A*pn person’s steps are directed by the Lord.*s How*ld then can anyone understand their own way?"
+    },
+    {
+        "o": 18602,
+        "r": "niv:Proverbs:20:25",
+        "t": "It*pn is a trap to dedicate something rashly and*ld only later to consider one’s vows."
+    },
+    {
+        "o": 18603,
+        "r": "niv:Proverbs:20:26",
+        "t": "A*pn wise king winnows out the wicked; he*ld drives the threshing wheel over them."
+    },
+    {
+        "o": 18604,
+        "r": "niv:Proverbs:20:27",
+        "t": "The*pn human spirit is the lamp of the Lord*s that*ld sheds light on one’s inmost being."
+    },
+    {
+        "o": 18605,
+        "r": "niv:Proverbs:20:28",
+        "t": "Love*pn and faithfulness keep a king safe; through*ld love his throne is made secure."
+    },
+    {
+        "o": 18606,
+        "r": "niv:Proverbs:20:29",
+        "t": "The*pn glory of young men is their strength, gray*ld hair the splendor of the old."
+    },
+    {
+        "o": 18607,
+        "r": "niv:Proverbs:20:30",
+        "t": "Blows*pn and wounds scrub away evil, and*ld beatings purge the inmost being."
+    },
+    {
+        "o": 18608,
+        "r": "niv:Proverbs:21:0",
+        "t": "Proverbs 21",
+        "h": 1
+    },
+    {
+        "o": 18609,
+        "r": "niv:Proverbs:21:1",
+        "t": "In*pn the Lord’s*s hand the king’s heart is a stream of water that*ld he channels toward all who please him."
+    },
+    {
+        "o": 18610,
+        "r": "niv:Proverbs:21:2",
+        "t": "A*pn person may think their own ways are right, but*ld the Lord*s weighs the heart."
+    },
+    {
+        "o": 18611,
+        "r": "niv:Proverbs:21:3",
+        "t": "To*pn do what is right and just is*ld more acceptable to the Lord*s than sacrifice."
+    },
+    {
+        "o": 18612,
+        "r": "niv:Proverbs:21:4",
+        "t": "Haughty*pn eyes and a proud heart— the*ld unplowed field of the wicked—produce sin."
+    },
+    {
+        "o": 18613,
+        "r": "niv:Proverbs:21:5",
+        "t": "The*pn plans of the diligent lead to profit as*ld surely as haste leads to poverty."
+    },
+    {
+        "o": 18614,
+        "r": "niv:Proverbs:21:6",
+        "t": "A*pn fortune made by a lying tongue is*ld a fleeting vapor and a deadly snare."
+    },
+    {
+        "o": 18615,
+        "r": "niv:Proverbs:21:7",
+        "t": "The*pn violence of the wicked will drag them away, for*ld they refuse to do what is right."
+    },
+    {
+        "o": 18616,
+        "r": "niv:Proverbs:21:8",
+        "t": "The*pn way of the guilty is devious, but*ld the conduct of the innocent is upright."
+    },
+    {
+        "o": 18617,
+        "r": "niv:Proverbs:21:9",
+        "t": "Better*pn to live on a corner of the roof than*ld share a house with a quarrelsome wife."
+    },
+    {
+        "o": 18618,
+        "r": "niv:Proverbs:21:10",
+        "t": "The*pn wicked crave evil; their*ld neighbors get no mercy from them."
+    },
+    {
+        "o": 18619,
+        "r": "niv:Proverbs:21:11",
+        "t": "When*pn a mocker is punished, the simple gain wisdom; by*ld paying attention to the wise they get knowledge."
+    },
+    {
+        "o": 18620,
+        "r": "niv:Proverbs:21:12",
+        "t": "The*pn Righteous One takes note of the house of the wicked and*ld brings the wicked to ruin."
+    },
+    {
+        "o": 18621,
+        "r": "niv:Proverbs:21:13",
+        "t": "Whoever*pn shuts their ears to the cry of the poor will*ld also cry out and not be answered."
+    },
+    {
+        "o": 18622,
+        "r": "niv:Proverbs:21:14",
+        "t": "A*pn gift given in secret soothes anger, and*ld a bribe concealed in the cloak pacifies great wrath."
+    },
+    {
+        "o": 18623,
+        "r": "niv:Proverbs:21:15",
+        "t": "When*pn justice is done, it brings joy to the righteous but*ld terror to evildoers."
+    },
+    {
+        "o": 18624,
+        "r": "niv:Proverbs:21:16",
+        "t": "Whoever*pn strays from the path of prudence comes*ld to rest in the company of the dead."
+    },
+    {
+        "o": 18625,
+        "r": "niv:Proverbs:21:17",
+        "t": "Whoever*pn loves pleasure will become poor; whoever*ld loves wine and olive oil will never be rich."
+    },
+    {
+        "o": 18626,
+        "r": "niv:Proverbs:21:18",
+        "t": "The*pn wicked become a ransom for the righteous, and*ld the unfaithful for the upright."
+    },
+    {
+        "o": 18627,
+        "r": "niv:Proverbs:21:19",
+        "t": "Better*pn to live in a desert than*ld with a quarrelsome and nagging wife."
+    },
+    {
+        "o": 18628,
+        "r": "niv:Proverbs:21:20",
+        "t": "The*pn wise store up choice food and olive oil, but*ld fools gulp theirs down."
+    },
+    {
+        "o": 18629,
+        "r": "niv:Proverbs:21:21",
+        "t": "Whoever*pn pursues righteousness and love finds*ld life, prosperity and honor."
+    },
+    {
+        "o": 18630,
+        "r": "niv:Proverbs:21:22",
+        "t": "One*pn who is wise can go up against the city of the mighty and*ld pull down the stronghold in which they trust."
+    },
+    {
+        "o": 18631,
+        "r": "niv:Proverbs:21:23",
+        "t": "Those*pn who guard their mouths and their tongues keep*ld themselves from calamity."
+    },
+    {
+        "o": 18632,
+        "r": "niv:Proverbs:21:24",
+        "t": "The*pn proud and arrogant person—“Mocker” is his name— behaves*ld with insolent fury."
+    },
+    {
+        "o": 18633,
+        "r": "niv:Proverbs:21:25",
+        "t": "The*pn craving of a sluggard will be the death of him, because*ld his hands refuse to work."
+    },
+    {
+        "o": 18634,
+        "r": "niv:Proverbs:21:26",
+        "t": "All*ln day long he craves for more, but*ld the righteous give without sparing."
+    },
+    {
+        "o": 18635,
+        "r": "niv:Proverbs:21:27",
+        "t": "The*pn sacrifice of the wicked is detestable— how*ld much more so when brought with evil intent!"
+    },
+    {
+        "o": 18636,
+        "r": "niv:Proverbs:21:28",
+        "t": "A*pn false witness will perish, but*ld a careful listener will testify successfully."
+    },
+    {
+        "o": 18637,
+        "r": "niv:Proverbs:21:29",
+        "t": "The*pn wicked put up a bold front, but*ld the upright give thought to their ways."
+    },
+    {
+        "o": 18638,
+        "r": "niv:Proverbs:21:30",
+        "t": "There*pn is no wisdom, no insight, no plan that*ld can succeed against the Lord.*s"
+    },
+    {
+        "o": 18639,
+        "r": "niv:Proverbs:21:31",
+        "t": "The*pn horse is made ready for the day of battle, but*ld victory rests with the Lord.*s"
+    },
+    {
+        "o": 18640,
+        "r": "niv:Proverbs:22:0",
+        "t": "Proverbs 22",
+        "h": 1
+    },
+    {
+        "o": 18641,
+        "r": "niv:Proverbs:22:1",
+        "t": "A*pn good name is more desirable than great riches; to*ld be esteemed is better than silver or gold."
+    },
+    {
+        "o": 18642,
+        "r": "niv:Proverbs:22:2",
+        "t": "Rich*pn and poor have this in common: The*ld Lord*s is the Maker of them all."
+    },
+    {
+        "o": 18643,
+        "r": "niv:Proverbs:22:3",
+        "t": "The*pn prudent see danger and take refuge, but*ld the simple keep going and pay the penalty."
+    },
+    {
+        "o": 18644,
+        "r": "niv:Proverbs:22:4",
+        "t": "Humility*pn is the fear of the Lord;*s its*ld wages are riches and honor and life."
+    },
+    {
+        "o": 18645,
+        "r": "niv:Proverbs:22:5",
+        "t": "In*pn the paths of the wicked are snares and pitfalls, but*ld those who would preserve their life stay far from them."
+    },
+    {
+        "o": 18646,
+        "r": "niv:Proverbs:22:6",
+        "t": "Start*pn children off on the way they should go, and*ld even when they are old they will not turn from it."
+    },
+    {
+        "o": 18647,
+        "r": "niv:Proverbs:22:7",
+        "t": "The*pn rich rule over the poor, and*ld the borrower is slave to the lender."
+    },
+    {
+        "o": 18648,
+        "r": "niv:Proverbs:22:8",
+        "t": "Whoever*pn sows injustice reaps calamity, and*ld the rod they wield in fury will be broken."
+    },
+    {
+        "o": 18649,
+        "r": "niv:Proverbs:22:9",
+        "t": "The*pn generous will themselves be blessed, for*ld they share their food with the poor."
+    },
+    {
+        "o": 18650,
+        "r": "niv:Proverbs:22:10",
+        "t": "Drive*pn out the mocker, and out goes strife; quarrels*ld and insults are ended."
+    },
+    {
+        "o": 18651,
+        "r": "niv:Proverbs:22:11",
+        "t": "One*pn who loves a pure heart and who speaks with grace will*ld have the king for a friend."
+    },
+    {
+        "o": 18652,
+        "r": "niv:Proverbs:22:12",
+        "t": "The*pn eyes of the Lord*s keep watch over knowledge, but*ld he frustrates the words of the unfaithful."
+    },
+    {
+        "o": 18653,
+        "r": "niv:Proverbs:22:13",
+        "t": "The*pn sluggard says, “There’s a lion outside! I’ll*ld be killed in the public square!”"
+    },
+    {
+        "o": 18654,
+        "r": "niv:Proverbs:22:14",
+        "t": "The*pn mouth of an adulterous woman is a deep pit; a*ld man who is under the Lord’s*s wrath falls into it."
+    },
+    {
+        "o": 18655,
+        "r": "niv:Proverbs:22:15",
+        "t": "Folly*pn is bound up in the heart of a child, but*ld the rod of discipline will drive it far away."
+    },
+    {
+        "o": 18656,
+        "r": "niv:Proverbs:22:16",
+        "t": "One*pn who oppresses the poor to increase his wealth and*ld one who gives gifts to the rich—both come to poverty."
+    },
+    {
+        "o": 18657,
+        "r": "niv:Proverbs:22:16",
+        "t": "Thirty Sayings of the Wise",
+        "h": 2.5
+    },
+    {
+        "o": 18658,
+        "r": "niv:Proverbs:22:16",
+        "t": "Saying 1",
+        "h": 3
+    },
+    {
+        "o": 18659,
+        "r": "niv:Proverbs:22:17",
+        "t": "Pay*pn attention and turn your ear to the sayings of the wise; apply*ld your heart to what I teach,"
+    },
+    {
+        "o": 18660,
+        "r": "niv:Proverbs:22:18",
+        "t": "for*ln it is pleasing when you keep them in your heart and*ld have all of them ready on your lips."
+    },
+    {
+        "o": 18661,
+        "r": "niv:Proverbs:22:19",
+        "t": "So*ln that your trust may be in the Lord,*s I*ld teach you today, even you."
+    },
+    {
+        "o": 18662,
+        "r": "niv:Proverbs:22:20",
+        "t": "Have*ln I not written thirty sayings for you, sayings*ld of counsel and knowledge,"
+    },
+    {
+        "o": 18663,
+        "r": "niv:Proverbs:22:21",
+        "t": "teaching*ln you to be honest and to speak the truth, so*ld that you bring back truthful reports to*ld those you serve?"
+    },
+    {
+        "o": 18664,
+        "r": "niv:Proverbs:22:21",
+        "t": "Saying 2",
+        "h": 3
+    },
+    {
+        "o": 18665,
+        "r": "niv:Proverbs:22:22",
+        "t": "Do*pn not exploit the poor because they are poor and*ld do not crush the needy in court,"
+    },
+    {
+        "o": 18666,
+        "r": "niv:Proverbs:22:23",
+        "t": "for*ln the Lord*s will take up their case and*ld will exact life for life."
+    },
+    {
+        "o": 18667,
+        "r": "niv:Proverbs:22:23",
+        "t": "Saying 3",
+        "h": 3
+    },
+    {
+        "o": 18668,
+        "r": "niv:Proverbs:22:24",
+        "t": "Do*pn not make friends with a hot-tempered person, do*ld not associate with one easily angered,"
+    },
+    {
+        "o": 18669,
+        "r": "niv:Proverbs:22:25",
+        "t": "or*ln you may learn their ways and*ld get yourself ensnared."
+    },
+    {
+        "o": 18670,
+        "r": "niv:Proverbs:22:25",
+        "t": "Saying 4",
+        "h": 3
+    },
+    {
+        "o": 18671,
+        "r": "niv:Proverbs:22:26",
+        "t": "Do*pn not be one who shakes hands in pledge or*ld puts up security for debts;"
+    },
+    {
+        "o": 18672,
+        "r": "niv:Proverbs:22:27",
+        "t": "if*ln you lack the means to pay, your*ld very bed will be snatched from under you."
+    },
+    {
+        "o": 18673,
+        "r": "niv:Proverbs:22:27",
+        "t": "Saying 5",
+        "h": 3
+    },
+    {
+        "o": 18674,
+        "r": "niv:Proverbs:22:28",
+        "t": "Do*pn not move an ancient boundary stone set*ld up by your ancestors."
+    },
+    {
+        "o": 18675,
+        "r": "niv:Proverbs:22:28",
+        "t": "Saying 6",
+        "h": 3
+    },
+    {
+        "o": 18676,
+        "r": "niv:Proverbs:22:29",
+        "t": "Do*pn you see someone skilled in their work? They*ld will serve before kings; they*ld will not serve before officials of low rank."
+    },
+    {
+        "o": 18677,
+        "r": "niv:Proverbs:23:0",
+        "t": "Proverbs 23",
+        "h": 1
+    },
+    {
+        "o": 18678,
+        "r": "niv:Proverbs:23:0",
+        "t": "Saying 7",
+        "h": 3
+    },
+    {
+        "o": 18679,
+        "r": "niv:Proverbs:23:1",
+        "t": "When*pn you sit to dine with a ruler, note*ld well what is before you,"
+    },
+    {
+        "o": 18680,
+        "r": "niv:Proverbs:23:2",
+        "t": "and*ln put a knife to your throat if*ld you are given to gluttony."
+    },
+    {
+        "o": 18681,
+        "r": "niv:Proverbs:23:3",
+        "t": "Do*ln not crave his delicacies, for*ld that food is deceptive."
+    },
+    {
+        "o": 18682,
+        "r": "niv:Proverbs:23:3",
+        "t": "Saying 8",
+        "h": 3
+    },
+    {
+        "o": 18683,
+        "r": "niv:Proverbs:23:4",
+        "t": "Do*pn not wear yourself out to get rich; do*ld not trust your own cleverness."
+    },
+    {
+        "o": 18684,
+        "r": "niv:Proverbs:23:5",
+        "t": "Cast*ln but a glance at riches, and they are gone, for*ld they will surely sprout wings and*ld fly off to the sky like an eagle."
+    },
+    {
+        "o": 18685,
+        "r": "niv:Proverbs:23:5",
+        "t": "Saying 9",
+        "h": 3
+    },
+    {
+        "o": 18686,
+        "r": "niv:Proverbs:23:6",
+        "t": "Do*pn not eat the food of a begrudging host, do*ld not crave his delicacies;"
+    },
+    {
+        "o": 18687,
+        "r": "niv:Proverbs:23:7",
+        "t": "for*ln he is the kind of person who*ld is always thinking about the cost. “Eat*ln and drink,” he says to you, but*ld his heart is not with you."
+    },
+    {
+        "o": 18688,
+        "r": "niv:Proverbs:23:8",
+        "t": "You*ln will vomit up the little you have eaten and*ld will have wasted your compliments."
+    },
+    {
+        "o": 18689,
+        "r": "niv:Proverbs:23:8",
+        "t": "Saying 10",
+        "h": 3
+    },
+    {
+        "o": 18690,
+        "r": "niv:Proverbs:23:9",
+        "t": "Do*pn not speak to fools, for*ld they will scorn your prudent words."
+    },
+    {
+        "o": 18691,
+        "r": "niv:Proverbs:23:9",
+        "t": "Saying 11",
+        "h": 3
+    },
+    {
+        "o": 18692,
+        "r": "niv:Proverbs:23:10",
+        "t": "Do*pn not move an ancient boundary stone or*ld encroach on the fields of the fatherless,"
+    },
+    {
+        "o": 18693,
+        "r": "niv:Proverbs:23:11",
+        "t": "for*ln their Defender is strong; he*ld will take up their case against you."
+    },
+    {
+        "o": 18694,
+        "r": "niv:Proverbs:23:11",
+        "t": "Saying 12",
+        "h": 3
+    },
+    {
+        "o": 18695,
+        "r": "niv:Proverbs:23:12",
+        "t": "Apply*pn your heart to instruction and*ld your ears to words of knowledge."
+    },
+    {
+        "o": 18696,
+        "r": "niv:Proverbs:23:12",
+        "t": "Saying 13",
+        "h": 3
+    },
+    {
+        "o": 18697,
+        "r": "niv:Proverbs:23:13",
+        "t": "Do*pn not withhold discipline from a child; if*ld you punish them with the rod, they will not die."
+    },
+    {
+        "o": 18698,
+        "r": "niv:Proverbs:23:14",
+        "t": "Punish*ln them with the rod and*ld save them from death."
+    },
+    {
+        "o": 18699,
+        "r": "niv:Proverbs:23:14",
+        "t": "Saying 14",
+        "h": 3
+    },
+    {
+        "o": 18700,
+        "r": "niv:Proverbs:23:15",
+        "t": "My*pn son, if your heart is wise, then*ld my heart will be glad indeed;"
+    },
+    {
+        "o": 18701,
+        "r": "niv:Proverbs:23:16",
+        "t": "my*ln inmost being will rejoice when*ld your lips speak what is right."
+    },
+    {
+        "o": 18702,
+        "r": "niv:Proverbs:23:16",
+        "t": "Saying 15",
+        "h": 3
+    },
+    {
+        "o": 18703,
+        "r": "niv:Proverbs:23:17",
+        "t": "Do*pn not let your heart envy sinners, but*ld always be zealous for the fear of the Lord.*s"
+    },
+    {
+        "o": 18704,
+        "r": "niv:Proverbs:23:18",
+        "t": "There*ln is surely a future hope for you, and*ld your hope will not be cut off."
+    },
+    {
+        "o": 18705,
+        "r": "niv:Proverbs:23:18",
+        "t": "Saying 16",
+        "h": 3
+    },
+    {
+        "o": 18706,
+        "r": "niv:Proverbs:23:19",
+        "t": "Listen,*pn my son, and be wise, and*ld set your heart on the right path:"
+    },
+    {
+        "o": 18707,
+        "r": "niv:Proverbs:23:20",
+        "t": "Do*ln not join those who drink too much wine or*ld gorge themselves on meat,"
+    },
+    {
+        "o": 18708,
+        "r": "niv:Proverbs:23:21",
+        "t": "for*ln drunkards and gluttons become poor, and*ld drowsiness clothes them in rags."
+    },
+    {
+        "o": 18709,
+        "r": "niv:Proverbs:23:21",
+        "t": "Saying 17",
+        "h": 3
+    },
+    {
+        "o": 18710,
+        "r": "niv:Proverbs:23:22",
+        "t": "Listen*pn to your father, who gave you life, and*ld do not despise your mother when she is old."
+    },
+    {
+        "o": 18711,
+        "r": "niv:Proverbs:23:23",
+        "t": "Buy*ln the truth and do not sell it— wisdom,*ld instruction and insight as well."
+    },
+    {
+        "o": 18712,
+        "r": "niv:Proverbs:23:24",
+        "t": "The*ln father of a righteous child has great joy; a*ld man who fathers a wise son rejoices in him."
+    },
+    {
+        "o": 18713,
+        "r": "niv:Proverbs:23:25",
+        "t": "May*ln your father and mother rejoice; may*ld she who gave you birth be joyful!"
+    },
+    {
+        "o": 18714,
+        "r": "niv:Proverbs:23:25",
+        "t": "Saying 18",
+        "h": 3
+    },
+    {
+        "o": 18715,
+        "r": "niv:Proverbs:23:26",
+        "t": "My*pn son, give me your heart and*ld let your eyes delight in my ways,"
+    },
+    {
+        "o": 18716,
+        "r": "niv:Proverbs:23:27",
+        "t": "for*ln an adulterous woman is a deep pit, and*ld a wayward wife is a narrow well."
+    },
+    {
+        "o": 18717,
+        "r": "niv:Proverbs:23:28",
+        "t": "Like*ln a bandit she lies in wait and*ld multiplies the unfaithful among men."
+    },
+    {
+        "o": 18718,
+        "r": "niv:Proverbs:23:28",
+        "t": "Saying 19",
+        "h": 3
+    },
+    {
+        "o": 18719,
+        "r": "niv:Proverbs:23:29",
+        "t": "Who*pn has woe? Who has sorrow? Who*ld has strife? Who has complaints? Who*ld has needless bruises? Who has bloodshot eyes?"
+    },
+    {
+        "o": 18720,
+        "r": "niv:Proverbs:23:30",
+        "t": "Those*ln who linger over wine, who*ld go to sample bowls of mixed wine."
+    },
+    {
+        "o": 18721,
+        "r": "niv:Proverbs:23:31",
+        "t": "Do*ln not gaze at wine when it is red, when*ld it sparkles in the cup, when*ld it goes down smoothly!"
+    },
+    {
+        "o": 18722,
+        "r": "niv:Proverbs:23:32",
+        "t": "In*ln the end it bites like a snake and*ld poisons like a viper."
+    },
+    {
+        "o": 18723,
+        "r": "niv:Proverbs:23:33",
+        "t": "Your*ln eyes will see strange sights, and*ld your mind will imagine confusing things."
+    },
+    {
+        "o": 18724,
+        "r": "niv:Proverbs:23:34",
+        "t": "You*ln will be like one sleeping on the high seas, lying*ld on top of the rigging."
+    },
+    {
+        "o": 18725,
+        "r": "niv:Proverbs:23:35",
+        "t": "“They*ln hit me,” you will say, “but I’m not hurt! They*ld beat me, but I don’t feel it! When*ln will I wake up so*ld I can find another drink?”"
+    },
+    {
+        "o": 18726,
+        "r": "niv:Proverbs:24:0",
+        "t": "Proverbs 24",
+        "h": 1
+    },
+    {
+        "o": 18727,
+        "r": "niv:Proverbs:24:0",
+        "t": "Saying 20",
+        "h": 3
+    },
+    {
+        "o": 18728,
+        "r": "niv:Proverbs:24:1",
+        "t": "Do*pn not envy the wicked, do*ld not desire their company;"
+    },
+    {
+        "o": 18729,
+        "r": "niv:Proverbs:24:2",
+        "t": "for*ln their hearts plot violence, and*ld their lips talk about making trouble."
+    },
+    {
+        "o": 18730,
+        "r": "niv:Proverbs:24:2",
+        "t": "Saying 21",
+        "h": 3
+    },
+    {
+        "o": 18731,
+        "r": "niv:Proverbs:24:3",
+        "t": "By*pn wisdom a house is built, and*ld through understanding it is established;"
+    },
+    {
+        "o": 18732,
+        "r": "niv:Proverbs:24:4",
+        "t": "through*ln knowledge its rooms are filled with*ld rare and beautiful treasures."
+    },
+    {
+        "o": 18733,
+        "r": "niv:Proverbs:24:4",
+        "t": "Saying 22",
+        "h": 3
+    },
+    {
+        "o": 18734,
+        "r": "niv:Proverbs:24:5",
+        "t": "The*pn wise prevail through great power, and*ld those who have knowledge muster their strength."
+    },
+    {
+        "o": 18735,
+        "r": "niv:Proverbs:24:6",
+        "t": "Surely*ln you need guidance to wage war, and*ld victory is won through many advisers."
+    },
+    {
+        "o": 18736,
+        "r": "niv:Proverbs:24:6",
+        "t": "Saying 23",
+        "h": 3
+    },
+    {
+        "o": 18737,
+        "r": "niv:Proverbs:24:7",
+        "t": "Wisdom*pn is too high for fools; in*ld the assembly at the gate they must not open their mouths."
+    },
+    {
+        "o": 18738,
+        "r": "niv:Proverbs:24:7",
+        "t": "Saying 24",
+        "h": 3
+    },
+    {
+        "o": 18739,
+        "r": "niv:Proverbs:24:8",
+        "t": "Whoever*pn plots evil will*ld be known as a schemer."
+    },
+    {
+        "o": 18740,
+        "r": "niv:Proverbs:24:9",
+        "t": "The*ln schemes of folly are sin, and*ld people detest a mocker."
+    },
+    {
+        "o": 18741,
+        "r": "niv:Proverbs:24:9",
+        "t": "Saying 25",
+        "h": 3
+    },
+    {
+        "o": 18742,
+        "r": "niv:Proverbs:24:10",
+        "t": "If*pn you falter in a time of trouble, how*ld small is your strength!"
+    },
+    {
+        "o": 18743,
+        "r": "niv:Proverbs:24:11",
+        "t": "Rescue*ln those being led away to death; hold*ld back those staggering toward slaughter."
+    },
+    {
+        "o": 18744,
+        "r": "niv:Proverbs:24:12",
+        "t": "If*ln you say, “But we knew nothing about this,” does*ld not he who weighs the heart perceive it? Does*ln not he who guards your life know it? Will*ld he not repay everyone according to what they have done?"
+    },
+    {
+        "o": 18745,
+        "r": "niv:Proverbs:24:12",
+        "t": "Saying 26",
+        "h": 3
+    },
+    {
+        "o": 18746,
+        "r": "niv:Proverbs:24:13",
+        "t": "Eat*pn honey, my son, for it is good; honey*ld from the comb is sweet to your taste."
+    },
+    {
+        "o": 18747,
+        "r": "niv:Proverbs:24:14",
+        "t": "Know*ln also that wisdom is like honey for you: If*ld you find it, there is a future hope for you, and*ld your hope will not be cut off."
+    },
+    {
+        "o": 18748,
+        "r": "niv:Proverbs:24:14",
+        "t": "Saying 27",
+        "h": 3
+    },
+    {
+        "o": 18749,
+        "r": "niv:Proverbs:24:15",
+        "t": "Do*pn not lurk like a thief near the house of the righteous, do*ld not plunder their dwelling place;"
+    },
+    {
+        "o": 18750,
+        "r": "niv:Proverbs:24:16",
+        "t": "for*ln though the righteous fall seven times, they rise again, but*ld the wicked stumble when calamity strikes."
+    },
+    {
+        "o": 18751,
+        "r": "niv:Proverbs:24:16",
+        "t": "Saying 28",
+        "h": 3
+    },
+    {
+        "o": 18752,
+        "r": "niv:Proverbs:24:17",
+        "t": "Do*pn not gloat when your enemy falls; when*ld they stumble, do not let your heart rejoice,"
+    },
+    {
+        "o": 18753,
+        "r": "niv:Proverbs:24:18",
+        "t": "or*ln the Lord*s will see and disapprove and*ld turn his wrath away from them."
+    },
+    {
+        "o": 18754,
+        "r": "niv:Proverbs:24:18",
+        "t": "Saying 29",
+        "h": 3
+    },
+    {
+        "o": 18755,
+        "r": "niv:Proverbs:24:19",
+        "t": "Do*pn not fret because of evildoers or*ld be envious of the wicked,"
+    },
+    {
+        "o": 18756,
+        "r": "niv:Proverbs:24:20",
+        "t": "for*ln the evildoer has no future hope, and*ld the lamp of the wicked will be snuffed out."
+    },
+    {
+        "o": 18757,
+        "r": "niv:Proverbs:24:20",
+        "t": "Saying 30",
+        "h": 3
+    },
+    {
+        "o": 18758,
+        "r": "niv:Proverbs:24:21",
+        "t": "Fear*pn the Lord*s and the king, my son, and*ld do not join with rebellious officials,"
+    },
+    {
+        "o": 18759,
+        "r": "niv:Proverbs:24:22",
+        "t": "for*ln those two will send sudden destruction on them, and*ld who knows what calamities they can bring?"
+    },
+    {
+        "o": 18760,
+        "r": "niv:Proverbs:24:22",
+        "t": "Further Sayings of the Wise",
+        "h": 2.5
+    },
+    {
+        "o": 18761,
+        "r": "niv:Proverbs:24:23",
+        "t": "These*p also are sayings of the wise: To*pn show partiality in judging is not good:"
+    },
+    {
+        "o": 18762,
+        "r": "niv:Proverbs:24:24",
+        "t": "Whoever*ln says to the guilty, “You are innocent,” will*ld be cursed by peoples and denounced by nations."
+    },
+    {
+        "o": 18763,
+        "r": "niv:Proverbs:24:25",
+        "t": "But*ln it will go well with those who convict the guilty, and*ld rich blessing will come on them."
+    },
+    {
+        "o": 18764,
+        "r": "niv:Proverbs:24:26",
+        "t": "An*pn honest answer is*ld like a kiss on the lips."
+    },
+    {
+        "o": 18765,
+        "r": "niv:Proverbs:24:27",
+        "t": "Put*pn your outdoor work in order and*ld get your fields ready; after*ld that, build your house."
+    },
+    {
+        "o": 18766,
+        "r": "niv:Proverbs:24:28",
+        "t": "Do*pn not testify against your neighbor without cause— would*ld you use your lips to mislead?"
+    },
+    {
+        "o": 18767,
+        "r": "niv:Proverbs:24:29",
+        "t": "Do*ln not say, “I’ll do to them as they have done to me; I’ll*ld pay them back for what they did.”"
+    },
+    {
+        "o": 18768,
+        "r": "niv:Proverbs:24:30",
+        "t": "I*pn went past the field of a sluggard, past*ld the vineyard of someone who has no sense;"
+    },
+    {
+        "o": 18769,
+        "r": "niv:Proverbs:24:31",
+        "t": "thorns*ln had come up everywhere, the*ld ground was covered with weeds, and*ld the stone wall was in ruins."
+    },
+    {
+        "o": 18770,
+        "r": "niv:Proverbs:24:32",
+        "t": "I*ln applied my heart to what I observed and*ld learned a lesson from what I saw:"
+    },
+    {
+        "o": 18771,
+        "r": "niv:Proverbs:24:33",
+        "t": "A*ln little sleep, a little slumber, a*ld little folding of the hands to rest—"
+    },
+    {
+        "o": 18772,
+        "r": "niv:Proverbs:24:34",
+        "t": "and*ln poverty will come on you like a thief and*ld scarcity like an armed man."
+    },
+    {
+        "o": 18773,
+        "r": "niv:Proverbs:25:0",
+        "t": "Proverbs 25",
+        "h": 1
+    },
+    {
+        "o": 18774,
+        "r": "niv:Proverbs:25:0",
+        "t": "More Proverbs of Solomon",
+        "h": 2.5
+    },
+    {
+        "o": 18775,
+        "r": "niv:Proverbs:25:1",
+        "t": "These*p are more proverbs of Solomon, compiled by the men of Hezekiah king of Judah:"
+    },
+    {
+        "o": 18776,
+        "r": "niv:Proverbs:25:2",
+        "t": "It*pn is the glory of God to conceal a matter; to*ld search out a matter is the glory of kings."
+    },
+    {
+        "o": 18777,
+        "r": "niv:Proverbs:25:3",
+        "t": "As*ln the heavens are high and the earth is deep, so*ld the hearts of kings are unsearchable."
+    },
+    {
+        "o": 18778,
+        "r": "niv:Proverbs:25:4",
+        "t": "Remove*pn the dross from the silver, and*ld a silversmith can produce a vessel;"
+    },
+    {
+        "o": 18779,
+        "r": "niv:Proverbs:25:5",
+        "t": "remove*ln wicked officials from the king’s presence, and*ld his throne will be established through righteousness."
+    },
+    {
+        "o": 18780,
+        "r": "niv:Proverbs:25:6",
+        "t": "Do*pn not exalt yourself in the king’s presence, and*ld do not claim a place among his great men;"
+    },
+    {
+        "o": 18781,
+        "r": "niv:Proverbs:25:7",
+        "t": "it*ln is better for him to say to you, “Come up here,” than*ld for him to humiliate you before his nobles. What*pn you have seen with your eyes"
+    },
+    {
+        "o": 18782,
+        "r": "niv:Proverbs:25:8",
+        "t": "do*ld not bring hastily to court, for*ln what will you do in the end if*ld your neighbor puts you to shame?"
+    },
+    {
+        "o": 18783,
+        "r": "niv:Proverbs:25:9",
+        "t": "If*pn you take your neighbor to court, do*ld not betray another’s confidence,"
+    },
+    {
+        "o": 18784,
+        "r": "niv:Proverbs:25:10",
+        "t": "or*ln the one who hears it may shame you and*ld the charge against you will stand."
+    },
+    {
+        "o": 18785,
+        "r": "niv:Proverbs:25:11",
+        "t": "Like*pn apples of gold in settings of silver is*ld a ruling rightly given."
+    },
+    {
+        "o": 18786,
+        "r": "niv:Proverbs:25:12",
+        "t": "Like*ln an earring of gold or an ornament of fine gold is*ld the rebuke of a wise judge to a listening ear."
+    },
+    {
+        "o": 18787,
+        "r": "niv:Proverbs:25:13",
+        "t": "Like*pn a snow-cooled drink at harvest time is*ld a trustworthy messenger to the one who sends him; he*ld refreshes the spirit of his master."
+    },
+    {
+        "o": 18788,
+        "r": "niv:Proverbs:25:14",
+        "t": "Like*ln clouds and wind without rain is*ld one who boasts of gifts never given."
+    },
+    {
+        "o": 18789,
+        "r": "niv:Proverbs:25:15",
+        "t": "Through*pn patience a ruler can be persuaded, and*ld a gentle tongue can break a bone."
+    },
+    {
+        "o": 18790,
+        "r": "niv:Proverbs:25:16",
+        "t": "If*pn you find honey, eat just enough— too*ld much of it, and you will vomit."
+    },
+    {
+        "o": 18791,
+        "r": "niv:Proverbs:25:17",
+        "t": "Seldom*ln set foot in your neighbor’s house— too*ld much of you, and they will hate you."
+    },
+    {
+        "o": 18792,
+        "r": "niv:Proverbs:25:18",
+        "t": "Like*pn a club or a sword or a sharp arrow is*ld one who gives false testimony against a neighbor."
+    },
+    {
+        "o": 18793,
+        "r": "niv:Proverbs:25:19",
+        "t": "Like*ln a broken tooth or a lame foot is*ld reliance on the unfaithful in a time of trouble."
+    },
+    {
+        "o": 18794,
+        "r": "niv:Proverbs:25:20",
+        "t": "Like*ln one who takes away a garment on a cold day, or*ld like vinegar poured on a wound, is*ld one who sings songs to a heavy heart."
+    },
+    {
+        "o": 18795,
+        "r": "niv:Proverbs:25:21",
+        "t": "If*pn your enemy is hungry, give him food to eat; if*ld he is thirsty, give him water to drink."
+    },
+    {
+        "o": 18796,
+        "r": "niv:Proverbs:25:22",
+        "t": "In*ln doing this, you will heap burning coals on his head, and*ld the Lord*s will reward you."
+    },
+    {
+        "o": 18797,
+        "r": "niv:Proverbs:25:23",
+        "t": "Like*pn a north wind that brings unexpected rain is*ld a sly tongue—which provokes a horrified look."
+    },
+    {
+        "o": 18798,
+        "r": "niv:Proverbs:25:24",
+        "t": "Better*pn to live on a corner of the roof than*ld share a house with a quarrelsome wife."
+    },
+    {
+        "o": 18799,
+        "r": "niv:Proverbs:25:25",
+        "t": "Like*pn cold water to a weary soul is*ld good news from a distant land."
+    },
+    {
+        "o": 18800,
+        "r": "niv:Proverbs:25:26",
+        "t": "Like*ln a muddied spring or a polluted well are*ld the righteous who give way to the wicked."
+    },
+    {
+        "o": 18801,
+        "r": "niv:Proverbs:25:27",
+        "t": "It*pn is not good to eat too much honey, nor*ld is it honorable to search out matters that are too deep."
+    },
+    {
+        "o": 18802,
+        "r": "niv:Proverbs:25:28",
+        "t": "Like*pn a city whose walls are broken through is*ld a person who lacks self-control."
+    },
+    {
+        "o": 18803,
+        "r": "niv:Proverbs:26:0",
+        "t": "Proverbs 26",
+        "h": 1
+    },
+    {
+        "o": 18804,
+        "r": "niv:Proverbs:26:1",
+        "t": "Like*pn snow in summer or rain in harvest, honor*ld is not fitting for a fool."
+    },
+    {
+        "o": 18805,
+        "r": "niv:Proverbs:26:2",
+        "t": "Like*ln a fluttering sparrow or a darting swallow, an*ld undeserved curse does not come to rest."
+    },
+    {
+        "o": 18806,
+        "r": "niv:Proverbs:26:3",
+        "t": "A*ln whip for the horse, a bridle for the donkey, and*ld a rod for the backs of fools!"
+    },
+    {
+        "o": 18807,
+        "r": "niv:Proverbs:26:4",
+        "t": "Do*ln not answer a fool according to his folly, or*ld you yourself will be just like him."
+    },
+    {
+        "o": 18808,
+        "r": "niv:Proverbs:26:5",
+        "t": "Answer*ln a fool according to his folly, or*ld he will be wise in his own eyes."
+    },
+    {
+        "o": 18809,
+        "r": "niv:Proverbs:26:6",
+        "t": "Sending*ln a message by the hands of a fool is*ld like cutting off one’s feet or drinking poison."
+    },
+    {
+        "o": 18810,
+        "r": "niv:Proverbs:26:7",
+        "t": "Like*ln the useless legs of one who is lame is*ld a proverb in the mouth of a fool."
+    },
+    {
+        "o": 18811,
+        "r": "niv:Proverbs:26:8",
+        "t": "Like*ln tying a stone in a sling is*ld the giving of honor to a fool."
+    },
+    {
+        "o": 18812,
+        "r": "niv:Proverbs:26:9",
+        "t": "Like*ln a thornbush in a drunkard’s hand is*ld a proverb in the mouth of a fool."
+    },
+    {
+        "o": 18813,
+        "r": "niv:Proverbs:26:10",
+        "t": "Like*ln an archer who wounds at random is*ld one who hires a fool or any passer-by."
+    },
+    {
+        "o": 18814,
+        "r": "niv:Proverbs:26:11",
+        "t": "As*ln a dog returns to its vomit, so*ld fools repeat their folly."
+    },
+    {
+        "o": 18815,
+        "r": "niv:Proverbs:26:12",
+        "t": "Do*ln you see a person wise in their own eyes? There*ld is more hope for a fool than for them."
+    },
+    {
+        "o": 18816,
+        "r": "niv:Proverbs:26:13",
+        "t": "A*pn sluggard says, “There’s a lion in the road, a*ld fierce lion roaming the streets!”"
+    },
+    {
+        "o": 18817,
+        "r": "niv:Proverbs:26:14",
+        "t": "As*ln a door turns on its hinges, so*ld a sluggard turns on his bed."
+    },
+    {
+        "o": 18818,
+        "r": "niv:Proverbs:26:15",
+        "t": "A*ln sluggard buries his hand in the dish; he*ld is too lazy to bring it back to his mouth."
+    },
+    {
+        "o": 18819,
+        "r": "niv:Proverbs:26:16",
+        "t": "A*ln sluggard is wiser in his own eyes than*ld seven people who answer discreetly."
+    },
+    {
+        "o": 18820,
+        "r": "niv:Proverbs:26:17",
+        "t": "Like*pn one who grabs a stray dog by the ears is*ld someone who rushes into a quarrel not their own."
+    },
+    {
+        "o": 18821,
+        "r": "niv:Proverbs:26:18",
+        "t": "Like*pn a maniac shooting flaming*ld arrows of death"
+    },
+    {
+        "o": 18822,
+        "r": "niv:Proverbs:26:19",
+        "t": "is*ln one who deceives their neighbor and*ld says, “I was only joking!”"
+    },
+    {
+        "o": 18823,
+        "r": "niv:Proverbs:26:20",
+        "t": "Without*pn wood a fire goes out; without*ld a gossip a quarrel dies down."
+    },
+    {
+        "o": 18824,
+        "r": "niv:Proverbs:26:21",
+        "t": "As*ln charcoal to embers and as wood to fire, so*ld is a quarrelsome person for kindling strife."
+    },
+    {
+        "o": 18825,
+        "r": "niv:Proverbs:26:22",
+        "t": "The*ln words of a gossip are like choice morsels; they*ld go down to the inmost parts."
+    },
+    {
+        "o": 18826,
+        "r": "niv:Proverbs:26:23",
+        "t": "Like*pn a coating of silver dross on earthenware are*ld fervent lips with an evil heart."
+    },
+    {
+        "o": 18827,
+        "r": "niv:Proverbs:26:24",
+        "t": "Enemies*ln disguise themselves with their lips, but*ld in their hearts they harbor deceit."
+    },
+    {
+        "o": 18828,
+        "r": "niv:Proverbs:26:25",
+        "t": "Though*ln their speech is charming, do not believe them, for*ld seven abominations fill their hearts."
+    },
+    {
+        "o": 18829,
+        "r": "niv:Proverbs:26:26",
+        "t": "Their*ln malice may be concealed by deception, but*ld their wickedness will be exposed in the assembly."
+    },
+    {
+        "o": 18830,
+        "r": "niv:Proverbs:26:27",
+        "t": "Whoever*ln digs a pit will fall into it; if*ld someone rolls a stone, it will roll back on them."
+    },
+    {
+        "o": 18831,
+        "r": "niv:Proverbs:26:28",
+        "t": "A*ln lying tongue hates those it hurts, and*ld a flattering mouth works ruin."
+    },
+    {
+        "o": 18832,
+        "r": "niv:Proverbs:27:0",
+        "t": "Proverbs 27",
+        "h": 1
+    },
+    {
+        "o": 18833,
+        "r": "niv:Proverbs:27:1",
+        "t": "Do*pn not boast about tomorrow, for*ld you do not know what a day may bring."
+    },
+    {
+        "o": 18834,
+        "r": "niv:Proverbs:27:2",
+        "t": "Let*pn someone else praise you, and not your own mouth; an*ld outsider, and not your own lips."
+    },
+    {
+        "o": 18835,
+        "r": "niv:Proverbs:27:3",
+        "t": "Stone*pn is heavy and sand a burden, but*ld a fool’s provocation is heavier than both."
+    },
+    {
+        "o": 18836,
+        "r": "niv:Proverbs:27:4",
+        "t": "Anger*pn is cruel and fury overwhelming, but*ld who can stand before jealousy?"
+    },
+    {
+        "o": 18837,
+        "r": "niv:Proverbs:27:5",
+        "t": "Better*pn is open rebuke than*ld hidden love."
+    },
+    {
+        "o": 18838,
+        "r": "niv:Proverbs:27:6",
+        "t": "Wounds*pn from a friend can be trusted, but*ld an enemy multiplies kisses."
+    },
+    {
+        "o": 18839,
+        "r": "niv:Proverbs:27:7",
+        "t": "One*pn who is full loathes honey from the comb, but*ld to the hungry even what is bitter tastes sweet."
+    },
+    {
+        "o": 18840,
+        "r": "niv:Proverbs:27:8",
+        "t": "Like*pn a bird that flees its nest is*ld anyone who flees from home."
+    },
+    {
+        "o": 18841,
+        "r": "niv:Proverbs:27:9",
+        "t": "Perfume*pn and incense bring joy to the heart, and*ld the pleasantness of a friend springs*ld from their heartfelt advice."
+    },
+    {
+        "o": 18842,
+        "r": "niv:Proverbs:27:10",
+        "t": "Do*pn not forsake your friend or a friend of your family, and*ld do not go to your relative’s house when disaster strikes you— better*ld a neighbor nearby than a relative far away."
+    },
+    {
+        "o": 18843,
+        "r": "niv:Proverbs:27:11",
+        "t": "Be*pn wise, my son, and bring joy to my heart; then*ld I can answer anyone who treats me with contempt."
+    },
+    {
+        "o": 18844,
+        "r": "niv:Proverbs:27:12",
+        "t": "The*pn prudent see danger and take refuge, but*ld the simple keep going and pay the penalty."
+    },
+    {
+        "o": 18845,
+        "r": "niv:Proverbs:27:13",
+        "t": "Take*pn the garment of one who puts up security for a stranger; hold*ld it in pledge if it is done for an outsider."
+    },
+    {
+        "o": 18846,
+        "r": "niv:Proverbs:27:14",
+        "t": "If*pn anyone loudly blesses their neighbor early in the morning, it*ld will be taken as a curse."
+    },
+    {
+        "o": 18847,
+        "r": "niv:Proverbs:27:15",
+        "t": "A*pn quarrelsome wife is like the dripping of*ld a leaky roof in a rainstorm;"
+    },
+    {
+        "o": 18848,
+        "r": "niv:Proverbs:27:16",
+        "t": "restraining*ln her is like restraining the wind or*ld grasping oil with the hand."
+    },
+    {
+        "o": 18849,
+        "r": "niv:Proverbs:27:17",
+        "t": "As*pn iron sharpens iron, so*ld one person sharpens another."
+    },
+    {
+        "o": 18850,
+        "r": "niv:Proverbs:27:18",
+        "t": "The*pn one who guards a fig tree will eat its fruit, and*ld whoever protects their master will be honored."
+    },
+    {
+        "o": 18851,
+        "r": "niv:Proverbs:27:19",
+        "t": "As*pn water reflects the face, so*ld one’s life reflects the heart."
+    },
+    {
+        "o": 18852,
+        "r": "niv:Proverbs:27:20",
+        "t": "Death*pn and Destruction are never satisfied, and*ld neither are human eyes."
+    },
+    {
+        "o": 18853,
+        "r": "niv:Proverbs:27:21",
+        "t": "The*pn crucible for silver and the furnace for gold, but*ld people are tested by their praise."
+    },
+    {
+        "o": 18854,
+        "r": "niv:Proverbs:27:22",
+        "t": "Though*pn you grind a fool in a mortar, grinding*ld them like grain with a pestle, you*ld will not remove their folly from them."
+    },
+    {
+        "o": 18855,
+        "r": "niv:Proverbs:27:23",
+        "t": "Be*pn sure you know the condition of your flocks, give*ld careful attention to your herds;"
+    },
+    {
+        "o": 18856,
+        "r": "niv:Proverbs:27:24",
+        "t": "for*ln riches do not endure forever, and*ld a crown is not secure for all generations."
+    },
+    {
+        "o": 18857,
+        "r": "niv:Proverbs:27:25",
+        "t": "When*ln the hay is removed and new growth appears and*ld the grass from the hills is gathered in,"
+    },
+    {
+        "o": 18858,
+        "r": "niv:Proverbs:27:26",
+        "t": "the*ln lambs will provide you with clothing, and*ld the goats with the price of a field."
+    },
+    {
+        "o": 18859,
+        "r": "niv:Proverbs:27:27",
+        "t": "You*ln will have plenty of goats’ milk to feed your family and*ld to nourish your female servants."
+    },
+    {
+        "o": 18860,
+        "r": "niv:Proverbs:28:0",
+        "t": "Proverbs 28",
+        "h": 1
+    },
+    {
+        "o": 18861,
+        "r": "niv:Proverbs:28:1",
+        "t": "The*pn wicked flee though no one pursues, but*ld the righteous are as bold as a lion."
+    },
+    {
+        "o": 18862,
+        "r": "niv:Proverbs:28:2",
+        "t": "When*pn a country is rebellious, it has many rulers, but*ld a ruler with discernment and knowledge maintains order."
+    },
+    {
+        "o": 18863,
+        "r": "niv:Proverbs:28:3",
+        "t": "A*pn ruler who oppresses the poor is*ld like a driving rain that leaves no crops."
+    },
+    {
+        "o": 18864,
+        "r": "niv:Proverbs:28:4",
+        "t": "Those*pn who forsake instruction praise the wicked, but*ld those who heed it resist them."
+    },
+    {
+        "o": 18865,
+        "r": "niv:Proverbs:28:5",
+        "t": "Evildoers*pn do not understand what is right, but*ld those who seek the Lord*s understand it fully."
+    },
+    {
+        "o": 18866,
+        "r": "niv:Proverbs:28:6",
+        "t": "Better*pn the poor whose walk is blameless than*ld the rich whose ways are perverse."
+    },
+    {
+        "o": 18867,
+        "r": "niv:Proverbs:28:7",
+        "t": "A*pn discerning son heeds instruction, but*ld a companion of gluttons disgraces his father."
+    },
+    {
+        "o": 18868,
+        "r": "niv:Proverbs:28:8",
+        "t": "Whoever*pn increases wealth by taking interest or profit from the poor amasses*ld it for another, who will be kind to the poor."
+    },
+    {
+        "o": 18869,
+        "r": "niv:Proverbs:28:9",
+        "t": "If*pn anyone turns a deaf ear to my instruction, even*ld their prayers are detestable."
+    },
+    {
+        "o": 18870,
+        "r": "niv:Proverbs:28:10",
+        "t": "Whoever*pn leads the upright along an evil path will*ld fall into their own trap, but*ld the blameless will receive a good inheritance."
+    },
+    {
+        "o": 18871,
+        "r": "niv:Proverbs:28:11",
+        "t": "The*pn rich are wise in their own eyes; one*ld who is poor and discerning sees how deluded they are."
+    },
+    {
+        "o": 18872,
+        "r": "niv:Proverbs:28:12",
+        "t": "When*pn the righteous triumph, there is great elation; but*ld when the wicked rise to power, people go into hiding."
+    },
+    {
+        "o": 18873,
+        "r": "niv:Proverbs:28:13",
+        "t": "Whoever*pn conceals their sins does not prosper, but*ld the one who confesses and renounces them finds mercy."
+    },
+    {
+        "o": 18874,
+        "r": "niv:Proverbs:28:14",
+        "t": "Blessed*pn is the one who always trembles before God, but*ld whoever hardens their heart falls into trouble."
+    },
+    {
+        "o": 18875,
+        "r": "niv:Proverbs:28:15",
+        "t": "Like*pn a roaring lion or a charging bear is*ld a wicked ruler over a helpless people."
+    },
+    {
+        "o": 18876,
+        "r": "niv:Proverbs:28:16",
+        "t": "A*pn tyrannical ruler practices extortion, but*ld one who hates ill-gotten gain will enjoy a long reign."
+    },
+    {
+        "o": 18877,
+        "r": "niv:Proverbs:28:17",
+        "t": "Anyone*pn tormented by the guilt of murder will*ld seek refuge in the grave; let*ld no one hold them back."
+    },
+    {
+        "o": 18878,
+        "r": "niv:Proverbs:28:18",
+        "t": "The*pn one whose walk is blameless is kept safe, but*ld the one whose ways are perverse will fall into the pit."
+    },
+    {
+        "o": 18879,
+        "r": "niv:Proverbs:28:19",
+        "t": "Those*pn who work their land will have abundant food, but*ld those who chase fantasies will have their fill of poverty."
+    },
+    {
+        "o": 18880,
+        "r": "niv:Proverbs:28:20",
+        "t": "A*pn faithful person will be richly blessed, but*ld one eager to get rich will not go unpunished."
+    },
+    {
+        "o": 18881,
+        "r": "niv:Proverbs:28:21",
+        "t": "To*pn show partiality is not good— yet*ld a person will do wrong for a piece of bread."
+    },
+    {
+        "o": 18882,
+        "r": "niv:Proverbs:28:22",
+        "t": "The*pn stingy are eager to get rich and*ld are unaware that poverty awaits them."
+    },
+    {
+        "o": 18883,
+        "r": "niv:Proverbs:28:23",
+        "t": "Whoever*pn rebukes a person will in the end gain favor rather*ld than one who has a flattering tongue."
+    },
+    {
+        "o": 18884,
+        "r": "niv:Proverbs:28:24",
+        "t": "Whoever*pn robs their father or mother and*ld says, “It’s not wrong,” is*ld partner to one who destroys."
+    },
+    {
+        "o": 18885,
+        "r": "niv:Proverbs:28:25",
+        "t": "The*pn greedy stir up conflict, but*ld those who trust in the Lord*s will prosper."
+    },
+    {
+        "o": 18886,
+        "r": "niv:Proverbs:28:26",
+        "t": "Those*pn who trust in themselves are fools, but*ld those who walk in wisdom are kept safe."
+    },
+    {
+        "o": 18887,
+        "r": "niv:Proverbs:28:27",
+        "t": "Those*pn who give to the poor will lack nothing, but*ld those who close their eyes to them receive many curses."
+    },
+    {
+        "o": 18888,
+        "r": "niv:Proverbs:28:28",
+        "t": "When*pn the wicked rise to power, people go into hiding; but*ld when the wicked perish, the righteous thrive."
+    },
+    {
+        "o": 18889,
+        "r": "niv:Proverbs:29:0",
+        "t": "Proverbs 29",
+        "h": 1
+    },
+    {
+        "o": 18890,
+        "r": "niv:Proverbs:29:1",
+        "t": "Whoever*pn remains stiff-necked after many rebukes will*ld suddenly be destroyed—without remedy."
+    },
+    {
+        "o": 18891,
+        "r": "niv:Proverbs:29:2",
+        "t": "When*pn the righteous thrive, the people rejoice; when*ld the wicked rule, the people groan."
+    },
+    {
+        "o": 18892,
+        "r": "niv:Proverbs:29:3",
+        "t": "A*pn man who loves wisdom brings joy to his father, but*ld a companion of prostitutes squanders his wealth."
+    },
+    {
+        "o": 18893,
+        "r": "niv:Proverbs:29:4",
+        "t": "By*pn justice a king gives a country stability, but*ld those who are greedy for bribes tear it down."
+    },
+    {
+        "o": 18894,
+        "r": "niv:Proverbs:29:5",
+        "t": "Those*pn who flatter their neighbors are*ld spreading nets for their feet."
+    },
+    {
+        "o": 18895,
+        "r": "niv:Proverbs:29:6",
+        "t": "Evildoers*pn are snared by their own sin, but*ld the righteous shout for joy and are glad."
+    },
+    {
+        "o": 18896,
+        "r": "niv:Proverbs:29:7",
+        "t": "The*pn righteous care about justice for the poor, but*ld the wicked have no such concern."
+    },
+    {
+        "o": 18897,
+        "r": "niv:Proverbs:29:8",
+        "t": "Mockers*pn stir up a city, but*ld the wise turn away anger."
+    },
+    {
+        "o": 18898,
+        "r": "niv:Proverbs:29:9",
+        "t": "If*pn a wise person goes to court with a fool, the*ld fool rages and scoffs, and there is no peace."
+    },
+    {
+        "o": 18899,
+        "r": "niv:Proverbs:29:10",
+        "t": "The*pn bloodthirsty hate a person of integrity and*ld seek to kill the upright."
+    },
+    {
+        "o": 18900,
+        "r": "niv:Proverbs:29:11",
+        "t": "Fools*pn give full vent to their rage, but*ld the wise bring calm in the end."
+    },
+    {
+        "o": 18901,
+        "r": "niv:Proverbs:29:12",
+        "t": "If*pn a ruler listens to lies, all*ld his officials become wicked."
+    },
+    {
+        "o": 18902,
+        "r": "niv:Proverbs:29:13",
+        "t": "The*pn poor and the oppressor have this in common: The*ld Lord*s gives sight to the eyes of both."
+    },
+    {
+        "o": 18903,
+        "r": "niv:Proverbs:29:14",
+        "t": "If*pn a king judges the poor with fairness, his*ld throne will be established forever."
+    },
+    {
+        "o": 18904,
+        "r": "niv:Proverbs:29:15",
+        "t": "A*pn rod and a reprimand impart wisdom, but*ld a child left undisciplined disgraces its mother."
+    },
+    {
+        "o": 18905,
+        "r": "niv:Proverbs:29:16",
+        "t": "When*pn the wicked thrive, so does sin, but*ld the righteous will see their downfall."
+    },
+    {
+        "o": 18906,
+        "r": "niv:Proverbs:29:17",
+        "t": "Discipline*pn your children, and they will give you peace; they*ld will bring you the delights you desire."
+    },
+    {
+        "o": 18907,
+        "r": "niv:Proverbs:29:18",
+        "t": "Where*pn there is no revelation, people cast off restraint; but*ld blessed is the one who heeds wisdom’s instruction."
+    },
+    {
+        "o": 18908,
+        "r": "niv:Proverbs:29:19",
+        "t": "Servants*pn cannot be corrected by mere words; though*ld they understand, they will not respond."
+    },
+    {
+        "o": 18909,
+        "r": "niv:Proverbs:29:20",
+        "t": "Do*pn you see someone who speaks in haste? There*ld is more hope for a fool than for them."
+    },
+    {
+        "o": 18910,
+        "r": "niv:Proverbs:29:21",
+        "t": "A*pn servant pampered from youth will*ld turn out to be insolent."
+    },
+    {
+        "o": 18911,
+        "r": "niv:Proverbs:29:22",
+        "t": "An*pn angry person stirs up conflict, and*ld a hot-tempered person commits many sins."
+    },
+    {
+        "o": 18912,
+        "r": "niv:Proverbs:29:23",
+        "t": "Pride*pn brings a person low, but*ld the lowly in spirit gain honor."
+    },
+    {
+        "o": 18913,
+        "r": "niv:Proverbs:29:24",
+        "t": "The*pn accomplices of thieves are their own enemies; they*ld are put under oath and dare not testify."
+    },
+    {
+        "o": 18914,
+        "r": "niv:Proverbs:29:25",
+        "t": "Fear*pn of man will prove to be a snare, but*ld whoever trusts in the Lord*s is kept safe."
+    },
+    {
+        "o": 18915,
+        "r": "niv:Proverbs:29:26",
+        "t": "Many*pn seek an audience with a ruler, but*ld it is from the Lord*s that one gets justice."
+    },
+    {
+        "o": 18916,
+        "r": "niv:Proverbs:29:27",
+        "t": "The*pn righteous detest the dishonest; the*ld wicked detest the upright."
+    },
+    {
+        "o": 18917,
+        "r": "niv:Proverbs:30:0",
+        "t": "Proverbs 30",
+        "h": 1
+    },
+    {
+        "o": 18918,
+        "r": "niv:Proverbs:30:0",
+        "t": "Sayings of Agur",
+        "h": 2.5
+    },
+    {
+        "o": 18919,
+        "r": "niv:Proverbs:30:1",
+        "t": "The*p sayings of Agur son of Jakeh—an inspired utterance. This*pn man’s utterance to Ithiel: “I*pn am weary, God, but*ld I can prevail."
+    },
+    {
+        "o": 18920,
+        "r": "niv:Proverbs:30:2",
+        "t": "Surely*ln I am only a brute, not a man; I*ld do not have human understanding."
+    },
+    {
+        "o": 18921,
+        "r": "niv:Proverbs:30:3",
+        "t": "I*ln have not learned wisdom, nor*ld have I attained to the knowledge of the Holy One."
+    },
+    {
+        "o": 18922,
+        "r": "niv:Proverbs:30:4",
+        "t": "Who*ln has gone up to heaven and come down? Whose*ld hands have gathered up the wind? Who*ln has wrapped up the waters in a cloak? Who*ld has established all the ends of the earth? What*ln is his name, and what is the name of his son? Surely*ld you know!"
+    },
+    {
+        "o": 18923,
+        "r": "niv:Proverbs:30:5",
+        "t": "“Every*pn word of God is flawless; he*ld is a shield to those who take refuge in him."
+    },
+    {
+        "o": 18924,
+        "r": "niv:Proverbs:30:6",
+        "t": "Do*ln not add to his words, or*ld he will rebuke you and prove you a liar."
+    },
+    {
+        "o": 18925,
+        "r": "niv:Proverbs:30:7",
+        "t": "“Two*pn things I ask of you, Lord;*s do*ld not refuse me before I die:"
+    },
+    {
+        "o": 18926,
+        "r": "niv:Proverbs:30:8",
+        "t": "Keep*ln falsehood and lies far from me; give*ld me neither poverty nor riches, but*ld give me only my daily bread."
+    },
+    {
+        "o": 18927,
+        "r": "niv:Proverbs:30:9",
+        "t": "Otherwise,*ln I may have too much and disown you and*ld say, ‘Who is the Lord?’*s Or*ln I may become poor and steal, and*ld so dishonor the name of my God."
+    },
+    {
+        "o": 18928,
+        "r": "niv:Proverbs:30:10",
+        "t": "“Do*pn not slander a servant to their master, or*ld they will curse you, and you will pay for it."
+    },
+    {
+        "o": 18929,
+        "r": "niv:Proverbs:30:11",
+        "t": "“There*pn are those who curse their fathers and*ld do not bless their mothers;"
+    },
+    {
+        "o": 18930,
+        "r": "niv:Proverbs:30:12",
+        "t": "those*ln who are pure in their own eyes and*ld yet are not cleansed of their filth;"
+    },
+    {
+        "o": 18931,
+        "r": "niv:Proverbs:30:13",
+        "t": "those*ln whose eyes are ever so haughty, whose*ld glances are so disdainful;"
+    },
+    {
+        "o": 18932,
+        "r": "niv:Proverbs:30:14",
+        "t": "those*ln whose teeth are swords and*ld whose jaws are set with knives to*ln devour the poor from the earth and*ld the needy from among mankind."
+    },
+    {
+        "o": 18933,
+        "r": "niv:Proverbs:30:15",
+        "t": "“The*pn leech has two daughters. ‘Give!*ld Give!’ they cry. “There*pn are three things that are never satisfied, four*ld that never say, ‘Enough!’:"
+    },
+    {
+        "o": 18934,
+        "r": "niv:Proverbs:30:16",
+        "t": "the*ln grave, the barren womb, land,*ld which is never satisfied with water, and*ld fire, which never says, ‘Enough!’"
+    },
+    {
+        "o": 18935,
+        "r": "niv:Proverbs:30:17",
+        "t": "“The*pn eye that mocks a father, that*ld scorns an aged mother, will*ln be pecked out by the ravens of the valley, will*ld be eaten by the vultures."
+    },
+    {
+        "o": 18936,
+        "r": "niv:Proverbs:30:18",
+        "t": "“There*pn are three things that are too amazing for me, four*ld that I do not understand:"
+    },
+    {
+        "o": 18937,
+        "r": "niv:Proverbs:30:19",
+        "t": "the*ln way of an eagle in the sky, the*ld way of a snake on a rock, the*ln way of a ship on the high seas, and*ld the way of a man with a young woman."
+    },
+    {
+        "o": 18938,
+        "r": "niv:Proverbs:30:20",
+        "t": "“This*pn is the way of an adulterous woman: She*ld eats and wipes her mouth and*ld says, ‘I’ve done nothing wrong.’"
+    },
+    {
+        "o": 18939,
+        "r": "niv:Proverbs:30:21",
+        "t": "“Under*pn three things the earth trembles, under*ld four it cannot bear up:"
+    },
+    {
+        "o": 18940,
+        "r": "niv:Proverbs:30:22",
+        "t": "a*ln servant who becomes king, a*ld godless fool who gets plenty to eat,"
+    },
+    {
+        "o": 18941,
+        "r": "niv:Proverbs:30:23",
+        "t": "a*ln contemptible woman who gets married, and*ld a servant who displaces her mistress."
+    },
+    {
+        "o": 18942,
+        "r": "niv:Proverbs:30:24",
+        "t": "“Four*pn things on earth are small, yet*ld they are extremely wise:"
+    },
+    {
+        "o": 18943,
+        "r": "niv:Proverbs:30:25",
+        "t": "Ants*ln are creatures of little strength, yet*ld they store up their food in the summer;"
+    },
+    {
+        "o": 18944,
+        "r": "niv:Proverbs:30:26",
+        "t": "hyraxes*ln are creatures of little power, yet*ld they make their home in the crags;"
+    },
+    {
+        "o": 18945,
+        "r": "niv:Proverbs:30:27",
+        "t": "locusts*ln have no king, yet*ld they advance together in ranks;"
+    },
+    {
+        "o": 18946,
+        "r": "niv:Proverbs:30:28",
+        "t": "a*ln lizard can be caught with the hand, yet*ld it is found in kings’ palaces."
+    },
+    {
+        "o": 18947,
+        "r": "niv:Proverbs:30:29",
+        "t": "“There*pn are three things that are stately in their stride, four*ld that move with stately bearing:"
+    },
+    {
+        "o": 18948,
+        "r": "niv:Proverbs:30:30",
+        "t": "a*ln lion, mighty among beasts, who*ld retreats before nothing;"
+    },
+    {
+        "o": 18949,
+        "r": "niv:Proverbs:30:31",
+        "t": "a*ln strutting rooster, a he-goat, and*ld a king secure against revolt."
+    },
+    {
+        "o": 18950,
+        "r": "niv:Proverbs:30:32",
+        "t": "“If*pn you play the fool and exalt yourself, or*ld if you plan evil, clap*ld your hand over your mouth!"
+    },
+    {
+        "o": 18951,
+        "r": "niv:Proverbs:30:33",
+        "t": "For*ln as churning cream produces butter, and*ld as twisting the nose produces blood, so*ld stirring up anger produces strife.”"
+    },
+    {
+        "o": 18952,
+        "r": "niv:Proverbs:31:0",
+        "t": "Proverbs 31",
+        "h": 1
+    },
+    {
+        "o": 18953,
+        "r": "niv:Proverbs:31:0",
+        "t": "Sayings of King Lemuel",
+        "h": 2.5
+    },
+    {
+        "o": 18954,
+        "r": "niv:Proverbs:31:1",
+        "t": "The*p sayings of King Lemuel—an inspired utterance his mother taught him."
+    },
+    {
+        "o": 18955,
+        "r": "niv:Proverbs:31:2",
+        "t": "Listen,*pn my son! Listen, son of my womb! Listen,*ld my son, the answer to my prayers!"
+    },
+    {
+        "o": 18956,
+        "r": "niv:Proverbs:31:3",
+        "t": "Do*ln not spend your strength on women, your*ld vigor on those who ruin kings."
+    },
+    {
+        "o": 18957,
+        "r": "niv:Proverbs:31:4",
+        "t": "It*pn is not for kings, Lemuel— it*ld is not for kings to drink wine, not*ld for rulers to crave beer,"
+    },
+    {
+        "o": 18958,
+        "r": "niv:Proverbs:31:5",
+        "t": "lest*ln they drink and forget what has been decreed, and*ld deprive all the oppressed of their rights."
+    },
+    {
+        "o": 18959,
+        "r": "niv:Proverbs:31:6",
+        "t": "Let*ln beer be for those who are perishing, wine*ld for those who are in anguish!"
+    },
+    {
+        "o": 18960,
+        "r": "niv:Proverbs:31:7",
+        "t": "Let*ln them drink and forget their poverty and*ld remember their misery no more."
+    },
+    {
+        "o": 18961,
+        "r": "niv:Proverbs:31:8",
+        "t": "Speak*pn up for those who cannot speak for themselves, for*ld the rights of all who are destitute."
+    },
+    {
+        "o": 18962,
+        "r": "niv:Proverbs:31:9",
+        "t": "Speak*ln up and judge fairly; defend*ld the rights of the poor and needy."
+    },
+    {
+        "o": 18963,
+        "r": "niv:Proverbs:31:9",
+        "t": "Epilogue: The Wife of Noble Character",
+        "h": 2.5
+    },
+    {
+        "o": 18964,
+        "r": "niv:Proverbs:31:10",
+        "t": "A*pn wife of noble character who can find? She*ld is worth far more than rubies."
+    },
+    {
+        "o": 18965,
+        "r": "niv:Proverbs:31:11",
+        "t": "Her*ln husband has full confidence in her and*ld lacks nothing of value."
+    },
+    {
+        "o": 18966,
+        "r": "niv:Proverbs:31:12",
+        "t": "She*ln brings him good, not harm, all*ld the days of her life."
+    },
+    {
+        "o": 18967,
+        "r": "niv:Proverbs:31:13",
+        "t": "She*ln selects wool and flax and*ld works with eager hands."
+    },
+    {
+        "o": 18968,
+        "r": "niv:Proverbs:31:14",
+        "t": "She*ln is like the merchant ships, bringing*ld her food from afar."
+    },
+    {
+        "o": 18969,
+        "r": "niv:Proverbs:31:15",
+        "t": "She*ln gets up while it is still night; she*ld provides food for her family and*ld portions for her female servants."
+    },
+    {
+        "o": 18970,
+        "r": "niv:Proverbs:31:16",
+        "t": "She*ln considers a field and buys it; out*ld of her earnings she plants a vineyard."
+    },
+    {
+        "o": 18971,
+        "r": "niv:Proverbs:31:17",
+        "t": "She*ln sets about her work vigorously; her*ld arms are strong for her tasks."
+    },
+    {
+        "o": 18972,
+        "r": "niv:Proverbs:31:18",
+        "t": "She*ln sees that her trading is profitable, and*ld her lamp does not go out at night."
+    },
+    {
+        "o": 18973,
+        "r": "niv:Proverbs:31:19",
+        "t": "In*ln her hand she holds the distaff and*ld grasps the spindle with her fingers."
+    },
+    {
+        "o": 18974,
+        "r": "niv:Proverbs:31:20",
+        "t": "She*ln opens her arms to the poor and*ld extends her hands to the needy."
+    },
+    {
+        "o": 18975,
+        "r": "niv:Proverbs:31:21",
+        "t": "When*ln it snows, she has no fear for her household; for*ld all of them are clothed in scarlet."
+    },
+    {
+        "o": 18976,
+        "r": "niv:Proverbs:31:22",
+        "t": "She*ln makes coverings for her bed; she*ld is clothed in fine linen and purple."
+    },
+    {
+        "o": 18977,
+        "r": "niv:Proverbs:31:23",
+        "t": "Her*ln husband is respected at the city gate, where*ld he takes his seat among the elders of the land."
+    },
+    {
+        "o": 18978,
+        "r": "niv:Proverbs:31:24",
+        "t": "She*ln makes linen garments and sells them, and*ld supplies the merchants with sashes."
+    },
+    {
+        "o": 18979,
+        "r": "niv:Proverbs:31:25",
+        "t": "She*ln is clothed with strength and dignity; she*ld can laugh at the days to come."
+    },
+    {
+        "o": 18980,
+        "r": "niv:Proverbs:31:26",
+        "t": "She*ln speaks with wisdom, and*ld faithful instruction is on her tongue."
+    },
+    {
+        "o": 18981,
+        "r": "niv:Proverbs:31:27",
+        "t": "She*ln watches over the affairs of her household and*ld does not eat the bread of idleness."
+    },
+    {
+        "o": 18982,
+        "r": "niv:Proverbs:31:28",
+        "t": "Her*ln children arise and call her blessed; her*ld husband also, and he praises her:"
+    },
+    {
+        "o": 18983,
+        "r": "niv:Proverbs:31:29",
+        "t": "“Many*ln women do noble things, but*ld you surpass them all.”"
+    },
+    {
+        "o": 18984,
+        "r": "niv:Proverbs:31:30",
+        "t": "Charm*ln is deceptive, and beauty is fleeting; but*ld a woman who fears the Lord*s is to be praised."
+    },
+    {
+        "o": 18985,
+        "r": "niv:Proverbs:31:31",
+        "t": "Honor*ln her for all that her hands have done, and*ld let her works bring her praise at the city gate."
+    }
+]

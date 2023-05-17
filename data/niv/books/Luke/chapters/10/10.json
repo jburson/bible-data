@@ -1,0 +1,236 @@
+[
+    {
+        "o": 28000,
+        "r": "niv:Luke:10:0",
+        "t": "Luke 10",
+        "h": 1
+    },
+    {
+        "o": 28001,
+        "r": "niv:Luke:10:0",
+        "t": "Jesus Sends Out the Seventy-Two",
+        "h": 2
+    },
+    {
+        "o": 28002,
+        "r": "niv:Luke:10:1",
+        "t": "After*p this the Lord appointed seventy-two others and sent them two by two ahead of him to every town and place where he was about to go."
+    },
+    {
+        "o": 28003,
+        "r": "niv:Luke:10:2",
+        "t": "He told them, “The*r harvest*r is*r plentiful,*r but*r the*r workers*r are*r few.*r Ask*r the*r Lord*r of*r the*r harvest,*r therefore,*r to*r send*r out*r workers*r into*r his*r harvest*r field.*r"
+    },
+    {
+        "o": 28004,
+        "r": "niv:Luke:10:3",
+        "t": "Go!*r I*r am*r sending*r you*r out*r like*r lambs*r among*r wolves.*r"
+    },
+    {
+        "o": 28005,
+        "r": "niv:Luke:10:4",
+        "t": "Do*r not*r take*r a*r purse*r or*r bag*r or*r sandals;*r and*r do*r not*r greet*r anyone*r on*r the*r road.*r"
+    },
+    {
+        "o": 28006,
+        "r": "niv:Luke:10:5",
+        "t": "“When*rp you*r enter*r a*r house,*r first*r say,*r ‘Peace*r to*r this*r house.’*r"
+    },
+    {
+        "o": 28007,
+        "r": "niv:Luke:10:6",
+        "t": "If*r someone*r who*r promotes*r peace*r is*r there,*r your*r peace*r will*r rest*r on*r them;*r if*r not,*r it*r will*r return*r to*r you.*r"
+    },
+    {
+        "o": 28008,
+        "r": "niv:Luke:10:7",
+        "t": "Stay*r there,*r eating*r and*r drinking*r whatever*r they*r give*r you,*r for*r the*r worker*r deserves*r his*r wages.*r Do*r not*r move*r around*r from*r house*r to*r house.*r"
+    },
+    {
+        "o": 28009,
+        "r": "niv:Luke:10:8",
+        "t": "“When*rp you*r enter*r a*r town*r and*r are*r welcomed,*r eat*r what*r is*r offered*r to*r you.*r"
+    },
+    {
+        "o": 28010,
+        "r": "niv:Luke:10:9",
+        "t": "Heal*r the*r sick*r who*r are*r there*r and*r tell*r them,*r ‘The*r kingdom*r of*r God*r has*r come*r near*r to*r you.’*r"
+    },
+    {
+        "o": 28011,
+        "r": "niv:Luke:10:10",
+        "t": "But*r when*r you*r enter*r a*r town*r and*r are*r not*r welcomed,*r go*r into*r its*r streets*r and*r say,*r"
+    },
+    {
+        "o": 28012,
+        "r": "niv:Luke:10:11",
+        "t": "‘Even*r the*r dust*r of*r your*r town*r we*r wipe*r from*r our*r feet*r as*r a*r warning*r to*r you.*r Yet*r be*r sure*r of*r this:*r The*r kingdom*r of*r God*r has*r come*r near.’*r"
+    },
+    {
+        "o": 28013,
+        "r": "niv:Luke:10:12",
+        "t": "I*r tell*r you,*r it*r will*r be*r more*r bearable*r on*r that*r day*r for*r Sodom*r than*r for*r that*r town.*r"
+    },
+    {
+        "o": 28014,
+        "r": "niv:Luke:10:13",
+        "t": "“Woe*rp to*r you,*r Chorazin!*r Woe*r to*r you,*r Bethsaida!*r For*r if*r the*r miracles*r that*r were*r performed*r in*r you*r had*r been*r performed*r in*r Tyre*r and*r Sidon,*r they*r would*r have*r repented*r long*r ago,*r sitting*r in*r sackcloth*r and*r ashes.*r"
+    },
+    {
+        "o": 28015,
+        "r": "niv:Luke:10:14",
+        "t": "But*r it*r will*r be*r more*r bearable*r for*r Tyre*r and*r Sidon*r at*r the*r judgment*r than*r for*r you.*r"
+    },
+    {
+        "o": 28016,
+        "r": "niv:Luke:10:15",
+        "t": "And*r you,*r Capernaum,*r will*r you*r be*r lifted*r to*r the*r heavens?*r No,*r you*r will*r go*r down*r to*r Hades.*r"
+    },
+    {
+        "o": 28017,
+        "r": "niv:Luke:10:16",
+        "t": "“Whoever*rp listens*r to*r you*r listens*r to*r me;*r whoever*r rejects*r you*r rejects*r me;*r but*r whoever*r rejects*r me*r rejects*r him*r who*r sent*r me.”*r"
+    },
+    {
+        "o": 28018,
+        "r": "niv:Luke:10:17",
+        "t": "The*p seventy-two returned with joy and said, “Lord, even the demons submit to us in your name.”"
+    },
+    {
+        "o": 28019,
+        "r": "niv:Luke:10:18",
+        "t": "He*p replied, “I*r saw*r Satan*r fall*r like*r lightning*r from*r heaven.*r"
+    },
+    {
+        "o": 28020,
+        "r": "niv:Luke:10:19",
+        "t": "I*r have*r given*r you*r authority*r to*r trample*r on*r snakes*r and*r scorpions*r and*r to*r overcome*r all*r the*r power*r of*r the*r enemy;*r nothing*r will*r harm*r you.*r"
+    },
+    {
+        "o": 28021,
+        "r": "niv:Luke:10:20",
+        "t": "However,*r do*r not*r rejoice*r that*r the*r spirits*r submit*r to*r you,*r but*r rejoice*r that*r your*r names*r are*r written*r in*r heaven.”*r"
+    },
+    {
+        "o": 28022,
+        "r": "niv:Luke:10:21",
+        "t": "At*p that time Jesus, full of joy through the Holy Spirit, said, “I*r praise*r you,*r Father,*r Lord*r of*r heaven*r and*r earth,*r because*r you*r have*r hidden*r these*r things*r from*r the*r wise*r and*r learned,*r and*r revealed*r them*r to*r little*r children.*r Yes,*r Father,*r for*r this*r is*r what*r you*r were*r pleased*r to*r do.*r"
+    },
+    {
+        "o": 28023,
+        "r": "niv:Luke:10:22",
+        "t": "“All*rp things*r have*r been*r committed*r to*r me*r by*r my*r Father.*r No*r one*r knows*r who*r the*r Son*r is*r except*r the*r Father,*r and*r no*r one*r knows*r who*r the*r Father*r is*r except*r the*r Son*r and*r those*r to*r whom*r the*r Son*r chooses*r to*r reveal*r him.”*r"
+    },
+    {
+        "o": 28024,
+        "r": "niv:Luke:10:23",
+        "t": "Then*p he turned to his disciples and said privately, “Blessed*r are*r the*r eyes*r that*r see*r what*r you*r see.*r"
+    },
+    {
+        "o": 28025,
+        "r": "niv:Luke:10:24",
+        "t": "For*r I*r tell*r you*r that*r many*r prophets*r and*r kings*r wanted*r to*r see*r what*r you*r see*r but*r did*r not*r see*r it,*r and*r to*r hear*r what*r you*r hear*r but*r did*r not*r hear*r it.”*r"
+    },
+    {
+        "o": 28026,
+        "r": "niv:Luke:10:24",
+        "t": "The Parable of the Good Samaritan",
+        "h": 2
+    },
+    {
+        "o": 28027,
+        "r": "niv:Luke:10:25",
+        "t": "On*p one occasion an expert in the law stood up to test Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?”"
+    },
+    {
+        "o": 28028,
+        "r": "niv:Luke:10:26",
+        "t": "“What*rp is*r written*r in*r the*r Law?”*r he replied. “How*r do*r you*r read*r it?”*r"
+    },
+    {
+        "o": 28029,
+        "r": "niv:Luke:10:27",
+        "t": "He*p answered, “ ‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’; and, ‘Love your neighbor as yourself.’”"
+    },
+    {
+        "o": 28030,
+        "r": "niv:Luke:10:28",
+        "t": "“You*rp have*r answered*r correctly,”*r Jesus replied. “Do*r this*r and*r you*r will*r live.”*r"
+    },
+    {
+        "o": 28031,
+        "r": "niv:Luke:10:29",
+        "t": "But*p he wanted to justify himself, so he asked Jesus, “And who is my neighbor?”"
+    },
+    {
+        "o": 28032,
+        "r": "niv:Luke:10:30",
+        "t": "In*p reply Jesus said: “A*r man*r was*r going*r down*r from*r Jerusalem*r to*r Jericho,*r when*r he*r was*r attacked*r by*r robbers.*r They*r stripped*r him*r of*r his*r clothes,*r beat*r him*r and*r went*r away,*r leaving*r him*r half*r dead.*r"
+    },
+    {
+        "o": 28033,
+        "r": "niv:Luke:10:31",
+        "t": "A*r priest*r happened*r to*r be*r going*r down*r the*r same*r road,*r and*r when*r he*r saw*r the*r man,*r he*r passed*r by*r on*r the*r other*r side.*r"
+    },
+    {
+        "o": 28034,
+        "r": "niv:Luke:10:32",
+        "t": "So*r too,*r a*r Levite,*r when*r he*r came*r to*r the*r place*r and*r saw*r him,*r passed*r by*r on*r the*r other*r side.*r"
+    },
+    {
+        "o": 28035,
+        "r": "niv:Luke:10:33",
+        "t": "But*r a*r Samaritan,*r as*r he*r traveled,*r came*r where*r the*r man*r was;*r and*r when*r he*r saw*r him,*r he*r took*r pity*r on*r him.*r"
+    },
+    {
+        "o": 28036,
+        "r": "niv:Luke:10:34",
+        "t": "He*r went*r to*r him*r and*r bandaged*r his*r wounds,*r pouring*r on*r oil*r and*r wine.*r Then*r he*r put*r the*r man*r on*r his*r own*r donkey,*r brought*r him*r to*r an*r inn*r and*r took*r care*r of*r him.*r"
+    },
+    {
+        "o": 28037,
+        "r": "niv:Luke:10:35",
+        "t": "The*r next*r day*r he*r took*r out*r two*r denarii*r and*r gave*r them*r to*r the*r innkeeper.*r ‘Look*r after*r him,’*r he*r said,*r ‘and*r when*r I*r return,*r I*r will*r reimburse*r you*r for*r any*r extra*r expense*r you*r may*r have.’*r"
+    },
+    {
+        "o": 28038,
+        "r": "niv:Luke:10:36",
+        "t": "“Which*rp of*r these*r three*r do*r you*r think*r was*r a*r neighbor*r to*r the*r man*r who*r fell*r into*r the*r hands*r of*r robbers?”*r"
+    },
+    {
+        "o": 28039,
+        "r": "niv:Luke:10:37",
+        "t": "The*p expert in the law replied, “The one who had mercy on him.” Jesus*p told him, “Go*r and*r do*r likewise.”*r"
+    },
+    {
+        "o": 28040,
+        "r": "niv:Luke:10:37",
+        "t": "At the Home of Martha and Mary",
+        "h": 2
+    },
+    {
+        "o": 28041,
+        "r": "niv:Luke:10:38",
+        "t": "As*p Jesus and his disciples were on their way, he came to a village where a woman named Martha opened her home to him."
+    },
+    {
+        "o": 28042,
+        "r": "niv:Luke:10:39",
+        "t": "She had a sister called Mary, who sat at the Lord’s feet listening to what he said."
+    },
+    {
+        "o": 28043,
+        "r": "niv:Luke:10:40",
+        "t": "But Martha was distracted by all the preparations that had to be made. She came to him and asked, “Lord, don’t you care that my sister has left me to do the work by myself? Tell her to help me!”"
+    },
+    {
+        "o": 28044,
+        "r": "niv:Luke:10:41",
+        "t": "“Martha,*rp Martha,”*r the Lord answered, “you*r are*r worried*r and*r upset*r about*r many*r things,*r"
+    },
+    {
+        "o": 28045,
+        "r": "niv:Luke:10:42",
+        "t": "but*r few*r things*r are*r needed—or*r indeed*r only*r one.*r Mary*r has*r chosen*r what*r is*r better,*r and*r it*r will*r not*r be*r taken*r away*r from*r her.”*r"
+    }
+]

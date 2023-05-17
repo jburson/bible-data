@@ -1,0 +1,168 @@
+[
+    {
+        "o": 111,
+        "r": "kjv:Genesis:5:0",
+        "t": "Genesis 5",
+        "h": 1
+    },
+    {
+        "o": 112,
+        "r": "kjv:Genesis:5:1",
+        "t": "This*p is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+    },
+    {
+        "o": 113,
+        "r": "kjv:Genesis:5:2",
+        "t": "Male*p and female created he them; and blessed them, and called their name Adam, in the day when they were created."
+    },
+    {
+        "o": 114,
+        "r": "kjv:Genesis:5:3",
+        "t": "And*p Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:"
+    },
+    {
+        "o": 115,
+        "r": "kjv:Genesis:5:4",
+        "t": "And*p the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
+    },
+    {
+        "o": 116,
+        "r": "kjv:Genesis:5:5",
+        "t": "And*p all the days that Adam lived were nine hundred and thirty years: and he died."
+    },
+    {
+        "o": 117,
+        "r": "kjv:Genesis:5:6",
+        "t": "And*p Seth lived an hundred and five years, and begat Enos:"
+    },
+    {
+        "o": 118,
+        "r": "kjv:Genesis:5:7",
+        "t": "And*p Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:"
+    },
+    {
+        "o": 119,
+        "r": "kjv:Genesis:5:8",
+        "t": "And*p all the days of Seth were nine hundred and twelve years: and he died."
+    },
+    {
+        "o": 120,
+        "r": "kjv:Genesis:5:9",
+        "t": "And*p Enos lived ninety years, and begat Cainan:"
+    },
+    {
+        "o": 121,
+        "r": "kjv:Genesis:5:10",
+        "t": "And*p Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+    },
+    {
+        "o": 122,
+        "r": "kjv:Genesis:5:11",
+        "t": "And*p all the days of Enos were nine hundred and five years: and he died."
+    },
+    {
+        "o": 123,
+        "r": "kjv:Genesis:5:12",
+        "t": "And*p Cainan lived seventy years, and begat Mahalaleel:"
+    },
+    {
+        "o": 124,
+        "r": "kjv:Genesis:5:13",
+        "t": "And*p Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:"
+    },
+    {
+        "o": 125,
+        "r": "kjv:Genesis:5:14",
+        "t": "And*p all the days of Cainan were nine hundred and ten years: and he died."
+    },
+    {
+        "o": 126,
+        "r": "kjv:Genesis:5:15",
+        "t": "And*p Mahalaleel lived sixty and five years, and begat Jared:"
+    },
+    {
+        "o": 127,
+        "r": "kjv:Genesis:5:16",
+        "t": "And*p Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:"
+    },
+    {
+        "o": 128,
+        "r": "kjv:Genesis:5:17",
+        "t": "And*p all the days of Mahalaleel were eight hundred ninety and five years: and he died."
+    },
+    {
+        "o": 129,
+        "r": "kjv:Genesis:5:18",
+        "t": "And*p Jared lived an hundred sixty and two years, and he begat Enoch:"
+    },
+    {
+        "o": 130,
+        "r": "kjv:Genesis:5:19",
+        "t": "And*p Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:"
+    },
+    {
+        "o": 131,
+        "r": "kjv:Genesis:5:20",
+        "t": "And*p all the days of Jared were nine hundred sixty and two years: and he died."
+    },
+    {
+        "o": 132,
+        "r": "kjv:Genesis:5:21",
+        "t": "And*p Enoch lived sixty and five years, and begat Methuselah:"
+    },
+    {
+        "o": 133,
+        "r": "kjv:Genesis:5:22",
+        "t": "And*p Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
+    },
+    {
+        "o": 134,
+        "r": "kjv:Genesis:5:23",
+        "t": "And*p all the days of Enoch were three hundred sixty and five years:"
+    },
+    {
+        "o": 135,
+        "r": "kjv:Genesis:5:24",
+        "t": "And*p Enoch walked with God: and he was not; for God took him."
+    },
+    {
+        "o": 136,
+        "r": "kjv:Genesis:5:25",
+        "t": "And*p Methuselah lived an hundred eighty and seven years, and begat Lamech:"
+    },
+    {
+        "o": 137,
+        "r": "kjv:Genesis:5:26",
+        "t": "And*p Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:"
+    },
+    {
+        "o": 138,
+        "r": "kjv:Genesis:5:27",
+        "t": "And*p all the days of Methuselah were nine hundred sixty and nine years: and he died."
+    },
+    {
+        "o": 139,
+        "r": "kjv:Genesis:5:28",
+        "t": "And*p Lamech lived an hundred eighty and two years, and begat a son:"
+    },
+    {
+        "o": 140,
+        "r": "kjv:Genesis:5:29",
+        "t": "And*p he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the Lord*s hath cursed."
+    },
+    {
+        "o": 141,
+        "r": "kjv:Genesis:5:30",
+        "t": "And*p Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:"
+    },
+    {
+        "o": 142,
+        "r": "kjv:Genesis:5:31",
+        "t": "And*p all the days of Lamech were seven hundred seventy and seven years: and he died."
+    },
+    {
+        "o": 143,
+        "r": "kjv:Genesis:5:32",
+        "t": "And*p Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+    }
+]

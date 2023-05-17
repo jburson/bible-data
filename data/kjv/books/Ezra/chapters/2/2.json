@@ -1,0 +1,358 @@
+[
+    {
+        "o": 12433,
+        "r": "kjv:Ezra:2:0",
+        "t": "Ezra 2",
+        "h": 1
+    },
+    {
+        "o": 12434,
+        "r": "kjv:Ezra:2:1",
+        "t": "Now*p these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;"
+    },
+    {
+        "o": 12435,
+        "r": "kjv:Ezra:2:2",
+        "t": "Which*p came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:"
+    },
+    {
+        "o": 12436,
+        "r": "kjv:Ezra:2:3",
+        "t": "The*p children of Parosh, two thousand an hundred seventy and two."
+    },
+    {
+        "o": 12437,
+        "r": "kjv:Ezra:2:4",
+        "t": "The*p children of Shephatiah, three hundred seventy and two."
+    },
+    {
+        "o": 12438,
+        "r": "kjv:Ezra:2:5",
+        "t": "The*p children of Arah, seven hundred seventy and five."
+    },
+    {
+        "o": 12439,
+        "r": "kjv:Ezra:2:6",
+        "t": "The*p children of Pahath–moab, of the children of Jeshua and Joab, two thousand eight hundred and twelve."
+    },
+    {
+        "o": 12440,
+        "r": "kjv:Ezra:2:7",
+        "t": "The*p children of Elam, a thousand two hundred fifty and four."
+    },
+    {
+        "o": 12441,
+        "r": "kjv:Ezra:2:8",
+        "t": "The*p children of Zattu, nine hundred forty and five."
+    },
+    {
+        "o": 12442,
+        "r": "kjv:Ezra:2:9",
+        "t": "The*p children of Zaccai, seven hundred and threescore."
+    },
+    {
+        "o": 12443,
+        "r": "kjv:Ezra:2:10",
+        "t": "The*p children of Bani, six hundred forty and two."
+    },
+    {
+        "o": 12444,
+        "r": "kjv:Ezra:2:11",
+        "t": "The*p children of Bebai, six hundred twenty and three."
+    },
+    {
+        "o": 12445,
+        "r": "kjv:Ezra:2:12",
+        "t": "The*p children of Azgad, a thousand two hundred twenty and two."
+    },
+    {
+        "o": 12446,
+        "r": "kjv:Ezra:2:13",
+        "t": "The*p children of Adonikam, six hundred sixty and six."
+    },
+    {
+        "o": 12447,
+        "r": "kjv:Ezra:2:14",
+        "t": "The*p children of Bigvai, two thousand fifty and six."
+    },
+    {
+        "o": 12448,
+        "r": "kjv:Ezra:2:15",
+        "t": "The*p children of Adin, four hundred fifty and four."
+    },
+    {
+        "o": 12449,
+        "r": "kjv:Ezra:2:16",
+        "t": "The*p children of Ater of Hezekiah, ninety and eight."
+    },
+    {
+        "o": 12450,
+        "r": "kjv:Ezra:2:17",
+        "t": "The*p children of Bezai, three hundred twenty and three."
+    },
+    {
+        "o": 12451,
+        "r": "kjv:Ezra:2:18",
+        "t": "The*p children of Jorah, an hundred and twelve."
+    },
+    {
+        "o": 12452,
+        "r": "kjv:Ezra:2:19",
+        "t": "The*p children of Hashum, two hundred twenty and three."
+    },
+    {
+        "o": 12453,
+        "r": "kjv:Ezra:2:20",
+        "t": "The*p children of Gibbar, ninety and five."
+    },
+    {
+        "o": 12454,
+        "r": "kjv:Ezra:2:21",
+        "t": "The*p children of Beth–lehem, an hundred twenty and three."
+    },
+    {
+        "o": 12455,
+        "r": "kjv:Ezra:2:22",
+        "t": "The*p men of Netophah, fifty and six."
+    },
+    {
+        "o": 12456,
+        "r": "kjv:Ezra:2:23",
+        "t": "The*p men of Anathoth, an hundred twenty and eight."
+    },
+    {
+        "o": 12457,
+        "r": "kjv:Ezra:2:24",
+        "t": "The*p children of Azmaveth, forty and two."
+    },
+    {
+        "o": 12458,
+        "r": "kjv:Ezra:2:25",
+        "t": "The*p children of Kirjath–arim, Chephirah, and Beeroth, seven hundred and forty and three."
+    },
+    {
+        "o": 12459,
+        "r": "kjv:Ezra:2:26",
+        "t": "The*p children of Ramah and Geba, six hundred twenty and one."
+    },
+    {
+        "o": 12460,
+        "r": "kjv:Ezra:2:27",
+        "t": "The*p men of Michmash, an hundred twenty and two."
+    },
+    {
+        "o": 12461,
+        "r": "kjv:Ezra:2:28",
+        "t": "The*p men of Beth–el and Ai, two hundred twenty and three."
+    },
+    {
+        "o": 12462,
+        "r": "kjv:Ezra:2:29",
+        "t": "The*p children of Nebo, fifty and two."
+    },
+    {
+        "o": 12463,
+        "r": "kjv:Ezra:2:30",
+        "t": "The*p children of Magbish, an hundred fifty and six."
+    },
+    {
+        "o": 12464,
+        "r": "kjv:Ezra:2:31",
+        "t": "The*p children of the other Elam, a thousand two hundred fifty and four."
+    },
+    {
+        "o": 12465,
+        "r": "kjv:Ezra:2:32",
+        "t": "The*p children of Harim, three hundred and twenty."
+    },
+    {
+        "o": 12466,
+        "r": "kjv:Ezra:2:33",
+        "t": "The*p children of Lod, Hadid, and Ono, seven hundred twenty and five."
+    },
+    {
+        "o": 12467,
+        "r": "kjv:Ezra:2:34",
+        "t": "The*p children of Jericho, three hundred forty and five."
+    },
+    {
+        "o": 12468,
+        "r": "kjv:Ezra:2:35",
+        "t": "The*p children of Senaah, three thousand and six hundred and thirty."
+    },
+    {
+        "o": 12469,
+        "r": "kjv:Ezra:2:36",
+        "t": "The*p priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three."
+    },
+    {
+        "o": 12470,
+        "r": "kjv:Ezra:2:37",
+        "t": "The*p children of Immer, a thousand fifty and two."
+    },
+    {
+        "o": 12471,
+        "r": "kjv:Ezra:2:38",
+        "t": "The*p children of Pashur, a thousand two hundred forty and seven."
+    },
+    {
+        "o": 12472,
+        "r": "kjv:Ezra:2:39",
+        "t": "The*p children of Harim, a thousand and seventeen."
+    },
+    {
+        "o": 12473,
+        "r": "kjv:Ezra:2:40",
+        "t": "The*p Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four."
+    },
+    {
+        "o": 12474,
+        "r": "kjv:Ezra:2:41",
+        "t": "The*p singers: the children of Asaph, an hundred twenty and eight."
+    },
+    {
+        "o": 12475,
+        "r": "kjv:Ezra:2:42",
+        "t": "The*p children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all an hundred thirty and nine."
+    },
+    {
+        "o": 12476,
+        "r": "kjv:Ezra:2:43",
+        "t": "The*p Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,"
+    },
+    {
+        "o": 12477,
+        "r": "kjv:Ezra:2:44",
+        "t": "The*p children of Keros, the children of Siaha, the children of Padon,"
+    },
+    {
+        "o": 12478,
+        "r": "kjv:Ezra:2:45",
+        "t": "The*p children of Lebanah, the children of Hagabah, the children of Akkub,"
+    },
+    {
+        "o": 12479,
+        "r": "kjv:Ezra:2:46",
+        "t": "The*p children of Hagab, the children of Shalmai, the children of Hanan,"
+    },
+    {
+        "o": 12480,
+        "r": "kjv:Ezra:2:47",
+        "t": "The*p children of Giddel, the children of Gahar, the children of Reaiah,"
+    },
+    {
+        "o": 12481,
+        "r": "kjv:Ezra:2:48",
+        "t": "The*p children of Rezin, the children of Nekoda, the children of Gazzam,"
+    },
+    {
+        "o": 12482,
+        "r": "kjv:Ezra:2:49",
+        "t": "The*p children of Uzza, the children of Paseah, the children of Besai,"
+    },
+    {
+        "o": 12483,
+        "r": "kjv:Ezra:2:50",
+        "t": "The*p children of Asnah, the children of Meunim, the children of Nephusim,"
+    },
+    {
+        "o": 12484,
+        "r": "kjv:Ezra:2:51",
+        "t": "The*p children of Bakbuk, the children of Hakupha, the children of Harhur,"
+    },
+    {
+        "o": 12485,
+        "r": "kjv:Ezra:2:52",
+        "t": "The*p children of Bazluth, the children of Mehida, the children of Harsha,"
+    },
+    {
+        "o": 12486,
+        "r": "kjv:Ezra:2:53",
+        "t": "The*p children of Barkos, the children of Sisera, the children of Temah,"
+    },
+    {
+        "o": 12487,
+        "r": "kjv:Ezra:2:54",
+        "t": "The*p children of Neziah, the children of Hatipha."
+    },
+    {
+        "o": 12488,
+        "r": "kjv:Ezra:2:55",
+        "t": "The*p children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Peruda,"
+    },
+    {
+        "o": 12489,
+        "r": "kjv:Ezra:2:56",
+        "t": "The*p children of Jaalah, the children of Darkon, the children of Giddel,"
+    },
+    {
+        "o": 12490,
+        "r": "kjv:Ezra:2:57",
+        "t": "The*p children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami."
+    },
+    {
+        "o": 12491,
+        "r": "kjv:Ezra:2:58",
+        "t": "All*p the Nethinims, and the children of Solomon's servants, were three hundred ninety and two."
+    },
+    {
+        "o": 12492,
+        "r": "kjv:Ezra:2:59",
+        "t": "And*p these were they which went up from Tel–melah, Tel–harsha, Cherub, Addan, and Immer: but they could not shew their father's house, and their seed, whether they were of Israel:"
+    },
+    {
+        "o": 12493,
+        "r": "kjv:Ezra:2:60",
+        "t": "The*p children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two."
+    },
+    {
+        "o": 12494,
+        "r": "kjv:Ezra:2:61",
+        "t": "And*p of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:"
+    },
+    {
+        "o": 12495,
+        "r": "kjv:Ezra:2:62",
+        "t": "These*p sought their register among those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood."
+    },
+    {
+        "o": 12496,
+        "r": "kjv:Ezra:2:63",
+        "t": "And*p the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim."
+    },
+    {
+        "o": 12497,
+        "r": "kjv:Ezra:2:64",
+        "t": "The*p whole congregation together was forty and two thousand three hundred and threescore,"
+    },
+    {
+        "o": 12498,
+        "r": "kjv:Ezra:2:65",
+        "t": "Beside*p their servants and their maids, of whom there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women."
+    },
+    {
+        "o": 12499,
+        "r": "kjv:Ezra:2:66",
+        "t": "Their*p horses were seven hundred thirty and six; their mules, two hundred forty and five;"
+    },
+    {
+        "o": 12500,
+        "r": "kjv:Ezra:2:67",
+        "t": "Their*p camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty."
+    },
+    {
+        "o": 12501,
+        "r": "kjv:Ezra:2:68",
+        "t": "And*p some of the chief of the fathers, when they came to the house of the Lord*s which is at Jerusalem, offered freely for the house of God to set it up in his place:"
+    },
+    {
+        "o": 12502,
+        "r": "kjv:Ezra:2:69",
+        "t": "They*p gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests' garments."
+    },
+    {
+        "o": 12503,
+        "r": "kjv:Ezra:2:70",
+        "t": "So*p the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities."
+    }
+]

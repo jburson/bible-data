@@ -1,0 +1,903 @@
+[
+    {
+        "o": 32667,
+        "r": "esv:Ephesians:1:0",
+        "t": "Ephesians 1",
+        "h": 1
+    },
+    {
+        "o": 32668,
+        "r": "esv:Ephesians:1:0",
+        "t": "Greeting",
+        "h": 2
+    },
+    {
+        "o": 32669,
+        "r": "esv:Ephesians:1:1",
+        "t": "Paul,*p an apostle of Christ Jesus by the will of God, To*p the saints who are in Ephesus, and are faithful in Christ Jesus:"
+    },
+    {
+        "o": 32670,
+        "r": "esv:Ephesians:1:2",
+        "t": "Grace*p to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+        "o": 32671,
+        "r": "esv:Ephesians:1:2",
+        "t": "Spiritual Blessings in Christ",
+        "h": 2
+    },
+    {
+        "o": 32672,
+        "r": "esv:Ephesians:1:3",
+        "t": "Blessed*p be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places,"
+    },
+    {
+        "o": 32673,
+        "r": "esv:Ephesians:1:4",
+        "t": "even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love"
+    },
+    {
+        "o": 32674,
+        "r": "esv:Ephesians:1:5",
+        "t": "he predestined us for adoption to himself as sons through Jesus Christ, according to the purpose of his will,"
+    },
+    {
+        "o": 32675,
+        "r": "esv:Ephesians:1:6",
+        "t": "to the praise of his glorious grace, with which he has blessed us in the Beloved."
+    },
+    {
+        "o": 32676,
+        "r": "esv:Ephesians:1:7",
+        "t": "In him we have redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,"
+    },
+    {
+        "o": 32677,
+        "r": "esv:Ephesians:1:8",
+        "t": "which he lavished upon us, in all wisdom and insight"
+    },
+    {
+        "o": 32678,
+        "r": "esv:Ephesians:1:9",
+        "t": "making known to us the mystery of his will, according to his purpose, which he set forth in Christ"
+    },
+    {
+        "o": 32679,
+        "r": "esv:Ephesians:1:10",
+        "t": "as a plan for the fullness of time, to unite all things in him, things in heaven and things on earth."
+    },
+    {
+        "o": 32680,
+        "r": "esv:Ephesians:1:11",
+        "t": "In*p him we have obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will,"
+    },
+    {
+        "o": 32681,
+        "r": "esv:Ephesians:1:12",
+        "t": "so that we who were the first to hope in Christ might be to the praise of his glory."
+    },
+    {
+        "o": 32682,
+        "r": "esv:Ephesians:1:13",
+        "t": "In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit,"
+    },
+    {
+        "o": 32683,
+        "r": "esv:Ephesians:1:14",
+        "t": "who is the guarantee of our inheritance until we acquire possession of it, to the praise of his glory."
+    },
+    {
+        "o": 32684,
+        "r": "esv:Ephesians:1:14",
+        "t": "Thanksgiving and Prayer",
+        "h": 2
+    },
+    {
+        "o": 32685,
+        "r": "esv:Ephesians:1:15",
+        "t": "For*p this reason, because I have heard of your faith in the Lord Jesus and your love toward all the saints,"
+    },
+    {
+        "o": 32686,
+        "r": "esv:Ephesians:1:16",
+        "t": "I do not cease to give thanks for you, remembering you in my prayers,"
+    },
+    {
+        "o": 32687,
+        "r": "esv:Ephesians:1:17",
+        "t": "that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him,"
+    },
+    {
+        "o": 32688,
+        "r": "esv:Ephesians:1:18",
+        "t": "having the eyes of your hearts enlightened, that you may know what is the hope to which he has called you, what are the riches of his glorious inheritance in the saints,"
+    },
+    {
+        "o": 32689,
+        "r": "esv:Ephesians:1:19",
+        "t": "and what is the immeasurable greatness of his power toward us who believe, according to the working of his great might"
+    },
+    {
+        "o": 32690,
+        "r": "esv:Ephesians:1:20",
+        "t": "that he worked in Christ when he raised him from the dead and seated him at his right hand in the heavenly places,"
+    },
+    {
+        "o": 32691,
+        "r": "esv:Ephesians:1:21",
+        "t": "far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come."
+    },
+    {
+        "o": 32692,
+        "r": "esv:Ephesians:1:22",
+        "t": "And he put all things under his feet and gave him as head over all things to the church,"
+    },
+    {
+        "o": 32693,
+        "r": "esv:Ephesians:1:23",
+        "t": "which is his body, the fullness of him who fills all in all."
+    },
+    {
+        "o": 32694,
+        "r": "esv:Ephesians:2:0",
+        "t": "Ephesians 2",
+        "h": 1
+    },
+    {
+        "o": 32695,
+        "r": "esv:Ephesians:2:0",
+        "t": "By Grace Through Faith",
+        "h": 2
+    },
+    {
+        "o": 32696,
+        "r": "esv:Ephesians:2:1",
+        "t": "And*p you were dead in the trespasses and sins"
+    },
+    {
+        "o": 32697,
+        "r": "esv:Ephesians:2:2",
+        "t": "in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience—"
+    },
+    {
+        "o": 32698,
+        "r": "esv:Ephesians:2:3",
+        "t": "among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind."
+    },
+    {
+        "o": 32699,
+        "r": "esv:Ephesians:2:4",
+        "t": "But God, being rich in mercy, because of the great love with which he loved us,"
+    },
+    {
+        "o": 32700,
+        "r": "esv:Ephesians:2:5",
+        "t": "even when we were dead in our trespasses, made us alive together with Christ— by grace you have been saved—"
+    },
+    {
+        "o": 32701,
+        "r": "esv:Ephesians:2:6",
+        "t": "and raised us up with him and seated us with him in the heavenly places in Christ Jesus,"
+    },
+    {
+        "o": 32702,
+        "r": "esv:Ephesians:2:7",
+        "t": "so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus."
+    },
+    {
+        "o": 32703,
+        "r": "esv:Ephesians:2:8",
+        "t": "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God,"
+    },
+    {
+        "o": 32704,
+        "r": "esv:Ephesians:2:9",
+        "t": "not a result of works, so that no one may boast."
+    },
+    {
+        "o": 32705,
+        "r": "esv:Ephesians:2:10",
+        "t": "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them."
+    },
+    {
+        "o": 32706,
+        "r": "esv:Ephesians:2:10",
+        "t": "One in Christ",
+        "h": 2
+    },
+    {
+        "o": 32707,
+        "r": "esv:Ephesians:2:11",
+        "t": "Therefore*p remember that at one time you Gentiles in the flesh, called “the uncircumcision” by what is called the circumcision, which is made in the flesh by hands—"
+    },
+    {
+        "o": 32708,
+        "r": "esv:Ephesians:2:12",
+        "t": "remember that you were at that time separated from Christ, alienated from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world."
+    },
+    {
+        "o": 32709,
+        "r": "esv:Ephesians:2:13",
+        "t": "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ."
+    },
+    {
+        "o": 32710,
+        "r": "esv:Ephesians:2:14",
+        "t": "For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility"
+    },
+    {
+        "o": 32711,
+        "r": "esv:Ephesians:2:15",
+        "t": "by abolishing the law of commandments expressed in ordinances, that he might create in himself one new man in place of the two, so making peace,"
+    },
+    {
+        "o": 32712,
+        "r": "esv:Ephesians:2:16",
+        "t": "and might reconcile us both to God in one body through the cross, thereby killing the hostility."
+    },
+    {
+        "o": 32713,
+        "r": "esv:Ephesians:2:17",
+        "t": "And he came and preached peace to you who were far off and peace to those who were near."
+    },
+    {
+        "o": 32714,
+        "r": "esv:Ephesians:2:18",
+        "t": "For through him we both have access in one Spirit to the Father."
+    },
+    {
+        "o": 32715,
+        "r": "esv:Ephesians:2:19",
+        "t": "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God,"
+    },
+    {
+        "o": 32716,
+        "r": "esv:Ephesians:2:20",
+        "t": "built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone,"
+    },
+    {
+        "o": 32717,
+        "r": "esv:Ephesians:2:21",
+        "t": "in whom the whole structure, being joined together, grows into a holy temple in the Lord."
+    },
+    {
+        "o": 32718,
+        "r": "esv:Ephesians:2:22",
+        "t": "In him you also are being built together into a dwelling place for God by the Spirit."
+    },
+    {
+        "o": 32719,
+        "r": "esv:Ephesians:3:0",
+        "t": "Ephesians 3",
+        "h": 1
+    },
+    {
+        "o": 32720,
+        "r": "esv:Ephesians:3:0",
+        "t": "The Mystery of the Gospel Revealed",
+        "h": 2
+    },
+    {
+        "o": 32721,
+        "r": "esv:Ephesians:3:1",
+        "t": "For*p this reason I, Paul, a prisoner of Christ Jesus on behalf of you Gentiles—"
+    },
+    {
+        "o": 32722,
+        "r": "esv:Ephesians:3:2",
+        "t": "assuming that you have heard of the stewardship of God’s grace that was given to me for you,"
+    },
+    {
+        "o": 32723,
+        "r": "esv:Ephesians:3:3",
+        "t": "how the mystery was made known to me by revelation, as I have written briefly."
+    },
+    {
+        "o": 32724,
+        "r": "esv:Ephesians:3:4",
+        "t": "When you read this, you can perceive my insight into the mystery of Christ,"
+    },
+    {
+        "o": 32725,
+        "r": "esv:Ephesians:3:5",
+        "t": "which was not made known to the sons of men in other generations as it has now been revealed to his holy apostles and prophets by the Spirit."
+    },
+    {
+        "o": 32726,
+        "r": "esv:Ephesians:3:6",
+        "t": "This mystery is that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel."
+    },
+    {
+        "o": 32727,
+        "r": "esv:Ephesians:3:7",
+        "t": "Of*p this gospel I was made a minister according to the gift of God’s grace, which was given me by the working of his power."
+    },
+    {
+        "o": 32728,
+        "r": "esv:Ephesians:3:8",
+        "t": "To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ,"
+    },
+    {
+        "o": 32729,
+        "r": "esv:Ephesians:3:9",
+        "t": "and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things,"
+    },
+    {
+        "o": 32730,
+        "r": "esv:Ephesians:3:10",
+        "t": "so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places."
+    },
+    {
+        "o": 32731,
+        "r": "esv:Ephesians:3:11",
+        "t": "This was according to the eternal purpose that he has realized in Christ Jesus our Lord,"
+    },
+    {
+        "o": 32732,
+        "r": "esv:Ephesians:3:12",
+        "t": "in whom we have boldness and access with confidence through our faith in him."
+    },
+    {
+        "o": 32733,
+        "r": "esv:Ephesians:3:13",
+        "t": "So I ask you not to lose heart over what I am suffering for you, which is your glory."
+    },
+    {
+        "o": 32734,
+        "r": "esv:Ephesians:3:13",
+        "t": "Prayer for Spiritual Strength",
+        "h": 2
+    },
+    {
+        "o": 32735,
+        "r": "esv:Ephesians:3:14",
+        "t": "For*p this reason I bow my knees before the Father,"
+    },
+    {
+        "o": 32736,
+        "r": "esv:Ephesians:3:15",
+        "t": "from whom every family in heaven and on earth is named,"
+    },
+    {
+        "o": 32737,
+        "r": "esv:Ephesians:3:16",
+        "t": "that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being,"
+    },
+    {
+        "o": 32738,
+        "r": "esv:Ephesians:3:17",
+        "t": "so that Christ may dwell in your hearts through faith— that you, being rooted and grounded in love,"
+    },
+    {
+        "o": 32739,
+        "r": "esv:Ephesians:3:18",
+        "t": "may have strength to comprehend with all the saints what is the breadth and length and height and depth,"
+    },
+    {
+        "o": 32740,
+        "r": "esv:Ephesians:3:19",
+        "t": "and to know the love of Christ that surpasses knowledge, that you may be filled with all the fullness of God."
+    },
+    {
+        "o": 32741,
+        "r": "esv:Ephesians:3:20",
+        "t": "Now*p to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us,"
+    },
+    {
+        "o": 32742,
+        "r": "esv:Ephesians:3:21",
+        "t": "to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen."
+    },
+    {
+        "o": 32743,
+        "r": "esv:Ephesians:4:0",
+        "t": "Ephesians 4",
+        "h": 1
+    },
+    {
+        "o": 32744,
+        "r": "esv:Ephesians:4:0",
+        "t": "Unity in the Body of Christ",
+        "h": 2
+    },
+    {
+        "o": 32745,
+        "r": "esv:Ephesians:4:1",
+        "t": "I*p therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called,"
+    },
+    {
+        "o": 32746,
+        "r": "esv:Ephesians:4:2",
+        "t": "with all humility and gentleness, with patience, bearing with one another in love,"
+    },
+    {
+        "o": 32747,
+        "r": "esv:Ephesians:4:3",
+        "t": "eager to maintain the unity of the Spirit in the bond of peace."
+    },
+    {
+        "o": 32748,
+        "r": "esv:Ephesians:4:4",
+        "t": "There is one body and one Spirit— just as you were called to the one hope that belongs to your call—"
+    },
+    {
+        "o": 32749,
+        "r": "esv:Ephesians:4:5",
+        "t": "one Lord, one faith, one baptism,"
+    },
+    {
+        "o": 32750,
+        "r": "esv:Ephesians:4:6",
+        "t": "one God and Father of all, who is over all and through all and in all."
+    },
+    {
+        "o": 32751,
+        "r": "esv:Ephesians:4:7",
+        "t": "But grace was given to each one of us according to the measure of Christ’s gift."
+    },
+    {
+        "o": 32752,
+        "r": "esv:Ephesians:4:8",
+        "t": "Therefore it says, “When*pn he ascended on high he led a host of captives, and*ld he gave gifts to men.”"
+    },
+    {
+        "o": 32753,
+        "r": "esv:Ephesians:4:9",
+        "t": "(In*p saying, “He ascended,” what does it mean but that he had also descended into the lower regions, the earth?"
+    },
+    {
+        "o": 32754,
+        "r": "esv:Ephesians:4:10",
+        "t": "He who descended is the one who also ascended far above all the heavens, that he might fill all things.)"
+    },
+    {
+        "o": 32755,
+        "r": "esv:Ephesians:4:11",
+        "t": "And he gave the apostles, the prophets, the evangelists, the shepherds and teachers,"
+    },
+    {
+        "o": 32756,
+        "r": "esv:Ephesians:4:12",
+        "t": "to equip the saints for the work of ministry, for building up the body of Christ,"
+    },
+    {
+        "o": 32757,
+        "r": "esv:Ephesians:4:13",
+        "t": "until we all attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ,"
+    },
+    {
+        "o": 32758,
+        "r": "esv:Ephesians:4:14",
+        "t": "so that we may no longer be children, tossed to and fro by the waves and carried about by every wind of doctrine, by human cunning, by craftiness in deceitful schemes."
+    },
+    {
+        "o": 32759,
+        "r": "esv:Ephesians:4:15",
+        "t": "Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ,"
+    },
+    {
+        "o": 32760,
+        "r": "esv:Ephesians:4:16",
+        "t": "from whom the whole body, joined and held together by every joint with which it is equipped, when each part is working properly, makes the body grow so that it builds itself up in love."
+    },
+    {
+        "o": 32761,
+        "r": "esv:Ephesians:4:16",
+        "t": "The New Life",
+        "h": 2
+    },
+    {
+        "o": 32762,
+        "r": "esv:Ephesians:4:17",
+        "t": "Now*p this I say and testify in the Lord, that you must no longer walk as the Gentiles do, in the futility of their minds."
+    },
+    {
+        "o": 32763,
+        "r": "esv:Ephesians:4:18",
+        "t": "They are darkened in their understanding, alienated from the life of God because of the ignorance that is in them, due to their hardness of heart."
+    },
+    {
+        "o": 32764,
+        "r": "esv:Ephesians:4:19",
+        "t": "They have become callous and have given themselves up to sensuality, greedy to practice every kind of impurity."
+    },
+    {
+        "o": 32765,
+        "r": "esv:Ephesians:4:20",
+        "t": "But that is not the way you learned Christ!—"
+    },
+    {
+        "o": 32766,
+        "r": "esv:Ephesians:4:21",
+        "t": "assuming that you have heard about him and were taught in him, as the truth is in Jesus,"
+    },
+    {
+        "o": 32767,
+        "r": "esv:Ephesians:4:22",
+        "t": "to put off your old self, which belongs to your former manner of life and is corrupt through deceitful desires,"
+    },
+    {
+        "o": 32768,
+        "r": "esv:Ephesians:4:23",
+        "t": "and to be renewed in the spirit of your minds,"
+    },
+    {
+        "o": 32769,
+        "r": "esv:Ephesians:4:24",
+        "t": "and to put on the new self, created after the likeness of God in true righteousness and holiness."
+    },
+    {
+        "o": 32770,
+        "r": "esv:Ephesians:4:25",
+        "t": "Therefore,*p having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another."
+    },
+    {
+        "o": 32771,
+        "r": "esv:Ephesians:4:26",
+        "t": "Be angry and do not sin; do not let the sun go down on your anger,"
+    },
+    {
+        "o": 32772,
+        "r": "esv:Ephesians:4:27",
+        "t": "and give no opportunity to the devil."
+    },
+    {
+        "o": 32773,
+        "r": "esv:Ephesians:4:28",
+        "t": "Let the thief no longer steal, but rather let him labor, doing honest work with his own hands, so that he may have something to share with anyone in need."
+    },
+    {
+        "o": 32774,
+        "r": "esv:Ephesians:4:29",
+        "t": "Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear."
+    },
+    {
+        "o": 32775,
+        "r": "esv:Ephesians:4:30",
+        "t": "And do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption."
+    },
+    {
+        "o": 32776,
+        "r": "esv:Ephesians:4:31",
+        "t": "Let all bitterness and wrath and anger and clamor and slander be put away from you, along with all malice."
+    },
+    {
+        "o": 32777,
+        "r": "esv:Ephesians:4:32",
+        "t": "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."
+    },
+    {
+        "o": 32778,
+        "r": "esv:Ephesians:5:0",
+        "t": "Ephesians 5",
+        "h": 1
+    },
+    {
+        "o": 32779,
+        "r": "esv:Ephesians:5:0",
+        "t": "Walk in Love",
+        "h": 2
+    },
+    {
+        "o": 32780,
+        "r": "esv:Ephesians:5:1",
+        "t": "Therefore*p be imitators of God, as beloved children."
+    },
+    {
+        "o": 32781,
+        "r": "esv:Ephesians:5:2",
+        "t": "And walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God."
+    },
+    {
+        "o": 32782,
+        "r": "esv:Ephesians:5:3",
+        "t": "But*p sexual immorality and all impurity or covetousness must not even be named among you, as is proper among saints."
+    },
+    {
+        "o": 32783,
+        "r": "esv:Ephesians:5:4",
+        "t": "Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving."
+    },
+    {
+        "o": 32784,
+        "r": "esv:Ephesians:5:5",
+        "t": "For you may be sure of this, that everyone who is sexually immoral or impure, or who is covetous (that is, an idolater), has no inheritance in the kingdom of Christ and God."
+    },
+    {
+        "o": 32785,
+        "r": "esv:Ephesians:5:6",
+        "t": "Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience."
+    },
+    {
+        "o": 32786,
+        "r": "esv:Ephesians:5:7",
+        "t": "Therefore do not become partners with them;"
+    },
+    {
+        "o": 32787,
+        "r": "esv:Ephesians:5:8",
+        "t": "for at one time you were darkness, but now you are light in the Lord. Walk as children of light"
+    },
+    {
+        "o": 32788,
+        "r": "esv:Ephesians:5:9",
+        "t": "(for the fruit of light is found in all that is good and right and true),"
+    },
+    {
+        "o": 32789,
+        "r": "esv:Ephesians:5:10",
+        "t": "and try to discern what is pleasing to the Lord."
+    },
+    {
+        "o": 32790,
+        "r": "esv:Ephesians:5:11",
+        "t": "Take no part in the unfruitful works of darkness, but instead expose them."
+    },
+    {
+        "o": 32791,
+        "r": "esv:Ephesians:5:12",
+        "t": "For it is shameful even to speak of the things that they do in secret."
+    },
+    {
+        "o": 32792,
+        "r": "esv:Ephesians:5:13",
+        "t": "But when anything is exposed by the light, it becomes visible,"
+    },
+    {
+        "o": 32793,
+        "r": "esv:Ephesians:5:14",
+        "t": "for anything that becomes visible is light. Therefore it says, “Awake,*pn O sleeper, and*ld arise from the dead, and*ln Christ will shine on you.”"
+    },
+    {
+        "o": 32794,
+        "r": "esv:Ephesians:5:15",
+        "t": "Look*p carefully then how you walk, not as unwise but as wise,"
+    },
+    {
+        "o": 32795,
+        "r": "esv:Ephesians:5:16",
+        "t": "making the best use of the time, because the days are evil."
+    },
+    {
+        "o": 32796,
+        "r": "esv:Ephesians:5:17",
+        "t": "Therefore do not be foolish, but understand what the will of the Lord is."
+    },
+    {
+        "o": 32797,
+        "r": "esv:Ephesians:5:18",
+        "t": "And do not get drunk with wine, for that is debauchery, but be filled with the Spirit,"
+    },
+    {
+        "o": 32798,
+        "r": "esv:Ephesians:5:19",
+        "t": "addressing one another in psalms and hymns and spiritual songs, singing and making melody to the Lord with your heart,"
+    },
+    {
+        "o": 32799,
+        "r": "esv:Ephesians:5:20",
+        "t": "giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ,"
+    },
+    {
+        "o": 32800,
+        "r": "esv:Ephesians:5:21",
+        "t": "submitting to one another out of reverence for Christ."
+    },
+    {
+        "o": 32801,
+        "r": "esv:Ephesians:5:21",
+        "t": "Wives and Husbands",
+        "h": 2
+    },
+    {
+        "o": 32802,
+        "r": "esv:Ephesians:5:22",
+        "t": "Wives,*p submit to your own husbands, as to the Lord."
+    },
+    {
+        "o": 32803,
+        "r": "esv:Ephesians:5:23",
+        "t": "For the husband is the head of the wife even as Christ is the head of the church, his body, and is himself its Savior."
+    },
+    {
+        "o": 32804,
+        "r": "esv:Ephesians:5:24",
+        "t": "Now as the church submits to Christ, so also wives should submit in everything to their husbands."
+    },
+    {
+        "o": 32805,
+        "r": "esv:Ephesians:5:25",
+        "t": "Husbands,*p love your wives, as Christ loved the church and gave himself up for her,"
+    },
+    {
+        "o": 32806,
+        "r": "esv:Ephesians:5:26",
+        "t": "that he might sanctify her, having cleansed her by the washing of water with the word,"
+    },
+    {
+        "o": 32807,
+        "r": "esv:Ephesians:5:27",
+        "t": "so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish."
+    },
+    {
+        "o": 32808,
+        "r": "esv:Ephesians:5:28",
+        "t": "In the same way husbands should love their wives as their own bodies. He who loves his wife loves himself."
+    },
+    {
+        "o": 32809,
+        "r": "esv:Ephesians:5:29",
+        "t": "For no one ever hated his own flesh, but nourishes and cherishes it, just as Christ does the church,"
+    },
+    {
+        "o": 32810,
+        "r": "esv:Ephesians:5:30",
+        "t": "because we are members of his body."
+    },
+    {
+        "o": 32811,
+        "r": "esv:Ephesians:5:31",
+        "t": "“Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh.”"
+    },
+    {
+        "o": 32812,
+        "r": "esv:Ephesians:5:32",
+        "t": "This mystery is profound, and I am saying that it refers to Christ and the church."
+    },
+    {
+        "o": 32813,
+        "r": "esv:Ephesians:5:33",
+        "t": "However, let each one of you love his wife as himself, and let the wife see that she respects her husband."
+    },
+    {
+        "o": 32814,
+        "r": "esv:Ephesians:6:0",
+        "t": "Ephesians 6",
+        "h": 1
+    },
+    {
+        "o": 32815,
+        "r": "esv:Ephesians:6:0",
+        "t": "Children and Parents",
+        "h": 2
+    },
+    {
+        "o": 32816,
+        "r": "esv:Ephesians:6:1",
+        "t": "Children,*p obey your parents in the Lord, for this is right."
+    },
+    {
+        "o": 32817,
+        "r": "esv:Ephesians:6:2",
+        "t": "“Honor your father and mother” (this is the first commandment with a promise),"
+    },
+    {
+        "o": 32818,
+        "r": "esv:Ephesians:6:3",
+        "t": "“that it may go well with you and that you may live long in the land.”"
+    },
+    {
+        "o": 32819,
+        "r": "esv:Ephesians:6:4",
+        "t": "Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord."
+    },
+    {
+        "o": 32820,
+        "r": "esv:Ephesians:6:4",
+        "t": "Bondservants and Masters",
+        "h": 2
+    },
+    {
+        "o": 32821,
+        "r": "esv:Ephesians:6:5",
+        "t": "Bondservants,*p obey your earthly masters with fear and trembling, with a sincere heart, as you would Christ,"
+    },
+    {
+        "o": 32822,
+        "r": "esv:Ephesians:6:6",
+        "t": "not by the way of eye-service, as people-pleasers, but as bondservants of Christ, doing the will of God from the heart,"
+    },
+    {
+        "o": 32823,
+        "r": "esv:Ephesians:6:7",
+        "t": "rendering service with a good will as to the Lord and not to man,"
+    },
+    {
+        "o": 32824,
+        "r": "esv:Ephesians:6:8",
+        "t": "knowing that whatever good anyone does, this he will receive back from the Lord, whether he is a bondservant or is free."
+    },
+    {
+        "o": 32825,
+        "r": "esv:Ephesians:6:9",
+        "t": "Masters, do the same to them, and stop your threatening, knowing that he who is both their Master and yours is in heaven, and that there is no partiality with him."
+    },
+    {
+        "o": 32826,
+        "r": "esv:Ephesians:6:9",
+        "t": "The Whole Armor of God",
+        "h": 2
+    },
+    {
+        "o": 32827,
+        "r": "esv:Ephesians:6:10",
+        "t": "Finally,*p be strong in the Lord and in the strength of his might."
+    },
+    {
+        "o": 32828,
+        "r": "esv:Ephesians:6:11",
+        "t": "Put on the whole armor of God, that you may be able to stand against the schemes of the devil."
+    },
+    {
+        "o": 32829,
+        "r": "esv:Ephesians:6:12",
+        "t": "For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places."
+    },
+    {
+        "o": 32830,
+        "r": "esv:Ephesians:6:13",
+        "t": "Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand firm."
+    },
+    {
+        "o": 32831,
+        "r": "esv:Ephesians:6:14",
+        "t": "Stand therefore, having fastened on the belt of truth, and having put on the breastplate of righteousness,"
+    },
+    {
+        "o": 32832,
+        "r": "esv:Ephesians:6:15",
+        "t": "and, as shoes for your feet, having put on the readiness given by the gospel of peace."
+    },
+    {
+        "o": 32833,
+        "r": "esv:Ephesians:6:16",
+        "t": "In all circumstances take up the shield of faith, with which you can extinguish all the flaming darts of the evil one;"
+    },
+    {
+        "o": 32834,
+        "r": "esv:Ephesians:6:17",
+        "t": "and take the helmet of salvation, and the sword of the Spirit, which is the word of God,"
+    },
+    {
+        "o": 32835,
+        "r": "esv:Ephesians:6:18",
+        "t": "praying at all times in the Spirit, with all prayer and supplication. To that end, keep alert with all perseverance, making supplication for all the saints,"
+    },
+    {
+        "o": 32836,
+        "r": "esv:Ephesians:6:19",
+        "t": "and also for me, that words may be given to me in opening my mouth boldly to proclaim the mystery of the gospel,"
+    },
+    {
+        "o": 32837,
+        "r": "esv:Ephesians:6:20",
+        "t": "for which I am an ambassador in chains, that I may declare it boldly, as I ought to speak."
+    },
+    {
+        "o": 32838,
+        "r": "esv:Ephesians:6:20",
+        "t": "Final Greetings",
+        "h": 2
+    },
+    {
+        "o": 32839,
+        "r": "esv:Ephesians:6:21",
+        "t": "So*p that you also may know how I am and what I am doing, Tychicus the beloved brother and faithful minister in the Lord will tell you everything."
+    },
+    {
+        "o": 32840,
+        "r": "esv:Ephesians:6:22",
+        "t": "I have sent him to you for this very purpose, that you may know how we are, and that he may encourage your hearts."
+    },
+    {
+        "o": 32841,
+        "r": "esv:Ephesians:6:23",
+        "t": "Peace*p be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ."
+    },
+    {
+        "o": 32842,
+        "r": "esv:Ephesians:6:24",
+        "t": "Grace be with all who love our Lord Jesus Christ with love incorruptible."
+    }
+]

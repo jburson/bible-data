@@ -1,0 +1,1624 @@
+[
+    {
+        "o": 13238,
+        "r": "nasb:Ezra:1:0",
+        "t": "Ezra 1",
+        "h": 1
+    },
+    {
+        "o": 13239,
+        "r": "nasb:Ezra:1:0",
+        "t": "Cyrus’s Proclamation",
+        "h": 2
+    },
+    {
+        "o": 13240,
+        "r": "nasb:Ezra:1:1",
+        "t": "Now*p in the first year of Cyrus king of Persia, in order to fulfill the word of the Lord*s by the mouth of Jeremiah, the Lord*s stirred up the spirit of Cyrus king of Persia, so that he sent a proclamation throughout all his kingdom, and also put*i it*i in writing, saying:"
+    },
+    {
+        "o": 13241,
+        "r": "nasb:Ezra:1:2",
+        "t": "“Thus*p says Cyrus king of Persia, ‘The Lord,*s the God of heaven, has given me all the kingdoms of the earth and He has appointed me to build Him a house in Jerusalem, which is in Judah."
+    },
+    {
+        "o": 13242,
+        "r": "nasb:Ezra:1:3",
+        "t": "Whoever there is among you of all His people, may his God be with him! Let him go up to Jerusalem which is in Judah and rebuild the house of the Lord,*s the God of Israel; He is the God who is in Jerusalem."
+    },
+    {
+        "o": 13243,
+        "r": "nasb:Ezra:1:4",
+        "t": "Every survivor, at whatever place he may live, let the men of that place support him with silver and gold, with goods and cattle, together with a freewill offering for the house of God which is in Jerusalem.’ ”"
+    },
+    {
+        "o": 13244,
+        "r": "nasb:Ezra:1:4",
+        "t": "Holy Vessels Restored",
+        "h": 2
+    },
+    {
+        "o": 13245,
+        "r": "nasb:Ezra:1:5",
+        "t": "Then*p the heads of fathers’ households*i of Judah and Benjamin and the priests and the Levites arose, even everyone whose spirit God had stirred to go up and rebuild the house of the Lord*s which is in Jerusalem."
+    },
+    {
+        "o": 13246,
+        "r": "nasb:Ezra:1:6",
+        "t": "All those about them encouraged them with articles of silver, with gold, with goods, with cattle and with valuables, aside from all that was given as a freewill offering."
+    },
+    {
+        "o": 13247,
+        "r": "nasb:Ezra:1:7",
+        "t": "Also King Cyrus brought out the articles of the house of the Lord,*s which Nebuchadnezzar had carried away from Jerusalem and put in the house of his gods;"
+    },
+    {
+        "o": 13248,
+        "r": "nasb:Ezra:1:8",
+        "t": "and Cyrus, king of Persia, had them brought out by the hand of Mithredath the treasurer, and he counted them out to Sheshbazzar, the prince of Judah."
+    },
+    {
+        "o": 13249,
+        "r": "nasb:Ezra:1:9",
+        "t": "Now this was*i their number: 30 gold dishes, 1,000 silver dishes, 29 duplicates;"
+    },
+    {
+        "o": 13250,
+        "r": "nasb:Ezra:1:10",
+        "t": "30 gold bowls, 410 silver bowls of a second kind*i and*i 1,000 other articles."
+    },
+    {
+        "o": 13251,
+        "r": "nasb:Ezra:1:11",
+        "t": "All the articles of gold and silver numbered*i 5,400. Sheshbazzar brought them all up with the exiles who went up from Babylon to Jerusalem."
+    },
+    {
+        "o": 13252,
+        "r": "nasb:Ezra:2:0",
+        "t": "Ezra 2",
+        "h": 1
+    },
+    {
+        "o": 13253,
+        "r": "nasb:Ezra:2:0",
+        "t": "Number of Those Returning",
+        "h": 2
+    },
+    {
+        "o": 13254,
+        "r": "nasb:Ezra:2:1",
+        "t": "Now*p these are the people of the province who came up out of the captivity of the exiles whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and returned to Jerusalem and Judah, each to his city."
+    },
+    {
+        "o": 13255,
+        "r": "nasb:Ezra:2:2",
+        "t": "These came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum and*i Baanah. The*bp number of the men of the people of Israel:"
+    },
+    {
+        "o": 13256,
+        "r": "nasb:Ezra:2:3",
+        "t": "the sons of Parosh, 2,172;"
+    },
+    {
+        "o": 13257,
+        "r": "nasb:Ezra:2:4",
+        "t": "the sons of Shephatiah, 372;"
+    },
+    {
+        "o": 13258,
+        "r": "nasb:Ezra:2:5",
+        "t": "the sons of Arah, 775;"
+    },
+    {
+        "o": 13259,
+        "r": "nasb:Ezra:2:6",
+        "t": "the sons of Pahath-moab of the sons of Jeshua and*i Joab, 2,812;"
+    },
+    {
+        "o": 13260,
+        "r": "nasb:Ezra:2:7",
+        "t": "the sons of Elam, 1,254;"
+    },
+    {
+        "o": 13261,
+        "r": "nasb:Ezra:2:8",
+        "t": "the sons of Zattu, 945;"
+    },
+    {
+        "o": 13262,
+        "r": "nasb:Ezra:2:9",
+        "t": "the sons of Zaccai, 760;"
+    },
+    {
+        "o": 13263,
+        "r": "nasb:Ezra:2:10",
+        "t": "the sons of Bani, 642;"
+    },
+    {
+        "o": 13264,
+        "r": "nasb:Ezra:2:11",
+        "t": "the sons of Bebai, 623;"
+    },
+    {
+        "o": 13265,
+        "r": "nasb:Ezra:2:12",
+        "t": "the sons of Azgad, 1,222;"
+    },
+    {
+        "o": 13266,
+        "r": "nasb:Ezra:2:13",
+        "t": "the sons of Adonikam, 666;"
+    },
+    {
+        "o": 13267,
+        "r": "nasb:Ezra:2:14",
+        "t": "the sons of Bigvai, 2,056;"
+    },
+    {
+        "o": 13268,
+        "r": "nasb:Ezra:2:15",
+        "t": "the sons of Adin, 454;"
+    },
+    {
+        "o": 13269,
+        "r": "nasb:Ezra:2:16",
+        "t": "the sons of Ater of Hezekiah, 98;"
+    },
+    {
+        "o": 13270,
+        "r": "nasb:Ezra:2:17",
+        "t": "the sons of Bezai, 323;"
+    },
+    {
+        "o": 13271,
+        "r": "nasb:Ezra:2:18",
+        "t": "the sons of Jorah, 112;"
+    },
+    {
+        "o": 13272,
+        "r": "nasb:Ezra:2:19",
+        "t": "the sons of Hashum, 223;"
+    },
+    {
+        "o": 13273,
+        "r": "nasb:Ezra:2:20",
+        "t": "the sons of Gibbar, 95;"
+    },
+    {
+        "o": 13274,
+        "r": "nasb:Ezra:2:21",
+        "t": "the men of Bethlehem, 123;"
+    },
+    {
+        "o": 13275,
+        "r": "nasb:Ezra:2:22",
+        "t": "the men of Netophah, 56;"
+    },
+    {
+        "o": 13276,
+        "r": "nasb:Ezra:2:23",
+        "t": "the men of Anathoth, 128;"
+    },
+    {
+        "o": 13277,
+        "r": "nasb:Ezra:2:24",
+        "t": "the sons of Azmaveth, 42;"
+    },
+    {
+        "o": 13278,
+        "r": "nasb:Ezra:2:25",
+        "t": "the sons of Kiriath-arim, Chephirah and Beeroth, 743;"
+    },
+    {
+        "o": 13279,
+        "r": "nasb:Ezra:2:26",
+        "t": "the sons of Ramah and Geba, 621;"
+    },
+    {
+        "o": 13280,
+        "r": "nasb:Ezra:2:27",
+        "t": "the men of Michmas, 122;"
+    },
+    {
+        "o": 13281,
+        "r": "nasb:Ezra:2:28",
+        "t": "the men of Bethel and Ai, 223;"
+    },
+    {
+        "o": 13282,
+        "r": "nasb:Ezra:2:29",
+        "t": "the sons of Nebo, 52;"
+    },
+    {
+        "o": 13283,
+        "r": "nasb:Ezra:2:30",
+        "t": "the sons of Magbish, 156;"
+    },
+    {
+        "o": 13284,
+        "r": "nasb:Ezra:2:31",
+        "t": "the sons of the other Elam, 1,254;"
+    },
+    {
+        "o": 13285,
+        "r": "nasb:Ezra:2:32",
+        "t": "the sons of Harim, 320;"
+    },
+    {
+        "o": 13286,
+        "r": "nasb:Ezra:2:33",
+        "t": "the sons of Lod, Hadid and Ono, 725;"
+    },
+    {
+        "o": 13287,
+        "r": "nasb:Ezra:2:34",
+        "t": "the men of Jericho, 345;"
+    },
+    {
+        "o": 13288,
+        "r": "nasb:Ezra:2:35",
+        "t": "the sons of Senaah, 3,630."
+    },
+    {
+        "o": 13289,
+        "r": "nasb:Ezra:2:35",
+        "t": "Priests Returning",
+        "h": 2
+    },
+    {
+        "o": 13290,
+        "r": "nasb:Ezra:2:36",
+        "t": "The*p priests: the sons of Jedaiah of the house of Jeshua, 973;"
+    },
+    {
+        "o": 13291,
+        "r": "nasb:Ezra:2:37",
+        "t": "the sons of Immer, 1,052;"
+    },
+    {
+        "o": 13292,
+        "r": "nasb:Ezra:2:38",
+        "t": "the sons of Pashhur, 1,247;"
+    },
+    {
+        "o": 13293,
+        "r": "nasb:Ezra:2:39",
+        "t": "the sons of Harim, 1,017."
+    },
+    {
+        "o": 13294,
+        "r": "nasb:Ezra:2:39",
+        "t": "Levites Returning",
+        "h": 2
+    },
+    {
+        "o": 13295,
+        "r": "nasb:Ezra:2:40",
+        "t": "The*p Levites: the sons of Jeshua and Kadmiel, of the sons of Hodaviah, 74."
+    },
+    {
+        "o": 13296,
+        "r": "nasb:Ezra:2:41",
+        "t": "The singers: the sons of Asaph, 128."
+    },
+    {
+        "o": 13297,
+        "r": "nasb:Ezra:2:42",
+        "t": "The sons of the gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, in all 139."
+    },
+    {
+        "o": 13298,
+        "r": "nasb:Ezra:2:43",
+        "t": "The*p temple servants: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,"
+    },
+    {
+        "o": 13299,
+        "r": "nasb:Ezra:2:44",
+        "t": "the sons of Keros, the sons of Siaha, the sons of Padon,"
+    },
+    {
+        "o": 13300,
+        "r": "nasb:Ezra:2:45",
+        "t": "the sons of Lebanah, the sons of Hagabah, the sons of Akkub,"
+    },
+    {
+        "o": 13301,
+        "r": "nasb:Ezra:2:46",
+        "t": "the sons of Hagab, the sons of Shalmai, the sons of Hanan,"
+    },
+    {
+        "o": 13302,
+        "r": "nasb:Ezra:2:47",
+        "t": "the sons of Giddel, the sons of Gahar, the sons of Reaiah,"
+    },
+    {
+        "o": 13303,
+        "r": "nasb:Ezra:2:48",
+        "t": "the sons of Rezin, the sons of Nekoda, the sons of Gazzam,"
+    },
+    {
+        "o": 13304,
+        "r": "nasb:Ezra:2:49",
+        "t": "the sons of Uzza, the sons of Paseah, the sons of Besai,"
+    },
+    {
+        "o": 13305,
+        "r": "nasb:Ezra:2:50",
+        "t": "the sons of Asnah, the sons of Meunim, the sons of Nephisim,"
+    },
+    {
+        "o": 13306,
+        "r": "nasb:Ezra:2:51",
+        "t": "the sons of Bakbuk, the sons of Hakupha, the sons of Harhur,"
+    },
+    {
+        "o": 13307,
+        "r": "nasb:Ezra:2:52",
+        "t": "the sons of Bazluth, the sons of Mehida, the sons of Harsha,"
+    },
+    {
+        "o": 13308,
+        "r": "nasb:Ezra:2:53",
+        "t": "the sons of Barkos, the sons of Sisera, the sons of Temah,"
+    },
+    {
+        "o": 13309,
+        "r": "nasb:Ezra:2:54",
+        "t": "the sons of Neziah, the sons of Hatipha."
+    },
+    {
+        "o": 13310,
+        "r": "nasb:Ezra:2:55",
+        "t": "The*p sons of Solomon’s servants: the sons of Sotai, the sons of Hassophereth, the sons of Peruda,"
+    },
+    {
+        "o": 13311,
+        "r": "nasb:Ezra:2:56",
+        "t": "the sons of Jaalah, the sons of Darkon, the sons of Giddel,"
+    },
+    {
+        "o": 13312,
+        "r": "nasb:Ezra:2:57",
+        "t": "the sons of Shephatiah, the sons of Hattil, the sons of Pochereth-hazzebaim, the sons of Ami."
+    },
+    {
+        "o": 13313,
+        "r": "nasb:Ezra:2:58",
+        "t": "All*p the temple servants and the sons of Solomon’s servants were 392."
+    },
+    {
+        "o": 13314,
+        "r": "nasb:Ezra:2:59",
+        "t": "Now*p these are those who came up from Tel-melah, Tel-harsha, Cherub, Addan and*i Immer, but they were not able to give evidence of their fathers’ households and their descendants, whether they were of Israel:"
+    },
+    {
+        "o": 13315,
+        "r": "nasb:Ezra:2:60",
+        "t": "the sons of Delaiah, the sons of Tobiah, the sons of Nekoda, 652."
+    },
+    {
+        "o": 13316,
+        "r": "nasb:Ezra:2:60",
+        "t": "Priests Removed",
+        "h": 2
+    },
+    {
+        "o": 13317,
+        "r": "nasb:Ezra:2:61",
+        "t": "Of*p the sons of the priests: the sons of Habaiah, the sons of Hakkoz, the sons of Barzillai, who took a wife from the daughters of Barzillai the Gileadite, and he was called by their name."
+    },
+    {
+        "o": 13318,
+        "r": "nasb:Ezra:2:62",
+        "t": "These searched among*i their ancestral registration, but they could not be located; therefore they were considered unclean and*i excluded*i from the priesthood."
+    },
+    {
+        "o": 13319,
+        "r": "nasb:Ezra:2:63",
+        "t": "The governor said to them that they should not eat from the most holy things until a priest stood up with Urim and Thummim."
+    },
+    {
+        "o": 13320,
+        "r": "nasb:Ezra:2:64",
+        "t": "The*p whole assembly numbered 42,360,"
+    },
+    {
+        "o": 13321,
+        "r": "nasb:Ezra:2:65",
+        "t": "besides their male and female servants who numbered 7,337; and they had 200 singing men and women."
+    },
+    {
+        "o": 13322,
+        "r": "nasb:Ezra:2:66",
+        "t": "Their horses were 736; their mules, 245;"
+    },
+    {
+        "o": 13323,
+        "r": "nasb:Ezra:2:67",
+        "t": "their camels, 435; their*i donkeys, 6,720."
+    },
+    {
+        "o": 13324,
+        "r": "nasb:Ezra:2:68",
+        "t": "Some*p of the heads of fathers’ households,*i when they arrived at the house of the Lord*s which is in Jerusalem, offered willingly for the house of God to restore it on its foundation."
+    },
+    {
+        "o": 13325,
+        "r": "nasb:Ezra:2:69",
+        "t": "According to their ability they gave to the treasury for the work 61,000 gold drachmas and 5,000 silver minas and 100 priestly garments."
+    },
+    {
+        "o": 13326,
+        "r": "nasb:Ezra:2:70",
+        "t": "Now*p the priests and the Levites, some of the people, the singers, the gatekeepers and the temple servants lived in their cities, and all Israel in their cities."
+    },
+    {
+        "o": 13327,
+        "r": "nasb:Ezra:3:0",
+        "t": "Ezra 3",
+        "h": 1
+    },
+    {
+        "o": 13328,
+        "r": "nasb:Ezra:3:0",
+        "t": "Altar and Sacrifices Restored",
+        "h": 2
+    },
+    {
+        "o": 13329,
+        "r": "nasb:Ezra:3:1",
+        "t": "Now*p when the seventh month came, and the sons of Israel were*i in the cities, the people gathered together as one man to Jerusalem."
+    },
+    {
+        "o": 13330,
+        "r": "nasb:Ezra:3:2",
+        "t": "Then Jeshua the son of Jozadak and his brothers the priests, and Zerubbabel the son of Shealtiel and his brothers arose and built the altar of the God of Israel to offer burnt offerings on it, as it is written in the law of Moses, the man of God."
+    },
+    {
+        "o": 13331,
+        "r": "nasb:Ezra:3:3",
+        "t": "So they set up the altar on its foundation, for they were terrified because of the peoples of the lands; and they offered burnt offerings on it to the Lord,*s burnt offerings morning and evening."
+    },
+    {
+        "o": 13332,
+        "r": "nasb:Ezra:3:4",
+        "t": "They celebrated the Feast of Booths, as it is written, and offered*i the fixed number of burnt offerings daily, according to the ordinance, as each day required;"
+    },
+    {
+        "o": 13333,
+        "r": "nasb:Ezra:3:5",
+        "t": "and afterward there*i was*i a continual burnt offering, also for the new moons and for all the fixed festivals of the Lord*s that were consecrated, and from everyone who offered a freewill offering to the Lord.*s"
+    },
+    {
+        "o": 13334,
+        "r": "nasb:Ezra:3:6",
+        "t": "From the first day of the seventh month they began to offer burnt offerings to the Lord,*s but the foundation of the temple of the Lord*s had not been laid."
+    },
+    {
+        "o": 13335,
+        "r": "nasb:Ezra:3:7",
+        "t": "Then they gave money to the masons and carpenters, and food, drink and oil to the Sidonians and to the Tyrians, to bring cedar wood from Lebanon to the sea at Joppa, according to the permission they had from Cyrus king of Persia."
+    },
+    {
+        "o": 13336,
+        "r": "nasb:Ezra:3:7",
+        "t": "Temple Restoration Begun",
+        "h": 2
+    },
+    {
+        "o": 13337,
+        "r": "nasb:Ezra:3:8",
+        "t": "Now*p in the second year of their coming to the house of God at Jerusalem in the second month, Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak and the rest of their brothers the priests and the Levites, and all who came from the captivity to Jerusalem, began the*i work*i and appointed the Levites from twenty years and older to oversee the work of the house of the Lord.*s"
+    },
+    {
+        "o": 13338,
+        "r": "nasb:Ezra:3:9",
+        "t": "Then Jeshua with*i his sons and brothers stood united with*i Kadmiel and his sons, the sons of Judah and*i the sons of Henadad with*i their sons and brothers the Levites, to oversee the workmen in the temple of God."
+    },
+    {
+        "o": 13339,
+        "r": "nasb:Ezra:3:10",
+        "t": "Now*p when the builders had laid the foundation of the temple of the Lord,*s the priests stood in their apparel with trumpets, and the Levites, the sons of Asaph, with cymbals, to praise the Lord*s according to the directions of King David of Israel."
+    },
+    {
+        "o": 13340,
+        "r": "nasb:Ezra:3:11",
+        "t": "They sang, praising and giving thanks to the Lord,*s saying,*i “For He is good, for His lovingkindness is upon Israel forever.” And all the people shouted with a great shout when they praised the Lord*s because the foundation of the house of the Lord*s was laid."
+    },
+    {
+        "o": 13341,
+        "r": "nasb:Ezra:3:12",
+        "t": "Yet many of the priests and Levites and heads of fathers’ households,*i the old men who had seen the first temple, wept with a loud voice when the foundation of this house was laid before their eyes, while many shouted aloud for joy,"
+    },
+    {
+        "o": 13342,
+        "r": "nasb:Ezra:3:13",
+        "t": "so that the people could not distinguish the sound of the shout of joy from the sound of the weeping of the people, for the people shouted with a loud shout, and the sound was heard far away."
+    },
+    {
+        "o": 13343,
+        "r": "nasb:Ezra:4:0",
+        "t": "Ezra 4",
+        "h": 1
+    },
+    {
+        "o": 13344,
+        "r": "nasb:Ezra:4:0",
+        "t": "Adversaries Hinder the Work",
+        "h": 2
+    },
+    {
+        "o": 13345,
+        "r": "nasb:Ezra:4:1",
+        "t": "Now*p when the enemies of Judah and Benjamin heard that the people of the exile were building a temple to the Lord*s God of Israel,"
+    },
+    {
+        "o": 13346,
+        "r": "nasb:Ezra:4:2",
+        "t": "they approached Zerubbabel and the heads of fathers’ households,*i and said to them, “Let us build with you, for we, like you, seek your God; and we have been sacrificing to Him since the days of Esarhaddon king of Assyria, who brought us up here.”"
+    },
+    {
+        "o": 13347,
+        "r": "nasb:Ezra:4:3",
+        "t": "But Zerubbabel and Jeshua and the rest of the heads of fathers’ households*i of Israel said to them, “You have nothing in common with us in building a house to our God; but we ourselves will together build to the Lord*s God of Israel, as King Cyrus, the king of Persia has commanded us.”"
+    },
+    {
+        "o": 13348,
+        "r": "nasb:Ezra:4:4",
+        "t": "Then*p the people of the land discouraged the people of Judah, and frightened them from building,"
+    },
+    {
+        "o": 13349,
+        "r": "nasb:Ezra:4:5",
+        "t": "and hired counselors against them to frustrate their counsel all the days of Cyrus king of Persia, even until the reign of Darius king of Persia."
+    },
+    {
+        "o": 13350,
+        "r": "nasb:Ezra:4:6",
+        "t": "Now*p in the reign of Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem."
+    },
+    {
+        "o": 13351,
+        "r": "nasb:Ezra:4:7",
+        "t": "And*p in the days of Artaxerxes, Bishlam, Mithredath, Tabeel and the rest of his colleagues wrote to Artaxerxes king of Persia; and the text of the letter was written in Aramaic and translated from*i Aramaic."
+    },
+    {
+        "o": 13352,
+        "r": "nasb:Ezra:4:7",
+        "t": "The Letter to King Artaxerxes",
+        "h": 2
+    },
+    {
+        "o": 13353,
+        "r": "nasb:Ezra:4:8",
+        "t": "Rehum*p the commander and Shimshai the scribe wrote a letter against Jerusalem to King Artaxerxes, as follows—"
+    },
+    {
+        "o": 13354,
+        "r": "nasb:Ezra:4:9",
+        "t": "then wrote*i Rehum the commander and Shimshai the scribe and the rest of their colleagues, the judges and the lesser governors, the officials, the secretaries, the men of Erech, the Babylonians, the men of Susa, that is, the Elamites,"
+    },
+    {
+        "o": 13355,
+        "r": "nasb:Ezra:4:10",
+        "t": "and the rest of the nations which the great and honorable Osnappar deported and settled in the city of Samaria, and in the rest of the region beyond the River. Now"
+    },
+    {
+        "o": 13356,
+        "r": "nasb:Ezra:4:11",
+        "t": "this is the copy of the letter which they sent to him: “To*bp King Artaxerxes: Your servants, the men in the region beyond the River, and now"
+    },
+    {
+        "o": 13357,
+        "r": "nasb:Ezra:4:12",
+        "t": "let it be known to the king that the Jews who came up from you have come to us at Jerusalem; they are rebuilding the rebellious and evil city and are finishing the walls and repairing the foundations."
+    },
+    {
+        "o": 13358,
+        "r": "nasb:Ezra:4:13",
+        "t": "Now let it be known to the king, that if that city is rebuilt and the walls are finished, they will not pay tribute, custom or toll, and it will damage the revenue of the kings."
+    },
+    {
+        "o": 13359,
+        "r": "nasb:Ezra:4:14",
+        "t": "Now because we are in the service of the palace, and it is not fitting for us to see the king’s dishonor, therefore we have sent and informed the king,"
+    },
+    {
+        "o": 13360,
+        "r": "nasb:Ezra:4:15",
+        "t": "so that a search may be made in the record books of your fathers. And you will discover in the record books and learn that that city is a rebellious city and damaging to kings and provinces, and that they have incited revolt within it in past days; therefore that city was laid waste."
+    },
+    {
+        "o": 13361,
+        "r": "nasb:Ezra:4:16",
+        "t": "We inform the king that if that city is rebuilt and the walls finished, as a result you will have no possession in the*i province*i beyond the River.”"
+    },
+    {
+        "o": 13362,
+        "r": "nasb:Ezra:4:16",
+        "t": "The King Replies and Work Stops",
+        "h": 2
+    },
+    {
+        "o": 13363,
+        "r": "nasb:Ezra:4:17",
+        "t": "Then*ip the king sent an answer to Rehum the commander, to Shimshai the scribe, and to the rest of their colleagues who live in Samaria and in the rest of the*i provinces*i beyond the River: “Peace. And now"
+    },
+    {
+        "o": 13364,
+        "r": "nasb:Ezra:4:18",
+        "t": "the document which you sent to us has been translated and read before me."
+    },
+    {
+        "o": 13365,
+        "r": "nasb:Ezra:4:19",
+        "t": "A decree has been issued by me, and a search has been made and it has been discovered that that city has risen up against the kings in past days, that rebellion and revolt have been perpetrated in it,"
+    },
+    {
+        "o": 13366,
+        "r": "nasb:Ezra:4:20",
+        "t": "that mighty kings have ruled over Jerusalem, governing all the*i provinces*i beyond the River, and that tribute, custom and toll were paid to them."
+    },
+    {
+        "o": 13367,
+        "r": "nasb:Ezra:4:21",
+        "t": "So, now issue a decree to make these men stop work,*i that this city may not be rebuilt until a decree is issued by me."
+    },
+    {
+        "o": 13368,
+        "r": "nasb:Ezra:4:22",
+        "t": "Beware of being negligent in carrying out this matter;*i why should damage increase to the detriment of the kings?”"
+    },
+    {
+        "o": 13369,
+        "r": "nasb:Ezra:4:23",
+        "t": "Then*p as soon as the copy of King Artaxerxes’ document was read before Rehum and Shimshai the scribe and their colleagues, they went in haste to Jerusalem to the Jews and stopped them by force of arms."
+    },
+    {
+        "o": 13370,
+        "r": "nasb:Ezra:4:24",
+        "t": "Then*p work on the house of God in Jerusalem ceased, and it was stopped until the second year of the reign of Darius king of Persia."
+    },
+    {
+        "o": 13371,
+        "r": "nasb:Ezra:5:0",
+        "t": "Ezra 5",
+        "h": 1
+    },
+    {
+        "o": 13372,
+        "r": "nasb:Ezra:5:0",
+        "t": "Temple Work Resumed",
+        "h": 2
+    },
+    {
+        "o": 13373,
+        "r": "nasb:Ezra:5:1",
+        "t": "When*p the prophets, Haggai the prophet and Zechariah the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem in the name of the God of Israel, who was over them,"
+    },
+    {
+        "o": 13374,
+        "r": "nasb:Ezra:5:2",
+        "t": "then Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak arose and began to rebuild the house of God which is in Jerusalem; and the prophets of God were with them supporting them."
+    },
+    {
+        "o": 13375,
+        "r": "nasb:Ezra:5:3",
+        "t": "At*p that time Tattenai, the governor of the*i province*i beyond the River, and Shethar-bozenai and their colleagues came to them and spoke to them thus, “Who issued you a decree to rebuild this temple and to finish this structure?”"
+    },
+    {
+        "o": 13376,
+        "r": "nasb:Ezra:5:4",
+        "t": "Then we told them accordingly what the names of the men were who were reconstructing this building."
+    },
+    {
+        "o": 13377,
+        "r": "nasb:Ezra:5:5",
+        "t": "But the eye of their God was on the elders of the Jews, and they did not stop them until a report could come to Darius, and then a written reply be returned concerning it."
+    },
+    {
+        "o": 13378,
+        "r": "nasb:Ezra:5:5",
+        "t": "Adversaries Write to Darius",
+        "h": 2
+    },
+    {
+        "o": 13379,
+        "r": "nasb:Ezra:5:6",
+        "t": "This*ip is*i the copy of the letter which Tattenai, the governor of the*i province*i beyond the River, and Shethar-bozenai and his colleagues the officials, who were beyond the River, sent to Darius the king."
+    },
+    {
+        "o": 13380,
+        "r": "nasb:Ezra:5:7",
+        "t": "They sent a report to him in which it was written thus: “To Darius the king, all peace."
+    },
+    {
+        "o": 13381,
+        "r": "nasb:Ezra:5:8",
+        "t": "Let it be known to the king that we have gone to the province of Judah, to the house of the great God, which is being built with huge stones, and beams are being laid in the walls; and this work is going on with great care and is succeeding in their hands."
+    },
+    {
+        "o": 13382,
+        "r": "nasb:Ezra:5:9",
+        "t": "Then we asked those elders and said to them thus, ‘Who issued you a decree to rebuild this temple and to finish this structure?’"
+    },
+    {
+        "o": 13383,
+        "r": "nasb:Ezra:5:10",
+        "t": "We also asked them their names so as to inform you, and that we might write down the names of the men who were at their head."
+    },
+    {
+        "o": 13384,
+        "r": "nasb:Ezra:5:11",
+        "t": "Thus they answered us, saying, ‘We are the servants of the God of heaven and earth and are rebuilding the temple that was built many years ago, which a great king of Israel built and finished."
+    },
+    {
+        "o": 13385,
+        "r": "nasb:Ezra:5:12",
+        "t": "But because our fathers had provoked the God of heaven to wrath, He gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who*i destroyed this temple and deported the people to Babylon."
+    },
+    {
+        "o": 13386,
+        "r": "nasb:Ezra:5:13",
+        "t": "However, in the first year of Cyrus king of Babylon, King Cyrus issued a decree to rebuild this house of God."
+    },
+    {
+        "o": 13387,
+        "r": "nasb:Ezra:5:14",
+        "t": "Also the gold and silver utensils of the house of God which Nebuchadnezzar had taken from the temple in Jerusalem, and brought them to the temple of Babylon, these King Cyrus took from the temple of Babylon and they were given to one whose name was Sheshbazzar, whom he had appointed governor."
+    },
+    {
+        "o": 13388,
+        "r": "nasb:Ezra:5:15",
+        "t": "He said to him, “Take these utensils, go and*i deposit them in the temple in Jerusalem and let the house of God be rebuilt in its place.”"
+    },
+    {
+        "o": 13389,
+        "r": "nasb:Ezra:5:16",
+        "t": "Then that Sheshbazzar came and*i laid the foundations of the house of God in Jerusalem; and from then until now it has been under construction and it is not yet*i completed.’"
+    },
+    {
+        "o": 13390,
+        "r": "nasb:Ezra:5:17",
+        "t": "Now if it pleases the king, let a search be conducted in the king’s treasure house, which is there in Babylon, if it be that a decree was issued by King Cyrus to rebuild this house of God at Jerusalem; and let the king send to us his decision concerning this matter.”*i"
+    },
+    {
+        "o": 13391,
+        "r": "nasb:Ezra:6:0",
+        "t": "Ezra 6",
+        "h": 1
+    },
+    {
+        "o": 13392,
+        "r": "nasb:Ezra:6:0",
+        "t": "Darius Finds Cyrus’s Decree",
+        "h": 2
+    },
+    {
+        "o": 13393,
+        "r": "nasb:Ezra:6:1",
+        "t": "Then*p King Darius issued a decree, and search was made in the archives, where the treasures were stored in Babylon."
+    },
+    {
+        "o": 13394,
+        "r": "nasb:Ezra:6:2",
+        "t": "In Ecbatana in the fortress, which is in the province of Media, a scroll was found and there was written in it as follows: “Memorandum—"
+    },
+    {
+        "o": 13395,
+        "r": "nasb:Ezra:6:3",
+        "t": "In the first year of King Cyrus, Cyrus the king issued a decree: ‘Concerning*i the house of God at Jerusalem, let the temple, the place where sacrifices are offered, be rebuilt and let its foundations be retained, its height being 60 cubits and its width 60 cubits;"
+    },
+    {
+        "o": 13396,
+        "r": "nasb:Ezra:6:4",
+        "t": "with three layers of huge stones and one layer of timbers. And let the cost be paid from the royal treasury."
+    },
+    {
+        "o": 13397,
+        "r": "nasb:Ezra:6:5",
+        "t": "Also let the gold and silver utensils of the house of God, which Nebuchadnezzar took from the temple in Jerusalem and brought to Babylon, be returned and brought to their places in the temple in Jerusalem; and you shall put them*i in the house of God.’"
+    },
+    {
+        "o": 13398,
+        "r": "nasb:Ezra:6:6",
+        "t": "“Now*p therefore,*i Tattenai, governor of the*i province*i beyond the River, Shethar-bozenai and your colleagues, the officials of the*i provinces*i beyond the River, keep away from there."
+    },
+    {
+        "o": 13399,
+        "r": "nasb:Ezra:6:7",
+        "t": "Leave this work on the house of God alone; let the governor of the Jews and the elders of the Jews rebuild this house of God on its site."
+    },
+    {
+        "o": 13400,
+        "r": "nasb:Ezra:6:8",
+        "t": "Moreover, I issue a decree concerning what you are to do for these elders of Judah in the rebuilding of this house of God: the full cost is to be paid to these people from the royal treasury out of the taxes of the*i provinces*i beyond the River, and that without delay."
+    },
+    {
+        "o": 13401,
+        "r": "nasb:Ezra:6:9",
+        "t": "Whatever is needed, both young bulls, rams, and lambs for a burnt offering to the God of heaven, and wheat, salt, wine and anointing oil, as the priests in Jerusalem request, it*i is to be given to them daily without fail,"
+    },
+    {
+        "o": 13402,
+        "r": "nasb:Ezra:6:10",
+        "t": "that they may offer acceptable sacrifices to the God of heaven and pray for the life of the king and his sons."
+    },
+    {
+        "o": 13403,
+        "r": "nasb:Ezra:6:11",
+        "t": "And I issued a decree that any man who violates this edict, a timber shall be drawn from his house and he shall be impaled on it and his house shall be made a refuse heap on account of this."
+    },
+    {
+        "o": 13404,
+        "r": "nasb:Ezra:6:12",
+        "t": "May the God who has caused His name to dwell there overthrow any king or people who attempts to change it,*i so as to destroy this house of God in Jerusalem. I, Darius, have issued this*i decree, let it*i be carried out with all diligence!”"
+    },
+    {
+        "o": 13405,
+        "r": "nasb:Ezra:6:12",
+        "t": "The Temple Completed and Dedicated",
+        "h": 2
+    },
+    {
+        "o": 13406,
+        "r": "nasb:Ezra:6:13",
+        "t": "Then*p Tattenai, the governor of the*i province*i beyond the River, Shethar-bozenai and their colleagues carried out the*i decree*i with all diligence, just as King Darius had sent."
+    },
+    {
+        "o": 13407,
+        "r": "nasb:Ezra:6:14",
+        "t": "And the elders of the Jews were successful in building through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they finished building according to the command of the God of Israel and the decree of Cyrus, Darius, and Artaxerxes king of Persia."
+    },
+    {
+        "o": 13408,
+        "r": "nasb:Ezra:6:15",
+        "t": "This temple was completed on the third day of the month Adar; it was the sixth year of the reign of King Darius."
+    },
+    {
+        "o": 13409,
+        "r": "nasb:Ezra:6:16",
+        "t": "And*p the sons of Israel, the priests, the Levites and the rest of the exiles, celebrated the dedication of this house of God with joy."
+    },
+    {
+        "o": 13410,
+        "r": "nasb:Ezra:6:17",
+        "t": "They offered for the dedication of this temple of God 100 bulls, 200 rams, 400 lambs, and as a sin offering for all Israel 12 male goats, corresponding to the number of the tribes of Israel."
+    },
+    {
+        "o": 13411,
+        "r": "nasb:Ezra:6:18",
+        "t": "Then they appointed the priests to their divisions and the Levites in their orders for the service of God in Jerusalem, as it is written in the book of Moses."
+    },
+    {
+        "o": 13412,
+        "r": "nasb:Ezra:6:18",
+        "t": "The Passover Observed",
+        "h": 2
+    },
+    {
+        "o": 13413,
+        "r": "nasb:Ezra:6:19",
+        "t": "The*p exiles observed the Passover on the fourteenth of the first month."
+    },
+    {
+        "o": 13414,
+        "r": "nasb:Ezra:6:20",
+        "t": "For the priests and the Levites had purified themselves together; all of them were pure. Then they slaughtered the Passover lamb*i for all the exiles, both for their brothers the priests and for themselves."
+    },
+    {
+        "o": 13415,
+        "r": "nasb:Ezra:6:21",
+        "t": "The sons of Israel who returned from exile and all those who had separated themselves from the impurity of the nations of the land to join*i them, to seek the Lord*s God of Israel, ate the*i Passover.*i"
+    },
+    {
+        "o": 13416,
+        "r": "nasb:Ezra:6:22",
+        "t": "And they observed the Feast of Unleavened Bread seven days with joy, for the Lord*s had caused them to rejoice, and had turned the heart of the king of Assyria toward them to encourage them in the work of the house of God, the God of Israel."
+    },
+    {
+        "o": 13417,
+        "r": "nasb:Ezra:7:0",
+        "t": "Ezra 7",
+        "h": 1
+    },
+    {
+        "o": 13418,
+        "r": "nasb:Ezra:7:0",
+        "t": "Ezra Journeys from Babylon to Jerusalem",
+        "h": 2
+    },
+    {
+        "o": 13419,
+        "r": "nasb:Ezra:7:1",
+        "t": "Now*p after these things, in the reign of Artaxerxes king of Persia, there*i went*i up*i Ezra son of Seraiah, son of Azariah, son of Hilkiah,"
+    },
+    {
+        "o": 13420,
+        "r": "nasb:Ezra:7:2",
+        "t": "son of Shallum, son of Zadok, son of Ahitub,"
+    },
+    {
+        "o": 13421,
+        "r": "nasb:Ezra:7:3",
+        "t": "son of Amariah, son of Azariah, son of Meraioth,"
+    },
+    {
+        "o": 13422,
+        "r": "nasb:Ezra:7:4",
+        "t": "son of Zerahiah, son of Uzzi, son of Bukki,"
+    },
+    {
+        "o": 13423,
+        "r": "nasb:Ezra:7:5",
+        "t": "son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the chief priest."
+    },
+    {
+        "o": 13424,
+        "r": "nasb:Ezra:7:6",
+        "t": "This Ezra went up from Babylon, and he was a scribe skilled in the law of Moses, which the Lord*s God of Israel had given; and the king granted him all he requested because the hand of the Lord*s his God was*i upon him."
+    },
+    {
+        "o": 13425,
+        "r": "nasb:Ezra:7:7",
+        "t": "Some of the sons of Israel and some of the priests, the Levites, the singers, the gatekeepers and the temple servants went up to Jerusalem in the seventh year of King Artaxerxes."
+    },
+    {
+        "o": 13426,
+        "r": "nasb:Ezra:7:8",
+        "t": "He*p came to Jerusalem in the fifth month, which was in the seventh year of the king."
+    },
+    {
+        "o": 13427,
+        "r": "nasb:Ezra:7:9",
+        "t": "For on the first of the first month he began to go up from Babylon; and on the first of the fifth month he came to Jerusalem, because the good hand of his God was*i upon him."
+    },
+    {
+        "o": 13428,
+        "r": "nasb:Ezra:7:10",
+        "t": "For Ezra had set his heart to study the law of the Lord*s and to practice it,*i and to teach His*i statutes and ordinances in Israel."
+    },
+    {
+        "o": 13429,
+        "r": "nasb:Ezra:7:10",
+        "t": "King’s Decree on Behalf of Ezra",
+        "h": 2
+    },
+    {
+        "o": 13430,
+        "r": "nasb:Ezra:7:11",
+        "t": "Now*p this is the copy of the decree which King Artaxerxes gave to Ezra the priest, the scribe, learned in the words of the commandments of the Lord*s and His statutes to Israel:"
+    },
+    {
+        "o": 13431,
+        "r": "nasb:Ezra:7:12",
+        "t": "“Artaxerxes, king of kings, to Ezra the priest, the scribe of the law of the God of heaven, perfect peace.*i And now"
+    },
+    {
+        "o": 13432,
+        "r": "nasb:Ezra:7:13",
+        "t": "I have issued a decree that any of the people of Israel and their priests and the Levites in my kingdom who are willing to go to Jerusalem, may go with you."
+    },
+    {
+        "o": 13433,
+        "r": "nasb:Ezra:7:14",
+        "t": "Forasmuch as you are sent by the king and his seven counselors to inquire concerning Judah and Jerusalem according to the law of your God which is in your hand,"
+    },
+    {
+        "o": 13434,
+        "r": "nasb:Ezra:7:15",
+        "t": "and to bring the silver and gold, which the king and his counselors have freely offered to the God of Israel, whose dwelling is in Jerusalem,"
+    },
+    {
+        "o": 13435,
+        "r": "nasb:Ezra:7:16",
+        "t": "with all the silver and gold which you find in the whole province of Babylon, along with the freewill offering of the people and of the priests, who offered willingly for the house of their God which is in Jerusalem;"
+    },
+    {
+        "o": 13436,
+        "r": "nasb:Ezra:7:17",
+        "t": "with this money, therefore, you shall diligently buy bulls, rams and lambs, with their grain offerings and their drink offerings and offer them on the altar of the house of your God which is in Jerusalem."
+    },
+    {
+        "o": 13437,
+        "r": "nasb:Ezra:7:18",
+        "t": "Whatever seems good to you and to your brothers to do with the rest of the silver and gold, you may do according to the will of your God."
+    },
+    {
+        "o": 13438,
+        "r": "nasb:Ezra:7:19",
+        "t": "Also the utensils which are given to you for the service of the house of your God, deliver in full before the God of Jerusalem."
+    },
+    {
+        "o": 13439,
+        "r": "nasb:Ezra:7:20",
+        "t": "The rest of the needs for the house of your God, for which you may have occasion to provide, provide for*i it*i from the royal treasury."
+    },
+    {
+        "o": 13440,
+        "r": "nasb:Ezra:7:21",
+        "t": "“I,*p even I, King Artaxerxes, issue a decree to all the treasurers who are in*i the*i provinces*i beyond the River, that whatever Ezra the priest, the scribe of the law of the God of heaven, may require of you, it shall be done diligently,"
+    },
+    {
+        "o": 13441,
+        "r": "nasb:Ezra:7:22",
+        "t": "even*i up to 100 talents of silver, 100 kors of wheat, 100 baths of wine, 100 baths of oil, and salt as needed."
+    },
+    {
+        "o": 13442,
+        "r": "nasb:Ezra:7:23",
+        "t": "Whatever is commanded by the God of heaven, let it be done with zeal for the house of the God of heaven, so that there will not be wrath against the kingdom of the king and his sons."
+    },
+    {
+        "o": 13443,
+        "r": "nasb:Ezra:7:24",
+        "t": "We also inform you that it is not allowed to impose tax, tribute or toll on*i any of the priests, Levites, singers, doorkeepers, Nethinim or servants of this house of God."
+    },
+    {
+        "o": 13444,
+        "r": "nasb:Ezra:7:25",
+        "t": "“You,*p Ezra, according to the wisdom of your God which is in your hand, appoint magistrates and judges that they may judge all the people who are in the*i province*i beyond the River, even*i all those who know the laws of your God; and you may teach anyone who is ignorant of*i them.*i"
+    },
+    {
+        "o": 13445,
+        "r": "nasb:Ezra:7:26",
+        "t": "Whoever will not observe the law of your God and the law of the king, let judgment be executed upon him strictly, whether for death or for banishment or for confiscation of goods or for imprisonment.”"
+    },
+    {
+        "o": 13446,
+        "r": "nasb:Ezra:7:26",
+        "t": "The King’s Kindness",
+        "h": 2
+    },
+    {
+        "o": 13447,
+        "r": "nasb:Ezra:7:27",
+        "t": "Blessed*p be the Lord,*s the God of our fathers, who has put such*i a*i thing*i as this in the king’s heart, to adorn the house of the Lord*s which is in Jerusalem,"
+    },
+    {
+        "o": 13448,
+        "r": "nasb:Ezra:7:28",
+        "t": "and has extended lovingkindness to me before the king and his counselors and before all the king’s mighty princes. Thus I was strengthened according to the hand of the Lord*s my God upon me, and I gathered leading men from Israel to go up with me."
+    },
+    {
+        "o": 13449,
+        "r": "nasb:Ezra:8:0",
+        "t": "Ezra 8",
+        "h": 1
+    },
+    {
+        "o": 13450,
+        "r": "nasb:Ezra:8:0",
+        "t": "People Who Went with Ezra",
+        "h": 2
+    },
+    {
+        "o": 13451,
+        "r": "nasb:Ezra:8:1",
+        "t": "Now*p these are the heads of their fathers’ households*i and the genealogical enrollment of those who went up with me from Babylon in the reign of King Artaxerxes:"
+    },
+    {
+        "o": 13452,
+        "r": "nasb:Ezra:8:2",
+        "t": "of the sons of Phinehas, Gershom; of the sons of Ithamar, Daniel; of the sons of David, Hattush;"
+    },
+    {
+        "o": 13453,
+        "r": "nasb:Ezra:8:3",
+        "t": "of the sons of Shecaniah who*i was*i of the sons of Parosh, Zechariah and with him 150 males who*i were*i in*i the genealogical list;"
+    },
+    {
+        "o": 13454,
+        "r": "nasb:Ezra:8:4",
+        "t": "of the sons of Pahath-moab, Eliehoenai the son of Zerahiah and 200 males with him;"
+    },
+    {
+        "o": 13455,
+        "r": "nasb:Ezra:8:5",
+        "t": "of the sons of Zattu, Shecaniah, the son of Jahaziel and 300 males with him;"
+    },
+    {
+        "o": 13456,
+        "r": "nasb:Ezra:8:6",
+        "t": "and of the sons of Adin, Ebed the son of Jonathan and 50 males with him;"
+    },
+    {
+        "o": 13457,
+        "r": "nasb:Ezra:8:7",
+        "t": "and of the sons of Elam, Jeshaiah the son of Athaliah and 70 males with him;"
+    },
+    {
+        "o": 13458,
+        "r": "nasb:Ezra:8:8",
+        "t": "and of the sons of Shephatiah, Zebadiah the son of Michael and 80 males with him;"
+    },
+    {
+        "o": 13459,
+        "r": "nasb:Ezra:8:9",
+        "t": "of the sons of Joab, Obadiah the son of Jehiel and 218 males with him;"
+    },
+    {
+        "o": 13460,
+        "r": "nasb:Ezra:8:10",
+        "t": "and of the sons of Bani, Shelomith, the son of Josiphiah and 160 males with him;"
+    },
+    {
+        "o": 13461,
+        "r": "nasb:Ezra:8:11",
+        "t": "and of the sons of Bebai, Zechariah the son of Bebai and 28 males with him;"
+    },
+    {
+        "o": 13462,
+        "r": "nasb:Ezra:8:12",
+        "t": "and of the sons of Azgad, Johanan the son of Hakkatan and 110 males with him;"
+    },
+    {
+        "o": 13463,
+        "r": "nasb:Ezra:8:13",
+        "t": "and of the sons of Adonikam, the last ones, these being their names, Eliphelet, Jeuel and Shemaiah, and 60 males with them;"
+    },
+    {
+        "o": 13464,
+        "r": "nasb:Ezra:8:14",
+        "t": "and of the sons of Bigvai, Uthai and Zabbud, and 70 males with them."
+    },
+    {
+        "o": 13465,
+        "r": "nasb:Ezra:8:14",
+        "t": "Ezra Sends for Levites",
+        "h": 2
+    },
+    {
+        "o": 13466,
+        "r": "nasb:Ezra:8:15",
+        "t": "Now*p I assembled them at the river that runs to Ahava, where we camped for three days; and when I observed the people and the priests, I did not find any Levites there."
+    },
+    {
+        "o": 13467,
+        "r": "nasb:Ezra:8:16",
+        "t": "So I sent for Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah and Meshullam, leading men, and for Joiarib and Elnathan, teachers."
+    },
+    {
+        "o": 13468,
+        "r": "nasb:Ezra:8:17",
+        "t": "I sent them to Iddo the leading man at the place Casiphia; and I told them what to say to Iddo and*i his brothers, the temple servants at the place Casiphia, that*i is,*i to bring ministers to us for the house of our God."
+    },
+    {
+        "o": 13469,
+        "r": "nasb:Ezra:8:18",
+        "t": "According to the good hand of our God upon us they brought us a man of insight of the sons of Mahli, the son of Levi, the son of Israel, namely Sherebiah, and his sons and brothers, 18 men;"
+    },
+    {
+        "o": 13470,
+        "r": "nasb:Ezra:8:19",
+        "t": "and Hashabiah and Jeshaiah of the sons of Merari, with his brothers and their sons, 20 men;"
+    },
+    {
+        "o": 13471,
+        "r": "nasb:Ezra:8:20",
+        "t": "and 220 of the temple servants, whom David and the princes had given for the service of the Levites, all of them designated by name."
+    },
+    {
+        "o": 13472,
+        "r": "nasb:Ezra:8:20",
+        "t": "Protection of God Invoked",
+        "h": 2
+    },
+    {
+        "o": 13473,
+        "r": "nasb:Ezra:8:21",
+        "t": "Then*p I proclaimed a fast there at the river of Ahava, that we might humble ourselves before our God to seek from Him a safe journey for us, our little ones, and all our possessions."
+    },
+    {
+        "o": 13474,
+        "r": "nasb:Ezra:8:22",
+        "t": "For I was ashamed to request from the king troops and horsemen to protect us from the enemy on the way, because we had said to the king, “The hand of our God is favorably disposed to all those who seek Him, but His power and His anger are against all those who forsake Him.”"
+    },
+    {
+        "o": 13475,
+        "r": "nasb:Ezra:8:23",
+        "t": "So we fasted and sought our God concerning this matter,*i and He listened to our entreaty."
+    },
+    {
+        "o": 13476,
+        "r": "nasb:Ezra:8:24",
+        "t": "Then*p I set apart twelve of the leading priests, Sherebiah, Hashabiah, and with them ten of their brothers;"
+    },
+    {
+        "o": 13477,
+        "r": "nasb:Ezra:8:25",
+        "t": "and I weighed out to them the silver, the gold and the utensils, the offering for the house of our God which the king and his counselors and his princes and all Israel present there*i had offered."
+    },
+    {
+        "o": 13478,
+        "r": "nasb:Ezra:8:26",
+        "t": "Thus I weighed into their hands 650 talents of silver, and silver utensils worth*i 100 talents, and*i 100 gold talents,"
+    },
+    {
+        "o": 13479,
+        "r": "nasb:Ezra:8:27",
+        "t": "and 20 gold bowls worth*i 1,000 darics, and two utensils of fine shiny bronze, precious as gold."
+    },
+    {
+        "o": 13480,
+        "r": "nasb:Ezra:8:28",
+        "t": "Then I said to them, “You are holy to the Lord,*s and the utensils are holy; and the silver and the gold are a freewill offering to the Lord*s God of your fathers."
+    },
+    {
+        "o": 13481,
+        "r": "nasb:Ezra:8:29",
+        "t": "Watch and keep them*i until you weigh them*i before the leading priests, the Levites and the heads of the fathers’ households*i of Israel at Jerusalem, in*i the chambers of the house of the Lord.”*s"
+    },
+    {
+        "o": 13482,
+        "r": "nasb:Ezra:8:30",
+        "t": "So the priests and the Levites accepted the weighed out silver and gold and the utensils, to bring them*i to Jerusalem to the house of our God."
+    },
+    {
+        "o": 13483,
+        "r": "nasb:Ezra:8:31",
+        "t": "Then*p we journeyed from the river Ahava on the twelfth of the first month to go to Jerusalem; and the hand of our God was over us, and He delivered us from the hand of the enemy and the ambushes by the way."
+    },
+    {
+        "o": 13484,
+        "r": "nasb:Ezra:8:32",
+        "t": "Thus we came to Jerusalem and remained there three days."
+    },
+    {
+        "o": 13485,
+        "r": "nasb:Ezra:8:32",
+        "t": "Treasure Placed in the Temple",
+        "h": 2
+    },
+    {
+        "o": 13486,
+        "r": "nasb:Ezra:8:33",
+        "t": "On*p the fourth day the silver and the gold and the utensils were weighed out in the house of our God into the hand of Meremoth the son of Uriah the priest, and with him was*i Eleazar the son of Phinehas; and with them were*i the Levites, Jozabad the son of Jeshua and Noadiah the son of Binnui."
+    },
+    {
+        "o": 13487,
+        "r": "nasb:Ezra:8:34",
+        "t": "Everything was*i numbered and weighed, and all the weight was recorded at that time."
+    },
+    {
+        "o": 13488,
+        "r": "nasb:Ezra:8:35",
+        "t": "The*p exiles who had come from the captivity offered burnt offerings to the God of Israel: 12 bulls for all Israel, 96 rams, 77 lambs, 12 male goats for a sin offering, all as a burnt offering to the Lord.*s"
+    },
+    {
+        "o": 13489,
+        "r": "nasb:Ezra:8:36",
+        "t": "Then they delivered the king’s edicts to the king’s satraps and to the governors in*i the*i provinces*i beyond the River, and they supported the people and the house of God."
+    },
+    {
+        "o": 13490,
+        "r": "nasb:Ezra:9:0",
+        "t": "Ezra 9",
+        "h": 1
+    },
+    {
+        "o": 13491,
+        "r": "nasb:Ezra:9:0",
+        "t": "Mixed Marriages",
+        "h": 2
+    },
+    {
+        "o": 13492,
+        "r": "nasb:Ezra:9:1",
+        "t": "Now*p when these things had been completed, the princes approached me, saying, “The people of Israel and the priests and the Levites have not separated themselves from the peoples of the lands, according to their abominations, those*i of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians and the Amorites."
+    },
+    {
+        "o": 13493,
+        "r": "nasb:Ezra:9:2",
+        "t": "For they have taken some of their daughters as*i wives*i for themselves and for their sons, so that the holy race has intermingled with the peoples of the lands; indeed, the hands of the princes and the rulers have been foremost in this unfaithfulness.”"
+    },
+    {
+        "o": 13494,
+        "r": "nasb:Ezra:9:3",
+        "t": "When I heard about this matter, I tore my garment and my robe, and pulled some of the hair from my head and my beard, and sat down appalled."
+    },
+    {
+        "o": 13495,
+        "r": "nasb:Ezra:9:4",
+        "t": "Then everyone who trembled at the words of the God of Israel on account of the unfaithfulness of the exiles gathered to me, and I sat appalled until the evening offering."
+    },
+    {
+        "o": 13496,
+        "r": "nasb:Ezra:9:4",
+        "t": "Prayer of Confession",
+        "h": 2
+    },
+    {
+        "o": 13497,
+        "r": "nasb:Ezra:9:5",
+        "t": "But*p at the evening offering I arose from my humiliation, even with my garment and my robe torn, and I fell on my knees and stretched out my hands to the Lord*s my God;"
+    },
+    {
+        "o": 13498,
+        "r": "nasb:Ezra:9:6",
+        "t": "and I said, “O my God, I am ashamed and embarrassed to lift up my face to You, my God, for our iniquities have risen above our heads and our guilt has grown even to the heavens."
+    },
+    {
+        "o": 13499,
+        "r": "nasb:Ezra:9:7",
+        "t": "Since the days of our fathers to this day we have*i been*i in great guilt, and on account of our iniquities we, our kings and*i our priests have been given into the hand of the kings of the lands, to the sword, to captivity and to plunder and to open shame, as it*i is*i this day."
+    },
+    {
+        "o": 13500,
+        "r": "nasb:Ezra:9:8",
+        "t": "But now for a brief moment grace has been shown*i from the Lord*s our God, to leave us an escaped remnant and to give us a peg in His holy place, that our God may enlighten our eyes and grant us a little reviving in our bondage."
+    },
+    {
+        "o": 13501,
+        "r": "nasb:Ezra:9:9",
+        "t": "For we are slaves; yet in our bondage our God has not forsaken us, but has extended lovingkindness to us in the sight of the kings of Persia, to give us reviving to raise up the house of our God, to restore its ruins and to give us a wall in Judah and Jerusalem."
+    },
+    {
+        "o": 13502,
+        "r": "nasb:Ezra:9:10",
+        "t": "“Now,*p our God, what shall we say after this? For we have forsaken Your commandments,"
+    },
+    {
+        "o": 13503,
+        "r": "nasb:Ezra:9:11",
+        "t": "which You have commanded by Your servants the prophets, saying, ‘The land which you are entering to possess is an unclean land with the uncleanness of the peoples of the lands, with their abominations which have filled it from end to end and*i with their impurity."
+    },
+    {
+        "o": 13504,
+        "r": "nasb:Ezra:9:12",
+        "t": "So now do not give your daughters to their sons nor take their daughters to your sons, and never seek their peace or their prosperity, that you may be strong and eat the good things*i of the land and leave it*i as an inheritance to your sons forever.’"
+    },
+    {
+        "o": 13505,
+        "r": "nasb:Ezra:9:13",
+        "t": "After all that has come upon us for our evil deeds and our great guilt, since You our God have requited us*i less than our iniquities deserve,*i and have given us an escaped remnant as this,"
+    },
+    {
+        "o": 13506,
+        "r": "nasb:Ezra:9:14",
+        "t": "shall we again break Your commandments and intermarry with the peoples who commit these abominations? Would You not be angry with us to the point of destruction, until there is no remnant nor any who escape?"
+    },
+    {
+        "o": 13507,
+        "r": "nasb:Ezra:9:15",
+        "t": "O Lord*s God of Israel, You are righteous, for we have been left an escaped remnant, as it*i is*i this day; behold, we are before You in our guilt, for no one can stand before You because of this.”"
+    },
+    {
+        "o": 13508,
+        "r": "nasb:Ezra:10:0",
+        "t": "Ezra 10",
+        "h": 1
+    },
+    {
+        "o": 13509,
+        "r": "nasb:Ezra:10:0",
+        "t": "Reconciliation with God",
+        "h": 2
+    },
+    {
+        "o": 13510,
+        "r": "nasb:Ezra:10:1",
+        "t": "Now*p while Ezra was praying and making confession, weeping and prostrating himself before the house of God, a very large assembly, men, women and children, gathered to him from Israel; for the people wept bitterly."
+    },
+    {
+        "o": 13511,
+        "r": "nasb:Ezra:10:2",
+        "t": "Shecaniah the son of Jehiel, one of the sons of Elam, said to Ezra, “We have been unfaithful to our God and have married foreign women from the peoples of the land; yet now there is hope for Israel in spite of this."
+    },
+    {
+        "o": 13512,
+        "r": "nasb:Ezra:10:3",
+        "t": "So now let us make a covenant with our God to put away all the wives and their children, according to the counsel of my lord and of those who tremble at the commandment of our God; and let it be done according to the law."
+    },
+    {
+        "o": 13513,
+        "r": "nasb:Ezra:10:4",
+        "t": "Arise! For this*i matter is your responsibility, but we will be with you; be courageous and act.”"
+    },
+    {
+        "o": 13514,
+        "r": "nasb:Ezra:10:5",
+        "t": "Then*p Ezra rose and made the leading priests, the Levites and all Israel, take oath that they would do according to this proposal; so they took the oath."
+    },
+    {
+        "o": 13515,
+        "r": "nasb:Ezra:10:6",
+        "t": "Then Ezra rose from before the house of God and went into the chamber of Jehohanan the son of Eliashib. Although he went there, he did not eat bread nor drink water, for he was mourning over the unfaithfulness of the exiles."
+    },
+    {
+        "o": 13516,
+        "r": "nasb:Ezra:10:7",
+        "t": "They made a proclamation throughout Judah and Jerusalem to all the exiles, that they should assemble at Jerusalem,"
+    },
+    {
+        "o": 13517,
+        "r": "nasb:Ezra:10:8",
+        "t": "and that whoever would not come within three days, according to the counsel of the leaders and the elders, all his possessions should be forfeited and he himself excluded from the assembly of the exiles."
+    },
+    {
+        "o": 13518,
+        "r": "nasb:Ezra:10:9",
+        "t": "So*p all the men of Judah and Benjamin assembled at Jerusalem within the three days. It was the ninth month on the twentieth of the month, and all the people sat in the open square before*i the house of God, trembling because of this matter and the heavy rain."
+    },
+    {
+        "o": 13519,
+        "r": "nasb:Ezra:10:10",
+        "t": "Then Ezra the priest stood up and said to them, “You have been unfaithful and have married foreign wives adding to the guilt of Israel."
+    },
+    {
+        "o": 13520,
+        "r": "nasb:Ezra:10:11",
+        "t": "Now therefore, make confession to the Lord*s God of your fathers and do His will; and separate yourselves from the peoples of the land and from the foreign wives.”"
+    },
+    {
+        "o": 13521,
+        "r": "nasb:Ezra:10:12",
+        "t": "Then all the assembly replied with a loud voice, “That’s right! As you have said, so it is our duty to do."
+    },
+    {
+        "o": 13522,
+        "r": "nasb:Ezra:10:13",
+        "t": "But there are many people; it is the rainy season and we are not able to stand in the open. Nor can*i the task be*i done*i in one or two days, for we have transgressed greatly in this matter."
+    },
+    {
+        "o": 13523,
+        "r": "nasb:Ezra:10:14",
+        "t": "Let our leaders represent the whole assembly and let all those in our cities who have married foreign wives come at appointed times, together with the elders and judges of each city, until the fierce anger of our God on account of this matter is turned away from us.”"
+    },
+    {
+        "o": 13524,
+        "r": "nasb:Ezra:10:15",
+        "t": "Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah opposed this, with Meshullam and Shabbethai the Levite supporting them."
+    },
+    {
+        "o": 13525,
+        "r": "nasb:Ezra:10:16",
+        "t": "But*p the exiles did so. And Ezra the priest selected men who*i were*i heads of fathers’ households*i for each*i of*i their father’s households, all of them by name. So they convened on the first day of the tenth month to investigate the matter."
+    },
+    {
+        "o": 13526,
+        "r": "nasb:Ezra:10:17",
+        "t": "They finished investigating*i all the men who had married foreign wives by the first day of the first month."
+    },
+    {
+        "o": 13527,
+        "r": "nasb:Ezra:10:17",
+        "t": "List of Offenders",
+        "h": 2
+    },
+    {
+        "o": 13528,
+        "r": "nasb:Ezra:10:18",
+        "t": "Among*p the sons of the priests who had married foreign wives were found of the sons of Jeshua the son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib and Gedaliah."
+    },
+    {
+        "o": 13529,
+        "r": "nasb:Ezra:10:19",
+        "t": "They pledged to put away their wives, and being guilty, they*i offered*i a ram of the flock for their offense."
+    },
+    {
+        "o": 13530,
+        "r": "nasb:Ezra:10:20",
+        "t": "Of the sons of Immer there*i were*i Hanani and Zebadiah;"
+    },
+    {
+        "o": 13531,
+        "r": "nasb:Ezra:10:21",
+        "t": "and of the sons of Harim: Maaseiah, Elijah, Shemaiah, Jehiel and Uzziah;"
+    },
+    {
+        "o": 13532,
+        "r": "nasb:Ezra:10:22",
+        "t": "and of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad and Elasah."
+    },
+    {
+        "o": 13533,
+        "r": "nasb:Ezra:10:23",
+        "t": "Of*p Levites there*i were*i Jozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah and Eliezer."
+    },
+    {
+        "o": 13534,
+        "r": "nasb:Ezra:10:24",
+        "t": "Of*p the singers there*i was*i Eliashib; and of the gatekeepers: Shallum, Telem and Uri."
+    },
+    {
+        "o": 13535,
+        "r": "nasb:Ezra:10:25",
+        "t": "Of*p Israel, of the sons of Parosh there*i were*i Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah and Benaiah;"
+    },
+    {
+        "o": 13536,
+        "r": "nasb:Ezra:10:26",
+        "t": "and of the sons of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth and Elijah;"
+    },
+    {
+        "o": 13537,
+        "r": "nasb:Ezra:10:27",
+        "t": "and of the sons of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad and Aziza;"
+    },
+    {
+        "o": 13538,
+        "r": "nasb:Ezra:10:28",
+        "t": "and of the sons of Bebai: Jehohanan, Hananiah, Zabbai and*i Athlai;"
+    },
+    {
+        "o": 13539,
+        "r": "nasb:Ezra:10:29",
+        "t": "and of the sons of Bani: Meshullam, Malluch and Adaiah, Jashub, Sheal and*i Jeremoth;"
+    },
+    {
+        "o": 13540,
+        "r": "nasb:Ezra:10:30",
+        "t": "and of the sons of Pahath-moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui and Manasseh;"
+    },
+    {
+        "o": 13541,
+        "r": "nasb:Ezra:10:31",
+        "t": "and of*i the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,"
+    },
+    {
+        "o": 13542,
+        "r": "nasb:Ezra:10:32",
+        "t": "Benjamin, Malluch and*i Shemariah;"
+    },
+    {
+        "o": 13543,
+        "r": "nasb:Ezra:10:33",
+        "t": "of the sons of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh and*i Shimei;"
+    },
+    {
+        "o": 13544,
+        "r": "nasb:Ezra:10:34",
+        "t": "of the sons of Bani: Maadai, Amram, Uel,"
+    },
+    {
+        "o": 13545,
+        "r": "nasb:Ezra:10:35",
+        "t": "Benaiah, Bedeiah, Cheluhi,"
+    },
+    {
+        "o": 13546,
+        "r": "nasb:Ezra:10:36",
+        "t": "Vaniah, Meremoth, Eliashib,"
+    },
+    {
+        "o": 13547,
+        "r": "nasb:Ezra:10:37",
+        "t": "Mattaniah, Mattenai, Jaasu,"
+    },
+    {
+        "o": 13548,
+        "r": "nasb:Ezra:10:38",
+        "t": "Bani, Binnui, Shimei,"
+    },
+    {
+        "o": 13549,
+        "r": "nasb:Ezra:10:39",
+        "t": "Shelemiah, Nathan, Adaiah,"
+    },
+    {
+        "o": 13550,
+        "r": "nasb:Ezra:10:40",
+        "t": "Machnadebai, Shashai, Sharai,"
+    },
+    {
+        "o": 13551,
+        "r": "nasb:Ezra:10:41",
+        "t": "Azarel, Shelemiah, Shemariah,"
+    },
+    {
+        "o": 13552,
+        "r": "nasb:Ezra:10:42",
+        "t": "Shallum, Amariah and*i Joseph."
+    },
+    {
+        "o": 13553,
+        "r": "nasb:Ezra:10:43",
+        "t": "Of the sons of Nebo there*i were*i Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel and*i Benaiah."
+    },
+    {
+        "o": 13554,
+        "r": "nasb:Ezra:10:44",
+        "t": "All these had married foreign wives, and some of them had wives by*i whom*i they had children."
+    }
+]

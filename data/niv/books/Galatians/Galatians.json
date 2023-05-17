@@ -1,0 +1,861 @@
+[
+    {
+        "o": 32094,
+        "r": "niv:Galatians:1:0",
+        "t": "Galatians 1",
+        "h": 1
+    },
+    {
+        "o": 32095,
+        "r": "niv:Galatians:1:1",
+        "t": "Paul,*p an apostle—sent not from men nor by a man, but by Jesus Christ and God the Father, who raised him from the dead—"
+    },
+    {
+        "o": 32096,
+        "r": "niv:Galatians:1:2",
+        "t": "and all the brothers and sisters with me, To*p the churches in Galatia:"
+    },
+    {
+        "o": 32097,
+        "r": "niv:Galatians:1:3",
+        "t": "Grace*p and peace to you from God our Father and the Lord Jesus Christ,"
+    },
+    {
+        "o": 32098,
+        "r": "niv:Galatians:1:4",
+        "t": "who gave himself for our sins to rescue us from the present evil age, according to the will of our God and Father,"
+    },
+    {
+        "o": 32099,
+        "r": "niv:Galatians:1:5",
+        "t": "to whom be glory for ever and ever. Amen."
+    },
+    {
+        "o": 32100,
+        "r": "niv:Galatians:1:5",
+        "t": "No Other Gospel",
+        "h": 2
+    },
+    {
+        "o": 32101,
+        "r": "niv:Galatians:1:6",
+        "t": "I*p am astonished that you are so quickly deserting the one who called you to live in the grace of Christ and are turning to a different gospel—"
+    },
+    {
+        "o": 32102,
+        "r": "niv:Galatians:1:7",
+        "t": "which is really no gospel at all. Evidently some people are throwing you into confusion and are trying to pervert the gospel of Christ."
+    },
+    {
+        "o": 32103,
+        "r": "niv:Galatians:1:8",
+        "t": "But even if we or an angel from heaven should preach a gospel other than the one we preached to you, let them be under God’s curse!"
+    },
+    {
+        "o": 32104,
+        "r": "niv:Galatians:1:9",
+        "t": "As we have already said, so now I say again: If anybody is preaching to you a gospel other than what you accepted, let them be under God’s curse!"
+    },
+    {
+        "o": 32105,
+        "r": "niv:Galatians:1:10",
+        "t": "Am*p I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ."
+    },
+    {
+        "o": 32106,
+        "r": "niv:Galatians:1:10",
+        "t": "Paul Called by God",
+        "h": 2
+    },
+    {
+        "o": 32107,
+        "r": "niv:Galatians:1:11",
+        "t": "I*p want you to know, brothers and sisters, that the gospel I preached is not of human origin."
+    },
+    {
+        "o": 32108,
+        "r": "niv:Galatians:1:12",
+        "t": "I did not receive it from any man, nor was I taught it; rather, I received it by revelation from Jesus Christ."
+    },
+    {
+        "o": 32109,
+        "r": "niv:Galatians:1:13",
+        "t": "For*p you have heard of my previous way of life in Judaism, how intensely I persecuted the church of God and tried to destroy it."
+    },
+    {
+        "o": 32110,
+        "r": "niv:Galatians:1:14",
+        "t": "I was advancing in Judaism beyond many of my own age among my people and was extremely zealous for the traditions of my fathers."
+    },
+    {
+        "o": 32111,
+        "r": "niv:Galatians:1:15",
+        "t": "But when God, who set me apart from my mother’s womb and called me by his grace, was pleased"
+    },
+    {
+        "o": 32112,
+        "r": "niv:Galatians:1:16",
+        "t": "to reveal his Son in me so that I might preach him among the Gentiles, my immediate response was not to consult any human being."
+    },
+    {
+        "o": 32113,
+        "r": "niv:Galatians:1:17",
+        "t": "I did not go up to Jerusalem to see those who were apostles before I was, but I went into Arabia. Later I returned to Damascus."
+    },
+    {
+        "o": 32114,
+        "r": "niv:Galatians:1:18",
+        "t": "Then*p after three years, I went up to Jerusalem to get acquainted with Cephas and stayed with him fifteen days."
+    },
+    {
+        "o": 32115,
+        "r": "niv:Galatians:1:19",
+        "t": "I saw none of the other apostles—only James, the Lord’s brother."
+    },
+    {
+        "o": 32116,
+        "r": "niv:Galatians:1:20",
+        "t": "I assure you before God that what I am writing you is no lie."
+    },
+    {
+        "o": 32117,
+        "r": "niv:Galatians:1:21",
+        "t": "Then*p I went to Syria and Cilicia."
+    },
+    {
+        "o": 32118,
+        "r": "niv:Galatians:1:22",
+        "t": "I was personally unknown to the churches of Judea that are in Christ."
+    },
+    {
+        "o": 32119,
+        "r": "niv:Galatians:1:23",
+        "t": "They only heard the report: “The man who formerly persecuted us is now preaching the faith he once tried to destroy.”"
+    },
+    {
+        "o": 32120,
+        "r": "niv:Galatians:1:24",
+        "t": "And they praised God because of me."
+    },
+    {
+        "o": 32121,
+        "r": "niv:Galatians:2:0",
+        "t": "Galatians 2",
+        "h": 1
+    },
+    {
+        "o": 32122,
+        "r": "niv:Galatians:2:0",
+        "t": "Paul Accepted by the Apostles",
+        "h": 2
+    },
+    {
+        "o": 32123,
+        "r": "niv:Galatians:2:1",
+        "t": "Then*p after fourteen years, I went up again to Jerusalem, this time with Barnabas. I took Titus along also."
+    },
+    {
+        "o": 32124,
+        "r": "niv:Galatians:2:2",
+        "t": "I went in response to a revelation and, meeting privately with those esteemed as leaders, I presented to them the gospel that I preach among the Gentiles. I wanted to be sure I was not running and had not been running my race in vain."
+    },
+    {
+        "o": 32125,
+        "r": "niv:Galatians:2:3",
+        "t": "Yet not even Titus, who was with me, was compelled to be circumcised, even though he was a Greek."
+    },
+    {
+        "o": 32126,
+        "r": "niv:Galatians:2:4",
+        "t": "This matter arose because some false believers had infiltrated our ranks to spy on the freedom we have in Christ Jesus and to make us slaves."
+    },
+    {
+        "o": 32127,
+        "r": "niv:Galatians:2:5",
+        "t": "We did not give in to them for a moment, so that the truth of the gospel might be preserved for you."
+    },
+    {
+        "o": 32128,
+        "r": "niv:Galatians:2:6",
+        "t": "As*p for those who were held in high esteem—whatever they were makes no difference to me; God does not show favoritism—they added nothing to my message."
+    },
+    {
+        "o": 32129,
+        "r": "niv:Galatians:2:7",
+        "t": "On the contrary, they recognized that I had been entrusted with the task of preaching the gospel to the uncircumcised, just as Peter had been to the circumcised."
+    },
+    {
+        "o": 32130,
+        "r": "niv:Galatians:2:8",
+        "t": "For God, who was at work in Peter as an apostle to the circumcised, was also at work in me as an apostle to the Gentiles."
+    },
+    {
+        "o": 32131,
+        "r": "niv:Galatians:2:9",
+        "t": "James, Cephas and John, those esteemed as pillars, gave me and Barnabas the right hand of fellowship when they recognized the grace given to me. They agreed that we should go to the Gentiles, and they to the circumcised."
+    },
+    {
+        "o": 32132,
+        "r": "niv:Galatians:2:10",
+        "t": "All they asked was that we should continue to remember the poor, the very thing I had been eager to do all along."
+    },
+    {
+        "o": 32133,
+        "r": "niv:Galatians:2:10",
+        "t": "Paul Opposes Cephas",
+        "h": 2
+    },
+    {
+        "o": 32134,
+        "r": "niv:Galatians:2:11",
+        "t": "When*p Cephas came to Antioch, I opposed him to his face, because he stood condemned."
+    },
+    {
+        "o": 32135,
+        "r": "niv:Galatians:2:12",
+        "t": "For before certain men came from James, he used to eat with the Gentiles. But when they arrived, he began to draw back and separate himself from the Gentiles because he was afraid of those who belonged to the circumcision group."
+    },
+    {
+        "o": 32136,
+        "r": "niv:Galatians:2:13",
+        "t": "The other Jews joined him in his hypocrisy, so that by their hypocrisy even Barnabas was led astray."
+    },
+    {
+        "o": 32137,
+        "r": "niv:Galatians:2:14",
+        "t": "When*p I saw that they were not acting in line with the truth of the gospel, I said to Cephas in front of them all, “You are a Jew, yet you live like a Gentile and not like a Jew. How is it, then, that you force Gentiles to follow Jewish customs?"
+    },
+    {
+        "o": 32138,
+        "r": "niv:Galatians:2:15",
+        "t": "“We*p who are Jews by birth and not sinful Gentiles"
+    },
+    {
+        "o": 32139,
+        "r": "niv:Galatians:2:16",
+        "t": "know that a person is not justified by the works of the law, but by faith in Jesus Christ. So we, too, have put our faith in Christ Jesus that we may be justified by faith in Christ and not by the works of the law, because by the works of the law no one will be justified."
+    },
+    {
+        "o": 32140,
+        "r": "niv:Galatians:2:17",
+        "t": "“But*p if, in seeking to be justified in Christ, we Jews find ourselves also among the sinners, doesn’t that mean that Christ promotes sin? Absolutely not!"
+    },
+    {
+        "o": 32141,
+        "r": "niv:Galatians:2:18",
+        "t": "If I rebuild what I destroyed, then I really would be a lawbreaker."
+    },
+    {
+        "o": 32142,
+        "r": "niv:Galatians:2:19",
+        "t": "“For*p through the law I died to the law so that I might live for God."
+    },
+    {
+        "o": 32143,
+        "r": "niv:Galatians:2:20",
+        "t": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me."
+    },
+    {
+        "o": 32144,
+        "r": "niv:Galatians:2:21",
+        "t": "I do not set aside the grace of God, for if righteousness could be gained through the law, Christ died for nothing!”"
+    },
+    {
+        "o": 32145,
+        "r": "niv:Galatians:3:0",
+        "t": "Galatians 3",
+        "h": 1
+    },
+    {
+        "o": 32146,
+        "r": "niv:Galatians:3:0",
+        "t": "Faith or Works of the Law",
+        "h": 2
+    },
+    {
+        "o": 32147,
+        "r": "niv:Galatians:3:1",
+        "t": "You*p foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified."
+    },
+    {
+        "o": 32148,
+        "r": "niv:Galatians:3:2",
+        "t": "I would like to learn just one thing from you: Did you receive the Spirit by the works of the law, or by believing what you heard?"
+    },
+    {
+        "o": 32149,
+        "r": "niv:Galatians:3:3",
+        "t": "Are you so foolish? After beginning by means of the Spirit, are you now trying to finish by means of the flesh?"
+    },
+    {
+        "o": 32150,
+        "r": "niv:Galatians:3:4",
+        "t": "Have you experienced so much in vain—if it really was in vain?"
+    },
+    {
+        "o": 32151,
+        "r": "niv:Galatians:3:5",
+        "t": "So again I ask, does God give you his Spirit and work miracles among you by the works of the law, or by your believing what you heard?"
+    },
+    {
+        "o": 32152,
+        "r": "niv:Galatians:3:6",
+        "t": "So also Abraham “believed God, and it was credited to him as righteousness.”"
+    },
+    {
+        "o": 32153,
+        "r": "niv:Galatians:3:7",
+        "t": "Understand,*p then, that those who have faith are children of Abraham."
+    },
+    {
+        "o": 32154,
+        "r": "niv:Galatians:3:8",
+        "t": "Scripture foresaw that God would justify the Gentiles by faith, and announced the gospel in advance to Abraham: “All nations will be blessed through you.”"
+    },
+    {
+        "o": 32155,
+        "r": "niv:Galatians:3:9",
+        "t": "So those who rely on faith are blessed along with Abraham, the man of faith."
+    },
+    {
+        "o": 32156,
+        "r": "niv:Galatians:3:10",
+        "t": "For*p all who rely on the works of the law are under a curse, as it is written: “Cursed is everyone who does not continue to do everything written in the Book of the Law.”"
+    },
+    {
+        "o": 32157,
+        "r": "niv:Galatians:3:11",
+        "t": "Clearly no one who relies on the law is justified before God, because “the righteous will live by faith.”"
+    },
+    {
+        "o": 32158,
+        "r": "niv:Galatians:3:12",
+        "t": "The law is not based on faith; on the contrary, it says, “The person who does these things will live by them.”"
+    },
+    {
+        "o": 32159,
+        "r": "niv:Galatians:3:13",
+        "t": "Christ redeemed us from the curse of the law by becoming a curse for us, for it is written: “Cursed is everyone who is hung on a pole.”"
+    },
+    {
+        "o": 32160,
+        "r": "niv:Galatians:3:14",
+        "t": "He redeemed us in order that the blessing given to Abraham might come to the Gentiles through Christ Jesus, so that by faith we might receive the promise of the Spirit."
+    },
+    {
+        "o": 32161,
+        "r": "niv:Galatians:3:14",
+        "t": "The Law and the Promise",
+        "h": 2
+    },
+    {
+        "o": 32162,
+        "r": "niv:Galatians:3:15",
+        "t": "Brothers*p and sisters, let me take an example from everyday life. Just as no one can set aside or add to a human covenant that has been duly established, so it is in this case."
+    },
+    {
+        "o": 32163,
+        "r": "niv:Galatians:3:16",
+        "t": "The promises were spoken to Abraham and to his seed. Scripture does not say “and to seeds,” meaning many people, but “and to your seed,” meaning one person, who is Christ."
+    },
+    {
+        "o": 32164,
+        "r": "niv:Galatians:3:17",
+        "t": "What I mean is this: The law, introduced 430 years later, does not set aside the covenant previously established by God and thus do away with the promise."
+    },
+    {
+        "o": 32165,
+        "r": "niv:Galatians:3:18",
+        "t": "For if the inheritance depends on the law, then it no longer depends on the promise; but God in his grace gave it to Abraham through a promise."
+    },
+    {
+        "o": 32166,
+        "r": "niv:Galatians:3:19",
+        "t": "Why,*p then, was the law given at all? It was added because of transgressions until the Seed to whom the promise referred had come. The law was given through angels and entrusted to a mediator."
+    },
+    {
+        "o": 32167,
+        "r": "niv:Galatians:3:20",
+        "t": "A mediator, however, implies more than one party; but God is one."
+    },
+    {
+        "o": 32168,
+        "r": "niv:Galatians:3:21",
+        "t": "Is*p the law, therefore, opposed to the promises of God? Absolutely not! For if a law had been given that could impart life, then righteousness would certainly have come by the law."
+    },
+    {
+        "o": 32169,
+        "r": "niv:Galatians:3:22",
+        "t": "But Scripture has locked up everything under the control of sin, so that what was promised, being given through faith in Jesus Christ, might be given to those who believe."
+    },
+    {
+        "o": 32170,
+        "r": "niv:Galatians:3:22",
+        "t": "Children of God",
+        "h": 2
+    },
+    {
+        "o": 32171,
+        "r": "niv:Galatians:3:23",
+        "t": "Before*p the coming of this faith, we were held in custody under the law, locked up until the faith that was to come would be revealed."
+    },
+    {
+        "o": 32172,
+        "r": "niv:Galatians:3:24",
+        "t": "So the law was our guardian until Christ came that we might be justified by faith."
+    },
+    {
+        "o": 32173,
+        "r": "niv:Galatians:3:25",
+        "t": "Now that this faith has come, we are no longer under a guardian."
+    },
+    {
+        "o": 32174,
+        "r": "niv:Galatians:3:26",
+        "t": "So*p in Christ Jesus you are all children of God through faith,"
+    },
+    {
+        "o": 32175,
+        "r": "niv:Galatians:3:27",
+        "t": "for all of you who were baptized into Christ have clothed yourselves with Christ."
+    },
+    {
+        "o": 32176,
+        "r": "niv:Galatians:3:28",
+        "t": "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus."
+    },
+    {
+        "o": 32177,
+        "r": "niv:Galatians:3:29",
+        "t": "If you belong to Christ, then you are Abraham’s seed, and heirs according to the promise."
+    },
+    {
+        "o": 32178,
+        "r": "niv:Galatians:4:0",
+        "t": "Galatians 4",
+        "h": 1
+    },
+    {
+        "o": 32179,
+        "r": "niv:Galatians:4:1",
+        "t": "What*p I am saying is that as long as an heir is underage, he is no different from a slave, although he owns the whole estate."
+    },
+    {
+        "o": 32180,
+        "r": "niv:Galatians:4:2",
+        "t": "The heir is subject to guardians and trustees until the time set by his father."
+    },
+    {
+        "o": 32181,
+        "r": "niv:Galatians:4:3",
+        "t": "So also, when we were underage, we were in slavery under the elemental spiritual forces of the world."
+    },
+    {
+        "o": 32182,
+        "r": "niv:Galatians:4:4",
+        "t": "But when the set time had fully come, God sent his Son, born of a woman, born under the law,"
+    },
+    {
+        "o": 32183,
+        "r": "niv:Galatians:4:5",
+        "t": "to redeem those under the law, that we might receive adoption to sonship."
+    },
+    {
+        "o": 32184,
+        "r": "niv:Galatians:4:6",
+        "t": "Because you are his sons, God sent the Spirit of his Son into our hearts, the Spirit who calls out, “Abba,*i Father.”"
+    },
+    {
+        "o": 32185,
+        "r": "niv:Galatians:4:7",
+        "t": "So you are no longer a slave, but God’s child; and since you are his child, God has made you also an heir."
+    },
+    {
+        "o": 32186,
+        "r": "niv:Galatians:4:7",
+        "t": "Paul’s Concern for the Galatians",
+        "h": 2
+    },
+    {
+        "o": 32187,
+        "r": "niv:Galatians:4:8",
+        "t": "Formerly,*p when you did not know God, you were slaves to those who by nature are not gods."
+    },
+    {
+        "o": 32188,
+        "r": "niv:Galatians:4:9",
+        "t": "But now that you know God—or rather are known by God—how is it that you are turning back to those weak and miserable forces? Do you wish to be enslaved by them all over again?"
+    },
+    {
+        "o": 32189,
+        "r": "niv:Galatians:4:10",
+        "t": "You are observing special days and months and seasons and years!"
+    },
+    {
+        "o": 32190,
+        "r": "niv:Galatians:4:11",
+        "t": "I fear for you, that somehow I have wasted my efforts on you."
+    },
+    {
+        "o": 32191,
+        "r": "niv:Galatians:4:12",
+        "t": "I*p plead with you, brothers and sisters, become like me, for I became like you. You did me no wrong."
+    },
+    {
+        "o": 32192,
+        "r": "niv:Galatians:4:13",
+        "t": "As you know, it was because of an illness that I first preached the gospel to you,"
+    },
+    {
+        "o": 32193,
+        "r": "niv:Galatians:4:14",
+        "t": "and even though my illness was a trial to you, you did not treat me with contempt or scorn. Instead, you welcomed me as if I were an angel of God, as if I were Christ Jesus himself."
+    },
+    {
+        "o": 32194,
+        "r": "niv:Galatians:4:15",
+        "t": "Where, then, is your blessing of me now? I can testify that, if you could have done so, you would have torn out your eyes and given them to me."
+    },
+    {
+        "o": 32195,
+        "r": "niv:Galatians:4:16",
+        "t": "Have I now become your enemy by telling you the truth?"
+    },
+    {
+        "o": 32196,
+        "r": "niv:Galatians:4:17",
+        "t": "Those*p people are zealous to win you over, but for no good. What they want is to alienate you from us, so that you may have zeal for them."
+    },
+    {
+        "o": 32197,
+        "r": "niv:Galatians:4:18",
+        "t": "It is fine to be zealous, provided the purpose is good, and to be so always, not just when I am with you."
+    },
+    {
+        "o": 32198,
+        "r": "niv:Galatians:4:19",
+        "t": "My dear children, for whom I am again in the pains of childbirth until Christ is formed in you,"
+    },
+    {
+        "o": 32199,
+        "r": "niv:Galatians:4:20",
+        "t": "how I wish I could be with you now and change my tone, because I am perplexed about you!"
+    },
+    {
+        "o": 32200,
+        "r": "niv:Galatians:4:20",
+        "t": "Hagar and Sarah",
+        "h": 2
+    },
+    {
+        "o": 32201,
+        "r": "niv:Galatians:4:21",
+        "t": "Tell*p me, you who want to be under the law, are you not aware of what the law says?"
+    },
+    {
+        "o": 32202,
+        "r": "niv:Galatians:4:22",
+        "t": "For it is written that Abraham had two sons, one by the slave woman and the other by the free woman."
+    },
+    {
+        "o": 32203,
+        "r": "niv:Galatians:4:23",
+        "t": "His son by the slave woman was born according to the flesh, but his son by the free woman was born as the result of a divine promise."
+    },
+    {
+        "o": 32204,
+        "r": "niv:Galatians:4:24",
+        "t": "These*p things are being taken figuratively: The women represent two covenants. One covenant is from Mount Sinai and bears children who are to be slaves: This is Hagar."
+    },
+    {
+        "o": 32205,
+        "r": "niv:Galatians:4:25",
+        "t": "Now Hagar stands for Mount Sinai in Arabia and corresponds to the present city of Jerusalem, because she is in slavery with her children."
+    },
+    {
+        "o": 32206,
+        "r": "niv:Galatians:4:26",
+        "t": "But the Jerusalem that is above is free, and she is our mother."
+    },
+    {
+        "o": 32207,
+        "r": "niv:Galatians:4:27",
+        "t": "For it is written: “Be*pn glad, barren woman, you*ld who never bore a child; shout*ln for joy and cry aloud, you*ld who were never in labor; because*ln more are the children of the desolate woman than*ld of her who has a husband.”"
+    },
+    {
+        "o": 32208,
+        "r": "niv:Galatians:4:28",
+        "t": "Now*p you, brothers and sisters, like Isaac, are children of promise."
+    },
+    {
+        "o": 32209,
+        "r": "niv:Galatians:4:29",
+        "t": "At that time the son born according to the flesh persecuted the son born by the power of the Spirit. It is the same now."
+    },
+    {
+        "o": 32210,
+        "r": "niv:Galatians:4:30",
+        "t": "But what does Scripture say? “Get rid of the slave woman and her son, for the slave woman’s son will never share in the inheritance with the free woman’s son.”"
+    },
+    {
+        "o": 32211,
+        "r": "niv:Galatians:4:31",
+        "t": "Therefore, brothers and sisters, we are not children of the slave woman, but of the free woman."
+    },
+    {
+        "o": 32212,
+        "r": "niv:Galatians:5:0",
+        "t": "Galatians 5",
+        "h": 1
+    },
+    {
+        "o": 32213,
+        "r": "niv:Galatians:5:0",
+        "t": "Freedom in Christ",
+        "h": 2
+    },
+    {
+        "o": 32214,
+        "r": "niv:Galatians:5:1",
+        "t": "It*p is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery."
+    },
+    {
+        "o": 32215,
+        "r": "niv:Galatians:5:2",
+        "t": "Mark*p my words! I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all."
+    },
+    {
+        "o": 32216,
+        "r": "niv:Galatians:5:3",
+        "t": "Again I declare to every man who lets himself be circumcised that he is obligated to obey the whole law."
+    },
+    {
+        "o": 32217,
+        "r": "niv:Galatians:5:4",
+        "t": "You who are trying to be justified by the law have been alienated from Christ; you have fallen away from grace."
+    },
+    {
+        "o": 32218,
+        "r": "niv:Galatians:5:5",
+        "t": "For through the Spirit we eagerly await by faith the righteousness for which we hope."
+    },
+    {
+        "o": 32219,
+        "r": "niv:Galatians:5:6",
+        "t": "For in Christ Jesus neither circumcision nor uncircumcision has any value. The only thing that counts is faith expressing itself through love."
+    },
+    {
+        "o": 32220,
+        "r": "niv:Galatians:5:7",
+        "t": "You*p were running a good race. Who cut in on you to keep you from obeying the truth?"
+    },
+    {
+        "o": 32221,
+        "r": "niv:Galatians:5:8",
+        "t": "That kind of persuasion does not come from the one who calls you."
+    },
+    {
+        "o": 32222,
+        "r": "niv:Galatians:5:9",
+        "t": "“A little yeast works through the whole batch of dough.”"
+    },
+    {
+        "o": 32223,
+        "r": "niv:Galatians:5:10",
+        "t": "I am confident in the Lord that you will take no other view. The one who is throwing you into confusion, whoever that may be, will have to pay the penalty."
+    },
+    {
+        "o": 32224,
+        "r": "niv:Galatians:5:11",
+        "t": "Brothers and sisters, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been abolished."
+    },
+    {
+        "o": 32225,
+        "r": "niv:Galatians:5:12",
+        "t": "As for those agitators, I wish they would go the whole way and emasculate themselves!"
+    },
+    {
+        "o": 32226,
+        "r": "niv:Galatians:5:12",
+        "t": "Life by the Spirit",
+        "h": 2
+    },
+    {
+        "o": 32227,
+        "r": "niv:Galatians:5:13",
+        "t": "You,*p my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love."
+    },
+    {
+        "o": 32228,
+        "r": "niv:Galatians:5:14",
+        "t": "For the entire law is fulfilled in keeping this one command: “Love your neighbor as yourself.”"
+    },
+    {
+        "o": 32229,
+        "r": "niv:Galatians:5:15",
+        "t": "If you bite and devour each other, watch out or you will be destroyed by each other."
+    },
+    {
+        "o": 32230,
+        "r": "niv:Galatians:5:16",
+        "t": "So*p I say, walk by the Spirit, and you will not gratify the desires of the flesh."
+    },
+    {
+        "o": 32231,
+        "r": "niv:Galatians:5:17",
+        "t": "For the flesh desires what is contrary to the Spirit, and the Spirit what is contrary to the flesh. They are in conflict with each other, so that you are not to do whatever you want."
+    },
+    {
+        "o": 32232,
+        "r": "niv:Galatians:5:18",
+        "t": "But if you are led by the Spirit, you are not under the law."
+    },
+    {
+        "o": 32233,
+        "r": "niv:Galatians:5:19",
+        "t": "The*p acts of the flesh are obvious: sexual immorality, impurity and debauchery;"
+    },
+    {
+        "o": 32234,
+        "r": "niv:Galatians:5:20",
+        "t": "idolatry and witchcraft; hatred, discord, jealousy, fits of rage, selfish ambition, dissensions, factions"
+    },
+    {
+        "o": 32235,
+        "r": "niv:Galatians:5:21",
+        "t": "and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who live like this will not inherit the kingdom of God."
+    },
+    {
+        "o": 32236,
+        "r": "niv:Galatians:5:22",
+        "t": "But*p the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness,"
+    },
+    {
+        "o": 32237,
+        "r": "niv:Galatians:5:23",
+        "t": "gentleness and self-control. Against such things there is no law."
+    },
+    {
+        "o": 32238,
+        "r": "niv:Galatians:5:24",
+        "t": "Those who belong to Christ Jesus have crucified the flesh with its passions and desires."
+    },
+    {
+        "o": 32239,
+        "r": "niv:Galatians:5:25",
+        "t": "Since we live by the Spirit, let us keep in step with the Spirit."
+    },
+    {
+        "o": 32240,
+        "r": "niv:Galatians:5:26",
+        "t": "Let us not become conceited, provoking and envying each other."
+    },
+    {
+        "o": 32241,
+        "r": "niv:Galatians:6:0",
+        "t": "Galatians 6",
+        "h": 1
+    },
+    {
+        "o": 32242,
+        "r": "niv:Galatians:6:0",
+        "t": "Doing Good to All",
+        "h": 2
+    },
+    {
+        "o": 32243,
+        "r": "niv:Galatians:6:1",
+        "t": "Brothers*p and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently. But watch yourselves, or you also may be tempted."
+    },
+    {
+        "o": 32244,
+        "r": "niv:Galatians:6:2",
+        "t": "Carry each other’s burdens, and in this way you will fulfill the law of Christ."
+    },
+    {
+        "o": 32245,
+        "r": "niv:Galatians:6:3",
+        "t": "If anyone thinks they are something when they are not, they deceive themselves."
+    },
+    {
+        "o": 32246,
+        "r": "niv:Galatians:6:4",
+        "t": "Each one should test their own actions. Then they can take pride in themselves alone, without comparing themselves to someone else,"
+    },
+    {
+        "o": 32247,
+        "r": "niv:Galatians:6:5",
+        "t": "for each one should carry their own load."
+    },
+    {
+        "o": 32248,
+        "r": "niv:Galatians:6:6",
+        "t": "Nevertheless, the one who receives instruction in the word should share all good things with their instructor."
+    },
+    {
+        "o": 32249,
+        "r": "niv:Galatians:6:7",
+        "t": "Do*p not be deceived: God cannot be mocked. A man reaps what he sows."
+    },
+    {
+        "o": 32250,
+        "r": "niv:Galatians:6:8",
+        "t": "Whoever sows to please their flesh, from the flesh will reap destruction; whoever sows to please the Spirit, from the Spirit will reap eternal life."
+    },
+    {
+        "o": 32251,
+        "r": "niv:Galatians:6:9",
+        "t": "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."
+    },
+    {
+        "o": 32252,
+        "r": "niv:Galatians:6:10",
+        "t": "Therefore, as we have opportunity, let us do good to all people, especially to those who belong to the family of believers."
+    },
+    {
+        "o": 32253,
+        "r": "niv:Galatians:6:10",
+        "t": "Not Circumcision but the New Creation",
+        "h": 2
+    },
+    {
+        "o": 32254,
+        "r": "niv:Galatians:6:11",
+        "t": "See*p what large letters I use as I write to you with my own hand!"
+    },
+    {
+        "o": 32255,
+        "r": "niv:Galatians:6:12",
+        "t": "Those*p who want to impress people by means of the flesh are trying to compel you to be circumcised. The only reason they do this is to avoid being persecuted for the cross of Christ."
+    },
+    {
+        "o": 32256,
+        "r": "niv:Galatians:6:13",
+        "t": "Not even those who are circumcised keep the law, yet they want you to be circumcised that they may boast about your circumcision in the flesh."
+    },
+    {
+        "o": 32257,
+        "r": "niv:Galatians:6:14",
+        "t": "May I never boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world."
+    },
+    {
+        "o": 32258,
+        "r": "niv:Galatians:6:15",
+        "t": "Neither circumcision nor uncircumcision means anything; what counts is the new creation."
+    },
+    {
+        "o": 32259,
+        "r": "niv:Galatians:6:16",
+        "t": "Peace and mercy to all who follow this rule—to the Israel of God."
+    },
+    {
+        "o": 32260,
+        "r": "niv:Galatians:6:17",
+        "t": "From*p now on, let no one cause me trouble, for I bear on my body the marks of Jesus."
+    },
+    {
+        "o": 32261,
+        "r": "niv:Galatians:6:18",
+        "t": "The*p grace of our Lord Jesus Christ be with your spirit, brothers and sisters. Amen."
+    }
+]

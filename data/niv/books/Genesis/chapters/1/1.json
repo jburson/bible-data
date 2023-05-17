@@ -1,0 +1,169 @@
+[
+    {
+        "o": 1,
+        "r": "niv:Genesis:1:0",
+        "t": "Genesis 1",
+        "h": 1
+    },
+    {
+        "o": 2,
+        "r": "niv:Genesis:1:0",
+        "t": "The Beginning",
+        "h": 2
+    },
+    {
+        "o": 3,
+        "r": "niv:Genesis:1:1",
+        "t": "In*p the beginning God created the heavens and the earth."
+    },
+    {
+        "o": 4,
+        "r": "niv:Genesis:1:2",
+        "t": "Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."
+    },
+    {
+        "o": 5,
+        "r": "niv:Genesis:1:3",
+        "t": "And*pln God said, “Let there be light,” and there was light."
+    },
+    {
+        "o": 6,
+        "r": "niv:Genesis:1:4",
+        "t": "God saw that the light was good, and he separated the light from the darkness."
+    },
+    {
+        "o": 7,
+        "r": "niv:Genesis:1:5",
+        "t": "God called the light “day,” and the darkness he called “night.” And there was evening, and there was morning—the first day."
+    },
+    {
+        "o": 8,
+        "r": "niv:Genesis:1:6",
+        "t": "And*ln God said, “Let there be a vault between the waters to separate water from water.”"
+    },
+    {
+        "o": 9,
+        "r": "niv:Genesis:1:7",
+        "t": "So God made the vault and separated the water under the vault from the water above it. And it was so."
+    },
+    {
+        "o": 10,
+        "r": "niv:Genesis:1:8",
+        "t": "God called the vault “sky.” And there was evening, and there was morning—the second day."
+    },
+    {
+        "o": 11,
+        "r": "niv:Genesis:1:9",
+        "t": "And*ln God said, “Let the water under the sky be gathered to one place, and let dry ground appear.” And it was so."
+    },
+    {
+        "o": 12,
+        "r": "niv:Genesis:1:10",
+        "t": "God called the dry ground “land,” and the gathered waters he called “seas.” And God saw that it was good."
+    },
+    {
+        "o": 13,
+        "r": "niv:Genesis:1:11",
+        "t": "Then*p God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so."
+    },
+    {
+        "o": 14,
+        "r": "niv:Genesis:1:12",
+        "t": "The land produced vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good."
+    },
+    {
+        "o": 15,
+        "r": "niv:Genesis:1:13",
+        "t": "And there was evening, and there was morning—the third day."
+    },
+    {
+        "o": 16,
+        "r": "niv:Genesis:1:14",
+        "t": "And*ln God said, “Let there be lights in the vault of the sky to separate the day from the night, and let them serve as signs to mark sacred times, and days and years,"
+    },
+    {
+        "o": 17,
+        "r": "niv:Genesis:1:15",
+        "t": "and let them be lights in the vault of the sky to give light on the earth.” And it was so."
+    },
+    {
+        "o": 18,
+        "r": "niv:Genesis:1:16",
+        "t": "God made two great lights—the greater light to govern the day and the lesser light to govern the night. He also made the stars."
+    },
+    {
+        "o": 19,
+        "r": "niv:Genesis:1:17",
+        "t": "God set them in the vault of the sky to give light on the earth,"
+    },
+    {
+        "o": 20,
+        "r": "niv:Genesis:1:18",
+        "t": "to govern the day and the night, and to separate light from darkness. And God saw that it was good."
+    },
+    {
+        "o": 21,
+        "r": "niv:Genesis:1:19",
+        "t": "And there was evening, and there was morning—the fourth day."
+    },
+    {
+        "o": 22,
+        "r": "niv:Genesis:1:20",
+        "t": "And*ln God said, “Let the water teem with living creatures, and let birds fly above the earth across the vault of the sky.”"
+    },
+    {
+        "o": 23,
+        "r": "niv:Genesis:1:21",
+        "t": "So God created the great creatures of the sea and every living thing with which the water teems and that moves about in it, according to their kinds, and every winged bird according to its kind. And God saw that it was good."
+    },
+    {
+        "o": 24,
+        "r": "niv:Genesis:1:22",
+        "t": "God blessed them and said, “Be fruitful and increase in number and fill the water in the seas, and let the birds increase on the earth.”"
+    },
+    {
+        "o": 25,
+        "r": "niv:Genesis:1:23",
+        "t": "And there was evening, and there was morning—the fifth day."
+    },
+    {
+        "o": 26,
+        "r": "niv:Genesis:1:24",
+        "t": "And*ln God said, “Let the land produce living creatures according to their kinds: the livestock, the creatures that move along the ground, and the wild animals, each according to its kind.” And it was so."
+    },
+    {
+        "o": 27,
+        "r": "niv:Genesis:1:25",
+        "t": "God made the wild animals according to their kinds, the livestock according to their kinds, and all the creatures that move along the ground according to their kinds. And God saw that it was good."
+    },
+    {
+        "o": 28,
+        "r": "niv:Genesis:1:26",
+        "t": "Then*p God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.”"
+    },
+    {
+        "o": 29,
+        "r": "niv:Genesis:1:27",
+        "t": "So*pn God created mankind in his own image, in*ld the image of God he created them; male*ld and female he created them."
+    },
+    {
+        "o": 30,
+        "r": "niv:Genesis:1:28",
+        "t": "God*p blessed them and said to them, “Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.”"
+    },
+    {
+        "o": 31,
+        "r": "niv:Genesis:1:29",
+        "t": "Then*p God said, “I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food."
+    },
+    {
+        "o": 32,
+        "r": "niv:Genesis:1:30",
+        "t": "And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.” And it was so."
+    },
+    {
+        "o": 33,
+        "r": "niv:Genesis:1:31",
+        "t": "God*p saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day."
+    }
+]

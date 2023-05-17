@@ -1,0 +1,350 @@
+[
+    {
+        "o": 11205,
+        "r": "niv:1 Chronicles:1:0",
+        "t": "1 Chronicles 1",
+        "h": 1
+    },
+    {
+        "o": 11206,
+        "r": "niv:1 Chronicles:1:0",
+        "t": "Historical Records From Adam to Abraham",
+        "h": 2
+    },
+    {
+        "o": 11207,
+        "r": "niv:1 Chronicles:1:0",
+        "t": "To Noah’s Sons",
+        "h": 3
+    },
+    {
+        "o": 11208,
+        "r": "niv:1 Chronicles:1:1",
+        "t": "Adam,*p Seth, Enosh,"
+    },
+    {
+        "o": 11209,
+        "r": "niv:1 Chronicles:1:2",
+        "t": "Kenan, Mahalalel, Jared,"
+    },
+    {
+        "o": 11210,
+        "r": "niv:1 Chronicles:1:3",
+        "t": "Enoch, Methuselah, Lamech, Noah."
+    },
+    {
+        "o": 11211,
+        "r": "niv:1 Chronicles:1:4",
+        "t": "The*pln sons of Noah: Shem,*ld Ham and Japheth."
+    },
+    {
+        "o": 11212,
+        "r": "niv:1 Chronicles:1:4",
+        "t": "The Japhethites",
+        "h": 3
+    },
+    {
+        "o": 11213,
+        "r": "niv:1 Chronicles:1:5",
+        "t": "The*ln sons of Japheth: Gomer,*ld Magog, Madai, Javan, Tubal, Meshek and Tiras."
+    },
+    {
+        "o": 11214,
+        "r": "niv:1 Chronicles:1:6",
+        "t": "The*ln sons of Gomer: Ashkenaz,*ld Riphath and Togarmah."
+    },
+    {
+        "o": 11215,
+        "r": "niv:1 Chronicles:1:7",
+        "t": "The*ln sons of Javan: Elishah,*ld Tarshish, the Kittites and the Rodanites."
+    },
+    {
+        "o": 11216,
+        "r": "niv:1 Chronicles:1:7",
+        "t": "The Hamites",
+        "h": 3
+    },
+    {
+        "o": 11217,
+        "r": "niv:1 Chronicles:1:8",
+        "t": "The*ln sons of Ham: Cush,*ld Egypt, Put and Canaan."
+    },
+    {
+        "o": 11218,
+        "r": "niv:1 Chronicles:1:9",
+        "t": "The*ln sons of Cush: Seba,*ld Havilah, Sabta, Raamah and Sabteka. The*ln sons of Raamah: Sheba*ld and Dedan."
+    },
+    {
+        "o": 11219,
+        "r": "niv:1 Chronicles:1:10",
+        "t": "Cush*ln was the father of Nimrod,*ld who became a mighty warrior on earth."
+    },
+    {
+        "o": 11220,
+        "r": "niv:1 Chronicles:1:11",
+        "t": "Egypt*ln was the father of the*ld Ludites, Anamites, Lehabites, Naphtuhites,"
+    },
+    {
+        "o": 11221,
+        "r": "niv:1 Chronicles:1:12",
+        "t": "Pathrusites, Kasluhites (from whom the Philistines came) and Caphtorites."
+    },
+    {
+        "o": 11222,
+        "r": "niv:1 Chronicles:1:13",
+        "t": "Canaan*ln was the father of Sidon*ld his firstborn, and of the Hittites,"
+    },
+    {
+        "o": 11223,
+        "r": "niv:1 Chronicles:1:14",
+        "t": "Jebusites, Amorites, Girgashites,"
+    },
+    {
+        "o": 11224,
+        "r": "niv:1 Chronicles:1:15",
+        "t": "Hivites, Arkites, Sinites,"
+    },
+    {
+        "o": 11225,
+        "r": "niv:1 Chronicles:1:16",
+        "t": "Arvadites, Zemarites and Hamathites."
+    },
+    {
+        "o": 11226,
+        "r": "niv:1 Chronicles:1:16",
+        "t": "The Semites",
+        "h": 3
+    },
+    {
+        "o": 11227,
+        "r": "niv:1 Chronicles:1:17",
+        "t": "The*ln sons of Shem: Elam,*ld Ashur, Arphaxad, Lud and Aram. The*ln sons of Aram: Uz,*ld Hul, Gether and Meshek."
+    },
+    {
+        "o": 11228,
+        "r": "niv:1 Chronicles:1:18",
+        "t": "Arphaxad*ln was the father of Shelah, and*ld Shelah the father of Eber."
+    },
+    {
+        "o": 11229,
+        "r": "niv:1 Chronicles:1:19",
+        "t": "Two*ln sons were born to Eber: One*ld was named Peleg, because in his time the earth was divided; his brother was named Joktan."
+    },
+    {
+        "o": 11230,
+        "r": "niv:1 Chronicles:1:20",
+        "t": "Joktan*ln was the father of Almodad,*ld Sheleph, Hazarmaveth, Jerah,"
+    },
+    {
+        "o": 11231,
+        "r": "niv:1 Chronicles:1:21",
+        "t": "Hadoram, Uzal, Diklah,"
+    },
+    {
+        "o": 11232,
+        "r": "niv:1 Chronicles:1:22",
+        "t": "Obal, Abimael, Sheba,"
+    },
+    {
+        "o": 11233,
+        "r": "niv:1 Chronicles:1:23",
+        "t": "Ophir, Havilah and Jobab. All these were sons of Joktan."
+    },
+    {
+        "o": 11234,
+        "r": "niv:1 Chronicles:1:24",
+        "t": "Shem,*pld Arphaxad, Shelah,"
+    },
+    {
+        "o": 11235,
+        "r": "niv:1 Chronicles:1:25",
+        "t": "Eber,*ld Peleg, Reu,"
+    },
+    {
+        "o": 11236,
+        "r": "niv:1 Chronicles:1:26",
+        "t": "Serug,*ld Nahor, Terah"
+    },
+    {
+        "o": 11237,
+        "r": "niv:1 Chronicles:1:27",
+        "t": "and*ld Abram (that is, Abraham)."
+    },
+    {
+        "o": 11238,
+        "r": "niv:1 Chronicles:1:27",
+        "t": "The Family of Abraham",
+        "h": 2
+    },
+    {
+        "o": 11239,
+        "r": "niv:1 Chronicles:1:28",
+        "t": "The*ln sons of Abraham: Isaac*ld and Ishmael."
+    },
+    {
+        "o": 11240,
+        "r": "niv:1 Chronicles:1:28",
+        "t": "Descendants of Hagar",
+        "h": 3
+    },
+    {
+        "o": 11241,
+        "r": "niv:1 Chronicles:1:29",
+        "t": "These*ln were their descendants: Nebaioth*ld the firstborn of Ishmael, Kedar, Adbeel, Mibsam,"
+    },
+    {
+        "o": 11242,
+        "r": "niv:1 Chronicles:1:30",
+        "t": "Mishma, Dumah, Massa, Hadad, Tema,"
+    },
+    {
+        "o": 11243,
+        "r": "niv:1 Chronicles:1:31",
+        "t": "Jetur, Naphish and Kedemah. These were the sons of Ishmael."
+    },
+    {
+        "o": 11244,
+        "r": "niv:1 Chronicles:1:31",
+        "t": "Descendants of Keturah",
+        "h": 3
+    },
+    {
+        "o": 11245,
+        "r": "niv:1 Chronicles:1:32",
+        "t": "The*ln sons born to Keturah, Abraham’s concubine: Zimran,*ld Jokshan, Medan, Midian, Ishbak and Shuah. The*ln sons of Jokshan: Sheba*ld and Dedan."
+    },
+    {
+        "o": 11246,
+        "r": "niv:1 Chronicles:1:33",
+        "t": "The*ln sons of Midian: Ephah,*ld Epher, Hanok, Abida and Eldaah. All*ln these were descendants of Keturah."
+    },
+    {
+        "o": 11247,
+        "r": "niv:1 Chronicles:1:33",
+        "t": "Descendants of Sarah",
+        "h": 3
+    },
+    {
+        "o": 11248,
+        "r": "niv:1 Chronicles:1:34",
+        "t": "Abraham*ln was the father of Isaac. The*ln sons of Isaac: Esau*ld and Israel."
+    },
+    {
+        "o": 11249,
+        "r": "niv:1 Chronicles:1:34",
+        "t": "Esau’s Sons",
+        "h": 2
+    },
+    {
+        "o": 11250,
+        "r": "niv:1 Chronicles:1:35",
+        "t": "The*ln sons of Esau: Eliphaz,*ld Reuel, Jeush, Jalam and Korah."
+    },
+    {
+        "o": 11251,
+        "r": "niv:1 Chronicles:1:36",
+        "t": "The*ln sons of Eliphaz: Teman,*ld Omar, Zepho, Gatam and Kenaz; by*ld Timna: Amalek."
+    },
+    {
+        "o": 11252,
+        "r": "niv:1 Chronicles:1:37",
+        "t": "The*ln sons of Reuel: Nahath,*ld Zerah, Shammah and Mizzah."
+    },
+    {
+        "o": 11253,
+        "r": "niv:1 Chronicles:1:37",
+        "t": "The People of Seir in Edom",
+        "h": 3
+    },
+    {
+        "o": 11254,
+        "r": "niv:1 Chronicles:1:38",
+        "t": "The*ln sons of Seir: Lotan,*ld Shobal, Zibeon, Anah, Dishon, Ezer and Dishan."
+    },
+    {
+        "o": 11255,
+        "r": "niv:1 Chronicles:1:39",
+        "t": "The*ln sons of Lotan: Hori*ld and Homam. Timna was Lotan’s sister."
+    },
+    {
+        "o": 11256,
+        "r": "niv:1 Chronicles:1:40",
+        "t": "The*ln sons of Shobal: Alvan,*ld Manahath, Ebal, Shepho and Onam. The*ln sons of Zibeon: Aiah*ld and Anah."
+    },
+    {
+        "o": 11257,
+        "r": "niv:1 Chronicles:1:41",
+        "t": "The*ln son of Anah: Dishon.*ld The*ln sons of Dishon: Hemdan,*ld Eshban, Ithran and Keran."
+    },
+    {
+        "o": 11258,
+        "r": "niv:1 Chronicles:1:42",
+        "t": "The*ln sons of Ezer: Bilhan,*ld Zaavan and Akan. The*ln sons of Dishan: Uz*ld and Aran."
+    },
+    {
+        "o": 11259,
+        "r": "niv:1 Chronicles:1:42",
+        "t": "The Rulers of Edom",
+        "h": 3
+    },
+    {
+        "o": 11260,
+        "r": "niv:1 Chronicles:1:43",
+        "t": "These*ln were the kings who reigned in Edom before any Israelite king reigned: Bela*ld son of Beor, whose city was named Dinhabah."
+    },
+    {
+        "o": 11261,
+        "r": "niv:1 Chronicles:1:44",
+        "t": "When*ld Bela died, Jobab son of Zerah from Bozrah succeeded him as king."
+    },
+    {
+        "o": 11262,
+        "r": "niv:1 Chronicles:1:45",
+        "t": "When*ld Jobab died, Husham from the land of the Temanites succeeded him as king."
+    },
+    {
+        "o": 11263,
+        "r": "niv:1 Chronicles:1:46",
+        "t": "When*ld Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, succeeded him as king. His city was named Avith."
+    },
+    {
+        "o": 11264,
+        "r": "niv:1 Chronicles:1:47",
+        "t": "When*ld Hadad died, Samlah from Masrekah succeeded him as king."
+    },
+    {
+        "o": 11265,
+        "r": "niv:1 Chronicles:1:48",
+        "t": "When*ld Samlah died, Shaul from Rehoboth on the river succeeded him as king."
+    },
+    {
+        "o": 11266,
+        "r": "niv:1 Chronicles:1:49",
+        "t": "When*ld Shaul died, Baal-Hanan son of Akbor succeeded him as king."
+    },
+    {
+        "o": 11267,
+        "r": "niv:1 Chronicles:1:50",
+        "t": "When*ld Baal-Hanan died, Hadad succeeded him as king. His city was named Pau, and his wife’s name was Mehetabel daughter of Matred, the daughter of Me-Zahab."
+    },
+    {
+        "o": 11268,
+        "r": "niv:1 Chronicles:1:51",
+        "t": "Hadad also died. The*pln chiefs of Edom were: Timna,*ld Alvah, Jetheth,"
+    },
+    {
+        "o": 11269,
+        "r": "niv:1 Chronicles:1:52",
+        "t": "Oholibamah, Elah, Pinon,"
+    },
+    {
+        "o": 11270,
+        "r": "niv:1 Chronicles:1:53",
+        "t": "Kenaz, Teman, Mibzar,"
+    },
+    {
+        "o": 11271,
+        "r": "niv:1 Chronicles:1:54",
+        "t": "Magdiel and Iram. These were the chiefs of Edom."
+    }
+]

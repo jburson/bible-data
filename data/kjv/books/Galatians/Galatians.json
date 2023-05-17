@@ -1,0 +1,783 @@
+[
+    {
+        "o": 30288,
+        "r": "kjv:Galatians:1:0",
+        "t": "Galatians 1",
+        "h": 1
+    },
+    {
+        "o": 30289,
+        "r": "kjv:Galatians:1:1",
+        "t": "Paul,*p an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+    },
+    {
+        "o": 30290,
+        "r": "kjv:Galatians:1:2",
+        "t": "And*p all the brethren which are with me, unto the churches of Galatia:"
+    },
+    {
+        "o": 30291,
+        "r": "kjv:Galatians:1:3",
+        "t": "Grace*p be to you and peace from God the Father, and from our Lord Jesus Christ,"
+    },
+    {
+        "o": 30292,
+        "r": "kjv:Galatians:1:4",
+        "t": "Who*p gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:"
+    },
+    {
+        "o": 30293,
+        "r": "kjv:Galatians:1:5",
+        "t": "To*p whom be glory for ever and ever. Amen."
+    },
+    {
+        "o": 30294,
+        "r": "kjv:Galatians:1:6",
+        "t": "I*p marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:"
+    },
+    {
+        "o": 30295,
+        "r": "kjv:Galatians:1:7",
+        "t": "Which*p is not another; but there be some that trouble you, and would pervert the gospel of Christ."
+    },
+    {
+        "o": 30296,
+        "r": "kjv:Galatians:1:8",
+        "t": "But*p though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed."
+    },
+    {
+        "o": 30297,
+        "r": "kjv:Galatians:1:9",
+        "t": "As*p we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed."
+    },
+    {
+        "o": 30298,
+        "r": "kjv:Galatians:1:10",
+        "t": "For*p do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ."
+    },
+    {
+        "o": 30299,
+        "r": "kjv:Galatians:1:11",
+        "t": "But*p I certify you, brethren, that the gospel which was preached of me is not after man."
+    },
+    {
+        "o": 30300,
+        "r": "kjv:Galatians:1:12",
+        "t": "For*p I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ."
+    },
+    {
+        "o": 30301,
+        "r": "kjv:Galatians:1:13",
+        "t": "For*p ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:"
+    },
+    {
+        "o": 30302,
+        "r": "kjv:Galatians:1:14",
+        "t": "And*p profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers."
+    },
+    {
+        "o": 30303,
+        "r": "kjv:Galatians:1:15",
+        "t": "But*p when it pleased God, who separated me from my mother's womb, and called me by his grace,"
+    },
+    {
+        "o": 30304,
+        "r": "kjv:Galatians:1:16",
+        "t": "To*p reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:"
+    },
+    {
+        "o": 30305,
+        "r": "kjv:Galatians:1:17",
+        "t": "Neither*p went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus."
+    },
+    {
+        "o": 30306,
+        "r": "kjv:Galatians:1:18",
+        "t": "Then*p after three years I went up to Jerusalem to see Peter, and abode with him fifteen days."
+    },
+    {
+        "o": 30307,
+        "r": "kjv:Galatians:1:19",
+        "t": "But*p other of the apostles saw I none, save James the Lord's brother."
+    },
+    {
+        "o": 30308,
+        "r": "kjv:Galatians:1:20",
+        "t": "Now*p the things which I write unto you, behold, before God, I lie not."
+    },
+    {
+        "o": 30309,
+        "r": "kjv:Galatians:1:21",
+        "t": "Afterwards*p I came into the regions of Syria and Cilicia;"
+    },
+    {
+        "o": 30310,
+        "r": "kjv:Galatians:1:22",
+        "t": "And*p was unknown by face unto the churches of Judaea which were in Christ:"
+    },
+    {
+        "o": 30311,
+        "r": "kjv:Galatians:1:23",
+        "t": "But*p they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed."
+    },
+    {
+        "o": 30312,
+        "r": "kjv:Galatians:1:24",
+        "t": "And*p they glorified God in me."
+    },
+    {
+        "o": 30313,
+        "r": "kjv:Galatians:2:0",
+        "t": "Galatians 2",
+        "h": 1
+    },
+    {
+        "o": 30314,
+        "r": "kjv:Galatians:2:1",
+        "t": "Then*p fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also."
+    },
+    {
+        "o": 30315,
+        "r": "kjv:Galatians:2:2",
+        "t": "And*p I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain."
+    },
+    {
+        "o": 30316,
+        "r": "kjv:Galatians:2:3",
+        "t": "But*p neither Titus, who was with me, being a Greek, was compelled to be circumcised:"
+    },
+    {
+        "o": 30317,
+        "r": "kjv:Galatians:2:4",
+        "t": "And*p that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:"
+    },
+    {
+        "o": 30318,
+        "r": "kjv:Galatians:2:5",
+        "t": "To*p whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you."
+    },
+    {
+        "o": 30319,
+        "r": "kjv:Galatians:2:6",
+        "t": "But*p of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man's person:) for they who seemed to be somewhat in conference added nothing to me:"
+    },
+    {
+        "o": 30320,
+        "r": "kjv:Galatians:2:7",
+        "t": "But*p contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;"
+    },
+    {
+        "o": 30321,
+        "r": "kjv:Galatians:2:8",
+        "t": "(For*p he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)"
+    },
+    {
+        "o": 30322,
+        "r": "kjv:Galatians:2:9",
+        "t": "And*p when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision."
+    },
+    {
+        "o": 30323,
+        "r": "kjv:Galatians:2:10",
+        "t": "Only*p they would that we should remember the poor; the same which I also was forward to do."
+    },
+    {
+        "o": 30324,
+        "r": "kjv:Galatians:2:11",
+        "t": "But*p when Peter was come to Antioch, I withstood him to the face, because he was to be blamed."
+    },
+    {
+        "o": 30325,
+        "r": "kjv:Galatians:2:12",
+        "t": "For*p before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision."
+    },
+    {
+        "o": 30326,
+        "r": "kjv:Galatians:2:13",
+        "t": "And*p the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation."
+    },
+    {
+        "o": 30327,
+        "r": "kjv:Galatians:2:14",
+        "t": "But*p when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?"
+    },
+    {
+        "o": 30328,
+        "r": "kjv:Galatians:2:15",
+        "t": "We*p who are Jews by nature, and not sinners of the Gentiles,"
+    },
+    {
+        "o": 30329,
+        "r": "kjv:Galatians:2:16",
+        "t": "Knowing*p that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified."
+    },
+    {
+        "o": 30330,
+        "r": "kjv:Galatians:2:17",
+        "t": "But*p if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid."
+    },
+    {
+        "o": 30331,
+        "r": "kjv:Galatians:2:18",
+        "t": "For*p if I build again the things which I destroyed, I make myself a transgressor."
+    },
+    {
+        "o": 30332,
+        "r": "kjv:Galatians:2:19",
+        "t": "For*p I through the law am dead to the law, that I might live unto God."
+    },
+    {
+        "o": 30333,
+        "r": "kjv:Galatians:2:20",
+        "t": "I*p am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me."
+    },
+    {
+        "o": 30334,
+        "r": "kjv:Galatians:2:21",
+        "t": "I*p do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain."
+    },
+    {
+        "o": 30335,
+        "r": "kjv:Galatians:3:0",
+        "t": "Galatians 3",
+        "h": 1
+    },
+    {
+        "o": 30336,
+        "r": "kjv:Galatians:3:1",
+        "t": "O*p foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?"
+    },
+    {
+        "o": 30337,
+        "r": "kjv:Galatians:3:2",
+        "t": "This*p only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?"
+    },
+    {
+        "o": 30338,
+        "r": "kjv:Galatians:3:3",
+        "t": "Are*p ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?"
+    },
+    {
+        "o": 30339,
+        "r": "kjv:Galatians:3:4",
+        "t": "Have*p ye suffered so many things in vain? if it be yet in vain."
+    },
+    {
+        "o": 30340,
+        "r": "kjv:Galatians:3:5",
+        "t": "He*p therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?"
+    },
+    {
+        "o": 30341,
+        "r": "kjv:Galatians:3:6",
+        "t": "Even*p as Abraham believed God, and it was accounted to him for righteousness."
+    },
+    {
+        "o": 30342,
+        "r": "kjv:Galatians:3:7",
+        "t": "Know*p ye therefore that they which are of faith, the same are the children of Abraham."
+    },
+    {
+        "o": 30343,
+        "r": "kjv:Galatians:3:8",
+        "t": "And*p the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed."
+    },
+    {
+        "o": 30344,
+        "r": "kjv:Galatians:3:9",
+        "t": "So*p then they which be of faith are blessed with faithful Abraham."
+    },
+    {
+        "o": 30345,
+        "r": "kjv:Galatians:3:10",
+        "t": "For*p as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them."
+    },
+    {
+        "o": 30346,
+        "r": "kjv:Galatians:3:11",
+        "t": "But*p that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith."
+    },
+    {
+        "o": 30347,
+        "r": "kjv:Galatians:3:12",
+        "t": "And*p the law is not of faith: but, The man that doeth them shall live in them."
+    },
+    {
+        "o": 30348,
+        "r": "kjv:Galatians:3:13",
+        "t": "Christ*p hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:"
+    },
+    {
+        "o": 30349,
+        "r": "kjv:Galatians:3:14",
+        "t": "That*p the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith."
+    },
+    {
+        "o": 30350,
+        "r": "kjv:Galatians:3:15",
+        "t": "Brethren,*p I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannulleth, or addeth thereto."
+    },
+    {
+        "o": 30351,
+        "r": "kjv:Galatians:3:16",
+        "t": "Now*p to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ."
+    },
+    {
+        "o": 30352,
+        "r": "kjv:Galatians:3:17",
+        "t": "And*p this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect."
+    },
+    {
+        "o": 30353,
+        "r": "kjv:Galatians:3:18",
+        "t": "For*p if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise."
+    },
+    {
+        "o": 30354,
+        "r": "kjv:Galatians:3:19",
+        "t": "Wherefore*p then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator."
+    },
+    {
+        "o": 30355,
+        "r": "kjv:Galatians:3:20",
+        "t": "Now*p a mediator is not a mediator of one, but God is one."
+    },
+    {
+        "o": 30356,
+        "r": "kjv:Galatians:3:21",
+        "t": "Is*p the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law."
+    },
+    {
+        "o": 30357,
+        "r": "kjv:Galatians:3:22",
+        "t": "But*p the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe."
+    },
+    {
+        "o": 30358,
+        "r": "kjv:Galatians:3:23",
+        "t": "But*p before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed."
+    },
+    {
+        "o": 30359,
+        "r": "kjv:Galatians:3:24",
+        "t": "Wherefore*p the law was our schoolmaster to bring us unto Christ, that we might be justified by faith."
+    },
+    {
+        "o": 30360,
+        "r": "kjv:Galatians:3:25",
+        "t": "But*p after that faith is come, we are no longer under a schoolmaster."
+    },
+    {
+        "o": 30361,
+        "r": "kjv:Galatians:3:26",
+        "t": "For*p ye are all the children of God by faith in Christ Jesus."
+    },
+    {
+        "o": 30362,
+        "r": "kjv:Galatians:3:27",
+        "t": "For*p as many of you as have been baptized into Christ have put on Christ."
+    },
+    {
+        "o": 30363,
+        "r": "kjv:Galatians:3:28",
+        "t": "There*p is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus."
+    },
+    {
+        "o": 30364,
+        "r": "kjv:Galatians:3:29",
+        "t": "And*p if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise."
+    },
+    {
+        "o": 30365,
+        "r": "kjv:Galatians:4:0",
+        "t": "Galatians 4",
+        "h": 1
+    },
+    {
+        "o": 30366,
+        "r": "kjv:Galatians:4:1",
+        "t": "Now*p I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;"
+    },
+    {
+        "o": 30367,
+        "r": "kjv:Galatians:4:2",
+        "t": "But*p is under tutors and governors until the time appointed of the father."
+    },
+    {
+        "o": 30368,
+        "r": "kjv:Galatians:4:3",
+        "t": "Even*p so we, when we were children, were in bondage under the elements of the world:"
+    },
+    {
+        "o": 30369,
+        "r": "kjv:Galatians:4:4",
+        "t": "But*p when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,"
+    },
+    {
+        "o": 30370,
+        "r": "kjv:Galatians:4:5",
+        "t": "To*p redeem them that were under the law, that we might receive the adoption of sons."
+    },
+    {
+        "o": 30371,
+        "r": "kjv:Galatians:4:6",
+        "t": "And*p because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father."
+    },
+    {
+        "o": 30372,
+        "r": "kjv:Galatians:4:7",
+        "t": "Wherefore*p thou art no more a servant, but a son; and if a son, then an heir of God through Christ."
+    },
+    {
+        "o": 30373,
+        "r": "kjv:Galatians:4:8",
+        "t": "Howbeit*p then, when ye knew not God, ye did service unto them which by nature are no gods."
+    },
+    {
+        "o": 30374,
+        "r": "kjv:Galatians:4:9",
+        "t": "But*p now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?"
+    },
+    {
+        "o": 30375,
+        "r": "kjv:Galatians:4:10",
+        "t": "Ye*p observe days, and months, and times, and years."
+    },
+    {
+        "o": 30376,
+        "r": "kjv:Galatians:4:11",
+        "t": "I*p am afraid of you, lest I have bestowed upon you labour in vain."
+    },
+    {
+        "o": 30377,
+        "r": "kjv:Galatians:4:12",
+        "t": "Brethren,*p I beseech you, be as I am; for I am as ye are: ye have not injured me at all."
+    },
+    {
+        "o": 30378,
+        "r": "kjv:Galatians:4:13",
+        "t": "Ye*p know how through infirmity of the flesh I preached the gospel unto you at the first."
+    },
+    {
+        "o": 30379,
+        "r": "kjv:Galatians:4:14",
+        "t": "And*p my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus."
+    },
+    {
+        "o": 30380,
+        "r": "kjv:Galatians:4:15",
+        "t": "Where*p is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me."
+    },
+    {
+        "o": 30381,
+        "r": "kjv:Galatians:4:16",
+        "t": "Am*p I therefore become your enemy, because I tell you the truth?"
+    },
+    {
+        "o": 30382,
+        "r": "kjv:Galatians:4:17",
+        "t": "They*p zealously affect you, but not well; yea, they would exclude you, that ye might affect them."
+    },
+    {
+        "o": 30383,
+        "r": "kjv:Galatians:4:18",
+        "t": "But*p it is good to be zealously affected always in a good thing, and not only when I am present with you."
+    },
+    {
+        "o": 30384,
+        "r": "kjv:Galatians:4:19",
+        "t": "My*p little children, of whom I travail in birth again until Christ be formed in you,"
+    },
+    {
+        "o": 30385,
+        "r": "kjv:Galatians:4:20",
+        "t": "I*p desire to be present with you now, and to change my voice; for I stand in doubt of you."
+    },
+    {
+        "o": 30386,
+        "r": "kjv:Galatians:4:21",
+        "t": "Tell*p me, ye that desire to be under the law, do ye not hear the law?"
+    },
+    {
+        "o": 30387,
+        "r": "kjv:Galatians:4:22",
+        "t": "For*p it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman."
+    },
+    {
+        "o": 30388,
+        "r": "kjv:Galatians:4:23",
+        "t": "But*p he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise."
+    },
+    {
+        "o": 30389,
+        "r": "kjv:Galatians:4:24",
+        "t": "Which*p things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar."
+    },
+    {
+        "o": 30390,
+        "r": "kjv:Galatians:4:25",
+        "t": "For*p this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children."
+    },
+    {
+        "o": 30391,
+        "r": "kjv:Galatians:4:26",
+        "t": "But*p Jerusalem which is above is free, which is the mother of us all."
+    },
+    {
+        "o": 30392,
+        "r": "kjv:Galatians:4:27",
+        "t": "For*p it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband."
+    },
+    {
+        "o": 30393,
+        "r": "kjv:Galatians:4:28",
+        "t": "Now*p we, brethren, as Isaac was, are the children of promise."
+    },
+    {
+        "o": 30394,
+        "r": "kjv:Galatians:4:29",
+        "t": "But*p as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now."
+    },
+    {
+        "o": 30395,
+        "r": "kjv:Galatians:4:30",
+        "t": "Nevertheless*p what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman."
+    },
+    {
+        "o": 30396,
+        "r": "kjv:Galatians:4:31",
+        "t": "So*p then, brethren, we are not children of the bondwoman, but of the free."
+    },
+    {
+        "o": 30397,
+        "r": "kjv:Galatians:5:0",
+        "t": "Galatians 5",
+        "h": 1
+    },
+    {
+        "o": 30398,
+        "r": "kjv:Galatians:5:1",
+        "t": "Stand*p fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage."
+    },
+    {
+        "o": 30399,
+        "r": "kjv:Galatians:5:2",
+        "t": "Behold,*p I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing."
+    },
+    {
+        "o": 30400,
+        "r": "kjv:Galatians:5:3",
+        "t": "For*p I testify again to every man that is circumcised, that he is a debtor to do the whole law."
+    },
+    {
+        "o": 30401,
+        "r": "kjv:Galatians:5:4",
+        "t": "Christ*p is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace."
+    },
+    {
+        "o": 30402,
+        "r": "kjv:Galatians:5:5",
+        "t": "For*p we through the Spirit wait for the hope of righteousness by faith."
+    },
+    {
+        "o": 30403,
+        "r": "kjv:Galatians:5:6",
+        "t": "For*p in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love."
+    },
+    {
+        "o": 30404,
+        "r": "kjv:Galatians:5:7",
+        "t": "Ye*p did run well; who did hinder you that ye should not obey the truth?"
+    },
+    {
+        "o": 30405,
+        "r": "kjv:Galatians:5:8",
+        "t": "This*p persuasion cometh not of him that calleth you."
+    },
+    {
+        "o": 30406,
+        "r": "kjv:Galatians:5:9",
+        "t": "A*p little leaven leaveneth the whole lump."
+    },
+    {
+        "o": 30407,
+        "r": "kjv:Galatians:5:10",
+        "t": "I*p have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be."
+    },
+    {
+        "o": 30408,
+        "r": "kjv:Galatians:5:11",
+        "t": "And*p I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased."
+    },
+    {
+        "o": 30409,
+        "r": "kjv:Galatians:5:12",
+        "t": "I*p would they were even cut off which trouble you."
+    },
+    {
+        "o": 30410,
+        "r": "kjv:Galatians:5:13",
+        "t": "For,*p brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another."
+    },
+    {
+        "o": 30411,
+        "r": "kjv:Galatians:5:14",
+        "t": "For*p all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself."
+    },
+    {
+        "o": 30412,
+        "r": "kjv:Galatians:5:15",
+        "t": "But*p if ye bite and devour one another, take heed that ye be not consumed one of another."
+    },
+    {
+        "o": 30413,
+        "r": "kjv:Galatians:5:16",
+        "t": "This*p I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh."
+    },
+    {
+        "o": 30414,
+        "r": "kjv:Galatians:5:17",
+        "t": "For*p the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would."
+    },
+    {
+        "o": 30415,
+        "r": "kjv:Galatians:5:18",
+        "t": "But*p if ye be led of the Spirit, ye are not under the law."
+    },
+    {
+        "o": 30416,
+        "r": "kjv:Galatians:5:19",
+        "t": "Now*p the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,"
+    },
+    {
+        "o": 30417,
+        "r": "kjv:Galatians:5:20",
+        "t": "Idolatry,*p witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,"
+    },
+    {
+        "o": 30418,
+        "r": "kjv:Galatians:5:21",
+        "t": "Envyings,*p murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God."
+    },
+    {
+        "o": 30419,
+        "r": "kjv:Galatians:5:22",
+        "t": "But*p the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,"
+    },
+    {
+        "o": 30420,
+        "r": "kjv:Galatians:5:23",
+        "t": "Meekness,*p temperance: against such there is no law."
+    },
+    {
+        "o": 30421,
+        "r": "kjv:Galatians:5:24",
+        "t": "And*p they that are Christ's have crucified the flesh with the affections and lusts."
+    },
+    {
+        "o": 30422,
+        "r": "kjv:Galatians:5:25",
+        "t": "If*p we live in the Spirit, let us also walk in the Spirit."
+    },
+    {
+        "o": 30423,
+        "r": "kjv:Galatians:5:26",
+        "t": "Let*p us not be desirous of vain glory, provoking one another, envying one another."
+    },
+    {
+        "o": 30424,
+        "r": "kjv:Galatians:6:0",
+        "t": "Galatians 6",
+        "h": 1
+    },
+    {
+        "o": 30425,
+        "r": "kjv:Galatians:6:1",
+        "t": "Brethren,*p if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted."
+    },
+    {
+        "o": 30426,
+        "r": "kjv:Galatians:6:2",
+        "t": "Bear*p ye one another's burdens, and so fulfil the law of Christ."
+    },
+    {
+        "o": 30427,
+        "r": "kjv:Galatians:6:3",
+        "t": "For*p if a man think himself to be something, when he is nothing, he deceiveth himself."
+    },
+    {
+        "o": 30428,
+        "r": "kjv:Galatians:6:4",
+        "t": "But*p let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another."
+    },
+    {
+        "o": 30429,
+        "r": "kjv:Galatians:6:5",
+        "t": "For*p every man shall bear his own burden."
+    },
+    {
+        "o": 30430,
+        "r": "kjv:Galatians:6:6",
+        "t": "Let*p him that is taught in the word communicate unto him that teacheth in all good things."
+    },
+    {
+        "o": 30431,
+        "r": "kjv:Galatians:6:7",
+        "t": "Be*p not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap."
+    },
+    {
+        "o": 30432,
+        "r": "kjv:Galatians:6:8",
+        "t": "For*p he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting."
+    },
+    {
+        "o": 30433,
+        "r": "kjv:Galatians:6:9",
+        "t": "And*p let us not be weary in well doing: for in due season we shall reap, if we faint not."
+    },
+    {
+        "o": 30434,
+        "r": "kjv:Galatians:6:10",
+        "t": "As*p we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith."
+    },
+    {
+        "o": 30435,
+        "r": "kjv:Galatians:6:11",
+        "t": "Ye*p see how large a letter I have written unto you with mine own hand."
+    },
+    {
+        "o": 30436,
+        "r": "kjv:Galatians:6:12",
+        "t": "As*p many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ."
+    },
+    {
+        "o": 30437,
+        "r": "kjv:Galatians:6:13",
+        "t": "For*p neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh."
+    },
+    {
+        "o": 30438,
+        "r": "kjv:Galatians:6:14",
+        "t": "But*p God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world."
+    },
+    {
+        "o": 30439,
+        "r": "kjv:Galatians:6:15",
+        "t": "For*p in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature."
+    },
+    {
+        "o": 30440,
+        "r": "kjv:Galatians:6:16",
+        "t": "And*p as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God."
+    },
+    {
+        "o": 30441,
+        "r": "kjv:Galatians:6:17",
+        "t": "From*p henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus."
+    },
+    {
+        "o": 30442,
+        "r": "kjv:Galatians:6:18",
+        "t": "Brethren,*p the grace of our Lord Jesus Christ be with your spirit. Amen."
+    }
+]

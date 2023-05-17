@@ -1,0 +1,2481 @@
+[
+    {
+        "o": 31717,
+        "r": "esv:1 Corinthians:1:0",
+        "t": "1 Corinthians 1",
+        "h": 1
+    },
+    {
+        "o": 31718,
+        "r": "esv:1 Corinthians:1:0",
+        "t": "Greeting",
+        "h": 2
+    },
+    {
+        "o": 31719,
+        "r": "esv:1 Corinthians:1:1",
+        "t": "Paul,*p called by the will of God to be an apostle of Christ Jesus, and our brother Sosthenes,"
+    },
+    {
+        "o": 31720,
+        "r": "esv:1 Corinthians:1:2",
+        "t": "To*p the church of God that is in Corinth, to those sanctified in Christ Jesus, called to be saints together with all those who in every place call upon the name of our Lord Jesus Christ, both their Lord and ours:"
+    },
+    {
+        "o": 31721,
+        "r": "esv:1 Corinthians:1:3",
+        "t": "Grace*p to you and peace from God our Father and the Lord Jesus Christ."
+    },
+    {
+        "o": 31722,
+        "r": "esv:1 Corinthians:1:3",
+        "t": "Thanksgiving",
+        "h": 2
+    },
+    {
+        "o": 31723,
+        "r": "esv:1 Corinthians:1:4",
+        "t": "I*p give thanks to my God always for you because of the grace of God that was given you in Christ Jesus,"
+    },
+    {
+        "o": 31724,
+        "r": "esv:1 Corinthians:1:5",
+        "t": "that in every way you were enriched in him in all speech and all knowledge—"
+    },
+    {
+        "o": 31725,
+        "r": "esv:1 Corinthians:1:6",
+        "t": "even as the testimony about Christ was confirmed among you—"
+    },
+    {
+        "o": 31726,
+        "r": "esv:1 Corinthians:1:7",
+        "t": "so that you are not lacking in any gift, as you wait for the revealing of our Lord Jesus Christ,"
+    },
+    {
+        "o": 31727,
+        "r": "esv:1 Corinthians:1:8",
+        "t": "who will sustain you to the end, guiltless in the day of our Lord Jesus Christ."
+    },
+    {
+        "o": 31728,
+        "r": "esv:1 Corinthians:1:9",
+        "t": "God is faithful, by whom you were called into the fellowship of his Son, Jesus Christ our Lord."
+    },
+    {
+        "o": 31729,
+        "r": "esv:1 Corinthians:1:9",
+        "t": "Divisions in the Church",
+        "h": 2
+    },
+    {
+        "o": 31730,
+        "r": "esv:1 Corinthians:1:10",
+        "t": "I*p appeal to you, brothers, by the name of our Lord Jesus Christ, that all of you agree, and that there be no divisions among you, but that you be united in the same mind and the same judgment."
+    },
+    {
+        "o": 31731,
+        "r": "esv:1 Corinthians:1:11",
+        "t": "For it has been reported to me by Chloe’s people that there is quarreling among you, my brothers."
+    },
+    {
+        "o": 31732,
+        "r": "esv:1 Corinthians:1:12",
+        "t": "What I mean is that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.”"
+    },
+    {
+        "o": 31733,
+        "r": "esv:1 Corinthians:1:13",
+        "t": "Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?"
+    },
+    {
+        "o": 31734,
+        "r": "esv:1 Corinthians:1:14",
+        "t": "I thank God that I baptized none of you except Crispus and Gaius,"
+    },
+    {
+        "o": 31735,
+        "r": "esv:1 Corinthians:1:15",
+        "t": "so that no one may say that you were baptized in my name."
+    },
+    {
+        "o": 31736,
+        "r": "esv:1 Corinthians:1:16",
+        "t": "(I did baptize also the household of Stephanas. Beyond that, I do not know whether I baptized anyone else.)"
+    },
+    {
+        "o": 31737,
+        "r": "esv:1 Corinthians:1:17",
+        "t": "For Christ did not send me to baptize but to preach the gospel, and not with words of eloquent wisdom, lest the cross of Christ be emptied of its power."
+    },
+    {
+        "o": 31738,
+        "r": "esv:1 Corinthians:1:17",
+        "t": "Christ the Wisdom and Power of God",
+        "h": 2
+    },
+    {
+        "o": 31739,
+        "r": "esv:1 Corinthians:1:18",
+        "t": "For*p the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God."
+    },
+    {
+        "o": 31740,
+        "r": "esv:1 Corinthians:1:19",
+        "t": "For it is written, “I*pn will destroy the wisdom of the wise, and*ld the discernment of the discerning I will thwart.”"
+    },
+    {
+        "o": 31741,
+        "r": "esv:1 Corinthians:1:20",
+        "t": "Where*p is the one who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world?"
+    },
+    {
+        "o": 31742,
+        "r": "esv:1 Corinthians:1:21",
+        "t": "For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe."
+    },
+    {
+        "o": 31743,
+        "r": "esv:1 Corinthians:1:22",
+        "t": "For Jews demand signs and Greeks seek wisdom,"
+    },
+    {
+        "o": 31744,
+        "r": "esv:1 Corinthians:1:23",
+        "t": "but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles,"
+    },
+    {
+        "o": 31745,
+        "r": "esv:1 Corinthians:1:24",
+        "t": "but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God."
+    },
+    {
+        "o": 31746,
+        "r": "esv:1 Corinthians:1:25",
+        "t": "For the foolishness of God is wiser than men, and the weakness of God is stronger than men."
+    },
+    {
+        "o": 31747,
+        "r": "esv:1 Corinthians:1:26",
+        "t": "For*p consider your calling, brothers: not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth."
+    },
+    {
+        "o": 31748,
+        "r": "esv:1 Corinthians:1:27",
+        "t": "But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong;"
+    },
+    {
+        "o": 31749,
+        "r": "esv:1 Corinthians:1:28",
+        "t": "God chose what is low and despised in the world, even things that are not, to bring to nothing things that are,"
+    },
+    {
+        "o": 31750,
+        "r": "esv:1 Corinthians:1:29",
+        "t": "so that no human being might boast in the presence of God."
+    },
+    {
+        "o": 31751,
+        "r": "esv:1 Corinthians:1:30",
+        "t": "And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption,"
+    },
+    {
+        "o": 31752,
+        "r": "esv:1 Corinthians:1:31",
+        "t": "so that, as it is written, “Let the one who boasts, boast in the Lord.”"
+    },
+    {
+        "o": 31753,
+        "r": "esv:1 Corinthians:2:0",
+        "t": "1 Corinthians 2",
+        "h": 1
+    },
+    {
+        "o": 31754,
+        "r": "esv:1 Corinthians:2:0",
+        "t": "Proclaiming Christ Crucified",
+        "h": 2
+    },
+    {
+        "o": 31755,
+        "r": "esv:1 Corinthians:2:1",
+        "t": "And*p I, when I came to you, brothers, did not come proclaiming to you the testimony of God with lofty speech or wisdom."
+    },
+    {
+        "o": 31756,
+        "r": "esv:1 Corinthians:2:2",
+        "t": "For I decided to know nothing among you except Jesus Christ and him crucified."
+    },
+    {
+        "o": 31757,
+        "r": "esv:1 Corinthians:2:3",
+        "t": "And I was with you in weakness and in fear and much trembling,"
+    },
+    {
+        "o": 31758,
+        "r": "esv:1 Corinthians:2:4",
+        "t": "and my speech and my message were not in plausible words of wisdom, but in demonstration of the Spirit and of power,"
+    },
+    {
+        "o": 31759,
+        "r": "esv:1 Corinthians:2:5",
+        "t": "so that your faith might not rest in the wisdom of men but in the power of God."
+    },
+    {
+        "o": 31760,
+        "r": "esv:1 Corinthians:2:5",
+        "t": "Wisdom from the Spirit",
+        "h": 2
+    },
+    {
+        "o": 31761,
+        "r": "esv:1 Corinthians:2:6",
+        "t": "Yet*p among the mature we do impart wisdom, although it is not a wisdom of this age or of the rulers of this age, who are doomed to pass away."
+    },
+    {
+        "o": 31762,
+        "r": "esv:1 Corinthians:2:7",
+        "t": "But we impart a secret and hidden wisdom of God, which God decreed before the ages for our glory."
+    },
+    {
+        "o": 31763,
+        "r": "esv:1 Corinthians:2:8",
+        "t": "None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory."
+    },
+    {
+        "o": 31764,
+        "r": "esv:1 Corinthians:2:9",
+        "t": "But, as it is written, “What*pn no eye has seen, nor ear heard, nor*ld the heart of man imagined, what*ln God has prepared for those who love him”—"
+    },
+    {
+        "o": 31765,
+        "r": "esv:1 Corinthians:2:10",
+        "t": "these*p things God has revealed to us through the Spirit. For the Spirit searches everything, even the depths of God."
+    },
+    {
+        "o": 31766,
+        "r": "esv:1 Corinthians:2:11",
+        "t": "For who knows a person’s thoughts except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God."
+    },
+    {
+        "o": 31767,
+        "r": "esv:1 Corinthians:2:12",
+        "t": "Now we have received not the spirit of the world, but the Spirit who is from God, that we might understand the things freely given us by God."
+    },
+    {
+        "o": 31768,
+        "r": "esv:1 Corinthians:2:13",
+        "t": "And we impart this in words not taught by human wisdom but taught by the Spirit, interpreting spiritual truths to those who are spiritual."
+    },
+    {
+        "o": 31769,
+        "r": "esv:1 Corinthians:2:14",
+        "t": "The*p natural person does not accept the things of the Spirit of God, for they are folly to him, and he is not able to understand them because they are spiritually discerned."
+    },
+    {
+        "o": 31770,
+        "r": "esv:1 Corinthians:2:15",
+        "t": "The spiritual person judges all things, but is himself to be judged by no one."
+    },
+    {
+        "o": 31771,
+        "r": "esv:1 Corinthians:2:16",
+        "t": "“For who has understood the mind of the Lord so as to instruct him?” But we have the mind of Christ."
+    },
+    {
+        "o": 31772,
+        "r": "esv:1 Corinthians:3:0",
+        "t": "1 Corinthians 3",
+        "h": 1
+    },
+    {
+        "o": 31773,
+        "r": "esv:1 Corinthians:3:0",
+        "t": "Divisions in the Church",
+        "h": 2
+    },
+    {
+        "o": 31774,
+        "r": "esv:1 Corinthians:3:1",
+        "t": "But*p I, brothers, could not address you as spiritual people, but as people of the flesh, as infants in Christ."
+    },
+    {
+        "o": 31775,
+        "r": "esv:1 Corinthians:3:2",
+        "t": "I fed you with milk, not solid food, for you were not ready for it. And even now you are not yet ready,"
+    },
+    {
+        "o": 31776,
+        "r": "esv:1 Corinthians:3:3",
+        "t": "for you are still of the flesh. For while there is jealousy and strife among you, are you not of the flesh and behaving only in a human way?"
+    },
+    {
+        "o": 31777,
+        "r": "esv:1 Corinthians:3:4",
+        "t": "For when one says, “I follow Paul,” and another, “I follow Apollos,” are you not being merely human?"
+    },
+    {
+        "o": 31778,
+        "r": "esv:1 Corinthians:3:5",
+        "t": "What*p then is Apollos? What is Paul? Servants through whom you believed, as the Lord assigned to each."
+    },
+    {
+        "o": 31779,
+        "r": "esv:1 Corinthians:3:6",
+        "t": "I planted, Apollos watered, but God gave the growth."
+    },
+    {
+        "o": 31780,
+        "r": "esv:1 Corinthians:3:7",
+        "t": "So neither he who plants nor he who waters is anything, but only God who gives the growth."
+    },
+    {
+        "o": 31781,
+        "r": "esv:1 Corinthians:3:8",
+        "t": "He who plants and he who waters are one, and each will receive his wages according to his labor."
+    },
+    {
+        "o": 31782,
+        "r": "esv:1 Corinthians:3:9",
+        "t": "For we are God’s fellow workers. You are God’s field, God’s building."
+    },
+    {
+        "o": 31783,
+        "r": "esv:1 Corinthians:3:10",
+        "t": "According*p to the grace of God given to me, like a skilled master builder I laid a foundation, and someone else is building upon it. Let each one take care how he builds upon it."
+    },
+    {
+        "o": 31784,
+        "r": "esv:1 Corinthians:3:11",
+        "t": "For no one can lay a foundation other than that which is laid, which is Jesus Christ."
+    },
+    {
+        "o": 31785,
+        "r": "esv:1 Corinthians:3:12",
+        "t": "Now if anyone builds on the foundation with gold, silver, precious stones, wood, hay, straw—"
+    },
+    {
+        "o": 31786,
+        "r": "esv:1 Corinthians:3:13",
+        "t": "each one’s work will become manifest, for the Day will disclose it, because it will be revealed by fire, and the fire will test what sort of work each one has done."
+    },
+    {
+        "o": 31787,
+        "r": "esv:1 Corinthians:3:14",
+        "t": "If the work that anyone has built on the foundation survives, he will receive a reward."
+    },
+    {
+        "o": 31788,
+        "r": "esv:1 Corinthians:3:15",
+        "t": "If anyone’s work is burned up, he will suffer loss, though he himself will be saved, but only as through fire."
+    },
+    {
+        "o": 31789,
+        "r": "esv:1 Corinthians:3:16",
+        "t": "Do*p you not know that you are God’s temple and that God’s Spirit dwells in you?"
+    },
+    {
+        "o": 31790,
+        "r": "esv:1 Corinthians:3:17",
+        "t": "If anyone destroys God’s temple, God will destroy him. For God’s temple is holy, and you are that temple."
+    },
+    {
+        "o": 31791,
+        "r": "esv:1 Corinthians:3:18",
+        "t": "Let*p no one deceive himself. If anyone among you thinks that he is wise in this age, let him become a fool that he may become wise."
+    },
+    {
+        "o": 31792,
+        "r": "esv:1 Corinthians:3:19",
+        "t": "For the wisdom of this world is folly with God. For it is written, “He catches the wise in their craftiness,”"
+    },
+    {
+        "o": 31793,
+        "r": "esv:1 Corinthians:3:20",
+        "t": "and again, “The Lord knows the thoughts of the wise, that they are futile.”"
+    },
+    {
+        "o": 31794,
+        "r": "esv:1 Corinthians:3:21",
+        "t": "So let no one boast in men. For all things are yours,"
+    },
+    {
+        "o": 31795,
+        "r": "esv:1 Corinthians:3:22",
+        "t": "whether Paul or Apollos or Cephas or the world or life or death or the present or the future— all are yours,"
+    },
+    {
+        "o": 31796,
+        "r": "esv:1 Corinthians:3:23",
+        "t": "and you are Christ’s, and Christ is God’s."
+    },
+    {
+        "o": 31797,
+        "r": "esv:1 Corinthians:4:0",
+        "t": "1 Corinthians 4",
+        "h": 1
+    },
+    {
+        "o": 31798,
+        "r": "esv:1 Corinthians:4:0",
+        "t": "The Ministry of Apostles",
+        "h": 2
+    },
+    {
+        "o": 31799,
+        "r": "esv:1 Corinthians:4:1",
+        "t": "This*p is how one should regard us, as servants of Christ and stewards of the mysteries of God."
+    },
+    {
+        "o": 31800,
+        "r": "esv:1 Corinthians:4:2",
+        "t": "Moreover, it is required of stewards that they be found faithful."
+    },
+    {
+        "o": 31801,
+        "r": "esv:1 Corinthians:4:3",
+        "t": "But with me it is a very small thing that I should be judged by you or by any human court. In fact, I do not even judge myself."
+    },
+    {
+        "o": 31802,
+        "r": "esv:1 Corinthians:4:4",
+        "t": "For I am not aware of anything against myself, but I am not thereby acquitted. It is the Lord who judges me."
+    },
+    {
+        "o": 31803,
+        "r": "esv:1 Corinthians:4:5",
+        "t": "Therefore do not pronounce judgment before the time, before the Lord comes, who will bring to light the things now hidden in darkness and will disclose the purposes of the heart. Then each one will receive his commendation from God."
+    },
+    {
+        "o": 31804,
+        "r": "esv:1 Corinthians:4:6",
+        "t": "I*p have applied all these things to myself and Apollos for your benefit, brothers, that you may learn by us not to go beyond what is written, that none of you may be puffed up in favor of one against another."
+    },
+    {
+        "o": 31805,
+        "r": "esv:1 Corinthians:4:7",
+        "t": "For who sees anything different in you? What do you have that you did not receive? If then you received it, why do you boast as if you did not receive it?"
+    },
+    {
+        "o": 31806,
+        "r": "esv:1 Corinthians:4:8",
+        "t": "Already*p you have all you want! Already you have become rich! Without us you have become kings! And would that you did reign, so that we might share the rule with you!"
+    },
+    {
+        "o": 31807,
+        "r": "esv:1 Corinthians:4:9",
+        "t": "For I think that God has exhibited us apostles as last of all, like men sentenced to death, because we have become a spectacle to the world, to angels, and to men."
+    },
+    {
+        "o": 31808,
+        "r": "esv:1 Corinthians:4:10",
+        "t": "We are fools for Christ’s sake, but you are wise in Christ. We are weak, but you are strong. You are held in honor, but we in disrepute."
+    },
+    {
+        "o": 31809,
+        "r": "esv:1 Corinthians:4:11",
+        "t": "To the present hour we hunger and thirst, we are poorly dressed and buffeted and homeless,"
+    },
+    {
+        "o": 31810,
+        "r": "esv:1 Corinthians:4:12",
+        "t": "and we labor, working with our own hands. When reviled, we bless; when persecuted, we endure;"
+    },
+    {
+        "o": 31811,
+        "r": "esv:1 Corinthians:4:13",
+        "t": "when slandered, we entreat. We have become, and are still, like the scum of the world, the refuse of all things."
+    },
+    {
+        "o": 31812,
+        "r": "esv:1 Corinthians:4:14",
+        "t": "I*p do not write these things to make you ashamed, but to admonish you as my beloved children."
+    },
+    {
+        "o": 31813,
+        "r": "esv:1 Corinthians:4:15",
+        "t": "For though you have countless guides in Christ, you do not have many fathers. For I became your father in Christ Jesus through the gospel."
+    },
+    {
+        "o": 31814,
+        "r": "esv:1 Corinthians:4:16",
+        "t": "I urge you, then, be imitators of me."
+    },
+    {
+        "o": 31815,
+        "r": "esv:1 Corinthians:4:17",
+        "t": "That is why I sent you Timothy, my beloved and faithful child in the Lord, to remind you of my ways in Christ, as I teach them everywhere in every church."
+    },
+    {
+        "o": 31816,
+        "r": "esv:1 Corinthians:4:18",
+        "t": "Some are arrogant, as though I were not coming to you."
+    },
+    {
+        "o": 31817,
+        "r": "esv:1 Corinthians:4:19",
+        "t": "But I will come to you soon, if the Lord wills, and I will find out not the talk of these arrogant people but their power."
+    },
+    {
+        "o": 31818,
+        "r": "esv:1 Corinthians:4:20",
+        "t": "For the kingdom of God does not consist in talk but in power."
+    },
+    {
+        "o": 31819,
+        "r": "esv:1 Corinthians:4:21",
+        "t": "What do you wish? Shall I come to you with a rod, or with love in a spirit of gentleness?"
+    },
+    {
+        "o": 31820,
+        "r": "esv:1 Corinthians:5:0",
+        "t": "1 Corinthians 5",
+        "h": 1
+    },
+    {
+        "o": 31821,
+        "r": "esv:1 Corinthians:5:0",
+        "t": "Sexual Immorality Defiles the Church",
+        "h": 2
+    },
+    {
+        "o": 31822,
+        "r": "esv:1 Corinthians:5:1",
+        "t": "It*p is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans, for a man has his father’s wife."
+    },
+    {
+        "o": 31823,
+        "r": "esv:1 Corinthians:5:2",
+        "t": "And you are arrogant! Ought you not rather to mourn? Let him who has done this be removed from among you."
+    },
+    {
+        "o": 31824,
+        "r": "esv:1 Corinthians:5:3",
+        "t": "For*p though absent in body, I am present in spirit; and as if present, I have already pronounced judgment on the one who did such a thing."
+    },
+    {
+        "o": 31825,
+        "r": "esv:1 Corinthians:5:4",
+        "t": "When you are assembled in the name of the Lord Jesus and my spirit is present, with the power of our Lord Jesus,"
+    },
+    {
+        "o": 31826,
+        "r": "esv:1 Corinthians:5:5",
+        "t": "you are to deliver this man to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord."
+    },
+    {
+        "o": 31827,
+        "r": "esv:1 Corinthians:5:6",
+        "t": "Your*p boasting is not good. Do you not know that a little leaven leavens the whole lump?"
+    },
+    {
+        "o": 31828,
+        "r": "esv:1 Corinthians:5:7",
+        "t": "Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed."
+    },
+    {
+        "o": 31829,
+        "r": "esv:1 Corinthians:5:8",
+        "t": "Let us therefore celebrate the festival, not with the old leaven, the leaven of malice and evil, but with the unleavened bread of sincerity and truth."
+    },
+    {
+        "o": 31830,
+        "r": "esv:1 Corinthians:5:9",
+        "t": "I*p wrote to you in my letter not to associate with sexually immoral people—"
+    },
+    {
+        "o": 31831,
+        "r": "esv:1 Corinthians:5:10",
+        "t": "not at all meaning the sexually immoral of this world, or the greedy and swindlers, or idolaters, since then you would need to go out of the world."
+    },
+    {
+        "o": 31832,
+        "r": "esv:1 Corinthians:5:11",
+        "t": "But now I am writing to you not to associate with anyone who bears the name of brother if he is guilty of sexual immorality or greed, or is an idolater, reviler, drunkard, or swindler— not even to eat with such a one."
+    },
+    {
+        "o": 31833,
+        "r": "esv:1 Corinthians:5:12",
+        "t": "For what have I to do with judging outsiders? Is it not those inside the church whom you are to judge?"
+    },
+    {
+        "o": 31834,
+        "r": "esv:1 Corinthians:5:13",
+        "t": "God judges those outside. “Purge the evil person from among you.”"
+    },
+    {
+        "o": 31835,
+        "r": "esv:1 Corinthians:6:0",
+        "t": "1 Corinthians 6",
+        "h": 1
+    },
+    {
+        "o": 31836,
+        "r": "esv:1 Corinthians:6:0",
+        "t": "Lawsuits Against Believers",
+        "h": 2
+    },
+    {
+        "o": 31837,
+        "r": "esv:1 Corinthians:6:1",
+        "t": "When*p one of you has a grievance against another, does he dare go to law before the unrighteous instead of the saints?"
+    },
+    {
+        "o": 31838,
+        "r": "esv:1 Corinthians:6:2",
+        "t": "Or do you not know that the saints will judge the world? And if the world is to be judged by you, are you incompetent to try trivial cases?"
+    },
+    {
+        "o": 31839,
+        "r": "esv:1 Corinthians:6:3",
+        "t": "Do you not know that we are to judge angels? How much more, then, matters pertaining to this life!"
+    },
+    {
+        "o": 31840,
+        "r": "esv:1 Corinthians:6:4",
+        "t": "So if you have such cases, why do you lay them before those who have no standing in the church?"
+    },
+    {
+        "o": 31841,
+        "r": "esv:1 Corinthians:6:5",
+        "t": "I say this to your shame. Can it be that there is no one among you wise enough to settle a dispute between the brothers,"
+    },
+    {
+        "o": 31842,
+        "r": "esv:1 Corinthians:6:6",
+        "t": "but brother goes to law against brother, and that before unbelievers?"
+    },
+    {
+        "o": 31843,
+        "r": "esv:1 Corinthians:6:7",
+        "t": "To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded?"
+    },
+    {
+        "o": 31844,
+        "r": "esv:1 Corinthians:6:8",
+        "t": "But you yourselves wrong and defraud— even your own brothers!"
+    },
+    {
+        "o": 31845,
+        "r": "esv:1 Corinthians:6:9",
+        "t": "Or*p do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality,"
+    },
+    {
+        "o": 31846,
+        "r": "esv:1 Corinthians:6:10",
+        "t": "nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God."
+    },
+    {
+        "o": 31847,
+        "r": "esv:1 Corinthians:6:11",
+        "t": "And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God."
+    },
+    {
+        "o": 31848,
+        "r": "esv:1 Corinthians:6:11",
+        "t": "Flee Sexual Immorality",
+        "h": 2
+    },
+    {
+        "o": 31849,
+        "r": "esv:1 Corinthians:6:12",
+        "t": "“All*p things are lawful for me,” but not all things are helpful. “All things are lawful for me,” but I will not be dominated by anything."
+    },
+    {
+        "o": 31850,
+        "r": "esv:1 Corinthians:6:13",
+        "t": "“Food is meant for the stomach and the stomach for food”— and God will destroy both one and the other. The body is not meant for sexual immorality, but for the Lord, and the Lord for the body."
+    },
+    {
+        "o": 31851,
+        "r": "esv:1 Corinthians:6:14",
+        "t": "And God raised the Lord and will also raise us up by his power."
+    },
+    {
+        "o": 31852,
+        "r": "esv:1 Corinthians:6:15",
+        "t": "Do you not know that your bodies are members of Christ? Shall I then take the members of Christ and make them members of a prostitute? Never!"
+    },
+    {
+        "o": 31853,
+        "r": "esv:1 Corinthians:6:16",
+        "t": "Or do you not know that he who is joined to a prostitute becomes one body with her? For, as it is written, “The two will become one flesh.”"
+    },
+    {
+        "o": 31854,
+        "r": "esv:1 Corinthians:6:17",
+        "t": "But he who is joined to the Lord becomes one spirit with him."
+    },
+    {
+        "o": 31855,
+        "r": "esv:1 Corinthians:6:18",
+        "t": "Flee from sexual immorality. Every other sin a person commits is outside the body, but the sexually immoral person sins against his own body."
+    },
+    {
+        "o": 31856,
+        "r": "esv:1 Corinthians:6:19",
+        "t": "Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own,"
+    },
+    {
+        "o": 31857,
+        "r": "esv:1 Corinthians:6:20",
+        "t": "for you were bought with a price. So glorify God in your body."
+    },
+    {
+        "o": 31858,
+        "r": "esv:1 Corinthians:7:0",
+        "t": "1 Corinthians 7",
+        "h": 1
+    },
+    {
+        "o": 31859,
+        "r": "esv:1 Corinthians:7:0",
+        "t": "Principles for Marriage",
+        "h": 2
+    },
+    {
+        "o": 31860,
+        "r": "esv:1 Corinthians:7:1",
+        "t": "Now*p concerning the matters about which you wrote: “It is good for a man not to have sexual relations with a woman.”"
+    },
+    {
+        "o": 31861,
+        "r": "esv:1 Corinthians:7:2",
+        "t": "But because of the temptation to sexual immorality, each man should have his own wife and each woman her own husband."
+    },
+    {
+        "o": 31862,
+        "r": "esv:1 Corinthians:7:3",
+        "t": "The husband should give to his wife her conjugal rights, and likewise the wife to her husband."
+    },
+    {
+        "o": 31863,
+        "r": "esv:1 Corinthians:7:4",
+        "t": "For the wife does not have authority over her own body, but the husband does. Likewise the husband does not have authority over his own body, but the wife does."
+    },
+    {
+        "o": 31864,
+        "r": "esv:1 Corinthians:7:5",
+        "t": "Do not deprive one another, except perhaps by agreement for a limited time, that you may devote yourselves to prayer; but then come together again, so that Satan may not tempt you because of your lack of self-control."
+    },
+    {
+        "o": 31865,
+        "r": "esv:1 Corinthians:7:6",
+        "t": "Now*p as a concession, not a command, I say this."
+    },
+    {
+        "o": 31866,
+        "r": "esv:1 Corinthians:7:7",
+        "t": "I wish that all were as I myself am. But each has his own gift from God, one of one kind and one of another."
+    },
+    {
+        "o": 31867,
+        "r": "esv:1 Corinthians:7:8",
+        "t": "To*p the unmarried and the widows I say that it is good for them to remain single, as I am."
+    },
+    {
+        "o": 31868,
+        "r": "esv:1 Corinthians:7:9",
+        "t": "But if they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion."
+    },
+    {
+        "o": 31869,
+        "r": "esv:1 Corinthians:7:10",
+        "t": "To*p the married I give this charge (not I, but the Lord): the wife should not separate from her husband"
+    },
+    {
+        "o": 31870,
+        "r": "esv:1 Corinthians:7:11",
+        "t": "(but if she does, she should remain unmarried or else be reconciled to her husband), and the husband should not divorce his wife."
+    },
+    {
+        "o": 31871,
+        "r": "esv:1 Corinthians:7:12",
+        "t": "To*p the rest I say (I, not the Lord) that if any brother has a wife who is an unbeliever, and she consents to live with him, he should not divorce her."
+    },
+    {
+        "o": 31872,
+        "r": "esv:1 Corinthians:7:13",
+        "t": "If any woman has a husband who is an unbeliever, and he consents to live with her, she should not divorce him."
+    },
+    {
+        "o": 31873,
+        "r": "esv:1 Corinthians:7:14",
+        "t": "For the unbelieving husband is made holy because of his wife, and the unbelieving wife is made holy because of her husband. Otherwise your children would be unclean, but as it is, they are holy."
+    },
+    {
+        "o": 31874,
+        "r": "esv:1 Corinthians:7:15",
+        "t": "But if the unbelieving partner separates, let it be so. In such cases the brother or sister is not enslaved. God has called you to peace."
+    },
+    {
+        "o": 31875,
+        "r": "esv:1 Corinthians:7:16",
+        "t": "For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?"
+    },
+    {
+        "o": 31876,
+        "r": "esv:1 Corinthians:7:16",
+        "t": "Live as You Are Called",
+        "h": 2
+    },
+    {
+        "o": 31877,
+        "r": "esv:1 Corinthians:7:17",
+        "t": "Only*p let each person lead the life that the Lord has assigned to him, and to which God has called him. This is my rule in all the churches."
+    },
+    {
+        "o": 31878,
+        "r": "esv:1 Corinthians:7:18",
+        "t": "Was anyone at the time of his call already circumcised? Let him not seek to remove the marks of circumcision. Was anyone at the time of his call uncircumcised? Let him not seek circumcision."
+    },
+    {
+        "o": 31879,
+        "r": "esv:1 Corinthians:7:19",
+        "t": "For neither circumcision counts for anything nor uncircumcision, but keeping the commandments of God."
+    },
+    {
+        "o": 31880,
+        "r": "esv:1 Corinthians:7:20",
+        "t": "Each one should remain in the condition in which he was called."
+    },
+    {
+        "o": 31881,
+        "r": "esv:1 Corinthians:7:21",
+        "t": "Were you a bondservant when called? Do not be concerned about it. (But if you can gain your freedom, avail yourself of the opportunity.)"
+    },
+    {
+        "o": 31882,
+        "r": "esv:1 Corinthians:7:22",
+        "t": "For he who was called in the Lord as a bondservant is a freedman of the Lord. Likewise he who was free when called is a bondservant of Christ."
+    },
+    {
+        "o": 31883,
+        "r": "esv:1 Corinthians:7:23",
+        "t": "You were bought with a price; do not become bondservants of men."
+    },
+    {
+        "o": 31884,
+        "r": "esv:1 Corinthians:7:24",
+        "t": "So, brothers, in whatever condition each was called, there let him remain with God."
+    },
+    {
+        "o": 31885,
+        "r": "esv:1 Corinthians:7:24",
+        "t": "The Unmarried and the Widowed",
+        "h": 2
+    },
+    {
+        "o": 31886,
+        "r": "esv:1 Corinthians:7:25",
+        "t": "Now*p concerning the betrothed, I have no command from the Lord, but I give my judgment as one who by the Lord’s mercy is trustworthy."
+    },
+    {
+        "o": 31887,
+        "r": "esv:1 Corinthians:7:26",
+        "t": "I think that in view of the present distress it is good for a person to remain as he is."
+    },
+    {
+        "o": 31888,
+        "r": "esv:1 Corinthians:7:27",
+        "t": "Are you bound to a wife? Do not seek to be free. Are you free from a wife? Do not seek a wife."
+    },
+    {
+        "o": 31889,
+        "r": "esv:1 Corinthians:7:28",
+        "t": "But if you do marry, you have not sinned, and if a betrothed woman marries, she has not sinned. Yet those who marry will have worldly troubles, and I would spare you that."
+    },
+    {
+        "o": 31890,
+        "r": "esv:1 Corinthians:7:29",
+        "t": "This is what I mean, brothers: the appointed time has grown very short. From now on, let those who have wives live as though they had none,"
+    },
+    {
+        "o": 31891,
+        "r": "esv:1 Corinthians:7:30",
+        "t": "and those who mourn as though they were not mourning, and those who rejoice as though they were not rejoicing, and those who buy as though they had no goods,"
+    },
+    {
+        "o": 31892,
+        "r": "esv:1 Corinthians:7:31",
+        "t": "and those who deal with the world as though they had no dealings with it. For the present form of this world is passing away."
+    },
+    {
+        "o": 31893,
+        "r": "esv:1 Corinthians:7:32",
+        "t": "I*p want you to be free from anxieties. The unmarried man is anxious about the things of the Lord, how to please the Lord."
+    },
+    {
+        "o": 31894,
+        "r": "esv:1 Corinthians:7:33",
+        "t": "But the married man is anxious about worldly things, how to please his wife,"
+    },
+    {
+        "o": 31895,
+        "r": "esv:1 Corinthians:7:34",
+        "t": "and his interests are divided. And the unmarried or betrothed woman is anxious about the things of the Lord, how to be holy in body and spirit. But the married woman is anxious about worldly things, how to please her husband."
+    },
+    {
+        "o": 31896,
+        "r": "esv:1 Corinthians:7:35",
+        "t": "I say this for your own benefit, not to lay any restraint upon you, but to promote good order and to secure your undivided devotion to the Lord."
+    },
+    {
+        "o": 31897,
+        "r": "esv:1 Corinthians:7:36",
+        "t": "If*p anyone thinks that he is not behaving properly toward his betrothed, if his passions are strong, and it has to be, let him do as he wishes: let them marry— it is no sin."
+    },
+    {
+        "o": 31898,
+        "r": "esv:1 Corinthians:7:37",
+        "t": "But whoever is firmly established in his heart, being under no necessity but having his desire under control, and has determined this in his heart, to keep her as his betrothed, he will do well."
+    },
+    {
+        "o": 31899,
+        "r": "esv:1 Corinthians:7:38",
+        "t": "So then he who marries his betrothed does well, and he who refrains from marriage will do even better."
+    },
+    {
+        "o": 31900,
+        "r": "esv:1 Corinthians:7:39",
+        "t": "A*p wife is bound to her husband as long as he lives. But if her husband dies, she is free to be married to whom she wishes, only in the Lord."
+    },
+    {
+        "o": 31901,
+        "r": "esv:1 Corinthians:7:40",
+        "t": "Yet in my judgment she is happier if she remains as she is. And I think that I too have the Spirit of God."
+    },
+    {
+        "o": 31902,
+        "r": "esv:1 Corinthians:8:0",
+        "t": "1 Corinthians 8",
+        "h": 1
+    },
+    {
+        "o": 31903,
+        "r": "esv:1 Corinthians:8:0",
+        "t": "Food Offered to Idols",
+        "h": 2
+    },
+    {
+        "o": 31904,
+        "r": "esv:1 Corinthians:8:1",
+        "t": "Now*p concerning food offered to idols: we know that “all of us possess knowledge.” This “knowledge” puffs up, but love builds up."
+    },
+    {
+        "o": 31905,
+        "r": "esv:1 Corinthians:8:2",
+        "t": "If anyone imagines that he knows something, he does not yet know as he ought to know."
+    },
+    {
+        "o": 31906,
+        "r": "esv:1 Corinthians:8:3",
+        "t": "But if anyone loves God, he is known by God."
+    },
+    {
+        "o": 31907,
+        "r": "esv:1 Corinthians:8:4",
+        "t": "Therefore,*p as to the eating of food offered to idols, we know that “an idol has no real existence,” and that “there is no God but one.”"
+    },
+    {
+        "o": 31908,
+        "r": "esv:1 Corinthians:8:5",
+        "t": "For although there may be so-called gods in heaven or on earth— as indeed there are many “gods” and many “lords”—"
+    },
+    {
+        "o": 31909,
+        "r": "esv:1 Corinthians:8:6",
+        "t": "yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist."
+    },
+    {
+        "o": 31910,
+        "r": "esv:1 Corinthians:8:7",
+        "t": "However,*p not all possess this knowledge. But some, through former association with idols, eat food as really offered to an idol, and their conscience, being weak, is defiled."
+    },
+    {
+        "o": 31911,
+        "r": "esv:1 Corinthians:8:8",
+        "t": "Food will not commend us to God. We are no worse off if we do not eat, and no better off if we do."
+    },
+    {
+        "o": 31912,
+        "r": "esv:1 Corinthians:8:9",
+        "t": "But take care that this right of yours does not somehow become a stumbling block to the weak."
+    },
+    {
+        "o": 31913,
+        "r": "esv:1 Corinthians:8:10",
+        "t": "For if anyone sees you who have knowledge eating in an idol’s temple, will he not be encouraged, if his conscience is weak, to eat food offered to idols?"
+    },
+    {
+        "o": 31914,
+        "r": "esv:1 Corinthians:8:11",
+        "t": "And so by your knowledge this weak person is destroyed, the brother for whom Christ died."
+    },
+    {
+        "o": 31915,
+        "r": "esv:1 Corinthians:8:12",
+        "t": "Thus, sinning against your brothers and wounding their conscience when it is weak, you sin against Christ."
+    },
+    {
+        "o": 31916,
+        "r": "esv:1 Corinthians:8:13",
+        "t": "Therefore, if food makes my brother stumble, I will never eat meat, lest I make my brother stumble."
+    },
+    {
+        "o": 31917,
+        "r": "esv:1 Corinthians:9:0",
+        "t": "1 Corinthians 9",
+        "h": 1
+    },
+    {
+        "o": 31918,
+        "r": "esv:1 Corinthians:9:0",
+        "t": "Paul Surrenders His Rights",
+        "h": 2
+    },
+    {
+        "o": 31919,
+        "r": "esv:1 Corinthians:9:1",
+        "t": "Am*p I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are not you my workmanship in the Lord?"
+    },
+    {
+        "o": 31920,
+        "r": "esv:1 Corinthians:9:2",
+        "t": "If to others I am not an apostle, at least I am to you, for you are the seal of my apostleship in the Lord."
+    },
+    {
+        "o": 31921,
+        "r": "esv:1 Corinthians:9:3",
+        "t": "This*p is my defense to those who would examine me."
+    },
+    {
+        "o": 31922,
+        "r": "esv:1 Corinthians:9:4",
+        "t": "Do we not have the right to eat and drink?"
+    },
+    {
+        "o": 31923,
+        "r": "esv:1 Corinthians:9:5",
+        "t": "Do we not have the right to take along a believing wife, as do the other apostles and the brothers of the Lord and Cephas?"
+    },
+    {
+        "o": 31924,
+        "r": "esv:1 Corinthians:9:6",
+        "t": "Or is it only Barnabas and I who have no right to refrain from working for a living?"
+    },
+    {
+        "o": 31925,
+        "r": "esv:1 Corinthians:9:7",
+        "t": "Who serves as a soldier at his own expense? Who plants a vineyard without eating any of its fruit? Or who tends a flock without getting some of the milk?"
+    },
+    {
+        "o": 31926,
+        "r": "esv:1 Corinthians:9:8",
+        "t": "Do*p I say these things on human authority? Does not the Law say the same?"
+    },
+    {
+        "o": 31927,
+        "r": "esv:1 Corinthians:9:9",
+        "t": "For it is written in the Law of Moses, “You shall not muzzle an ox when it treads out the grain.” Is it for oxen that God is concerned?"
+    },
+    {
+        "o": 31928,
+        "r": "esv:1 Corinthians:9:10",
+        "t": "Does he not certainly speak for our sake? It was written for our sake, because the plowman should plow in hope and the thresher thresh in hope of sharing in the crop."
+    },
+    {
+        "o": 31929,
+        "r": "esv:1 Corinthians:9:11",
+        "t": "If we have sown spiritual things among you, is it too much if we reap material things from you?"
+    },
+    {
+        "o": 31930,
+        "r": "esv:1 Corinthians:9:12",
+        "t": "If others share this rightful claim on you, do not we even more? Nevertheless,*p we have not made use of this right, but we endure anything rather than put an obstacle in the way of the gospel of Christ."
+    },
+    {
+        "o": 31931,
+        "r": "esv:1 Corinthians:9:13",
+        "t": "Do you not know that those who are employed in the temple service get their food from the temple, and those who serve at the altar share in the sacrificial offerings?"
+    },
+    {
+        "o": 31932,
+        "r": "esv:1 Corinthians:9:14",
+        "t": "In the same way, the Lord commanded that those who proclaim the gospel should get their living by the gospel."
+    },
+    {
+        "o": 31933,
+        "r": "esv:1 Corinthians:9:15",
+        "t": "But*p I have made no use of any of these rights, nor am I writing these things to secure any such provision. For I would rather die than have anyone deprive me of my ground for boasting."
+    },
+    {
+        "o": 31934,
+        "r": "esv:1 Corinthians:9:16",
+        "t": "For if I preach the gospel, that gives me no ground for boasting. For necessity is laid upon me. Woe to me if I do not preach the gospel!"
+    },
+    {
+        "o": 31935,
+        "r": "esv:1 Corinthians:9:17",
+        "t": "For if I do this of my own will, I have a reward, but if not of my own will, I am still entrusted with a stewardship."
+    },
+    {
+        "o": 31936,
+        "r": "esv:1 Corinthians:9:18",
+        "t": "What then is my reward? That in my preaching I may present the gospel free of charge, so as not to make full use of my right in the gospel."
+    },
+    {
+        "o": 31937,
+        "r": "esv:1 Corinthians:9:19",
+        "t": "For*p though I am free from all, I have made myself a servant to all, that I might win more of them."
+    },
+    {
+        "o": 31938,
+        "r": "esv:1 Corinthians:9:20",
+        "t": "To the Jews I became as a Jew, in order to win Jews. To those under the law I became as one under the law (though not being myself under the law) that I might win those under the law."
+    },
+    {
+        "o": 31939,
+        "r": "esv:1 Corinthians:9:21",
+        "t": "To those outside the law I became as one outside the law (not being outside the law of God but under the law of Christ) that I might win those outside the law."
+    },
+    {
+        "o": 31940,
+        "r": "esv:1 Corinthians:9:22",
+        "t": "To the weak I became weak, that I might win the weak. I have become all things to all people, that by all means I might save some."
+    },
+    {
+        "o": 31941,
+        "r": "esv:1 Corinthians:9:23",
+        "t": "I do it all for the sake of the gospel, that I may share with them in its blessings."
+    },
+    {
+        "o": 31942,
+        "r": "esv:1 Corinthians:9:24",
+        "t": "Do*p you not know that in a race all the runners run, but only one receives the prize? So run that you may obtain it."
+    },
+    {
+        "o": 31943,
+        "r": "esv:1 Corinthians:9:25",
+        "t": "Every athlete exercises self-control in all things. They do it to receive a perishable wreath, but we an imperishable."
+    },
+    {
+        "o": 31944,
+        "r": "esv:1 Corinthians:9:26",
+        "t": "So I do not run aimlessly; I do not box as one beating the air."
+    },
+    {
+        "o": 31945,
+        "r": "esv:1 Corinthians:9:27",
+        "t": "But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified."
+    },
+    {
+        "o": 31946,
+        "r": "esv:1 Corinthians:10:0",
+        "t": "1 Corinthians 10",
+        "h": 1
+    },
+    {
+        "o": 31947,
+        "r": "esv:1 Corinthians:10:0",
+        "t": "Warning Against Idolatry",
+        "h": 2
+    },
+    {
+        "o": 31948,
+        "r": "esv:1 Corinthians:10:1",
+        "t": "For*p I do not want you to be unaware, brothers, that our fathers were all under the cloud, and all passed through the sea,"
+    },
+    {
+        "o": 31949,
+        "r": "esv:1 Corinthians:10:2",
+        "t": "and all were baptized into Moses in the cloud and in the sea,"
+    },
+    {
+        "o": 31950,
+        "r": "esv:1 Corinthians:10:3",
+        "t": "and all ate the same spiritual food,"
+    },
+    {
+        "o": 31951,
+        "r": "esv:1 Corinthians:10:4",
+        "t": "and all drank the same spiritual drink. For they drank from the spiritual Rock that followed them, and the Rock was Christ."
+    },
+    {
+        "o": 31952,
+        "r": "esv:1 Corinthians:10:5",
+        "t": "Nevertheless, with most of them God was not pleased, for they were overthrown in the wilderness."
+    },
+    {
+        "o": 31953,
+        "r": "esv:1 Corinthians:10:6",
+        "t": "Now*p these things took place as examples for us, that we might not desire evil as they did."
+    },
+    {
+        "o": 31954,
+        "r": "esv:1 Corinthians:10:7",
+        "t": "Do not be idolaters as some of them were; as it is written, “The people sat down to eat and drink and rose up to play.”"
+    },
+    {
+        "o": 31955,
+        "r": "esv:1 Corinthians:10:8",
+        "t": "We must not indulge in sexual immorality as some of them did, and twenty-three thousand fell in a single day."
+    },
+    {
+        "o": 31956,
+        "r": "esv:1 Corinthians:10:9",
+        "t": "We must not put Christ to the test, as some of them did and were destroyed by serpents,"
+    },
+    {
+        "o": 31957,
+        "r": "esv:1 Corinthians:10:10",
+        "t": "nor grumble, as some of them did and were destroyed by the Destroyer."
+    },
+    {
+        "o": 31958,
+        "r": "esv:1 Corinthians:10:11",
+        "t": "Now these things happened to them as an example, but they were written down for our instruction, on whom the end of the ages has come."
+    },
+    {
+        "o": 31959,
+        "r": "esv:1 Corinthians:10:12",
+        "t": "Therefore let anyone who thinks that he stands take heed lest he fall."
+    },
+    {
+        "o": 31960,
+        "r": "esv:1 Corinthians:10:13",
+        "t": "No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape, that you may be able to endure it."
+    },
+    {
+        "o": 31961,
+        "r": "esv:1 Corinthians:10:14",
+        "t": "Therefore,*p my beloved, flee from idolatry."
+    },
+    {
+        "o": 31962,
+        "r": "esv:1 Corinthians:10:15",
+        "t": "I speak as to sensible people; judge for yourselves what I say."
+    },
+    {
+        "o": 31963,
+        "r": "esv:1 Corinthians:10:16",
+        "t": "The cup of blessing that we bless, is it not a participation in the blood of Christ? The bread that we break, is it not a participation in the body of Christ?"
+    },
+    {
+        "o": 31964,
+        "r": "esv:1 Corinthians:10:17",
+        "t": "Because there is one bread, we who are many are one body, for we all partake of the one bread."
+    },
+    {
+        "o": 31965,
+        "r": "esv:1 Corinthians:10:18",
+        "t": "Consider the people of Israel: are not those who eat the sacrifices participants in the altar?"
+    },
+    {
+        "o": 31966,
+        "r": "esv:1 Corinthians:10:19",
+        "t": "What do I imply then? That food offered to idols is anything, or that an idol is anything?"
+    },
+    {
+        "o": 31967,
+        "r": "esv:1 Corinthians:10:20",
+        "t": "No, I imply that what pagans sacrifice they offer to demons and not to God. I do not want you to be participants with demons."
+    },
+    {
+        "o": 31968,
+        "r": "esv:1 Corinthians:10:21",
+        "t": "You cannot drink the cup of the Lord and the cup of demons. You cannot partake of the table of the Lord and the table of demons."
+    },
+    {
+        "o": 31969,
+        "r": "esv:1 Corinthians:10:22",
+        "t": "Shall we provoke the Lord to jealousy? Are we stronger than he?"
+    },
+    {
+        "o": 31970,
+        "r": "esv:1 Corinthians:10:22",
+        "t": "Do All to the Glory of God",
+        "h": 2
+    },
+    {
+        "o": 31971,
+        "r": "esv:1 Corinthians:10:23",
+        "t": "“All*p things are lawful,” but not all things are helpful. “All things are lawful,” but not all things build up."
+    },
+    {
+        "o": 31972,
+        "r": "esv:1 Corinthians:10:24",
+        "t": "Let no one seek his own good, but the good of his neighbor."
+    },
+    {
+        "o": 31973,
+        "r": "esv:1 Corinthians:10:25",
+        "t": "Eat whatever is sold in the meat market without raising any question on the ground of conscience."
+    },
+    {
+        "o": 31974,
+        "r": "esv:1 Corinthians:10:26",
+        "t": "For “the earth is the Lord’s, and the fullness thereof.”"
+    },
+    {
+        "o": 31975,
+        "r": "esv:1 Corinthians:10:27",
+        "t": "If one of the unbelievers invites you to dinner and you are disposed to go, eat whatever is set before you without raising any question on the ground of conscience."
+    },
+    {
+        "o": 31976,
+        "r": "esv:1 Corinthians:10:28",
+        "t": "But if someone says to you, “This has been offered in sacrifice,” then do not eat it, for the sake of the one who informed you, and for the sake of conscience—"
+    },
+    {
+        "o": 31977,
+        "r": "esv:1 Corinthians:10:29",
+        "t": "I do not mean your conscience, but his. For why should my liberty be determined by someone else’s conscience?"
+    },
+    {
+        "o": 31978,
+        "r": "esv:1 Corinthians:10:30",
+        "t": "If I partake with thankfulness, why am I denounced because of that for which I give thanks?"
+    },
+    {
+        "o": 31979,
+        "r": "esv:1 Corinthians:10:31",
+        "t": "So,*p whether you eat or drink, or whatever you do, do all to the glory of God."
+    },
+    {
+        "o": 31980,
+        "r": "esv:1 Corinthians:10:32",
+        "t": "Give no offense to Jews or to Greeks or to the church of God,"
+    },
+    {
+        "o": 31981,
+        "r": "esv:1 Corinthians:10:33",
+        "t": "just as I try to please everyone in everything I do, not seeking my own advantage, but that of many, that they may be saved."
+    },
+    {
+        "o": 31982,
+        "r": "esv:1 Corinthians:11:0",
+        "t": "1 Corinthians 11",
+        "h": 1
+    },
+    {
+        "o": 31983,
+        "r": "esv:1 Corinthians:11:1",
+        "t": "Be*p imitators of me, as I am of Christ."
+    },
+    {
+        "o": 31984,
+        "r": "esv:1 Corinthians:11:1",
+        "t": "Head Coverings",
+        "h": 2
+    },
+    {
+        "o": 31985,
+        "r": "esv:1 Corinthians:11:2",
+        "t": "Now*p I commend you because you remember me in everything and maintain the traditions even as I delivered them to you."
+    },
+    {
+        "o": 31986,
+        "r": "esv:1 Corinthians:11:3",
+        "t": "But I want you to understand that the head of every man is Christ, the head of a wife is her husband, and the head of Christ is God."
+    },
+    {
+        "o": 31987,
+        "r": "esv:1 Corinthians:11:4",
+        "t": "Every man who prays or prophesies with his head covered dishonors his head,"
+    },
+    {
+        "o": 31988,
+        "r": "esv:1 Corinthians:11:5",
+        "t": "but every wife who prays or prophesies with her head uncovered dishonors her head, since it is the same as if her head were shaven."
+    },
+    {
+        "o": 31989,
+        "r": "esv:1 Corinthians:11:6",
+        "t": "For if a wife will not cover her head, then she should cut her hair short. But since it is disgraceful for a wife to cut off her hair or shave her head, let her cover her head."
+    },
+    {
+        "o": 31990,
+        "r": "esv:1 Corinthians:11:7",
+        "t": "For a man ought not to cover his head, since he is the image and glory of God, but woman is the glory of man."
+    },
+    {
+        "o": 31991,
+        "r": "esv:1 Corinthians:11:8",
+        "t": "For man was not made from woman, but woman from man."
+    },
+    {
+        "o": 31992,
+        "r": "esv:1 Corinthians:11:9",
+        "t": "Neither was man created for woman, but woman for man."
+    },
+    {
+        "o": 31993,
+        "r": "esv:1 Corinthians:11:10",
+        "t": "That is why a wife ought to have a symbol of authority on her head, because of the angels."
+    },
+    {
+        "o": 31994,
+        "r": "esv:1 Corinthians:11:11",
+        "t": "Nevertheless, in the Lord woman is not independent of man nor man of woman;"
+    },
+    {
+        "o": 31995,
+        "r": "esv:1 Corinthians:11:12",
+        "t": "for as woman was made from man, so man is now born of woman. And all things are from God."
+    },
+    {
+        "o": 31996,
+        "r": "esv:1 Corinthians:11:13",
+        "t": "Judge for yourselves: is it proper for a wife to pray to God with her head uncovered?"
+    },
+    {
+        "o": 31997,
+        "r": "esv:1 Corinthians:11:14",
+        "t": "Does not nature itself teach you that if a man wears long hair it is a disgrace for him,"
+    },
+    {
+        "o": 31998,
+        "r": "esv:1 Corinthians:11:15",
+        "t": "but if a woman has long hair, it is her glory? For her hair is given to her for a covering."
+    },
+    {
+        "o": 31999,
+        "r": "esv:1 Corinthians:11:16",
+        "t": "If anyone is inclined to be contentious, we have no such practice, nor do the churches of God."
+    },
+    {
+        "o": 32000,
+        "r": "esv:1 Corinthians:11:16",
+        "t": "The Lord’s Supper",
+        "h": 2
+    },
+    {
+        "o": 32001,
+        "r": "esv:1 Corinthians:11:17",
+        "t": "But*p in the following instructions I do not commend you, because when you come together it is not for the better but for the worse."
+    },
+    {
+        "o": 32002,
+        "r": "esv:1 Corinthians:11:18",
+        "t": "For, in the first place, when you come together as a church, I hear that there are divisions among you. And I believe it in part,"
+    },
+    {
+        "o": 32003,
+        "r": "esv:1 Corinthians:11:19",
+        "t": "for there must be factions among you in order that those who are genuine among you may be recognized."
+    },
+    {
+        "o": 32004,
+        "r": "esv:1 Corinthians:11:20",
+        "t": "When you come together, it is not the Lord’s supper that you eat."
+    },
+    {
+        "o": 32005,
+        "r": "esv:1 Corinthians:11:21",
+        "t": "For in eating, each one goes ahead with his own meal. One goes hungry, another gets drunk."
+    },
+    {
+        "o": 32006,
+        "r": "esv:1 Corinthians:11:22",
+        "t": "What! Do you not have houses to eat and drink in? Or do you despise the church of God and humiliate those who have nothing? What shall I say to you? Shall I commend you in this? No, I will not."
+    },
+    {
+        "o": 32007,
+        "r": "esv:1 Corinthians:11:23",
+        "t": "For*p I received from the Lord what I also delivered to you, that the Lord Jesus on the night when he was betrayed took bread,"
+    },
+    {
+        "o": 32008,
+        "r": "esv:1 Corinthians:11:24",
+        "t": "and when he had given thanks, he broke it, and said, “This*r is*r my*r body,*r which*r is*r for*r you.*r Do*r this*r in*r remembrance*r of*r me.”*r"
+    },
+    {
+        "o": 32009,
+        "r": "esv:1 Corinthians:11:25",
+        "t": "In the same way also he took the cup, after supper, saying, “This*r cup*r is*r the*r new*r covenant*r in*r my*r blood.*r Do*r this,*r as*r often*r as*r you*r drink*r it,*r in*r remembrance*r of*r me.”*r"
+    },
+    {
+        "o": 32010,
+        "r": "esv:1 Corinthians:11:26",
+        "t": "For as often as you eat this bread and drink the cup, you proclaim the Lord’s death until he comes."
+    },
+    {
+        "o": 32011,
+        "r": "esv:1 Corinthians:11:27",
+        "t": "Whoever,*p therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord."
+    },
+    {
+        "o": 32012,
+        "r": "esv:1 Corinthians:11:28",
+        "t": "Let a person examine himself, then, and so eat of the bread and drink of the cup."
+    },
+    {
+        "o": 32013,
+        "r": "esv:1 Corinthians:11:29",
+        "t": "For anyone who eats and drinks without discerning the body eats and drinks judgment on himself."
+    },
+    {
+        "o": 32014,
+        "r": "esv:1 Corinthians:11:30",
+        "t": "That is why many of you are weak and ill, and some have died."
+    },
+    {
+        "o": 32015,
+        "r": "esv:1 Corinthians:11:31",
+        "t": "But if we judged ourselves truly, we would not be judged."
+    },
+    {
+        "o": 32016,
+        "r": "esv:1 Corinthians:11:32",
+        "t": "But when we are judged by the Lord, we are disciplined so that we may not be condemned along with the world."
+    },
+    {
+        "o": 32017,
+        "r": "esv:1 Corinthians:11:33",
+        "t": "So*p then, my brothers, when you come together to eat, wait for one another—"
+    },
+    {
+        "o": 32018,
+        "r": "esv:1 Corinthians:11:34",
+        "t": "if anyone is hungry, let him eat at home— so that when you come together it will not be for judgment. About the other things I will give directions when I come."
+    },
+    {
+        "o": 32019,
+        "r": "esv:1 Corinthians:12:0",
+        "t": "1 Corinthians 12",
+        "h": 1
+    },
+    {
+        "o": 32020,
+        "r": "esv:1 Corinthians:12:0",
+        "t": "Spiritual Gifts",
+        "h": 2
+    },
+    {
+        "o": 32021,
+        "r": "esv:1 Corinthians:12:1",
+        "t": "Now*p concerning spiritual gifts, brothers, I do not want you to be uninformed."
+    },
+    {
+        "o": 32022,
+        "r": "esv:1 Corinthians:12:2",
+        "t": "You know that when you were pagans you were led astray to mute idols, however you were led."
+    },
+    {
+        "o": 32023,
+        "r": "esv:1 Corinthians:12:3",
+        "t": "Therefore I want you to understand that no one speaking in the Spirit of God ever says “Jesus is accursed!” and no one can say “Jesus is Lord” except in the Holy Spirit."
+    },
+    {
+        "o": 32024,
+        "r": "esv:1 Corinthians:12:4",
+        "t": "Now*p there are varieties of gifts, but the same Spirit;"
+    },
+    {
+        "o": 32025,
+        "r": "esv:1 Corinthians:12:5",
+        "t": "and there are varieties of service, but the same Lord;"
+    },
+    {
+        "o": 32026,
+        "r": "esv:1 Corinthians:12:6",
+        "t": "and there are varieties of activities, but it is the same God who empowers them all in everyone."
+    },
+    {
+        "o": 32027,
+        "r": "esv:1 Corinthians:12:7",
+        "t": "To each is given the manifestation of the Spirit for the common good."
+    },
+    {
+        "o": 32028,
+        "r": "esv:1 Corinthians:12:8",
+        "t": "For to one is given through the Spirit the utterance of wisdom, and to another the utterance of knowledge according to the same Spirit,"
+    },
+    {
+        "o": 32029,
+        "r": "esv:1 Corinthians:12:9",
+        "t": "to another faith by the same Spirit, to another gifts of healing by the one Spirit,"
+    },
+    {
+        "o": 32030,
+        "r": "esv:1 Corinthians:12:10",
+        "t": "to another the working of miracles, to another prophecy, to another the ability to distinguish between spirits, to another various kinds of tongues, to another the interpretation of tongues."
+    },
+    {
+        "o": 32031,
+        "r": "esv:1 Corinthians:12:11",
+        "t": "All these are empowered by one and the same Spirit, who apportions to each one individually as he wills."
+    },
+    {
+        "o": 32032,
+        "r": "esv:1 Corinthians:12:11",
+        "t": "One Body with Many Members",
+        "h": 2
+    },
+    {
+        "o": 32033,
+        "r": "esv:1 Corinthians:12:12",
+        "t": "For*p just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ."
+    },
+    {
+        "o": 32034,
+        "r": "esv:1 Corinthians:12:13",
+        "t": "For in one Spirit we were all baptized into one body— Jews or Greeks, slaves or free— and all were made to drink of one Spirit."
+    },
+    {
+        "o": 32035,
+        "r": "esv:1 Corinthians:12:14",
+        "t": "For*p the body does not consist of one member but of many."
+    },
+    {
+        "o": 32036,
+        "r": "esv:1 Corinthians:12:15",
+        "t": "If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body."
+    },
+    {
+        "o": 32037,
+        "r": "esv:1 Corinthians:12:16",
+        "t": "And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body."
+    },
+    {
+        "o": 32038,
+        "r": "esv:1 Corinthians:12:17",
+        "t": "If the whole body were an eye, where would be the sense of hearing? If the whole body were an ear, where would be the sense of smell?"
+    },
+    {
+        "o": 32039,
+        "r": "esv:1 Corinthians:12:18",
+        "t": "But as it is, God arranged the members in the body, each one of them, as he chose."
+    },
+    {
+        "o": 32040,
+        "r": "esv:1 Corinthians:12:19",
+        "t": "If all were a single member, where would the body be?"
+    },
+    {
+        "o": 32041,
+        "r": "esv:1 Corinthians:12:20",
+        "t": "As it is, there are many parts, yet one body."
+    },
+    {
+        "o": 32042,
+        "r": "esv:1 Corinthians:12:21",
+        "t": "The*p eye cannot say to the hand, “I have no need of you,” nor again the head to the feet, “I have no need of you.”"
+    },
+    {
+        "o": 32043,
+        "r": "esv:1 Corinthians:12:22",
+        "t": "On the contrary, the parts of the body that seem to be weaker are indispensable,"
+    },
+    {
+        "o": 32044,
+        "r": "esv:1 Corinthians:12:23",
+        "t": "and on those parts of the body that we think less honorable we bestow the greater honor, and our unpresentable parts are treated with greater modesty,"
+    },
+    {
+        "o": 32045,
+        "r": "esv:1 Corinthians:12:24",
+        "t": "which our more presentable parts do not require. But God has so composed the body, giving greater honor to the part that lacked it,"
+    },
+    {
+        "o": 32046,
+        "r": "esv:1 Corinthians:12:25",
+        "t": "that there may be no division in the body, but that the members may have the same care for one another."
+    },
+    {
+        "o": 32047,
+        "r": "esv:1 Corinthians:12:26",
+        "t": "If one member suffers, all suffer together; if one member is honored, all rejoice together."
+    },
+    {
+        "o": 32048,
+        "r": "esv:1 Corinthians:12:27",
+        "t": "Now*p you are the body of Christ and individually members of it."
+    },
+    {
+        "o": 32049,
+        "r": "esv:1 Corinthians:12:28",
+        "t": "And God has appointed in the church first apostles, second prophets, third teachers, then miracles, then gifts of healing, helping, administrating, and various kinds of tongues."
+    },
+    {
+        "o": 32050,
+        "r": "esv:1 Corinthians:12:29",
+        "t": "Are all apostles? Are all prophets? Are all teachers? Do all work miracles?"
+    },
+    {
+        "o": 32051,
+        "r": "esv:1 Corinthians:12:30",
+        "t": "Do all possess gifts of healing? Do all speak with tongues? Do all interpret?"
+    },
+    {
+        "o": 32052,
+        "r": "esv:1 Corinthians:12:31",
+        "t": "But earnestly desire the higher gifts. And*p I will show you a still more excellent way."
+    },
+    {
+        "o": 32053,
+        "r": "esv:1 Corinthians:13:0",
+        "t": "1 Corinthians 13",
+        "h": 1
+    },
+    {
+        "o": 32054,
+        "r": "esv:1 Corinthians:13:0",
+        "t": "The Way of Love",
+        "h": 2
+    },
+    {
+        "o": 32055,
+        "r": "esv:1 Corinthians:13:1",
+        "t": "If*p I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal."
+    },
+    {
+        "o": 32056,
+        "r": "esv:1 Corinthians:13:2",
+        "t": "And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing."
+    },
+    {
+        "o": 32057,
+        "r": "esv:1 Corinthians:13:3",
+        "t": "If I give away all I have, and if I deliver up my body to be burned, but have not love, I gain nothing."
+    },
+    {
+        "o": 32058,
+        "r": "esv:1 Corinthians:13:4",
+        "t": "Love*p is patient and kind; love does not envy or boast; it is not arrogant"
+    },
+    {
+        "o": 32059,
+        "r": "esv:1 Corinthians:13:5",
+        "t": "or rude. It does not insist on its own way; it is not irritable or resentful;"
+    },
+    {
+        "o": 32060,
+        "r": "esv:1 Corinthians:13:6",
+        "t": "it does not rejoice at wrongdoing, but rejoices with the truth."
+    },
+    {
+        "o": 32061,
+        "r": "esv:1 Corinthians:13:7",
+        "t": "Love bears all things, believes all things, hopes all things, endures all things."
+    },
+    {
+        "o": 32062,
+        "r": "esv:1 Corinthians:13:8",
+        "t": "Love*p never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away."
+    },
+    {
+        "o": 32063,
+        "r": "esv:1 Corinthians:13:9",
+        "t": "For we know in part and we prophesy in part,"
+    },
+    {
+        "o": 32064,
+        "r": "esv:1 Corinthians:13:10",
+        "t": "but when the perfect comes, the partial will pass away."
+    },
+    {
+        "o": 32065,
+        "r": "esv:1 Corinthians:13:11",
+        "t": "When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I gave up childish ways."
+    },
+    {
+        "o": 32066,
+        "r": "esv:1 Corinthians:13:12",
+        "t": "For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known."
+    },
+    {
+        "o": 32067,
+        "r": "esv:1 Corinthians:13:13",
+        "t": "So*p now faith, hope, and love abide, these three; but the greatest of these is love."
+    },
+    {
+        "o": 32068,
+        "r": "esv:1 Corinthians:14:0",
+        "t": "1 Corinthians 14",
+        "h": 1
+    },
+    {
+        "o": 32069,
+        "r": "esv:1 Corinthians:14:0",
+        "t": "Prophecy and Tongues",
+        "h": 2
+    },
+    {
+        "o": 32070,
+        "r": "esv:1 Corinthians:14:1",
+        "t": "Pursue*p love, and earnestly desire the spiritual gifts, especially that you may prophesy."
+    },
+    {
+        "o": 32071,
+        "r": "esv:1 Corinthians:14:2",
+        "t": "For one who speaks in a tongue speaks not to men but to God; for no one understands him, but he utters mysteries in the Spirit."
+    },
+    {
+        "o": 32072,
+        "r": "esv:1 Corinthians:14:3",
+        "t": "On the other hand, the one who prophesies speaks to people for their upbuilding and encouragement and consolation."
+    },
+    {
+        "o": 32073,
+        "r": "esv:1 Corinthians:14:4",
+        "t": "The one who speaks in a tongue builds up himself, but the one who prophesies builds up the church."
+    },
+    {
+        "o": 32074,
+        "r": "esv:1 Corinthians:14:5",
+        "t": "Now I want you all to speak in tongues, but even more to prophesy. The one who prophesies is greater than the one who speaks in tongues, unless someone interprets, so that the church may be built up."
+    },
+    {
+        "o": 32075,
+        "r": "esv:1 Corinthians:14:6",
+        "t": "Now,*p brothers, if I come to you speaking in tongues, how will I benefit you unless I bring you some revelation or knowledge or prophecy or teaching?"
+    },
+    {
+        "o": 32076,
+        "r": "esv:1 Corinthians:14:7",
+        "t": "If even lifeless instruments, such as the flute or the harp, do not give distinct notes, how will anyone know what is played?"
+    },
+    {
+        "o": 32077,
+        "r": "esv:1 Corinthians:14:8",
+        "t": "And if the bugle gives an indistinct sound, who will get ready for battle?"
+    },
+    {
+        "o": 32078,
+        "r": "esv:1 Corinthians:14:9",
+        "t": "So with yourselves, if with your tongue you utter speech that is not intelligible, how will anyone know what is said? For you will be speaking into the air."
+    },
+    {
+        "o": 32079,
+        "r": "esv:1 Corinthians:14:10",
+        "t": "There are doubtless many different languages in the world, and none is without meaning,"
+    },
+    {
+        "o": 32080,
+        "r": "esv:1 Corinthians:14:11",
+        "t": "but if I do not know the meaning of the language, I will be a foreigner to the speaker and the speaker a foreigner to me."
+    },
+    {
+        "o": 32081,
+        "r": "esv:1 Corinthians:14:12",
+        "t": "So with yourselves, since you are eager for manifestations of the Spirit, strive to excel in building up the church."
+    },
+    {
+        "o": 32082,
+        "r": "esv:1 Corinthians:14:13",
+        "t": "Therefore,*p one who speaks in a tongue should pray that he may interpret."
+    },
+    {
+        "o": 32083,
+        "r": "esv:1 Corinthians:14:14",
+        "t": "For if I pray in a tongue, my spirit prays but my mind is unfruitful."
+    },
+    {
+        "o": 32084,
+        "r": "esv:1 Corinthians:14:15",
+        "t": "What am I to do? I will pray with my spirit, but I will pray with my mind also; I will sing praise with my spirit, but I will sing with my mind also."
+    },
+    {
+        "o": 32085,
+        "r": "esv:1 Corinthians:14:16",
+        "t": "Otherwise, if you give thanks with your spirit, how can anyone in the position of an outsider say “Amen” to your thanksgiving when he does not know what you are saying?"
+    },
+    {
+        "o": 32086,
+        "r": "esv:1 Corinthians:14:17",
+        "t": "For you may be giving thanks well enough, but the other person is not being built up."
+    },
+    {
+        "o": 32087,
+        "r": "esv:1 Corinthians:14:18",
+        "t": "I thank God that I speak in tongues more than all of you."
+    },
+    {
+        "o": 32088,
+        "r": "esv:1 Corinthians:14:19",
+        "t": "Nevertheless, in church I would rather speak five words with my mind in order to instruct others, than ten thousand words in a tongue."
+    },
+    {
+        "o": 32089,
+        "r": "esv:1 Corinthians:14:20",
+        "t": "Brothers,*p do not be children in your thinking. Be infants in evil, but in your thinking be mature."
+    },
+    {
+        "o": 32090,
+        "r": "esv:1 Corinthians:14:21",
+        "t": "In the Law it is written, “By people of strange tongues and by the lips of foreigners will I speak to this people, and even then they will not listen to me, says the Lord.”"
+    },
+    {
+        "o": 32091,
+        "r": "esv:1 Corinthians:14:22",
+        "t": "Thus tongues are a sign not for believers but for unbelievers, while prophecy is a sign not for unbelievers but for believers."
+    },
+    {
+        "o": 32092,
+        "r": "esv:1 Corinthians:14:23",
+        "t": "If, therefore, the whole church comes together and all speak in tongues, and outsiders or unbelievers enter, will they not say that you are out of your minds?"
+    },
+    {
+        "o": 32093,
+        "r": "esv:1 Corinthians:14:24",
+        "t": "But if all prophesy, and an unbeliever or outsider enters, he is convicted by all, he is called to account by all,"
+    },
+    {
+        "o": 32094,
+        "r": "esv:1 Corinthians:14:25",
+        "t": "the secrets of his heart are disclosed, and so, falling on his face, he will worship God and declare that God is really among you."
+    },
+    {
+        "o": 32095,
+        "r": "esv:1 Corinthians:14:25",
+        "t": "Orderly Worship",
+        "h": 2
+    },
+    {
+        "o": 32096,
+        "r": "esv:1 Corinthians:14:26",
+        "t": "What*p then, brothers? When you come together, each one has a hymn, a lesson, a revelation, a tongue, or an interpretation. Let all things be done for building up."
+    },
+    {
+        "o": 32097,
+        "r": "esv:1 Corinthians:14:27",
+        "t": "If any speak in a tongue, let there be only two or at most three, and each in turn, and let someone interpret."
+    },
+    {
+        "o": 32098,
+        "r": "esv:1 Corinthians:14:28",
+        "t": "But if there is no one to interpret, let each of them keep silent in church and speak to himself and to God."
+    },
+    {
+        "o": 32099,
+        "r": "esv:1 Corinthians:14:29",
+        "t": "Let two or three prophets speak, and let the others weigh what is said."
+    },
+    {
+        "o": 32100,
+        "r": "esv:1 Corinthians:14:30",
+        "t": "If a revelation is made to another sitting there, let the first be silent."
+    },
+    {
+        "o": 32101,
+        "r": "esv:1 Corinthians:14:31",
+        "t": "For you can all prophesy one by one, so that all may learn and all be encouraged,"
+    },
+    {
+        "o": 32102,
+        "r": "esv:1 Corinthians:14:32",
+        "t": "and the spirits of prophets are subject to prophets."
+    },
+    {
+        "o": 32103,
+        "r": "esv:1 Corinthians:14:33",
+        "t": "For God is not a God of confusion but of peace. As*p in all the churches of the saints,"
+    },
+    {
+        "o": 32104,
+        "r": "esv:1 Corinthians:14:34",
+        "t": "the women should keep silent in the churches. For they are not permitted to speak, but should be in submission, as the Law also says."
+    },
+    {
+        "o": 32105,
+        "r": "esv:1 Corinthians:14:35",
+        "t": "If there is anything they desire to learn, let them ask their husbands at home. For it is shameful for a woman to speak in church."
+    },
+    {
+        "o": 32106,
+        "r": "esv:1 Corinthians:14:36",
+        "t": "Or*p was it from you that the word of God came? Or are you the only ones it has reached?"
+    },
+    {
+        "o": 32107,
+        "r": "esv:1 Corinthians:14:37",
+        "t": "If anyone thinks that he is a prophet, or spiritual, he should acknowledge that the things I am writing to you are a command of the Lord."
+    },
+    {
+        "o": 32108,
+        "r": "esv:1 Corinthians:14:38",
+        "t": "If anyone does not recognize this, he is not recognized."
+    },
+    {
+        "o": 32109,
+        "r": "esv:1 Corinthians:14:39",
+        "t": "So, my brothers, earnestly desire to prophesy, and do not forbid speaking in tongues."
+    },
+    {
+        "o": 32110,
+        "r": "esv:1 Corinthians:14:40",
+        "t": "But all things should be done decently and in order."
+    },
+    {
+        "o": 32111,
+        "r": "esv:1 Corinthians:15:0",
+        "t": "1 Corinthians 15",
+        "h": 1
+    },
+    {
+        "o": 32112,
+        "r": "esv:1 Corinthians:15:0",
+        "t": "The Resurrection of Christ",
+        "h": 2
+    },
+    {
+        "o": 32113,
+        "r": "esv:1 Corinthians:15:1",
+        "t": "Now*p I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand,"
+    },
+    {
+        "o": 32114,
+        "r": "esv:1 Corinthians:15:2",
+        "t": "and by which you are being saved, if you hold fast to the word I preached to you— unless you believed in vain."
+    },
+    {
+        "o": 32115,
+        "r": "esv:1 Corinthians:15:3",
+        "t": "For*p I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures,"
+    },
+    {
+        "o": 32116,
+        "r": "esv:1 Corinthians:15:4",
+        "t": "that he was buried, that he was raised on the third day in accordance with the Scriptures,"
+    },
+    {
+        "o": 32117,
+        "r": "esv:1 Corinthians:15:5",
+        "t": "and that he appeared to Cephas, then to the twelve."
+    },
+    {
+        "o": 32118,
+        "r": "esv:1 Corinthians:15:6",
+        "t": "Then he appeared to more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep."
+    },
+    {
+        "o": 32119,
+        "r": "esv:1 Corinthians:15:7",
+        "t": "Then he appeared to James, then to all the apostles."
+    },
+    {
+        "o": 32120,
+        "r": "esv:1 Corinthians:15:8",
+        "t": "Last of all, as to one untimely born, he appeared also to me."
+    },
+    {
+        "o": 32121,
+        "r": "esv:1 Corinthians:15:9",
+        "t": "For I am the least of the apostles, unworthy to be called an apostle, because I persecuted the church of God."
+    },
+    {
+        "o": 32122,
+        "r": "esv:1 Corinthians:15:10",
+        "t": "But by the grace of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God that is with me."
+    },
+    {
+        "o": 32123,
+        "r": "esv:1 Corinthians:15:11",
+        "t": "Whether then it was I or they, so we preach and so you believed."
+    },
+    {
+        "o": 32124,
+        "r": "esv:1 Corinthians:15:11",
+        "t": "The Resurrection of the Dead",
+        "h": 2
+    },
+    {
+        "o": 32125,
+        "r": "esv:1 Corinthians:15:12",
+        "t": "Now*p if Christ is proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead?"
+    },
+    {
+        "o": 32126,
+        "r": "esv:1 Corinthians:15:13",
+        "t": "But if there is no resurrection of the dead, then not even Christ has been raised."
+    },
+    {
+        "o": 32127,
+        "r": "esv:1 Corinthians:15:14",
+        "t": "And if Christ has not been raised, then our preaching is in vain and your faith is in vain."
+    },
+    {
+        "o": 32128,
+        "r": "esv:1 Corinthians:15:15",
+        "t": "We are even found to be misrepresenting God, because we testified about God that he raised Christ, whom he did not raise if it is true that the dead are not raised."
+    },
+    {
+        "o": 32129,
+        "r": "esv:1 Corinthians:15:16",
+        "t": "For if the dead are not raised, not even Christ has been raised."
+    },
+    {
+        "o": 32130,
+        "r": "esv:1 Corinthians:15:17",
+        "t": "And if Christ has not been raised, your faith is futile and you are still in your sins."
+    },
+    {
+        "o": 32131,
+        "r": "esv:1 Corinthians:15:18",
+        "t": "Then those also who have fallen asleep in Christ have perished."
+    },
+    {
+        "o": 32132,
+        "r": "esv:1 Corinthians:15:19",
+        "t": "If in Christ we have hope in this life only, we are of all people most to be pitied."
+    },
+    {
+        "o": 32133,
+        "r": "esv:1 Corinthians:15:20",
+        "t": "But*p in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep."
+    },
+    {
+        "o": 32134,
+        "r": "esv:1 Corinthians:15:21",
+        "t": "For as by a man came death, by a man has come also the resurrection of the dead."
+    },
+    {
+        "o": 32135,
+        "r": "esv:1 Corinthians:15:22",
+        "t": "For as in Adam all die, so also in Christ shall all be made alive."
+    },
+    {
+        "o": 32136,
+        "r": "esv:1 Corinthians:15:23",
+        "t": "But each in his own order: Christ the firstfruits, then at his coming those who belong to Christ."
+    },
+    {
+        "o": 32137,
+        "r": "esv:1 Corinthians:15:24",
+        "t": "Then comes the end, when he delivers the kingdom to God the Father after destroying every rule and every authority and power."
+    },
+    {
+        "o": 32138,
+        "r": "esv:1 Corinthians:15:25",
+        "t": "For he must reign until he has put all his enemies under his feet."
+    },
+    {
+        "o": 32139,
+        "r": "esv:1 Corinthians:15:26",
+        "t": "The last enemy to be destroyed is death."
+    },
+    {
+        "o": 32140,
+        "r": "esv:1 Corinthians:15:27",
+        "t": "For “God has put all things in subjection under his feet.” But when it says, “all things are put in subjection,” it is plain that he is excepted who put all things in subjection under him."
+    },
+    {
+        "o": 32141,
+        "r": "esv:1 Corinthians:15:28",
+        "t": "When all things are subjected to him, then the Son himself will also be subjected to him who put all things in subjection under him, that God may be all in all."
+    },
+    {
+        "o": 32142,
+        "r": "esv:1 Corinthians:15:29",
+        "t": "Otherwise,*p what do people mean by being baptized on behalf of the dead? If the dead are not raised at all, why are people baptized on their behalf?"
+    },
+    {
+        "o": 32143,
+        "r": "esv:1 Corinthians:15:30",
+        "t": "Why are we in danger every hour?"
+    },
+    {
+        "o": 32144,
+        "r": "esv:1 Corinthians:15:31",
+        "t": "I protest, brothers, by my pride in you, which I have in Christ Jesus our Lord, I die every day!"
+    },
+    {
+        "o": 32145,
+        "r": "esv:1 Corinthians:15:32",
+        "t": "What do I gain if, humanly speaking, I fought with beasts at Ephesus? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”"
+    },
+    {
+        "o": 32146,
+        "r": "esv:1 Corinthians:15:33",
+        "t": "Do not be deceived: “Bad company ruins good morals.”"
+    },
+    {
+        "o": 32147,
+        "r": "esv:1 Corinthians:15:34",
+        "t": "Wake up from your drunken stupor, as is right, and do not go on sinning. For some have no knowledge of God. I say this to your shame."
+    },
+    {
+        "o": 32148,
+        "r": "esv:1 Corinthians:15:34",
+        "t": "The Resurrection Body",
+        "h": 2
+    },
+    {
+        "o": 32149,
+        "r": "esv:1 Corinthians:15:35",
+        "t": "But*p someone will ask, “How are the dead raised? With what kind of body do they come?”"
+    },
+    {
+        "o": 32150,
+        "r": "esv:1 Corinthians:15:36",
+        "t": "You foolish person! What you sow does not come to life unless it dies."
+    },
+    {
+        "o": 32151,
+        "r": "esv:1 Corinthians:15:37",
+        "t": "And what you sow is not the body that is to be, but a bare kernel, perhaps of wheat or of some other grain."
+    },
+    {
+        "o": 32152,
+        "r": "esv:1 Corinthians:15:38",
+        "t": "But God gives it a body as he has chosen, and to each kind of seed its own body."
+    },
+    {
+        "o": 32153,
+        "r": "esv:1 Corinthians:15:39",
+        "t": "For not all flesh is the same, but there is one kind for humans, another for animals, another for birds, and another for fish."
+    },
+    {
+        "o": 32154,
+        "r": "esv:1 Corinthians:15:40",
+        "t": "There are heavenly bodies and earthly bodies, but the glory of the heavenly is of one kind, and the glory of the earthly is of another."
+    },
+    {
+        "o": 32155,
+        "r": "esv:1 Corinthians:15:41",
+        "t": "There is one glory of the sun, and another glory of the moon, and another glory of the stars; for star differs from star in glory."
+    },
+    {
+        "o": 32156,
+        "r": "esv:1 Corinthians:15:42",
+        "t": "So*p is it with the resurrection of the dead. What is sown is perishable; what is raised is imperishable."
+    },
+    {
+        "o": 32157,
+        "r": "esv:1 Corinthians:15:43",
+        "t": "It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power."
+    },
+    {
+        "o": 32158,
+        "r": "esv:1 Corinthians:15:44",
+        "t": "It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body."
+    },
+    {
+        "o": 32159,
+        "r": "esv:1 Corinthians:15:45",
+        "t": "Thus it is written, “The first man Adam became a living being”; the last Adam became a life-giving spirit."
+    },
+    {
+        "o": 32160,
+        "r": "esv:1 Corinthians:15:46",
+        "t": "But it is not the spiritual that is first but the natural, and then the spiritual."
+    },
+    {
+        "o": 32161,
+        "r": "esv:1 Corinthians:15:47",
+        "t": "The first man was from the earth, a man of dust; the second man is from heaven."
+    },
+    {
+        "o": 32162,
+        "r": "esv:1 Corinthians:15:48",
+        "t": "As was the man of dust, so also are those who are of the dust, and as is the man of heaven, so also are those who are of heaven."
+    },
+    {
+        "o": 32163,
+        "r": "esv:1 Corinthians:15:49",
+        "t": "Just as we have borne the image of the man of dust, we shall also bear the image of the man of heaven."
+    },
+    {
+        "o": 32164,
+        "r": "esv:1 Corinthians:15:49",
+        "t": "Mystery and Victory",
+        "h": 2
+    },
+    {
+        "o": 32165,
+        "r": "esv:1 Corinthians:15:50",
+        "t": "I*p tell you this, brothers: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable."
+    },
+    {
+        "o": 32166,
+        "r": "esv:1 Corinthians:15:51",
+        "t": "Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed,"
+    },
+    {
+        "o": 32167,
+        "r": "esv:1 Corinthians:15:52",
+        "t": "in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed."
+    },
+    {
+        "o": 32168,
+        "r": "esv:1 Corinthians:15:53",
+        "t": "For this perishable body must put on the imperishable, and this mortal body must put on immortality."
+    },
+    {
+        "o": 32169,
+        "r": "esv:1 Corinthians:15:54",
+        "t": "When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: “Death*pn is swallowed up in victory.”"
+    },
+    {
+        "o": 32170,
+        "r": "esv:1 Corinthians:15:55",
+        "t": "“O*ln death, where is your victory? O*ld death, where is your sting?”"
+    },
+    {
+        "o": 32171,
+        "r": "esv:1 Corinthians:15:56",
+        "t": "The*p sting of death is sin, and the power of sin is the law."
+    },
+    {
+        "o": 32172,
+        "r": "esv:1 Corinthians:15:57",
+        "t": "But thanks be to God, who gives us the victory through our Lord Jesus Christ."
+    },
+    {
+        "o": 32173,
+        "r": "esv:1 Corinthians:15:58",
+        "t": "Therefore,*p my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain."
+    },
+    {
+        "o": 32174,
+        "r": "esv:1 Corinthians:16:0",
+        "t": "1 Corinthians 16",
+        "h": 1
+    },
+    {
+        "o": 32175,
+        "r": "esv:1 Corinthians:16:0",
+        "t": "The Collection for the Saints",
+        "h": 2
+    },
+    {
+        "o": 32176,
+        "r": "esv:1 Corinthians:16:1",
+        "t": "Now*p concerning the collection for the saints: as I directed the churches of Galatia, so you also are to do."
+    },
+    {
+        "o": 32177,
+        "r": "esv:1 Corinthians:16:2",
+        "t": "On the first day of every week, each of you is to put something aside and store it up, as he may prosper, so that there will be no collecting when I come."
+    },
+    {
+        "o": 32178,
+        "r": "esv:1 Corinthians:16:3",
+        "t": "And when I arrive, I will send those whom you accredit by letter to carry your gift to Jerusalem."
+    },
+    {
+        "o": 32179,
+        "r": "esv:1 Corinthians:16:4",
+        "t": "If it seems advisable that I should go also, they will accompany me."
+    },
+    {
+        "o": 32180,
+        "r": "esv:1 Corinthians:16:4",
+        "t": "Plans for Travel",
+        "h": 2
+    },
+    {
+        "o": 32181,
+        "r": "esv:1 Corinthians:16:5",
+        "t": "I*p will visit you after passing through Macedonia, for I intend to pass through Macedonia,"
+    },
+    {
+        "o": 32182,
+        "r": "esv:1 Corinthians:16:6",
+        "t": "and perhaps I will stay with you or even spend the winter, so that you may help me on my journey, wherever I go."
+    },
+    {
+        "o": 32183,
+        "r": "esv:1 Corinthians:16:7",
+        "t": "For I do not want to see you now just in passing. I hope to spend some time with you, if the Lord permits."
+    },
+    {
+        "o": 32184,
+        "r": "esv:1 Corinthians:16:8",
+        "t": "But I will stay in Ephesus until Pentecost,"
+    },
+    {
+        "o": 32185,
+        "r": "esv:1 Corinthians:16:9",
+        "t": "for a wide door for effective work has opened to me, and there are many adversaries."
+    },
+    {
+        "o": 32186,
+        "r": "esv:1 Corinthians:16:10",
+        "t": "When*p Timothy comes, see that you put him at ease among you, for he is doing the work of the Lord, as I am."
+    },
+    {
+        "o": 32187,
+        "r": "esv:1 Corinthians:16:11",
+        "t": "So let no one despise him. Help him on his way in peace, that he may return to me, for I am expecting him with the brothers."
+    },
+    {
+        "o": 32188,
+        "r": "esv:1 Corinthians:16:11",
+        "t": "Final Instructions",
+        "h": 2
+    },
+    {
+        "o": 32189,
+        "r": "esv:1 Corinthians:16:12",
+        "t": "Now*p concerning our brother Apollos, I strongly urged him to visit you with the other brothers, but it was not at all his will to come now. He will come when he has opportunity."
+    },
+    {
+        "o": 32190,
+        "r": "esv:1 Corinthians:16:13",
+        "t": "Be*p watchful, stand firm in the faith, act like men, be strong."
+    },
+    {
+        "o": 32191,
+        "r": "esv:1 Corinthians:16:14",
+        "t": "Let all that you do be done in love."
+    },
+    {
+        "o": 32192,
+        "r": "esv:1 Corinthians:16:15",
+        "t": "Now*p I urge you, brothers— you know that the household of Stephanas were the first converts in Achaia, and that they have devoted themselves to the service of the saints—"
+    },
+    {
+        "o": 32193,
+        "r": "esv:1 Corinthians:16:16",
+        "t": "be subject to such as these, and to every fellow worker and laborer."
+    },
+    {
+        "o": 32194,
+        "r": "esv:1 Corinthians:16:17",
+        "t": "I rejoice at the coming of Stephanas and Fortunatus and Achaicus, because they have made up for your absence,"
+    },
+    {
+        "o": 32195,
+        "r": "esv:1 Corinthians:16:18",
+        "t": "for they refreshed my spirit as well as yours. Give recognition to such people."
+    },
+    {
+        "o": 32196,
+        "r": "esv:1 Corinthians:16:18",
+        "t": "Greetings",
+        "h": 2
+    },
+    {
+        "o": 32197,
+        "r": "esv:1 Corinthians:16:19",
+        "t": "The*p churches of Asia send you greetings. Aquila and Prisca, together with the church in their house, send you hearty greetings in the Lord."
+    },
+    {
+        "o": 32198,
+        "r": "esv:1 Corinthians:16:20",
+        "t": "All the brothers send you greetings. Greet one another with a holy kiss."
+    },
+    {
+        "o": 32199,
+        "r": "esv:1 Corinthians:16:21",
+        "t": "I,*p Paul, write this greeting with my own hand."
+    },
+    {
+        "o": 32200,
+        "r": "esv:1 Corinthians:16:22",
+        "t": "If anyone has no love for the Lord, let him be accursed. Our Lord, come!"
+    },
+    {
+        "o": 32201,
+        "r": "esv:1 Corinthians:16:23",
+        "t": "The grace of the Lord Jesus be with you."
+    },
+    {
+        "o": 32202,
+        "r": "esv:1 Corinthians:16:24",
+        "t": "My love be with you all in Christ Jesus. Amen."
+    }
+]
