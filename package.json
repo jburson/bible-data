@@ -1,8 +1,9 @@
 {
   "name": "@jburson/bible-data",
-  "description": "Well-formatted data for building innovative Bible apps. Use with permission of the copyright holders.",
+  "description": "JSON formatted data for building innovative Bible apps. Use with permission of the copyright holders.",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "exit 0"
   },
