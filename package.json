@@ -1,12 +1,23 @@
 {
   "name": "@jburson/bible-data",
+  "description": "Well-formatted data for building innovative Bible apps. Use with permission of the copyright holders.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
   "private": true,
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {},
+  "publishConfig": {
+    "@jburson:registry": "https://npm.pkg.github.com"
   },
-  "devDependencies": {
+  "bugs": {
+    "url": "https://github.com/jburson/bible-data/issues"
   },
+  "homepage": "https://github.com/jburson/bible-data#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jburson/bible-data.git"
+    "url": "git+https://github.com/jburson/bible-data.git"
   }
 }
