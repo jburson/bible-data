@@ -1,5 +1,5 @@
 {
-  "name": "bible-data",
+  "name": "@jburson/bible-data",
   "private": true,
   "dependencies": {
   },
