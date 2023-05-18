@@ -1,5 +1,5 @@
 # bible-data
-Well-formatted data for building innovative Bible apps. Use with permission of the copyright holders.
+JSON formatted data for building innovative Bible apps. Use with permission of the copyright holders.
 
 ### Versions Included
 - CSB
