@@ -6,7 +6,7 @@
   "scripts": {
     "test": "exit 0"
   },
-  "private": true,
+  "private": false,
   "dependencies": {},
   "devDependencies": {},
   "publishConfig": {
