@@ -1,3 +1,12 @@
 import csbJson from './data/csb/csb.json' assert { type: 'json' };
-export const test = 1;
+import esvJson from './data/esv/esv.json' assert { type: 'json' };
+import kjvJson from './data/kjv/kjv.json' assert { type: 'json' };
+import nasbJson from './data/nasb/nasb.json' assert { type: 'json' };
+import nivJson from './data/niv/niv.json' assert { type: 'json' };
+import nkjvJson from './data/nkjv/nkjv.json' assert { type: 'json' };
 export const csb = csbJson;
+export const esv = esvJson;
+export const kjv = kjvJson;
+export const nasb = nasbJson;
+export const niv = nivJson;
+export const nkjv = nkjvJson;
