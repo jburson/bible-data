@@ -100,7 +100,7 @@
         "r": "csb:Exodus:34:14",
         "w": 16,
         "l": {},
-        "t": "34:14*r Or the Lord  — his name is Jealous or the Lord, being jealous by nature",
+        "t": "34:14*r Or the Lord  - his name is Jealous or the Lord, being jealous by nature",
         "a": "m"
     },
     {
@@ -258,7 +258,7 @@
     {
         "o": 2793,
         "r": "csb:Exodus:34:29",
-        "w": 38,
+        "w": 40,
         "l": {},
         "t": "34:29*r Lit with him",
         "a": "g"
@@ -266,7 +266,7 @@
     {
         "o": 2793,
         "r": "csb:Exodus:34:29",
-        "w": 38,
+        "w": 40,
         "l": {},
         "c": "Ex 32:15*2714",
         "a": "h"

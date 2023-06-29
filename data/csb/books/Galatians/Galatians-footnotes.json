@@ -10,7 +10,7 @@
     {
         "o": 32903,
         "r": "csb:Galatians:1:1",
-        "w": 15,
+        "w": 16,
         "l": {},
         "c": "Mt 5:16*26231; 6:1*26272; 11:27*26510; Jn 8:42*29880",
         "a": "b"
@@ -18,7 +18,7 @@
     {
         "o": 32903,
         "r": "csb:Galatians:1:1",
-        "w": 21,
+        "w": 22,
         "l": {},
         "c": "Ac 9:6*30801; 20:24*31291; 22:10–21*31362; 26:16*31501",
         "a": "c"
@@ -1292,7 +1292,7 @@
         "r": "csb:Galatians:4:13",
         "w": 1,
         "l": {},
-        "t": "4:12–13*r Or 12 Become like I am, because I — inasmuch as you are brothers and sisters — am not requesting anything of you. You wronged me. 13 You know",
+        "t": "4:12–13*r Or 12 Become like I am, because I - inasmuch as you are brothers and sisters - am not requesting anything of you. You wronged me. 13 You know",
         "a": "u"
     },
     {
@@ -1362,7 +1362,7 @@
     {
         "o": 33013,
         "r": "csb:Galatians:4:24",
-        "w": 23,
+        "w": 24,
         "l": {},
         "c": "Gn 16:1*425",
         "a": "d"
@@ -1786,7 +1786,7 @@
     {
         "o": 33044,
         "r": "csb:Galatians:5:21",
-        "w": 28,
+        "w": 30,
         "l": {},
         "c": "1Co 6:10*32242; 15:50*32567",
         "a": "m"

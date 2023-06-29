@@ -154,7 +154,7 @@
     {
         "o": 33949,
         "r": "csb:Philemon:1:12",
-        "w": 12,
+        "w": 13,
         "l": {},
         "t": "12*r Other mss read him back. Receive him, my own heart.",
         "a": "t"
@@ -162,15 +162,15 @@
     {
         "o": 33949,
         "r": "csb:Philemon:1:12",
-        "w": 12,
+        "w": 13,
         "l": {},
-        "t": "12*r Lit you — that is, my own heart",
+        "t": "12*r Lit you - that is, my own heart",
         "a": "u"
     },
     {
         "o": 33953,
         "r": "csb:Philemon:1:16",
-        "w": 29,
+        "w": 30,
         "l": {},
         "c": "Php 3:3*33323",
         "a": "v"
@@ -178,7 +178,7 @@
     {
         "o": 33953,
         "r": "csb:Philemon:1:16",
-        "w": 33,
+        "w": 34,
         "l": {},
         "c": "1Co 16:19*32599; Rv 11:8*35044",
         "a": "w"

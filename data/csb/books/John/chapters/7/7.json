@@ -44,7 +44,7 @@
     {
         "o": 29782,
         "r": "csb:John:7:7",
-        "t": "The*r world*r cannot*r hate*r you,*r but*r it*r does*r hate*r me*r because*r I*r testify*r about*r it — that*r its*r works*r are*r evil.*r"
+        "t": "The*r world*r cannot*r hate*r you,*r but*r it*r does*r hate*r me*r because*r I*r testify*r about*r it -*r that*r its*r works*r are*r evil.*r"
     },
     {
         "o": 29783,
@@ -289,7 +289,7 @@
     {
         "o": 29830,
         "r": "csb:John:7:50",
-        "t": "Nicodemus*p — the one who came to him previously and who was one of them — said to them,"
+        "t": "Nicodemus-*p the one who came to him previously and who was one of them - said to them,"
     },
     {
         "o": 29831,

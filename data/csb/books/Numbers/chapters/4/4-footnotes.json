@@ -18,7 +18,7 @@
     {
         "o": 4126,
         "r": "csb:Numbers:4:3",
-        "w": 11,
+        "w": 12,
         "l": {},
         "t": "4:3*r Lit everyone entering the service",
         "a": "c"
@@ -114,7 +114,7 @@
     {
         "o": 4137,
         "r": "csb:Numbers:4:14",
-        "w": 23,
+        "w": 24,
         "l": {},
         "c": "Ex 27:3*2513; 38:3*2917; Nm 7:13–8:4*4255",
         "a": "o"
@@ -122,7 +122,7 @@
     {
         "o": 4137,
         "r": "csb:Numbers:4:14",
-        "w": 39,
+        "w": 40,
         "l": {},
         "t": "4:14*r Sam, LXX add They are to take a purple cloth and cover the wash basin and its base. They are to place them in a covering made of fine leather and put them on the carrying frame.",
         "a": "p"
@@ -130,7 +130,7 @@
     {
         "o": 4137,
         "r": "csb:Numbers:4:14",
-        "w": 39,
+        "w": 40,
         "l": {},
         "c": "Ex 27:7*2517",
         "a": "q"
